@@ -1,130 +1,7 @@
 {
   "Japan": {
-    "region": "Japan",
-    "time_range": [
-      "2025-12-28",
-      "2025-12-28"
-    ],
-    "top_topics": [
-      {
-        "topic": "日本首相言论干涉中国内政",
-        "stance": "negative"
-      },
-      {
-        "topic": "日本新网络安全策略",
-        "stance": "negative"
-      },
-      {
-        "topic": "日本追求核武器",
-        "stance": "negative"
-      },
-      {
-        "topic": "中日关系基础",
-        "stance": "neutral"
-      },
-      {
-        "topic": "日本试图与中国脱钩",
-        "stance": "negative"
-      },
-      {
-        "topic": "日本首相访问争议靖国神社",
-        "stance": "negative"
-      },
-      {
-        "topic": "中日联合军事演习",
-        "stance": "neutral"
-      },
-      {
-        "topic": "中国对日本施加制裁",
-        "stance": "negative"
-      },
-      {
-        "topic": "中日贸易关系",
-        "stance": "negative"
-      },
-      {
-        "topic": "中日历史矛盾",
-        "stance": "negative"
-      }
-    ],
-    "hot_words": [
-      {
-        "name": "日本",
-        "value": 95
-      },
-      {
-        "name": "中国",
-        "value": 93
-      },
-      "干涉",
-      {
-        "value": 88
-      },
-      "核武器",
-      {
-        "value": 85
-      },
-      "关系",
-      {
-        "value": 83
-      },
-      "靖国神社",
-      {
-        "value": 82
-      },
-      "台湾",
-      {
-        "value": 80
-      },
-      "网络安全",
-      {
-        "value": 78
-      },
-      "脱钩",
-      {
-        "value": 77
-      },
-      "战略",
-      {
-        "value": 75
-      },
-      "演习",
-      {
-        "value": 73
-      },
-      "制裁",
-      {
-        "value": 72
-      },
-      "贸易",
-      {
-        "value": 70
-      },
-      "历史",
-      {
-        "value": 68
-      },
-      "基础",
-      {
-        "value": 66
-      },
-      "外交",
-      {
-        "value": 64
-      },
-      "发展",
-      {
-        "value": 62
-      },
-      "政策",
-      {
-        "value": 60
-      },
-      "关系恶化",
-      {
-        "value": 58
-      }
-    ]
+    "top_topics": [],
+    "hot_words": []
   },
   "US": {
     "region": "US",
@@ -134,131 +11,1237 @@
     ],
     "top_topics": [
       {
-        "topic": "中国制裁美国企业",
-        "stance": "negative"
+        "topic": "中美贸易关系",
+        "tweets": [
+          {
+            "text": "🔴While #China remains open to #talks, any talks must be based on mutual respect and conducted on equal footing.\n🔴If the #US is bent on waging a trade war, China will #fight to the end.\n🔴Pressure, threats and blackmail are not the right way to deal with China. We hope that the https://t.co/XkWKayS2KB",
+            "stance": "negative",
+            "username": "ChineseEmbinUS",
+            "created_at": "Thu Apr 10 11:40:56 +0000 2025",
+            "metrics": {
+              "reply": 819,
+              "retweet": 971,
+              "like": 7440
+            }
+          },
+          {
+            "text": "Chinese companies are selling military tech used in drone warfare.  They are also exporting fentanyl to the US, subsidized by the CCP.  Chinese fishing fleets are decimating sea life around the world, also subsidized.  No way these are all accidents, this is government policy",
+            "stance": "neutral",
+            "username": "mrbcyber",
+            "created_at": "Thu Dec 25 01:21:43 +0000 2025",
+            "metrics": {
+              "reply": 87,
+              "retweet": 1003,
+              "like": 5226
+            }
+          },
+          {
+            "text": "NEW:\n\n🇺🇸🇨🇳 China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies - Bloomberg https://t.co/kkVkbmgAkW",
+            "stance": "negative",
+            "username": "Megatron_ron",
+            "created_at": "Wed Dec 24 20:12:13 +0000 2025",
+            "metrics": {
+              "reply": 128,
+              "retweet": 280,
+              "like": 1525
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸CHINA COMMERCE MINISTRY: CHINA RESPECTS ALL PARTIES TO RESOLVE THEIR ECONOMIC AND TRADE DIFFERENCES WITH THE UNITED STATES THROUGH CONSULTATIONS ON AN EQUAL FOOTING.\n\nFIRMLY OPPOSED TO ANY PARTY STRIKING A DEAL AT THE EXPENSE OF CHINA.\n\nIF SUCH A SITUATION ARISES, CHINA WILL https://t.co/e8uPYkDIsQ",
+            "stance": "negative",
+            "username": "Sino_Market",
+            "created_at": "Mon Apr 21 00:46:10 +0000 2025",
+            "metrics": {
+              "reply": 99,
+              "retweet": 238,
+              "like": 1141
+            }
+          },
+          {
+            "text": "Absolutely, Beijing is sending a signal to @realDonaldTrump Administration. #China's CCP government isn't interested in peaceful co-existence with the United States - it wants domination of the Indo-pacific and to force US strategic retrenchment from Asia. \n\nThe #Trump",
+            "stance": "negative",
+            "username": "Dr_M_Davis",
+            "created_at": "Mon Jan 06 00:24:22 +0000 2025",
+            "metrics": {
+              "reply": 76,
+              "retweet": 173,
+              "like": 501
+            }
+          },
+          {
+            "text": "China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies https://t.co/1TENjW614v",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Wed Dec 24 14:50:26 +0000 2025",
+            "metrics": {
+              "reply": 74,
+              "retweet": 167,
+              "like": 459
+            }
+          },
+          {
+            "text": "WATCH: iRobot, the maker of the Roomba vacuum, has filed for bankruptcy and will be taken over by its Chinese manufacturer in a deal that wipes out shareholders. The move comes after months of financial strain from fierce competition and new US tariffs https://t.co/Rsi8cg5ALN https://t.co/9CrbZ4t8pN",
+            "stance": "negative",
+            "username": "ReutersBiz",
+            "created_at": "Mon Dec 15 20:45:00 +0000 2025",
+            "metrics": {
+              "reply": 89,
+              "retweet": 145,
+              "like": 449
+            }
+          },
+          {
+            "text": "NEW: 🇺🇸 🇨🇳 China is still restricting rare earth elements the US needs despite Trump’s deal to lift the restrictions —Bloomberg https://t.co/ccegiSTnij",
+            "stance": "negative",
+            "username": "AdameMedia",
+            "created_at": "Thu Dec 25 14:08:54 +0000 2025",
+            "metrics": {
+              "reply": 57,
+              "retweet": 86,
+              "like": 570
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸Xi Jinping's speech at a dinner event in the US\n🔸Welcomes more US governors and personnel to visit China. China is ready to invite 50,000 American youths to visit China.\n🔸Once the door of China-US relations opened, that can not be shut again.\n🔸Peaceful coexistence is the",
+            "stance": "neutral",
+            "username": "Sino_Market",
+            "created_at": "Thu Nov 16 04:58:32 +0000 2023",
+            "metrics": {
+              "reply": 31,
+              "retweet": 103,
+              "like": 443
+            }
+          },
+          {
+            "text": "US signals to fix China ties but ‘credible sincerity’ needed; Washington to be ‘lone wolf’ in ‘new cold war’ against China\n https://t.co/PiGfmLtPId https://t.co/y9nrZtlarW",
+            "stance": "negative",
+            "username": "zhang_heqing",
+            "created_at": "Wed Apr 12 04:56:09 +0000 2023",
+            "metrics": {
+              "reply": 88,
+              "retweet": 94,
+              "like": 328
+            }
+          }
+        ]
       },
       {
-        "topic": "中美高层会晤",
-        "stance": "neutral"
+        "topic": "中美军事和技术竞争",
+        "tweets": [
+          {
+            "text": "Chinese companies are selling military tech used in drone warfare.  They are also exporting fentanyl to the US, subsidized by the CCP.  Chinese fishing fleets are decimating sea life around the world, also subsidized.  No way these are all accidents, this is government policy",
+            "stance": "negative",
+            "username": "mrbcyber",
+            "created_at": "Thu Dec 25 01:21:43 +0000 2025",
+            "metrics": {
+              "reply": 87,
+              "retweet": 1003,
+              "like": 5226
+            }
+          },
+          {
+            "text": "NEW:\n\n🇺🇸🇨🇳 China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies - Bloomberg https://t.co/kkVkbmgAkW",
+            "stance": "negative",
+            "username": "Megatron_ron",
+            "created_at": "Wed Dec 24 20:12:13 +0000 2025",
+            "metrics": {
+              "reply": 128,
+              "retweet": 280,
+              "like": 1525
+            }
+          },
+          {
+            "text": "Absolutely, Beijing is sending a signal to @realDonaldTrump Administration. #China's CCP government isn't interested in peaceful co-existence with the United States - it wants domination of the Indo-pacific and to force US strategic retrenchment from Asia. \n\nThe #Trump",
+            "stance": "negative",
+            "username": "Dr_M_Davis",
+            "created_at": "Mon Jan 06 00:24:22 +0000 2025",
+            "metrics": {
+              "reply": 76,
+              "retweet": 173,
+              "like": 501
+            }
+          },
+          {
+            "text": "China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies https://t.co/1TENjW614v",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Wed Dec 24 14:50:26 +0000 2025",
+            "metrics": {
+              "reply": 74,
+              "retweet": 167,
+              "like": 459
+            }
+          },
+          {
+            "text": "NEW: 🇺🇸 🇨🇳 China is still restricting rare earth elements the US needs despite Trump’s deal to lift the restrictions —Bloomberg https://t.co/ccegiSTnij",
+            "stance": "negative",
+            "username": "AdameMedia",
+            "created_at": "Thu Dec 25 14:08:54 +0000 2025",
+            "metrics": {
+              "reply": 57,
+              "retweet": 86,
+              "like": 570
+            }
+          },
+          {
+            "text": "China just did what Trump failed to do...\n\nChina may have negotiated a peace deal between Thailand and Cambodia.\n\nTrump's deal collapsed after days, and this is a huge embarrassment to the USA. https://t.co/tRPivP9Mxt",
+            "stance": "neutral",
+            "username": "AlexBarnicoat_",
+            "created_at": "Sun Dec 21 00:02:31 +0000 2025",
+            "metrics": {
+              "reply": 61,
+              "retweet": 104,
+              "like": 362
+            }
+          },
+          {
+            "text": "There is a concerted effort from the US policy makers and media to present a more conciliatory tone on China.\n\nSeveral factors is responsible for this shift.\n🔹China's rare earth ban rattled the US, we demonstrated our ability to cripple the entire global tech sector.\n\n🔹China's https://t.co/jNxCpD0KoM",
+            "stance": "negative",
+            "username": "zhao_dashuai",
+            "created_at": "Thu Dec 18 18:00:02 +0000 2025",
+            "metrics": {
+              "reply": 44,
+              "retweet": 44,
+              "like": 371
+            }
+          },
+          {
+            "text": "The U.S.-China relationship is like a customer (U.S.) paying a skilled shopkeeper (China) with shaky IOUs (Treasury bonds) for quality goods. The U.S. consumes China's products but repays with tariffs, trade wars, and threats, exploiting the dollar’s dominance. This risks https://t.co/xh7TEELbAT",
+            "stance": "negative",
+            "username": "angeloinchina",
+            "created_at": "Thu Apr 24 16:12:22 +0000 2025",
+            "metrics": {
+              "reply": 10,
+              "retweet": 54,
+              "like": 305
+            }
+          },
+          {
+            "text": "🇨🇳 🇫🇲 🇺🇸 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/LPVqhFhXcM",
+            "stance": "negative",
+            "username": "visionergeo",
+            "created_at": "Tue Dec 23 18:38:15 +0000 2025",
+            "metrics": {
+              "reply": 15,
+              "retweet": 49,
+              "like": 181
+            }
+          },
+          {
+            "text": "China’s exports of rare-earth magnets to the US fell 11% in November from a month earlier, with no immediate rebound seen after a trade truce between the world’s two biggest economies https://t.co/RuWMyYcFqh",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Sat Dec 20 03:56:29 +0000 2025",
+            "metrics": {
+              "reply": 21,
+              "retweet": 45,
+              "like": 143
+            }
+          }
+        ]
       },
       {
-        "topic": "美国限制中国发展",
-        "stance": "negative"
+        "topic": "中美地缘政治竞争",
+        "tweets": [
+          {
+            "text": "Bad news for US &amp; it's new Mistress Pakistan!\n\nChina welcomes Putin-Modi Ji meeting. Calls Bharat, Russia &amp; China KEY members of Global South.\n\nBeijing says it is Ready to Work with both nations to further strengthen bilateral relations.\n\nRIC is worst nightmare for Trump. https://t.co/BnKpg6Sprn",
+            "stance": "negative",
+            "username": "MumbaichaDon",
+            "created_at": "Fri Dec 12 11:20:22 +0000 2025",
+            "metrics": {
+              "reply": 115,
+              "retweet": 785,
+              "like": 6960
+            }
+          },
+          {
+            "text": "🚨 BIG BREAKING \n\nChina today accused US of DISTORTING its DEFENCE POLICY to DELIBERATELY HINDER IMPROVING TIES between China and India. https://t.co/8MVbGFiXc9",
+            "stance": "negative",
+            "username": "MeghUpdates",
+            "created_at": "Thu Dec 25 15:25:00 +0000 2025",
+            "metrics": {
+              "reply": 56,
+              "retweet": 409,
+              "like": 3584
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸Both sides agreed that, under the strategic guidance of the two heads of state, they will:\n✅make full use of the #China-#US economic and trade consultation mechanism\n✅maintain close communication on respective concerns in the economic and trade fields\n✅promote the healthy, https://t.co/wrYkxZ9t8u",
+            "stance": "neutral",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Oct 26 12:36:03 +0000 2025",
+            "metrics": {
+              "reply": 167,
+              "retweet": 447,
+              "like": 2779
+            }
+          },
+          {
+            "text": "🚨🚨🚨 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/8VA9MoeEfj",
+            "stance": "negative",
+            "username": "Byron_Wan",
+            "created_at": "Tue Dec 23 01:55:23 +0000 2025",
+            "metrics": {
+              "reply": 39,
+              "retweet": 402,
+              "like": 892
+            }
+          },
+          {
+            "text": "This is another example of US #CoerciveDiplomacy — the US established diplomatic ties with China 44 years ago on the basis of the one-China principle, but now it’s forcing other countries not to do what it did over four decades ago. This is outright bullying. Might is NOT right. https://t.co/NqRcJ6fV1G",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Sun Mar 19 15:19:32 +0000 2023",
+            "metrics": {
+              "reply": 164,
+              "retweet": 161,
+              "like": 640
+            }
+          },
+          {
+            "text": "▶FM Wang Yi summed up China-US relations in 2023: China and the United States managed to rebuild communication and dialogue as a result of painstaking efforts, and stabilized bilateral relations from further deterioration. https://t.co/T6LK9M42xv",
+            "stance": "neutral",
+            "username": "SpokespersonCHN",
+            "created_at": "Tue Jan 09 14:00:55 +0000 2024",
+            "metrics": {
+              "reply": 100,
+              "retweet": 145,
+              "like": 553
+            }
+          },
+          {
+            "text": "The best and worst moments of China US relations.👇\nThe US simply wants to limit China's development so that the Chinese will always manufacture shoes, clothes and toys for Americans.\nBut no. https://t.co/FsBvZA5H18",
+            "stance": "negative",
+            "username": "thinking_panda",
+            "created_at": "Sat Jan 04 11:53:14 +0000 2025",
+            "metrics": {
+              "reply": 40,
+              "retweet": 105,
+              "like": 694
+            }
+          },
+          {
+            "text": "The US backs down.\n\nAs China's power grow in all sectors and fields, the US is coming to the realization that they must live with China as the global superpower.\n\nAfter 7 years of trade war, China's export have reached a historic high of $1 trillion dollars. People often talk https://t.co/lazbwo5W9w",
+            "stance": "neutral",
+            "username": "zhao_dashuai",
+            "created_at": "Mon Dec 15 16:00:01 +0000 2025",
+            "metrics": {
+              "reply": 53,
+              "retweet": 99,
+              "like": 466
+            }
+          },
+          {
+            "text": "🚨 BREAKING\n\n🇺🇸🇨🇳 THE US WILL IMPOSE TARIFFS ON SEMICONDUCTOR IMPORTS FROM CHINA.\n\nTHE US COMMERCE DEPARTMENT CONFIRMS THE TARIFFS WILL TAKE EFFECT IN JUNE 2027.\n\nTRADE WAR PRESSURE IS BACK. https://t.co/hcjmG7QScX",
+            "stance": "negative",
+            "username": "DefiWimar",
+            "created_at": "Tue Dec 23 14:22:59 +0000 2025",
+            "metrics": {
+              "reply": 78,
+              "retweet": 82,
+              "like": 347
+            }
+          },
+          {
+            "text": "Reports from Israeli intelligence show Qatar promulgating antisemitic propaganda and targeting diplomatic relations between the US and Israel with the help of larger foreign governments, likely Russia, China, and Turkey.",
+            "stance": "negative",
+            "username": "MarinaMedvin",
+            "created_at": "Sat Dec 13 22:04:05 +0000 2025",
+            "metrics": {
+              "reply": 37,
+              "retweet": 85,
+              "like": 376
+            }
+          }
+        ]
       },
       {
-        "topic": "中国威胁使用核武器",
-        "stance": "negative"
+        "topic": "中美外交关系",
+        "tweets": [
+          {
+            "text": "🇨🇳🇺🇸Both sides agreed that, under the strategic guidance of the two heads of state, they will:\n✅make full use of the #China-#US economic and trade consultation mechanism\n✅maintain close communication on respective concerns in the economic and trade fields\n✅promote the healthy, https://t.co/wrYkxZ9t8u",
+            "stance": "neutral",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Oct 26 12:36:03 +0000 2025",
+            "metrics": {
+              "reply": 167,
+              "retweet": 447,
+              "like": 2779
+            }
+          },
+          {
+            "text": "President Xi Jinping met with US Secretary of State Antony Blinken @SecBlinken.\n\nOver the past 45 years, the China-US relationship has gone through winds and rains, and it has a number of important inspirations to offer: China and the US should be partners rather than rivals; https://t.co/PRDCpBpf16",
+            "stance": "neutral",
+            "username": "SpokespersonCHN",
+            "created_at": "Fri Apr 26 08:31:15 +0000 2024",
+            "metrics": {
+              "reply": 143,
+              "retweet": 210,
+              "like": 984
+            }
+          },
+          {
+            "text": "▶FM Wang Yi summed up China-US relations in 2023: China and the United States managed to rebuild communication and dialogue as a result of painstaking efforts, and stabilized bilateral relations from further deterioration. https://t.co/T6LK9M42xv",
+            "stance": "neutral",
+            "username": "SpokespersonCHN",
+            "created_at": "Tue Jan 09 14:00:55 +0000 2024",
+            "metrics": {
+              "reply": 100,
+              "retweet": 145,
+              "like": 553
+            }
+          },
+          {
+            "text": "China's Commerce Ministry Spokesperson: #China firmly opposes any country making trade deals with the #US at the expense of Chinese interests in exchange for so-called \"#tariff relief.\" If such a situation arises, China will not accept it and will take resolute countermeasures to https://t.co/AbMMjbpZLG",
+            "stance": "neutral",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Jun 29 00:48:42 +0000 2025",
+            "metrics": {
+              "reply": 70,
+              "retweet": 118,
+              "like": 602
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸Xi Jinping's speech at a dinner event in the US\n🔸Welcomes more US governors and personnel to visit China. China is ready to invite 50,000 American youths to visit China.\n🔸Once the door of China-US relations opened, that can not be shut again.\n🔸Peaceful coexistence is the",
+            "stance": "neutral",
+            "username": "Sino_Market",
+            "created_at": "Thu Nov 16 04:58:32 +0000 2023",
+            "metrics": {
+              "reply": 31,
+              "retweet": 103,
+              "like": 443
+            }
+          },
+          {
+            "text": "UPDATE, CHINA SAYS THE FOLLOWING—\n\nChinese vice-premier: Talks with US side candid, in-depth and constructive. \n\nChina, US agree to establish economic, trade consultation mechanism, conduct further consultations on issues of mutual concern, . https://t.co/laSJz9fCrM",
+            "stance": "neutral",
+            "username": "meiselasb",
+            "created_at": "Sun May 11 19:47:40 +0000 2025",
+            "metrics": {
+              "reply": 55,
+              "retweet": 104,
+              "like": 387
+            }
+          },
+          {
+            "text": "This former US ambassador to China actually thinks the PLA uses Nvidia chips.🤣\n\nNo wonder China-US relations suffered a total collapse during the Biden era, with Biden becoming the first US president since Reagan to not have visited China while in office. https://t.co/iB3JGVQoa3",
+            "stance": "negative",
+            "username": "zhao_dashuai",
+            "created_at": "Wed Dec 10 18:00:00 +0000 2025",
+            "metrics": {
+              "reply": 17,
+              "retweet": 52,
+              "like": 463
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸Vice Premier #HeLifeng noted that maintaining the stable development of #China-#US trade relations serves the shared interests of both countries and peoples, and meets the expectations of the international community.\n\n🔴Regarding economic and trade differences and frictions, https://t.co/6XQ7wryrzr",
+            "stance": "neutral",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Oct 26 12:34:07 +0000 2025",
+            "metrics": {
+              "reply": 32,
+              "retweet": 60,
+              "like": 366
+            }
+          },
+          {
+            "text": "🚨🇨🇳🇺🇸 BREAKING: China says they \"strongly urge\" the US to \"abandon zero-sum mindset and ideological bias,\" and refrain from implementing the negative China-related provisions in its defense policy bill.\n\nThe spokesperson criticized the Act for continuing the  tune of \"containing https://t.co/8qwyO4ribJ",
+            "stance": "negative",
+            "username": "RTSG_News",
+            "created_at": "Fri Dec 26 22:06:00 +0000 2025",
+            "metrics": {
+              "reply": 16,
+              "retweet": 70,
+              "like": 254
+            }
+          },
+          {
+            "text": "China's policy toward the US will remain consistent, and it will continue to handle China-US relations based on the principles of mutual respect, peaceful coexistence, and win-win cooperation, Chinese Foreign Ministry spokesperson Mao Ning said on Wednesday in commenting on the https://t.co/TtdZBEAl2G",
+            "stance": "neutral",
+            "username": "globaltimesnews",
+            "created_at": "Wed Nov 06 07:41:06 +0000 2024",
+            "metrics": {
+              "reply": 16,
+              "retweet": 55,
+              "like": 220
+            }
+          }
+        ]
       },
       {
-        "topic": "中美经贸关系",
-        "stance": "neutral"
+        "topic": "中美军事合作与冲突",
+        "tweets": [
+          {
+            "text": "🚨🇨🇳 BREAKING: CHINA JUST CRUSHED US TRADE WAR\n\nToday on Legitimate Targets, Jackson Hinkle interviews Dr. Warwick Powell (@baoshaoshan) about China's $1 TRILLION trade surplus amid a TRADE WAR &amp; the future of Chinese advances in fusion, blockchain &amp; semiconductor technologies. https://t.co/bKyAStw2nf",
+            "stance": "positive",
+            "username": "LegitTargets",
+            "created_at": "Mon Dec 22 20:00:00 +0000 2025",
+            "metrics": {
+              "reply": 28,
+              "retweet": 200,
+              "like": 880
+            }
+          },
+          {
+            "text": "🚨🇨🇳 BREAKING: CHINA JUST CRUSHED US TRADE WAR\n\n✅ Interview CHINA EXPERT Dr. Warwick Powell (@baoshaoshan)",
+            "stance": "positive",
+            "username": "jacksonhinklle",
+            "created_at": "Mon Dec 22 20:02:32 +0000 2025",
+            "metrics": {
+              "reply": 70,
+              "retweet": 181,
+              "like": 786
+            }
+          },
+          {
+            "text": "BREAKING:\n\nThe US officially imposes tariffs on Chinese chips, starting again trade war with China. https://t.co/nOQp8PQMMD",
+            "stance": "negative",
+            "username": "World_Affairs11",
+            "created_at": "Wed Dec 24 13:02:06 +0000 2025",
+            "metrics": {
+              "reply": 79,
+              "retweet": 127,
+              "like": 645
+            }
+          },
+          {
+            "text": "Many people are asking me what is actually true regarding the state of US–China relations, because the streams of information seem so polarised.\n\nLet me be as clear and concise as I can about this.\n\nI don’t think China harbours any secret intentions of ‘destroying’ America. But",
+            "stance": "neutral",
+            "username": "haugejostein",
+            "created_at": "Mon Oct 27 16:40:09 +0000 2025",
+            "metrics": {
+              "reply": 79,
+              "retweet": 90,
+              "like": 589
+            }
+          },
+          {
+            "text": "The US backs down.\n\nAs China's power grow in all sectors and fields, the US is coming to the realization that they must live with China as the global superpower.\n\nAfter 7 years of trade war, China's export have reached a historic high of $1 trillion dollars. People often talk https://t.co/lazbwo5W9w",
+            "stance": "neutral",
+            "username": "zhao_dashuai",
+            "created_at": "Mon Dec 15 16:00:01 +0000 2025",
+            "metrics": {
+              "reply": 53,
+              "retweet": 99,
+              "like": 466
+            }
+          },
+          {
+            "text": "🚨 BREAKING\n\n🇺🇸🇨🇳 THE US WILL IMPOSE TARIFFS ON SEMICONDUCTOR IMPORTS FROM CHINA.\n\nTHE US COMMERCE DEPARTMENT CONFIRMS THE TARIFFS WILL TAKE EFFECT IN JUNE 2027.\n\nTRADE WAR PRESSURE IS BACK. https://t.co/hcjmG7QScX",
+            "stance": "negative",
+            "username": "DefiWimar",
+            "created_at": "Tue Dec 23 14:22:59 +0000 2025",
+            "metrics": {
+              "reply": 78,
+              "retweet": 82,
+              "like": 347
+            }
+          },
+          {
+            "text": "There is a concerted effort from the US policy makers and media to present a more conciliatory tone on China.\n\nSeveral factors is responsible for this shift.\n🔹China's rare earth ban rattled the US, we demonstrated our ability to cripple the entire global tech sector.\n\n🔹China's https://t.co/jNxCpD0KoM",
+            "stance": "negative",
+            "username": "zhao_dashuai",
+            "created_at": "Thu Dec 18 18:00:02 +0000 2025",
+            "metrics": {
+              "reply": 44,
+              "retweet": 44,
+              "like": 371
+            }
+          },
+          {
+            "text": "🚨🇨🇳🇺🇸 BREAKING: China says they \"strongly urge\" the US to \"abandon zero-sum mindset and ideological bias,\" and refrain from implementing the negative China-related provisions in its defense policy bill.\n\nThe spokesperson criticized the Act for continuing the  tune of \"containing https://t.co/8qwyO4ribJ",
+            "stance": "negative",
+            "username": "RTSG_News",
+            "created_at": "Fri Dec 26 22:06:00 +0000 2025",
+            "metrics": {
+              "reply": 16,
+              "retweet": 70,
+              "like": 254
+            }
+          },
+          {
+            "text": "🇨🇳 🇫🇲 🇺🇸 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/LPVqhFhXcM",
+            "stance": "negative",
+            "username": "visionergeo",
+            "created_at": "Tue Dec 23 18:38:15 +0000 2025",
+            "metrics": {
+              "reply": 15,
+              "retweet": 49,
+              "like": 181
+            }
+          },
+          {
+            "text": "China’s exports of rare-earth magnets to the US fell 11% in November from a month earlier, with no immediate rebound seen after a trade truce between the world’s two biggest economies https://t.co/RuWMyYcFqh",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Sat Dec 20 03:56:29 +0000 2025",
+            "metrics": {
+              "reply": 21,
+              "retweet": 45,
+              "like": 143
+            }
+          }
+        ]
       },
       {
-        "topic": "美国支持台湾",
-        "stance": "negative"
+        "topic": "中国在国际事务中的角色",
+        "tweets": [
+          {
+            "text": "Bad news for US &amp; it's new Mistress Pakistan!\n\nChina welcomes Putin-Modi Ji meeting. Calls Bharat, Russia &amp; China KEY members of Global South.\n\nBeijing says it is Ready to Work with both nations to further strengthen bilateral relations.\n\nRIC is worst nightmare for Trump. https://t.co/BnKpg6Sprn",
+            "stance": "negative",
+            "username": "MumbaichaDon",
+            "created_at": "Fri Dec 12 11:20:22 +0000 2025",
+            "metrics": {
+              "reply": 115,
+              "retweet": 785,
+              "like": 6960
+            }
+          },
+          {
+            "text": "Jaishankar sums up today’s diplomacy: “US is harder to deal with, everyone knows why😂\n~ China is complex. Russia needs reassurance amid Ukraine pressure. Europe needs more effort”\n\nBharat still maintains a great stature 👏\n\nhttps://t.co/2drwEHfzjM",
+            "stance": "neutral",
+            "username": "Indian_Analyzer",
+            "created_at": "Sat Dec 20 11:30:34 +0000 2025",
+            "metrics": {
+              "reply": 15,
+              "retweet": 315,
+              "like": 2644
+            }
+          },
+          {
+            "text": "Now it's official: European disunity makes Europe less competitive.\n\nWhen major powers like China and the US are proactive and decisive about trade policy, European openness is easily exploited.\n\nA recent FT article makes that clear: Europe's economy is not weak! \n\nOur relatively https://t.co/YPvR1eFPbR",
+            "stance": "negative",
+            "username": "AveEuropae",
+            "created_at": "Tue Dec 16 08:59:53 +0000 2025",
+            "metrics": {
+              "reply": 167,
+              "retweet": 183,
+              "like": 1172
+            }
+          },
+          {
+            "text": "This is another example of US #CoerciveDiplomacy — the US established diplomatic ties with China 44 years ago on the basis of the one-China principle, but now it’s forcing other countries not to do what it did over four decades ago. This is outright bullying. Might is NOT right. https://t.co/NqRcJ6fV1G",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Sun Mar 19 15:19:32 +0000 2023",
+            "metrics": {
+              "reply": 164,
+              "retweet": 161,
+              "like": 640
+            }
+          },
+          {
+            "text": "The best and worst moments of China US relations.👇\nThe US simply wants to limit China's development so that the Chinese will always manufacture shoes, clothes and toys for Americans.\nBut no. https://t.co/FsBvZA5H18",
+            "stance": "negative",
+            "username": "thinking_panda",
+            "created_at": "Sat Jan 04 11:53:14 +0000 2025",
+            "metrics": {
+              "reply": 40,
+              "retweet": 105,
+              "like": 694
+            }
+          },
+          {
+            "text": "2026 will be a pivotal year for China\n\nThe next generation of leaders, especially those born in the 1970s, will start filling provincial-level posts\n\nOf the front runners, 43.1% have doctorates\n\nFascinating report by ⁦@AsiaPolicy⁩  https://t.co/TMbY3dWGRq",
+            "stance": "neutral",
+            "username": "kenmoriyasu",
+            "created_at": "Tue Dec 16 20:30:08 +0000 2025",
+            "metrics": {
+              "reply": 14,
+              "retweet": 108,
+              "like": 459
+            }
+          },
+          {
+            "text": "India and China are vying for control of strategic islands and chokepoints in the Indian Ocean. With shifting US policy, the battle for influence is intensifying, shaping regional and global power. (from the archive) https://t.co/YsZWhxKGt6",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Thu Dec 25 06:00:20 +0000 2025",
+            "metrics": {
+              "reply": 35,
+              "retweet": 91,
+              "like": 449
+            }
+          },
+          {
+            "text": "China is still limiting exports of rare earth elements needed by the US to make permanent magnets and other products, despite a deal between Trump and Xi Jinping to ease those restrictions. https://t.co/JDG0aP7HMw",
+            "stance": "negative",
+            "username": "Currentreport1",
+            "created_at": "Thu Dec 25 04:08:38 +0000 2025",
+            "metrics": {
+              "reply": 43,
+              "retweet": 67,
+              "like": 445
+            }
+          },
+          {
+            "text": "Qin pointed out that the China-U.S. relationship is at the lowest point since its establishment. This does not serve the fundamental interests of the two peoples or meet the shared expectations of the international community.",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Sun Jun 18 15:56:31 +0000 2023",
+            "metrics": {
+              "reply": 27,
+              "retweet": 73,
+              "like": 417
+            }
+          },
+          {
+            "text": "The US perception and views of China are seriously distorted. It regards China as its primary rival and the biggest geopolitical challenge. And the result is that the US China policy has entirely deviated from the rational and sound track. https://t.co/gMMMXLlVXt",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Tue Mar 07 03:52:26 +0000 2023",
+            "metrics": {
+              "reply": 42,
+              "retweet": 98,
+              "like": 232
+            }
+          }
+        ]
       },
       {
-        "topic": "中国与印度关系",
-        "stance": "negative"
+        "topic": "美国对华政策",
+        "tweets": [
+          {
+            "text": "🇨🇳🇺🇸 China says it hopes for a \"peaceful coexistence\" with the United States. \n\"We respect the choice of the American people.\"\n\nWatch a tone change immediately knowing Trump doesn't play. https://t.co/xebtjtw3ox",
+            "stance": "neutral",
+            "username": "TaraBull",
+            "created_at": "Thu Nov 07 03:20:01 +0000 2024",
+            "metrics": {
+              "reply": 148,
+              "retweet": 1052,
+              "like": 5695
+            }
+          },
+          {
+            "text": "🚨 BIG BREAKING \n\nChina today accused US of DISTORTING its DEFENCE POLICY to DELIBERATELY HINDER IMPROVING TIES between China and India. https://t.co/8MVbGFiXc9",
+            "stance": "negative",
+            "username": "MeghUpdates",
+            "created_at": "Thu Dec 25 15:25:00 +0000 2025",
+            "metrics": {
+              "reply": 56,
+              "retweet": 409,
+              "like": 3584
+            }
+          },
+          {
+            "text": "#Editorial: For China and the US, dialogue is better than confrontation, cooperation is better than decoupling, and stability is better than volatility. Regardless of changes in US domestic politics, this should be a shared consensus between both sides and a responsibility of https://t.co/7X5uEhVlXx",
+            "stance": "neutral",
+            "username": "globaltimesnews",
+            "created_at": "Thu Nov 07 18:35:00 +0000 2024",
+            "metrics": {
+              "reply": 258,
+              "retweet": 579,
+              "like": 779
+            }
+          },
+          {
+            "text": "Two Philosophies of International Relations\n\nChina approaches the world with the idea that everyone wants to become prosperous and we can work together to do that.\n\nThe USA approaches the world with the idea that everyone wants to rule the world and it must be the US or it will https://t.co/sfsBLxebN9",
+            "stance": "neutral",
+            "username": "ShangguanJiewen",
+            "created_at": "Thu Dec 05 03:11:56 +0000 2024",
+            "metrics": {
+              "reply": 22,
+              "retweet": 212,
+              "like": 632
+            }
+          },
+          {
+            "text": "Many people are asking me what is actually true regarding the state of US–China relations, because the streams of information seem so polarised.\n\nLet me be as clear and concise as I can about this.\n\nI don’t think China harbours any secret intentions of ‘destroying’ America. But",
+            "stance": "neutral",
+            "username": "haugejostein",
+            "created_at": "Mon Oct 27 16:40:09 +0000 2025",
+            "metrics": {
+              "reply": 79,
+              "retweet": 90,
+              "like": 589
+            }
+          },
+          {
+            "text": "US signals to fix China ties but ‘credible sincerity’ needed; Washington to be ‘lone wolf’ in ‘new cold war’ against China\n https://t.co/PiGfmLtPId https://t.co/y9nrZtlarW",
+            "stance": "negative",
+            "username": "zhang_heqing",
+            "created_at": "Wed Apr 12 04:56:09 +0000 2023",
+            "metrics": {
+              "reply": 88,
+              "retweet": 94,
+              "like": 328
+            }
+          },
+          {
+            "text": "The US perception and views of China are seriously distorted. It regards China as its primary rival and the biggest geopolitical challenge. And the result is that the US China policy has entirely deviated from the rational and sound track. https://t.co/gMMMXLlVXt",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Tue Mar 07 03:52:26 +0000 2023",
+            "metrics": {
+              "reply": 42,
+              "retweet": 98,
+              "like": 232
+            }
+          },
+          {
+            "text": "🇨🇳MFA on 🇷🇺Putin’s 🇮🇳India visit:\n\n“China, Russia &amp; India are major emerging economies &amp; key Global South members. Good relations among us benefit our peoples and world peace. China is ready to work with Russia &amp; India to advance ties\" https://t.co/RFK2ItprYs",
+            "stance": "neutral",
+            "username": "YakushinaLisa",
+            "created_at": "Mon Dec 08 09:40:56 +0000 2025",
+            "metrics": {
+              "reply": 10,
+              "retweet": 61,
+              "like": 438
+            }
+          },
+          {
+            "text": "Donald Trump’s trade war against China🇨🇳 backfires spectacularly:\n\nChina's overall goods trade surplus surged +21% year on year, to a record $1.1 trillion in the first 11 months of 2025…a rapid expansion of exports. \n\nThe US🇺🇸 unleashed economic warfare on China, and China https://t.co/UuAQ29wkTH",
+            "stance": "negative",
+            "username": "afshinrattansi",
+            "created_at": "Tue Dec 16 09:47:27 +0000 2025",
+            "metrics": {
+              "reply": 7,
+              "retweet": 110,
+              "like": 196
+            }
+          },
+          {
+            "text": "- 19.4% YoY in Nov to $38.1 bn, wiping out Oct’s dip\n-Imports fell 1.9%, narrowing trade deficit to $24.5 bn\n-Gold, oil &amp; coal imports down. Engineering , pharma, gems shine\n-Exports to China jump 90%, US holds steady despite tariffs\n\nA blip? Or Diversification + policy support https://t.co/XV4q8pyOnu",
+            "stance": "neutral",
+            "username": "prasannavishy",
+            "created_at": "Tue Dec 16 00:26:05 +0000 2025",
+            "metrics": {
+              "reply": 12,
+              "retweet": 72,
+              "like": 295
+            }
+          }
+        ]
       },
       {
-        "topic": "美国在亚洲的盟友",
-        "stance": "negative"
+        "topic": "中美经济关系",
+        "tweets": [
+          {
+            "text": "🔴While #China remains open to #talks, any talks must be based on mutual respect and conducted on equal footing.\n🔴If the #US is bent on waging a trade war, China will #fight to the end.\n🔴Pressure, threats and blackmail are not the right way to deal with China. We hope that the https://t.co/XkWKayS2KB",
+            "stance": "negative",
+            "username": "ChineseEmbinUS",
+            "created_at": "Thu Apr 10 11:40:56 +0000 2025",
+            "metrics": {
+              "reply": 819,
+              "retweet": 971,
+              "like": 7440
+            }
+          },
+          {
+            "text": "Chinese companies are selling military tech used in drone warfare.  They are also exporting fentanyl to the US, subsidized by the CCP.  Chinese fishing fleets are decimating sea life around the world, also subsidized.  No way these are all accidents, this is government policy",
+            "stance": "neutral",
+            "username": "mrbcyber",
+            "created_at": "Thu Dec 25 01:21:43 +0000 2025",
+            "metrics": {
+              "reply": 87,
+              "retweet": 1003,
+              "like": 5226
+            }
+          },
+          {
+            "text": "NEW:\n\n🇺🇸🇨🇳 China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies - Bloomberg https://t.co/kkVkbmgAkW",
+            "stance": "negative",
+            "username": "Megatron_ron",
+            "created_at": "Wed Dec 24 20:12:13 +0000 2025",
+            "metrics": {
+              "reply": 128,
+              "retweet": 280,
+              "like": 1525
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸CHINA COMMERCE MINISTRY: CHINA RESPECTS ALL PARTIES TO RESOLVE THEIR ECONOMIC AND TRADE DIFFERENCES WITH THE UNITED STATES THROUGH CONSULTATIONS ON AN EQUAL FOOTING.\n\nFIRMLY OPPOSED TO ANY PARTY STRIKING A DEAL AT THE EXPENSE OF CHINA.\n\nIF SUCH A SITUATION ARISES, CHINA WILL https://t.co/e8uPYkDIsQ",
+            "stance": "negative",
+            "username": "Sino_Market",
+            "created_at": "Mon Apr 21 00:46:10 +0000 2025",
+            "metrics": {
+              "reply": 99,
+              "retweet": 238,
+              "like": 1141
+            }
+          },
+          {
+            "text": "Absolutely, Beijing is sending a signal to @realDonaldTrump Administration. #China's CCP government isn't interested in peaceful co-existence with the United States - it wants domination of the Indo-pacific and to force US strategic retrenchment from Asia. \n\nThe #Trump",
+            "stance": "negative",
+            "username": "Dr_M_Davis",
+            "created_at": "Mon Jan 06 00:24:22 +0000 2025",
+            "metrics": {
+              "reply": 76,
+              "retweet": 173,
+              "like": 501
+            }
+          },
+          {
+            "text": "China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies https://t.co/1TENjW614v",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Wed Dec 24 14:50:26 +0000 2025",
+            "metrics": {
+              "reply": 74,
+              "retweet": 167,
+              "like": 459
+            }
+          },
+          {
+            "text": "WATCH: iRobot, the maker of the Roomba vacuum, has filed for bankruptcy and will be taken over by its Chinese manufacturer in a deal that wipes out shareholders. The move comes after months of financial strain from fierce competition and new US tariffs https://t.co/Rsi8cg5ALN https://t.co/9CrbZ4t8pN",
+            "stance": "negative",
+            "username": "ReutersBiz",
+            "created_at": "Mon Dec 15 20:45:00 +0000 2025",
+            "metrics": {
+              "reply": 89,
+              "retweet": 145,
+              "like": 449
+            }
+          },
+          {
+            "text": "NEW: 🇺🇸 🇨🇳 China is still restricting rare earth elements the US needs despite Trump’s deal to lift the restrictions —Bloomberg https://t.co/ccegiSTnij",
+            "stance": "negative",
+            "username": "AdameMedia",
+            "created_at": "Thu Dec 25 14:08:54 +0000 2025",
+            "metrics": {
+              "reply": 57,
+              "retweet": 86,
+              "like": 570
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸Xi Jinping's speech at a dinner event in the US\n🔸Welcomes more US governors and personnel to visit China. China is ready to invite 50,000 American youths to visit China.\n🔸Once the door of China-US relations opened, that can not be shut again.\n🔸Peaceful coexistence is the",
+            "stance": "neutral",
+            "username": "Sino_Market",
+            "created_at": "Thu Nov 16 04:58:32 +0000 2023",
+            "metrics": {
+              "reply": 31,
+              "retweet": 103,
+              "like": 443
+            }
+          },
+          {
+            "text": "US signals to fix China ties but ‘credible sincerity’ needed; Washington to be ‘lone wolf’ in ‘new cold war’ against China\n https://t.co/PiGfmLtPId https://t.co/y9nrZtlarW",
+            "stance": "negative",
+            "username": "zhang_heqing",
+            "created_at": "Wed Apr 12 04:56:09 +0000 2023",
+            "metrics": {
+              "reply": 88,
+              "retweet": 94,
+              "like": 328
+            }
+          }
+        ]
       },
       {
-        "topic": "中国与欧洲关系",
-        "stance": "neutral"
+        "topic": "中美军事冲突",
+        "tweets": [
+          {
+            "text": "🚨🚨🚨 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/8VA9MoeEfj",
+            "stance": "negative",
+            "username": "Byron_Wan",
+            "created_at": "Tue Dec 23 01:55:23 +0000 2025",
+            "metrics": {
+              "reply": 39,
+              "retweet": 402,
+              "like": 892
+            }
+          },
+          {
+            "text": "This is another example of US #CoerciveDiplomacy — the US established diplomatic ties with China 44 years ago on the basis of the one-China principle, but now it’s forcing other countries not to do what it did over four decades ago. This is outright bullying. Might is NOT right. https://t.co/NqRcJ6fV1G",
+            "stance": "negative",
+            "username": "SpokespersonCHN",
+            "created_at": "Sun Mar 19 15:19:32 +0000 2023",
+            "metrics": {
+              "reply": 164,
+              "retweet": 161,
+              "like": 640
+            }
+          },
+          {
+            "text": "▶FM Wang Yi summed up China-US relations in 2023: China and the United States managed to rebuild communication and dialogue as a result of painstaking efforts, and stabilized bilateral relations from further deterioration. https://t.co/T6LK9M42xv",
+            "stance": "neutral",
+            "username": "SpokespersonCHN",
+            "created_at": "Tue Jan 09 14:00:55 +0000 2024",
+            "metrics": {
+              "reply": 100,
+              "retweet": 145,
+              "like": 553
+            }
+          },
+          {
+            "text": "The best and worst moments of China US relations.👇\nThe US simply wants to limit China's development so that the Chinese will always manufacture shoes, clothes and toys for Americans.\nBut no. https://t.co/FsBvZA5H18",
+            "stance": "negative",
+            "username": "thinking_panda",
+            "created_at": "Sat Jan 04 11:53:14 +0000 2025",
+            "metrics": {
+              "reply": 40,
+              "retweet": 105,
+              "like": 694
+            }
+          },
+          {
+            "text": "The US backs down.\n\nAs China's power grow in all sectors and fields, the US is coming to the realization that they must live with China as the global superpower.\n\nAfter 7 years of trade war, China's export have reached a historic high of $1 trillion dollars. People often talk https://t.co/lazbwo5W9w",
+            "stance": "neutral",
+            "username": "zhao_dashuai",
+            "created_at": "Mon Dec 15 16:00:01 +0000 2025",
+            "metrics": {
+              "reply": 53,
+              "retweet": 99,
+              "like": 466
+            }
+          },
+          {
+            "text": "🚨 BREAKING\n\n🇺🇸🇨🇳 THE US WILL IMPOSE TARIFFS ON SEMICONDUCTOR IMPORTS FROM CHINA.\n\nTHE US COMMERCE DEPARTMENT CONFIRMS THE TARIFFS WILL TAKE EFFECT IN JUNE 2027.\n\nTRADE WAR PRESSURE IS BACK. https://t.co/hcjmG7QScX",
+            "stance": "negative",
+            "username": "DefiWimar",
+            "created_at": "Tue Dec 23 14:22:59 +0000 2025",
+            "metrics": {
+              "reply": 78,
+              "retweet": 82,
+              "like": 347
+            }
+          },
+          {
+            "text": "There is a concerted effort from the US policy makers and media to present a more conciliatory tone on China.\n\nSeveral factors is responsible for this shift.\n🔹China's rare earth ban rattled the US, we demonstrated our ability to cripple the entire global tech sector.\n\n🔹China's https://t.co/jNxCpD0KoM",
+            "stance": "negative",
+            "username": "zhao_dashuai",
+            "created_at": "Thu Dec 18 18:00:02 +0000 2025",
+            "metrics": {
+              "reply": 44,
+              "retweet": 44,
+              "like": 371
+            }
+          },
+          {
+            "text": "🚨🇨🇳🇺🇸 BREAKING: China says they \"strongly urge\" the US to \"abandon zero-sum mindset and ideological bias,\" and refrain from implementing the negative China-related provisions in its defense policy bill.\n\nThe spokesperson criticized the Act for continuing the  tune of \"containing https://t.co/8qwyO4ribJ",
+            "stance": "negative",
+            "username": "RTSG_News",
+            "created_at": "Fri Dec 26 22:06:00 +0000 2025",
+            "metrics": {
+              "reply": 16,
+              "retweet": 70,
+              "like": 254
+            }
+          },
+          {
+            "text": "🇨🇳 🇫🇲 🇺🇸 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/LPVqhFhXcM",
+            "stance": "negative",
+            "username": "visionergeo",
+            "created_at": "Tue Dec 23 18:38:15 +0000 2025",
+            "metrics": {
+              "reply": 15,
+              "retweet": 49,
+              "like": 181
+            }
+          },
+          {
+            "text": "China’s exports of rare-earth magnets to the US fell 11% in November from a month earlier, with no immediate rebound seen after a trade truce between the world’s two biggest economies https://t.co/RuWMyYcFqh",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Sat Dec 20 03:56:29 +0000 2025",
+            "metrics": {
+              "reply": 21,
+              "retweet": 45,
+              "like": 143
+            }
+          }
+        ]
       },
       {
-        "topic": "中国与俄罗斯关系",
-        "stance": "positive"
+        "topic": "中美科技竞争",
+        "tweets": [
+          {
+            "text": "Chinese companies are selling military tech used in drone warfare.  They are also exporting fentanyl to the US, subsidized by the CCP.  Chinese fishing fleets are decimating sea life around the world, also subsidized.  No way these are all accidents, this is government policy",
+            "stance": "neutral",
+            "username": "mrbcyber",
+            "created_at": "Thu Dec 25 01:21:43 +0000 2025",
+            "metrics": {
+              "reply": 87,
+              "retweet": 1003,
+              "like": 5226
+            }
+          },
+          {
+            "text": "NEW:\n\n🇺🇸🇨🇳 China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies - Bloomberg https://t.co/kkVkbmgAkW",
+            "stance": "negative",
+            "username": "Megatron_ron",
+            "created_at": "Wed Dec 24 20:12:13 +0000 2025",
+            "metrics": {
+              "reply": 128,
+              "retweet": 280,
+              "like": 1525
+            }
+          },
+          {
+            "text": "Absolutely, Beijing is sending a signal to @realDonaldTrump Administration. #China's CCP government isn't interested in peaceful co-existence with the United States - it wants domination of the Indo-pacific and to force US strategic retrenchment from Asia. \n\nThe #Trump",
+            "stance": "negative",
+            "username": "Dr_M_Davis",
+            "created_at": "Mon Jan 06 00:24:22 +0000 2025",
+            "metrics": {
+              "reply": 76,
+              "retweet": 173,
+              "like": 501
+            }
+          },
+          {
+            "text": "China is still restricting the rare earth elements that the US needs to produce its own permanent magnets and other products even after President Donald Trump reached a deal with his Chinese counterpart to lift restrictions on the supplies https://t.co/1TENjW614v",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Wed Dec 24 14:50:26 +0000 2025",
+            "metrics": {
+              "reply": 74,
+              "retweet": 167,
+              "like": 459
+            }
+          },
+          {
+            "text": "NEW: 🇺🇸 🇨🇳 China is still restricting rare earth elements the US needs despite Trump’s deal to lift the restrictions —Bloomberg https://t.co/ccegiSTnij",
+            "stance": "negative",
+            "username": "AdameMedia",
+            "created_at": "Thu Dec 25 14:08:54 +0000 2025",
+            "metrics": {
+              "reply": 57,
+              "retweet": 86,
+              "like": 570
+            }
+          },
+          {
+            "text": "China just did what Trump failed to do...\n\nChina may have negotiated a peace deal between Thailand and Cambodia.\n\nTrump's deal collapsed after days, and this is a huge embarrassment to the USA. https://t.co/tRPivP9Mxt",
+            "stance": "neutral",
+            "username": "AlexBarnicoat_",
+            "created_at": "Sun Dec 21 00:02:31 +0000 2025",
+            "metrics": {
+              "reply": 61,
+              "retweet": 104,
+              "like": 362
+            }
+          },
+          {
+            "text": "There is a concerted effort from the US policy makers and media to present a more conciliatory tone on China.\n\nSeveral factors is responsible for this shift.\n🔹China's rare earth ban rattled the US, we demonstrated our ability to cripple the entire global tech sector.\n\n🔹China's https://t.co/jNxCpD0KoM",
+            "stance": "negative",
+            "username": "zhao_dashuai",
+            "created_at": "Thu Dec 18 18:00:02 +0000 2025",
+            "metrics": {
+              "reply": 44,
+              "retweet": 44,
+              "like": 371
+            }
+          },
+          {
+            "text": "The U.S.-China relationship is like a customer (U.S.) paying a skilled shopkeeper (China) with shaky IOUs (Treasury bonds) for quality goods. The U.S. consumes China's products but repays with tariffs, trade wars, and threats, exploiting the dollar’s dominance. This risks https://t.co/xh7TEELbAT",
+            "stance": "negative",
+            "username": "angeloinchina",
+            "created_at": "Thu Apr 24 16:12:22 +0000 2025",
+            "metrics": {
+              "reply": 10,
+              "retweet": 54,
+              "like": 305
+            }
+          },
+          {
+            "text": "🇨🇳 🇫🇲 🇺🇸 China is methodically chipping away at America’s Pacific defense architecture, and Yap’s Woleai airfield is the latest warning sign.\n\nDespite the Federated States of Micronesia’s Compact of Free Association with Washington, Beijing has secured a deal to refurbish the https://t.co/LPVqhFhXcM",
+            "stance": "negative",
+            "username": "visionergeo",
+            "created_at": "Tue Dec 23 18:38:15 +0000 2025",
+            "metrics": {
+              "reply": 15,
+              "retweet": 49,
+              "like": 181
+            }
+          },
+          {
+            "text": "China’s exports of rare-earth magnets to the US fell 11% in November from a month earlier, with no immediate rebound seen after a trade truce between the world’s two biggest economies https://t.co/RuWMyYcFqh",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Sat Dec 20 03:56:29 +0000 2025",
+            "metrics": {
+              "reply": 21,
+              "retweet": 45,
+              "like": 143
+            }
+          }
+        ]
       }
     ],
     "hot_words": [
       {
-        "name": "制裁",
-        "value": 95
+        "name": "trade",
+        "value": 16
       },
       {
-        "name": "美国",
-        "value": 90
+        "name": "China",
+        "value": 15
       },
       {
-        "name": "中国",
-        "value": 88
+        "name": "US",
+        "value": 14
       },
       {
-        "name": "台湾",
-        "value": 85
+        "name": "tensions",
+        "value": 12
       },
       {
-        "name": "关系",
-        "value": 83
+        "name": "relations",
+        "value": 11
       },
       {
-        "name": "制裁",
-        "value": 82
+        "name": "war",
+        "value": 10
       },
       {
-        "name": "合作",
-        "value": 80
+        "name": "diplomacy",
+        "value": 9
       },
       {
-        "name": "对话",
-        "value": 78
+        "name": "military",
+        "value": 8
       },
       {
-        "name": "军事",
-        "value": 76
+        "name": "technology",
+        "value": 7
       },
       {
-        "name": "经济",
-        "value": 74
+        "name": "China-US",
+        "value": 7
       },
       {
-        "name": "外交",
-        "value": 72
+        "name": "trade-war",
+        "value": 6
       },
       {
-        "name": "政策",
-        "value": 70
+        "name": "China-India",
+        "value": 5
       },
       {
-        "name": "军事",
-        "value": 68
+        "name": "China-India-ties",
+        "value": 5
       },
       {
-        "name": "贸易",
-        "value": 66
+        "name": "China-India-ties-improvement",
+        "value": 5
       },
       {
-        "name": "美国",
-        "value": 64
+        "name": "China-India-ties-china",
+        "value": 5
       },
       {
-        "name": "中国",
-        "value": 62
+        "name": "China-India-ties-US",
+        "value": 5
       },
       {
-        "name": "制裁",
-        "value": 60
+        "name": "China-India-ties-improvement-china",
+        "value": 5
       },
       {
-        "name": "关系",
-        "value": 58
+        "name": "China-India-ties-improvement-US",
+        "value": 5
       },
       {
-        "name": "美国",
-        "value": 56
-      },
-      {
-        "name": "中国",
-        "value": 54
+        "name": "China-India-ties-improvement",
+        "value": 5
       }
     ]
   },
   "_meta": {
     "fingerprint": "7938936668fae87a967e6a732cc24463",
-    "updated_at": "2025-12-29 15:26:05"
+    "updated_at": "2026-01-05 22:11:38"
   }
 }

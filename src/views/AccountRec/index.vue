@@ -55,7 +55,7 @@
                   <el-avatar :size="32" class="avatar-bg">{{ row.username.substring(0,1).toUpperCase() }}</el-avatar>
                   <div class="user-info-col">
                     <span class="username">@{{ row.username }}</span>
-                    <span class="tweet-count">活跃度: {{ row.tweet_count }} posts</span>
+                    <span class="tweet-count">Hot Tweets: {{ row.tweets ? row.tweets.length : 0 }}</span>
                   </div>
                 </div>
               </template>
@@ -93,7 +93,7 @@
               <el-button circle icon="Close" @click="selectedUser = null" />
             </div>
 
-            <el-row :gutter="24">
+            <el-row :gutter="24" style="margin-bottom: 24px;">
               <el-col :span="14">
                 <el-card shadow="never" class="chart-card">
                   <template #header><span>🧩 对中立场矩阵 (Stance Matrix)</span></template>
@@ -108,6 +108,33 @@
                 </el-card>
               </el-col>
             </el-row>
+
+            <div class="tweets-section">
+              <div class="section-subtitle">
+                <el-icon><ChatLineSquare /></el-icon> 最新言论立场研判 (Latest Tweets & Stance)
+              </div>
+              
+              <el-scrollbar max-height="500px">
+                <div v-if="selectedUser.tweets && selectedUser.tweets.length > 0" class="tweet-grid">
+                  <div v-for="(tweet, idx) in selectedUser.tweets" :key="idx" class="tweet-item-card">
+                    <div class="t-header">
+                      <span class="t-time">{{ formatDate(tweet.created_at) }}</span>
+                      <el-tag :type="getStanceColor(tweet.stance)" size="small" effect="dark">
+                        {{ tweet.stance }}
+                      </el-tag>
+                    </div>
+                    <div class="t-content">{{ tweet.text }}</div>
+                    <div class="t-footer">
+                      <span><el-icon><ChatDotRound /></el-icon> {{ tweet.metrics?.reply }}</span>
+                      <span><el-icon><Share /></el-icon> {{ tweet.metrics?.retweet }}</span>
+                      <span><el-icon><Star /></el-icon> {{ tweet.metrics?.like }}</span>
+                    </div>
+                  </div>
+                </div>
+                <el-empty v-else description="暂无高热度推文记录" :image-size="80" />
+              </el-scrollbar>
+            </div>
+
           </div>
         </transition>
       </div>
@@ -121,57 +148,53 @@
 import { ref, computed, onMounted } from 'vue';
 import axios from 'axios';
 import dayjs from 'dayjs';
-import { Calendar, UserFilled, Close } from '@element-plus/icons-vue';
+import { UserFilled, Close, ChatLineSquare, ChatDotRound, Share, Star } from '@element-plus/icons-vue';
 import StanceMatrix from './components/StanceMatrix.vue';
 import InfluencePie from './components/InfluencePie.vue';
 import type { AccountAnalysisData, UserProfile } from '@/types';
 
-const activeTab = ref('Philippines');
-// 默认日期
+const activeTab = ref('US');
 const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
 const loading = ref(false);
 const hasData = ref(true);
 const selectedUser = ref<UserProfile | null>(null);
-
-// 存储器
 const regionDataStore = ref<Record<string, AccountAnalysisData>>({});
 
 const currentData = computed(() => {
-  return regionDataStore.value[activeTab.value] || { 
-    region: 'Unknown', 
-    time_range: ['-', '-'], 
-    top_users: [] 
-  };
+  return regionDataStore.value[activeTab.value] || { region: 'Unknown', time_range: ['-', '-'], top_users: [] };
 });
 
 const disabledDate = (time: Date) => time.getTime() > Date.now();
 
-// 核心：加载并聚合数据
+const formatDate = (str: string) => {
+  if(!str) return '';
+  const d = dayjs(str);
+  return d.isValid() ? d.format('MM-DD HH:mm') : str;
+}
+
+const getStanceColor = (s: string) => {
+  if (s === 'positive') return 'success';
+  if (s === 'negative') return 'danger';
+  return 'info';
+};
+
 const fetchData = async () => {
   if (!dateRange.value) return;
-  
   loading.value = true;
   hasData.value = false;
-  selectedUser.value = null; // 切换日期时关闭详情
+  selectedUser.value = null; 
   
   const [start, end] = dateRange.value;
   const startDate = dayjs(start);
-  const endDate = dayjs(end);
-  const diffDays = endDate.diff(startDate, 'day');
+  const diffDays = dayjs(end).diff(startDate, 'day');
 
   const promises = [];
   for (let i = 0; i <= diffDays; i++) {
     const dateStr = startDate.add(i, 'day').format('YYYY-MM-DD');
-    promises.push(
-      axios.get(`/db/account/${dateStr}.json`)
-        .then(res => res.data)
-        .catch(() => null)
-    );
+    promises.push(axios.get(`/db/account/${dateStr}.json`).then(res => res.data).catch(() => null));
   }
-
   const results = await Promise.all(promises);
 
-  // 初始化临时存储
   const tempStore: Record<string, AccountAnalysisData> = {
     US: { region: 'US', time_range: dateRange.value, top_users: [] },
     Japan: { region: 'Japan', time_range: dateRange.value, top_users: [] },
@@ -180,142 +203,95 @@ const fetchData = async () => {
   };
 
   let foundAnyData = false;
-
-  // 聚合逻辑：按 username 去重
   results.forEach(dayData => {
     if (dayData) {
       foundAnyData = true;
       Object.keys(dayData).forEach(region => {
-        if (tempStore[region]) {
-          const newUsers = dayData[region].top_users || [];
-          const existingUsers = tempStore[region].top_users;
+        if (tempStore[region] && region !== '_meta') {
+          // 简单合并用户列表，如果同一个用户出现多次，这里暂不合并 tweets 数组，
+          // 实际生产中可能需要把多天的 tweets 拼接到一个人身上。
+          // 这里简化为：直接追加，前端列表可能会有重复人名，或者你可以复用之前的 Map 去重逻辑。
           
-          // 使用 Map 去重，保留 tweet_count 较高的那个记录（或者你也可以逻辑相加）
-          const userMap = new Map();
-          existingUsers.forEach((u: UserProfile) => userMap.set(u.username, u));
-          
-          newUsers.forEach((u: UserProfile) => {
-            if (userMap.has(u.username)) {
-              // 如果已存在，对比谁的 tweet_count 高就留谁
-              const existing = userMap.get(u.username);
-              if (u.tweet_count > existing.tweet_count) {
-                userMap.set(u.username, u);
-              }
-            } else {
-              userMap.set(u.username, u);
-            }
+          // 简易去重逻辑：
+          const existingMap = new Map(tempStore[region].top_users.map(u => [u.username, u]));
+          (dayData[region].top_users || []).forEach((u: UserProfile) => {
+             if(existingMap.has(u.username)) {
+               // 如果已存在，把推文拼接到 existingUser.tweets 里
+               const exist = existingMap.get(u.username)!;
+               if(u.tweets) exist.tweets.push(...u.tweets);
+             } else {
+               if(!u.tweets) u.tweets = [];
+               existingMap.set(u.username, u);
+             }
           });
-          
-          tempStore[region].top_users = Array.from(userMap.values());
+          tempStore[region].top_users = Array.from(existingMap.values());
         }
       });
     }
   });
 
   if (foundAnyData) {
-    // 排序：按活跃度降序
-    Object.keys(tempStore).forEach(r => {
-      tempStore[r].top_users.sort((a, b) => b.tweet_count - a.tweet_count);
-    });
+    Object.keys(tempStore).forEach(r => tempStore[r].top_users.sort((a, b) => b.tweet_count - a.tweet_count));
     regionDataStore.value = tempStore;
     hasData.value = true;
   } else {
     hasData.value = false;
   }
-  
   loading.value = false;
 };
 
 const handleRowClick = (row: UserProfile) => {
   selectedUser.value = row;
-  setTimeout(() => {
-    window.scrollTo({ top: 400, behavior: 'smooth' });
-  }, 100);
+  setTimeout(() => { window.scrollTo({ top: 500, behavior: 'smooth' }); }, 100);
 };
 
-onMounted(() => {
-  fetchData();
-});
+onMounted(() => fetchData());
 </script>
 
 <style scoped lang="scss">
-.account-page {
-  padding: 30px 60px;
-  background-color: #f0f4f8;
-  min-height: 100vh;
-}
-
-.header-section { margin-bottom: 30px; text-align: center; }
+.account-page { padding: 30px 60px; background-color: #f0f4f8; min-height: 100vh; }
+.header-section { margin-bottom: 20px; text-align: center; }
 .page-title { font-size: 28px; font-weight: 700; color: #1f2937; margin: 0; }
-.page-subtitle { font-size: 14px; color: #6b7280; margin-top: 8px; text-transform: uppercase; letter-spacing: 1px; }
+.page-subtitle { font-size: 14px; color: #6b7280; margin-top: 5px; }
+.control-panel { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; background: #fff; padding: 10px 20px; border-radius: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
 
-.control-panel {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 24px;
-  background: #ffffff;
-  padding: 10px 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
-  
-  .right-controls {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    .label { font-size: 14px; font-weight: bold; color: #6b7280; }
-  }
-}
+.modern-card { border: none; border-radius: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+.user-cell { display: flex; align-items: center; gap: 12px; }
+.avatar-bg { background: #3b82f6; color: white; font-weight: 700; }
+.user-info-col { display: flex; flex-direction: column; }
+.username { font-weight: 600; color: #1f2937; font-size: 14px; }
+.tweet-count { font-size: 12px; color: #9ca3af; }
+.info-text { color: #4b5563; font-size: 14px; }
 
-.modern-card {
-  border: none;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
-}
-
-.card-header { font-weight: bold; color: #374151; font-size: 16px; }
-
-.user-cell {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  
-  .avatar-bg { background: #3b82f6; font-weight: 700; color: white; }
-  
-  .user-info-col {
-    display: flex;
-    flex-direction: column;
-    .username { font-weight: 600; color: #1f2937; font-size: 14px; }
-    .tweet-count { font-size: 12px; color: #9ca3af; }
-  }
-}
-
-.info-text { color: #4b5563; line-height: 1.4; font-size: 14px; }
-
-/* 详情动画区域 */
+/* 详情区 */
 .profile-section {
-  margin-top: 30px;
-  background: #fff;
-  padding: 24px;
-  border-radius: 16px;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-  border: 1px solid #e5e7eb;
-
-  .profile-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #f3f4f6;
-    h3 { margin: 0; color: #1f2937; display: flex; align-items: center; gap: 10px; }
-  }
+  margin-top: 30px; background: #fff; padding: 24px; border-radius: 16px; 
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); border: 1px solid #e5e7eb;
 }
+.profile-header {
+  display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #f3f4f6;
+  h3 { margin: 0; display: flex; align-items: center; gap: 10px; color: #1f2937; }
+}
+.chart-card { border: none; background: #f9fafb; border-radius: 12px; :deep(.el-card__header) { border-bottom: none; font-weight: 600; color: #4b5563; } }
 
-.chart-card {
-  border: none; 
-  background: #f9fafb;
-  border-radius: 12px;
-  :deep(.el-card__header) { border-bottom: none; font-weight: 600; color: #4b5563; }
+/* 推文列表区 */
+.tweets-section { margin-top: 10px; border-top: 1px dashed #e5e7eb; padding-top: 20px; }
+.section-subtitle { font-size: 16px; font-weight: 700; color: #374151; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+
+.tweet-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px;
+}
+.tweet-item-card {
+  background: #f9fafb; border-radius: 12px; padding: 16px; border: 1px solid #f3f4f6;
+  display: flex; flex-direction: column; gap: 10px;
+  transition: transform 0.2s;
+  &:hover { background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transform: translateY(-2px); border-color: #e5e7eb; }
+}
+.t-header { display: flex; justify-content: space-between; align-items: center; }
+.t-time { font-size: 12px; color: #9ca3af; }
+.t-content { font-size: 14px; color: #374151; line-height: 1.5; flex: 1; }
+.t-footer { 
+  display: flex; gap: 16px; font-size: 12px; color: #9ca3af; 
+  span { display: flex; align-items: center; gap: 4px; }
 }
 </style>

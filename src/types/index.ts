@@ -33,12 +33,13 @@ export type StanceMatrixItem = [number, number, number];
 // 3. 用户画像详情
 export interface UserProfile {
   username: string;
-  info: string; // 用户简介/摘要
-  tweet_count: number; // 活跃度
-  stance_matrix: StanceMatrixItem[]; // 矩阵数据
-  influence_type: InfluenceType[]; // 饼图数据
+  info: string;
+  tweet_count: number;
+  stance_matrix: [number, number, number][]; // 简化的类型定义
+  influence_type: { name: string; value: number }[];
+  // 【新增】该用户当天的代表推文
+  tweets: TweetItem[]; 
 }
-
 // 4. 页面总数据结构
 export interface AccountAnalysisData {
   region: string;

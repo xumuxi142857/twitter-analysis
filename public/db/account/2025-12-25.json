@@ -7,103 +7,255 @@
     ],
     "top_users": [
       {
-        "info": "关注南中国海争端的菲律宾立场分析者。",
+        "info": "关注南海地缘政治与国际关系的分析者，侧重报道菲律宾与多国安全合作、中菲南海争端动态及和平倡议。",
         "stance_matrix": [
           [
-            1,
-            1,
+            0,
+            0,
             7
           ],
           [
-            1,
             0,
-            5
-          ],
-          [
             1,
-            2,
-            6
-          ],
-          [
-            1,
-            3,
-            4
-          ],
-          [
-            2,
-            1,
-            3
-          ],
-          [
-            2,
-            2,
-            5
-          ],
-          [
-            1,
-            1,
-            6
-          ],
-          [
-            1,
-            3,
-            4
-          ],
-          [
-            2,
-            0,
             8
           ],
           [
-            2,
             0,
-            7
-          ],
-          [
-            1,
-            1,
+            2,
             5
           ],
           [
-            1,
-            1,
+            0,
+            3,
             4
           ],
           [
             1,
-            1,
-            3
+            0,
+            6
           ],
           [
             1,
             1,
+            6
+          ],
+          [
+            1,
+            2,
+            5
+          ],
+          [
+            1,
+            3,
             5
           ],
           [
             2,
             0,
+            3
+          ],
+          [
+            2,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            4
+          ],
+          [
+            2,
+            3,
             6
           ]
         ],
         "influence_type": [
           {
             "name": "权威 (Authority)",
-            "value": 60
+            "value": 70
           },
           {
             "name": "同伴 (Peer)",
-            "value": 30
+            "value": 25
           },
           {
             "name": "亲情 (Kinship)",
-            "value": 10
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "A large U.S.-Japan-Philippines joint patrol near Scarborough Shoal showcases growing regional cooperation on maritime security as China monitored the drills with a bomber formation. https://t.co/Lf0YckL3hv https://t.co/S6E0Vmn30I",
+            "stance": "neutral",
+            "username": "AsiaMTI",
+            "created_at": "Wed Nov 19 22:30:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 8,
+              "like": 34
+            }
+          },
+          {
+            "text": "Canada signs its first Indo-Pacific Status of Visiting Forces Agreement with the Philippines, strengthening defense cooperation and joining a growing network of Manila’s security partners amid rising tensions in the South China Sea. https://t.co/W9jLOUlIG3 https://t.co/riW8AUQyCf",
+            "stance": "neutral",
+            "username": "AsiaMTI",
+            "created_at": "Wed Nov 05 00:30:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 5,
+              "like": 22
+            }
+          },
+          {
+            "text": "Congress approves $2.5 billion in security assistance for the Philippines under the 2026 National Defense Authorization Act, authorizing up to $500 million annually from 2026–2030 to support defense cooperation amid regional security tensions. https://t.co/fD4YpRmdZ1 https://t.co/9CxgNoDj02",
+            "stance": "neutral",
+            "username": "AsiaMTI",
+            "created_at": "Fri Dec 19 18:30:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 4
+            }
+          },
+          {
+            "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFw3Ma https://t.co/bIBi50xs3D",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Tue Sep 16 05:00:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 3
+            }
+          },
+          {
+            "text": "The Philippine Coast Guard and Taiwan’s Coast Guard Administration met in Manila to explore potential cooperation on maritime security, including training, capacity-building, and information-sharing, amid rising tensions in the South China Sea. https://t.co/h6vEcKr08W https://t.co/XJ5DjqvUS8",
+            "stance": "neutral",
+            "username": "AsiaMTI",
+            "created_at": "Mon Dec 15 21:30:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 2
+            }
+          },
+          {
+            "text": "President Marcos strongly denounces China’s “coercive actions” in the South China Sea at the ASEAN Summit, condemning Beijing’s declaration of Scarborough Shoal as a “nature reserve” and reaffirming the Philippines’ sovereignty and adherence to international law. https://t.co/V6YG1hVNsO",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Wed Oct 29 00:30:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 6
+            }
+          },
+          {
+            "text": "China expels two Philippine reconnaissance aircraft near Scarborough Shoal, accusing them of “illegally entering Chinese airspace,” while Manila condemns the actions as “dangerous interference.” https://t.co/YNtbY314G2 https://t.co/47gv5rpEYm",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Fri Oct 17 23:30:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 1
+            }
+          },
+          {
+            "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMMBeP https://t.co/ujkGeKeZwl",
+            "stance": "positive",
+            "username": "AsiaMTI",
+            "created_at": "Wed Nov 26 14:00:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 2
+            }
+          },
+          {
+            "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/vHfsQkttzP",
+            "stance": "positive",
+            "username": "AsiaMTI",
+            "created_at": "Sun Dec 21 09:00:02 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 5
+            }
+          },
+          {
+            "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFw3Ma https://t.co/Xe4TdQ6iYh",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Thu Sep 04 05:00:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 4
+            }
+          },
+          {
+            "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFvvWC https://t.co/j5pLhFbhNP",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Fri Sep 05 05:00:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 3
+            }
+          },
+          {
+            "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/t4X12J0QPk",
+            "stance": "positive",
+            "username": "AsiaMTI",
+            "created_at": "Thu Dec 18 06:00:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "The Philippines is deepening security cooperation in the South China Sea, recently conducting naval drills with France and India and expanding drone training with Australia. https://t.co/knuDAYw5bS https://t.co/cyIPXYfchm",
+            "stance": "neutral",
+            "username": "AsiaMTI",
+            "created_at": "Mon Dec 01 20:30:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/2YELpOvjr3",
+            "stance": "positive",
+            "username": "AsiaMTI",
+            "created_at": "Fri Nov 28 09:00:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "President Marcos strongly denounces China’s “coercive actions” in the South China Sea at the ASEAN Summit, condemning Beijing’s declaration of Scarborough Shoal as a “nature reserve” and reaffirming the Philippines’ sovereignty and adherence to international law. https://t.co/mCuUqK6pnI",
+            "stance": "negative",
+            "username": "AsiaMTI",
+            "created_at": "Tue Oct 28 18:30:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
           }
         ],
         "username": "AsiaMTI",
         "tweet_count": 29
       },
       {
-        "info": "IsabellaAn67是一位激进的军事和政治评论员，频繁批评中国在南中国海的行为。",
+        "info": "菲律宾民族主义者，活跃于南海议题，强烈批评中国在争议海域的行为，立场鲜明反华。",
         "stance_matrix": [
           [
             0,
@@ -111,9 +263,9 @@
             10
           ],
           [
-            1,
             0,
-            9
+            1,
+            10
           ],
           [
             0,
@@ -123,7 +275,7 @@
           [
             0,
             3,
-            7
+            9
           ]
         ],
         "influence_type": [
@@ -133,175 +285,673 @@
           },
           {
             "name": "同伴 (Peer)",
-            "value": 20
+            "value": 25
           },
           {
             "name": "亲情 (Kinship)",
-            "value": 10
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Recently, the Philippines Coast Guard discovered heaps of crushed corals piled on the sea floor at the Escoda/Sabina Shoal.\n\nThe continued swarming for an indiscriminate illegal and destructive fishing activities of the Chinese Maritime Militia in West Philippine Sea has caused https://t.co/4w0Cj4qQTT",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Sat Dec 20 08:45:35 +0000 2025",
+            "metrics": {
+              "reply": 56,
+              "retweet": 2033,
+              "like": 6845
+            }
+          },
+          {
+            "text": "An entire Armada of China Coast Guard ships along with Chinese Maritime Militia boats, is chasing a small wooden Filipino fishing boat inside Philippines's waters.\n\nThis is what China wants to normalise in the South China Sea. China's illegal actiions &amp; dangerous manuvers are no https://t.co/MpPNHSXYYa",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Tue Dec 02 07:53:42 +0000 2025",
+            "metrics": {
+              "reply": 93,
+              "retweet": 838,
+              "like": 3024
+            }
+          },
+          {
+            "text": "\"This is China, Go Back To Philippines\".\n\nThe goons of China Coast Guard were shouting this at Second Thomas Shoal, located over 1200 km away from nearest Chinese territory, inside Philippines's waters..\n\nAnd then, people ask, why do I keep bashing China? @poyjampoy @informedph2 https://t.co/mONTqSxucU",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Thu Nov 06 08:19:51 +0000 2025",
+            "metrics": {
+              "reply": 146,
+              "retweet": 483,
+              "like": 1837
+            }
+          },
+          {
+            "text": "China has destroyed over 20000 acres of Coral Reefs in the South China Sea, mostly inside the Philippines's waters.\n\nInside the Philippines' waters, over 4000 acres of Coral Reefs have been destroyed by the illegal Chinese Giant Clam Poachers alone.\n\nUnder the protection of the https://t.co/EVYArudBPm",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Thu Nov 20 07:45:53 +0000 2025",
+            "metrics": {
+              "reply": 74,
+              "retweet": 395,
+              "like": 909
+            }
+          },
+          {
+            "text": "Do we actually realise the severity of yesterday's incident at Second Thomas Shoal?\n\nChina deployed a PLA Navy Destroyer against that Philippines Coast Guard Ship!\n\nAnd, that too inside Philippines's waters.\n\nThis isn't Gray Zone anymore! @CarpioJudge @ChongJaIan @Jkylebass https://t.co/PAfdy5Nhcd",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Tue Aug 12 06:48:28 +0000 2025",
+            "metrics": {
+              "reply": 69,
+              "retweet": 281,
+              "like": 1187
+            }
+          },
+          {
+            "text": "Two China Coast Guard ships attacked a small PH resupply boat near Scarborough Shoal in Philippines's EEZ, leaving four Filipinos severely injured. \n\nYet, Beijing blamed Manila of aggression &amp; infringing China's sovereignty. @CarpioJudge @Radiation_Ages  @tatsuhiro_iwamo https://t.co/haJWfz4gd9",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Fri Jun 27 05:52:56 +0000 2025",
+            "metrics": {
+              "reply": 54,
+              "retweet": 323,
+              "like": 573
+            }
+          },
+          {
+            "text": "China Coast Guard &amp; Chinese Maritime Militia ships are seen blocking a Philippines Coast Guard ship near Second Thomas Shoal, way inside Philippines's territory!\n\nAnd then, Beijing accuses Manila of creating tensions!\n\nChina is such a HYPOCRITE! @PacStandardTW @informedph2 https://t.co/HzHmx2Qksq",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Sun Oct 05 05:57:52 +0000 2025",
+            "metrics": {
+              "reply": 39,
+              "retweet": 225,
+              "like": 619
+            }
+          },
+          {
+            "text": "At least 5 Chinese vessels including 3 Chinese Cost Guard ships are seen harassing a small Filipino boat on resupply mission to Second Thomas Shoal. \n\nSecond Thomas Shoal is Philippines's territory &amp; China's presence in the region is coercive &amp; illegal. @ChongJaIan @DrewPavlou https://t.co/ZzGrdYTy15",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Mon Mar 24 07:46:51 +0000 2025",
+            "metrics": {
+              "reply": 39,
+              "retweet": 223,
+              "like": 504
+            }
+          },
+          {
+            "text": "A China Coast Guard ship fired Water Cannon at a Philippines Bureau of Fisheries &amp; Aquatic Resources boat near Second Thomas Shoal in Philippines's EEZ. \n\nWater cannons were aimed at antenna &amp; radar system of PH boat leaving them completely destroyed. @ChongJaIan @CarpioJudge https://t.co/6jefj6AouA",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Thu Jun 19 07:20:48 +0000 2025",
+            "metrics": {
+              "reply": 41,
+              "retweet": 227,
+              "like": 379
+            }
+          },
+          {
+            "text": "Ouch!\n\nThat doesn't look nice!\n\nThe bow section of the China Coast Guard Ship 3104 got completely smashed, after it collided with a Chinese Navy Type 051 Destroy, this morning!\n\nBoth the Chinese ships were chasing a Philippines Coast Guard Ship near the Second Thomas Shoal https://t.co/Rk8M60WrD5",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Mon Aug 11 11:31:27 +0000 2025",
+            "metrics": {
+              "reply": 95,
+              "retweet": 101,
+              "like": 603
+            }
+          },
+          {
+            "text": "Pirates of China Coast Guard mounted on rigid hull inflatable boats are seen intercepting &amp; looting a Filipino resupply boat near Second Thomas Shoal inside Philippines's Exclusive Economic Zone.\n\nAnd then China Coast will say claim \"it is a Law Enforcement Agency! @Jkylebass https://t.co/F70s6Tge0q",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Thu Jul 10 06:31:53 +0000 2025",
+            "metrics": {
+              "reply": 34,
+              "retweet": 187,
+              "like": 333
+            }
+          },
+          {
+            "text": "A China Coast Guard ship blasting water cannon on a small wooden hulled Filipino boat near Second Thomas Shoal. \n\nIt happened in internationally recognised territory of Philippines which was also validated by 2016 UNCLOS South China Sea Arbitration verdict. @CarpioJudge https://t.co/dLbFjGqSfj",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Sat Jun 14 08:35:00 +0000 2025",
+            "metrics": {
+              "reply": 19,
+              "retweet": 155,
+              "like": 236
+            }
+          },
+          {
+            "text": "Today marks one year since the ghastly attack by China Coast Guard on a Philippines resupply mission to Second Thomas Shoal. \n\nSeveral Filipino soldiers were injured &amp; a PH soldier, Jeffrey Facundo, even lost his thumb! 1/3 @ChongJaIan @jaytaryela @ElbridgeColby @PacStandardTW https://t.co/uMLrrgQiKO",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Tue Jun 17 07:34:27 +0000 2025",
+            "metrics": {
+              "reply": 23,
+              "retweet": 131,
+              "like": 272
+            }
+          },
+          {
+            "text": "China's Aggression In West Philippine Sea-\n▶️Claim Filipino territories as Chinese\n \n▶️Call the illegally occupied PH territories with fake Chinese names\n\n▶️Destroy Filipino boats in the name of Law Enforcement\n\n▶️Blame Philippines of infringing Chinese sovereignty\n\n▶️PLAY VICTIM https://t.co/4NZySMUqQi",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Sat Nov 15 10:32:31 +0000 2025",
+            "metrics": {
+              "reply": 40,
+              "retweet": 95,
+              "like": 263
+            }
+          },
+          {
+            "text": "Look at the true &amp; ugly face of China!\n\nFour China Coast Guard speed boats blocked two small Philippines Coast Guard inflatable boats, that were evacuating Filipinos who fell ill on BRP Sierra Madre at Second Thomas Shoal. 1/2 https://t.co/hqnptFDC0d",
+            "stance": "negative",
+            "username": "IsabellaAn67",
+            "created_at": "Sat Jul 26 06:51:56 +0000 2025",
+            "metrics": {
+              "reply": 36,
+              "retweet": 95,
+              "like": 235
+            }
           }
         ],
         "username": "IsabellaAn67",
         "tweet_count": 21
       },
       {
-        "info": "关注南海争端，支持中国立场的分析员。",
+        "info": "中国官方英文媒体，立场鲜明支持中国政府，在外交和领土问题上坚定维护中国立场，对菲律宾在南海的行为持批评态度。",
         "stance_matrix": [
           [
-            2,
+            0,
+            0,
+            10
+          ],
+          [
+            0,
             1,
+            10
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
             9
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            2,
+            0
+          ],
+          [
+            1,
+            3,
+            0
           ],
           [
             2,
             0,
-            8
+            0
+          ],
+          [
+            2,
+            1,
+            0
           ],
           [
             2,
             2,
-            7
+            0
           ],
           [
             2,
             3,
-            6
-          ],
-          [
-            2,
-            1,
-            5
-          ],
-          [
-            2,
-            1,
-            4
-          ],
-          [
-            2,
-            1,
-            3
-          ],
-          [
-            1,
-            0,
-            2
-          ],
-          [
-            1,
-            0,
-            1
+            0
           ]
         ],
         "influence_type": [
           {
             "name": "权威 (Authority)",
-            "value": 70
+            "value": 95
           },
           {
             "name": "同伴 (Peer)",
-            "value": 20
+            "value": 5
           },
           {
             "name": "亲情 (Kinship)",
-            "value": 10
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "On Thursday, China's navy and air forces carried out patrols near Huangyan Island. On the same day, the China Coast Guard also carried out law enforcement patrols in the region.\n\nAs the Philippine elections approach, the Marcos government has become more aggressive, courting https://t.co/6IJE3yDz2s",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Sat Mar 01 14:24:45 +0000 2025",
+            "metrics": {
+              "reply": 4,
+              "retweet": 18,
+              "like": 58
+            }
+          },
+          {
+            "text": "Recently, the #Philippines staged a \"resupply show\" in the #SouthChinaSea. Over 10 Philippine government ships and 50+ fishing boats suddenly swarmed near Huangyan Island and Xianbin Reef. Manila says they were \"delivering fuel\" to fishermen. But it was actually a rehearsed https://t.co/2oLyWsFIcs",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Sat Oct 11 10:30:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 9,
+              "like": 15
+            }
+          },
+          {
+            "text": "#FMsays Ren'ai Reef is China's territory, Foreign Ministry spokesman Guo Jiakun said, asking the #Philippines to stop hyping up maritime issues between the two countries as well as to stop any provocations that may complicate the situation. Guo's remarks came after reports quoted https://t.co/xOV5woCmgN",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Thu Aug 28 09:32:30 +0000 2025",
+            "metrics": {
+              "reply": 5,
+              "retweet": 7,
+              "like": 13
+            }
+          },
+          {
+            "text": "#FMsays China has urged the Philippines to immediately stop provocative infringements near #Huangyan Island in the #SouthChinaSea as well as warned Manila not to test Beijing's firm resolve when it comes to safeguarding its lawful rights after a Philippine vessel deliberately https://t.co/wQwBZnTRXC",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Tue Sep 16 08:51:09 +0000 2025",
+            "metrics": {
+              "reply": 4,
+              "retweet": 6,
+              "like": 16
+            }
+          },
+          {
+            "text": "China has urged the Philippines to stop making trouble in the South China Sea if it does not want to create trouble for itself.\n\nOn Friday, Senior Colonel Jiang Bin of China's Ministry of National Defense said that defense and security cooperation between countries should not https://t.co/d0P5sMC8SX",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Fri Nov 07 15:30:08 +0000 2025",
+            "metrics": {
+              "reply": 4,
+              "retweet": 3,
+              "like": 19
+            }
+          },
+          {
+            "text": "The China Coast Guard requested the #Philippines on Friday to cease all infringing provocations and hype related to the Ren'ai Reef in the #SouthChinaSea. https://t.co/lKD6U6tLWd https://t.co/hx1zdz7Us0",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Fri Aug 22 06:23:32 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 6,
+              "like": 8
+            }
+          },
+          {
+            "text": "#China has rejected the #Philippines' groundless accusation and so-called protests over the establishment of the Huangyan Island National Nature Reserve, and has urged Manila to cease its infringements and provocations. #SouthChinaSea https://t.co/2iggXS8BMy https://t.co/ZmBTil7Vru",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Fri Sep 12 01:25:38 +0000 2025",
+            "metrics": {
+              "reply": 7,
+              "retweet": 3,
+              "like": 5
+            }
+          },
+          {
+            "text": "China Coast Guard said on Tuesday that it monitored the entire process of a Philippines' vessel delivering supplies to its illegally grounded warship at Ren'ai Reef on Friday. https://t.co/oWBoKWEFmn https://t.co/4XLBz23JhW",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Tue May 20 11:48:10 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 9
+            }
+          },
+          {
+            "text": "China allowed the #Philippines to dispatch a civilian vessel to deliver supplies to a warship that was illegally grounded at Ren'ai Reef in the #SouthChinaSea on Tuesday, a spokesman for the China Coast Guard said on Wednesday. https://t.co/xRLTuscVwh https://t.co/TwI4O1OW6b",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Wed Mar 05 05:15:01 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 2,
+              "like": 10
+            }
+          },
+          {
+            "text": "#FMsays China always believes that defense and security cooperation between countries should not target any third party or harm their interests, Foreign Ministry spokeswoman Mao Ning said, after reports said the #Philippines and #Canada signed a pact on Sunday for their armed https://t.co/OnwNCmmaR8",
+            "stance": "negative",
+            "username": "ChinaDaily",
+            "created_at": "Mon Nov 03 09:15:21 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 8
+            }
           }
         ],
         "username": "ChinaDaily",
         "tweet_count": 10
       },
       {
-        "info": "支持菲律宾立场的军事与政治评论员。",
+        "info": "一位关注南海争议的菲律宾立场支持者，通过社交媒体强烈批评中国在南海的行为，表达对菲律宾主权和权益的坚定支持。",
         "stance_matrix": [
           [
-            1,
-            1,
-            8
-          ],
-          [
-            1,
             0,
-            5
+            0,
+            9
           ],
           [
+            0,
             1,
+            10
+          ],
+          [
+            0,
             2,
-            7
-          ],
-          [
-            1,
-            1,
-            9
-          ],
-          [
-            1,
-            1,
             8
           ],
           [
-            1,
-            1,
-            7
-          ],
-          [
-            1,
-            1,
-            9
-          ],
-          [
             0,
-            1,
-            4
+            3,
+            9
           ]
         ],
         "influence_type": [
           {
-            "name": "同伴 (Peer)",
-            "value": 40
+            "name": "权威 (Authority)",
+            "value": 85
           },
           {
-            "name": "权威 (Authority)",
-            "value": 60
+            "name": "同伴 (Peer)",
+            "value": 10
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "A China Coast Guard Ship is attacking a Philippines Bureau Of Fisheries Vessel that was on a routine humaniterian resupply mission to Second Thomas Shoal. \n\nChina is applying all kinds of aggressive &amp; voilent tactics to establish it's control over the Second Thomas Shoal. 1/3 https://t.co/EjooMYvbr8",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Tue Jun 10 08:32:15 +0000 2025",
+            "metrics": {
+              "reply": 34,
+              "retweet": 180,
+              "like": 649
+            }
+          },
+          {
+            "text": "Look at massive difference in size &amp; displacement of Chinese Coast Guard ship &amp; small Filipino boat sailing in Philippines's EEZ. \n\nCCG ship attacking the small PH boat is \"claimed\" to be on a \"law enforcement patrol\"\n\nIn reality CCG is conducting a Piracy Operation in PH' waters https://t.co/EXzw0DA0kk",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Thu May 01 08:57:49 +0000 2025",
+            "metrics": {
+              "reply": 31,
+              "retweet": 163,
+              "like": 360
+            }
+          },
+          {
+            "text": "Stop calling China Coast Guard a Civilian Law Enforcement Agency!\n\nLike the Sea Pirates, China Coast Guard spreads anarchy, chaos, terror &amp; fear.\n\nSeen here is China Coast Guard speed boats blocking a Philippines Coast Guard medical evacuation operation near Second Thomas Shoal https://t.co/s6oIcAk9c1",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Mon Sep 01 08:34:35 +0000 2025",
+            "metrics": {
+              "reply": 6,
+              "retweet": 47,
+              "like": 95
+            }
+          },
+          {
+            "text": "Two China Coast Guard Ships are attacking a small Philippines Coast Guard ship near Second Thomas Shoal inside Philippines's EEZ.\n\n9 years ago, the court told China: You don't own South China Sea.\n\nChina’s answer? Ramming boats, spraying water cannons &amp; harassing civilians! https://t.co/3qKN3Yq2Oo",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Tue Jul 15 06:16:10 +0000 2025",
+            "metrics": {
+              "reply": 9,
+              "retweet": 46,
+              "like": 70
+            }
+          },
+          {
+            "text": "This is how Philippines conducts resupply missions to BRP Sierra Madre, a World War-II era ship ran aground at Second Thomas Shoal, now  an outpost for Filipino soldiers\n\nDespite the coercion &amp; intimidation from China Philippines is holding to it's ground at Second Thomas Shoal! https://t.co/U5gaY6cA1T",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Mon Jul 14 07:27:44 +0000 2025",
+            "metrics": {
+              "reply": 9,
+              "retweet": 21,
+              "like": 90
+            }
+          },
+          {
+            "text": "China recently declared Scarborough Shoal, an aquatic reserve supposedly to protect marine environment. \n\nYesterday, Philippines's Navy caught Chinese Maritime Militia putting cyanide on coral reefs near Second Thomas Shoal.\n\nThe efforts China is making to protect environment! https://t.co/wzT94wPjz1",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Wed Oct 29 09:15:34 +0000 2025",
+            "metrics": {
+              "reply": 3,
+              "retweet": 13,
+              "like": 28
+            }
+          },
+          {
+            "text": "China's maritime forces—primarily the China Coast Guard (CCG), supported by People's Liberation Army Navy (PLAN) vessels and maritime militia—have escalated aggressive tactics within the Philippines' EEZ in the West Philippine Sea. @yeshuaformosa @MalayaIrredenta @informedph2 https://t.co/UGv2fy0rOb",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Sun Dec 21 10:07:47 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 11,
+              "like": 15
+            }
+          },
+          {
+            "text": "Sabina Shoal has emerged in the ongoing maritime dispute between China and the Philippines. Beijing claims Sabin Shoalk as Xianbin Jiao. It is some 75 nautical miles from the Philippines' west coast and 630 miles from China. 1/3 @ChongJaIan @ElbridgeColby @jaytaryela https://t.co/ciO9yP59Ku",
+            "stance": "negative",
+            "username": "Michael71T",
+            "created_at": "Wed Nov 13 06:15:50 +0000 2024",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
           }
         ],
         "username": "Michael71T",
         "tweet_count": 8
       },
       {
-        "info": "关注南海争端的菲律宾政治评论员。",
+        "info": "菲律宾媒体账号，专注报道西菲律宾海（南海）地缘政治动态，立场偏向菲律宾官方，关注中菲海上争议及美国介入。",
         "stance_matrix": [
           [
-            2,
-            1,
-            9
-          ],
-          [
-            2,
-            2,
-            7
-          ],
-          [
-            2,
+            0,
             0,
             8
           ],
           [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            3
+          ],
+          [
+            0,
+            3,
+            2
+          ],
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            5
+          ],
+          [
+            1,
+            3,
+            4
+          ],
+          [
+            2,
+            0,
+            1
+          ],
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            2,
+            2,
+            2
+          ],
+          [
             2,
             3,
-            6
+            4
           ]
         ],
         "influence_type": [
           {
             "name": "权威 (Authority)",
-            "value": 70
+            "value": 85
           },
           {
             "name": "同伴 (Peer)",
-            "value": 20
+            "value": 10
           },
           {
-            "name": "亲情 (Family)",
-            "value": 10
+            "name": "亲情 (Kinship)",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Tension gripped soldiers and marines onboard BRP Sierra Madre (LS57) as China deployed coast guard ships with water cannons and small boats armed with mounted weapons in the vicinity of Ayungin Shoal (Second Thomas Shoal) in the West Philippine Sea (WPS), the Armed Forces of the https://t.co/ciMRthCM3Y",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Fri Aug 22 03:46:59 +0000 2025",
+            "metrics": {
+              "reply": 7,
+              "retweet": 7,
+              "like": 16
+            }
+          },
+          {
+            "text": "Two days after the collision of two Chinese vessels, the United States deployed two of its naval ships to Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) on Wednesday, Aug. 13, as the Philippine Coast Guard (PCG) deployed an aircraft for a patrol https://t.co/Vy4t5BcVjQ",
+            "stance": "neutral",
+            "username": "manilabulletin",
+            "created_at": "Wed Aug 13 08:16:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 5,
+              "like": 19
+            }
+          },
+          {
+            "text": "Senator Risa Hontiveros on Friday, September 12 rejected China’s plan to construct a so-called “marine nature reserve” in Bajo de Masinloc (Scarborough Shoal) and urged Malacañang to summon China’s ambassador to the Philippines to demand an explanation on it.\n\nREAD: https://t.co/N7qC5LWvg1",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Fri Sep 12 05:30:00 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 1,
+              "like": 14
+            }
+          },
+          {
+            "text": "The Department of Foreign Affairs (DFA) said it will file a diplomatic protest against China’s planned establishment of a national nature reserve in the hotly contested Scarborough Shoal (Bajo de Masinloc), which is an integral part of the Philippines’ sovereignty and https://t.co/2rUKqNyZin",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Thu Sep 11 04:58:34 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "President Marcos has conveyed the Philippines' support to the two trade agreements within the region—Association of Southeast Asian Nations (ASEAN) Trade in Goods Agreement (ATIGA) and the ASEAN-China Free Trade Area (FTA) 3.0 Upgrade.\n\nhttps://t.co/h5V2D4lMc7",
+            "stance": "positive",
+            "username": "manilabulletin",
+            "created_at": "Sun Oct 26 10:31:57 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "Several Chinese vessels were observed by the Philippine Coast Guard (PCG) to be conducting “search patterns” off Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) after the collision of its coast guard and navy vessels on Monday, Aug. 11.\n\nREAD: https://t.co/umOAiLImD2",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Tue Aug 12 08:40:52 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "After the collision of two Chinese vessels near Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS), the Philippine Coast Guard (PCG) advised China on Monday, Aug. 11, to observe maritime rules to avoid accidents at sea.\n\nREAD: https://t.co/uBBwJEUOR9 https://t.co/Xc8wY86CEU",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Mon Aug 11 10:56:52 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "Three Chinese navy and coast guard vessels harassed a Philippine Navy ship that almost resulted in a collision around 11 nautical miles off the Bajo de Masinloc, the Armed Forces of the Philippines (AFP) disclosed on Thursday, May 8.\n\nREAD: https://t.co/IOfGs2BgwV https://t.co/ZtX3IpRXvb",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Thu May 08 02:33:32 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
           }
         ],
         "username": "manilabulletin",
@@ -315,229 +965,10 @@
       "2025-12-25",
       "2025-12-25"
     ],
-    "top_users": [
-      {
-        "info": "支持统一，反对‘台独’，强调两岸和平发展。",
-        "stance_matrix": [
-          [
-            2,
-            0,
-            10
-          ],
-          [
-            2,
-            3,
-            8
-          ],
-          [
-            2,
-            2,
-            7
-          ],
-          [
-            2,
-            3,
-            6
-          ],
-          [
-            2,
-            2,
-            5
-          ],
-          [
-            2,
-            0,
-            4
-          ],
-          [
-            2,
-            0,
-            3
-          ],
-          [
-            2,
-            0,
-            2
-          ],
-          [
-            2,
-            0,
-            1
-          ],
-          [
-            2,
-            2,
-            9
-          ],
-          [
-            2,
-            3,
-            8
-          ],
-          [
-            2,
-            3,
-            7
-          ]
-        ],
-        "influence_type": [
-          {
-            "name": "权威 (Authority)",
-            "value": 70
-          },
-          {
-            "name": "同伴 (Peer)",
-            "value": 20
-          },
-          {
-            "name": "亲情 (Kinship)",
-            "value": 10
-          }
-        ],
-        "username": "ChinaDaily",
-        "tweet_count": 29
-      },
-      {
-        "info": "关注两岸关系，强调反‘台独’，支持军事行动。",
-        "stance_matrix": [
-          [
-            2,
-            1,
-            10
-          ],
-          [
-            2,
-            0,
-            8
-          ],
-          [
-            2,
-            2,
-            6
-          ],
-          [
-            2,
-            3,
-            4
-          ],
-          [
-            2,
-            1,
-            9
-          ],
-          [
-            2,
-            1,
-            9
-          ],
-          [
-            2,
-            3,
-            7
-          ],
-          [
-            2,
-            3,
-            8
-          ],
-          [
-            2,
-            3,
-            6
-          ],
-          [
-            2,
-            0,
-            7
-          ],
-          [
-            2,
-            3,
-            5
-          ],
-          [
-            2,
-            3,
-            6
-          ],
-          [
-            1,
-            1,
-            3
-          ]
-        ],
-        "influence_type": [
-          {
-            "name": "权威 (Authority)",
-            "value": 80
-          },
-          {
-            "name": "同伴 (Peer)",
-            "value": 15
-          },
-          {
-            "name": "亲情 (Kinship)",
-            "value": 5
-          }
-        ],
-        "username": "XHNews",
-        "tweet_count": 14
-      },
-      {
-        "info": "台湾总统强调备战2027年，应对来自中国的军事压力。",
-        "stance_matrix": [
-          [
-            1,
-            1,
-            8
-          ],
-          [
-            1,
-            0,
-            5
-          ],
-          [
-            1,
-            2,
-            7
-          ],
-          [
-            1,
-            1,
-            6
-          ],
-          [
-            1,
-            1,
-            5
-          ],
-          [
-            1,
-            1,
-            4
-          ]
-        ],
-        "influence_type": [
-          {
-            "name": "权威 (Authority)",
-            "value": 70
-          },
-          {
-            "name": "同伴 (Peer)",
-            "value": 20
-          },
-          {
-            "name": "亲情 (Kinship)",
-            "value": 10
-          }
-        ],
-        "username": "World_At_War_6",
-        "tweet_count": 6
-      }
-    ]
+    "top_users": []
   },
   "_meta": {
     "fingerprint": "69da8678ce8a18bdf1fd2b9543a6a159",
-    "updated_at": "2025-12-27 12:48:03"
+    "updated_at": "2026-01-05 22:28:11"
   }
 }

@@ -7,17 +7,57 @@
     ],
     "top_users": [
       {
-        "info": "关注台湾历史与政治，反对靖国神社的激进人士。",
+        "info": "一位关注国际关系、地缘政治和科技政策的分析型用户，推文内容涉及中国与邻国关系、中日历史、ESG合规等话题，表现出客观理性的分析风格。",
         "stance_matrix": [
+          [
+            0,
+            0,
+            5
+          ],
+          [
+            0,
+            1,
+            4
+          ],
+          [
+            0,
+            2,
+            6
+          ],
+          [
+            0,
+            3,
+            5
+          ],
           [
             1,
             0,
+            6
+          ],
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            1,
+            2,
             7
           ],
           [
             1,
+            3,
+            6
+          ],
+          [
+            2,
+            0,
+            7
+          ],
+          [
+            2,
             1,
-            9
+            6
           ],
           [
             2,
@@ -26,65 +66,708 @@
           ],
           [
             2,
-            2,
-            8
-          ],
-          [
-            1,
-            2,
-            5
+            3,
+            7
           ]
         ],
         "influence_type": [
           {
-            "name": "同伴 (Peer)",
-            "value": 50
+            "name": "权威 (Authority)",
+            "value": 70
           },
           {
+            "name": "同伴 (Peer)",
+            "value": 25
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@YeetForceOne @Gss_Views @suneelpsingh No, it's not true that all of China's neighbors get along with them. As of 2025, China has ongoing territorial disputes with at least 8-10 neighbors, including India (border clashes), Bhutan, Japan (Senkaku Islands), and South China Sea claimants like Philippines, Vietnam,",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 17:09:38 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 7
+            }
+          },
+          {
+            "text": "@PlatinumSkies25 @ShiningScience Got it—rebranding could imply hidden ownership structures. From what I find, no data supports UK private ownership of 60% of the US; foreign ownership of US assets is diverse (e.g., China, Japan top debt holders). If you mean historical ties or specific entities, share more",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 10:30:41 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Kesse85585Chris @elonmusk Interesting take on 2025's shifts. Indeed, anti-ESG bills passed in states like Wyoming and others, signaling pushback, while global ESG assets grew amid regulations.\n\nFor 2026, watching:\n- Impact of Asia's mandatory ESG reporting (e.g., China, Japan) on multinational firms.\n-",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 21:08:51 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Barbie530652452 @Archetypical20 @ThatGirlCasey1 @HarrisonHSmith @LauraLoomer East Asia and Pacific is a region including countries like China, Japan, South Korea, Australia, Indonesia, Vietnam, Philippines, Thailand, Malaysia, Singapore, New Zealand, and Pacific islands such as Fiji and Samoa. It's often used in classifications by groups like the World",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Dec 27 02:25:23 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Kesse85585Chris @elonmusk Solid insight on blockchain's pivot to compliance. 2025 trends from Deloitte and KPMG show it enabling traceability for ESG mandates in China/Japan, while ZK-proofs offer privacy for US ops. Market projected to grow 35%+ CAGR. Could AI integration accelerate this?",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 21:22:08 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Kesse85585Chris @elonmusk Insightful take on the transparency paradox. 2025 GDPR updates (e.g., EDPS guidance) highlight AI re-identification risks, with fines up to 4% revenue. ZK-proofs, as in ConsenSys tools and Deloitte reports, enable verification without exposure—key for China/Japan ESG mandates vs.",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 21:30:12 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Hussain_3701 @JPN_PMO @takaichi_sanae @Keir_Starmer @rterdogan_ar @MFATurkiye @10DowningStreet @SohailAfridiISF @ImranKhanPTI @globaltimesnews @SpoxCHN_LinJian @MFA_China @UN @elonmusk @Tesla @realDonaldTrump @XHNews @khamenei_ir @MofaQatar_EN @MFA_Ukraine @KremlinRussia_E @ZelenskyyUa @BBCWorld @SpoxCHN_MaoNing @CIJ_ICJ @EU_Commission @UNRWA @X @Starlink @GermanyDiplo @SwissMFA @SecScottBessent @MofaJapan_en @WhiteHouse @mfa_russia @TheEconomist @nvidia @USTreasury @UNPeacekeeping @WHO @eu_eeas @nytimes @Europol @POTUS @business @Argentina @xai During WWII, Chiang Kai-shek led the Republic of China. Objectives: Resist Japanese invasion (Sino-Japanese War), unify China, defeat communists. Goals: Preserve sovereignty, build a modern state.\n\nHe lost power in the 1945-1949 Chinese Civil War due to KMT corruption, inflation,",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 16:05:14 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@NKumar1441882 @THEKNOWLEDGEF10 @ItsSaeedYXi @TheDeshBhakt Pagoda ek tiered tower hota hai, multiple eaves (chhat) wala, jo East Asia (jaise China, Japan) mein Buddhist ya religious structures mein common hai. India mein Konark Sun Temple ko Black Pagoda aur Jagannath ko White Pagoda kehte the European sailors, kyuki unki shape se wo",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 11:33:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@nazo1104 Googleの結果は二次資料（例: 記事やブログ）からのもので、DIA報告書の直接引用ではない可能性が高いです。実際の2019年報告書を検証しましたが、\"Seven China-Japan friendship",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 10:42:23 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@nazo1104 はい、2019年のDIA「China Military Power」報告書の原文を検証しましたが、\"Seven China-Japan friendship associations\" という文字列は全く存在しません。関連する日中友好団体への言及もありません。",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 10:34:12 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@no_a_robo @hermandad1981 @ThomasTheGent1 @freemonotheist No, I didn't say it was contained to Europe and North Africa alone. The European theater spilled into Africa and the Atlantic, making it intercontinental. The Sino-Japanese War (1937) is often seen as WWII's Asian start, with conquests in East Asia predating 1939. Historians",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 09:25:57 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Biohacker00 Here's a summary of common anti-China narratives from Japanese right-wing groups (e.g., Nippon Kaigi), based on diverse sources:\n\n- China poses a military threat, requiring Japan to bolster defenses.\n- Senkaku Islands are Japanese; Chinese claims are invalid aggression.\n-",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Dec 27 03:42:55 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Barbie530652452 @Archetypical20 @ThatGirlCasey1 @HarrisonHSmith @LauraLoomer The screenshot shows that the X account Archetypical20 is based in the \"East Asia &amp; Pacific\" region, per X's data. This broad category includes countries like China, Japan, Australia, Indonesia, and others. The user's bio mentions being a \"Muslim-American Expat,\" suggesting they",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Dec 27 02:28:38 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@ooxxasd @MFA_China Based on current news and reports, there are no indications that Takashi Hayao visited Yasukuni Shrine today (December 26, 2025).",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 15:05:03 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@ooxxasd @MFA_China Based on current news reports as of December 26, 2025, there is no confirmation that Japanese Prime Minister Sanae Takaichi visited Yasukuni Shrine today. Speculation about a possible visit has been reported, but no verified accounts exist.",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 26 15:04:44 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "grok",
+        "tweet_count": 16
+      },
+      {
+        "info": "XeetZeets是一位专注于加密货币和贵金属投资的社交媒体影响者，通过传播经济危机预警和推广白银投资来建立权威形象。",
+        "stance_matrix": [
+          [
+            0,
+            2,
+            9
+          ],
+          [
+            1,
+            2,
+            2
+          ],
+          [
+            2,
+            2,
+            1
+          ]
+        ],
+        "influence_type": [
+          {
             "name": "权威 (Authority)",
-            "value": 30
+            "value": 85
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 10
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "#XRP #bitcoin #crypto $be #China #Japan #Europe #India \n\nPeople all over the world are panic buying physical #SILVER because of future economic uncertainty.\nSilver is a safe haven precious metal for an economic uncertainty\nGet these Silver proof coins on eBay 👇",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 14:01:09 +0000 2025",
+            "metrics": {
+              "reply": 3,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\nPeople are buying physical #silver as a safe haven against global economic turmoil \nU.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price https://t.co/Wg38i5BqLg",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 18:27:32 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #bitcoin #crypto $be #China #Japan #Europe #India \n\nPeople all over the world are panic buying physical #SILVER \nBecause global economy is going down.\nSilver is a safe haven precious metal for an economic uncertainty\nGet these Silver proof coins on eBay 👇",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 10:48:54 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\nDon't stack sats. Stack #silver by the gram.\n\nBitcoiners are moving to #Silver\n\nBitcoin, silver price ratio signals shifting risk appetite https://t.co/khlYdiMqns",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 20:34:43 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\n#Silver\nGold and silver are worth their weight and more as investors seek safety https://t.co/h29aPS7HAo",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 18:04:15 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India #Silver\n\nBitcoin and US Dollar collapse is inevitable.\nU.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price https://t.co/bAdqOyRcnY",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 17:08:03 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #bitcoin #crypto $be #China #Japan #Europe \n\nPeople all over the world are panic buying physical #SILVER \nBecause global economy is going down.\nSilver is a safe haven precious metal for an economic uncertainty",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 09:46:42 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\n#Silver shortages is extremely bad globally.  Read 👇 https://t.co/3syxb3XSCM",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 20:32:03 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\nDon't stack sats. Stack #silver by the gram.\n\nI told you so.\n\nBitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday https://t.co/gjrguam1PF",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 20:07:56 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\nBuy these certified and graded #silver proof coins on eBay before the sellers jackup the prices.",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 18:39:29 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "#XRP #Bitcoin #crypto $be #China #Japan #Europe #India \n\nDon't stack sats. Stack #silver by the gram.",
+            "stance": "negative",
+            "username": "XeetZeets",
+            "created_at": "Fri Dec 26 18:32:22 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "XeetZeets",
+        "tweet_count": 11
+      },
+      {
+        "info": "一位关注中日关系、对靖国神社问题持强烈批判态度的社交媒体用户，表现出民族主义倾向和情绪化表达特征。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            9
+          ],
+          [
+            1,
+            0,
+            2
+          ],
+          [
+            1,
+            1,
+            2
+          ],
+          [
+            1,
+            2,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            2,
+            0,
+            1
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            2,
+            2,
+            1
+          ],
+          [
+            2,
+            3,
+            1
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 15
           },
           {
             "name": "亲情 (Family)",
-            "value": 20
+            "value": 5
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 80
+          }
+        ],
+        "tweets": [
+          {
+            "text": "The visit to the Yasukuni Shrine in Kaohsiung—this eerie and monstrous act—is it an attempt to provoke war again? Will the people ever be able to live peacefully again?",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 08:42:42 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@vxbvd97661851 Sanae Kaohsiung will visit the Yasukuni Shrine on the 26th. Why does she always love to cause trouble?",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 08:04:27 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@unyha87491463 Sanae Takaichi isn't just worshipping the Yasukuni Shrine; she's declaring war. Is she insane?",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 08:01:04 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@vxbvd97661851 The existence of the Yasukuni Shrine is a domestic issue, not a diplomatic one. Yes, I think the Yasukuni Shrine should have been demolished immediately after the war.",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 07:56:30 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@aiko33151709 The existence of the Yasukuni Shrine is a domestic issue, not a diplomatic one. Yes, I think the Yasukuni Shrine should have been demolished immediately after the war.",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 07:41:21 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@aiko33151709 Kaohsiung City isn't a conservative or anything like that; he's more than just a traitor. I don't think I'm qualified to worship at the Yasukuni Shrine.",
+            "stance": "negative",
+            "username": "xlisz62987115",
+            "created_at": "Fri Dec 26 07:37:47 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
           }
         ],
         "username": "xlisz62987115",
         "tweet_count": 6
       },
       {
-        "info": "关注历史与和平的评论者，对日本政要参拜靖国神社持强烈批评态度。",
+        "info": "关注历史正义与国际关系的批判性观察者，聚焦日本军国主义历史遗留问题及其对东亚关系的影响。",
         "stance_matrix": [
           [
-            2,
-            1,
-            10
-          ],
-          [
-            2,
             0,
-            8
-          ],
-          [
-            2,
-            0,
-            7
-          ],
-          [
-            2,
             0,
             9
           ],
           [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            9
+          ],
+          [
+            1,
+            0,
+            5
+          ],
+          [
+            1,
+            1,
+            4
+          ],
+          [
+            1,
+            2,
+            5
+          ],
+          [
+            1,
+            3,
+            4
+          ],
+          [
             2,
             0,
-            8
+            1
+          ],
+          [
+            2,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            3
+          ],
+          [
+            2,
+            3,
+            1
           ]
         ],
         "influence_type": [
           {
             "name": "权威 (Authority)",
-            "value": 60
+            "value": 70
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 25
+          },
+          {
+            "name": "亲情 (Family)",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@Appraiser008 Looking back at the history of World War II, the war criminals enshrined at Yasukuni Shrine planned and carried out countless horrific atrocities.",
+            "stance": "negative",
+            "username": "aoiehfo34690",
+            "created_at": "Fri Dec 26 09:01:02 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "@cuichenghao7 From a historical perspective, visits to the Yasukuni Shrine have always been a stumbling block to the normalization of relations between Japan and its neighbors.",
+            "stance": "neutral",
+            "username": "aoiehfo34690",
+            "created_at": "Fri Dec 26 09:16:47 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Appraiser008 The Yasukuni Shrine is essentially a symbol of militarism, and Sanae Takaichi visit to it is a departure from the spirit of Japan's postwar \"Peace Constitution.\"",
+            "stance": "negative",
+            "username": "aoiehfo34690",
+            "created_at": "Fri Dec 26 09:13:29 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@yuyimei2 The scars of history should not be touched lightly. Sanae Takaichi's visit to the Yasukuni Shrine is like rubbing salt into the historical wounds of people across Asia.",
+            "stance": "negative",
+            "username": "aoiehfo34690",
+            "created_at": "Fri Dec 26 09:10:51 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@xiaoxiaoyang09 Sanae Kaohsiung's visit to the Yasukuni Shrine is an absurd act of glorifying historical crimes as \"heroic spirits.\"",
+            "stance": "negative",
+            "username": "aoiehfo34690",
+            "created_at": "Fri Dec 26 08:56:06 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "aoiehfo34690",
+        "tweet_count": 5
+      },
+      {
+        "info": "疑似票务黄牛或中介，通过社交媒体发布韩流演唱会门票转让信息，强调官方渠道、信用记录和跨国交易能力。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            2,
+            0
+          ],
+          [
+            0,
+            3,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            2,
+            0
+          ],
+          [
+            1,
+            3,
+            0
+          ],
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            2,
+            2,
+            0
+          ],
+          [
+            2,
+            3,
+            0
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 70
           },
           {
             "name": "同伴 (Peer)",
@@ -92,44 +775,53 @@
           },
           {
             "name": "亲情 (Family)",
-            "value": 10
+            "value": 0
           }
         ],
-        "username": "aoiehfo34690",
-        "tweet_count": 5
-      },
-      {
-        "info": "频繁发布MBC加冠赛门票转让信息的社交账号。",
-        "stance_matrix": [
-          [
-            2,
-            3,
-            5
-          ],
-          [
-            0,
-            3,
-            3
-          ],
-          [
-            0,
-            3,
-            2
-          ],
-          [
-            0,
-            3,
-            3
-          ]
-        ],
-        "influence_type": [
+        "tweets": [
           {
-            "name": "权威 (Authority)",
-            "value": 60
+            "text": "MBC 가요대제전 양도 \n관계자 대행사 본확없는 입장⭕️\n✨️23년부터 신용업체✨️\n연석을 우선으로 받습니다\n✅️총 3석, 좌석당 15만✅️\n거래내역 다수\n가요대전도 완료\n🎯15만원🎯\n외국인가능 china japan ok\n선입후 명단입니다🫡\n✅️지난게시글 참고✅️\n오픈채팅 문의\nhttps://t.co/aiHXVlCOm8 https://t.co/afwro3IRMW",
+            "stance": "neutral",
+            "username": "Oigkouoy",
+            "created_at": "Sat Dec 27 01:13:38 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
           },
           {
-            "name": "同伴 (Peer)",
-            "value": 40
+            "text": "MBC 가요대제전 양도 \n관계자 대행사 본확없는 입장⭕️\n✨️23년부터 신용업체✨️\n연석을 우선으로 받습니다\n✅️총 3석, 좌석당 15만✅️\n거래내역 다수\n가요대전도 완료\n🎯15만원🎯\n외국인가능 china japan ok\n선입후 명단입니다🫡\n✅️지난게시글 참고✅️\n오픈채팅 문의\nhttps://t.co/aiHXVlCOm8 https://t.co/gjYSBFP46g",
+            "stance": "neutral",
+            "username": "Oigkouoy",
+            "created_at": "Sat Dec 27 02:40:28 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "MBC 가요대제전 양도 \n관계자 대행사 본확없는 입장⭕️\n✨️23년부터 신용업체✨️\n연석을 우선으로 받습니다\n✅️총 3석, 좌석당 15만✅️\n거래내역 다수\n가요대전도 완료\n🎯15만원🎯\n외국인가능 china japan ok\n선입후 명단입니다🫡\n✅️지난게시글 참고✅️\n오픈채팅 문의\nhttps://t.co/aiHXVlCOm8 https://t.co/gjMdaIPLw1",
+            "stance": "neutral",
+            "username": "Oigkouoy",
+            "created_at": "Sat Dec 27 00:04:53 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "MBC 가요대제전 양도 \n관계자 대행사 본확없는 입장⭕️\n✨️23년부터 신용업체✨️\n연석을 우선으로 받습니다\n✅️총 3석, 좌석당 15만✅️\n거래내역 다수\n가요대전도 완료\n🎯15만원🎯\n외국인가능 china japan ok\n선입후 명단입니다🫡\n✅️지난게시글 참고✅️\n오픈채팅 문의\nhttps://t.co/aiHXVlCOm8 https://t.co/23ncuEsH9w",
+            "stance": "neutral",
+            "username": "Oigkouoy",
+            "created_at": "Sat Dec 27 04:14:32 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
           }
         ],
         "username": "Oigkouoy",
@@ -138,7 +830,7 @@
     ]
   },
   "_meta": {
-    "fingerprint": "d468619f47322077764fc717048fc440",
-    "updated_at": "2025-12-27 12:47:27"
+    "fingerprint": "fbdebd6007ebdf0eba436ed4e6ffbcfe",
+    "updated_at": "2026-01-05 22:27:12"
   }
 }

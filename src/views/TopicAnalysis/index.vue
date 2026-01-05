@@ -145,7 +145,7 @@ import { ArrowRight, ChatLineSquare, Clock, ChatDotRound, Share, Star } from '@e
 import WordCloud from './components/WordCloud.vue';
 import type { RegionAnalysisData, TopicCluster } from '@/types';
 
-const activeTab = ref('Philippines');
+const activeTab = ref('US');
 const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
 const loading = ref(false);
 const hasData = ref(false);

@@ -147,7 +147,7 @@ import dayjs from 'dayjs';
 import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee } from '@element-plus/icons-vue';
 import type { GuideData, GuideTopicItem } from '@/types';
 
-const activeTab = ref('Philippines');
+const activeTab = ref('US');
 // 默认日期
 const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
 const loading = ref(false);
