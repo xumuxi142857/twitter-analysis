@@ -210,7 +210,6 @@ const fetchData = async () => {
         if (tempStore[region] && region !== '_meta') {
           // 简单合并用户列表，如果同一个用户出现多次，这里暂不合并 tweets 数组，
           // 实际生产中可能需要把多天的 tweets 拼接到一个人身上。
-          // 这里简化为：直接追加，前端列表可能会有重复人名，或者你可以复用之前的 Map 去重逻辑。
           
           // 简易去重逻辑：
           const existingMap = new Map(tempStore[region].top_users.map(u => [u.username, u]));
