@@ -47,7 +47,7 @@ def get_files_fingerprint(date_key):
                 if target_date_str in f and f.endswith('.json'):
                     path = os.path.join(root, f)
                     stat = os.stat(path)
-                    # 包含文件路径、大小、修改时间，确保唯一性
+                    # 确保唯一性
                     related_files.append(f"{f}_{stat.st_size}_{stat.st_mtime}")
     
     if not related_files: return None
@@ -140,10 +140,9 @@ def call_llm_analysis(region, date, raw_items):
     clean_items.sort(key=calculate_impact, reverse=True)
 
     # 3. 截取 Top 100
-    # 这确保了我们只分析这一天这个地区最火的 100 条推文
     top_items = clean_items[:100]
     
-    # 打印日志证明逻辑是正确的
+    # 打印日志证明逻辑正确
     print(f"      [采样日志] {date} | {region}: 原始 {len(raw_items)} 条 -> 精选 Top {len(top_items)} 条")
 
     # 4. 构建 Prompt 输入
@@ -250,12 +249,12 @@ def main():
     
     if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
 
-    # 2. 遍历每一个日期 (例如 2025-12-25)
+    # 2. 遍历每一个日期
     for date_key, regions_data in date_groups.items():
         out_path = os.path.join(OUTPUT_DIR, f"{date_key}.json")
         current_fingerprint = get_files_fingerprint(date_key)
         
-        # 智能跳过逻辑
+        # 智能跳过
         if not check_needs_update(out_path, current_fingerprint):
             print(f"⏩ 日期 {date_key} 未变动，跳过")
             continue

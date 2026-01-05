@@ -102,7 +102,7 @@ def analyze_user_profile(username, raw_tweets):
     """
     if not raw_tweets: return None
 
-    # 1. 智能采样：按互动量排序，取 Top 15
+    # 1. 互动量排序，取 Top 15
     def calculate_impact(item):
         return (item.get('retweet_count', 0)*2) + item.get('reply_count', 0) + (item.get('favorite_count', 0)*0.5)
     
@@ -158,7 +158,7 @@ def analyze_user_profile(username, raw_tweets):
         if response.status_code == 200:
             res_json = json.loads(response.json()['choices'][0]['message']['content'])
             
-            # 3. 数据回填：把 LLM 的立场判断与原始推文拼合
+            # 3. LLM 的立场判断与原始推文拼合
             enriched_tweets = []
             analysis_map = {item['id']: item['stance'] for item in res_json.get('tweet_analysis', [])}
             
@@ -210,7 +210,7 @@ def main():
         for region, users_map in regions_data.items():
             print(f"   -> 板块 [{region}] 共有 {len(users_map)} 个活跃用户")
             
-            # 简单排序：取发帖量最多的 Top 5
+            # 取发帖量最多的 Top 5
             sorted_users = sorted(users_map.items(), key=lambda x: len(x[1]), reverse=True)[:5]
             
             analyzed_list = []

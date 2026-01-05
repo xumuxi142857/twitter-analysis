@@ -12,7 +12,6 @@ MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
-# 输出目录: public/db/guide
 OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'guide')
 
 FILENAME_MAPPING = {
