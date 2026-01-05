@@ -1,0 +1,255 @@
+{
+  "US": {
+    "region": "US",
+    "time_range": [
+      "2025-12-23",
+      "2025-12-23"
+    ],
+    "top_users": [
+      {
+        "info": "关注中美关系和国际贸易动态的分析者。",
+        "stance_matrix": [
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            0,
+            2,
+            3
+          ],
+          [
+            0,
+            3,
+            5
+          ],
+          [
+            2,
+            2,
+            6
+          ],
+          [
+            2,
+            3,
+            8
+          ],
+          [
+            0,
+            3,
+            4
+          ],
+          [
+            0,
+            0,
+            2
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 60
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 30
+          },
+          {
+            "name": "亲情 (Family)",
+            "value": 10
+          }
+        ],
+        "username": "ChinaDaily",
+        "tweet_count": 7
+      },
+      {
+        "info": "关注国际关系与文化交流的社会心理学专家。",
+        "stance_matrix": [
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            6
+          ],
+          [
+            1,
+            3,
+            8
+          ],
+          [
+            0,
+            2,
+            5
+          ],
+          [
+            0,
+            2,
+            4
+          ],
+          [
+            1,
+            2,
+            3
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 60
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 30
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 10
+          }
+        ],
+        "username": "ChinaUSFocus",
+        "tweet_count": 6
+      },
+      {
+        "info": "关注中欧经济关系及科技贸易动态的观察者。",
+        "stance_matrix": [
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 60
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 30
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 10
+          }
+        ],
+        "username": "Reuters",
+        "tweet_count": 5
+      },
+      {
+        "info": "关注中美关系和全球合作的政治领导人。",
+        "stance_matrix": [
+          [
+            2,
+            2,
+            9
+          ],
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            2,
+            3,
+            8
+          ],
+          [
+            2,
+            2,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 70
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 20
+          },
+          {
+            "name": "亲情 (Kinship)",
+            "value": 10
+          }
+        ],
+        "username": "nxt888",
+        "tweet_count": 4
+      },
+      {
+        "info": "关注全球贸易政策的商业策略分析师。",
+        "stance_matrix": [
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            2,
+            3,
+            6
+          ],
+          [
+            2,
+            3,
+            7
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 70
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 20
+          },
+          {
+            "name": "亲情 (Family)",
+            "value": 10
+          }
+        ],
+        "username": "McKinsey_MGI",
+        "tweet_count": 4
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "3394d2e6ad9ba089353ad6dd32b9ce2d",
+    "updated_at": "2025-12-27 12:48:16"
+  }
+}

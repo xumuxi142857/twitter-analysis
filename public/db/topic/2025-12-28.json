@@ -1,0 +1,264 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "time_range": [
+      "2025-12-28",
+      "2025-12-28"
+    ],
+    "top_topics": [
+      {
+        "topic": "日本首相言论干涉中国内政",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本新网络安全策略",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本追求核武器",
+        "stance": "negative"
+      },
+      {
+        "topic": "中日关系基础",
+        "stance": "neutral"
+      },
+      {
+        "topic": "日本试图与中国脱钩",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本首相访问争议靖国神社",
+        "stance": "negative"
+      },
+      {
+        "topic": "中日联合军事演习",
+        "stance": "neutral"
+      },
+      {
+        "topic": "中国对日本施加制裁",
+        "stance": "negative"
+      },
+      {
+        "topic": "中日贸易关系",
+        "stance": "negative"
+      },
+      {
+        "topic": "中日历史矛盾",
+        "stance": "negative"
+      }
+    ],
+    "hot_words": [
+      {
+        "name": "日本",
+        "value": 95
+      },
+      {
+        "name": "中国",
+        "value": 93
+      },
+      "干涉",
+      {
+        "value": 88
+      },
+      "核武器",
+      {
+        "value": 85
+      },
+      "关系",
+      {
+        "value": 83
+      },
+      "靖国神社",
+      {
+        "value": 82
+      },
+      "台湾",
+      {
+        "value": 80
+      },
+      "网络安全",
+      {
+        "value": 78
+      },
+      "脱钩",
+      {
+        "value": 77
+      },
+      "战略",
+      {
+        "value": 75
+      },
+      "演习",
+      {
+        "value": 73
+      },
+      "制裁",
+      {
+        "value": 72
+      },
+      "贸易",
+      {
+        "value": 70
+      },
+      "历史",
+      {
+        "value": 68
+      },
+      "基础",
+      {
+        "value": 66
+      },
+      "外交",
+      {
+        "value": 64
+      },
+      "发展",
+      {
+        "value": 62
+      },
+      "政策",
+      {
+        "value": 60
+      },
+      "关系恶化",
+      {
+        "value": 58
+      }
+    ]
+  },
+  "US": {
+    "region": "US",
+    "time_range": [
+      "2025-12-28",
+      "2025-12-28"
+    ],
+    "top_topics": [
+      {
+        "topic": "中国制裁美国企业",
+        "stance": "negative"
+      },
+      {
+        "topic": "中美高层会晤",
+        "stance": "neutral"
+      },
+      {
+        "topic": "美国限制中国发展",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国威胁使用核武器",
+        "stance": "negative"
+      },
+      {
+        "topic": "中美经贸关系",
+        "stance": "neutral"
+      },
+      {
+        "topic": "美国支持台湾",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国与印度关系",
+        "stance": "negative"
+      },
+      {
+        "topic": "美国在亚洲的盟友",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国与欧洲关系",
+        "stance": "neutral"
+      },
+      {
+        "topic": "中国与俄罗斯关系",
+        "stance": "positive"
+      }
+    ],
+    "hot_words": [
+      {
+        "name": "制裁",
+        "value": 95
+      },
+      {
+        "name": "美国",
+        "value": 90
+      },
+      {
+        "name": "中国",
+        "value": 88
+      },
+      {
+        "name": "台湾",
+        "value": 85
+      },
+      {
+        "name": "关系",
+        "value": 83
+      },
+      {
+        "name": "制裁",
+        "value": 82
+      },
+      {
+        "name": "合作",
+        "value": 80
+      },
+      {
+        "name": "对话",
+        "value": 78
+      },
+      {
+        "name": "军事",
+        "value": 76
+      },
+      {
+        "name": "经济",
+        "value": 74
+      },
+      {
+        "name": "外交",
+        "value": 72
+      },
+      {
+        "name": "政策",
+        "value": 70
+      },
+      {
+        "name": "军事",
+        "value": 68
+      },
+      {
+        "name": "贸易",
+        "value": 66
+      },
+      {
+        "name": "美国",
+        "value": 64
+      },
+      {
+        "name": "中国",
+        "value": 62
+      },
+      {
+        "name": "制裁",
+        "value": 60
+      },
+      {
+        "name": "关系",
+        "value": 58
+      },
+      {
+        "name": "美国",
+        "value": 56
+      },
+      {
+        "name": "中国",
+        "value": 54
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "7938936668fae87a967e6a732cc24463",
+    "updated_at": "2025-12-29 15:26:05"
+  }
+}

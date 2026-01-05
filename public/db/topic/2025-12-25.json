@@ -1,0 +1,268 @@
+{
+  "Philippines": {
+    "region": "Philippines",
+    "time_range": [
+      "2025-12-25",
+      "2025-12-25"
+    ],
+    "top_topics": [
+      {
+        "topic": "中国在南中国海的破坏行为",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国在菲律宾海域的执法行为",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国在南中国海的军事活动",
+        "stance": "negative"
+      },
+      {
+        "topic": "菲律宾在南中国海的维权行动",
+        "stance": "positive"
+      },
+      {
+        "topic": "南中国海的渔业冲突",
+        "stance": "negative"
+      },
+      {
+        "topic": "南中国海的军事演习",
+        "stance": "neutral"
+      },
+      {
+        "topic": "南中国海的外交斡旋",
+        "stance": "neutral"
+      },
+      {
+        "topic": "南中国海的环境破坏",
+        "stance": "negative"
+      },
+      {
+        "topic": "南中国海的领土争端",
+        "stance": "negative"
+      },
+      {
+        "topic": "南中国海的和平倡议",
+        "stance": "positive"
+      }
+    ],
+    "hot_words": [
+      {
+        "name": "中国",
+        "value": 95
+      },
+      {
+        "name": "菲律宾",
+        "value": 90
+      },
+      {
+        "name": "南中国海",
+        "value": 93
+      },
+      {
+        "name": "执法",
+        "value": 88
+      },
+      {
+        "name": "破坏",
+        "value": 85
+      },
+      {
+        "name": "军事",
+        "value": 82
+      },
+      {
+        "name": "渔业",
+        "value": 79
+      },
+      {
+        "name": "演习",
+        "value": 76
+      },
+      {
+        "name": "外交",
+        "value": 73
+      },
+      {
+        "name": "环境",
+        "value": 70
+      },
+      {
+        "name": "冲突",
+        "value": 68
+      },
+      {
+        "name": "维权",
+        "value": 65
+      },
+      {
+        "name": "军事活动",
+        "value": 62
+      },
+      {
+        "name": "军事演习",
+        "value": 60
+      },
+      {
+        "name": "军事行动",
+        "value": 58
+      },
+      {
+        "name": "军事干预",
+        "value": 56
+      },
+      {
+        "name": "军事威胁",
+        "value": 54
+      },
+      {
+        "name": "军事部署",
+        "value": 52
+      },
+      {
+        "name": "军事力量",
+        "value": 50
+      },
+      {
+        "name": "军事存在",
+        "value": 48
+      }
+    ]
+  },
+  "Taiwan": {
+    "region": "Taiwan",
+    "time_range": [
+      "2025-12-25",
+      "2025-12-25"
+    ],
+    "top_topics": [
+      {
+        "topic": "台湾领导人发表亲独言论",
+        "stance": "negative"
+      },
+      {
+        "topic": "台湾与大陆关系紧张",
+        "stance": "negative"
+      },
+      {
+        "topic": "台湾选举对两岸关系的影响",
+        "stance": "neutral"
+      },
+      {
+        "topic": "台湾青年赴大陆发展",
+        "stance": "neutral"
+      },
+      {
+        "topic": "1992共识",
+        "stance": "positive"
+      },
+      {
+        "topic": "台湾运动员在大陆交流",
+        "stance": "neutral"
+      },
+      {
+        "topic": "台湾与欧美国家合作",
+        "stance": "neutral"
+      },
+      {
+        "topic": "台湾媒体支持两岸统一",
+        "stance": "positive"
+      },
+      {
+        "topic": "台湾与大陆经济联系",
+        "stance": "neutral"
+      },
+      {
+        "topic": "台湾与美国关系",
+        "stance": "neutral"
+      }
+    ],
+    "hot_words": [
+      {
+        "name": "台湾",
+        "value": 95
+      },
+      {
+        "name": "台湾独立",
+        "value": 90
+      },
+      {
+        "name": "1992共识",
+        "value": 88
+      },
+      {
+        "name": "两岸",
+        "value": 85
+      },
+      {
+        "name": "选举",
+        "value": 83
+      },
+      {
+        "name": "青年",
+        "value": 82
+      },
+      {
+        "name": "共识",
+        "value": 80
+      },
+      {
+        "name": "关系",
+        "value": 79
+      },
+      {
+        "name": "中国",
+        "value": 78
+      },
+      {
+        "name": "共识",
+        "value": 77
+      },
+      {
+        "name": "交流",
+        "value": 76
+      },
+      {
+        "name": "美国",
+        "value": 75
+      },
+      {
+        "name": "发展",
+        "value": 74
+      },
+      {
+        "name": "台湾",
+        "value": 73
+      },
+      {
+        "name": "共识",
+        "value": 72
+      },
+      {
+        "name": "台湾",
+        "value": 71
+      },
+      {
+        "name": "共识",
+        "value": 70
+      },
+      {
+        "name": "台湾",
+        "value": 69
+      },
+      {
+        "name": "共识",
+        "value": 68
+      },
+      {
+        "name": "台湾",
+        "value": 67
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "69da8678ce8a18bdf1fd2b9543a6a159",
+    "updated_at": "2025-12-27 12:41:20"
+  }
+}

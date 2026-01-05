@@ -1,0 +1,144 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "time_range": [
+      "2025-12-27",
+      "2025-12-27"
+    ],
+    "top_users": [
+      {
+        "info": "关注台湾历史与政治，反对靖国神社的激进人士。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            7
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            1,
+            2,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "同伴 (Peer)",
+            "value": 50
+          },
+          {
+            "name": "权威 (Authority)",
+            "value": 30
+          },
+          {
+            "name": "亲情 (Family)",
+            "value": 20
+          }
+        ],
+        "username": "xlisz62987115",
+        "tweet_count": 6
+      },
+      {
+        "info": "关注历史与和平的评论者，对日本政要参拜靖国神社持强烈批评态度。",
+        "stance_matrix": [
+          [
+            2,
+            1,
+            10
+          ],
+          [
+            2,
+            0,
+            8
+          ],
+          [
+            2,
+            0,
+            7
+          ],
+          [
+            2,
+            0,
+            9
+          ],
+          [
+            2,
+            0,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 60
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 30
+          },
+          {
+            "name": "亲情 (Family)",
+            "value": 10
+          }
+        ],
+        "username": "aoiehfo34690",
+        "tweet_count": 5
+      },
+      {
+        "info": "频繁发布MBC加冠赛门票转让信息的社交账号。",
+        "stance_matrix": [
+          [
+            2,
+            3,
+            5
+          ],
+          [
+            0,
+            3,
+            3
+          ],
+          [
+            0,
+            3,
+            2
+          ],
+          [
+            0,
+            3,
+            3
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威 (Authority)",
+            "value": 60
+          },
+          {
+            "name": "同伴 (Peer)",
+            "value": 40
+          }
+        ],
+        "username": "Oigkouoy",
+        "tweet_count": 4
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "d468619f47322077764fc717048fc440",
+    "updated_at": "2025-12-27 12:47:27"
+  }
+}

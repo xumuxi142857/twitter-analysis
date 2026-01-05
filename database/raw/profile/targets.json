@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "profile_asahi.json",
+    "name": "asahi",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_NHKnews.json",
+    "name": "NHKnews",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_mainichi.json",
+    "name": "mainichi",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_kantei.json",
+    "name": "kantei",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Kishida230.json",
+    "name": "Kishida230",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_sugawitter.json",
+    "name": "sugawitter",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_CNN.json",
+    "name": "CNN",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_FoxNews.json",
+    "name": "FoxNews",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_nytimes.json",
+    "name": "nytimes",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_POTUS.json",
+    "name": "POTUS",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_SecBlinken.json",
+    "name": "SecBlinken",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_VP.json",
+    "name": "VP",
+    "region": "US",
+    "category": "politician"
+  }
+]

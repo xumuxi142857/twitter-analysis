@@ -1,0 +1,137 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "time_range": [
+      "2025-12-27",
+      "2025-12-27"
+    ],
+    "top_topics": [
+      {
+        "topic": "日本增加军费",
+        "stance": "negative"
+      },
+      {
+        "topic": "中国与日本的领土争端",
+        "stance": "negative"
+      },
+      {
+        "topic": "反华言论",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本右翼观点",
+        "stance": "neutral"
+      },
+      {
+        "topic": "中国在国际上的影响力",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本对华政策转变",
+        "stance": "negative"
+      },
+      {
+        "topic": "日本历史争议",
+        "stance": "negative"
+      },
+      {
+        "topic": "地区安全局势",
+        "stance": "negative"
+      },
+      {
+        "topic": "经济竞争",
+        "stance": "negative"
+      },
+      {
+        "topic": "文化与历史交流",
+        "stance": "neutral"
+      }
+    ],
+    "hot_words": [
+      {
+        "name": "日本",
+        "value": 95
+      },
+      {
+        "name": "中国",
+        "value": 92
+      },
+      {
+        "name": "军费",
+        "value": 88
+      },
+      {
+        "name": "领土",
+        "value": 85
+      },
+      {
+        "name": "右翼",
+        "value": 83
+      },
+      {
+        "name": "安全",
+        "value": 82
+      },
+      {
+        "name": "反华",
+        "value": 80
+      },
+      {
+        "name": "战争",
+        "value": 79
+      },
+      {
+        "name": "经济",
+        "value": 78
+      },
+      {
+        "name": "右翼",
+        "value": 77
+      },
+      {
+        "name": "历史",
+        "value": 76
+      },
+      {
+        "name": "外交",
+        "value": 75
+      },
+      {
+        "name": "军事",
+        "value": 74
+      },
+      {
+        "name": "贸易",
+        "value": 73
+      },
+      {
+        "name": "安全",
+        "value": 72
+      },
+      {
+        "name": "文化",
+        "value": 71
+      },
+      {
+        "name": "政策",
+        "value": 70
+      },
+      {
+        "name": "领土",
+        "value": 69
+      },
+      {
+        "name": "右翼",
+        "value": 68
+      },
+      {
+        "name": "日本",
+        "value": 67
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "d468619f47322077764fc717048fc440",
+    "updated_at": "2025-12-27 12:41:07"
+  }
+}
