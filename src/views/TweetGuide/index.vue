@@ -1,22 +1,12 @@
 <template>
   <div class="guide-page">
     <div class="header-section">
-      <h1 class="page-title">智能推文引导与应对</h1>
-      <p class="page-subtitle">AI-Powered Response Generation & Public Opinion Guidance</p>
-    </div>
-
-    <div class="control-panel">
-      <div class="left-controls">
-        <el-tabs v-model="activeTab" class="custom-tabs" @tab-change="resetSelection">
-          <el-tab-pane label="🇺🇸 中美关系" name="US"></el-tab-pane>
-          <el-tab-pane label="🇯🇵 中日关系" name="Japan"></el-tab-pane>
-          <el-tab-pane label="🇵🇭 中菲关系" name="Philippines"></el-tab-pane>
-          <el-tab-pane label="🇹🇼 两岸关系" name="Taiwan"></el-tab-pane>
-        </el-tabs>
+      <div class="header-content">
+        <h1 class="page-title">智能推文引导与应对</h1>
+        <p class="page-subtitle">AI-Powered Response Generation & Public Opinion Guidance</p>
       </div>
-
-      <div class="right-controls">
-        <span class="label">事件时间:</span>
+      <div class="header-actions">
+        <span class="label">监测时间段:</span>
         <el-date-picker
           v-model="dateRange"
           type="daterange"
@@ -24,109 +14,155 @@
           start-placeholder="开始"
           end-placeholder="结束"
           value-format="YYYY-MM-DD"
-          :disabled-date="disabledDate"
           :clearable="false"
           @change="fetchData"
+          size="default"
         />
       </div>
     </div>
 
-    <div v-loading="loading" style="min-height: 400px;">
-      
+    <div class="nav-bar">
+      <el-tabs v-model="activeTab" class="custom-tabs" @tab-change="resetSelection">
+        <el-tab-pane label="🇺🇸 中美关系" name="US"></el-tab-pane>
+        <el-tab-pane label="🇯🇵 中日关系" name="Japan"></el-tab-pane>
+        <el-tab-pane label="🇵🇭 中菲关系" name="Philippines"></el-tab-pane>
+        <el-tab-pane label="🇹🇼 两岸关系" name="Taiwan"></el-tab-pane>
+      </el-tabs>
+    </div>
+
+    <div v-loading="loading" class="main-content">
       <div v-if="hasData">
-        <el-card class="modern-card">
+        <el-card class="topic-card" shadow="hover">
           <template #header>
             <div class="card-header">
-              <span>📋 待引导舆情事件 ({{ dateRange ? `${dateRange[0]} ~ ${dateRange[1]}` : '' }})</span>
+              <span class="header-title">📋 待引导舆情话题</span>
+              <el-tag type="info" effect="plain" round>{{ currentData.topics.length }} 个热点</el-tag>
             </div>
           </template>
-          
-          <el-table :data="currentData.topics" style="width: 100%" row-key="topic">
+
+          <el-table 
+            :data="currentData.topics" 
+            style="width: 100%" 
+            highlight-current-row
+            @current-change="handleTopicChange"
+            :row-class-name="tableRowClassName"
+          >
             <el-table-column type="index" label="No." width="60" align="center" />
-            
-            <el-table-column prop="topic" label="舆情话题 (Topic Focus)" min-width="400">
+            <el-table-column prop="topic" label="话题焦点 (Topic Focus)" min-width="400">
+               <template #default="{ row }">
+                 <span style="font-weight: 600;">{{ row.topic }}</span>
+               </template>
+            </el-table-column>
+            <el-table-column prop="stance" label="当前立场" width="120" align="center">
               <template #default="{ row }">
-                <span class="topic-text">{{ row.topic }}</span>
+                <el-tag :type="getStanceColor(row.stance)" effect="dark" size="small" round>{{ row.stance }}</el-tag>
               </template>
             </el-table-column>
-
-            <el-table-column prop="stance" label="当前立场" width="150" align="center">
+            <el-table-column label="状态" width="150" align="center">
               <template #default="{ row }">
-                <el-tag :type="getStanceColor(row.stance)" effect="light" round>
-                  {{ row.stance }}
-                </el-tag>
-              </template>
-            </el-table-column>
-
-            <el-table-column label="操作 (Action)" width="180" align="center">
-              <template #default="{ row }">
-                <el-button 
-                  type="primary" 
-                  :icon="MagicStick" 
-                  round 
-                  plain
-                  :loading="generatingId === row.topic"
-                  @click="handleGenerate(row)"
+                <el-button
+                  v-if="activeTopic !== row"
+                  type="primary"
+                  link
+                  @click.stop="handleTopicChange(row)"
                 >
-                  {{ activeTopic === row ? '收起策略' : '生成引导文案' }}
+                  点击展开分析
                 </el-button>
+                <el-tag v-else type="primary" effect="light">正在分析</el-tag>
               </template>
             </el-table-column>
           </el-table>
         </el-card>
 
-        <transition name="el-fade-in-linear">
-          <div v-if="activeTopic" class="draft-section">
-            <div class="section-title">
-              <el-icon><EditPen /></el-icon>
-              <span>针对话题: “{{ activeTopic.topic }}” 的应对策略草稿</span>
-            </div>
+        <transition name="el-zoom-in-top">
+          <div v-if="activeTopic" class="workspace-section">
+            <el-row :gutter="24">
+              
+              <el-col :span="9">
+                <div class="panel-header">
+                  <div class="ph-left">
+                    <el-icon><Postcard /></el-icon>
+                    <span>精选推文流</span>
+                  </div>
+                  <span class="ph-sub">共 {{ activeTopic.tweets?.length || 0 }} 条</span>
+                </div>
 
-            <el-row :gutter="20">
-              <el-col :span="8">
-                <div class="draft-card authority">
-                  <div class="card-icon">
-                    <el-icon><Stamp /></el-icon>
-                  </div>
-                  <h3 class="card-title">权威引导 (Authority)</h3>
-                  <p class="card-desc">官方口吻 / 引用法规 / 严正声明</p>
-                  <div class="draft-content">
-                    "{{ activeTopic.drafts.authority }}"
-                  </div>
-                  <div class="card-footer">
-                    <el-button link type="primary">复制草稿</el-button>
-                  </div>
+                <div class="tweet-list-container">
+                  <el-scrollbar height="650px">
+                    <div v-if="activeTopic.tweets && activeTopic.tweets.length > 0" class="tweet-stack">
+                      <div 
+                        v-for="(tweet, idx) in activeTopic.tweets" 
+                        :key="idx" 
+                        :class="['tweet-card', { 'is-active': selectedTweetForDraft === tweet }]"
+                        @click="handleGenerateForTweet(tweet)"
+                      >
+                        <div class="t-header">
+                          <span class="t-author">@{{ tweet.username || 'user_unknown' }}</span>
+                          <span class="t-time">{{ tweet.created_at }}</span>
+                        </div>
+                        <div class="t-content">{{ tweet.text }}</div>
+                        <div class="t-footer">
+                          <div class="t-metrics">
+                            <span><el-icon><Star /></el-icon> {{ tweet.metrics?.like || 0 }}</span>
+                            <span><el-icon><Share /></el-icon> {{ tweet.metrics?.retweet || 0 }}</span>
+                          </div>
+                          <el-button 
+                            size="small" 
+                            :type="selectedTweetForDraft === tweet ? 'success' : 'primary'" 
+                            :plain="selectedTweetForDraft !== tweet"
+                            round
+                          >
+                            {{ selectedTweetForDraft === tweet ? '分析中' : '生成策略' }}
+                            <el-icon class="el-icon--right"><MagicStick /></el-icon>
+                          </el-button>
+                        </div>
+                      </div>
+                    </div>
+                    <el-empty v-else description="该话题下暂无推文" image-size="100" />
+                  </el-scrollbar>
                 </div>
               </el-col>
 
-              <el-col :span="8">
-                <div class="draft-card peer">
-                  <div class="card-icon">
-                    <el-icon><ChatDotRound /></el-icon>
+              <el-col :span="15">
+                <div class="strategy-panel">
+                  <div class="panel-header">
+                    <div class="ph-left">
+                      <el-icon><EditPen /></el-icon>
+                      <span>智能应对策略 (AI Copilot)</span>
+                    </div>
                   </div>
-                  <h3 class="card-title">同伴引导 (Peer)</h3>
-                  <p class="card-desc">平视视角 / 网络语言 / 幽默反讽</p>
-                  <div class="draft-content">
-                    "{{ activeTopic.drafts.peer }}"
-                  </div>
-                  <div class="card-footer">
-                    <el-button link type="warning">复制草稿</el-button>
-                  </div>
-                </div>
-              </el-col>
 
-              <el-col :span="8">
-                <div class="draft-card kinship">
-                  <div class="card-icon">
-                    <el-icon><Coffee /></el-icon>
-                  </div>
-                  <h3 class="card-title">亲情引导 (Kinship)</h3>
-                  <p class="card-desc">感性共情 / 呼唤和平 / 情感连接</p>
-                  <div class="draft-content">
-                    "{{ activeTopic.drafts.kinship }}"
-                  </div>
-                  <div class="card-footer">
-                    <el-button link type="danger">复制草稿</el-button>
+                  <div class="strategy-content">
+                    <div v-if="!selectedTweetForDraft" class="empty-state-wrapper">
+                      <el-empty description="请从左侧点击一条推文，AI 将为您生成针对性回复策略" />
+                    </div>
+
+                    <div v-else class="strategy-result">
+                      <div class="context-box">
+                        <div class="context-label">针对目标推文：</div>
+                        <div class="context-text">"{{ selectedTweetForDraft.text }}"</div>
+                      </div>
+
+                      <div class="draft-grid">
+                        <div v-for="(val, key) in draftTypes" :key="key" :class="['draft-box', key]">
+                          <div class="box-header">
+                            <el-icon :size="20"><component :is="val.icon" /></el-icon>
+                            <span class="box-title">{{ val.label }}</span>
+                            <el-tag size="small" :type="val.tagType" effect="plain">{{ val.desc }}</el-tag>
+                          </div>
+                          
+                          <div class="box-body">
+                            <div class="ai-text">
+                              {{ (activeTopic && activeTopic.drafts && activeTopic.drafts[key]) ? activeTopic.drafts[key] : 'AI 思考中...' }}
+                            </div>
+                          </div>
+
+                          <div class="box-footer">
+                             <el-button size="small" :type="val.btnType" plain @click="copyText(activeTopic.drafts[key])">复制文案</el-button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </el-col>
@@ -134,8 +170,7 @@
           </div>
         </transition>
       </div>
-
-      <el-empty v-else description="该时间段内暂无需要引导的舆情事件" />
+      <el-empty v-else description="该时间段内暂无监测数据" />
     </div>
   </div>
 </template>
@@ -144,234 +179,315 @@
 import { ref, computed, onMounted } from 'vue';
 import axios from 'axios';
 import dayjs from 'dayjs';
-import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee } from '@element-plus/icons-vue';
-import type { GuideData, GuideTopicItem } from '@/types';
+import { ElMessage } from 'element-plus';
+import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard } from '@element-plus/icons-vue';
 
-const activeTab = ref('US');
-// 默认日期
+// --- 数据定义 ---
+const activeTab = ref('Philippines');
 const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
 const loading = ref(false);
 const hasData = ref(true);
 
-const activeTopic = ref<GuideTopicItem | null>(null);
-const generatingId = ref<string>('');
+const activeTopic = ref<any>(null); 
+const selectedTweetForDraft = ref<any>(null); 
+const regionDataStore = ref<Record<string, any>>({});
+const currentData = computed(() => regionDataStore.value[activeTab.value] || { topics: [] });
 
-// 数据存储
-const regionDataStore = ref<Record<string, GuideData>>({});
+// 配置项优化
+const draftTypes = {
+  authority: { label: '权威引导', icon: Stamp, desc: '引用法规/官方', btnType: 'primary', tagType: '' },
+  peer: { label: '同伴引导', icon: ChatDotRound, desc: '平视/网络语', btnType: 'warning', tagType: 'warning' },
+  kinship: { label: '亲情引导', icon: Coffee, desc: '共情/感性', btnType: 'danger', tagType: 'danger' }
+};
 
-const currentData = computed(() => {
-  return regionDataStore.value[activeTab.value] || { topics: [] };
-});
-
-const disabledDate = (time: Date) => time.getTime() > Date.now();
+// --- 方法 ---
 
 const resetSelection = () => {
   activeTopic.value = null;
+  selectedTweetForDraft.value = null;
 };
 
-// 核心：数据获取与聚合
+const handleTopicChange = (row: any) => {
+  if (activeTopic.value === row) return; // 重复点击不处理
+  activeTopic.value = row;
+  selectedTweetForDraft.value = null; // 切换话题清空选中的推文
+};
+
+const tableRowClassName = ({ row }: { row: any }) => {
+  return row === activeTopic.value ? 'highlight-row' : '';
+};
+
 const fetchData = async () => {
   if (!dateRange.value) return;
-  
   loading.value = true;
-  hasData.value = false;
-  activeTopic.value = null; // 清空当前选中的
-  
+  activeTopic.value = null;
+  selectedTweetForDraft.value = null;
+
   const [start, end] = dateRange.value;
   const startDate = dayjs(start);
-  const endDate = dayjs(end);
-  const diffDays = endDate.diff(startDate, 'day');
+  const diffDays = dayjs(end).diff(startDate, 'day');
 
   const promises = [];
   for (let i = 0; i <= diffDays; i++) {
     const dateStr = startDate.add(i, 'day').format('YYYY-MM-DD');
-    promises.push(
-      axios.get(`/db/guide/${dateStr}.json`)
-        .then(res => res.data)
-        .catch(() => null)
-    );
+    promises.push(axios.get(`/db/guide/${dateStr}.json`).then(res => res.data).catch(() => null));
   }
 
   const results = await Promise.all(promises);
-
-  const tempStore: Record<string, GuideData> = {
-    US: { region: 'US', time_range: dateRange.value, topics: [] },
-    Japan: { region: 'Japan', time_range: dateRange.value, topics: [] },
-    Philippines: { region: 'Philippines', time_range: dateRange.value, topics: [] },
-    Taiwan: { region: 'Taiwan', time_range: dateRange.value, topics: [] }
-  };
-
-  let foundAnyData = false;
+  const tempStore: any = { US: { topics: [] }, Japan: { topics: [] }, Philippines: { topics: [] }, Taiwan: { topics: [] } };
+  let found = false;
 
   results.forEach(dayData => {
     if (dayData) {
-      foundAnyData = true;
-      Object.keys(dayData).forEach(region => {
-        if (tempStore[region]) {
-          // 直接拼接所有话题，让用户看到所有日期的事件
-          const newTopics = dayData[region].topics || [];
-          tempStore[region].topics.push(...newTopics);
+      found = true;
+      Object.keys(dayData).forEach(reg => {
+        if (tempStore[reg]) {
+          const rawTopics = dayData[reg].top_topics || [];
+          const processedTopics = rawTopics.map((t: any) => ({
+            ...t,
+            stance: t.stance || (t.tweets && t.tweets[0]?.stance) || 'neutral'
+          }));
+          tempStore[reg].topics.push(...processedTopics);
         }
       });
     }
   });
 
-  if (foundAnyData) {
-    regionDataStore.value = tempStore;
-    hasData.value = true;
-  } else {
-    hasData.value = false;
-  }
-  
+  regionDataStore.value = tempStore;
+  hasData.value = found;
   loading.value = false;
 };
 
-const getStanceColor = (stance: string) => {
-  if (stance === 'positive') return 'success';
-  if (stance === 'negative') return 'danger';
-  return 'info';
-};
+const getStanceColor = (s: string) => s === 'negative' ? 'danger' : (s === 'positive' ? 'success' : 'info');
 
-const handleGenerate = (row: GuideTopicItem) => {
-  if (activeTopic.value === row) {
-    activeTopic.value = null;
-    return;
+const handleGenerateForTweet = async (tweet: any) => {
+  // 如果点击的是已经选中的，就不重复请求
+  if(selectedTweetForDraft.value === tweet && activeTopic.value.drafts?.authority) return;
+
+  selectedTweetForDraft.value = tweet;
+
+  if (!activeTopic.value.drafts) {
+    activeTopic.value.drafts = { authority: '', peer: '', kinship: '' };
   }
-  
-  generatingId.value = row.topic;
-  setTimeout(() => {
-    activeTopic.value = row;
-    generatingId.value = '';
-    setTimeout(() => {
-      window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-    }, 100);
-  }, 500);
+  // Loading 状态
+  activeTopic.value.drafts = { 
+    authority: "AI 正在思考策略...", 
+    peer: "AI 正在组织语言...", 
+    kinship: "AI 正在分析情感..." 
+  };
+
+  try {
+    const response = await axios.post('http://127.0.0.1:5000/api/generate_guide', {
+      text: tweet.text,
+      topic: activeTopic.value.topic,
+      region: activeTab.value
+    });
+    activeTopic.value.drafts = { ...response.data };
+  } catch (error) {
+    console.error(error);
+    activeTopic.value.drafts.authority = "请求失败，请稍后重试";
+  }
 };
 
-onMounted(() => {
-  fetchData();
-});
+const copyText = (text: string) => {
+  if(!text) return;
+  navigator.clipboard.writeText(text).then(() => {
+    ElMessage.success('文案已复制');
+  });
+}
+
+onMounted(() => fetchData());
 </script>
 
 <style scoped lang="scss">
+/* 全局布局变量 */
+$bg-color: #f3f6f9;
+$card-radius: 12px;
+$primary-color: #409eff;
+
 .guide-page {
-  padding: 30px 60px;
-  background-color: #f0f4f8;
+  padding: 20px 40px;
+  background-color: $bg-color;
   min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-.header-section { margin-bottom: 30px; text-align: center; }
-.page-title { font-size: 28px; font-weight: 700; color: #1f2937; margin: 0; }
-.page-subtitle { font-size: 14px; color: #6b7280; margin-top: 8px; text-transform: uppercase; letter-spacing: 1px; }
-
-.control-panel {
+/* 头部样式优化 */
+.header-section {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 24px;
-  background: #ffffff;
-  padding: 10px 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  align-items: flex-end;
+  margin-bottom: 20px;
   
-  .right-controls {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    .label { font-size: 14px; font-weight: bold; color: #6b7280; }
+  .page-title { margin: 0; font-size: 26px; color: #1f2937; }
+  .page-subtitle { margin: 5px 0 0; color: #6b7280; font-size: 14px; }
+  
+  .header-actions {
+    display: flex; align-items: center; gap: 10px;
+    background: #fff; padding: 8px 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    .label { font-size: 13px; font-weight: 500; color: #4b5563; }
   }
 }
 
-.modern-card {
-  border: none;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+.nav-bar { margin-bottom: 20px; }
+.custom-tabs :deep(.el-tabs__nav-wrap::after) { height: 1px; background-color: #e5e7eb; }
+
+/* 话题卡片样式 */
+.topic-card {
+  border: none; border-radius: $card-radius; margin-bottom: 24px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.05);
+  
+  .card-header { display: flex; justify-content: space-between; align-items: center; }
+  .header-title { font-weight: 600; font-size: 16px; color: #374151; }
 }
 
-.topic-text { font-weight: 500; color: #374151; font-size: 16px; }
-
-/* 引导草稿区域 */
-.draft-section {
-  margin-top: 30px;
-  animation: slideUp 0.4s ease-out;
+/* 核心工作台样式 */
+.workspace-section {
+  margin-top: 20px;
 }
 
-.section-title {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 18px;
-  font-weight: 700;
-  color: #1f2937;
-  margin-bottom: 20px;
-  padding-left: 10px;
+.panel-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 12px; padding: 0 4px;
+  
+  .ph-left { display: flex; align-items: center; gap: 8px; font-weight: 600; color: #374151; font-size: 16px; }
+  .ph-sub { font-size: 14px; color: #9ca3af; }
 }
 
-.draft-card {
-  background: white;
-  border-radius: 16px;
-  padding: 24px;
-  text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 1px solid rgba(0,0,0,0.02);
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+/* 左侧：推文列表 */
+.tweet-list-container {
+  padding-right: 5px; /* 防止滚动条太贴边 */
+}
+
+.tweet-stack {
+  display: flex; flex-direction: column; gap: 12px;
+}
+
+.tweet-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
 
   &:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-color: $primary-color;
   }
 
-  .card-icon {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 28px;
-    margin-bottom: 16px;
+  &.is-active {
+    border: 2px solid $primary-color;
+    background: #f0f9ff;
+    .t-author { color: #0369a1; }
   }
 
-  .card-title { font-size: 18px; font-weight: 700; margin: 0 0 8px 0; color: #1f2937; }
-  .card-desc { font-size: 12px; color: #9ca3af; margin: 0 0 20px 0; }
+  .t-header { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 12px; color: #6b7280; }
+  .t-author { font-weight: 700; color: #4b5563; }
   
-  .draft-content {
-    background: #f9fafb;
-    padding: 16px;
-    border-radius: 12px;
-    font-size: 15px;
-    line-height: 1.6;
-    color: #4b5563;
-    font-style: italic;
-    margin-bottom: 16px;
-    flex-grow: 1;
-    width: 100%;
-    text-align: left;
-    position: relative;
-    &::before { content: '“'; font-size: 40px; position: absolute; top: -10px; left: 5px; color: #e5e7eb; font-family: serif; }
+  .t-content { font-size: 18px; line-height: 1.5; color: #1f2937; margin-bottom: 12px; }
+  
+  .t-footer {
+    display: flex; justify-content: space-between; align-items: center;
+    .t-metrics { display: flex; gap: 12px; font-size: 18px; color: #9ca3af; .el-icon { vertical-align: -1px; } }
   }
 }
 
-.draft-card.authority {
-  border-top: 4px solid #2563eb;
-  .card-icon { background: #eff6ff; color: #2563eb; }
+/* 右侧：策略面板 */
+.strategy-panel {
+  background: #fff;
+  border-radius: $card-radius;
+  padding: 20px;
+  height: 650px; /* 与左侧滚动高度保持一致 */
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
 }
 
-.draft-card.peer {
-  border-top: 4px solid #f59e0b;
-  .card-icon { background: #fffbeb; color: #f59e0b; }
+.strategy-content {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding-right: 5px;
 }
 
-.draft-card.kinship {
-  border-top: 4px solid #e11d48;
-  .card-icon { background: #fff1f2; color: #e11d48; }
+.empty-state-wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+.context-box {
+  background: #f8fafc;
+  border-left: 4px solid #64748b;
+  padding: 12px 16px;
+  margin-bottom: 20px;
+  border-radius: 0 8px 8px 0;
+  
+  .context-label { font-size: 12px; font-weight: bold; color: #64748b; margin-bottom: 4px; }
+  .context-text { font-size: 18px; color: #334155; font-style: italic; line-height: 1.4; }
+}
+
+.draft-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.draft-box {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+
+  &:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+  .box-header {
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    
+    .box-title { flex-grow: 1; }
+  }
+
+  .box-body {
+    padding: 15px;
+    background: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #374151;
+    min-height: 80px;
+  }
+
+  .box-footer {
+    padding: 8px 15px;
+    background: #f9fafb;
+    border-top: 1px solid #f3f4f6;
+    text-align: right;
+  }
+  
+  /* 不同类型的配色 */
+  &.authority {
+    border-color: #bfdbfe;
+    .box-header { background: #eff6ff; color: #1e40af; }
+  }
+  &.peer {
+    border-color: #fde68a;
+    .box-header { background: #fffbeb; color: #92400e; }
+  }
+  &.kinship {
+    border-color: #fecdd3;
+    .box-header { background: #fff1f2; color: #9f1239; }
+  }
+}
+
+/* Element UI 覆盖 */
+:deep(.highlight-row) {
+  background-color: #ecf5ff !important; /* 话题选中背景色 */
 }
 </style>
