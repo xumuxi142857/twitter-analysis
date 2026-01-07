@@ -1,0 +1,716 @@
+{
+  "id": "profile_POTUS.json",
+  "_fingerprint": "8a8ac941b559def9ff8422c4f96ba752",
+  "name": "POTUS",
+  "username": "POTUS",
+  "category": "politician",
+  "metrics": {
+    "bio": "美国总统，强调美国优先、国家安全、经济繁荣，经常使用“让美国再次伟大”等口号，关注移民、军事、外交等议题。",
+    "daily_count": 0.9,
+    "keywords": [
+      "美国优先",
+      "国家安全",
+      "经济繁荣",
+      "移民政策",
+      "军事力量"
+    ]
+  },
+  "stance_matrix": [
+    [
+      -0.8,
+      0.7,
+      0.9
+    ],
+    [
+      -0.9,
+      0.8,
+      0.85
+    ],
+    [
+      0.3,
+      0.9,
+      0.7
+    ],
+    [
+      -0.7,
+      0.6,
+      0.8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 95
+    },
+    {
+      "name": "煽动性",
+      "value": 85
+    },
+    {
+      "name": "信息传播",
+      "value": 90
+    }
+  ],
+  "tweets": [
+    {
+      "text": "AMERICA IS BACK. 🇺🇸\n\nEvery single day I will be fighting for you with every breath in my body. I will not rest until we have delivered the strong, safe and prosperous America that our children deserve and that you deserve. This will truly be the golden age of America. https://t.co/cCuSV8Q44Z",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Jan 20 18:27:35 +0000 2025",
+      "metrics": {
+        "reply": 98796,
+        "retweet": 120749,
+        "like": 727400
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Merry Christmas from President Donald J. Trump and First Lady Melania Trump 🇺🇸 https://t.co/p2F1Zc1dON",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Tue Dec 23 16:16:33 +0000 2025",
+      "metrics": {
+        "reply": 16614,
+        "retweet": 43183,
+        "like": 362268
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Two GOATS. \n\nCR7 x 45/47\n\n@Cristiano 🔥 https://t.co/QA4Dw0s1lr",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Wed Nov 19 14:31:15 +0000 2025",
+      "metrics": {
+        "reply": 10956,
+        "retweet": 41066,
+        "like": 236629
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “We’re saying MERRY CHRISTMAS again!” - @POTUS 🎄🇺🇸 https://t.co/TcfyP5h5Uc",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Dec 01 22:14:11 +0000 2025",
+      "metrics": {
+        "reply": 10189,
+        "retweet": 31931,
+        "like": 248354
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"Christianity is facing an existential threat in Nigeria. The United States cannot stand by while such atrocities are happe…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Wed Nov 05 22:20:09 +0000 2025",
+      "metrics": {
+        "reply": 11617,
+        "retweet": 33391,
+        "like": 126505
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"I am hereby cancelling all Executive Orders, and anything else that was not directly signed by Crooked Joe Biden, because…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Fri Nov 28 23:41:36 +0000 2025",
+      "metrics": {
+        "reply": 7878,
+        "retweet": 25212,
+        "like": 109896
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: MAKE AMERICA GREAT AGAIN! https://t.co/KI5zFXqRWl",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Tue Nov 04 14:51:09 +0000 2025",
+      "metrics": {
+        "reply": 11400,
+        "retweet": 15205,
+        "like": 115422
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: President Donald J. Trump and Japanese Prime Minister Sanae Takaichi. 🇺🇸🤝🇯🇵\n\n@takaichi_sanae https://t.co/fyE0MBa7NM",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Tue Oct 28 06:49:02 +0000 2025",
+      "metrics": {
+        "reply": 1616,
+        "retweet": 14904,
+        "like": 115235
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terro…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Fri Dec 26 15:01:47 +0000 2025",
+      "metrics": {
+        "reply": 6187,
+        "retweet": 16960,
+        "like": 75884
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: SEDITIOUS.\n\nPresident Trump has never issued a single illegal order.\n\nThe Democrats know exactly what they’re doing – and t…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Sat Nov 22 00:04:35 +0000 2025",
+      "metrics": {
+        "reply": 9732,
+        "retweet": 16363,
+        "like": 63543
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Second stop: Japan. President Donald J. Trump meets with Emperor Naruhito at the Imperial Palace in Tokyo. 🇺🇸🇯🇵 https://t.c…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Mon Oct 27 15:40:32 +0000 2025",
+      "metrics": {
+        "reply": 1609,
+        "retweet": 12348,
+        "like": 92765
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"With the birth of Jesus, human history turned from night to day. His word and example call us to love one another, to serv…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Dec 08 14:12:49 +0000 2025",
+      "metrics": {
+        "reply": 2372,
+        "retweet": 13175,
+        "like": 65703
+      }
+    },
+    {
+      "text": "RT @FLOTUS: Home Is Where the Heart Is\nAMERICA’S CHRISTMAS\n\nThis Christmas, let’s celebrate the love we hold within ourselves and share it…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Mon Dec 01 14:20:54 +0000 2025",
+      "metrics": {
+        "reply": 4732,
+        "retweet": 12262,
+        "like": 63512
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: RIP DEMOCRAT SHUTDOWN. \n\nOct 1, 2025 – Nov 12, 2025 https://t.co/rTb6PiYmqI",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Thu Nov 13 02:40:46 +0000 2025",
+      "metrics": {
+        "reply": 4030,
+        "retweet": 11062,
+        "like": 68845
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: HEREBY DECLARED NULL AND VOID. 🖊️ https://t.co/Kny518iShS",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Tue Dec 02 23:12:40 +0000 2025",
+      "metrics": {
+        "reply": 4237,
+        "retweet": 12936,
+        "like": 60223
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: PEACE PRESIDENT. 🕊️\n\n@FIFAWorldCup President Gianni Infantino awards President Donald J. Trump the inaugural 2025 FIFA Peac…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Fri Dec 05 18:09:10 +0000 2025",
+      "metrics": {
+        "reply": 10795,
+        "retweet": 11242,
+        "like": 50615
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: MERRY CHRISTMAS! https://t.co/YJ9YYEf19v",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Thu Dec 25 13:58:44 +0000 2025",
+      "metrics": {
+        "reply": 3824,
+        "retweet": 9417,
+        "like": 69454
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"I am recommending to Senate Republicans that the Hundreds of Billions of Dollars currently being sent to money sucking Ins…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Sat Nov 08 17:47:48 +0000 2025",
+      "metrics": {
+        "reply": 4467,
+        "retweet": 12756,
+        "like": 47195
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"I'm more confident than ever that the friendship between the United States and Japan is strong... it's thriving, it's pros…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Thu Oct 30 16:07:50 +0000 2025",
+      "metrics": {
+        "reply": 1014,
+        "retweet": 9492,
+        "like": 55077
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “All money left over from the $2000 payments made to low and middle income USA Citizens, from the massive Tariff Income pou…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Nov 10 16:33:22 +0000 2025",
+      "metrics": {
+        "reply": 7543,
+        "retweet": 8853,
+        "like": 42731
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Loud and clear.🗣️ \n\n“I saved you, cried the woman \nAnd you’ve bitten me, but why? \nYou knew your bite is poisonous and now…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Sun Nov 30 21:44:15 +0000 2025",
+      "metrics": {
+        "reply": 2053,
+        "retweet": 10781,
+        "like": 41506
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: It’s been a broken system for decades.\n\nPresident Trump is the one finally shutting it down.\n\nDEPARTMENT OF EDUCATION: ABOL…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Thu Nov 20 15:18:23 +0000 2025",
+      "metrics": {
+        "reply": 3244,
+        "retweet": 8415,
+        "like": 46980
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “…Fake News will never change, they are evil and corrupt but, as I look around my beautiful surroundings, I say to myself,…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Mon Nov 03 22:32:30 +0000 2025",
+      "metrics": {
+        "reply": 6937,
+        "retweet": 8481,
+        "like": 37621
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “The hearts of all Americans tonight are with those two members of the West Virginia National Guard and their families…\n\nWe…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Thu Nov 27 03:11:48 +0000 2025",
+      "metrics": {
+        "reply": 2976,
+        "retweet": 9333,
+        "like": 41430
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: HISTORIC PEACE BETWEEN THAILAND &amp; CAMBODIA.\n\nPresident Trump and Malaysia's Prime Minister Anwar Ibrahim hosted the Prime M…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sun Oct 26 06:27:57 +0000 2025",
+      "metrics": {
+        "reply": 1760,
+        "retweet": 10104,
+        "like": 40580
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: 🚨 America will NOT tolerate those who fund &amp; fuel radical terrorism.\n\nToday, President Trump took decisive action to secure…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Nov 24 22:12:51 +0000 2025",
+      "metrics": {
+        "reply": 4935,
+        "retweet": 8503,
+        "like": 37045
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Immigration and Nationality Act, Section 212(f):\n \n“Whenever the President finds that the entry of any aliens or of any cla…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Sun Nov 30 16:49:58 +0000 2025",
+      "metrics": {
+        "reply": 2073,
+        "retweet": 8688,
+        "like": 40919
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “The animal that shot the two National Guardsmen, with both being critically wounded, and now in two separate hospitals, is…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Wed Nov 26 20:37:10 +0000 2025",
+      "metrics": {
+        "reply": 3373,
+        "retweet": 8397,
+        "like": 38735
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: BREAKING: President Trump just declared FENTANYL a WEAPON OF MASS DESTRUCTION.\n\nThis critical step unleashes every tool to…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Dec 15 20:56:37 +0000 2025",
+      "metrics": {
+        "reply": 3550,
+        "retweet": 9099,
+        "like": 33533
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: 🚨 “Tomorrow’s United States Supreme Court case is, literally, LIFE OR DEATH for our Country. With a Victory, we have tremen…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Tue Nov 04 22:13:32 +0000 2025",
+      "metrics": {
+        "reply": 2373,
+        "retweet": 9349,
+        "like": 34721
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: MASS DEPORTATIONS ARE GOING TO CONTINUE! https://t.co/4oKT4PhUyv",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Dec 03 19:18:53 +0000 2025",
+      "metrics": {
+        "reply": 3113,
+        "retweet": 7085,
+        "like": 41994
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: WARRIOR DIVIDENDS ⚔️🇺🇸\n\n\"1,450,000 military service members will receive a special we call Warrior Dividend before Christma…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Thu Dec 18 03:25:03 +0000 2025",
+      "metrics": {
+        "reply": 3156,
+        "retweet": 7438,
+        "like": 40146
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: First in WAR, First in PEACE. \n\nThere's no Navy even close. 🇺🇸 https://t.co/lrjOJptfOt",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Oct 29 19:34:43 +0000 2025",
+      "metrics": {
+        "reply": 1235,
+        "retweet": 7708,
+        "like": 39984
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: 🇺🇸🇺🇸🇺🇸 https://t.co/7x8takfD3B",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Nov 19 22:24:11 +0000 2025",
+      "metrics": {
+        "reply": 2176,
+        "retweet": 4942,
+        "like": 46820
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Peacemaker-in-Chief.🕊️ https://t.co/0CfSPqh7pT",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Tue Nov 18 15:34:38 +0000 2025",
+      "metrics": {
+        "reply": 6081,
+        "retweet": 4873,
+        "like": 35447
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: The United States has the strongest economy, the strongest borders, the strongest military, the strongest friendships, and…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Nov 05 20:18:06 +0000 2025",
+      "metrics": {
+        "reply": 6660,
+        "retweet": 5053,
+        "like": 32627
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “We mourn the loss of three Great American Patriots in Syria, two soldiers, and one Civilian Interpreter. Likewise, we pray…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sat Dec 13 19:21:53 +0000 2025",
+      "metrics": {
+        "reply": 2973,
+        "retweet": 7133,
+        "like": 31087
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “Venezuela is completely surrounded by the largest Armada ever assembled in the History of South America. It will only get…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Dec 17 15:13:05 +0000 2025",
+      "metrics": {
+        "reply": 5398,
+        "retweet": 6635,
+        "like": 27447
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"Bringing back Trillions of Dollars to USA! A great trip. Dealing with very smart, talented, and wonderful Leaders. Tomorro…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Oct 29 09:41:57 +0000 2025",
+      "metrics": {
+        "reply": 2714,
+        "retweet": 6494,
+        "like": 32616
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Happy anniversary to the Left's meltdown.\n\nWe're still CELEBRATING. 🇺🇸🕺 https://t.co/kqcURdjTJV",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Thu Nov 06 03:26:37 +0000 2025",
+      "metrics": {
+        "reply": 3632,
+        "retweet": 4801,
+        "like": 37460
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Wishing all Americans a very Happy Thanksgiving!\n\nToday, we reflect on the many blessings of our GREAT Nation &amp; thank the h…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Thu Nov 27 22:21:03 +0000 2025",
+      "metrics": {
+        "reply": 1947,
+        "retweet": 5989,
+        "like": 35082
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: TERMINATE THE FILIBUSTER!!! https://t.co/twTM8nkOmZ",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Tue Nov 04 17:06:28 +0000 2025",
+      "metrics": {
+        "reply": 2885,
+        "retweet": 6928,
+        "like": 28954
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: God bless America's National Guard, and all of our military and law enforcement. 🇺🇸🇺🇸",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Thu Nov 27 02:31:55 +0000 2025",
+      "metrics": {
+        "reply": 1144,
+        "retweet": 5188,
+        "like": 39363
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"The Democrats are using the Jeffrey Epstein Hoax to try and deflect from their massive failures, in particular, their most…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Wed Nov 12 21:37:57 +0000 2025",
+      "metrics": {
+        "reply": 9005,
+        "retweet": 5818,
+        "like": 20954
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Freedom is never free. \n\nGod bless our troops. 🇺🇸 https://t.co/AiZwI035Lx",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Thu Dec 18 01:19:53 +0000 2025",
+      "metrics": {
+        "reply": 1720,
+        "retweet": 5426,
+        "like": 36662
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Scenes from the season's first snowfall at the White House. ❄️ https://t.co/CzunnZEDc8",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Sun Dec 07 20:58:31 +0000 2025",
+      "metrics": {
+        "reply": 1029,
+        "retweet": 4980,
+        "like": 37338
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: The Kuala Lumpur Peace Accords have been SIGNED, marking a historic milestone in resolving border tensions between Thailand…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sun Oct 26 14:19:41 +0000 2025",
+      "metrics": {
+        "reply": 1491,
+        "retweet": 6510,
+        "like": 29641
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"That is a really serious charge... I think it's a very serious violation of the law.\" - President Donald J. Trump 🇺🇸 https…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Fri Nov 21 19:24:24 +0000 2025",
+      "metrics": {
+        "reply": 4385,
+        "retweet": 6252,
+        "like": 24598
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: President Trump vowed he wouldn’t stop until every Israeli hostage was brought home — and he kept that promise. 💛 \n\nHEROES.…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sun Nov 23 22:44:06 +0000 2025",
+      "metrics": {
+        "reply": 2952,
+        "retweet": 4937,
+        "like": 32336
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: President Trump signs bill to OFFICIALLY reopen the government, ending the Democrat Shutdown. \n\nLet's get our country WORKI…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Thu Nov 13 03:33:18 +0000 2025",
+      "metrics": {
+        "reply": 2377,
+        "retweet": 6324,
+        "like": 27421
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: A VERY American Christmas comeback story. 🎄🇺🇸 https://t.co/Evd9k9RcLQ",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sun Dec 21 19:45:57 +0000 2025",
+      "metrics": {
+        "reply": 3207,
+        "retweet": 5357,
+        "like": 28249
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: 6 months in a row of ZERO illegal border crossings. 🇺🇸\n\nALL WE NEEDED WAS A NEW PRESIDENT. https://t.co/hbpWgQ4MCR",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Fri Nov 07 17:41:22 +0000 2025",
+      "metrics": {
+        "reply": 2407,
+        "retweet": 5007,
+        "like": 30964
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: \"HAPPY 250TH BIRTHDAY TO OUR INCREDIBLE @USMC! FROM ITS FOUNDING AT TUN TAVERN IN PHILADELPHIA, TO THE SANDS OF IWO JIMA, K…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Nov 10 20:41:02 +0000 2025",
+      "metrics": {
+        "reply": 1283,
+        "retweet": 5779,
+        "like": 29380
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: President Trump just signed the \"Medal of Honor Act,\" which ensures Medal of Honor recipients are rightfully compensated wi…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Mon Dec 01 22:38:50 +0000 2025",
+      "metrics": {
+        "reply": 1073,
+        "retweet": 5587,
+        "like": 30209
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: I wanna wish you a merry Christmas… from the bottom of my hearttt 🪇🎶\n\nFeaturing this year’s favorite ornament— @RepJeffries…",
+      "stance": "neutral",
+      "username": "POTUS",
+      "created_at": "Thu Dec 18 16:40:18 +0000 2025",
+      "metrics": {
+        "reply": 2195,
+        "retweet": 4966,
+        "like": 29570
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: “While the United States has other methods of charging TARIFFS against foreign countries, many of whom have, for YEARS, TAK…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Sun Dec 07 20:58:34 +0000 2025",
+      "metrics": {
+        "reply": 2141,
+        "retweet": 6170,
+        "like": 24437
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: Tired of the Fake News?\n\nWe’ve got the place for you.\n\nGet the FACTS. Track the worst offenders. See the Fake News EXPOSED.…",
+      "stance": "negative",
+      "username": "POTUS",
+      "created_at": "Fri Nov 28 23:41:54 +0000 2025",
+      "metrics": {
+        "reply": 2960,
+        "retweet": 6368,
+        "like": 21676
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: 🇺🇸 Trump has \"given so many people hope that there's a chance to beat the bad guys, &amp; to win, &amp; to do it with your head hel…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Sun Dec 21 19:45:53 +0000 2025",
+      "metrics": {
+        "reply": 2402,
+        "retweet": 5420,
+        "like": 26549
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: President Donald J. Trump is honored by South Korea with a gold crown and the Grand Order of Mugunghwa—the nation's highest…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Oct 29 14:18:12 +0000 2025",
+      "metrics": {
+        "reply": 1869,
+        "retweet": 5337,
+        "like": 27259
+      }
+    },
+    {
+      "text": "RT @WhiteHouse: ONE YEAR SINCE THE GREATEST COMEBACK IN AMERICAN POLITICAL HISTORY. 🔥 \n\nTHE GOLDEN AGE OF AMERICA IS HERE TO STAY. 🇺🇸🦅 http…",
+      "stance": "positive",
+      "username": "POTUS",
+      "created_at": "Wed Nov 05 14:53:39 +0000 2025",
+      "metrics": {
+        "reply": 4089,
+        "retweet": 4447,
+        "like": 25228
+      }
+    }
+  ]
+}

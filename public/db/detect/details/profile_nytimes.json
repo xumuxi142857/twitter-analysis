@@ -1,0 +1,711 @@
+{
+  "id": "profile_nytimes.json",
+  "_fingerprint": "98b66b8cecbdadbd903123d868ab067a",
+  "name": "nytimes",
+  "username": "nytimes",
+  "category": "media",
+  "metrics": {
+    "bio": "《纽约时报》官方推特账号，发布全球新闻、政治、文化等领域的突发新闻和深度报道，以权威性和全面性著称。",
+    "daily_count": 13.6,
+    "keywords": [
+      "Breaking News",
+      "政治",
+      "国际新闻",
+      "深度报道",
+      "权威媒体"
+    ]
+  },
+  "stance_matrix": [
+    [
+      -0.2,
+      0.1,
+      7
+    ],
+    [
+      0.3,
+      -0.4,
+      6
+    ],
+    [
+      -0.5,
+      0.2,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "覆盖面",
+      "value": 90
+    },
+    {
+      "name": "时效性",
+      "value": 88
+    }
+  ],
+  "tweets": [
+    {
+      "text": "RT @ByMikeBaker: HUGE NEWS from the new Epstein files:\n\nRecords show that Maria Farmer, who worked for Epstein, filed a \"child pornography\"…",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Sat Dec 20 01:16:09 +0000 2025",
+      "metrics": {
+        "reply": 380,
+        "retweet": 13541,
+        "like": 49577
+      }
+    },
+    {
+      "text": "Breaking News: Honduras has issued an international arrest warrant for its former president who was recently pardoned by President Trump. https://t.co/kYlLsRDFN8",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 09 03:45:07 +0000 2025",
+      "metrics": {
+        "reply": 349,
+        "retweet": 4117,
+        "like": 14946
+      }
+    },
+    {
+      "text": "From @TheAthleticFC: FIFA president Gianni Infantino has been accused of breaching FIFA’s ethics codes in relation to the process that saw President Trump receive an inaugural peace prize. https://t.co/nZpUwq0JUO",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 09 14:17:02 +0000 2025",
+      "metrics": {
+        "reply": 660,
+        "retweet": 2293,
+        "like": 7536
+      }
+    },
+    {
+      "text": "Breaking News: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, internal documents obtained by The New York Times show, marking an aggressive new phase in President Trump’s immigration crackdown. https://t.co/BDuWThi6dq",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Wed Dec 17 22:30:24 +0000 2025",
+      "metrics": {
+        "reply": 1543,
+        "retweet": 2212,
+        "like": 5901
+      }
+    },
+    {
+      "text": "Breaking News: Miami voters elected Eileen Higgins as mayor, choosing a Democrat to lead the city for the first time in almost 30 years. https://t.co/JltWC1jUmL",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 01:00:05 +0000 2025",
+      "metrics": {
+        "reply": 261,
+        "retweet": 1449,
+        "like": 6939
+      }
+    },
+    {
+      "text": "RT @ewong: NEW from @nytimes: Pentagon lawyers asked the State Dept. if the US could send survivors of Trump's boat strikes to a notorious…",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 03:17:46 +0000 2025",
+      "metrics": {
+        "reply": 166,
+        "retweet": 1854,
+        "like": 3491
+      }
+    },
+    {
+      "text": "Breaking News: An ex-DEA agent has been charged with agreeing to launder millions of dollars in narcotics proceeds for a Mexican drug cartel. https://t.co/tVZITLMMkh",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 17:05:41 +0000 2025",
+      "metrics": {
+        "reply": 251,
+        "retweet": 1734,
+        "like": 3707
+      }
+    },
+    {
+      "text": "Breaking News: Workers began adding President Trump’s name to the Kennedy Center, despite no action by Congress to legally rename it. This sparked outrage among the Kennedy family, since it was built to be a living memorial to the 35th president. https://t.co/1KC1fhpClM",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Fri Dec 19 16:48:45 +0000 2025",
+      "metrics": {
+        "reply": 611,
+        "retweet": 1048,
+        "like": 4106
+      }
+    },
+    {
+      "text": "Breaking News: A dozen FBI agents sued the bureau’s director, Kash Patel, and the Trump administration after they were fired for having knelt during a racial justice protest in 2020. https://t.co/r5UopYZt0I",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Mon Dec 08 18:24:46 +0000 2025",
+      "metrics": {
+        "reply": 251,
+        "retweet": 1148,
+        "like": 4339
+      }
+    },
+    {
+      "text": "Breaking News: Frank Gehry, a titan of architecture, has died at 96. He designed some of the world’s most recognizable buildings — many widely regarded as masterpieces. https://t.co/7M0tT1NvXJ",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 19:21:24 +0000 2025",
+      "metrics": {
+        "reply": 108,
+        "retweet": 1388,
+        "like": 3626
+      }
+    },
+    {
+      "text": "Breaking News: A father and his 6-year-old son who were separated by immigration officials in New York City have been deported to China. https://t.co/IDhh6ffb9x",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Sat Dec 20 00:45:05 +0000 2025",
+      "metrics": {
+        "reply": 1499,
+        "retweet": 936,
+        "like": 2299
+      }
+    },
+    {
+      "text": "Breaking News: José Antonio Kast was elected president of Chile, positioning his country to join Latin America’s recent rightward swing. https://t.co/G5T0ugaddg",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sun Dec 14 23:52:07 +0000 2025",
+      "metrics": {
+        "reply": 199,
+        "retweet": 969,
+        "like": 4083
+      }
+    },
+    {
+      "text": "Breaking News: The Trump administration is sharing all air travelers’ names with ICE officials to find people with deportation orders. https://t.co/WJdEF8NPB5",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Fri Dec 12 21:19:20 +0000 2025",
+      "metrics": {
+        "reply": 698,
+        "retweet": 1139,
+        "like": 2370
+      }
+    },
+    {
+      "text": "Breaking News: Gov. JB Pritzker of Illinois signed a bill that restricts immigration enforcement near state courthouses and makes it easier to sue ICE agents. https://t.co/VL5XgFLbH9",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 09 16:36:53 +0000 2025",
+      "metrics": {
+        "reply": 262,
+        "retweet": 957,
+        "like": 3366
+      }
+    },
+    {
+      "text": "From @TheAthletic: “This is truly one of the great honors of my life.” \n\nFIFA President Gianni Infantino awarded President Trump a new golden trophy, a golden medal and a certificate, and told him: “This is your prize, this is your peace prize.” https://t.co/g2Y7DOtp9c https://t.co/xzjrpSZmOu",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 18:58:05 +0000 2025",
+      "metrics": {
+        "reply": 1802,
+        "retweet": 453,
+        "like": 1701
+      }
+    },
+    {
+      "text": "Breaking News: The EU fined X $140 million for violating rules governing the transparency of online platforms.  https://t.co/fL9HqZYUhE",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 12:19:48 +0000 2025",
+      "metrics": {
+        "reply": 463,
+        "retweet": 774,
+        "like": 2866
+      }
+    },
+    {
+      "text": "Breaking News: A judge ruled that the Trump administration had kept National Guard troops in Los Angeles illegally and ordered an end to the deployment. https://t.co/7Uozm38CYh",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 15:17:03 +0000 2025",
+      "metrics": {
+        "reply": 169,
+        "retweet": 931,
+        "like": 2588
+      }
+    },
+    {
+      "text": "RT @ShaneGoldmacher: NEWS: The DNC is killing off its 2024 autopsy.\n\nDNC Chairman Ken Martin has decided not to publish a public report, be…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Thu Dec 18 23:22:13 +0000 2025",
+      "metrics": {
+        "reply": 631,
+        "retweet": 485,
+        "like": 2316
+      }
+    },
+    {
+      "text": "Breaking News: The developer of an app that tracks ICE raids sued Trump officials, saying that they pressured Apple to remove it. https://t.co/rMpeuNHK5s",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Mon Dec 08 15:54:37 +0000 2025",
+      "metrics": {
+        "reply": 139,
+        "retweet": 598,
+        "like": 1592
+      }
+    },
+    {
+      "text": "RT @nickconfessore: NEW: \"Don’s Best Friend\": Documents and interviews reveal the intense, complicated relationship between Donald Trump an…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 19 01:36:32 +0000 2025",
+      "metrics": {
+        "reply": 89,
+        "retweet": 633,
+        "like": 1463
+      }
+    },
+    {
+      "text": "Breaking News: Republicans in the Indiana Senate defied President Trump and joined Democrats in voting down a congressional map aimed at adding GOP seats. https://t.co/mIYDOx96Cf",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Thu Dec 11 21:51:56 +0000 2025",
+      "metrics": {
+        "reply": 98,
+        "retweet": 440,
+        "like": 2090
+      }
+    },
+    {
+      "text": "RT @peterbakernyt: In Washington these days, the word often whispered by Republicans and shouted by Democrats and Never Trumpers is “unhing…",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Fri Dec 19 23:33:55 +0000 2025",
+      "metrics": {
+        "reply": 163,
+        "retweet": 446,
+        "like": 1134
+      }
+    },
+    {
+      "text": "Breaking News: Madeleine Wickham, who wrote the “Confessions of a Shopaholic” novel series under the pen name Sophie Kinsella, becoming an international sensation, died at 55. \n\nRead more: https://t.co/K13k2RqulX https://t.co/MdHuJSa2tl",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 13:54:42 +0000 2025",
+      "metrics": {
+        "reply": 72,
+        "retweet": 366,
+        "like": 1586
+      }
+    },
+    {
+      "text": "RT @ewong: NEW: A @nytimes story reveals how Rubio and Miller drove the US to a militarized clash with Venezuela and Maduro. They started w…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 27 20:37:51 +0000 2025",
+      "metrics": {
+        "reply": 99,
+        "retweet": 480,
+        "like": 776
+      }
+    },
+    {
+      "text": "RT @ShaneGoldmacher: NEW: I wrote a profile of Kamala Harris at a pivot point. She wants to be heard but it is not clear what she wants to…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 09 15:45:51 +0000 2025",
+      "metrics": {
+        "reply": 235,
+        "retweet": 158,
+        "like": 1738
+      }
+    },
+    {
+      "text": "RT @AricToler: Crypto casinos have become a multi-billion dollar industry. One of the ways they've grown is with an unusual marketing strat…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 21:30:35 +0000 2025",
+      "metrics": {
+        "reply": 35,
+        "retweet": 246,
+        "like": 1653
+      }
+    },
+    {
+      "text": "Breaking News: President Trump signed an executive order to neuter state laws placing limits on the A.I. industry. The order is likely to be challenged in court by states and consumer groups, experts said. https://t.co/R6F3nHmpaJ",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Fri Dec 12 00:30:12 +0000 2025",
+      "metrics": {
+        "reply": 159,
+        "retweet": 363,
+        "like": 896
+      }
+    },
+    {
+      "text": "RT @TheAthleticFC: Hotels across the United States, Canada and Mexico have hiked prices for rooms by hundreds of dollars per night during t…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 14:48:49 +0000 2025",
+      "metrics": {
+        "reply": 74,
+        "retweet": 341,
+        "like": 1150
+      }
+    },
+    {
+      "text": "Breaking News: A grand jury again rejected the Trump administration’s effort to bring charges against Letitia James, the New York attorney general. https://t.co/MX5oPBAm4L",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Thu Dec 11 20:49:01 +0000 2025",
+      "metrics": {
+        "reply": 127,
+        "retweet": 268,
+        "like": 1198
+      }
+    },
+    {
+      "text": "RT @Haleaziz: SCOOP: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, according…",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Wed Dec 17 23:32:46 +0000 2025",
+      "metrics": {
+        "reply": 128,
+        "retweet": 410,
+        "like": 555
+      }
+    },
+    {
+      "text": "RT @TheAthleticFC: FIFA’s pricing for the tickets available to supporters of teams at the World Cup has been criticised by the leading Euro…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Thu Dec 11 18:05:43 +0000 2025",
+      "metrics": {
+        "reply": 83,
+        "retweet": 222,
+        "like": 1352
+      }
+    },
+    {
+      "text": "Breaking News: Multiple people have been shot at Brown University, officials said. Follow live updates. https://t.co/VMR0tw8yMh",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 13 23:07:47 +0000 2025",
+      "metrics": {
+        "reply": 140,
+        "retweet": 294,
+        "like": 862
+      }
+    },
+    {
+      "text": "Breaking News: King Charles III said doctors plan to scale back his cancer treatments, a change the 77-year-old monarch called a blessing. https://t.co/4M8KGlGnfU",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 12 20:34:06 +0000 2025",
+      "metrics": {
+        "reply": 83,
+        "retweet": 178,
+        "like": 1385
+      }
+    },
+    {
+      "text": "In @nytopinion \n\nThe Hanukkah massacre at Sydney’s Bondi Beach “represents the continuing inability of the government of Anthony Albanese, Australia’s prime minister, to safeguard the country’s Jewish community,” our columnist Bret Stephens writes. https://t.co/TuVmYxAJcw",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Sun Dec 14 22:15:02 +0000 2025",
+      "metrics": {
+        "reply": 448,
+        "retweet": 129,
+        "like": 770
+      }
+    },
+    {
+      "text": "Breaking News: Gov. Kathy Hochul said she would sign a bill that will allow terminally ill New Yorkers to end their lives. Eleven states and several countries in Europe have passed similar laws. https://t.co/AHgkUxrcXP",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 17 18:43:30 +0000 2025",
+      "metrics": {
+        "reply": 119,
+        "retweet": 221,
+        "like": 978
+      }
+    },
+    {
+      "text": "Breaking News: A federal vaccine committee voted to end the decades-long recommendation that all newborns be immunized at birth against hepatitis B, a highly infectious virus that leads to chronic liver disease in most infected children. https://t.co/CjzGwPeChg",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 15:58:39 +0000 2025",
+      "metrics": {
+        "reply": 236,
+        "retweet": 266,
+        "like": 521
+      }
+    },
+    {
+      "text": "RT @ewong: NEW from @nytimes: Rubio's longtime goal of crippling or toppling Cuba's leaders is tied to Venezuela. He has said that if the g…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 13 02:34:13 +0000 2025",
+      "metrics": {
+        "reply": 102,
+        "retweet": 295,
+        "like": 597
+      }
+    },
+    {
+      "text": "RT @NickAtNews: Danika Troy, 14, snuck out of the house to meet a boy. 48 hours later, her body was found burned in the woods.\n\nHer death,…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 20 22:47:03 +0000 2025",
+      "metrics": {
+        "reply": 86,
+        "retweet": 221,
+        "like": 913
+      }
+    },
+    {
+      "text": "Breaking News: European leaders agreed to a $105 billion funding plan for Ukraine without using Russia’s frozen assets as backing. https://t.co/vfVDdn3dqH",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 19 03:40:04 +0000 2025",
+      "metrics": {
+        "reply": 151,
+        "retweet": 218,
+        "like": 754
+      }
+    },
+    {
+      "text": "RT @TheAthleticFC: The progress pride flag, the symbol of the LGBTQ+ community, on display at the Tottenham Hotspur Stadium has been reloca…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 09 17:06:43 +0000 2025",
+      "metrics": {
+        "reply": 183,
+        "retweet": 82,
+        "like": 1215
+      }
+    },
+    {
+      "text": "From @TheAthletic: “Being quiet just means being compliant and I just can’t be compliant.”\n\nTennis legend Martina Navratilova, who has been heavily critical of President Trump, said she is aware of potential retribution for her criticisms. https://t.co/mGEgxN5OxC",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 17:20:03 +0000 2025",
+      "metrics": {
+        "reply": 89,
+        "retweet": 201,
+        "like": 910
+      }
+    },
+    {
+      "text": "Breaking News: Employers added 64,000 jobs in November and the unemployment rate rose to 4.6%, a warning sign for the economy. https://t.co/AeHC5jopnF",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Tue Dec 16 13:40:03 +0000 2025",
+      "metrics": {
+        "reply": 123,
+        "retweet": 260,
+        "like": 587
+      }
+    },
+    {
+      "text": "In @nytopinion\n\n“A year ago, we kept hearing that Trump was cool. Is anyone saying that now?” the columnist Ezra Klein writes. https://t.co/EAs6zjLKwt",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Sun Dec 21 19:45:03 +0000 2025",
+      "metrics": {
+        "reply": 501,
+        "retweet": 103,
+        "like": 452
+      }
+    },
+    {
+      "text": "Breaking News: President Trump said the U.S. seized a tanker off Venezuela’s coast, amid his pressure campaign against the country’s president, Nicolás Maduro. https://t.co/JMj1mVCcaX",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 10 20:52:31 +0000 2025",
+      "metrics": {
+        "reply": 278,
+        "retweet": 206,
+        "like": 480
+      }
+    },
+    {
+      "text": "In @nytopinion\n\nThe danger of Netflix buying Warner Bros. “is not annihilation but centralization,” Roy Price writes. “When two of the most important sources of premium programming are combined, the marketplace loses an entire programming philosophy.” https://t.co/CF5Oo7heO8",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 06 19:25:07 +0000 2025",
+      "metrics": {
+        "reply": 119,
+        "retweet": 227,
+        "like": 710
+      }
+    },
+    {
+      "text": "Breaking News: A federal judge overturned the conviction of a man for killing Jason Mizell, known as Jam Master Jay, the pioneering DJ of Run-DMC whose unsolved murder had confounded investigators for nearly two decades. https://t.co/kG0xLrFNA6",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 19 21:19:26 +0000 2025",
+      "metrics": {
+        "reply": 26,
+        "retweet": 336,
+        "like": 443
+      }
+    },
+    {
+      "text": "Breaking News: Israel said it killed a top Hamas commander in Gaza, in what would be the highest-profile killing of a Hamas leader since the cease-fire began two months ago. https://t.co/yrTjY4NU5Z",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 13 17:29:28 +0000 2025",
+      "metrics": {
+        "reply": 327,
+        "retweet": 149,
+        "like": 587
+      }
+    },
+    {
+      "text": "Breaking News: A federal judge in Florida approved the release of grand jury documents from a nearly 20-year-old investigation of Jeffrey Epstein, beginning the process of making another batch of material about Epstein public. https://t.co/E6DFDZfAKC",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 20:19:43 +0000 2025",
+      "metrics": {
+        "reply": 46,
+        "retweet": 260,
+        "like": 665
+      }
+    },
+    {
+      "text": "RT @kurtisalee: Arash Singh is one of tens of thousands of Sikh truck drivers from India who transport loads across the United States. \n\nTw…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Mon Dec 22 20:38:28 +0000 2025",
+      "metrics": {
+        "reply": 648,
+        "retweet": 70,
+        "like": 215
+      }
+    },
+    {
+      "text": "RT @TheAthleticFC: 𝗧𝗵𝗲 𝟮𝟬𝟮𝟲 𝗪𝗼𝗿𝗹𝗱 𝗖𝘂𝗽 𝗗𝗿𝗮𝘄\n\nIt's done. Finally.\n\n▪️ Are any top seeds in trouble?\n▪️ Is there a Group of Death?\n▪️ Which mi…",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 19:24:21 +0000 2025",
+      "metrics": {
+        "reply": 73,
+        "retweet": 186,
+        "like": 861
+      }
+    },
+    {
+      "text": "Breaking News: Honduras declared Nasry Asfura the presidential winner by a razor-thin margin in a race upended by President Trump. https://t.co/YQc5sSqxMy",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Wed Dec 24 21:56:32 +0000 2025",
+      "metrics": {
+        "reply": 121,
+        "retweet": 208,
+        "like": 635
+      }
+    },
+    {
+      "text": "Breaking News: The U.S. is pursuing a Venezuela-linked oil tanker after boarding a different one, a notable escalation of President Trump’s pressure campaign. https://t.co/6aFlwyudeX",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sun Dec 21 19:20:49 +0000 2025",
+      "metrics": {
+        "reply": 187,
+        "retweet": 201,
+        "like": 511
+      }
+    },
+    {
+      "text": "Breaking News: Netflix struck an $83 billion deal for Warner Bros. Discovery’s studio and streaming business, a merger that could transform the media landscape. https://t.co/qE3wn7o5Zq",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 12:21:23 +0000 2025",
+      "metrics": {
+        "reply": 72,
+        "retweet": 225,
+        "like": 629
+      }
+    },
+    {
+      "text": "Breaking News: Paramount made an offer worth $108 billion for Warner Bros. Discovery days after the company agreed to a deal with Netflix.\n https://t.co/wo4mJYSwr7",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Mon Dec 08 14:35:50 +0000 2025",
+      "metrics": {
+        "reply": 73,
+        "retweet": 218,
+        "like": 646
+      }
+    },
+    {
+      "text": "Breaking News: Two American soldiers and an American interpreter were killed in an attack in central Syria on Saturday, U.S. military officials said. https://t.co/5QQCvUdDud",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sat Dec 13 17:43:58 +0000 2025",
+      "metrics": {
+        "reply": 172,
+        "retweet": 195,
+        "like": 499
+      }
+    },
+    {
+      "text": "In @nytopinion\n\nPresident Trump “believes in cutting deals, not sharing values; in making money, not winning friends,” the editorial board writes. “His approach is inadequate for the long-term challenge America faces.” https://t.co/rcOgl0olHB",
+      "stance": "negative",
+      "username": "nytimes",
+      "created_at": "Sun Dec 14 21:45:03 +0000 2025",
+      "metrics": {
+        "reply": 145,
+        "retweet": 201,
+        "like": 495
+      }
+    },
+    {
+      "text": "In @nytopinion \n\n“When our attention is held for hours each day by black-box algorithms that feed us not what we want so much as what we find it hard to look away from, we are being, in a sense, deformed,” our columnist Ezra Klein writes. https://t.co/u6GrlvcSvc",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Mon Dec 08 07:45:03 +0000 2025",
+      "metrics": {
+        "reply": 77,
+        "retweet": 196,
+        "like": 635
+      }
+    },
+    {
+      "text": "Prime Minister Anthony Albanese of Australia called the shooting on Bondi Beach, which left at least 11 people dead, a terrorist attack targeting the Jewish community during a Hanukkah celebration. \n\nFollow live. https://t.co/2sZAOAlG7f",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Sun Dec 14 12:41:45 +0000 2025",
+      "metrics": {
+        "reply": 238,
+        "retweet": 167,
+        "like": 428
+      }
+    },
+    {
+      "text": "Breaking News: Anthony Geary, the actor best known for portraying Luke Spencer on the popular soap opera “General Hospital,” died at 78. Geary helped change the landscape of daytime television. https://t.co/fUH7nB5Mky",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Mon Dec 15 22:19:09 +0000 2025",
+      "metrics": {
+        "reply": 45,
+        "retweet": 141,
+        "like": 915
+      }
+    },
+    {
+      "text": "Breaking News: The New York Times sued Perplexity, an A.I. start-up, claiming that its copyrights were repeatedly violated by the company. https://t.co/jT0R5mWb17",
+      "stance": "neutral",
+      "username": "nytimes",
+      "created_at": "Fri Dec 05 13:17:26 +0000 2025",
+      "metrics": {
+        "reply": 64,
+        "retweet": 216,
+        "like": 576
+      }
+    }
+  ]
+}

@@ -75,34 +75,6 @@ export interface GuideData {
 
 // src/types/index.ts (追加)
 
-// 目标人物的基本指标
-export interface TargetMetrics {
-  bio: string;          // 人设/简介 (LLM生成)
-  daily_count: number;  // 日均发稿量 (Python计算)
-  keywords: string[];   // 核心关键词 (LLM提取)
-  active_hours: string; // 活跃时段 (如 "19:00 - 23:00")
-}
-
-// 目标人物详情
-export interface TargetProfile {
-  id: string;
-  name: string;        // 显示名 (如 Elon Musk)
-  username: string;    // 推特handle (如 elonmusk)
-  category: 'politician' | 'media'; // 类别
-  avatar_url?: string; // 头像链接 (可选)
-  metrics: TargetMetrics;
-  
-  // 复用之前的图表数据结构
-  stance_matrix: StanceMatrixItem[]; 
-  influence_type: InfluenceType[];
-}
-
-// 页面总数据
-export interface DetectData {
-  region: string;
-  time_range: [string, string];
-  targets: TargetProfile[];
-}
 
 
 // src/types/index.ts
@@ -135,4 +107,30 @@ export interface RegionAnalysisData {
   time_range: [string, string];
   top_topics: TopicCluster[];
   hot_words: WordCloudItem[];
+}
+
+
+export interface TargetMetrics {
+  bio: string;
+  daily_count: number;
+  keywords: string[];
+  // active_hours 已移除
+}
+
+export interface TargetProfile {
+  id: string;
+  name: string;
+  username: string;
+  category: 'politician' | 'media';
+  metrics: TargetMetrics;
+  stance_matrix: [number, number, number][]; 
+  influence_type: { name: string; value: number }[];
+  
+  // 【新增】该目标的推文列表 (用于前端按日期筛选)
+  tweets: TweetItem[];
+}
+
+export interface DetectData {
+  region: string;
+  targets: TargetProfile[];
 }

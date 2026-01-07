@@ -1,0 +1,713 @@
+{
+  "id": "profile_asahi.json",
+  "_fingerprint": "e6cc64b2d9361c4527f88c7b2eb5091d",
+  "name": "asahi",
+  "username": "asahi",
+  "category": "media",
+  "metrics": {
+    "bio": "日本主要新闻媒体朝日新闻的记者",
+    "daily_count": 100.0,
+    "keywords": [
+      "朝日新闻",
+      "新闻",
+      "社会",
+      "政治",
+      "经济"
+    ]
+  },
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 80
+    }
+  ],
+  "tweets": [
+    {
+      "text": "RT @asahicom: 男女間の仕切りがない上野公園のトイレ　不安の声受け東京都が改修へ\n\nトイレの設置は、東京芸術大学との共同事業。同大の建築学系研究室が設計し、都が公園の北西側に設置した。24日正午ごろから利用できるようになった。… https://t.co/34gbN…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 22:52:58 +0000 2025",
+      "metrics": {
+        "reply": 314,
+        "retweet": 1655,
+        "like": 2872
+      }
+    },
+    {
+      "text": "核保有発言に長崎市長「いかに非人道的なものか、理解されていない」 https://t.co/G0U85Jc2yx",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 06:08:02 +0000 2025",
+      "metrics": {
+        "reply": 316,
+        "retweet": 891,
+        "like": 2390
+      }
+    },
+    {
+      "text": "RT @asahicom: 在宅勤務装いアウトドア施設へ　職員を懲戒処分、52回実労働なし\nhttps://t.co/p97k5O7vtt\n\n発覚のきっかけは「在宅勤務を装いアウトドア施設に行っている」との情報が寄せられたこと。\n\n在宅勤務申請日に施設で警戒していたところ、研究…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:31:43 +0000 2025",
+      "metrics": {
+        "reply": 72,
+        "retweet": 569,
+        "like": 2500
+      }
+    },
+    {
+      "text": "NHKが米軍事件の特集放送を延期　政権への忖度、ないというけれど https://t.co/MxQAKDMMRf",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 22:10:03 +0000 2025",
+      "metrics": {
+        "reply": 78,
+        "retweet": 641,
+        "like": 924
+      }
+    },
+    {
+      "text": "オリコン年間売上ランキング　Snow Manとミセスが200億超 https://t.co/IiDicEgFw0\n \nオリコンは26日付で、2025年のアーティスト別売り上げランキング（集計期間は昨年12月9日～今月7日）を発表した。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 19:08:03 +0000 2025",
+      "metrics": {
+        "reply": 0,
+        "retweet": 235,
+        "like": 1506
+      }
+    },
+    {
+      "text": "高額療養費見直し　「国家的殺人未遂」と批判した丸山知事の反応は https://t.co/3R6a9dvxi9",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:22:02 +0000 2025",
+      "metrics": {
+        "reply": 8,
+        "retweet": 306,
+        "like": 826
+      }
+    },
+    {
+      "text": "RT @asahicom: 津波襲来伝えられなかったテレビの後悔　警報時ヘリ映像、各局共有へ\nhttps://t.co/zFwVFgSLKr \n\n3.11のとき、仙台空港を唯一離陸できたのは、点検で庫外に出ていたNHK機だけ。\n\n空撮が伝えられていたら、「本当に津波は来る」と実…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Wed Dec 24 23:12:20 +0000 2025",
+      "metrics": {
+        "reply": 12,
+        "retweet": 187,
+        "like": 482
+      }
+    },
+    {
+      "text": "男性検事を略式起訴へ　交際女性に捜査情報を漏らす、懲戒処分も https://t.co/NN2BoKFw28",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 20:08:02 +0000 2025",
+      "metrics": {
+        "reply": 10,
+        "retweet": 204,
+        "like": 358
+      }
+    },
+    {
+      "text": "皇位継承協議で自民に苦言「あまりにもかたくな」　立憲・野田代表 https://t.co/AvQyL7L54U",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 07:04:02 +0000 2025",
+      "metrics": {
+        "reply": 185,
+        "retweet": 76,
+        "like": 246
+      }
+    },
+    {
+      "text": "RT @asahicom: SNSで制服が話題の高校、最寄り駅で盗撮被害多発　警察が警戒強化\nhttps://t.co/LjWvJ4evXG\n\n横浜市で、特定の神奈川県立高校の女子生徒を最寄り駅で狙う盗撮被害が相次いでいます。\n\n県警神奈川署は、同校の生徒を盗撮したとして、男性…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:04:57 +0000 2025",
+      "metrics": {
+        "reply": 6,
+        "retweet": 146,
+        "like": 189
+      }
+    },
+    {
+      "text": "RT @asahicom: ヤフオクにアイヌ民族の「戸籍簿」、曽祖父の名見つけ「怖かった」\nhttps://t.co/kPssAm5CPW\n\n《出品された「戸籍簿」。アップされた写真には、児童とみられる個人名や、両親の名前、性別などが手書きの青字で記されていた。…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 11:01:40 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 130,
+        "like": 194
+      }
+    },
+    {
+      "text": "高額療養費見直し、保険料１人あたりの削減効果は平均年約1400円 https://t.co/2dEeQ7I1V8\n \n厚生労働省は25日、2026年と27年に予定する高額療養費制度の自己負担額上限の引き上げで、医療給付にあてられる保険料と公費を年計2450億円程度減らせるとの試算を明らかにした。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:48:03 +0000 2025",
+      "metrics": {
+        "reply": 15,
+        "retweet": 114,
+        "like": 179
+      }
+    },
+    {
+      "text": "RT @asahicom: 作家の内館牧子さん死去　77歳　「毛利元就」脚本、横綱審議委員も\nhttps://t.co/RWHKPVpnPG \n\n1948年、秋田市生まれ。武蔵野美術大を卒業後、三菱重工業で働きながらシナリオライターを養成する学校に通い、40歳で脚本家デビュー。…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 03:42:20 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 96,
+        "like": 86
+      }
+    },
+    {
+      "text": "逮捕の男は元従業員「職場でいじめられた」供述　静岡の工場切りつけ https://t.co/DOaiq9Axn3",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 05:56:02 +0000 2025",
+      "metrics": {
+        "reply": 15,
+        "retweet": 80,
+        "like": 90
+      }
+    },
+    {
+      "text": "地方は「逆分権」の時代に　人手足りない市町村業務、国が再編検討へ https://t.co/eZI5D6NT7N",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 11:32:02 +0000 2025",
+      "metrics": {
+        "reply": 8,
+        "retweet": 72,
+        "like": 135
+      }
+    },
+    {
+      "text": "ブリジット・バルドーさん死去　91歳、フランスを代表する俳優 https://t.co/a49Cxqq92n\n \nAFP通信によると、フランスを代表する俳優のブリジット・バルドーさんが亡くなった。91歳だった。AFPはブリジット・バルドー財団の発表として報じた。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sun Dec 28 10:22:02 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 92,
+        "like": 65
+      }
+    },
+    {
+      "text": "スーパー「ロピア」、納入業者を無償で派遣させる　4億円超支払いへ https://t.co/mg4H9rmN2V",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 06:36:03 +0000 2025",
+      "metrics": {
+        "reply": 10,
+        "retweet": 76,
+        "like": 94
+      }
+    },
+    {
+      "text": "TBS親会社のコンプラ担当常務が辞任　660万円の経費不正が発覚 https://t.co/n4zFUewh6M",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 09:34:02 +0000 2025",
+      "metrics": {
+        "reply": 8,
+        "retweet": 66,
+        "like": 90
+      }
+    },
+    {
+      "text": "来年度税制改正1.7兆円減収へ　税収減るのに「財源を確保できた」 https://t.co/xd9GqdM2rX",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 11:44:01 +0000 2025",
+      "metrics": {
+        "reply": 51,
+        "retweet": 45,
+        "like": 85
+      }
+    },
+    {
+      "text": "崎陽軒シウマイ弁当1180円に値上げ　米価高騰などで来年2月から https://t.co/k6a6cRMgl4\n \n崎陽軒（横浜市）は26日、看板商品の「シウマイ弁当」の販売価格を来年2月1日から110円値上げし、1180円（税込み）にすると発表した。原材料や包装資材、物流費の価格高騰が主な理由という。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 03:34:02 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 70,
+        "like": 45
+      }
+    },
+    {
+      "text": "キーウにロシア軍の大規模攻撃 、2人死亡　米ウクライナ会談の前日 https://t.co/LvUNvisCfj\n \nウクライナの首都キーウで27日朝にかけて、ロシア軍による大規模な攻撃があった。ウクライナメディア「キーウ・インディペンデント」によると、少なくとも2人が死亡し、子どもを含む32人が負傷した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 16:00:04 +0000 2025",
+      "metrics": {
+        "reply": 7,
+        "retweet": 68,
+        "like": 42
+      }
+    },
+    {
+      "text": "特定秘密の違法運用で19人処分　防衛省相次ぐ不正、処分269人に https://t.co/UUSsr15TNr\n \n防衛省は26日、安全保障に関わる機密情報「特定秘密」について違法な取り扱いをしたとして、19人を停職や減給などの処分にしたと発表した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 08:42:03 +0000 2025",
+      "metrics": {
+        "reply": 7,
+        "retweet": 54,
+        "like": 54
+      }
+    },
+    {
+      "text": "紅白歌合戦に矢沢永吉さんが出場　ソロ50周年、13年ぶり3回目 https://t.co/35t6DF8XyU",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 08:42:03 +0000 2025",
+      "metrics": {
+        "reply": 3,
+        "retweet": 24,
+        "like": 158
+      }
+    },
+    {
+      "text": "「ドリフト走行」運転誤り、見物客はねたか　重傷ひき逃げ容疑で逮捕 https://t.co/15hSkDACl9",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 13:40:03 +0000 2025",
+      "metrics": {
+        "reply": 9,
+        "retweet": 46,
+        "like": 38
+      }
+    },
+    {
+      "text": "RT @asahicom: TBS親会社のコンプラ担当常務が辞任　660万円の経費不正が発覚\nhttps://t.co/OXV6sXwAmL\n\n広報室によると、不正は2022年8月から今月までの計180件が確認され、総額は約660万円に上ります。\n\nいずれもグループ会社内の関係…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:06:38 +0000 2025",
+      "metrics": {
+        "reply": 5,
+        "retweet": 39,
+        "like": 49
+      }
+    },
+    {
+      "text": "子育て支援金、年収600万円の会社員で月575円徴収　国試算 https://t.co/Cd2FX5Ughh",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 03:38:03 +0000 2025",
+      "metrics": {
+        "reply": 31,
+        "retweet": 26,
+        "like": 40
+      }
+    },
+    {
+      "text": "RT @asahicom: 2026年度の当初予算案は122兆3092億円と2年連続で過去最大に。過去最大になったのはなぜか。新規国債の発行額が30兆円を下回ったのはどうしてなのか。「責任ある積極財政」を掲げる高市首相が、もっとも強く意識したのはどこのか。財務省取材記者がピンポ…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 08:22:29 +0000 2025",
+      "metrics": {
+        "reply": 19,
+        "retweet": 24,
+        "like": 46
+      }
+    },
+    {
+      "text": "中国版コミケ、消えた日本要素　街には参加あきらめた鬼滅ファンの姿 https://t.co/5k7ovGO39D\n \n中国浙江省杭州市で27日、マンガやアニメ、ゲームのファンらが集う中国最大級のイベント「COMICUP」が開かれた。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 12:26:02 +0000 2025",
+      "metrics": {
+        "reply": 4,
+        "retweet": 32,
+        "like": 40
+      }
+    },
+    {
+      "text": "男女間の仕切りがない上野公園のトイレ　不安の声受け東京都が改修へ https://t.co/LMgGe5nvvv\n \n東京都台東区の上野恩賜（おんし）公園に24日に新設された公衆トイレをめぐり、防犯上問題があると懸念の声が出ている。東京都は25日、トイレの改修工事を26日に始めることを決めた。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 20:08:03 +0000 2025",
+      "metrics": {
+        "reply": 12,
+        "retweet": 29,
+        "like": 36
+      }
+    },
+    {
+      "text": "（社説）１２２兆円予算案　財政運営に危機感持て https://t.co/aTBYCjKVgm\n \n一般会計の歳出で過去最大となる１２２・３兆円の来年度当初予算案を高市政権が決めた。物価の上昇を社会保障などの各経費に反映し、金利高を織り込み、首相がこだわる成長投資や防衛費で額が増えた。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 20:08:02 +0000 2025",
+      "metrics": {
+        "reply": 27,
+        "retweet": 19,
+        "like": 33
+      }
+    },
+    {
+      "text": "RT @funakoshi_ta: 今年最後の配信です。ゆるいトークで締めるはずが、まあまあ真面目になりました。一昔前まで「取材の裏側は語るもんじゃない」が常識でしたが、こうして可視化することも報道の信頼のために必要な時代なのかなと。\n来年もよろしくお願いいたします。元旦配信あ…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 05:47:00 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 19,
+        "like": 72
+      }
+    },
+    {
+      "text": "RT @asahicom: 【続報】\n男女の仕切りないトイレ、都が臨時改修　上野公園、防犯面の懸念受け\nhttps://t.co/YoXyWtnnOs… https://t.co/XXhw0Csqkf",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 07:05:44 +0000 2025",
+      "metrics": {
+        "reply": 7,
+        "retweet": 20,
+        "like": 46
+      }
+    },
+    {
+      "text": "中国の旅行アプリで大量削除騒動　「詐欺組織に情報漏れ」懸念が拡散 https://t.co/ar1GgRvD4O\n \n中国の旅行サイト最大手・携程（トリップドットコム）をめぐり、利用者が同社のアプリを削除したとするSNS投稿が相次いだ。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 12:10:03 +0000 2025",
+      "metrics": {
+        "reply": 6,
+        "retweet": 27,
+        "like": 16
+      }
+    },
+    {
+      "text": "「えーい、ひとーつ」　ひと足早く除夜の鐘の試し撞き　京都・知恩院 https://t.co/JDoEnyl3s0\n \n浄土宗総本山・知恩院（京都市東山区）で27日、除夜の鐘の試し撞（づ）きがあった。鐘は日本三大梵鐘（ぼんしょう）の一つとされ、高さ約3・3メートル、直径約2・8メートル、重さ約70トン。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 10:20:03 +0000 2025",
+      "metrics": {
+        "reply": 3,
+        "retweet": 19,
+        "like": 53
+      }
+    },
+    {
+      "text": "占領期の性にまつわる「不都合」な歴史　「書かなければ」記者の思い https://t.co/Le8POKwuDJ",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sun Dec 28 06:42:03 +0000 2025",
+      "metrics": {
+        "reply": 13,
+        "retweet": 16,
+        "like": 43
+      }
+    },
+    {
+      "text": "インフルエンサー宮崎麗果氏、1.5億円脱税疑い　架空経費を計上か https://t.co/Bp0aubc8qj",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 02:36:02 +0000 2025",
+      "metrics": {
+        "reply": 4,
+        "retweet": 20,
+        "like": 36
+      }
+    },
+    {
+      "text": "「国宝」が史上最多6冠　日刊スポーツ映画大賞、作品や主演男優部門 https://t.co/c586N2RnI5\n \n第38回日刊スポーツ映画大賞・石原裕次郎賞が28日発表され、邦画の実写作品として22年ぶりに歴代最高の興行収入を更新した「国宝」が、作品賞など史上最多となる6部門で選ばれた。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sun Dec 28 10:16:03 +0000 2025",
+      "metrics": {
+        "reply": 0,
+        "retweet": 18,
+        "like": 43
+      }
+    },
+    {
+      "text": "RT @asahi_book: 朝日新聞文化部の記者たちが選ぶ　読書の年末年始「おすすめの一冊」\nhttps://t.co/xZUpP1b9Xk \n\n読書の秋ならぬ、読書の年末年始がやってきます。朝日新聞文化部の記者たちに、今年刊行された本から「おすすめの一冊」を選んでもらい、…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:12:51 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 16,
+        "like": 47
+      }
+    },
+    {
+      "text": "松原仁衆院議員の資金管理団体、「迂回献金」か　同氏側は違法性否定 https://t.co/aI1wI7kdEW",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 06:36:03 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 23,
+        "like": 16
+      }
+    },
+    {
+      "text": "関越道事故、50台以上巻き込まれ20台炎上　1人死亡26人重軽傷 https://t.co/nWYVzUn6o1",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 03:20:03 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 20,
+        "like": 25
+      }
+    },
+    {
+      "text": "政治資金約2794万円流用か　自民埼玉県連が県議を背任容疑で告訴 https://t.co/Op2lNAWe1z\n \n自民党埼玉県連は24日、政治資金約2794万円の私的流用を認定した前幹事長の小谷野五雄県議（69）=西8区（日高市）=を、背任の疑いで県警浦和署に刑事告訴した。県連によると、同日付で受理されたという。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Wed Dec 24 12:18:03 +0000 2025",
+      "metrics": {
+        "reply": 5,
+        "retweet": 19,
+        "like": 23
+      }
+    },
+    {
+      "text": "入浴中の突然死は12～2月に集中、9割が65歳以上　危険な条件は https://t.co/tZVro77ylU",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Wed Dec 24 22:48:03 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 21,
+        "like": 18
+      }
+    },
+    {
+      "text": "平均寿命、躍進の滋賀、転落の沖縄、短命の青森が集まり分かったこと https://t.co/zbDybdvDrA",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sat Dec 27 03:46:02 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 18,
+        "like": 29
+      }
+    },
+    {
+      "text": "（社説）防衛費９兆円台　急拡大が生むひずみ https://t.co/lNp3oFIbpy\n \n来年度当初予算案の防衛費は、今年度より３３４９億円多い９兆３５３億円と初めて９兆円を突破した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 20:08:02 +0000 2025",
+      "metrics": {
+        "reply": 12,
+        "retweet": 16,
+        "like": 13
+      }
+    },
+    {
+      "text": "RT @asahicom: 外国籍職員の採用見直し、三重県知事が表明　識者は「根拠がない」\nhttps://t.co/YUaHlsvyaZ\n\n現在、県は49職種のうち一般事務を中心に44職種で国籍要件を廃止しています。\n\n来年1月26日～2月16日に県民1万人（外国籍の人は対象…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:51:36 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 19,
+        "like": 21
+      }
+    },
+    {
+      "text": "ビザ発行手数料、来年度5倍に引き上げ方針　政府、外国人政策の一環 https://t.co/nx6mitj2S2\n \n政府は26日に閣議決定した当初予算案で、外国人政策の一環として、2026年度に外国人に対する査証（ビザ）の発行手数料を現行の5倍に引き上げる方針を示した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 10:06:03 +0000 2025",
+      "metrics": {
+        "reply": 3,
+        "retweet": 14,
+        "like": 38
+      }
+    },
+    {
+      "text": "男女の仕切りないトイレ、都が臨時改修　上野公園、防犯面の懸念受け https://t.co/aKQg1LcGPB\n \n男女間に仕切りがなく、防犯上問題があると批判されていた東京都立上野恩賜（おんし）公園の新設トイレの問題を受け、都は26日、仕切りを設ける臨時の改修工事をした。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 05:58:02 +0000 2025",
+      "metrics": {
+        "reply": 5,
+        "retweet": 18,
+        "like": 17
+      }
+    },
+    {
+      "text": "RT @kitanoarata1980: 文芸担当でも何でもありませんが、選ぶ一人に加えていただきました。個人的な話を重ねましたが、年末年始の読書にオススメしたい本です。\n\n朝日新聞文化部の記者たちが選ぶ　読書の年末年始「おすすめの一冊」：朝日新聞 https://t.co/D…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:13:22 +0000 2025",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 67
+      }
+    },
+    {
+      "text": "海自潜水艦33隻分のデータを改ざん　川重を2カ月半の指名停止に https://t.co/ulLslRVn4u\n \n防衛省は26日、海上自衛隊の潜水艦のエンジン燃費性能に関する検査データを改ざんしていたとして、川崎重工業を同日から3月11日まで2カ月半の指名停止処分にしたと発表した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 11:40:03 +0000 2025",
+      "metrics": {
+        "reply": 6,
+        "retweet": 16,
+        "like": 20
+      }
+    },
+    {
+      "text": "入学金の二重払い問題、私立210大学が返金など検討　国が初調査 https://t.co/z1lAtwXA7S\n \n受験生が入らない大学にも入学金を払う「二重払い」をめぐり、私立大の約25％が、返金や納付期限の後ろ倒しなどの負担軽減策をとる方針であることがわかった。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 07:26:02 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 17,
+        "like": 26
+      }
+    },
+    {
+      "text": "腕時計シェア　トケマッチ元代表、詐欺容疑で逮捕へ　ドバイから帰国 https://t.co/BuEW41wPlB",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 02:44:03 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 17,
+        "like": 23
+      }
+    },
+    {
+      "text": "多摩動物公園でオオカミ1頭がおりから脱走　入園者避難、けが人なし https://t.co/GnT96BPrHy\n \n東京都日野市の多摩動物公園で28日午前、飼育されているヨーロッパオオカミ1頭がおりから脱走した。園では飼育員らが捕獲作業を続けている。けが人はいないという。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Sun Dec 28 02:56:02 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 17,
+        "like": 24
+      }
+    },
+    {
+      "text": "RT @asahicom: 入学金の二重払い、私立210大学が返金など実施・検討　国が初調査\nhttps://t.co/sguo45Q7SX\n\n文科省の推計では、大学入学者全体の23.5％（約15万人）が入学を辞退した大学にも払っているとされます。\n\n文科省は6月、全国の私大に…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:42:13 +0000 2025",
+      "metrics": {
+        "reply": 0,
+        "retweet": 17,
+        "like": 25
+      }
+    },
+    {
+      "text": "RT @asahicom: 信号無視の危険運転が娘を奪った　法改正たぐりよせた父の5年9カ月\nhttps://t.co/DgrRQewoIJ\n\n2020年3月14日。雨の夜。「早く帰って、ごはん食べたいね」と娘が言った。信号が青になり、2人並んで横断歩道を渡った。\n\n次に気がつ…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 04:50:14 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 13,
+        "like": 33
+      }
+    },
+    {
+      "text": "日本版GPSみちびき5号衛星を喪失、内閣府が発表　H3は再突入 https://t.co/NfU4cO4JUi\n \n打ち上げに失敗した国の主力ロケット「H3」8号機に搭載されていた準天頂衛星「みちびき5号機」について、小野田紀美・宇宙政策担当相は25日、「喪失したと考えられる」と発表した。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 04:32:02 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 18,
+        "like": 13
+      }
+    },
+    {
+      "text": "オアシスが小林製薬の筆頭株主に　保有比率13％超に買い増し https://t.co/h9jTmFVpS3\n \n小林製薬は26日、香港の投資ファンド「オアシス・マネジメント」が筆頭株主になったと発表した。同日までにオアシスが株式を約3%分買い増して、議決権ベースの保有比率を13.74%まで引き上げた。",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Fri Dec 26 11:10:03 +0000 2025",
+      "metrics": {
+        "reply": 5,
+        "retweet": 16,
+        "like": 10
+      }
+    },
+    {
+      "text": "（社説）武器輸出自制　原則骨抜きの瀬戸際 https://t.co/WPiYIhaqUs\n \n３年前に改定された国家安全保障戦略が「防衛装備移転の推進」を掲げて以降、殺傷能力のある武器の輸出に次々と道が開かれている。",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 20:06:03 +0000 2025",
+      "metrics": {
+        "reply": 3,
+        "retweet": 16,
+        "like": 14
+      }
+    },
+    {
+      "text": "RT @asahicom: クリスマスイブは心筋梗塞に注意　発作のピークは22時\nhttps://t.co/mPYtTfUOJN \n\n研究チームによると、イブの12月24日はその前後2週間と比べて、発作リスクが37％増加。\n\nクリスマス（29％増）や元日（21％増）も「危険な日…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Wed Dec 24 13:18:17 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 17,
+        "like": 13
+      }
+    },
+    {
+      "text": "RT @asahicom: スーパー「ロピア」、納入業者を無償で派遣させる　4億円超支払いへ\nhttps://t.co/aoCs5kklGk \n\nロピアは約2年10カ月の間に、納入業者約400社から延べ1万人以上を派遣させていたが、人件費、交通費、宿泊費など総額約4億3300万…",
+      "stance": "negative",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:04:42 +0000 2025",
+      "metrics": {
+        "reply": 2,
+        "retweet": 15,
+        "like": 17
+      }
+    },
+    {
+      "text": "RT @asahicom: 「伊達直人」から15年目のランドセル　千葉・我孫子市役所に届く\nhttps://t.co/G2OVebUXxf\n\n市によると、ランドセルは午前2時ごろ、巡回中の守衛が見つけました。\n\n添えられた手紙には「今年は多くの災害など悲しい出来事がありましたが…",
+      "stance": "neutral",
+      "username": "asahi",
+      "created_at": "Thu Dec 25 10:34:41 +0000 2025",
+      "metrics": {
+        "reply": 1,
+        "retweet": 11,
+        "like": 33
+      }
+    }
+  ]
+}
