@@ -1,8 +1,8 @@
 <template>
   <div class="dashboard-container">
     <div class="header-section">
-      <h1 class="page-title">舆情话题深度溯源</h1>
-      <p class="page-subtitle">Topic Clustering & Stance Drill-down System</p>
+      <h1 class="page-title">话题分析</h1>
+      
     </div>
     
     <div class="control-panel">

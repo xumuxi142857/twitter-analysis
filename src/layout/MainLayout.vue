@@ -6,7 +6,7 @@
           <div class="logo-icon">
             <el-icon><Monitor /></el-icon>
           </div>
-          <span class="logo-text">舆情情报分析</span>
+          <span class="logo-text">舆情情报分析系统</span>
         </div>
 
         <el-menu
@@ -16,22 +16,22 @@
         >
           <el-menu-item index="/topic">
             <el-icon><DataAnalysis /></el-icon>
-            <span>舆情话题溯源</span>
+            <span>话题分析</span>
           </el-menu-item>
           
           <el-menu-item index="/account">
             <el-icon><User /></el-icon>
-            <span>重点账号画像</span>
+            <span>账号推荐</span>
           </el-menu-item>
 
           <el-menu-item index="/guide">
             <el-icon><Compass /></el-icon>
-            <span>智能推文引导</span>
+            <span>推文引导</span>
           </el-menu-item>
 
           <el-menu-item index="/detect">
             <el-icon><Aim /></el-icon>
-            <span>重点目标监测</span>
+            <span>目标监测</span>
           </el-menu-item>
         </el-menu>
       </el-aside>

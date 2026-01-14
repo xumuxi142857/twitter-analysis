@@ -2,8 +2,7 @@
   <div class="guide-page">
     <div class="header-section">
       <div class="header-content">
-        <h1 class="page-title">智能推文引导与应对</h1>
-        <p class="page-subtitle">AI-Powered Response Generation & Public Opinion Guidance</p>
+        <h1 class="page-title">推文引导</h1>
       </div>
       <div class="header-actions">
         <span class="label">监测时间段:</span>

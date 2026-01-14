@@ -1,8 +1,8 @@
 <template>
   <div class="account-page">
     <div class="header-section">
-      <h1 class="page-title">重点账号画像推荐</h1>
-      <p class="page-subtitle">Key Opinion Leader (KOL) Profiling & Recommendation</p>
+      <h1 class="page-title">账号推荐</h1>
+
     </div>
 
     <div class="control-panel">

@@ -3,15 +3,16 @@ import os
 import re
 import requests
 import hashlib
+import traceback
 from datetime import datetime
 
 # ================= 配置区域 =================
-# 📅 【核心修改】在这里指定你要处理的日期
+# 📅 指定日期
 TARGET_DATE = "2025-12-25" 
 
-API_KEY = "sk-7ba052d40efe48ae990141e577d952d1"  # 
-API_URL = "https://api.deepseek.com/chat/completions"
-MODEL_NAME = "deepseek-chat"  # 
+API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco"
+API_URL = "https://api.siliconflow.cn/v1/chat/completions"
+MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
@@ -30,8 +31,15 @@ FILENAME_MAPPING = {
 }
 # ===========================================
 
+def parse_date_from_filename(filename):
+    # 兼容带时间后缀和不带后缀的文件名
+    match = re.search(r'(20[2-3]\d{5})', filename)
+    if match:
+        date_str = match.group(1)
+        return f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:]}"
+    return None
+
 def get_files_fingerprint(date_key):
-    """计算目标日期下相关文件的指纹"""
     target_date_str = date_key.replace("-", "") 
     related_files = []
     
@@ -49,13 +57,7 @@ def get_files_fingerprint(date_key):
     return hashlib.md5(combined_str.encode('utf-8')).hexdigest()
 
 def load_data_for_target_date(target_date):
-    """
-    【修改】只加载指定日期的数据
-    返回结构: { "US": [items...], "Japan": [items...] }
-    """
     region_data = {}
-    
-    # 将 2025-12-25 转换为 20251225 以匹配文件名
     target_date_str = target_date.replace("-", "")
     
     if not os.path.exists(RAW_DIR):
@@ -63,17 +65,13 @@ def load_data_for_target_date(target_date):
         return region_data
 
     print(f"📂 正在扫描 {RAW_DIR} 中包含 '{target_date_str}' 的文件...")
-    
     file_count = 0
-    # 递归扫描
+    
     for root, dirs, files in os.walk(RAW_DIR):
         for filename in files:
             if not filename.endswith('.json'): continue
-            
-            # 1. 严格匹配日期字符串
             if target_date_str not in filename: continue
             
-            # 2. 识别板块
             target_region = None
             for key, region in FILENAME_MAPPING.items():
                 if key.lower() in filename.lower(): 
@@ -81,16 +79,13 @@ def load_data_for_target_date(target_date):
                     break
             if not target_region: continue
 
-            # 3. 初始化
             if target_region not in region_data: region_data[target_region] = []
 
-            # 4. 读取数据
             path = os.path.join(root, filename)
             try:
                 with open(path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     items = data if isinstance(data, list) else [data]
-                    
                     for item in items:
                         if item.get('full_text'):
                             region_data[target_region].append(item)
@@ -102,7 +97,7 @@ def load_data_for_target_date(target_date):
 
 def call_llm_analysis(region, date, raw_items):
     """
-    智能采样 + LLM 分析 (保持之前的 Drill-down 逻辑)
+    【增强版】智能采样 + LLM 分析 + 错误调试
     """
     if not raw_items: return None
 
@@ -113,7 +108,7 @@ def call_llm_analysis(region, date, raw_items):
         unique_items[key] = item
     clean_items = list(unique_items.values())
 
-    # 2. 按影响力排序 (Top-N 策略)
+    # 2. 按影响力排序
     def calculate_impact(item):
         retweet = item.get('retweet_count', 0) or 0
         reply = item.get('reply_count', 0) or 0
@@ -126,7 +121,7 @@ def call_llm_analysis(region, date, raw_items):
     top_items = clean_items[:50]
     print(f"      [采样] {region}: 原始 {len(raw_items)} 条 -> 精选 Top {len(top_items)} 条")
 
-    # 4. 构建输入
+    # 4. 构建 Prompt
     input_list = []
     for idx, item in enumerate(top_items):
         text = item.get('full_text', '').replace('\n', ' ').strip()
@@ -142,9 +137,9 @@ def call_llm_analysis(region, date, raw_items):
     {input_text_str}
 
     任务：
-    1. 【话题聚类】将推文聚类为 Top 10 核心话题，一定不要有重复的话题。
+    1. 【话题聚类】将推文聚类为 Top 10 核心话题。一定不要有重复的话题。
     2. 【立场研判】列出每个话题下的推文ID，并判断该推文的立场(positive/neutral/negative)。
-    3. 【词云提取】提取 Top 20 热门关键词,需要翻译为中文！ (排除通用国家名，只保留具体事件/实体)。
+    3. 【词云提取】提取 Top 15 热门关键词 ,要翻译为中文(排除通用国家名，只保留具体事件/实体)。
     
     输出 JSON 格式：
     {{
@@ -166,7 +161,7 @@ def call_llm_analysis(region, date, raw_items):
     payload = {
         "model": MODEL_NAME,
         "messages": [
-            {"role": "system", "content": "You are a data analyst. Output raw JSON only."},
+            {"role": "system", "content": "You are a data analyst. Output raw JSON only. Do not use Markdown blocks."},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
@@ -177,11 +172,20 @@ def call_llm_analysis(region, date, raw_items):
         response = requests.post(API_URL, json=payload, headers={
             "Authorization": f"Bearer {API_KEY}",
             "Content-Type": "application/json"
-        })
+        }, timeout=60) # 增加超时设置
         
         if response.status_code == 200:
             content = response.json()['choices'][0]['message']['content']
-            llm_json = json.loads(content)
+            
+            # 【关键修改】清洗 Markdown 标记，防止 JSON 解析挂掉
+            content = content.replace('```json', '').replace('```', '').strip()
+            
+            try:
+                llm_json = json.loads(content)
+            except json.JSONDecodeError:
+                print(f"❌ JSON 解析失败 [{region}]！LLM 返回了非 JSON 内容。")
+                print(f"🔍 返回内容片段: {content[:100]}...")
+                return None
             
             # 数据回填
             final_topics = []
@@ -215,28 +219,36 @@ def call_llm_analysis(region, date, raw_items):
                 "top_topics": final_topics,
                 "hot_words": llm_json.get('hot_words', [])
             }
+        else:
+            print(f"❌ API 请求失败 [{region}]: {response.status_code}")
+            print(f"🔍 错误详情: {response.text}")
+            
     except Exception as e:
-        print(f"⚠️ Error ({region}): {e}")
+        print(f"❌ 处理异常 [{region}]: {e}")
+        traceback.print_exc() # 打印完整报错堆栈
     
     return None
 
 def main():
     print(f"🚀 开始执行单日话题分析模式 | 目标日期: {TARGET_DATE}")
     
-    # 1. 检查指纹 (看今天的数据有没有变过)
     out_path = os.path.join(OUTPUT_DIR, f"{TARGET_DATE}.json")
     if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
     
-    # 2. 加载指定日期的数据
     regions_data = load_data_for_target_date(TARGET_DATE)
     
     if not regions_data:
-        print(f"⚠️ 未找到日期 {TARGET_DATE} 的任何数据，请检查 raw 文件夹文件名是否包含 '20251225' 格式。")
+        print(f"⚠️ 未找到日期 {TARGET_DATE} 的任何数据。")
         return
 
-    # 3. 开始处理
     print(f"\n──────────────────────────────────────────")
     print(f"🔄 正在分析: {TARGET_DATE}")
+    
+    # 强制重新分析，为了调试，暂时注释掉指纹跳过逻辑
+    # 如果想恢复跳过，请取消下面两行的注释
+    # if not check_needs_update(out_path, get_files_fingerprint(TARGET_DATE)):
+    #     print(f"⏩ 数据未变动，跳过")
+    #     return
     
     daily_result = {}
     current_fingerprint = get_files_fingerprint(TARGET_DATE)
@@ -247,6 +259,7 @@ def main():
         analysis = call_llm_analysis(region, TARGET_DATE, items)
         
         if analysis:
+            print(f"      ✅ [{region}] 分析成功")
             daily_result[region] = {
                 "region": region,
                 "time_range": [TARGET_DATE, TARGET_DATE],
@@ -254,9 +267,9 @@ def main():
                 "hot_words": analysis.get('hot_words', [])
             }
         else:
+            print(f"      ⚠️ [{region}] 分析返回为空，结果将为空白")
             daily_result[region] = {"top_topics": [], "hot_words": []}
     
-    # 4. 写入元数据和文件
     daily_result["_meta"] = {
         "fingerprint": current_fingerprint,
         "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
