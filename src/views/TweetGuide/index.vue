@@ -5,13 +5,11 @@
         <h1 class="page-title">推文引导</h1>
       </div>
       <div class="header-actions">
-        <span class="label">监测时间段:</span>
+        <span class="label">日期:</span>
         <el-date-picker
-          v-model="dateRange"
-          type="daterange"
-          range-separator="至"
-          start-placeholder="开始"
-          end-placeholder="结束"
+          v-model="selectedDate"
+          type="date"
+          placeholder="选择日期"
           value-format="YYYY-MM-DD"
           :clearable="false"
           @change="fetchData"
@@ -47,16 +45,13 @@
             :row-class-name="tableRowClassName"
           >
             <el-table-column type="index" label="No." width="60" align="center" />
-            <el-table-column prop="topic" label="话题焦点 (Topic Focus)" min-width="400">
+            
+            <el-table-column prop="topic" label="话题焦点 " min-width="400">
                <template #default="{ row }">
                  <span style="font-weight: 600;">{{ row.topic }}</span>
                </template>
             </el-table-column>
-            <el-table-column prop="stance" label="当前立场" width="120" align="center">
-              <template #default="{ row }">
-                <el-tag :type="getStanceColor(row.stance)" effect="dark" size="small" round>{{ row.stance }}</el-tag>
-              </template>
-            </el-table-column>
+            
             <el-table-column label="状态" width="150" align="center">
               <template #default="{ row }">
                 <el-button
@@ -97,8 +92,7 @@
                       >
                         <div class="t-header">
                           <span class="t-author">@{{ tweet.username || 'user_unknown' }}</span>
-                          <span class="t-time">{{ tweet.created_at }}</span>
-                        </div>
+                          </div>
                         <div class="t-content">{{ tweet.text }}</div>
                         <div class="t-footer">
                           <div class="t-metrics">
@@ -127,7 +121,7 @@
                   <div class="panel-header">
                     <div class="ph-left">
                       <el-icon><EditPen /></el-icon>
-                      <span>智能应对策略 (AI Copilot)</span>
+                      <span>智能应对策略</span>
                     </div>
                   </div>
 
@@ -169,7 +163,7 @@
           </div>
         </transition>
       </div>
-      <el-empty v-else description="该时间段内暂无监测数据" />
+      <el-empty v-else description="该日期暂无监测数据" />
     </div>
   </div>
 </template>
@@ -177,13 +171,13 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import axios from 'axios';
-import dayjs from 'dayjs';
 import { ElMessage } from 'element-plus';
 import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard } from '@element-plus/icons-vue';
 
 // --- 数据定义 ---
 const activeTab = ref('Philippines');
-const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
+// 修改：改为单个日期字符串
+const selectedDate = ref<string>('2025-12-25');
 const loading = ref(false);
 const hasData = ref(true);
 
@@ -192,7 +186,7 @@ const selectedTweetForDraft = ref<any>(null);
 const regionDataStore = ref<Record<string, any>>({});
 const currentData = computed(() => regionDataStore.value[activeTab.value] || { topics: [] });
 
-// 配置项优化
+// 配置项
 const draftTypes = {
   authority: { label: '权威引导', icon: Stamp, desc: '引用法规/官方', btnType: 'primary', tagType: '' },
   peer: { label: '同伴引导', icon: ChatDotRound, desc: '平视/网络语', btnType: 'warning', tagType: 'warning' },
@@ -207,9 +201,9 @@ const resetSelection = () => {
 };
 
 const handleTopicChange = (row: any) => {
-  if (activeTopic.value === row) return; // 重复点击不处理
+  if (activeTopic.value === row) return; 
   activeTopic.value = row;
-  selectedTweetForDraft.value = null; // 切换话题清空选中的推文
+  selectedTweetForDraft.value = null;
 };
 
 const tableRowClassName = ({ row }: { row: any }) => {
@@ -217,50 +211,51 @@ const tableRowClassName = ({ row }: { row: any }) => {
 };
 
 const fetchData = async () => {
-  if (!dateRange.value) return;
+  if (!selectedDate.value) return;
   loading.value = true;
   activeTopic.value = null;
   selectedTweetForDraft.value = null;
 
-  const [start, end] = dateRange.value;
-  const startDate = dayjs(start);
-  const diffDays = dayjs(end).diff(startDate, 'day');
+  // 初始化结构
+  const tempStore: any = { 
+    US: { topics: [] }, 
+    Japan: { topics: [] }, 
+    Philippines: { topics: [] }, 
+    Taiwan: { topics: [] } 
+  };
+  
+  try {
+    // 修改：直接请求单日数据
+    const res = await axios.get(`/db/guide/${selectedDate.value}.json`);
+    const dayData = res.data;
 
-  const promises = [];
-  for (let i = 0; i <= diffDays; i++) {
-    const dateStr = startDate.add(i, 'day').format('YYYY-MM-DD');
-    promises.push(axios.get(`/db/guide/${dateStr}.json`).then(res => res.data).catch(() => null));
-  }
-
-  const results = await Promise.all(promises);
-  const tempStore: any = { US: { topics: [] }, Japan: { topics: [] }, Philippines: { topics: [] }, Taiwan: { topics: [] } };
-  let found = false;
-
-  results.forEach(dayData => {
     if (dayData) {
-      found = true;
+      hasData.value = true;
       Object.keys(dayData).forEach(reg => {
         if (tempStore[reg]) {
           const rawTopics = dayData[reg].top_topics || [];
+          // 处理数据，不需要合并多天了，直接赋值
           const processedTopics = rawTopics.map((t: any) => ({
             ...t,
+            // 确保 stance 字段存在
             stance: t.stance || (t.tweets && t.tweets[0]?.stance) || 'neutral'
           }));
-          tempStore[reg].topics.push(...processedTopics);
+          tempStore[reg].topics = processedTopics;
         }
       });
+      regionDataStore.value = tempStore;
+    } else {
+      hasData.value = false;
     }
-  });
-
-  regionDataStore.value = tempStore;
-  hasData.value = found;
-  loading.value = false;
+  } catch (error) {
+    console.error("Fetch data error:", error);
+    hasData.value = false;
+  } finally {
+    loading.value = false;
+  }
 };
 
-const getStanceColor = (s: string) => s === 'negative' ? 'danger' : (s === 'positive' ? 'success' : 'info');
-
 const handleGenerateForTweet = async (tweet: any) => {
-  // 如果点击的是已经选中的，就不重复请求
   if(selectedTweetForDraft.value === tweet && activeTopic.value.drafts?.authority) return;
 
   selectedTweetForDraft.value = tweet;
@@ -268,7 +263,7 @@ const handleGenerateForTweet = async (tweet: any) => {
   if (!activeTopic.value.drafts) {
     activeTopic.value.drafts = { authority: '', peer: '', kinship: '' };
   }
-  // Loading 状态
+  
   activeTopic.value.drafts = { 
     authority: "AI 正在思考策略...", 
     peer: "AI 正在组织语言...", 
@@ -311,7 +306,7 @@ $primary-color: #409eff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-/* 头部样式优化 */
+/* 头部样式 */
 .header-section {
   display: flex;
   justify-content: space-between;
@@ -319,7 +314,6 @@ $primary-color: #409eff;
   margin-bottom: 20px;
   
   .page-title { margin: 0; font-size: 26px; color: #1f2937; }
-  .page-subtitle { margin: 5px 0 0; color: #6b7280; font-size: 14px; }
   
   .header-actions {
     display: flex; align-items: center; gap: 10px;
@@ -355,7 +349,7 @@ $primary-color: #409eff;
 
 /* 左侧：推文列表 */
 .tweet-list-container {
-  padding-right: 5px; /* 防止滚动条太贴边 */
+  padding-right: 5px; 
 }
 
 .tweet-stack {
@@ -399,7 +393,7 @@ $primary-color: #409eff;
   background: #fff;
   border-radius: $card-radius;
   padding: 20px;
-  height: 650px; /* 与左侧滚动高度保持一致 */
+  height: 650px; 
   display: flex;
   flex-direction: column;
   box-shadow: 0 4px 12px rgba(0,0,0,0.04);
@@ -470,7 +464,6 @@ $primary-color: #409eff;
     text-align: right;
   }
   
-  /* 不同类型的配色 */
   &.authority {
     border-color: #bfdbfe;
     .box-header { background: #eff6ff; color: #1e40af; }
@@ -485,8 +478,7 @@ $primary-color: #409eff;
   }
 }
 
-/* Element UI 覆盖 */
 :deep(.highlight-row) {
-  background-color: #ecf5ff !important; /* 话题选中背景色 */
+  background-color: #ecf5ff !important;
 }
 </style>

@@ -18,11 +18,9 @@
       <div class="right-controls">
         <span class="label">数据日期:</span>
         <el-date-picker
-          v-model="dateRange"
-          type="daterange"
-          range-separator="至"
-          start-placeholder="开始"
-          end-placeholder="结束"
+          v-model="selectedDate"
+          type="date"
+          placeholder="选择日期"
           :disabled-date="disabledDate"
           value-format="YYYY-MM-DD"
           @change="fetchData"
@@ -39,7 +37,7 @@
             <el-card class="modern-card list-card" :body-style="{ padding: '0' }">
               <template #header>
                 <div class="card-header">
-                  <span class="title-text">🔥 热门话题 Top 10</span>
+                  <span class="title-text">🔥 热门话题 </span>
                   <el-tag type="info" size="small">点击话题查看详情</el-tag>
                 </div>
               </template>
@@ -55,7 +53,6 @@
                   <div class="topic-rank">{{ index + 1 }}</div>
                   <div class="topic-content">
                     <div class="topic-title">{{ item.topic }}</div>
-                    <div class="topic-meta">关联推文: {{ item.tweets ? item.tweets.length : 0 }} 条</div>
                   </div>
                   <div class="arrow-icon">
                     <el-icon><ArrowRight /></el-icon>
@@ -65,7 +62,7 @@
             </el-card>
 
             <el-card class="modern-card" style="margin-top: 20px;">
-               <template #header><span>☁️ 关键词云 (Key Entities)</span></template>
+               <template #header><span>☁️ 词云展示</span></template>
                <WordCloud :data="currentData.hot_words" style="height: 250px;" />
             </el-card>
           </el-col>
@@ -103,10 +100,10 @@
                     </div>
 
                     <div class="tweet-meta-row">
-                      <div class="meta-item">
+                      <!--div class="meta-item">
                         <el-icon><Clock /></el-icon> 
                         {{ formatDate(tweet.created_at) }}
-                      </div>
+                      </div-->
                       <div class="metrics-group">
                         <span class="metric" title="Replies">
                           <el-icon><ChatDotRound /></el-icon> {{ tweet.metrics?.reply || 0 }}
@@ -138,7 +135,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, watch } from 'vue';
+import { ref, computed, onMounted } from 'vue';
 import axios from 'axios';
 import dayjs from 'dayjs';
 import { ArrowRight, ChatLineSquare, Clock, ChatDotRound, Share, Star } from '@element-plus/icons-vue';
@@ -146,7 +143,8 @@ import WordCloud from './components/WordCloud.vue';
 import type { RegionAnalysisData, TopicCluster } from '@/types';
 
 const activeTab = ref('US');
-const dateRange = ref<[string, string]>(['2025-12-25', '2025-12-25']);
+// 修改为单个日期字符串
+const selectedDate = ref<string>('2025-12-25');
 const loading = ref(false);
 const hasData = ref(false);
 const regionDataStore = ref<Record<string, RegionAnalysisData>>({});
@@ -177,60 +175,57 @@ const handleSelectTopic = (index: number) => {
 // 格式化日期：Twitter原始日期通常是 "Thu Dec 18..."，这里简单处理
 const formatDate = (dateStr: string) => {
   if (!dateStr) return 'Unknown Date';
-  // 尝试用 dayjs 解析
   const d = dayjs(dateStr);
   if (d.isValid()) {
     return d.format('YYYY-MM-DD HH:mm');
   }
-  return dateStr; // 解析失败则原样显示
+  return dateStr;
 };
 
 const fetchData = async () => {
-  if (!dateRange.value) return;
+  if (!selectedDate.value) return;
   loading.value = true;
   hasData.value = false;
   selectedTopicIndex.value = -1;
 
-  const [start, end] = dateRange.value;
-  const startDate = dayjs(start);
-  const diffDays = dayjs(end).diff(startDate, 'day');
-  
-  const promises = [];
-  for (let i = 0; i <= diffDays; i++) {
-    const dateStr = startDate.add(i, 'day').format('YYYY-MM-DD');
-    promises.push(axios.get(`/db/topic/${dateStr}.json`).then(res => res.data).catch(() => null));
-  }
-  
-  const results = await Promise.all(promises);
-  
+  // 初始化基础结构
   const tempStore: Record<string, RegionAnalysisData> = {
-    US: { region: 'US', time_range: dateRange.value, top_topics: [], hot_words: [] },
-    Japan: { region: 'Japan', time_range: dateRange.value, top_topics: [], hot_words: [] },
-    Philippines: { region: 'Philippines', time_range: dateRange.value, top_topics: [], hot_words: [] },
-    Taiwan: { region: 'Taiwan', time_range: dateRange.value, top_topics: [], hot_words: [] }
+    US: { region: 'US', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] },
+    Japan: { region: 'Japan', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] },
+    Philippines: { region: 'Philippines', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] },
+    Taiwan: { region: 'Taiwan', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] }
   };
 
-  let foundData = false;
-  results.forEach(data => {
+  try {
+    // 直接请求单个日期的 JSON 文件
+    const res = await axios.get(`/db/topic/${selectedDate.value}.json`);
+    const data = res.data;
+
     if (data) {
-      foundData = true;
       Object.keys(data).forEach(region => {
+        // 确保 region 存在于 tempStore 中且不是元数据
         if (tempStore[region] && region !== '_meta') {
-          tempStore[region].top_topics.push(...(data[region].top_topics || []));
-          tempStore[region].hot_words.push(...(data[region].hot_words || []));
+          // 直接赋值当日数据，不再累加
+          tempStore[region].top_topics = data[region].top_topics || [];
+          tempStore[region].hot_words = data[region].hot_words || [];
         }
       });
+      
+      regionDataStore.value = tempStore;
+      hasData.value = true;
+      
+      // 如果当前 Tab 有数据，默认选中第一个
+      if (currentData.value.top_topics.length > 0) {
+        selectedTopicIndex.value = 0;
+      }
     }
-  });
-
-  if (foundData) {
-    regionDataStore.value = tempStore;
-    hasData.value = true;
-    if (currentData.value.top_topics.length > 0) {
-      selectedTopicIndex.value = 0;
-    }
+  } catch (error) {
+    console.error('Failed to fetch data for date:', selectedDate.value, error);
+    // 请求失败保持 hasData = false，界面显示 Empty 状态
+    hasData.value = false;
+  } finally {
+    loading.value = false;
   }
-  loading.value = false;
 };
 
 const getStanceColor = (stance: string) => {
@@ -246,10 +241,6 @@ const getStanceLabel = (stance: string) => {
 
 onMounted(() => fetchData());
 </script>
-
-
-
-
 
 <style scoped lang="scss">
 .dashboard-container { padding: 30px 60px; background-color: #f0f4f8; min-height: 100vh; }

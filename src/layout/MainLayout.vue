@@ -95,10 +95,10 @@ const activePath = computed(() => route.path);
 // 计算面包屑显示的名称
 const currentRouteName = computed(() => {
   const map: Record<string, string> = {
-    '/topic': 'Topic Analysis (话题溯源)',
-    '/account': 'Account Recommendation (账号画像)',
-    '/guide': 'Tweet Guidance (推文引导)',
-    '/detect': 'Target Detection (目标监测)'
+    '/topic': '话题分析',
+    '/account': '账号推荐',
+    '/guide': '推文引导',
+    '/detect': '目标监测'
   };
   // 简单匹配，如果路径包含key则返回
   for (const key in map) {
