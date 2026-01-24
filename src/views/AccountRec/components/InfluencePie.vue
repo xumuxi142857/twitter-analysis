@@ -29,7 +29,7 @@ const updateChart = () => {
         name: '影响类型',
         type: 'pie',
         radius: ['40%', '70%'], // 环形图更现代
-        avoidLabelOverlap: false,
+        avoidLabelOverlap: true,
         itemStyle: {
           borderRadius: 10,
           borderColor: '#fff',

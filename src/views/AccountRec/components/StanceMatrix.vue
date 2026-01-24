@@ -105,6 +105,7 @@ const updateChart = () => {
       type: 'heatmap',
       data: props.data,
       label: {
+        //矩阵的数字显示
         show: true,
         color: 'inherit', // 自动适配颜色
         fontSize: 14,

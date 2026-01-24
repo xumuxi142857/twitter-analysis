@@ -7,10 +7,10 @@
     <div class="control-panel">
       <div class="left-controls">
         <el-tabs v-model="activeTab" class="custom-tabs" @tab-change="selectedUser = null">
-          <el-tab-pane label="🇺🇸 中美关系" name="US"></el-tab-pane>
-          <el-tab-pane label="🇯🇵 中日关系" name="Japan"></el-tab-pane>
-          <el-tab-pane label="🇵🇭 中菲关系" name="Philippines"></el-tab-pane>
-          <el-tab-pane label="🇹🇼 两岸关系" name="Taiwan"></el-tab-pane>
+          <el-tab-pane label="🇺🇸 美国" name="US"></el-tab-pane>
+          <el-tab-pane label="🇯🇵 日本" name="Japan"></el-tab-pane>
+          <el-tab-pane label="🇵🇭 菲律宾" name="Philippines"></el-tab-pane>
+          <el-tab-pane label="🇹🇼 中国台湾" name="Taiwan"></el-tab-pane>
         </el-tabs>
       </div>
 
@@ -34,7 +34,7 @@
         <el-card class="modern-card">
           <template #header>
             <div class="card-header">
-              <span>👥 用户简述</span>
+              <span>👥 重点账号挖掘 (Top 10)</span>
             </div>
           </template>
           
@@ -52,15 +52,17 @@
                   <el-avatar :size="32" class="avatar-bg">{{ row.username.substring(0,1).toUpperCase() }}</el-avatar>
                   <div class="user-info-col">
                     <span class="username">@{{ row.username }}</span>
-                    <span class="tweet-count">热门推文: {{ row.tweets ? row.tweets.length : 0 }}</span>
+                    
                   </div>
                 </div>
               </template>
             </el-table-column>
 
-            <el-table-column prop="info" label="情报简述 " min-width="300">
+            <el-table-column prop="info" label="情报简述" min-width="300">
               <template #default="{ row }">
-                <span class="info-text">{{ row.info }}</span>
+                <el-tooltip :content="row.info" placement="top" :show-after="500">
+                  <span class="info-text">{{ row.info }}</span>
+                </el-tooltip>
               </template>
             </el-table-column>
             
@@ -94,36 +96,44 @@
               <el-col :span="14">
                 <el-card shadow="never" class="chart-card">
                   <template #header><span>🧩 对中立场矩阵 </span></template>
-                  <StanceMatrix :data="selectedUser.stance_matrix" />
+                  <StanceMatrix :data="selectedUser.stance_matrix" style="height: 220px;" />
                 </el-card>
               </el-col>
               
               <el-col :span="10">
                 <el-card shadow="never" class="chart-card">
                   <template #header><span>❤️ 影响类型情感判断</span></template>
-                  <InfluencePie :data="selectedUser.influence_type" />
+                  <InfluencePie :data="selectedUser.influence_type" style="height: 220px;" />
                 </el-card>
               </el-col>
             </el-row>
 
             <div class="tweets-section">
               <div class="section-subtitle">
-                <el-icon><ChatLineSquare /></el-icon> 最新言论立场研判 
+                <el-icon><ChatLineSquare /></el-icon> 最新言论立场研判 (中英对照)
               </div>
               
               <el-scrollbar max-height="500px">
                 <div v-if="selectedUser.tweets && selectedUser.tweets.length > 0" class="tweet-grid">
                   <div v-for="(tweet, idx) in selectedUser.tweets" :key="idx" class="tweet-item-card">
+                    
                     <div class="t-header">
-                      <el-tag :type="getStanceColor(tweet.stance)" size="small" effect="dark">
+                      <el-tag :type="getStanceColor(tweet.stance)" size="small" effect="dark" class="stance-badge">
                         {{ getStanceLabel(tweet.stance) }}
                       </el-tag>
                     </div>
-                    <div class="t-content">{{ tweet.text }}</div>
+                    
+                    <div class="t-body">
+                      <div class="t-trans" v-if="tweet.translation">
+                        <span class="trans-tag">译</span> {{ tweet.translation }}
+                      </div>
+                      <div class="t-original">{{ tweet.text }}</div>
+                    </div>
+
                     <div class="t-footer">
-                      <span><el-icon><ChatDotRound /></el-icon> {{ tweet.metrics?.reply }}</span>
-                      <span><el-icon><Share /></el-icon> {{ tweet.metrics?.retweet }}</span>
-                      <span><el-icon><Star /></el-icon> {{ tweet.metrics?.like }}</span>
+                      <span><el-icon><ChatDotRound /></el-icon> {{ tweet.metrics?.reply || 0 }}</span>
+                      <span><el-icon><Share /></el-icon> {{ tweet.metrics?.retweet || 0 }}</span>
+                      <span><el-icon><Star /></el-icon> {{ tweet.metrics?.like || 0 }}</span>
                     </div>
                   </div>
                 </div>
@@ -135,7 +145,7 @@
         </transition>
       </div>
 
-      <el-empty v-else description="该日期暂无账号数据" />
+      <el-empty v-else description="该日期暂无账号数据 (请运行脚本生成)" />
     </div>
   </div>
 </template>
@@ -146,10 +156,25 @@ import axios from 'axios';
 import { UserFilled, Close, ChatLineSquare, ChatDotRound, Share, Star } from '@element-plus/icons-vue';
 import StanceMatrix from './components/StanceMatrix.vue';
 import InfluencePie from './components/InfluencePie.vue';
-import type { AccountAnalysisData, UserProfile } from '@/types';
+
+// 接口定义
+interface Tweet { 
+  text: string; 
+  translation?: string; // 新增字段
+  stance: string; 
+  metrics?: any; 
+}
+interface UserProfile { 
+  username: string; 
+  tweet_count: number; 
+  info: string; 
+  stance_matrix: any[]; 
+  influence_type: any[]; 
+  tweets: Tweet[]; 
+}
+interface AccountAnalysisData { region: string; top_users: UserProfile[]; }
 
 const activeTab = ref('US');
-// 修改：改为单个日期字符串
 const selectedDate = ref<string>('2025-12-25');
 const loading = ref(false);
 const hasData = ref(true);
@@ -157,7 +182,7 @@ const selectedUser = ref<UserProfile | null>(null);
 const regionDataStore = ref<Record<string, AccountAnalysisData>>({});
 
 const currentData = computed(() => {
-  return regionDataStore.value[activeTab.value] || { region: 'Unknown', time_range: ['-', '-'], top_users: [] };
+  return regionDataStore.value[activeTab.value] || { region: 'Unknown', top_users: [] };
 });
 
 const disabledDate = (time: Date) => time.getTime() > Date.now();
@@ -168,13 +193,8 @@ const getStanceColor = (s: string) => {
   return 'info';
 };
 
-// 新增：立场中文转换
 const getStanceLabel = (s: string) => {
-  const map: Record<string, string> = {
-    'positive': '正面',
-    'negative': '负面',
-    'neutral': '中立'
-  };
+  const map: Record<string, string> = { 'positive': '正面', 'negative': '负面', 'neutral': '中立' };
   return map[s] || s;
 };
 
@@ -185,37 +205,29 @@ const fetchData = async () => {
   selectedUser.value = null; 
 
   const tempStore: Record<string, AccountAnalysisData> = {
-    US: { region: 'US', time_range: [selectedDate.value, selectedDate.value], top_users: [] },
-    Japan: { region: 'Japan', time_range: [selectedDate.value, selectedDate.value], top_users: [] },
-    Philippines: { region: 'Philippines', time_range: [selectedDate.value, selectedDate.value], top_users: [] },
-    Taiwan: { region: 'Taiwan', time_range: [selectedDate.value, selectedDate.value], top_users: [] }
+    US: { region: 'US', top_users: [] },
+    Japan: { region: 'Japan', top_users: [] },
+    Philippines: { region: 'Philippines', top_users: [] },
+    Taiwan: { region: 'Taiwan', top_users: [] }
   };
 
   try {
-    // 修改：直接请求单日数据，不再循环和合并
-    const res = await axios.get(`/db/account/${selectedDate.value}.json`);
+    const res = await axios.get(`/db/account/${selectedDate.value}.json?t=${Date.now()}`);
     const data = res.data;
 
     if (data) {
       Object.keys(data).forEach(region => {
         if (tempStore[region] && region !== '_meta') {
-          // 直接赋值当日用户数据
           tempStore[region].top_users = data[region].top_users || [];
         }
       });
-      
-      // 按推文数量简单排序
-      Object.keys(tempStore).forEach(r => {
-        tempStore[r].top_users.sort((a, b) => (b.tweets?.length || 0) - (a.tweets?.length || 0));
-      });
-
       regionDataStore.value = tempStore;
       hasData.value = true;
     } else {
       hasData.value = false;
     }
   } catch (error) {
-    console.error('Fetch error:', error);
+    console.warn('Fetch error:', error);
     hasData.value = false;
   } finally {
     loading.value = false;
@@ -242,36 +254,41 @@ onMounted(() => fetchData());
 .user-info-col { display: flex; flex-direction: column; }
 .username { font-weight: 600; color: #1f2937; font-size: 14px; }
 .tweet-count { font-size: 12px; color: #9ca3af; }
-.info-text { color: #4b5563; font-size: 14px; }
+
+/* 简述单行显示 */
+.info-text { 
+  color: #4b5563; font-size: 14px; 
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; 
+}
 
 /* 详情区 */
-.profile-section {
-  margin-top: 30px; background: #fff; padding: 24px; border-radius: 16px; 
-  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); border: 1px solid #e5e7eb;
-}
-.profile-header {
-  display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #f3f4f6;
-  h3 { margin: 0; display: flex; align-items: center; gap: 10px; color: #1f2937; }
-}
+.profile-section { margin-top: 30px; background: #fff; padding: 24px; border-radius: 16px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); border: 1px solid #e5e7eb; }
+.profile-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #f3f4f6; h3 { margin: 0; display: flex; align-items: center; gap: 10px; color: #1f2937; } }
 .chart-card { border: none; background: #f9fafb; border-radius: 12px; :deep(.el-card__header) { border-bottom: none; font-weight: 600; color: #4b5563; } }
 
 /* 推文列表区 */
 .tweets-section { margin-top: 10px; border-top: 1px dashed #e5e7eb; padding-top: 20px; }
 .section-subtitle { font-size: 16px; font-weight: 700; color: #374151; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
 
-.tweet-grid {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px;
-}
+.tweet-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+
 .tweet-item-card {
-  background: #f9fafb; border-radius: 12px; padding: 16px; border: 1px solid #f3f4f6;
+  background: #fff; border-radius: 12px; padding: 16px; border: 1px solid #e5e7eb;
   display: flex; flex-direction: column; gap: 10px;
-  transition: transform 0.2s;
-  &:hover { background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transform: translateY(-2px); border-color: #e5e7eb; }
+  transition: transform 0.2s, box-shadow 0.2s;
+  
+  &:hover { box-shadow: 0 8px 15px -3px rgba(0,0,0,0.08); transform: translateY(-2px); border-color: #d1d5db; }
 }
-.t-header { display: flex; justify-content: flex-end; align-items: center; } /* 修改为靠右对齐，因为删除了左侧的时间 */
-.t-content { font-size: 14px; color: #374151; line-height: 1.5; flex: 1; }
-.t-footer { 
-  display: flex; gap: 16px; font-size: 12px; color: #9ca3af; 
-  span { display: flex; align-items: center; gap: 4px; }
+
+.t-header { display: flex; justify-content: flex-end; }
+.stance-badge { font-weight: 600; }
+
+.t-body { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+.t-trans { 
+  font-size: 14px; font-weight: 600; color: #1f2937; line-height: 1.5; 
+  .trans-tag { background: #e0e7ff; color: #3b82f6; font-size: 11px; padding: 1px 4px; border-radius: 4px; margin-right: 4px; }
 }
+.t-original { font-size: 13px; color: #9ca3af; line-height: 1.4; border-top: 1px dashed #f3f4f6; padding-top: 6px; }
+
+.t-footer { display: flex; gap: 16px; font-size: 12px; color: #9ca3af; span { display: flex; align-items: center; gap: 4px; } }
 </style>

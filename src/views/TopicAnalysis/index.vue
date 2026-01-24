@@ -2,16 +2,15 @@
   <div class="dashboard-container">
     <div class="header-section">
       <h1 class="page-title">话题分析</h1>
-      
     </div>
     
     <div class="control-panel">
       <div class="left-controls">
         <el-tabs v-model="activeTab" class="custom-tabs" @tab-change="handleTabChange">
-          <el-tab-pane label="🇺🇸 中美关系" name="US"></el-tab-pane>
-          <el-tab-pane label="🇯🇵 中日关系" name="Japan"></el-tab-pane>
-          <el-tab-pane label="🇵🇭 中菲关系" name="Philippines"></el-tab-pane>
-          <el-tab-pane label="🇹🇼 两岸关系" name="Taiwan"></el-tab-pane>
+          <el-tab-pane label="🇺🇸 美国" name="US"></el-tab-pane>
+          <el-tab-pane label="🇯🇵 日本" name="Japan"></el-tab-pane>
+          <el-tab-pane label="🇵🇭 菲律宾" name="Philippines"></el-tab-pane>
+          <el-tab-pane label="🇹🇼 中国台湾" name="Taiwan"></el-tab-pane>
         </el-tabs>
       </div>
 
@@ -96,14 +95,17 @@
                     </div>
 
                     <div class="tweet-body">
-                      {{ tweet.text }}
+                      <div class="tweet-trans" v-if="tweet.translation">
+                        <span class="trans-badge">译</span>
+                        {{ tweet.translation }}
+                      </div>
+                      
+                      <div class="tweet-original">
+                        {{ tweet.text }}
+                      </div>
                     </div>
 
                     <div class="tweet-meta-row">
-                      <!--div class="meta-item">
-                        <el-icon><Clock /></el-icon> 
-                        {{ formatDate(tweet.created_at) }}
-                      </div-->
                       <div class="metrics-group">
                         <span class="metric" title="Replies">
                           <el-icon><ChatDotRound /></el-icon> {{ tweet.metrics?.reply || 0 }}
@@ -129,7 +131,7 @@
         </el-row>
 
       </div>
-      <el-empty v-else description="暂无数据，请切换日期" />
+      <el-empty v-else description="暂无数据，请切换日期或运行分析脚本" />
     </div>
   </div>
 </template>
@@ -143,7 +145,6 @@ import WordCloud from './components/WordCloud.vue';
 import type { RegionAnalysisData, TopicCluster } from '@/types';
 
 const activeTab = ref('US');
-// 修改为单个日期字符串
 const selectedDate = ref<string>('2025-12-25');
 const loading = ref(false);
 const hasData = ref(false);
@@ -172,23 +173,13 @@ const handleSelectTopic = (index: number) => {
   selectedTopicIndex.value = index;
 };
 
-// 格式化日期：Twitter原始日期通常是 "Thu Dec 18..."，这里简单处理
-const formatDate = (dateStr: string) => {
-  if (!dateStr) return 'Unknown Date';
-  const d = dayjs(dateStr);
-  if (d.isValid()) {
-    return d.format('YYYY-MM-DD HH:mm');
-  }
-  return dateStr;
-};
-
 const fetchData = async () => {
   if (!selectedDate.value) return;
   loading.value = true;
   hasData.value = false;
   selectedTopicIndex.value = -1;
 
-  // 初始化基础结构
+  // 初始化结构
   const tempStore: Record<string, RegionAnalysisData> = {
     US: { region: 'US', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] },
     Japan: { region: 'Japan', time_range: [selectedDate.value, selectedDate.value], top_topics: [], hot_words: [] },
@@ -197,15 +188,13 @@ const fetchData = async () => {
   };
 
   try {
-    // 直接请求单个日期的 JSON 文件
-    const res = await axios.get(`/db/topic/${selectedDate.value}.json`);
+    // 请求单日数据
+    const res = await axios.get(`/db/topic/${selectedDate.value}.json?t=${Date.now()}`);
     const data = res.data;
 
     if (data) {
       Object.keys(data).forEach(region => {
-        // 确保 region 存在于 tempStore 中且不是元数据
         if (tempStore[region] && region !== '_meta') {
-          // 直接赋值当日数据，不再累加
           tempStore[region].top_topics = data[region].top_topics || [];
           tempStore[region].hot_words = data[region].hot_words || [];
         }
@@ -214,14 +203,12 @@ const fetchData = async () => {
       regionDataStore.value = tempStore;
       hasData.value = true;
       
-      // 如果当前 Tab 有数据，默认选中第一个
       if (currentData.value.top_topics.length > 0) {
         selectedTopicIndex.value = 0;
       }
     }
   } catch (error) {
-    console.error('Failed to fetch data for date:', selectedDate.value, error);
-    // 请求失败保持 hasData = false，界面显示 Empty 状态
+    console.error('Data load failed:', error);
     hasData.value = false;
   } finally {
     loading.value = false;
@@ -246,7 +233,6 @@ onMounted(() => fetchData());
 .dashboard-container { padding: 30px 60px; background-color: #f0f4f8; min-height: 100vh; }
 .header-section { margin-bottom: 20px; text-align: center; }
 .page-title { font-size: 28px; font-weight: 700; color: #1f2937; margin: 0; }
-.page-subtitle { font-size: 14px; color: #6b7280; margin-top: 5px; text-transform: uppercase; }
 
 .control-panel {
   display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px;
@@ -273,7 +259,6 @@ onMounted(() => fetchData());
 }
 .topic-content { flex: 1; }
 .topic-title { font-weight: 600; color: #374151; font-size: 15px; margin-bottom: 4px; line-height: 1.4; }
-.topic-meta { font-size: 12px; color: #9ca3af; }
 .arrow-icon { color: #d1d5db; }
 
 /* 右侧推文详情样式 */
@@ -283,8 +268,7 @@ onMounted(() => fetchData());
 }
 .tweet-card {
   background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; margin-bottom: 16px;
-  transition: transform 0.2s;
-  display: flex; flex-direction: column; gap: 12px;
+  transition: transform 0.2s; display: flex; flex-direction: column; gap: 12px;
   &:hover { box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); transform: translateY(-2px); }
 }
 
@@ -295,16 +279,27 @@ onMounted(() => fetchData());
 }
 
 .tweet-body {
-  font-size: 16px; line-height: 1.6; color: #374151; white-space: pre-wrap;
+  display: flex; flex-direction: column; gap: 8px;
+}
+
+/* 翻译部分样式 */
+.tweet-trans {
+  font-size: 15px; font-weight: 600; color: #1f2937; line-height: 1.6;
+  .trans-badge {
+    display: inline-block; background: #e0e7ff; color: #3b82f6; font-size: 11px; padding: 1px 5px; 
+    border-radius: 4px; margin-right: 6px; vertical-align: text-bottom;
+  }
+}
+
+/* 原文部分样式 */
+.tweet-original {
+  font-size: 13px; color: #6b7280; line-height: 1.5; font-family: sans-serif;
+  padding-top: 6px; border-top: 1px dashed #f3f4f6;
 }
 
 .tweet-meta-row {
-  display: flex; justify-content: space-between; align-items: center;
-  padding-top: 11px; border-top: 1px solid #f3f4f6;
-  font-size: 12px; color: #9ca3af;
-  
-  .meta-item { display: flex; align-items: center; gap: 6px; }
-  
+  display: flex; justify-content: flex-end; align-items: center;
+  padding-top: 8px; font-size: 12px; color: #9ca3af;
   .metrics-group {
     display: flex; gap: 16px;
     .metric { display: flex; align-items: center; gap: 4px; }

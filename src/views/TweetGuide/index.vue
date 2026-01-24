@@ -20,10 +20,10 @@
 
     <div class="nav-bar">
       <el-tabs v-model="activeTab" class="custom-tabs" @tab-change="resetSelection">
-        <el-tab-pane label="🇺🇸 中美关系" name="US"></el-tab-pane>
-        <el-tab-pane label="🇯🇵 中日关系" name="Japan"></el-tab-pane>
-        <el-tab-pane label="🇵🇭 中菲关系" name="Philippines"></el-tab-pane>
-        <el-tab-pane label="🇹🇼 两岸关系" name="Taiwan"></el-tab-pane>
+        <el-tab-pane label="🇺🇸 美国" name="US"></el-tab-pane>
+        <el-tab-pane label="🇯🇵 日本" name="Japan"></el-tab-pane>
+        <el-tab-pane label="🇵🇭 菲律宾" name="Philippines"></el-tab-pane>
+        <el-tab-pane label="🇹🇼 中国台湾" name="Taiwan"></el-tab-pane>
       </el-tabs>
     </div>
 
@@ -92,8 +92,18 @@
                       >
                         <div class="t-header">
                           <span class="t-author">@{{ tweet.username || 'user_unknown' }}</span>
+                          <el-tag v-if="tweet.stance" size="small" :type="getStanceType(tweet.stance)" effect="light">
+                            {{ tweet.stance }}
+                          </el-tag>
+                        </div>
+                        
+                        <div class="t-body">
+                          <div class="t-trans" v-if="tweet.translation">
+                            <span class="trans-badge">译</span>{{ tweet.translation }}
                           </div>
-                        <div class="t-content">{{ tweet.text }}</div>
+                          <div class="t-original">{{ tweet.text }}</div>
+                        </div>
+
                         <div class="t-footer">
                           <div class="t-metrics">
                             <span><el-icon><Star /></el-icon> {{ tweet.metrics?.like || 0 }}</span>
@@ -133,7 +143,9 @@
                     <div v-else class="strategy-result">
                       <div class="context-box">
                         <div class="context-label">针对目标推文：</div>
-                        <div class="context-text">"{{ selectedTweetForDraft.text }}"</div>
+                        <div class="context-text">
+                          {{ selectedTweetForDraft.translation || selectedTweetForDraft.text }}
+                        </div>
                       </div>
 
                       <div class="draft-grid">
@@ -176,7 +188,6 @@ import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard
 
 // --- 数据定义 ---
 const activeTab = ref('Philippines');
-// 修改：改为单个日期字符串
 const selectedDate = ref<string>('2025-12-25');
 const loading = ref(false);
 const hasData = ref(true);
@@ -210,13 +221,18 @@ const tableRowClassName = ({ row }: { row: any }) => {
   return row === activeTopic.value ? 'highlight-row' : '';
 };
 
+const getStanceType = (stance: string) => {
+  if (stance === 'positive') return 'success';
+  if (stance === 'negative') return 'danger';
+  return 'info';
+};
+
 const fetchData = async () => {
   if (!selectedDate.value) return;
   loading.value = true;
   activeTopic.value = null;
   selectedTweetForDraft.value = null;
 
-  // 初始化结构
   const tempStore: any = { 
     US: { topics: [] }, 
     Japan: { topics: [] }, 
@@ -225,20 +241,17 @@ const fetchData = async () => {
   };
   
   try {
-    // 修改：直接请求单日数据
-    const res = await axios.get(`/db/guide/${selectedDate.value}.json`);
+    const res = await axios.get(`/db/topic/${selectedDate.value}.json`); // 确保读取的是包含翻译的topic json
     const dayData = res.data;
 
     if (dayData) {
       hasData.value = true;
       Object.keys(dayData).forEach(reg => {
-        if (tempStore[reg]) {
+        if (tempStore[reg] && dayData[reg]) {
           const rawTopics = dayData[reg].top_topics || [];
-          // 处理数据，不需要合并多天了，直接赋值
           const processedTopics = rawTopics.map((t: any) => ({
             ...t,
-            // 确保 stance 字段存在
-            stance: t.stance || (t.tweets && t.tweets[0]?.stance) || 'neutral'
+            stance: t.tweets && t.tweets.length > 0 ? t.tweets[0].stance : 'neutral'
           }));
           tempStore[reg].topics = processedTopics;
         }
@@ -272,7 +285,7 @@ const handleGenerateForTweet = async (tweet: any) => {
 
   try {
     const response = await axios.post('http://127.0.0.1:5000/api/generate_guide', {
-      text: tweet.text,
+      text: tweet.translation || tweet.text, // 优先使用译文生成策略，效果更好
       topic: activeTopic.value.topic,
       region: activeTab.value
     });
@@ -380,11 +393,42 @@ $primary-color: #409eff;
   .t-header { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 12px; color: #6b7280; }
   .t-author { font-weight: 700; color: #4b5563; }
   
-  .t-content { font-size: 18px; line-height: 1.5; color: #1f2937; margin-bottom: 12px; }
+  /* --- 内容样式优化 --- */
+  .t-body {
+    margin-bottom: 12px;
+  }
+  
+  .t-trans {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #1f2937;
+    margin-bottom: 6px;
+    font-weight: 500;
+    
+    .trans-badge {
+      display: inline-block;
+      background: #e0e7ff;
+      color: #3b82f6;
+      font-size: 11px;
+      padding: 1px 5px;
+      border-radius: 4px;
+      margin-right: 6px;
+      vertical-align: text-bottom;
+      font-weight: normal;
+    }
+  }
+  
+  .t-original {
+    font-size: 13px;
+    color: #9ca3af;
+    line-height: 1.4;
+    font-family: sans-serif;
+  }
+  /* ------------------ */
   
   .t-footer {
     display: flex; justify-content: space-between; align-items: center;
-    .t-metrics { display: flex; gap: 12px; font-size: 18px; color: #9ca3af; .el-icon { vertical-align: -1px; } }
+    .t-metrics { display: flex; gap: 12px; font-size: 14px; color: #9ca3af; .el-icon { vertical-align: -1px; } }
   }
 }
 
@@ -420,7 +464,7 @@ $primary-color: #409eff;
   border-radius: 0 8px 8px 0;
   
   .context-label { font-size: 12px; font-weight: bold; color: #64748b; margin-bottom: 4px; }
-  .context-text { font-size: 18px; color: #334155; font-style: italic; line-height: 1.4; }
+  .context-text { font-size: 16px; color: #334155; font-style: italic; line-height: 1.4; }
 }
 
 .draft-grid {

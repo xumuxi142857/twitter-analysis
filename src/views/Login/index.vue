@@ -6,8 +6,8 @@
           <div class="logo-circle">
             <el-icon><Monitor /></el-icon>
           </div>
-          <h2>舆情情报分析系统</h2>
-          <p>Public Opinion Analysis System</p>
+          <h2>社交媒体分析系统</h2>
+          
           <ul class="feature-list">
             <li><el-icon><DataLine /></el-icon> 多维情报溯源</li>
             <li><el-icon><Cpu /></el-icon> 大模型认知博弈</li>
@@ -17,8 +17,8 @@
       </div>
 
       <div class="login-form">
-        <h3>管理员登录</h3>
-        <p class="welcome-text">Welcome back, please login to your account.</p>
+        <h3>登录</h3>
+        
         
         <el-form 
           ref="formRef"

@@ -7,12 +7,12 @@
     ],
     "top_users": [
       {
-        "info": "关注南海地缘政治与国际关系的分析者，侧重报道菲律宾与多国安全合作、中菲南海争端动态及和平倡议。",
+        "info": "关注南海军事动态，立场倾向菲律宾及西方联盟。",
         "stance_matrix": [
           [
             0,
             0,
-            7
+            2
           ],
           [
             0,
@@ -22,72 +22,73 @@
           [
             0,
             2,
-            5
+            7
           ],
           [
             0,
             3,
-            4
-          ],
-          [
-            1,
-            0,
-            6
-          ],
-          [
-            1,
-            1,
-            6
-          ],
-          [
-            1,
-            2,
-            5
-          ],
-          [
-            1,
-            3,
-            5
-          ],
-          [
-            2,
-            0,
             3
           ],
           [
-            2,
             1,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            8
+          ],
+          [
+            1,
+            3,
             2
           ],
           [
             2,
+            0,
+            0
+          ],
+          [
             2,
-            4
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            9
           ],
           [
             2,
             3,
-            6
+            1
           ]
         ],
         "influence_type": [
           {
-            "name": "权威 (Authority)",
-            "value": 70
+            "name": "权威",
+            "value": 85
           },
           {
-            "name": "同伴 (Peer)",
-            "value": 25
+            "name": "同伴",
+            "value": 15
           },
           {
-            "name": "亲情 (Kinship)",
-            "value": 5
+            "name": "亲情",
+            "value": 0
           }
         ],
         "tweets": [
           {
             "text": "A large U.S.-Japan-Philippines joint patrol near Scarborough Shoal showcases growing regional cooperation on maritime security as China monitored the drills with a bomber formation. https://t.co/Lf0YckL3hv https://t.co/S6E0Vmn30I",
-            "stance": "neutral",
+            "translation": "美国、日本、菲律宾在黄岩岛附近举行大规模联合巡逻，展示区域海上安全合作日益增强，中国则派出轰炸机编队监视演习。",
+            "stance": "negative",
             "username": "AsiaMTI",
             "created_at": "Wed Nov 19 22:30:00 +0000 2025",
             "metrics": {
@@ -98,7 +99,8 @@
           },
           {
             "text": "Canada signs its first Indo-Pacific Status of Visiting Forces Agreement with the Philippines, strengthening defense cooperation and joining a growing network of Manila’s security partners amid rising tensions in the South China Sea. https://t.co/W9jLOUlIG3 https://t.co/riW8AUQyCf",
-            "stance": "neutral",
+            "translation": "加拿大与菲律宾签署其首个印太地区《部队访问地位协定》，加强防务合作，并在南海紧张局势加剧之际，加入了马尼拉日益扩大的安全伙伴网络。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Wed Nov 05 00:30:00 +0000 2025",
             "metrics": {
@@ -109,7 +111,8 @@
           },
           {
             "text": "Congress approves $2.5 billion in security assistance for the Philippines under the 2026 National Defense Authorization Act, authorizing up to $500 million annually from 2026–2030 to support defense cooperation amid regional security tensions. https://t.co/fD4YpRmdZ1 https://t.co/9CxgNoDj02",
-            "stance": "neutral",
+            "translation": "国会根据《2026财年国防授权法案》批准向菲律宾提供25亿美元安全援助，授权在2026年至2030年间每年提供高达5亿美元，以支持在区域安全紧张局势下的防务合作。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Fri Dec 19 18:30:00 +0000 2025",
             "metrics": {
@@ -120,6 +123,7 @@
           },
           {
             "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFw3Ma https://t.co/bIBi50xs3D",
+            "translation": "遥感数据显示，中国在黄岩岛的巡逻在规模和范围上都在扩大，马尼拉和北京在该海域和空中的紧张局势正在加剧。",
             "stance": "negative",
             "username": "AsiaMTI",
             "created_at": "Tue Sep 16 05:00:01 +0000 2025",
@@ -131,7 +135,8 @@
           },
           {
             "text": "The Philippine Coast Guard and Taiwan’s Coast Guard Administration met in Manila to explore potential cooperation on maritime security, including training, capacity-building, and information-sharing, amid rising tensions in the South China Sea. https://t.co/h6vEcKr08W https://t.co/XJ5DjqvUS8",
-            "stance": "neutral",
+            "translation": "菲律宾海岸警卫队和台湾的海巡署在马尼拉会面，探讨在海上安全方面潜在的合作，包括培训、能力建设和信息共享，正值南海紧张局势加剧之际。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Mon Dec 15 21:30:00 +0000 2025",
             "metrics": {
@@ -142,7 +147,8 @@
           },
           {
             "text": "President Marcos strongly denounces China’s “coercive actions” in the South China Sea at the ASEAN Summit, condemning Beijing’s declaration of Scarborough Shoal as a “nature reserve” and reaffirming the Philippines’ sovereignty and adherence to international law. https://t.co/V6YG1hVNsO",
-            "stance": "negative",
+            "translation": "马科斯总统在东盟峰会上强烈谴责中国在南海的“胁迫行为”，谴责北京将黄岩岛宣布为“自然保护区”，并重申菲律宾的主权和对国际法的遵守。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Wed Oct 29 00:30:00 +0000 2025",
             "metrics": {
@@ -153,6 +159,7 @@
           },
           {
             "text": "China expels two Philippine reconnaissance aircraft near Scarborough Shoal, accusing them of “illegally entering Chinese airspace,” while Manila condemns the actions as “dangerous interference.” https://t.co/YNtbY314G2 https://t.co/47gv5rpEYm",
+            "translation": "中国在黄岩岛附近驱逐了两架菲律宾侦察机，指控其“非法进入中国领空”，而马尼拉则谴责这些行为是“危险干扰”。",
             "stance": "negative",
             "username": "AsiaMTI",
             "created_at": "Fri Oct 17 23:30:01 +0000 2025",
@@ -164,7 +171,8 @@
           },
           {
             "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMMBeP https://t.co/ujkGeKeZwl",
-            "stance": "positive",
+            "translation": "武海灯和陈氏玄庄提议建立黄岩和平公园，作为中国和菲律宾在保护生物多样性的同时，在南海建立信任与合作的一条途径。",
+            "stance": "neutral",
             "username": "AsiaMTI",
             "created_at": "Wed Nov 26 14:00:00 +0000 2025",
             "metrics": {
@@ -175,7 +183,8 @@
           },
           {
             "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/vHfsQkttzP",
-            "stance": "positive",
+            "translation": "武海灯和陈氏玄庄提议建立黄岩和平公园，作为中国和菲律宾在保护生物多样性的同时，在南海建立信任与合作的一条途径。",
+            "stance": "neutral",
             "username": "AsiaMTI",
             "created_at": "Sun Dec 21 09:00:02 +0000 2025",
             "metrics": {
@@ -186,6 +195,7 @@
           },
           {
             "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFw3Ma https://t.co/Xe4TdQ6iYh",
+            "translation": "遥感数据显示，中国在黄岩岛的巡逻在规模和范围上都在扩大，马尼拉和北京在该海域和空中的紧张局势正在加剧。",
             "stance": "negative",
             "username": "AsiaMTI",
             "created_at": "Thu Sep 04 05:00:00 +0000 2025",
@@ -197,6 +207,7 @@
           },
           {
             "text": "Remote sensing data shows Chinese patrols are expanding in volume and scope at Scarborough Shoal, where tensions between Manila and Beijing are rising both on the water and in the air:  https://t.co/gyjJNFvvWC https://t.co/j5pLhFbhNP",
+            "translation": "遥感数据显示，中国在黄岩岛的巡逻在规模和范围上都在扩大，马尼拉和北京在该海域和空中的紧张局势正在加剧。",
             "stance": "negative",
             "username": "AsiaMTI",
             "created_at": "Fri Sep 05 05:00:00 +0000 2025",
@@ -208,7 +219,8 @@
           },
           {
             "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/t4X12J0QPk",
-            "stance": "positive",
+            "translation": "武海灯和陈氏玄庄提议建立黄岩和平公园，作为中国和菲律宾在保护生物多样性的同时，在南海建立信任与合作的一条途径。",
+            "stance": "neutral",
             "username": "AsiaMTI",
             "created_at": "Thu Dec 18 06:00:00 +0000 2025",
             "metrics": {
@@ -219,7 +231,8 @@
           },
           {
             "text": "The Philippines is deepening security cooperation in the South China Sea, recently conducting naval drills with France and India and expanding drone training with Australia. https://t.co/knuDAYw5bS https://t.co/cyIPXYfchm",
-            "stance": "neutral",
+            "translation": "菲律宾正在深化南海的安全合作，最近与法国和印度举行了海军演习，并与澳大利亚扩大了无人机培训。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Mon Dec 01 20:30:00 +0000 2025",
             "metrics": {
@@ -230,7 +243,8 @@
           },
           {
             "text": "Vu Hai Dang and Tran Thi Huyen Trang propose a Scarborough Peace Park as a path for China and the Philippines to safeguard biodiversity while building trust and cooperation in the South China Sea: https://t.co/QNkNnMN94n https://t.co/2YELpOvjr3",
-            "stance": "positive",
+            "translation": "武海灯和陈氏玄庄提议建立黄岩和平公园，作为中国和菲律宾在保护生物多样性的同时，在南海建立信任与合作的一条途径。",
+            "stance": "neutral",
             "username": "AsiaMTI",
             "created_at": "Fri Nov 28 09:00:00 +0000 2025",
             "metrics": {
@@ -241,7 +255,8 @@
           },
           {
             "text": "President Marcos strongly denounces China’s “coercive actions” in the South China Sea at the ASEAN Summit, condemning Beijing’s declaration of Scarborough Shoal as a “nature reserve” and reaffirming the Philippines’ sovereignty and adherence to international law. https://t.co/mCuUqK6pnI",
-            "stance": "negative",
+            "translation": "马科斯总统在东盟峰会上强烈谴责中国在南海的“胁迫行为”，谴责北京将黄岩岛宣布为“自然保护区”，并重申菲律宾的主权和对国际法的遵守。",
+            "stance": "positive",
             "username": "AsiaMTI",
             "created_at": "Tue Oct 28 18:30:00 +0000 2025",
             "metrics": {
@@ -255,7 +270,7 @@
         "tweet_count": 29
       },
       {
-        "info": "菲律宾民族主义者，活跃于南海议题，强烈批评中国在争议海域的行为，立场鲜明反华。",
+        "info": "反华激进派，专注南海军事议题。",
         "stance_matrix": [
           [
             0,
@@ -270,31 +285,72 @@
           [
             0,
             2,
-            8
+            10
           ],
           [
             0,
             3,
-            9
+            10
+          ],
+          [
+            1,
+            0,
+            10
+          ],
+          [
+            1,
+            1,
+            10
+          ],
+          [
+            1,
+            2,
+            10
+          ],
+          [
+            1,
+            3,
+            10
+          ],
+          [
+            2,
+            0,
+            10
+          ],
+          [
+            2,
+            1,
+            10
+          ],
+          [
+            2,
+            2,
+            10
+          ],
+          [
+            2,
+            3,
+            10
           ]
         ],
         "influence_type": [
           {
-            "name": "权威 (Authority)",
+            "name": "权威",
             "value": 70
           },
           {
-            "name": "同伴 (Peer)",
+            "name": "同伴",
             "value": 25
           },
           {
-            "name": "亲情 (Kinship)",
+            "name": "亲情",
             "value": 5
           }
         ],
         "tweets": [
           {
             "text": "Recently, the Philippines Coast Guard discovered heaps of crushed corals piled on the sea floor at the Escoda/Sabina Shoal.\n\nThe continued swarming for an indiscriminate illegal and destructive fishing activities of the Chinese Maritime Militia in West Philippine Sea has caused https://t.co/4w0Cj4qQTT",
+            "translation": "菲律宾海岸警卫队在埃斯科达/萨比纳浅滩海底发现大量被压碎的珊瑚堆积。中国海上民兵在西菲律宾海持续进行无差别非法破坏性捕鱼活动。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Sat Dec 20 08:45:35 +0000 2025",
@@ -306,6 +362,7 @@
           },
           {
             "text": "An entire Armada of China Coast Guard ships along with Chinese Maritime Militia boats, is chasing a small wooden Filipino fishing boat inside Philippines's waters.\n\nThis is what China wants to normalise in the South China Sea. China's illegal actiions &amp; dangerous manuvers are no https://t.co/MpPNHSXYYa",
+            "translation": "一整支中国海警船队连同中国海上民兵船只，正在菲律宾水域内追逐一艘小型木质菲律宾渔船。这就是中国希望在南海常态化的行为。中国的非法行动和危险操作...",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Tue Dec 02 07:53:42 +0000 2025",
@@ -317,6 +374,7 @@
           },
           {
             "text": "\"This is China, Go Back To Philippines\".\n\nThe goons of China Coast Guard were shouting this at Second Thomas Shoal, located over 1200 km away from nearest Chinese territory, inside Philippines's waters..\n\nAnd then, people ask, why do I keep bashing China? @poyjampoy @informedph2 https://t.co/mONTqSxucU",
+            "translation": "‘这是中国，滚回菲律宾去’。中国海警的暴徒们在距离中国最近领土1200多公里外的第二托马斯浅滩、位于菲律宾水域内的地方这样叫喊。然后人们还问我为什么一直抨击中国？",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Thu Nov 06 08:19:51 +0000 2025",
@@ -328,6 +386,7 @@
           },
           {
             "text": "China has destroyed over 20000 acres of Coral Reefs in the South China Sea, mostly inside the Philippines's waters.\n\nInside the Philippines' waters, over 4000 acres of Coral Reefs have been destroyed by the illegal Chinese Giant Clam Poachers alone.\n\nUnder the protection of the https://t.co/EVYArudBPm",
+            "translation": "中国在南海摧毁了超过20000英亩的珊瑚礁，大部分位于菲律宾水域内。仅在菲律宾水域内，非法中国巨蚌偷猎者就摧毁了超过4000英亩的珊瑚礁。在中国海警的保护下...",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Thu Nov 20 07:45:53 +0000 2025",
@@ -339,6 +398,7 @@
           },
           {
             "text": "Do we actually realise the severity of yesterday's incident at Second Thomas Shoal?\n\nChina deployed a PLA Navy Destroyer against that Philippines Coast Guard Ship!\n\nAnd, that too inside Philippines's waters.\n\nThis isn't Gray Zone anymore! @CarpioJudge @ChongJaIan @Jkylebass https://t.co/PAfdy5Nhcd",
+            "translation": "我们真的意识到昨天第二托马斯浅滩事件的严重性了吗？中国出动了一艘解放军海军驱逐舰来对付那艘菲律宾海岸警卫队船只！而且还是在菲律宾水域内。这不再是灰色地带了！",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Tue Aug 12 06:48:28 +0000 2025",
@@ -350,6 +410,7 @@
           },
           {
             "text": "Two China Coast Guard ships attacked a small PH resupply boat near Scarborough Shoal in Philippines's EEZ, leaving four Filipinos severely injured. \n\nYet, Beijing blamed Manila of aggression &amp; infringing China's sovereignty. @CarpioJudge @Radiation_Ages  @tatsuhiro_iwamo https://t.co/haJWfz4gd9",
+            "translation": "两艘中国海警船在菲律宾专属经济区内的斯卡伯勒浅滩附近袭击了一艘小型菲律宾补给船，导致四名菲律宾人重伤。然而，北京却指责马尼拉具有侵略性并侵犯中国主权。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Fri Jun 27 05:52:56 +0000 2025",
@@ -361,6 +422,7 @@
           },
           {
             "text": "China Coast Guard &amp; Chinese Maritime Militia ships are seen blocking a Philippines Coast Guard ship near Second Thomas Shoal, way inside Philippines's territory!\n\nAnd then, Beijing accuses Manila of creating tensions!\n\nChina is such a HYPOCRITE! @PacStandardTW @informedph2 https://t.co/HzHmx2Qksq",
+            "translation": "中国海警和中国海上民兵船只被发现在第二托马斯浅滩附近、深入菲律宾领土的地方阻挡一艘菲律宾海岸警卫队船只！然后，北京却指责马尼拉制造紧张局势！中国真是个伪君子！",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Sun Oct 05 05:57:52 +0000 2025",
@@ -372,6 +434,7 @@
           },
           {
             "text": "At least 5 Chinese vessels including 3 Chinese Cost Guard ships are seen harassing a small Filipino boat on resupply mission to Second Thomas Shoal. \n\nSecond Thomas Shoal is Philippines's territory &amp; China's presence in the region is coercive &amp; illegal. @ChongJaIan @DrewPavlou https://t.co/ZzGrdYTy15",
+            "translation": "至少5艘中国船只，包括3艘中国海警船，被发现在骚扰一艘前往第二托马斯浅滩执行补给任务的小型菲律宾船只。第二托马斯浅滩是菲律宾领土，中国在该地区的存在是胁迫性和非法的。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Mon Mar 24 07:46:51 +0000 2025",
@@ -383,6 +446,7 @@
           },
           {
             "text": "A China Coast Guard ship fired Water Cannon at a Philippines Bureau of Fisheries &amp; Aquatic Resources boat near Second Thomas Shoal in Philippines's EEZ. \n\nWater cannons were aimed at antenna &amp; radar system of PH boat leaving them completely destroyed. @ChongJaIan @CarpioJudge https://t.co/6jefj6AouA",
+            "translation": "一艘中国海警船在菲律宾专属经济区内的第二托马斯浅滩附近，向一艘菲律宾渔业和水产资源局船只发射水炮。水炮瞄准了菲律宾船只的天线和雷达系统，使其完全损毁。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Thu Jun 19 07:20:48 +0000 2025",
@@ -394,6 +458,7 @@
           },
           {
             "text": "Ouch!\n\nThat doesn't look nice!\n\nThe bow section of the China Coast Guard Ship 3104 got completely smashed, after it collided with a Chinese Navy Type 051 Destroy, this morning!\n\nBoth the Chinese ships were chasing a Philippines Coast Guard Ship near the Second Thomas Shoal https://t.co/Rk8M60WrD5",
+            "translation": "哎哟！那看起来可不妙！中国海警3104船的船首部分在与一艘中国海军051型驱逐舰相撞后完全撞毁，事发今早！两艘中国船只当时正在第二托马斯浅滩附近追逐一艘菲律宾海岸警卫队船只。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Mon Aug 11 11:31:27 +0000 2025",
@@ -405,6 +470,7 @@
           },
           {
             "text": "Pirates of China Coast Guard mounted on rigid hull inflatable boats are seen intercepting &amp; looting a Filipino resupply boat near Second Thomas Shoal inside Philippines's Exclusive Economic Zone.\n\nAnd then China Coast will say claim \"it is a Law Enforcement Agency! @Jkylebass https://t.co/F70s6Tge0q",
+            "translation": "中国海警的海盗们乘坐刚性充气艇，被发现在菲律宾专属经济区内的第二托马斯浅滩附近拦截并抢劫一艘菲律宾补给船。然后中国海警还会声称‘它是一个执法机构’！",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Thu Jul 10 06:31:53 +0000 2025",
@@ -416,6 +482,7 @@
           },
           {
             "text": "A China Coast Guard ship blasting water cannon on a small wooden hulled Filipino boat near Second Thomas Shoal. \n\nIt happened in internationally recognised territory of Philippines which was also validated by 2016 UNCLOS South China Sea Arbitration verdict. @CarpioJudge https://t.co/dLbFjGqSfj",
+            "translation": "一艘中国海警船在第二托马斯浅滩附近向一艘小型木质船体的菲律宾船只喷射水炮。事件发生在国际公认的菲律宾领土上，该认定也得到2016年联合国海洋法公约南海仲裁裁决的确认。",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Sat Jun 14 08:35:00 +0000 2025",
@@ -427,6 +494,7 @@
           },
           {
             "text": "Today marks one year since the ghastly attack by China Coast Guard on a Philippines resupply mission to Second Thomas Shoal. \n\nSeveral Filipino soldiers were injured &amp; a PH soldier, Jeffrey Facundo, even lost his thumb! 1/3 @ChongJaIan @jaytaryela @ElbridgeColby @PacStandardTW https://t.co/uMLrrgQiKO",
+            "translation": "今天是去年中国海警对菲律宾前往第二托马斯浅滩的补给任务发动可怕袭击的一周年。多名菲律宾士兵受伤，一名菲律宾士兵杰弗里·法昆多甚至失去了拇指！1/3",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Tue Jun 17 07:34:27 +0000 2025",
@@ -438,6 +506,7 @@
           },
           {
             "text": "China's Aggression In West Philippine Sea-\n▶️Claim Filipino territories as Chinese\n \n▶️Call the illegally occupied PH territories with fake Chinese names\n\n▶️Destroy Filipino boats in the name of Law Enforcement\n\n▶️Blame Philippines of infringing Chinese sovereignty\n\n▶️PLAY VICTIM https://t.co/4NZySMUqQi",
+            "translation": "中国在西菲律宾海的侵略行为 - ▶️声称菲律宾领土为中国所有 ▶️用虚假的中文名称称呼非法占领的菲律宾领土 ▶️以执法为名摧毁菲律宾船只 ▶️指责菲律宾侵犯中国主权 ▶️扮演受害者",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Sat Nov 15 10:32:31 +0000 2025",
@@ -449,6 +518,7 @@
           },
           {
             "text": "Look at the true &amp; ugly face of China!\n\nFour China Coast Guard speed boats blocked two small Philippines Coast Guard inflatable boats, that were evacuating Filipinos who fell ill on BRP Sierra Madre at Second Thomas Shoal. 1/2 https://t.co/hqnptFDC0d",
+            "translation": "看看中国真实而丑陋的面目！四艘中国海警快艇阻挡了两艘小型菲律宾海岸警卫队充气艇，这些充气艇当时正在撤离在第二托马斯浅滩BRP Sierra Madre号上生病的菲律宾人。1/2",
             "stance": "negative",
             "username": "IsabellaAn67",
             "created_at": "Sat Jul 26 06:51:56 +0000 2025",
@@ -463,7 +533,7 @@
         "tweet_count": 21
       },
       {
-        "info": "中国官方英文媒体，立场鲜明支持中国政府，在外交和领土问题上坚定维护中国立场，对菲律宾在南海的行为持批评态度。",
+        "info": "中国官方媒体，聚焦南海主权与中菲关系。",
         "stance_matrix": [
           [
             0,
@@ -478,72 +548,73 @@
           [
             0,
             2,
-            8
+            10
           ],
           [
             0,
             3,
-            9
+            10
           ],
           [
             1,
             0,
-            0
+            10
           ],
           [
             1,
             1,
-            0
+            10
           ],
           [
             1,
             2,
-            0
+            10
           ],
           [
             1,
             3,
-            0
+            10
           ],
           [
             2,
             0,
-            0
+            10
           ],
           [
             2,
             1,
-            0
+            10
           ],
           [
             2,
             2,
-            0
+            10
           ],
           [
             2,
             3,
-            0
+            10
           ]
         ],
         "influence_type": [
           {
-            "name": "权威 (Authority)",
-            "value": 95
+            "name": "权威",
+            "value": 100
           },
           {
-            "name": "同伴 (Peer)",
-            "value": 5
+            "name": "同伴",
+            "value": 0
           },
           {
-            "name": "亲情 (Kinship)",
+            "name": "亲情",
             "value": 0
           }
         ],
         "tweets": [
           {
             "text": "On Thursday, China's navy and air forces carried out patrols near Huangyan Island. On the same day, the China Coast Guard also carried out law enforcement patrols in the region.\n\nAs the Philippine elections approach, the Marcos government has become more aggressive, courting https://t.co/6IJE3yDz2s",
-            "stance": "negative",
+            "translation": "周四，中国海军和空军在黄岩岛附近进行了巡逻。同日，中国海警也在该区域进行了执法巡逻。随着菲律宾大选临近，马科斯政府变得更加激进，试图拉拢...",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Sat Mar 01 14:24:45 +0000 2025",
             "metrics": {
@@ -554,6 +625,7 @@
           },
           {
             "text": "Recently, the #Philippines staged a \"resupply show\" in the #SouthChinaSea. Over 10 Philippine government ships and 50+ fishing boats suddenly swarmed near Huangyan Island and Xianbin Reef. Manila says they were \"delivering fuel\" to fishermen. But it was actually a rehearsed https://t.co/2oLyWsFIcs",
+            "translation": "最近，#菲律宾 在 #南海 上演了一场“补给秀”。超过10艘菲律宾政府船只和50多艘渔船突然聚集在黄岩岛和仙宾礁附近。马尼拉称他们是在为渔民“运送燃料”。但这实际上是一场预演...",
             "stance": "negative",
             "username": "ChinaDaily",
             "created_at": "Sat Oct 11 10:30:01 +0000 2025",
@@ -565,7 +637,8 @@
           },
           {
             "text": "#FMsays Ren'ai Reef is China's territory, Foreign Ministry spokesman Guo Jiakun said, asking the #Philippines to stop hyping up maritime issues between the two countries as well as to stop any provocations that may complicate the situation. Guo's remarks came after reports quoted https://t.co/xOV5woCmgN",
-            "stance": "negative",
+            "translation": "#外交部说 仁爱礁是中国的领土，外交部发言人郭嘉坤表示，要求 #菲律宾 停止炒作两国间的海上问题，并停止任何可能使局势复杂化的挑衅行为。郭的言论是在报道引用...",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Thu Aug 28 09:32:30 +0000 2025",
             "metrics": {
@@ -576,7 +649,8 @@
           },
           {
             "text": "#FMsays China has urged the Philippines to immediately stop provocative infringements near #Huangyan Island in the #SouthChinaSea as well as warned Manila not to test Beijing's firm resolve when it comes to safeguarding its lawful rights after a Philippine vessel deliberately https://t.co/wQwBZnTRXC",
-            "stance": "negative",
+            "translation": "#外交部说 中国已敦促菲律宾立即停止在 #黄岩岛 附近 #南海 的挑衅性侵权行为，并警告马尼拉不要考验北京在维护其合法权益方面的坚定决心，此前一艘菲律宾船只故意...",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Tue Sep 16 08:51:09 +0000 2025",
             "metrics": {
@@ -587,7 +661,8 @@
           },
           {
             "text": "China has urged the Philippines to stop making trouble in the South China Sea if it does not want to create trouble for itself.\n\nOn Friday, Senior Colonel Jiang Bin of China's Ministry of National Defense said that defense and security cooperation between countries should not https://t.co/d0P5sMC8SX",
-            "stance": "negative",
+            "translation": "中国敦促菲律宾停止在南海制造麻烦，如果它不想给自己制造麻烦的话。周五，中国国防部高级大校蒋斌表示，国家间的防务和安全合作不应...",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Fri Nov 07 15:30:08 +0000 2025",
             "metrics": {
@@ -598,7 +673,8 @@
           },
           {
             "text": "The China Coast Guard requested the #Philippines on Friday to cease all infringing provocations and hype related to the Ren'ai Reef in the #SouthChinaSea. https://t.co/lKD6U6tLWd https://t.co/hx1zdz7Us0",
-            "stance": "negative",
+            "translation": "中国海警周五要求 #菲律宾 停止所有与 #南海 仁爱礁相关的侵权挑衅和炒作。",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Fri Aug 22 06:23:32 +0000 2025",
             "metrics": {
@@ -609,7 +685,8 @@
           },
           {
             "text": "#China has rejected the #Philippines' groundless accusation and so-called protests over the establishment of the Huangyan Island National Nature Reserve, and has urged Manila to cease its infringements and provocations. #SouthChinaSea https://t.co/2iggXS8BMy https://t.co/ZmBTil7Vru",
-            "stance": "negative",
+            "translation": "#中国 拒绝了 #菲律宾 关于建立黄岩岛国家自然保护区的无端指责和所谓抗议，并敦促马尼拉停止其侵权和挑衅行为。#南海",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Fri Sep 12 01:25:38 +0000 2025",
             "metrics": {
@@ -620,7 +697,8 @@
           },
           {
             "text": "China Coast Guard said on Tuesday that it monitored the entire process of a Philippines' vessel delivering supplies to its illegally grounded warship at Ren'ai Reef on Friday. https://t.co/oWBoKWEFmn https://t.co/4XLBz23JhW",
-            "stance": "neutral",
+            "translation": "中国海警周二表示，它监控了菲律宾一艘船只周五向其在仁爱礁非法坐滩的军舰运送补给的全过程。",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Tue May 20 11:48:10 +0000 2025",
             "metrics": {
@@ -631,7 +709,8 @@
           },
           {
             "text": "China allowed the #Philippines to dispatch a civilian vessel to deliver supplies to a warship that was illegally grounded at Ren'ai Reef in the #SouthChinaSea on Tuesday, a spokesman for the China Coast Guard said on Wednesday. https://t.co/xRLTuscVwh https://t.co/TwI4O1OW6b",
-            "stance": "neutral",
+            "translation": "中国允许 #菲律宾 派遣一艘民用船只向周二在 #南海 仁爱礁非法坐滩的一艘军舰运送补给，中国海警发言人周三表示。",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Wed Mar 05 05:15:01 +0000 2025",
             "metrics": {
@@ -642,7 +721,8 @@
           },
           {
             "text": "#FMsays China always believes that defense and security cooperation between countries should not target any third party or harm their interests, Foreign Ministry spokeswoman Mao Ning said, after reports said the #Philippines and #Canada signed a pact on Sunday for their armed https://t.co/OnwNCmmaR8",
-            "stance": "negative",
+            "translation": "#外交部说 中国始终认为，国家间的防务和安全合作不应针对任何第三方或损害其利益，外交部发言人毛宁表示，此前有报道称 #菲律宾 和 #加拿大 周日为其武装部队签署了一项协议。",
+            "stance": "positive",
             "username": "ChinaDaily",
             "created_at": "Mon Nov 03 09:15:21 +0000 2025",
             "metrics": {
@@ -656,7 +736,7 @@
         "tweet_count": 10
       },
       {
-        "info": "一位关注南海争议的菲律宾立场支持者，通过社交媒体强烈批评中国在南海的行为，表达对菲律宾主权和权益的坚定支持。",
+        "info": "反华激进派，聚焦南海军事冲突议题。",
         "stance_matrix": [
           [
             0,
@@ -676,26 +756,67 @@
           [
             0,
             3,
+            7
+          ],
+          [
+            1,
+            0,
             9
+          ],
+          [
+            1,
+            1,
+            10
+          ],
+          [
+            1,
+            2,
+            8
+          ],
+          [
+            1,
+            3,
+            7
+          ],
+          [
+            2,
+            0,
+            9
+          ],
+          [
+            2,
+            1,
+            10
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            2,
+            3,
+            7
           ]
         ],
         "influence_type": [
           {
-            "name": "权威 (Authority)",
+            "name": "权威",
             "value": 85
           },
           {
-            "name": "同伴 (Peer)",
-            "value": 10
+            "name": "同伴",
+            "value": 15
           },
           {
-            "name": "亲情 (Kinship)",
-            "value": 5
+            "name": "亲情",
+            "value": 0
           }
         ],
         "tweets": [
           {
             "text": "A China Coast Guard Ship is attacking a Philippines Bureau Of Fisheries Vessel that was on a routine humaniterian resupply mission to Second Thomas Shoal. \n\nChina is applying all kinds of aggressive &amp; voilent tactics to establish it's control over the Second Thomas Shoal. 1/3 https://t.co/EjooMYvbr8",
+            "translation": "一艘中国海警船正在攻击一艘执行例行人道主义补给任务前往仁爱礁的菲律宾渔业局船只。中国正运用各种侵略性和暴力手段以确立其对仁爱礁的控制。1/3",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Tue Jun 10 08:32:15 +0000 2025",
@@ -707,6 +828,7 @@
           },
           {
             "text": "Look at massive difference in size &amp; displacement of Chinese Coast Guard ship &amp; small Filipino boat sailing in Philippines's EEZ. \n\nCCG ship attacking the small PH boat is \"claimed\" to be on a \"law enforcement patrol\"\n\nIn reality CCG is conducting a Piracy Operation in PH' waters https://t.co/EXzw0DA0kk",
+            "translation": "看看中国海警船与在菲律宾专属经济区内航行的小型菲律宾船只之间巨大的尺寸和排水量差异。攻击小型菲律宾船只的中国海警船被'声称'是在进行'执法巡逻'。实际上，中国海警正在菲律宾水域进行海盗行动。",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Thu May 01 08:57:49 +0000 2025",
@@ -718,6 +840,7 @@
           },
           {
             "text": "Stop calling China Coast Guard a Civilian Law Enforcement Agency!\n\nLike the Sea Pirates, China Coast Guard spreads anarchy, chaos, terror &amp; fear.\n\nSeen here is China Coast Guard speed boats blocking a Philippines Coast Guard medical evacuation operation near Second Thomas Shoal https://t.co/s6oIcAk9c1",
+            "translation": "别再称中国海警为民用执法机构了！像海盗一样，中国海警散布无政府状态、混乱、恐怖和恐惧。这里看到的是中国海警快艇在仁爱礁附近阻挡菲律宾海岸警卫队医疗后送行动。",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Mon Sep 01 08:34:35 +0000 2025",
@@ -729,6 +852,7 @@
           },
           {
             "text": "Two China Coast Guard Ships are attacking a small Philippines Coast Guard ship near Second Thomas Shoal inside Philippines's EEZ.\n\n9 years ago, the court told China: You don't own South China Sea.\n\nChina’s answer? Ramming boats, spraying water cannons &amp; harassing civilians! https://t.co/3qKN3Yq2Oo",
+            "translation": "两艘中国海警船正在菲律宾专属经济区内的仁爱礁附近攻击一艘小型菲律宾海岸警卫队船只。9年前，法庭告诉中国：你不拥有南海。中国的回应？撞击船只、喷射水炮和骚扰平民！",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Tue Jul 15 06:16:10 +0000 2025",
@@ -740,6 +864,7 @@
           },
           {
             "text": "This is how Philippines conducts resupply missions to BRP Sierra Madre, a World War-II era ship ran aground at Second Thomas Shoal, now  an outpost for Filipino soldiers\n\nDespite the coercion &amp; intimidation from China Philippines is holding to it's ground at Second Thomas Shoal! https://t.co/U5gaY6cA1T",
+            "translation": "这就是菲律宾如何向'马德雷山'号执行补给任务的方式，这是一艘二战时期搁浅在仁爱礁的船只，现在是菲律宾士兵的前哨站。尽管面临中国的胁迫和恐吓，菲律宾仍在仁爱礁坚守阵地！",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Mon Jul 14 07:27:44 +0000 2025",
@@ -751,6 +876,7 @@
           },
           {
             "text": "China recently declared Scarborough Shoal, an aquatic reserve supposedly to protect marine environment. \n\nYesterday, Philippines's Navy caught Chinese Maritime Militia putting cyanide on coral reefs near Second Thomas Shoal.\n\nThe efforts China is making to protect environment! https://t.co/wzT94wPjz1",
+            "translation": "中国最近宣布黄岩岛为水生保护区，据称是为了保护海洋环境。昨天，菲律宾海军抓获中国海上民兵在仁爱礁附近的珊瑚礁上投放氰化物。这就是中国为保护环境所做的努力！",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Wed Oct 29 09:15:34 +0000 2025",
@@ -762,6 +888,7 @@
           },
           {
             "text": "China's maritime forces—primarily the China Coast Guard (CCG), supported by People's Liberation Army Navy (PLAN) vessels and maritime militia—have escalated aggressive tactics within the Philippines' EEZ in the West Philippine Sea. @yeshuaformosa @MalayaIrredenta @informedph2 https://t.co/UGv2fy0rOb",
+            "translation": "中国的海上力量——主要是中国海警，得到中国人民解放军海军舰艇和海上民兵的支持——已在菲律宾专属经济区内的西菲律宾海升级了侵略性战术。",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Sun Dec 21 10:07:47 +0000 2025",
@@ -773,6 +900,7 @@
           },
           {
             "text": "Sabina Shoal has emerged in the ongoing maritime dispute between China and the Philippines. Beijing claims Sabin Shoalk as Xianbin Jiao. It is some 75 nautical miles from the Philippines' west coast and 630 miles from China. 1/3 @ChongJaIan @ElbridgeColby @jaytaryela https://t.co/ciO9yP59Ku",
+            "translation": "萨比纳礁已成为中国和菲律宾之间持续海上争端的新焦点。北京声称萨比纳礁为仙宾礁。它距离菲律宾西海岸约75海里，距离中国630海里。1/3",
             "stance": "negative",
             "username": "Michael71T",
             "created_at": "Wed Nov 13 06:15:50 +0000 2024",
@@ -787,7 +915,657 @@
         "tweet_count": 8
       },
       {
-        "info": "菲律宾媒体账号，专注报道西菲律宾海（南海）地缘政治动态，立场偏向菲律宾官方，关注中菲海上争议及美国介入。",
+        "info": "菲律宾媒体，专注南海主权争议报道。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            1,
+            0,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 85
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Tension gripped soldiers and marines onboard BRP Sierra Madre (LS57) as China deployed coast guard ships with water cannons and small boats armed with mounted weapons in the vicinity of Ayungin Shoal (Second Thomas Shoal) in the West Philippine Sea (WPS), the Armed Forces of the https://t.co/ciMRthCM3Y",
+            "translation": "中国在阿云金礁（第二托马斯礁）附近部署配备水炮和武装小艇的海警船，导致BRP Sierra Madre号上的士兵和海军陆战队员紧张，菲律宾武装部队...",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Fri Aug 22 03:46:59 +0000 2025",
+            "metrics": {
+              "reply": 7,
+              "retweet": 7,
+              "like": 16
+            }
+          },
+          {
+            "text": "Two days after the collision of two Chinese vessels, the United States deployed two of its naval ships to Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) on Wednesday, Aug. 13, as the Philippine Coast Guard (PCG) deployed an aircraft for a patrol https://t.co/Vy4t5BcVjQ",
+            "translation": "两艘中国船只相撞两天后，美国于8月13日周三向黄岩岛（斯卡伯勒或帕纳塔格礁）部署了两艘海军舰艇，同时菲律宾海岸警卫队派遣飞机巡逻...",
+            "stance": "neutral",
+            "username": "manilabulletin",
+            "created_at": "Wed Aug 13 08:16:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 5,
+              "like": 19
+            }
+          },
+          {
+            "text": "Senator Risa Hontiveros on Friday, September 12 rejected China’s plan to construct a so-called “marine nature reserve” in Bajo de Masinloc (Scarborough Shoal) and urged Malacañang to summon China’s ambassador to the Philippines to demand an explanation on it.\n\nREAD: https://t.co/N7qC5LWvg1",
+            "translation": "参议员丽莎·洪蒂维罗斯于9月12日周五拒绝中国在黄岩岛（斯卡伯勒礁）建立所谓'海洋自然保护区'的计划，并敦促马拉卡南宫召见中国驻菲律宾大使要求解释。",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Fri Sep 12 05:30:00 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 1,
+              "like": 14
+            }
+          },
+          {
+            "text": "The Department of Foreign Affairs (DFA) said it will file a diplomatic protest against China’s planned establishment of a national nature reserve in the hotly contested Scarborough Shoal (Bajo de Masinloc), which is an integral part of the Philippines’ sovereignty and https://t.co/2rUKqNyZin",
+            "translation": "外交部表示将就中国计划在争议激烈的黄岩岛（斯卡伯勒礁）建立国家自然保护区提出外交抗议，该岛是菲律宾主权不可分割的一部分。",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Thu Sep 11 04:58:34 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "President Marcos has conveyed the Philippines' support to the two trade agreements within the region—Association of Southeast Asian Nations (ASEAN) Trade in Goods Agreement (ATIGA) and the ASEAN-China Free Trade Area (FTA) 3.0 Upgrade.\n\nhttps://t.co/h5V2D4lMc7",
+            "translation": "马科斯总统表达了菲律宾对区域内两项贸易协定的支持——东盟货物贸易协定和东盟-中国自由贸易区3.0升级版。",
+            "stance": "neutral",
+            "username": "manilabulletin",
+            "created_at": "Sun Oct 26 10:31:57 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "Several Chinese vessels were observed by the Philippine Coast Guard (PCG) to be conducting “search patterns” off Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) after the collision of its coast guard and navy vessels on Monday, Aug. 11.\n\nREAD: https://t.co/umOAiLImD2",
+            "translation": "菲律宾海岸警卫队观察到多艘中国船只在黄岩岛（斯卡伯勒或帕纳塔格礁）附近进行'搜索模式'，此前其海警和海军舰艇于8月11日周一发生碰撞。",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Tue Aug 12 08:40:52 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "After the collision of two Chinese vessels near Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS), the Philippine Coast Guard (PCG) advised China on Monday, Aug. 11, to observe maritime rules to avoid accidents at sea.\n\nREAD: https://t.co/uBBwJEUOR9 https://t.co/Xc8wY86CEU",
+            "translation": "两艘中国船只在西菲律宾海黄岩岛（斯卡伯勒或帕纳塔格礁）附近相撞后，菲律宾海岸警卫队于8月11日周一建议中国遵守海上规则以避免海上事故。",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Mon Aug 11 10:56:52 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "Three Chinese navy and coast guard vessels harassed a Philippine Navy ship that almost resulted in a collision around 11 nautical miles off the Bajo de Masinloc, the Armed Forces of the Philippines (AFP) disclosed on Thursday, May 8.\n\nREAD: https://t.co/IOfGs2BgwV https://t.co/ZtX3IpRXvb",
+            "translation": "菲律宾武装部队周四（5月8日）披露，三艘中国海军和海警船只在黄岩岛约11海里处骚扰一艘菲律宾海军舰艇，几乎导致碰撞。",
+            "stance": "negative",
+            "username": "manilabulletin",
+            "created_at": "Thu May 08 02:33:32 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "manilabulletin",
+        "tweet_count": 8
+      },
+      {
+        "info": "关注南海中菲冲突，立场倾向菲律宾",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            1
+          ],
+          [
+            0,
+            3,
+            7
+          ],
+          [
+            1,
+            0,
+            3
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            2
+          ],
+          [
+            1,
+            3,
+            8
+          ],
+          [
+            2,
+            0,
+            2
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            1
+          ],
+          [
+            2,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 85
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "WATCH: Two Chinese ships collide while performing dangerous maneuvers around Philippine Coast Guard (PCG) vessel conducting Kadiwa Operations to aid Filipino fishermen in waters near Bajo de Masinloc.\n\nThe collision took place between China Coast Guard (CCG) vessel 3104 and https://t.co/Nquh0NHq93",
+            "translation": "观看：两艘中国船只在菲律宾海岸警卫队（PCG）船只附近进行危险机动时相撞，该PCG船只当时正在巴霍德马辛洛克附近水域执行卡迪瓦行动以援助菲律宾渔民。碰撞发生在中国海警（CCG）3104号船和...",
+            "stance": "negative",
+            "username": "gmanews",
+            "created_at": "Mon Aug 11 04:44:10 +0000 2025",
+            "metrics": {
+              "reply": 78,
+              "retweet": 223,
+              "like": 957
+            }
+          },
+          {
+            "text": "BREAKING: A China Coast Guard (CCG) vessel and a Philippine Coast Guard (PCG) vessel had a collision near Escoda Shoal in the West Philippine Sea (WPS) on Monday, according to a Chinese official. | via @jovilandxrita https://t.co/w41AWF5sY3",
+            "translation": "突发：据一名中国官员称，周一，一艘中国海警（CCG）船只和一艘菲律宾海岸警卫队（PCG）船只在西菲律宾海（WPS）的埃斯科达浅滩附近发生碰撞。",
+            "stance": "neutral",
+            "username": "gmanews",
+            "created_at": "Mon Aug 19 00:52:21 +0000 2024",
+            "metrics": {
+              "reply": 97,
+              "retweet": 156,
+              "like": 273
+            }
+          },
+          {
+            "text": "WATCH: Collision at sea of China Coast Guard 3104 and PLA Navy 164 in the vicinity of Bajo de Masinloc in Zambales, Philippines.\n\nBefore this, the Chinese Navy and Coast Guard ships nearly collided twice trying to outmaneuver BRP Suluan of the Philippine Coast Guard. | via https://t.co/LC4UyEJcVc",
+            "translation": "观看：中国海警3104号船和中国人民解放军海军164号船在菲律宾三描礼士省巴霍德马辛洛克附近海域发生碰撞。在此之前，中国海军和海警船只曾两次险些与菲律宾海岸警卫队的BRP苏鲁安号相撞，试图超越其机动。",
+            "stance": "negative",
+            "username": "gmanews",
+            "created_at": "Mon Aug 11 12:34:37 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 6,
+              "like": 24
+            }
+          },
+          {
+            "text": "WATCH: The Department of Foreign Affairs (DFA) on Thursday \"strongly\" protested China's plan to establish a nature reserve at Scarborough Shoal, a resource-rich area where Manila and Beijing have overlapping claims.\n\nA formal diplomatic protest will be filed \"against this https://t.co/eGR5kozyYu",
+            "translation": "观看：菲律宾外交部（DFA）周四“强烈”抗议中国计划在黄岩岛（斯卡伯勒浅滩）建立自然保护区，该地区资源丰富，马尼拉和北京存在重叠主权声索。将就此提出正式外交抗议。",
+            "stance": "negative",
+            "username": "gmanews",
+            "created_at": "Thu Sep 11 08:32:02 +0000 2025",
+            "metrics": {
+              "reply": 4,
+              "retweet": 3,
+              "like": 19
+            }
+          },
+          {
+            "text": "Three Filipino fishermen were injured on Friday, Dec. 12, after Chinese coast guard and militia vessels used water cannons and acted aggressively against Filipino fishing boats near Escoda Shoal within the West Philippine Sea.\n\nIn a statement on Saturday, the Philippine Coast https://t.co/pIbkL4kDym",
+            "translation": "周五（12月12日），三艘菲律宾渔船在西菲律宾海埃斯科达浅滩附近遭到中国海警和民兵船只使用水炮和攻击性行为，三名菲律宾渔民受伤。菲律宾海岸警卫队周六在一份声明中...",
+            "stance": "negative",
+            "username": "gmanews",
+            "created_at": "Sat Dec 13 09:12:55 +0000 2025",
+            "metrics": {
+              "reply": 3,
+              "retweet": 2,
+              "like": 4
+            }
+          },
+          {
+            "text": "Senator Erwin Tulfo has filed a bill seeking to mandate basic and higher education institutions to educate students about the contested West Philippine Sea amid the maritime dispute between the Philippines and China.\n\nIn filling Senate Bill No. 1625 or the “West Philippine Sea https://t.co/EqyuAkiq3u",
+            "translation": "参议员欧文·图尔福提出一项法案，寻求强制要求基础和高等教育机构在菲律宾与中国的海上争端背景下，对学生进行有关有争议的西菲律宾海的教育。在提交参议院第1625号法案或“西菲律宾海...”时",
+            "stance": "neutral",
+            "username": "gmanews",
+            "created_at": "Sun Dec 21 10:29:30 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 7
+            }
+          },
+          {
+            "text": "Senator Erwin Tulfo has filed a bill seeking to mandate basic and higher education institutions to educate students about the contested West Philippine Sea amid the maritime dispute between the Philippines and China. \n\nhttps://t.co/3KLzL4nNU6",
+            "translation": "参议员欧文·图尔福提出一项法案，寻求强制要求基础和高等教育机构在菲律宾与中国的海上争端背景下，对学生进行有关有争议的西菲律宾海的教育。",
+            "stance": "neutral",
+            "username": "gmanews",
+            "created_at": "Sun Dec 21 09:40:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 4
+            }
+          }
+        ],
+        "username": "gmanews",
+        "tweet_count": 7
+      },
+      {
+        "info": "菲律宾媒体，聚焦南海争议，立场倾向菲律宾政府。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            8
+          ],
+          [
+            1,
+            3,
+            7
+          ],
+          [
+            2,
+            0,
+            3
+          ],
+          [
+            2,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            1
+          ],
+          [
+            2,
+            3,
+            2
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "MANILA, Philippines — The Philippines and China have reached an understanding on the \"provisional arrangement\" for the rotation and resupply missions to the beached BRP Sierra Madre in Ayungin (Second Thomas) Shoal, the Department of Foreign Affairs (DFA) said.\n\nREAD: https://t.co/WVQDAzbAG9",
+            "translation": "马尼拉，菲律宾——菲律宾外交部表示，菲律宾和中国已就搁浅在仁爱礁（第二托马斯礁）的“马德雷山”号军舰的轮换和补给任务的“临时安排”达成谅解。",
+            "stance": "neutral",
+            "username": "TheManilaTimes",
+            "created_at": "Sun Jul 21 13:28:04 +0000 2024",
+            "metrics": {
+              "reply": 3,
+              "retweet": 2,
+              "like": 3
+            }
+          },
+          {
+            "text": "MANILA, Philippines — The Philippines, through the Department of Foreign Affairs (DFA), on Thursday protested China's plan to establish a nature reserve at the contested Scarborough Shoal or Bajo de Masinloc and demanded that Beijing scrap the project. https://t.co/BpgEXkxze1",
+            "translation": "马尼拉，菲律宾——菲律宾周四通过外交部抗议中国计划在有争议的黄岩岛建立自然保护区，并要求北京取消该项目。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Thu Sep 11 05:25:56 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "WASHINGTON, D.C. — US Secretary of State Marco Rubio on Friday backed the Philippines in protesting Beijing's plan for a 'nature reserve' on disputed Scarborough Shoal, saying it was part of a 'coercive' strategy in the South China Sea.\n\nRead more: https://t.co/qSHeJwg0qE https://t.co/x0zMjy2Gde",
+            "translation": "华盛顿特区——美国国务卿马可·卢比奥周五支持菲律宾抗议北京在有争议的黄岩岛建立“自然保护区”的计划，称这是南海“胁迫”战略的一部分。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Sat Sep 13 02:24:06 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "MANILA, Philippines — Three Filipino fishermen were injured when China Coast Guard vessels sprayed their boats with water cannons and cut their anchor lines in a disputed area of the South China Sea, Philippine authorities said Saturday. https://t.co/7zRfheAifN",
+            "translation": "马尼拉，菲律宾——菲律宾当局周六表示，三艘菲律宾渔船在南海争议海域遭到中国海警船水炮喷射和锚线切断，三名菲律宾渔民受伤。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Sat Dec 13 09:06:05 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "MANILA, Philippines — The Department of Foreign Affairs confirmed that it has filed a diplomatic protest against China's creation of a nature reserve in Scarborough Shoal or Bajo de Masinloc in the West Philippine Sea.\n\nRead more: https://t.co/iTue1d5suo https://t.co/tMusGiwTkI",
+            "translation": "马尼拉，菲律宾——外交部证实，已就中国在西菲律宾海黄岩岛建立自然保护区一事提出外交抗议。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Sat Sep 13 05:11:36 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "MANILA, Philippines— The UnitedStates condemned China Coast Guard’s (CCG) water cannoning and cutting of anchor lines of Filipino fishermen close to Sabina Shoal in the South China Sea. https://t.co/qptYvdWzOl",
+            "translation": "马尼拉，菲律宾——美国谴责中国海警在南海仙宾礁附近对菲律宾渔船使用水炮并切断其锚线的行为。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Mon Dec 15 08:28:05 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "MANILA, Philippines — The Philippines on Thursday rejected China’s declaration of a so-called “Huangyan Island National Nature Reserve” at Bajo de Masinloc (Scarborough Shoal), calling it illegal and a veiled attempt at occupation.\n\nREAD: https://t.co/E1eeGx45Gp https://t.co/lnmR17oKJB",
+            "translation": "马尼拉，菲律宾——菲律宾周四拒绝了中国在黄岩岛（斯卡伯勒浅滩）宣布所谓的“黄岩岛国家自然保护区”，称其非法且是变相的占领企图。",
+            "stance": "negative",
+            "username": "TheManilaTimes",
+            "created_at": "Thu Sep 11 10:11:55 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "TheManilaTimes",
+        "tweet_count": 7
+      },
+      {
+        "info": "关注南海主权争议，立场偏向菲律宾政府。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
+            3
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            2,
+            0,
+            4
+          ],
+          [
+            2,
+            1,
+            6
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 85
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "NEWS UPDATE: The Philippine Coast Guard reports that two Chinese Coast Guard vessels fired water cannons to PCG vessel BRP Bagacay during a maritime patrol mission in Bajo De Masinloc (Scarborough Shoal) today.\n\nThe PCG adds the pressure from the water cannon damages the railing https://t.co/oKHnj3QnTJ",
+            "translation": "新闻更新：菲律宾海岸警卫队报告称，两艘中国海警船今天在巴霍德马辛洛克（斯卡伯勒浅滩）的海上巡逻任务中向PCG船只BRP Bagacay发射水炮。PCG补充说，水炮的压力损坏了栏杆。",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Tue Apr 30 04:03:17 +0000 2024",
+            "metrics": {
+              "reply": 58,
+              "retweet": 199,
+              "like": 344
+            }
+          },
+          {
+            "text": "BREAKING: The Philippines strongly protests China’s approval of a so-called “Huangyan Island National Nature Reserve” in Scarborough Shoal, stressing it is an “illegitimate and unlawful” act that violates Manila’s sovereignty and rights under international law.\n\nManila says it https://t.co/EFfgBUyayt",
+            "translation": "突发：菲律宾强烈抗议中国批准在斯卡伯勒浅滩设立所谓的“黄岩岛国家自然保护区”，强调这是“非法且违法”的行为，侵犯了马尼拉根据国际法享有的主权和权利。马尼拉表示...",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Thu Sep 11 03:14:54 +0000 2025",
+            "metrics": {
+              "reply": 5,
+              "retweet": 65,
+              "like": 165
+            }
+          },
+          {
+            "text": "UPDATE: PH files protest, summons Chinese Embassy official over latest Scarborough Shoal incident \n\nPH gov't has so far filed 20 diplomatic protests vs. China in 2024, a total of 153 since the start of the Marcos administration \n\nhttps://t.co/BIibCVuLn4 https://t.co/UPYvjvtmHR",
+            "translation": "更新：菲律宾就最新斯卡伯勒浅滩事件提出抗议，传唤中国大使馆官员。菲律宾政府2024年迄今已向中国提出20次外交抗议，自马科斯政府开始以来总计153次。",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Thu May 02 04:39:42 +0000 2024",
+            "metrics": {
+              "reply": 1,
+              "retweet": 9,
+              "like": 36
+            }
+          },
+          {
+            "text": "MARCOS CONGRATULATES XI\n\nLOOK: President Bongbong Marcos acknowledges Chinese President Xi Jinping as China prepares to assume the APEC Chairmanship in 2026.\n\nMarcos says he reaffirmed the Philippines’ commitment to partnership and “meaningful cooperation” in the region. https://t.co/G9GfbQGs3n",
+            "translation": "马科斯祝贺习近平。看：总统邦邦·马科斯在中国准备于2026年担任APEC主席国之际，向中国国家主席习近平致意。马科斯表示，他重申了菲律宾对该地区伙伴关系和“有意义的合作”的承诺。",
+            "stance": "neutral",
+            "username": "TristanNodalo",
+            "created_at": "Sat Nov 01 06:42:58 +0000 2025",
+            "metrics": {
+              "reply": 5,
+              "retweet": 5,
+              "like": 27
+            }
+          },
+          {
+            "text": "UPDATE: China has released geographic coordinates marking baselines around Scarborough Shoal (Huangyan Dao) in the South China Sea, two days after President Bongbong Marcos signed laws asserting Philippine maritime entitlements. @newswatchplusph \n\n📸 Chinese Embassy https://t.co/LGadzf6Hw0",
+            "translation": "更新：中国发布了围绕南中国海斯卡伯勒浅滩（黄岩岛）的基线地理坐标，这是在总统邦邦·马科斯签署法律主张菲律宾海洋权益两天后。",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Sun Nov 10 13:48:04 +0000 2024",
+            "metrics": {
+              "reply": 3,
+              "retweet": 3,
+              "like": 7
+            }
+          },
+          {
+            "text": "WATCH: President Bongbong Marcos says the Philippine government disagrees with China's definition of its sovereign territory.\n\nMarcos made this statement after Chinese Ambassador Huang Xilian was summoned over Beijing's baseline claims on Scarborough Shoal. @newswatchplusph \n\n🎥 https://t.co/IcVd5Elzms",
+            "translation": "观看：总统邦邦·马科斯表示，菲律宾政府不同意中国对其主权领土的定义。马科斯是在中国大使黄溪连因北京对斯卡伯勒浅滩的基线主张被传唤后发表此声明的。",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Thu Nov 14 04:45:49 +0000 2024",
+            "metrics": {
+              "reply": 1,
+              "retweet": 3,
+              "like": 9
+            }
+          },
+          {
+            "text": "UPDATE: China reiterates its 2016 \"goodwill arrangement\" with the Philippines to allow Filipino fishermen in the waters off Scarborough Shoal.\n\nBeijing adds Manila should not \"abuse their goodwill\" because they are ready to take countermeasures \n\nChinese Foreign Ministry https://t.co/fwAxBO9b1z",
+            "translation": "更新：中国重申其2016年与菲律宾的“善意安排”，允许菲律宾渔民在斯卡伯勒浅滩附近水域捕鱼。北京补充说，马尼拉不应“滥用他们的善意”，因为他们准备采取反制措施。",
+            "stance": "negative",
+            "username": "TristanNodalo",
+            "created_at": "Wed May 15 13:54:07 +0000 2024",
+            "metrics": {
+              "reply": 7,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "TristanNodalo",
+        "tweet_count": 7
+      },
+      {
+        "info": "亲菲反华媒体，专注南海主权争议报道",
         "stance_matrix": [
           [
             0,
@@ -802,151 +1580,290 @@
           [
             0,
             2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
             3
           ],
           [
-            0,
-            3,
+            1,
+            1,
             2
           ],
           [
             1,
-            0,
-            1
-          ],
-          [
-            1,
-            1,
-            1
-          ],
-          [
-            1,
             2,
-            5
+            4
           ],
           [
             1,
             3,
-            4
+            3
           ],
           [
             2,
             0,
-            1
+            9
           ],
           [
             2,
             1,
-            0
+            8
           ],
           [
             2,
             2,
-            2
+            7
           ],
           [
             2,
             3,
-            4
+            6
           ]
         ],
         "influence_type": [
           {
-            "name": "权威 (Authority)",
+            "name": "权威",
             "value": 85
           },
           {
-            "name": "同伴 (Peer)",
+            "name": "同伴",
             "value": 10
           },
           {
-            "name": "亲情 (Kinship)",
+            "name": "亲情",
             "value": 5
           }
         ],
         "tweets": [
           {
-            "text": "Tension gripped soldiers and marines onboard BRP Sierra Madre (LS57) as China deployed coast guard ships with water cannons and small boats armed with mounted weapons in the vicinity of Ayungin Shoal (Second Thomas Shoal) in the West Philippine Sea (WPS), the Armed Forces of the https://t.co/ciMRthCM3Y",
+            "text": "JUST IN: The Philippines strongly protested China’s approval of a so-called “Huangyan Island National Nature Reserve” in Bajo de Masinloc, stressing it is an “illegitimate and unlawful” act that violates Manila’s sovereignty and rights under international law.\n\nManila says it https://t.co/mKgKIizsWf",
+            "translation": "突发：菲律宾强烈抗议中国批准所谓的“黄岩岛国家自然保护区”，强调这是“非法且违法”的行为，侵犯了马尼拉根据国际法享有的主权和权利。马尼拉表示...",
             "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Fri Aug 22 03:46:59 +0000 2025",
+            "username": "newswatchplusph",
+            "created_at": "Thu Sep 11 03:18:00 +0000 2025",
             "metrics": {
-              "reply": 7,
-              "retweet": 7,
-              "like": 16
+              "reply": 29,
+              "retweet": 88,
+              "like": 278
             }
           },
           {
-            "text": "Two days after the collision of two Chinese vessels, the United States deployed two of its naval ships to Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) on Wednesday, Aug. 13, as the Philippine Coast Guard (PCG) deployed an aircraft for a patrol https://t.co/Vy4t5BcVjQ",
+            "text": "MARCOS CONGRATULATES XI\n\nLOOK: President Bongbong Marcos acknowledges Chinese President Xi Jinping as China prepares to assume the APEC Chairmanship in 2026.\n\nMarcos says he reaffirmed the Philippines’ commitment to partnership and “meaningful cooperation” in the region. | https://t.co/1KlWtKY6gU",
+            "translation": "马科斯祝贺习近平 看：总统邦邦·马科斯在中国准备于2026年担任APEC主席国之际，承认中国国家主席习近平。马科斯表示他重申了菲律宾对该地区伙伴关系和“有意义的合作”的承诺。",
             "stance": "neutral",
-            "username": "manilabulletin",
-            "created_at": "Wed Aug 13 08:16:01 +0000 2025",
+            "username": "newswatchplusph",
+            "created_at": "Sat Nov 01 07:24:52 +0000 2025",
             "metrics": {
-              "reply": 0,
+              "reply": 3,
+              "retweet": 8,
+              "like": 21
+            }
+          },
+          {
+            "text": "WATCH: President Bongbong Marcos says the Philippine government disagrees with China's definition of its sovereign territory.\n\nMarcos made this statement after Chinese Ambassador Huang Xilian was summoned over Beijing's baseline claims on Scarborough Shoal | @TristanNodalo \n\n🎥 https://t.co/kKVmBWAePq",
+            "translation": "观看：总统邦邦·马科斯表示菲律宾政府不同意中国对其主权领土的定义。马科斯是在中国大使黄溪连因北京对斯卡伯勒浅滩的基线主张被传唤后发表此声明的。",
+            "stance": "negative",
+            "username": "newswatchplusph",
+            "created_at": "Thu Nov 14 04:48:56 +0000 2024",
+            "metrics": {
+              "reply": 1,
               "retweet": 5,
-              "like": 19
+              "like": 15
             }
           },
           {
-            "text": "Senator Risa Hontiveros on Friday, September 12 rejected China’s plan to construct a so-called “marine nature reserve” in Bajo de Masinloc (Scarborough Shoal) and urged Malacañang to summon China’s ambassador to the Philippines to demand an explanation on it.\n\nREAD: https://t.co/N7qC5LWvg1",
-            "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Fri Sep 12 05:30:00 +0000 2025",
+            "text": "Jing Quan, a seasoned Chinese diplomat and former deputy head of the embassy in Washington, arrived in Manila on Saturday to assume his post as Beijing’s top envoy to the Philippines. \n\nHis arrival comes at a critical moment, as tensions flare in the West Philippine Sea and https://t.co/AXSZn1ykv7",
+            "translation": "资深中国外交官、前驻华盛顿使馆副馆长景泉于周六抵达马尼拉，担任北京驻菲律宾最高特使。他的到来正值关键时刻，西菲律宾海紧张局势加剧...",
+            "stance": "neutral",
+            "username": "newswatchplusph",
+            "created_at": "Mon Dec 08 07:52:29 +0000 2025",
             "metrics": {
-              "reply": 2,
-              "retweet": 1,
-              "like": 14
+              "reply": 4,
+              "retweet": 4,
+              "like": 7
             }
           },
           {
-            "text": "The Department of Foreign Affairs (DFA) said it will file a diplomatic protest against China’s planned establishment of a national nature reserve in the hotly contested Scarborough Shoal (Bajo de Masinloc), which is an integral part of the Philippines’ sovereignty and https://t.co/2rUKqNyZin",
+            "text": "3 FILIPINO FISHERMEN INJURED IN CHINESE WATER CANNON\n\nWATCH: Filipino fishing boats were fired at with water cannon by Chinese ships at Escoda Shoal in the West Philippine Sea on Friday, Dec. 12, the Philippine Coast Guard reported on Saturday, Dec. 13.\n\nThe PCG says three https://t.co/EqMUp2jhWD",
+            "translation": "3名菲律宾渔民在中国水炮袭击中受伤 观看：菲律宾海岸警卫队周六报告，周五（12月12日）在西菲律宾海的埃斯科达浅滩，中国船只向菲律宾渔船发射水炮。海岸警卫队称三名...",
             "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Thu Sep 11 04:58:34 +0000 2025",
+            "username": "newswatchplusph",
+            "created_at": "Sat Dec 13 08:02:39 +0000 2025",
             "metrics": {
-              "reply": 2,
+              "reply": 1,
+              "retweet": 5,
+              "like": 4
+            }
+          },
+          {
+            "text": "Three Filipino fishermen were injured while two fishing boats incurred “significant damage” after Chinese vessels fired water cannons at Escoda Shoal in the West Philippine Sea, the Philippine Coast Guard (PCG) reported on Saturday, Dec. 13.\n\nhttps://t.co/l5uXXBxrc3",
+            "translation": "菲律宾海岸警卫队周六（12月13日）报告，在西菲律宾海的埃斯科达浅滩，中国船只发射水炮后，三名菲律宾渔民受伤，两艘渔船遭受“重大损坏”。",
+            "stance": "negative",
+            "username": "newswatchplusph",
+            "created_at": "Sat Dec 13 08:56:57 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 1
+            }
+          }
+        ],
+        "username": "newswatchplusph",
+        "tweet_count": 6
+      },
+      {
+        "info": "关注南海军事动态，立场反华",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            8
+          ],
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            6
+          ],
+          [
+            2,
+            0,
+            8
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            7
+          ],
+          [
+            2,
+            3,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 85
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "\"The United States and the Philippines have formed a new joint task force to strengthen cooperation and increase military readiness in areas including the South China Sea, the Pentagon said on Friday.\" \n \n\"Task Force-Philippines 'will increase operational cooperation, improve",
+            "translation": "五角大楼周五表示，美国和菲律宾已组建一个新的联合特遣部队，以加强合作，提高包括南海在内的地区的军事战备状态。",
+            "stance": "neutral",
+            "username": "IPDefenseForum",
+            "created_at": "Sat Nov 01 04:05:48 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 6
+            }
+          },
+          {
+            "text": "As the Philippines leads ASEAN in 2026, it pushes for a binding code of conduct with China, which claims most of the South China Sea. With stalled talks, the Philippines strengthens defense ties and seeks regional support against China’s aggression. #Philippines #ASEAN #Unclos https://t.co/31WxmuPUwo",
+            "translation": "随着菲律宾在2026年担任东盟轮值主席国，它推动与中国制定一项具有约束力的行为准则，中国声称对南海大部分地区拥有主权。由于谈判陷入僵局，菲律宾加强了防务关系，并寻求地区支持以对抗中国的侵略。#菲律宾 #东盟 #联合国海洋法公约",
+            "stance": "negative",
+            "username": "IPDefenseForum",
+            "created_at": "Wed Dec 17 04:50:03 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "Three Philippine fisherman were injured and several fishing boats damaged when the China Coast Guard fired water cannons at the vessels near Sabina Shoal in the South China Sea. How should the Philippines respond to such aggression? Share your thoughts at https://t.co/wKdpRIsSeB. https://t.co/CyZYOlFwbM",
+            "translation": "中国海警在南海萨比纳浅滩附近向船只发射水炮，导致三名菲律宾渔民受伤，多艘渔船受损。菲律宾应如何应对此类侵略行为？请在以下链接分享您的想法。",
+            "stance": "negative",
+            "username": "IPDefenseForum",
+            "created_at": "Fri Dec 19 18:50:19 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "Japan and the Philippines are working to accelerate security cooperation amid Beijing’s growing assertiveness in the West Philippine Sea and wider Indo-Pacific. The commander of the Philippine fleet led a delegation to Japan in late November for a string of high-level engagements",
+            "translation": "随着北京在西菲律宾海和更广泛的印太地区日益强势，日本和菲律宾正在努力加快安全合作。菲律宾舰队司令于11月下旬率领代表团访问日本，进行一系列高层接触。",
+            "stance": "negative",
+            "username": "IPDefenseForum",
+            "created_at": "Tue Dec 02 01:20:10 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "The United States and the Philippines have created a joint task force to strengthen cooperation, planning, interoperability and military readiness in areas including the South China Sea.\n\nhttps://t.co/JKxghfXNIS \n\n#IPDF #SCS #IndoPacific https://t.co/9HCgQIojFQ",
+            "translation": "美国和菲律宾已组建一个联合特遣部队，以加强包括南海在内的地区的合作、规划、互操作性和军事战备状态。#IPDF #SCS #印太",
+            "stance": "neutral",
+            "username": "IPDefenseForum",
+            "created_at": "Mon Nov 03 23:35:24 +0000 2025",
+            "metrics": {
+              "reply": 0,
               "retweet": 0,
               "like": 1
             }
           },
           {
-            "text": "President Marcos has conveyed the Philippines' support to the two trade agreements within the region—Association of Southeast Asian Nations (ASEAN) Trade in Goods Agreement (ATIGA) and the ASEAN-China Free Trade Area (FTA) 3.0 Upgrade.\n\nhttps://t.co/h5V2D4lMc7",
-            "stance": "positive",
-            "username": "manilabulletin",
-            "created_at": "Sun Oct 26 10:31:57 +0000 2025",
-            "metrics": {
-              "reply": 0,
-              "retweet": 1,
-              "like": 1
-            }
-          },
-          {
-            "text": "Several Chinese vessels were observed by the Philippine Coast Guard (PCG) to be conducting “search patterns” off Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS) after the collision of its coast guard and navy vessels on Monday, Aug. 11.\n\nREAD: https://t.co/umOAiLImD2",
+            "text": "What’s the story behind the BRP Sierra Madre at Second Thomas Shoal? The Philippines' legal standing at Second Thomas Shoal is that of sovereign rights over the feature and its resources, as determined by a 2016 international arbitral tribunal ruling under the UNCLOS. China has https://t.co/0TgKMXqvmZ",
+            "translation": "第二托马斯浅滩的BRP Sierra Madre号背后有什么故事？菲律宾在第二托马斯浅滩的法律立场是，根据2016年联合国海洋法公约国际仲裁庭的裁决，对该地物及其资源拥有主权权利。中国...",
             "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Tue Aug 12 08:40:52 +0000 2025",
-            "metrics": {
-              "reply": 0,
-              "retweet": 0,
-              "like": 1
-            }
-          },
-          {
-            "text": "After the collision of two Chinese vessels near Bajo de Masinloc (Scarborough or Panatag Shoal) in the West Philippine Sea (WPS), the Philippine Coast Guard (PCG) advised China on Monday, Aug. 11, to observe maritime rules to avoid accidents at sea.\n\nREAD: https://t.co/uBBwJEUOR9 https://t.co/Xc8wY86CEU",
-            "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Mon Aug 11 10:56:52 +0000 2025",
-            "metrics": {
-              "reply": 0,
-              "retweet": 0,
-              "like": 1
-            }
-          },
-          {
-            "text": "Three Chinese navy and coast guard vessels harassed a Philippine Navy ship that almost resulted in a collision around 11 nautical miles off the Bajo de Masinloc, the Armed Forces of the Philippines (AFP) disclosed on Thursday, May 8.\n\nREAD: https://t.co/IOfGs2BgwV https://t.co/ZtX3IpRXvb",
-            "stance": "negative",
-            "username": "manilabulletin",
-            "created_at": "Thu May 08 02:33:32 +0000 2025",
+            "username": "IPDefenseForum",
+            "created_at": "Sat Sep 06 06:30:01 +0000 2025",
             "metrics": {
               "reply": 0,
               "retweet": 0,
@@ -954,8 +1871,8 @@
             }
           }
         ],
-        "username": "manilabulletin",
-        "tweet_count": 8
+        "username": "IPDefenseForum",
+        "tweet_count": 6
       }
     ]
   },
@@ -965,10 +1882,583 @@
       "2025-12-25",
       "2025-12-25"
     ],
-    "top_users": []
+    "top_users": [
+      {
+        "info": "关注台海议题，立场偏向台湾视角，引用多方资料。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            3
+          ],
+          [
+            0,
+            1,
+            7
+          ],
+          [
+            0,
+            2,
+            6
+          ],
+          [
+            0,
+            3,
+            5
+          ],
+          [
+            1,
+            0,
+            4
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            6
+          ],
+          [
+            2,
+            0,
+            5
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            2,
+            3,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 25
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@redrayzorblade @World_At_War_6 Actually, in the 1949 Chinese Civil War, the Communists (now PRC) defeated the Nationalists (ROC) on the mainland, forcing them to retreat to Taiwan. The PRC views Taiwan as unfinished territory from that conflict, not a loss. Perspectives vary: Beijing sees it as reunification;",
+            "translation": "@redrayzorblade @World_At_War_6 实际上，在1949年的中国内战中，共产党（现在的中华人民共和国）在大陆击败了国民党（中华民国），迫使他们撤退到台湾。中华人民共和国将台湾视为那场冲突中未完成的领土，而非损失。观点各异：北京视其为统一；",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Mon Dec 08 04:28:14 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@teshen8lin @RTSG_News Chiang Ching-kuo's reforms indeed prioritized Taiwan's democracy against PRC threats. PRC's white paper (https://t.co/RXRfvqt7Td) emphasizes peaceful reunification, but sources like US State Dept and Taipei Times highlight risks to Taiwan's freedoms via potential coercion. How",
+            "translation": "@teshen8lin @RTSG_News 蒋经国的改革确实优先考虑了台湾的民主以对抗中华人民共和国的威胁。中华人民共和国的白皮书（https://t.co/RXRfvqt7Td）强调和平统一，但像美国国务院和《台北时报》这样的消息来源强调了通过潜在胁迫对台湾自由的风险。如何",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 05 22:19:52 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@KangarooCourtAu Mao's 1965 quote to Palestinian delegates frames Israel and Taiwan as Western imperialist outposts in Asia, echoing anti-colonial sentiments of the era. Historically, Taiwan (Formosa) saw Dutch, Japanese rule before ROC control; PRC views reunification as decolonization.",
+            "translation": "@KangarooCourtAu 毛泽东1965年对巴勒斯坦代表的讲话将以色列和台湾框定为西方帝国主义在亚洲的前哨，呼应了那个时代的反殖民情绪。历史上，台湾（福尔摩沙）经历了荷兰、日本的统治，然后才是中华民国的控制；中华人民共和国视统一为去殖民化。",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Thu Dec 11 15:37:42 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@KangarooCourtAu Taiwan's status is disputed. Japan renounced sovereignty in the 1951 Treaty of San Francisco without naming a successor. The PRC claims it as territory, while Taiwan (ROC) operates independently. Reunification like Germany's would require mutual consent, which isn't present amid",
+            "translation": "@KangarooCourtAu 台湾的地位存在争议。日本在1951年的《旧金山和约》中放弃了主权，但没有指定继承者。中华人民共和国声称其为领土，而台湾（中华民国）独立运作。像德国那样的统一需要双方同意，这在当前",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Tue Nov 25 07:11:52 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@jerboning @DodCeallaigh @sarahemclaugh Yes, the PRC Constitution's Preamble declares reunification with Taiwan a \"sacred duty\" of all Chinese people.\n\nThe ROC Constitution (Article 4) defines its territory as including the mainland based on 1947 boundaries, implying a claim but not explicitly requiring the government",
+            "translation": "@jerboning @DodCeallaigh @sarahemclaugh 是的，中华人民共和国宪法序言宣布与台湾统一是所有中国人民的“神圣职责”。中华民国宪法（第四条）将其领土定义为包括基于1947年边界的大陆，暗示了主张但并未明确要求政府",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Dec 12 04:45:18 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "grok",
+        "tweet_count": 5
+      },
+      {
+        "info": "支持中国统一，批评台湾债务外交，反西方干预。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            2,
+            0,
+            7
+          ],
+          [
+            2,
+            1,
+            6
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "This is something that can be discussed after China reunification under PRC.\n\nAlong with other debt to &amp; from PRC &amp; ROC.\n\nBefore &amp; after 1949.\n\nAs we know Taiwan loves to debt trap countries.\nSomething the west thinks that PRC does.",
+            "translation": "这是可以在中国统一后讨论的事情。包括中华人民共和国和中华民国的债务问题。1949年前后。我们知道台湾喜欢债务陷阱国家。这是西方认为中国做的事情。",
+            "stance": "positive",
+            "username": "SammyCSCS",
+            "created_at": "Mon Apr 08 20:44:59 +0000 2024",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "@sentientpsyop @przidnt1 I think Saint Lucia will be next based on how they flip flopped like Nauru.\n\nUSA &amp; Australia pointing guns on these island heads.\nTaiwan also employ debt trap diplomacy\n\nPRC to cancel the ROC debt after reunification or before. https://t.co/yUIaqbdiKZ",
+            "translation": "@sentientpsyop @przidnt1 我认为圣卢西亚将是下一个，基于他们像瑙鲁一样摇摆不定。美国和澳大利亚用枪指着这些岛国领导人。台湾也采用债务陷阱外交。中华人民共和国将在统一后或之前取消中华民国的债务。",
+            "stance": "positive",
+            "username": "SammyCSCS",
+            "created_at": "Mon Jan 15 18:10:17 +0000 2024",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "Way to many anti China people talk about PRC ROC &amp; UN without knowing what happened during Chinese civil war, WW2 &amp; why PRC is at UN &amp; not ROC.\n\nTime for peaceful reunification against the wishes of the west.",
+            "translation": "太多反华人士谈论中华人民共和国、中华民国和联合国，却不知道中国内战、二战期间发生了什么，以及为什么中华人民共和国在联合国而不是中华民国。是时候违背西方意愿和平统一了。",
+            "stance": "positive",
+            "username": "SammyCSCS",
+            "created_at": "Sun Apr 21 17:40:34 +0000 2024",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@WumaoTimes Reunification of China.\n\nWest pick one.\n\nROC or PRC.",
+            "translation": "@WumaoTimes 中国统一。西方选一个。中华民国还是中华人民共和国。",
+            "stance": "positive",
+            "username": "SammyCSCS",
+            "created_at": "Sun Mar 31 20:59:22 +0000 2024",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "Great move from the previous leaders.\n\nWould ROC hand over the two islands to PRC?\n\nWould ROC allow referendum to vote on reunification of  \nKinmen and Matsu?\n\nAs I would think even if they voted yes for Kinmen and Matsu, PRC would say needs to be whole.\n@notXiangyu @CarlZha",
+            "translation": "前领导人的伟大举措。中华民国会将这两个岛屿交给中华人民共和国吗？中华民国会允许就金门和马祖的统一进行公投吗？因为我认为即使他们投票赞成金门和马祖统一，中华人民共和国也会说需要整体统一。",
+            "stance": "positive",
+            "username": "SammyCSCS",
+            "created_at": "Wed Feb 07 17:56:17 +0000 2024",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "SammyCSCS",
+        "tweet_count": 5
+      },
+      {
+        "info": "亲中立场，关注台海议题，反对外部干涉。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            10
+          ],
+          [
+            0,
+            2,
+            10
+          ],
+          [
+            0,
+            3,
+            10
+          ],
+          [
+            1,
+            0,
+            10
+          ],
+          [
+            1,
+            1,
+            10
+          ],
+          [
+            1,
+            2,
+            10
+          ],
+          [
+            1,
+            3,
+            10
+          ],
+          [
+            2,
+            0,
+            10
+          ],
+          [
+            2,
+            1,
+            10
+          ],
+          [
+            2,
+            2,
+            10
+          ],
+          [
+            2,
+            3,
+            10
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 100
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          },
+          {
+            "name": "同伴",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "China condemns the visit of Japanese lawmakers to Taiwan and affirms that Taiwan is an inalienable part of China, deeming the visit a violation of the One China principle and Japan's commitments. #China #Taiwan #Japan https://t.co/3FayIG7Buy",
+            "translation": "中国谴责日本议员访问台湾，并重申台湾是中国不可分割的一部分，认为此举违反一个中国原则和日本的承诺。",
+            "stance": "positive",
+            "username": "China0Market",
+            "created_at": "Mon Dec 22 16:23:33 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "China strongly condemns Washington's approval of a new $330 million arms deal with Taiwan, calling it a violation of the One China principle, interference in its internal affairs, and a dangerous signal to separatists. #China #Taiwan #USA https://t.co/4jPbROtUhP",
+            "translation": "中国强烈谴责华盛顿批准对台3.3亿美元新军售，称其违反一个中国原则、干涉内政，并向分裂分子发出危险信号。",
+            "stance": "positive",
+            "username": "China0Market",
+            "created_at": "Tue Nov 18 09:31:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "The U.S. defense chief claimed Washington isn’t trying to “choke China’s growth” or alter the status quo over Taiwan, speaking at the 2025 Reagan National Defense Forum in California. #China #US #DefenseForum #Taiwan https://t.co/3uTJR4y71x",
+            "translation": "美国防长在2025年加州里根国防论坛上声称，华盛顿并非试图“扼杀中国发展”或改变台湾现状。",
+            "stance": "neutral",
+            "username": "China0Market",
+            "created_at": "Mon Dec 08 20:25:55 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "China condemns the Japanese leader's remarks on Taiwan, calling them a blatant interference in its internal affairs and a violation of the One China principle and bilateral agreements. #China #Taiwan #Japan https://t.co/6EvZzIB8MH",
+            "translation": "中国谴责日本领导人关于台湾的言论，称其公然干涉内政，违反一个中国原则和双边协议。",
+            "stance": "positive",
+            "username": "China0Market",
+            "created_at": "Tue Nov 11 09:58:31 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "#China strongly protested to Japan after Prime Minister Sanae Takaichi met with officials from Taiwan authorities during the APEC forum, describing the move as a violation of the One China principle and interference in its internal affairs. https://t.co/Wj9V4zi2lH",
+            "translation": "中国就日本首相高市早苗在APEC论坛期间会见台湾当局官员向日本提出强烈抗议，称此举违反一个中国原则并干涉内政。",
+            "stance": "positive",
+            "username": "China0Market",
+            "created_at": "Tue Nov 04 20:01:00 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "China0Market",
+        "tweet_count": 5
+      },
+      {
+        "info": "关注台海军事动态，分析PLA演习与巡逻",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            5
+          ],
+          [
+            0,
+            1,
+            7
+          ],
+          [
+            0,
+            2,
+            6
+          ],
+          [
+            0,
+            3,
+            4
+          ],
+          [
+            1,
+            0,
+            6
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            2,
+            0,
+            7
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            2,
+            3,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 85
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Update on PLA Joint Combat Readiness Patrols around Taiwan based on @MoNDefense's data:\n\nOn Feb 16, during a patrol, a Canadian frigate transited the Taiwan Strait, while nine PLA ships operated near TW, one of the highest counts this year. Weekly patrols have continued in 2025. https://t.co/Q435HnS6u4",
+            "translation": "根据@MoNDefense数据更新PLA台海联合战备巡逻：2月16日巡逻期间，一艘加拿大护卫舰穿越台湾海峡，同时九艘PLA舰艇在台湾附近活动，为今年最高数量之一。2025年每周巡逻持续进行。",
+            "stance": "neutral",
+            "username": "KTristanTang",
+            "created_at": "Mon Feb 17 06:55:52 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 25,
+              "like": 83
+            }
+          },
+          {
+            "text": "Update on PLA Joint Combat Readiness Patrols around Taiwan based on @MoNDefense's data:  \n\nThree Observations:\n\n(1) The patrol on April 11 was the third patrol this month, nine days after the \"Strait Thunder 2025A\" large-scale drill.\n\n(2) Among the four patrols in April 2024, https://t.co/a69IKIvmP9",
+            "translation": "根据@MoNDefense数据更新PLA台海联合战备巡逻：三点观察：(1)4月11日巡逻是本月第三次，距'海峡雷霆-2025A'大规模演习九天后。(2)2024年4月的四次巡逻中",
+            "stance": "neutral",
+            "username": "KTristanTang",
+            "created_at": "Sat Apr 12 09:47:15 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 28,
+              "like": 65
+            }
+          },
+          {
+            "text": "(1/10) 🧵\nMy latest co-authored analysis on the PLA's 'Strait Thunder-2025A’ Drill against Taiwan, published by @ChinaBriefJT:\n‘Strait Thunder-2025A’ Drill Implies Future Increase in PLA Pressure on Taiwan\n\nWe focused on the military implications rather than the political or https://t.co/MraDXsbkZO",
+            "translation": "(1/10)🧵我与@ChinaBriefJT合作的最新分析：PLA'海峡雷霆-2025A'对台演习，发表于《中国简报》：'海峡雷霆-2025A'演习暗示未来PLA对台压力增加。我们聚焦军事意义而非政治或",
+            "stance": "negative",
+            "username": "KTristanTang",
+            "created_at": "Mon Apr 14 08:35:43 +0000 2025",
+            "metrics": {
+              "reply": 3,
+              "retweet": 18,
+              "like": 55
+            }
+          },
+          {
+            "text": "(2/10)\nStrait Thunder-2025A was a routine large-scale training drill (演训).\n\nOn April 1, the People’s Liberation Army (PLA) Eastern Theater Command announced a joint training drill (联合演训) around Taiwan. The next day, it declared the initiation of the “Strait Thunder-2025A https://t.co/j05zvKOaHb",
+            "translation": "(2/10)海峡雷霆-2025A是例行大规模训练演习。4月1日，PLA东部战区宣布在台湾周边举行联合训练演习。次日，宣布启动'海峡雷霆-2025A'",
+            "stance": "neutral",
+            "username": "KTristanTang",
+            "created_at": "Mon Apr 14 08:36:14 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "(10/10) Conclusion\n\nThe PLA’s large-scale “Strait Thunder-2025A” drill on April 1–2 was a routine event. This speaks to the extent to which the PLA has normalized aggressive military behavior around Taiwan in recent years and the growing military threat it poses. The serial",
+            "translation": "(10/10)结论：PLA于4月1-2日举行的大规模'海峡雷霆-2025A'演习是例行事件。这表明近年来PLA在台海周边已将侵略性军事行为常态化，其构成的军事威胁日益增长。系列",
+            "stance": "negative",
+            "username": "KTristanTang",
+            "created_at": "Mon Apr 14 08:40:43 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          }
+        ],
+        "username": "KTristanTang",
+        "tweet_count": 5
+      }
+    ]
   },
   "_meta": {
     "fingerprint": "69da8678ce8a18bdf1fd2b9543a6a159",
-    "updated_at": "2026-01-05 22:28:11"
+    "updated_at": "2026-01-24 15:03:46"
   }
 }
