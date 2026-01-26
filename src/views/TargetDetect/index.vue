@@ -164,7 +164,7 @@
                     <div v-for="(tweet, idx) in filteredTweets" :key="idx" class="tweet-card-enhanced">
                       
                       <div class="te-header">
-                        <div class="te-date">{{ formatDate(tweet.created_at) }}</div>
+                        <!--div class="te-date">{{ formatDate(tweet.created_at) }}</div-->
                         <div class="te-stance" :class="getStanceClass(tweet.stance)">
                           {{ tweet.stance || '未研判' }}
                         </div>

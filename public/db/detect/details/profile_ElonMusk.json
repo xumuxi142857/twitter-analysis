@@ -1,0 +1,313 @@
+{
+  "id": "profile_ElonMusk.json",
+  "_fingerprint": "a98dc31978c64e7368a2c601dc6609fc",
+  "name": "ElonMusk",
+  "username": "elonmusk",
+  "category": "politician",
+  "daily_count": 10.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等外向性、低宜人性、中等神经质",
+      "detail": "开放性极高：频繁分享前沿科技（AI、机器人、太空探索）、哲学思考（第一性原理）、社会议题（人口结构、言论自由），展现强烈求知欲和创新驱动。尽责性高：专注目标实现（特斯拉充电站建设、Grok开发），强调原则性推理。外向性中等：通过社交媒体广泛传播观点，但内容多为转发而非深度互动。宜人性低：常转发争议性内容（如文化冲突、政治批评），立场鲜明且不避冲突。神经质中等：偶有情绪化表达（\"Messed up\"、\"Wow\"），但整体以理性框架为主。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "对抗性倾向、过度自信、共情选择性、冲动性表达",
+      "detail": "对抗性倾向：频繁转发批评\"觉醒文化\"、政府政策、媒体偏见的言论，享受挑战主流叙事。过度自信：以\"第一性原理\"自居，常以绝对化语言（\"Correct\"、\"True facts!\"）断言复杂议题。共情选择性：对特定群体（如基督徒、英语使用者）显示支持，但对其他群体（如无家可归者问题）仅作抽象评论，缺乏系统性共情。冲动性表达：简短情绪化回应（\"This keeps happening\"、\"Wow\"）可能未经深思，易被解读为轻率。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "技术乐观主义、自由意志主义、反建制倾向、宏大叙事偏好",
+      "detail": "技术乐观主义：坚信AI、机器人、太空探索将带来\"可持续的丰裕\"，视技术为解决社会问题的根本途径。自由意志主义：强调经济非零和博弈、言论自由、个人责任，反对政府过度干预。反建制倾向：质疑主流媒体、教育体系、政治机构（如批评加州政策），常站在体制对立面。宏大叙事偏好：关注文明兴衰（人口替代）、宇宙理解（Grok目标）、人类未来等宏观议题，忽视微观社会复杂性。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "社交媒体依赖、争议性内容放大、即时反应模式、品牌风险",
+      "detail": "社交媒体依赖：主要通过推特传播观点，易受平台算法、热点话题裹挟，深度思考空间被压缩。争议性内容放大：转发极化议题（如文化冲突、政治迫害）可能激化对立，模糊个人与企业形象边界。即时反应模式：简短转发或评论缺乏上下文，易被断章取义或误解意图。品牌风险：将个人政治、社会观点与特斯拉、SpaceX等企业关联，可能引发消费者或监管反弹。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "西方中心主义视角、精英主义盲点、技术解决方案主义、文化保守倾向",
+      "detail": "西方中心主义视角：关注欧美社会议题（如美国政治、欧洲人口），对全球南方问题涉猎较少。精英主义盲点：强调\"第一性原理\"和理性决策，可能低估社会情感、文化传统等非理性因素。技术解决方案主义：过度依赖技术解决复杂社会问题（如无家可归），忽视政治经济结构性因素。文化保守倾向：支持\"说英语\"、基督教等传统价值，与多元文化主义存在潜在冲突。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "多领域涉猎但深度不均、系统性思维局限、风险感知偏差、团队依赖盲区",
+      "detail": "多领域涉猎但深度不均：从物理学到社会政策广泛评论，但部分领域（如人口学、政治学）依赖二手信息，专业深度不足。系统性思维局限：强调个体理性（如经济非零和），但对系统不平等、权力结构分析较浅。风险感知偏差：对技术风险（如AI）乐观，对社会风险（如言论自由冲突）敏感，评估标准不一致。团队依赖盲区：作为领导者，可能高估个人判断，低估团队或顾问的纠错作用。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "救世主情结、对抗性认同、认知闭合需求、情感隔离机制",
+      "detail": "救世主情结：以\"理解宇宙\"、\"拯救人类未来\"自许，可能过度承担个人责任，忽视集体协作。对抗性认同：通过反对主流叙事（如\"觉醒文化\"、媒体）强化自我身份，易陷入二元对立思维。认知闭合需求：使用\"Correct\"、\"True facts!\"等绝对化语言，反映对不确定性的低容忍度。情感隔离机制：以理性框架处理社会苦难（如无家可归），可能压抑共情反应，显得冷漠。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造科技先知形象、扩大意识形态影响力、商业生态赋能、个人品牌护城河",
+      "detail": "塑造科技先知形象：通过转发第一性原理、宇宙探索等内容，巩固\"未来塑造者\"公众认知。扩大意识形态影响力：推广自由意志主义、反建制观点，寻求政治文化话语权。商业生态赋能：以个人影响力为特斯拉、SpaceX、Grok等产品引流或辩护。个人品牌护城河：通过争议性话题保持媒体关注度，防止被边缘化。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "科技与创新、政治与社会评论、文化与价值观、商业与品牌",
+      "detail": "科技与创新：AI、机器人、太空探索、电动汽车、第一性原理思维。政治与社会评论：言论自由、政府政策批评、经济哲学、社会问题（无家可归、人口结构）。文化与价值观：基督教支持、英语推广、传统价值维护、反对\"觉醒文化\"。商业与品牌：特斯拉充电网络、Grok AI推广、个人与企业品牌联动。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      2,
+      8
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Thu Dec 18 19:52:57 +0000 2025",
+      "text": "The future is going to be AMAZING with AI and robots enabling sustainable ABUNDANCE for all!",
+      "translation": "人工智能和机器人将为所有人带来可持续的丰裕，未来将会非常美好！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 33577,
+        "retweet": 16340,
+        "like": 168835
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 22:11:50 +0000 2025",
+      "text": "True",
+      "translation": "正确",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2424,
+        "retweet": 5014,
+        "like": 38369
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:25:08 +0000 2025",
+      "text": "RT @libsoftiktok: “There’s no separating Minnesota from our Somali brothers &amp; sisters. There’s no reason that every person has to go to bed…",
+      "translation": "转发 @libsoftiktok：“明尼苏达州与我们的索马里兄弟姐妹密不可分。没有理由让每个人都在饥饿中入睡...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 472,
+        "retweet": 945,
+        "like": 5870
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:24:19 +0000 2025",
+      "text": "RT @MattWalshBlog: Coming soon: a new series revealing the truth behind some of the most mischaracterized, misunderstood, and misrepresente…",
+      "translation": "转发 @MattWalshBlog：即将推出：一个揭示一些最被误解、曲解和错误描述事件真相的新系列...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 275,
+        "retweet": 370,
+        "like": 3139
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:20:31 +0000 2025",
+      "text": "This keeps happening to innocent people",
+      "translation": "这种事不断发生在无辜者身上",
+      "stance": "无关",
+      "metrics": {
+        "reply": 723,
+        "retweet": 463,
+        "like": 3562
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:15:43 +0000 2025",
+      "text": "Yes!",
+      "translation": "是的！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 581,
+        "retweet": 257,
+        "like": 2491
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:14:58 +0000 2025",
+      "text": "Crazy",
+      "translation": "疯狂",
+      "stance": "无关",
+      "metrics": {
+        "reply": 434,
+        "retweet": 252,
+        "like": 1744
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:08:47 +0000 2025",
+      "text": "Wow https://t.co/a7DbOQcVWU",
+      "translation": "哇 https://t.co/a7DbOQcVWU",
+      "stance": "无关",
+      "metrics": {
+        "reply": 566,
+        "retweet": 518,
+        "like": 2551
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:03:07 +0000 2025",
+      "text": "Turn any picture on your phone into a video and then edit it to make a fun viral video!",
+      "translation": "将手机上的任何图片转换成视频，然后编辑制作成有趣的病毒式视频！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 809,
+        "retweet": 349,
+        "like": 2647
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 15:00:59 +0000 2025",
+      "text": "Why homelessness is never fixed",
+      "translation": "为什么无家可归问题永远无法解决",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1148,
+        "retweet": 1251,
+        "like": 7372
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:59:15 +0000 2025",
+      "text": "RT @testerlabor: Grok's slogan is “To Understand\" &amp; \"Understand the Universe” and this is the main goal of Grok in order to find the whole…",
+      "translation": "转发 @testerlabor：Grok的口号是“理解”和“理解宇宙”，这是Grok寻找整体真相的主要目标...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 151,
+        "retweet": 112,
+        "like": 617
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:50:03 +0000 2025",
+      "text": "RT @JDVance: Nicki Minaj said something at Amfest that was really profound. I'm paraphrasing, but she said, \"just because I want little bla…",
+      "translation": "转发 @JDVance：妮琪·米娜在Amfest上说了些非常深刻的话。我转述一下，她说：“仅仅因为我想要小黑裙...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2910,
+        "retweet": 4881,
+        "like": 43817
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:47:29 +0000 2025",
+      "text": "Correct",
+      "translation": "正确",
+      "stance": "无关",
+      "metrics": {
+        "reply": 975,
+        "retweet": 845,
+        "like": 8109
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:42:38 +0000 2025",
+      "text": "Grok",
+      "translation": "Grok",
+      "stance": "无关",
+      "metrics": {
+        "reply": 913,
+        "retweet": 537,
+        "like": 5182
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:42:23 +0000 2025",
+      "text": "RT @PeterSweden7: Nicki Minaj is right.\n\nWe need to stand up for Christians that are being persecuted.\n\nChristians are the most persecuted…",
+      "translation": "转发 @PeterSweden7：妮琪·米娜说得对。我们需要为受迫害的基督徒挺身而出。基督徒是受迫害最严重的群体...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 281,
+        "retweet": 790,
+        "like": 5282
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:37:33 +0000 2025",
+      "text": "RT @cb_doge: \"We want to make Starfleet Academy real. Let's go out there and visit other star systems and see if there are alien civilizati…",
+      "translation": "转发 @cb_doge：“我们想让星际舰队学院成为现实。让我们去探索其他恒星系统，看看是否存在外星文明...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 492,
+        "retweet": 392,
+        "like": 3147
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 09:37:05 +0000 2025",
+      "text": "RT @teslaownersSV: “Physics teaches you to reason from first principles rather than by analogy.”\n\nElon Musk\n https://t.co/RzPBoRknJe",
+      "translation": "转发 @teslaownersSV：“物理学教你从第一性原理推理，而不是通过类比。” 埃隆·马斯克 https://t.co/RzPBoRknJe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 601,
+        "retweet": 653,
+        "like": 4080
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 09:28:22 +0000 2025",
+      "text": "RT @ElonClipsX: Elon Musk: A lot of the negativity stems from the axiomatic flaw that the economic pie is static, that it's a zero-sum game…",
+      "translation": "转发 @ElonClipsX：埃隆·马斯克：许多负面情绪源于一个公理上的错误，即经济蛋糕是静态的，是零和游戏...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 442,
+        "retweet": 866,
+        "like": 4810
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 06:43:46 +0000 2025",
+      "text": "RT @testerlabor: Did you know that Grok saves time? Grok does web searches, creates documents, videos or games for you. And it does all thi…",
+      "translation": "转发 @testerlabor：你知道Grok能节省时间吗？Grok能进行网络搜索，为你创建文档、视频或游戏。而且它免费完成所有这些...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 364,
+        "retweet": 429,
+        "like": 2284
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 06:25:23 +0000 2025",
+      "text": "Rapid evolution",
+      "translation": "快速进化",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3161,
+        "retweet": 3276,
+        "like": 31093
+      }
+    }
+  ]
+}

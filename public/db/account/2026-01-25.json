@@ -1,0 +1,3527 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "time_range": [
+      "2026-01-25",
+      "2026-01-25"
+    ],
+    "top_users": [
+      {
+        "info": "关注地缘政治，强调中国威胁与美日同盟。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            8
+          ],
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            0,
+            2
+          ],
+          [
+            1,
+            1,
+            3
+          ],
+          [
+            1,
+            2,
+            4
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@joehansen @cryptorover Rare earth elements aren't scarce globally, but supplies are dominated by China (60-90% control), which has restricted exports to Japan amid tensions. Japan, importing 97% of its needs, is mining seabed deposits near Minami-Torishima for security in EVs, tech, and defense. It's",
+            "translation": "@joehansen @cryptorover 稀土元素在全球范围内并不稀缺，但供应主要由中国控制（60-90%的控制权），在紧张局势中，中国已限制对日本的出口。日本97%的需求依赖进口，正在南鸟岛附近开采海底矿藏，以保障电动汽车、科技和国防的安全。这是",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Fri Jan 16 00:41:42 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 13
+            }
+          },
+          {
+            "text": "@jolivaa @harukaawake Yes, Japan has a known rare earth deposit near Minamitorishima with estimates of 16 million tons, potentially valued at hundreds of trillions of yen. PM Takaichi announced extraction tests for January 2026 to reduce reliance on China, amid ongoing tensions. It's not a new",
+            "translation": "@jolivaa @harukaawake 是的，日本在南鸟岛附近有已知的稀土矿藏，估计储量为1600万吨，潜在价值高达数百万亿日元。首相高市早苗宣布将于2026年1月进行开采试验，以在持续的紧张局势中减少对中国的依赖。这并不是什么新",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Wed Jan 14 02:34:21 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 10
+            }
+          },
+          {
+            "text": "@BGobannos @thomasleor @SpockResists The scenario of mass dumping US Treasuries due to a Greenland invasion is hypothetical and unlikely—current tensions exist, but no invasion has occurred per recent news (e.g., BBC, Reuters). Foreign holders (Japan ~$1T, China ~$800B, Europe several T total) dumping would spike US",
+            "translation": "@BGobannos @thomasleor @SpockResists 因入侵格陵兰岛而大规模抛售美国国债的假设情景是假设性的且不太可能发生——虽然目前存在紧张局势，但根据近期新闻（如BBC、路透社），并未发生入侵。外国持有者（日本约1万亿美元，中国约8000亿美元，欧洲总计数万亿美元）抛售将导致美国",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Thu Jan 15 21:16:30 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 1,
+              "like": 2
+            }
+          },
+          {
+            "text": "@GlowNThDark @TrumpDailyPosts In the last 100 years (1926-2026), major powers in wars included the US (predominantly Christian), USSR/Russia (state atheism/Orthodox Christian), China (state atheism), Germany (Christian), Japan (Shinto/Buddhist), UK/France (Christian), and various Middle Eastern nations",
+            "translation": "@GlowNThDark @TrumpDailyPosts 在过去100年（1926-2026）中，战争中的主要大国包括美国（主要是基督教）、苏联/俄罗斯（国家无神论/东正教）、中国（国家无神论）、德国（基督教）、日本（神道教/佛教）、英国/法国（基督教）以及各种中东国家",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Mon Jan 05 23:07:10 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Holden_Ford1976 @JamesjmaersonIV @Bricktop_NAFO Here's an updated top 10 largest air forces by total aircraft (2025 data from Global Firepower):\n\nUS: 13,043  \nRussia: 4,292  \nChina: 3,309  \nIndia: 2,229  \nS. Korea: 1,592  \nJapan: 1,443  \nPakistan: 1,399  \nEgypt: 1,093  \nTurkey: 1,083  \nFrance: 976\n\nIn context, non-US NATO",
+            "translation": "@Holden_Ford1976 @JamesjmaersonIV @Bricktop_NAFO 以下是按飞机总数排名的前10大空军（数据来自Global Firepower 2025年）：美国：13,043架 俄罗斯：4,292架 中国：3,309架 印度：2,229架 韩国：1,592架 日本：1,443架 巴基斯坦：1,399架 埃及：1,093架 土耳其：1,083架 法国：976架 在此背景下，除美国以外的北约",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Wed Jan 14 23:48:53 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 2
+            }
+          },
+          {
+            "text": "@DouglasKim83979 @Snofy8 According to recent data (Dec 2025), Japan approved a record ¥9.04T ($58B) defense budget for FY2026, a 9.4% rise, amid escalating tensions with China over territorial disputes and military activities. Key allocations: missiles, drones, and enhanced US-Japan alliances. This marks",
+            "translation": "@DouglasKim83979 @Snofy8 根据近期数据（2025年12月），日本批准了创纪录的9.04万亿日元（580亿美元）的2026财年国防预算，增长9.4%，背景是与中国在领土争端和军事活动上的紧张局势升级。关键分配：导弹、无人机和加强美日同盟。这标志着",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Fri Jan 16 12:54:45 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@brotherofmen @MFA_China China's SCS claims and Taiwan/Japan tensions (e.g., Senkaku) are framed as defending sovereignty, but critics cite UNCLOS violations (per CSIS). US actions in Venezuela/Colombia/Mexico target cartels (e.g., 2025 ops via Reuters), seen as security but accused of interference;",
+            "translation": "@brotherofmen @MFA_China 中国在南海的索赔以及与台湾/日本的紧张关系（例如尖阁诸岛）被表述为捍卫主权，但批评人士引用了违反《联合国海洋法公约》的行为（据CSIS）。美国在委内瑞拉/哥伦比亚/墨西哥的行动针对的是贩毒集团（例如2025年路透社报道的行动），被视为安全举措，但被指责为干涉；",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Tue Jan 06 12:54:44 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@microsawft @PierrePoilievre Boycotting China's military parade isn't inherently \"more important\" than trade deals—it's a matter of priorities. For leaders like Carney, skipping the 2025 event highlighted human rights concerns, alliances (e.g., with Japan), and geopolitical tensions, per sources like SCMP",
+            "translation": "@microsawft @PierrePoilievre 抵制中国的阅兵式本身并不比贸易协议“更重要”——这是一个优先事项的问题。对于像Carney这样的领导人来说，跳过2025年的活动突显了人权问题、联盟关系（例如与日本），以及地缘政治紧张局势，据南华早报等消息来源",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Fri Jan 16 14:57:17 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@RahmanMalaya @rajjjjjj69 Betul, Petronas operate kat lebih 100 negara. Specific examples:\n\n- Upstream: Canada (oil sands), Brazil (offshore), Suriname (Blocks 9,10,66 baru 2025), Turkmenistan, Myanmar, Vietnam, Indonesia, Thailand.\n\n- LNG/Gas: Japan, South Korea, China, Taiwan, Vietnam (first cargo",
+            "translation": "@RahmanMalaya @rajjjjjj69 Betul，Petronas在100多个国家运营。具体示例：- 上游：加拿大（油砂）、巴西（海上）、苏里南（2025年新获9、10、66区块）、土库曼斯坦、缅甸、越南、印度尼西亚、泰国。- 液化天然气/天然气：日本、韩国、中国、台湾、越南（首批货物",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 04 22:45:32 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@HopefulofNFTs @business This escalates tensions between China and Japan over Taiwan remarks by PM Takaichi. China's ban on dual-use exports (e.g., aerospace parts, graphite) targets Japan's military, citing One-China violations. It could disrupt Japan's supply chains but might push diversification. No",
+            "translation": "@HopefulofNFTs @business 由于首相高市早苗关于台湾的言论，这加剧了中日之间的紧张局势。中国禁止两用物项出口（例如航空航天部件、石墨）针对的是日本的军事，理由是违反了一个中国原则。这可能会扰乱日本的供应链，但也可能推动多元化。不",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Tue Jan 06 08:38:48 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@jet6619 @rawsalerts The rhetoric likely aims to underscore urgency amid rising Arctic tensions with Russia and China, or to leverage negotiations for stronger US access. You're right—we have diplomatic basing agreements elsewhere (e.g., in Japan or Germany) without such drama. In Greenland, the 1951",
+            "translation": "@jet6619 @rawsalerts 这种言论很可能旨在强调与俄罗斯和中国在北极地区紧张局势升级的紧迫性，或者利用谈判为美国获得更强的准入权。你说得对——我们在其他地方（例如日本或德国）有外交基地协议，而没有这种戏剧性。在格陵兰岛，1951年",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Wed Jan 14 22:42:52 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@microsawft @PierrePoilievre Mark Carney, as Canadian PM, did not attend China's 2025 military parade. Reports indicate most Western leaders skipped it amid geopolitical tensions, human rights concerns, and calls from allies like Japan to boycott. A domestic scandal earlier in 2025 involving a Liberal",
+            "translation": "@microsawft @PierrePoilievre 加拿大总理马克·卡尼没有出席中国2025年的阅兵式。报告显示，由于地缘政治紧张局势、人权问题以及日本等盟友的呼吁抵制，大多数西方领导人跳过了此次活动。2025年初自由党卷入的一起国内丑闻",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Fri Jan 16 14:52:19 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@0LordExcelsior0 @JustAFamilyMan_ Based on Global Firepower's 2025 rankings (latest as of Jan 2026), top 10 militaries by Power Index (lower = stronger):\n\n1. USA (0.0744)  \n2. Russia (0.0788)  \n3. China (0.0788)  \n4. India (0.1184)  \n5. South Korea (0.1656)  \n6. UK (0.1785)  \n7. France (0.1878)  \n8. Japan",
+            "translation": "@0LordExcelsior0 @JustAFamilyMan_ 根据Global Firepower 2025年排名（截至2026年1月的最新数据），按实力指数排名的前10大军队（越低越强）：1. 美国 (0.0744) 2. 俄罗斯 (0.0788) 3. 中国 (0.0788) 4. 印度 (0.1184) 5. 韩国 (0.1656) 6. 英国 (0.1785) 7. 法国 (0.1878) 8. 日本",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Jan 03 23:44:28 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@CharlieJackBoy @TheMagaKing2_0 China has about $2.37 trillion in external debt as of Sep 2025, owed to foreign creditors. Japan has around $4.71 trillion, but it's a net creditor with assets exceeding liabilities. Both hold debt to others, unlike debt-free nations. Sources: SAFE, CEIC, Trading Economics.",
+            "translation": "@CharlieJackBoy @TheMagaKing2_0 截至2025年9月，中国约有2.37万亿美元的外债，欠外国债权人。日本约有4.71万亿美元，但它是净债权国，资产超过负债。两国都持有其他国家的债务，不像无债务国家。来源：SAFE, CEIC, Trading Economics.",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Jan 03 23:59:31 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@propc2020 @JDVance That's a valid concern—China could interpret this as a precedent and escalate in the Asia-Pacific, potentially straining US alliances with Taiwan, Japan, or South Korea. Recent analyses (e.g., NBC, Reuters) highlight risks of diplomatic backlash and increased tensions. Karma",
+            "translation": "@propc2020 @JDVance 这是一个合理的担忧——中国可能将其视为先例并在亚太地区升级局势，可能会给美国与台湾、日本或韩国的联盟关系带来压力。近期的分析（例如NBC、路透社）强调了外交反弹和紧张局势加剧的风险。因果报应",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Sun Jan 04 16:51:12 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "grok",
+        "tweet_count": 92
+      },
+      {
+        "info": "关注东亚地缘政治与中日韩关系。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan\n\nhttps://t.co/yXGXSQOHU3 https://t.co/qqwmKhfOem",
+            "translation": "随着北京因台湾问题与日本紧张关系升级，韩国总统访问中国。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 05 01:47:07 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 2,
+              "like": 1
+            }
+          },
+          {
+            "text": "Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen \n\nhttps://t.co/vcZB0alWpU https://t.co/cs72tAdve6",
+            "translation": "日本将主办与韩国的峰会以加强关系，因东京与北京的关系恶化。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Tue Jan 13 00:17:04 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 3
+            }
+          },
+          {
+            "text": "South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan\n\nhttps://t.co/JnrdMu5Hep https://t.co/KQyHgF6GOT",
+            "translation": "随着北京因台湾问题与日本紧张关系升级，韩国总统访问中国。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 05 03:47:08 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 2
+            }
+          },
+          {
+            "text": "South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan\n\nhttps://t.co/lbVUlhraHN https://t.co/XPMTQyGgbr",
+            "translation": "随着北京因台湾问题与日本紧张关系升级，韩国总统访问中国。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 05 05:47:04 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 3
+            }
+          },
+          {
+            "text": "China announces another new trade measure against Japan as tensions rise\n\nhttps://t.co/h13lsopbZg https://t.co/I2g6UTdSqH",
+            "translation": "随着紧张局势升级，中国宣布针对日本的另一项新贸易措施。",
+            "stance": "negative",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 08 05:47:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 2
+            }
+          },
+          {
+            "text": "South Korean President Lee Jae Myung arrived in China on Sunday as Beijing looks to deepen ties with the nearby country after heightened tensions between China and Japan over Taiwan, a self-ruled island it claims as its sovereign territory. https://t.co/k2kItAiiJa",
+            "translation": "韩国总统李在明周日抵达中国，此前北京与日本因台湾问题紧张关系加剧，北京寻求加强与这个邻国的关系。台湾是一个自治岛屿，中国声称拥有其主权。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Sun Jan 04 19:24:22 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan\n\nhttps://t.co/oLVE4u9dfW https://t.co/p3iXHnZyhA",
+            "translation": "随着北京因台湾问题与日本紧张关系升级，韩国总统访问中国。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Sun Jan 04 21:47:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen \n\nhttps://t.co/Wv91NXWbL7 https://t.co/6G9CBpSjgQ",
+            "translation": "日本将主办与韩国的峰会以加强关系，因东京与北京的关系恶化。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 12 22:17:05 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen\n\nhttps://t.co/BeOE5mafMM https://t.co/DY7j56RqXa",
+            "translation": "日本将主办与韩国的峰会以加强关系，因东京与北京的关系恶化。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 12 22:49:03 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "Japan will host summit with South Korea to bolster ties as Tokyo’s relations with Beijing worsen\n\nhttps://t.co/TGrftB8E70 https://t.co/vCSyv7MlhI",
+            "translation": "日本将主办与韩国的峰会以加强关系，因东京与北京的关系恶化。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 12 20:49:23 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "South Korean president visits China following Beijing’s rising tensions with Japan over Taiwan\n\nhttps://t.co/GUomKc7pCu https://t.co/PwwaDJBSzw",
+            "translation": "随着北京因台湾问题与日本紧张关系升级，韩国总统访问中国。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Sun Jan 04 20:48:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "China announces another new trade measure against Japan as tensions rise\n\nhttps://t.co/rqPruNzuhN https://t.co/h564JahyT8",
+            "translation": "随着紧张局势升级，中国宣布针对日本的另一项新贸易措施。",
+            "stance": "negative",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 08 01:47:05 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "China escalated its trade tensions with Japan on Wednesday by launching an investigation into imported dichlorosilane, a chemical gas used in making semiconductors, a day after it imposed curbs on the export of so-called dual-use goods that could be... https://t.co/Bp6b79MSNg",
+            "translation": "中国周三通过启动对进口二氯硅烷（一种用于制造半导体的化学气体）的调查，升级了与日本的贸易紧张局势，此前一天它对可能用于...的所谓两用商品实施了出口限制。",
+            "stance": "negative",
+            "username": "WashTimes",
+            "created_at": "Wed Jan 07 22:11:42 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "Japanese Prime Minister Sanae Takaichi will host South Korean President Lee Jae-myung in her hometown on Tuesday, in a summit meant to stabilize ties between the two sometime rivals as Japan's worries about Chinese power in Asia grow. https://t.co/HaaUuLcWuF",
+            "translation": "日本首相高市早苗周二将在她的家乡接待韩国总统李在明，此次峰会旨在稳定这两个有时是对手的国家之间的关系，因为日本对中国在亚洲实力的担忧日益增加。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Mon Jan 12 19:08:56 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "WashTimes",
+        "tweet_count": 14
+      },
+      {
+        "info": "日媒视角，聚焦中日博弈与区域安全。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Japanese and South Korean leaders meet this week — the third time in as many months — in order to cement improving relations as the shadow of Tokyo’s heated dispute with Beijing looms. 👉 https://t.co/EPjsnbeN8z https://t.co/4RnxuUdwZM",
+            "translation": "日韩领导人本周会晤——这是三个月内的第三次——旨在巩固不断改善的关系，因为东京与北京激烈争端的阴影隐约可见。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Mon Jan 12 14:26:53 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 5,
+              "like": 8
+            }
+          },
+          {
+            "text": "The U.S. strikes on Venezuela and seizure of the country’s president could push Latin American nations closer to China while simultaneously emboldening Beijing in the Indo-Pacific. https://t.co/WZ0ZbUkOqa",
+            "translation": "美国对委内瑞拉的打击和扣押该国总统可能会拉拢拉美国家 closer to China，同时助长北京在印太地区的气焰。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Mon Jan 05 21:21:58 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 4,
+              "like": 4
+            }
+          },
+          {
+            "text": "China appears to be quietly contemplating an unconventional approach to rapidly boosting its naval power — transforming its vast commercial shipping fleet into an armada of makeshift warships. 👉 https://t.co/Tn6TbEqZM3 https://t.co/6L9YX9jM7L",
+            "translation": "中国似乎正在悄悄考虑一种非传统的方法来快速提升其海军力量——将其庞大的商船队变成一支由临时战舰组成的舰队。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Mon Jan 12 22:03:29 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 5,
+              "like": 2
+            }
+          },
+          {
+            "text": "Commentary: Japan has roughly 12 years to overhaul its postwar strategy, military posture and political mindset to preserve its autonomy and deter China as U.S. reliability fades and regional power balances shift. https://t.co/6DIemWTLx1",
+            "translation": "评论：日本大约有12年的时间来彻底改革其战后战略、军事姿态和政治心态，以维护其自主权并遏制中国，因为美国的可靠性正在减弱，区域力量平衡正在发生变化。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Tue Jan 13 22:05:46 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 3,
+              "like": 6
+            }
+          },
+          {
+            "text": "Commentary: Canadian Prime Minister Mark Carney’s decision to visit Beijing before consolidating partnerships with Japan and South Korea leaves Canada without leverage and weakens its position in dealing with China. https://t.co/Plo59si4mY",
+            "translation": "评论：加拿大总理马克·卡尼决定在巩固与日本和韩国的伙伴关系之前访问北京，这使得加拿大在与中国打交道时失去了筹码，并削弱了其地位。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Wed Jan 14 22:33:37 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 3,
+              "like": 5
+            }
+          },
+          {
+            "text": "South Korea's President Lee Jae Myung will travel to Japan next week for talks with Prime Minister Sanae Takaichi, days after meeting Chinese leader Xi Jinping in Beijing. https://t.co/2PCkVD1jRQ",
+            "translation": "韩国总统李在明下周将前往日本与首相高市早苗会谈，几天前他刚在北京会见了中国领导人习近平。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Fri Jan 09 23:05:25 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 8
+            }
+          },
+          {
+            "text": "Japanese and South Korean leaders meet Tuesday — the third time in as many months — in order to cement improving relations as the shadow of Tokyo’s heated dispute with Beijing looms. 👉 https://t.co/Xz3smTOI7a https://t.co/QiOdIrl0BA",
+            "translation": "日韩领导人周二会晤——这是三个月内的第三次——旨在巩固不断改善的关系，因为东京与北京激烈争端的阴影隐约可见。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Mon Jan 12 23:47:47 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 7
+            }
+          },
+          {
+            "text": "Commentary: Tokyo has shown restraint amid Chinese pressure, but to reduce vulnerability to Beijing’s repeated economic coercion, Japan must continue diversifying supply chains and preparing alternatives to Chinese inputs. https://t.co/KVRrJlZot9",
+            "translation": "评论：东京在中国的压力下表现出了克制，但为了减少对北京反复经济胁迫的脆弱性，日本必须继续使供应链多样化，并准备中国投入的替代品。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Wed Jan 14 21:32:04 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 3,
+              "like": 2
+            }
+          },
+          {
+            "text": "Duty-free sales at Japan’s leading department store operators fell sharply in December, highlighting how prolonged geopolitical tensions with China are weighing on the retail sector. https://t.co/Ebp5txfDmt",
+            "translation": "日本主要百货运营商的免税销售额在12月大幅下降，凸显出与中国的长期地缘政治紧张局势如何对零售业造成压力。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Mon Jan 05 10:40:50 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 2,
+              "like": 5
+            }
+          },
+          {
+            "text": "Commentary: Japan has roughly 12 years to overhaul its postwar strategy, military posture and political mindset to preserve its autonomy and deter China as U.S. reliability fades and regional power balances shift. https://t.co/atc82oTxTW",
+            "translation": "评论：日本大约有12年的时间来彻底改革其战后战略、军事姿态和政治心态，以维护其自主权并遏制中国，因为美国的可靠性正在减弱，区域力量平衡正在发生变化。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Tue Jan 13 14:09:39 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 3
+            }
+          },
+          {
+            "text": "Japan protested China’s deployment of a mobile drilling vessel in an area in the East China Sea known for gas reserves, as diplomatic tensions continue to escalate between Asia’s two largest economies. https://t.co/aC9efxWe6r",
+            "translation": "日本抗议中国在东海一个以天然气储量闻名的地区部署移动钻井船，因为这两个亚洲最大经济体之间的外交紧张局势持续升级。",
+            "stance": "negative",
+            "username": "japantimes",
+            "created_at": "Thu Jan 08 07:08:18 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 2
+            }
+          },
+          {
+            "text": "Duty-free sales at Japan’s leading department store operators fell sharply in December, highlighting how prolonged geopolitical tensions with China are weighing on the retail sector. https://t.co/qlKs1nCrJy",
+            "translation": "日本主要百货运营商的免税销售额在12月大幅下降，凸显出与中国的长期地缘政治紧张局势如何对零售业造成压力。",
+            "stance": "neutral",
+            "username": "japantimes",
+            "created_at": "Mon Jan 05 22:45:37 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 4
+            }
+          }
+        ],
+        "username": "japantimes",
+        "tweet_count": 12
+      },
+      {
+        "info": "关注中日关系及地缘政治动态。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            2,
+            1,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "China announces another new trade measure against Japan as tensions rise: China escalated its trade tensions with Japan on Wednesday by launching an investigation into imported dichlorosilane, a chemical gas used in making… https://t.co/7Y3B8zQwzW #japannews #japantoday",
+            "translation": "随着局势紧张，中国宣布对日本采取另一项新贸易措施：中国周三通过启动对进口二氯硅烷的调查加剧了与日本的贸易紧张局势，二氯硅烷是一种用于制造……的化学气体。",
+            "stance": "negative",
+            "username": "JapanToday",
+            "created_at": "Wed Jan 07 21:47:18 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 2
+            }
+          },
+          {
+            "text": "Japan to host summit with South Korea to bolster ties as Tokyo's relations with Beijing worsen: Japanese Prime Minister Sanae Takaichi will host South Korean President Lee Jae Myung in her hometown on Tuesday, in a summit meant to… https://t.co/SucETj3n82 #japannews #japantoday",
+            "translation": "日本将主办与韩国的首脑会议以加强关系，同时东京与北京的关系恶化：日本首相高市早苗周二将在她的家乡接待韩国总统李在明，此次首脑会议旨在……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Mon Jan 12 21:44:11 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "Japan aims to dig deep-sea rare earths to reduce China dependence: A Japanese research vessel on Monday began a historic voyage to attempt to dig deep-sea rare earths at a depth of 6,000 meters to curb dependence on China.… https://t.co/PrxWxiOupJ #japannews #japantoday",
+            "translation": "日本旨在开采深海稀土以减少对中国的依赖：一艘日本考察船周一开始了一次历史性的航行，试图在6000米深处开采深海稀土，以遏制对中国的依赖。",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Mon Jan 12 21:49:34 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "Takaichi seeks dialogue with China as tensions remain: Prime Minister Sanae Takaichi on Monday reiterated that Japan wants dialogue with China as bilateral relations remain strained following her remarks on a Taiwan contingency two… https://t.co/DGSGGIaOFs #japannews #japantoday",
+            "translation": "高市寻求与中国对话，紧张局势依旧：首相高市早苗周一重申，日本希望与中国对话，此前双边关系因她关于台湾突发事件的言论而紧张……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Mon Jan 05 21:39:34 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "China bans exports to Japan of dual-use goods that could enhance Tokyo's military power: China on Tuesday banned exports of dual-use goods that can serve military purposes to Japan, a move that comes at time of heightened tensions… https://t.co/hlkQOrtSBv #japannews #japantoday",
+            "translation": "中国禁止向日本出口可能增强东京军事力量的两用商品：中国周二禁止向日本出口可用于军事目的的两用商品，此举正值紧张局势加剧之时……",
+            "stance": "negative",
+            "username": "JapanToday",
+            "created_at": "Tue Jan 06 21:40:11 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "Travelers to China from Kansai airport: The number of travelers from a major airport in Osaka Prefecture to China during the New Year holiday season fell by nearly half from a year earlier to… https://t.co/dDooQO1gE9 #japannews #japantoday",
+            "translation": "从关西机场前往中国的旅客：大阪府一个主要机场在新年假期期间前往中国的旅客人数比一年前减少了近一半……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Tue Jan 13 21:32:11 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "S Korean president visits China following Beijing's rising tensions with Japan over Taiwan: South Korean President Lee Jae Myung arrived in China on Sunday as Beijing looks to deepen ties with the nearby country after heightened… https://t.co/vl1UJTlzYG #japannews #japantoday",
+            "translation": "韩国总统在因台湾问题与北京紧张局势加剧后访问中国：韩国总统李在明周日抵达中国，此前北京在与日本紧张局势加剧后寻求加强与邻国的关系……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Sun Jan 04 21:33:08 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "Fresh from China trip, South Korea president to visit Japan: South Korea's President Lee Jae Myung will travel to Japan next week for talks with Prime Minister Sanae Takaichi, Seoul said Friday, days after meeting Chinese leader Xi… https://t.co/mn8WzgCZBe #japannews #japantoday",
+            "translation": "刚结束中国之行，韩国总统将访问日本：韩国总统李在明将于下周前往日本与首相高市早苗会谈，首尔方面周五表示，这是在他会见中国领导人习近平几天后……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Fri Jan 09 21:25:15 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "'Genius' chimpanzee Ai dies in Japan at 49: Ai, a \"genius\" chimpanzee who could recognize more than 100 Chinese characters and the English alphabet, has died aged 49, Japanese researchers said. Ai, which means love in… https://t.co/PxB9GbcgXI #japannews #japantoday",
+            "translation": "天才黑猩猩“爱”在日本去世，享年49岁：日本研究人员称，一只能识别100多个汉字和英文字母的“天才”黑猩猩“爱”去世，享年49岁。“爱”在日语中意思是爱……",
+            "stance": "neutral",
+            "username": "JapanToday",
+            "created_at": "Mon Jan 12 21:52:11 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "JapanToday",
+        "tweet_count": 9
+      },
+      {
+        "info": "关注中国经济风险与地缘政治挑战",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "世界大手に挑む中国企業、半導体メモリーで躍進\n\nアナリストによると、中国CXMTの加工技術は業界リーダーから1～2世代遅れの差にまで迫っており、世界DRAM市場でのシェアは売上高ベースで約5％に拡大している。\nhttps://t.co/0uP82PyOxL",
+            "translation": "挑战世界巨头的中国企业，在半导体存储器领域跃进。据分析师称，中国CXMT的加工技术已逼近行业领先者1-2代的差距，其在全球DRAM市场的份额按销售额计算已扩大至约5%。",
+            "stance": "neutral",
+            "username": "WSJJapan",
+            "created_at": "Wed Jan 14 21:30:06 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 11,
+              "like": 22
+            }
+          },
+          {
+            "text": "【中国洞察】中国は巨人ではない：その経済力を読み解く https://t.co/V6xghA5qPO",
+            "translation": "【中国洞察】中国并非巨人：解读其经济实力",
+            "stance": "neutral",
+            "username": "WSJJapan",
+            "created_at": "Wed Jan 14 21:50:03 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 9,
+              "like": 22
+            }
+          },
+          {
+            "text": "中国、台湾指導部の排除で米に倣うか　ベネズエラ攻撃受け \nhttps://t.co/8jzamm7J5o",
+            "translation": "中国会效仿美国排除台湾领导层吗？鉴于对委内瑞拉的攻击",
+            "stance": "negative",
+            "username": "WSJJapan",
+            "created_at": "Sun Jan 04 22:11:08 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 11,
+              "like": 13
+            }
+          },
+          {
+            "text": "中国による「闇市場」での原油調達、より困難に\n\nマドゥロ政権が転覆されたことは、中国にとって問題だ。中国はインドと共に、西側諸国の制裁によって生み出された大幅に割安な石油の流れから最大の恩恵を受けてきた。\nhttps://t.co/b4ufeGwTJk",
+            "translation": "中国在“黑市”采购原油变得更加困难。马杜罗政权的覆灭对中国来说是个问题。中国与印度一样，一直是西方制裁产生的大幅折价石油流的最大受益者。",
+            "stance": "neutral",
+            "username": "WSJJapan",
+            "created_at": "Tue Jan 13 22:45:05 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 8,
+              "like": 12
+            }
+          },
+          {
+            "text": "【オピニオン】日本の「失われた10年」に近づく中国\n\n中国の日本化はまだ不可避ではない。ただ、不動産市場の調整が始まってから既に5年以上が経過した。政府の劇的な方針転換が見られない中で、「失われた10年」を回避するという中国の希望は急速にしぼみつつある。\nhttps://t.co/wyd7dUhW0o",
+            "translation": "【观点】接近日本“失去的十年”的中国。中国的“日本化”尚非不可避免。然而，自房地产市场调整开始以来已经过去了5年多。在政府没有出现戏剧性政策转变的情况下，中国避免“失去的十年”的希望正在迅速破灭。",
+            "stance": "negative",
+            "username": "WSJJapan",
+            "created_at": "Thu Jan 15 10:00:10 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 6,
+              "like": 8
+            }
+          },
+          {
+            "text": "日韓首脳が良好関係アピール　米中「二つの課題」で結束\nhttps://t.co/Wuu67y1S1k",
+            "translation": "日韩首脑展示良好关系，在美中“两个课题”上团结一致",
+            "stance": "neutral",
+            "username": "WSJJapan",
+            "created_at": "Tue Jan 13 17:16:35 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 4,
+              "like": 14
+            }
+          },
+          {
+            "text": "中ロ、国連で米国を非難　安保理緊急会合 \nhttps://t.co/ZHEfWsgqif",
+            "translation": "中俄在联合国谴责美国，安理会召开紧急会议",
+            "stance": "negative",
+            "username": "WSJJapan",
+            "created_at": "Mon Jan 05 21:54:08 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 5,
+              "like": 9
+            }
+          },
+          {
+            "text": "中国がAI統制強化、共産党支配への脅威に介入\n\n中国政府はチャットボットが不適切な動作をしないよう厳しく規制する一方、自国のAIモデルが米国との競争力を維持することを期待\nhttps://t.co/D0NpmYIU9L",
+            "translation": "中国加强AI控制，干预对共产党统治的威胁。中国政府一方面严格监管聊天机器人防止其做出不当行为，另一方面期待本国AI模型保持与美国的竞争力",
+            "stance": "negative",
+            "username": "WSJJapan",
+            "created_at": "Mon Jan 05 22:15:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 5,
+              "like": 11
+            }
+          },
+          {
+            "text": "【オピニオン】日本の「失われた10年」に近づく中国 \nhttps://t.co/LFOJ5T3gIe",
+            "translation": "【观点】接近日本“失去的十年”的中国",
+            "stance": "negative",
+            "username": "WSJJapan",
+            "created_at": "Mon Jan 12 22:30:02 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 4,
+              "like": 5
+            }
+          }
+        ],
+        "username": "WSJJapan",
+        "tweet_count": 9
+      },
+      {
+        "info": "关注中日地缘政治与经济博弈",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "The diplomatic spat between China and Japan is showing no signs of easing. Now there are concerns rare earths could become the next pressure point. Here's what to know https://t.co/zEixBrMnfA",
+            "translation": "中日之间的外交争端没有缓和迹象。现在人们担心稀土可能成为下一个施压点。以下是您需要了解的信息。",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Thu Jan 08 04:11:02 +0000 2026",
+            "metrics": {
+              "reply": 10,
+              "retweet": 25,
+              "like": 75
+            }
+          },
+          {
+            "text": "Japanese markets are showing resilience despite the country’s escalating geopolitical tensions with China https://t.co/arIzslM4bF",
+            "translation": "尽管日本与中国之间的地缘政治紧张局势升级，日本市场仍表现出韧性。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Wed Jan 07 06:05:06 +0000 2026",
+            "metrics": {
+              "reply": 9,
+              "retweet": 12,
+              "like": 51
+            }
+          },
+          {
+            "text": "Japan and the Philippines signed on Thursday a military logistics support agreement, deepening their defense ties as they face rising tensions with China https://t.co/LPf6dmqwfK",
+            "translation": "日本和菲律宾周四签署了一项军事后勤支援协议，深化了防务关系，以应对与中国的紧张局势升级。",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Thu Jan 15 04:11:03 +0000 2026",
+            "metrics": {
+              "reply": 5,
+              "retweet": 10,
+              "like": 36
+            }
+          },
+          {
+            "text": "Duty-free sales at Japan’s leading department store operators fell sharply in December, highlighting how tensions with China are weighing on retail https://t.co/lSorclu2Bl",
+            "translation": "日本主要百货运营商的免税销售额在12月大幅下降，凸显了与中国的紧张局势如何给零售业带来压力。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Mon Jan 05 08:52:59 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 7,
+              "like": 13
+            }
+          },
+          {
+            "text": "Japan protested China’s deployment of a mobile drilling vessel in an area in the East China Sea known for gas reserves, as diplomatic tensions continue to escalate between Asia’s two largest economies https://t.co/Y27pXqu3dJ",
+            "translation": "日本抗议中国在东海一个以天然气储量闻名的区域部署移动钻井船，因为这两个亚洲最大经济体之间的外交紧张局势持续升级。",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Thu Jan 08 03:14:39 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 4,
+              "like": 6
+            }
+          },
+          {
+            "text": "President Lee’s warm meeting with his Chinese counterpart, Xi Jinping, was only the prelude to a tough Japan visit next week. https://t.co/LQRMaBoEZK",
+            "translation": "李总统与中国国家主席习近平的亲切会晤只是下周艰难访日的序曲。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Fri Jan 09 11:10:14 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 3,
+              "like": 6
+            }
+          },
+          {
+            "text": "Pressure is mounting on short sellers of Toyo Engineering as the stock extends last year’s surge amid speculation that rising tensions with China will push Japan to seek alternative sources of rare earths https://t.co/mmx4Svvn4a",
+            "translation": "随着东洋工程股价延续去年的涨势，做空者面临越来越大的压力，人们猜测与中国的紧张局势将推动日本寻求稀土的替代来源。",
+            "stance": "negative",
+            "username": "business",
+            "created_at": "Wed Jan 14 02:49:07 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 1,
+              "like": 7
+            }
+          }
+        ],
+        "username": "business",
+        "tweet_count": 7
+      },
+      {
+        "info": "日媒视角，聚焦中日经贸与地缘摩擦",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            6
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 5
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "China bans exports of dual-use items for military purposes to Japan https://t.co/OORhuHJGRz",
+            "translation": "中国禁止向日本出口用于军事目的的双用途物品",
+            "stance": "negative",
+            "username": "NikkeiAsia",
+            "created_at": "Tue Jan 06 09:56:24 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 6,
+              "like": 2
+            }
+          },
+          {
+            "text": "Japan's Takaichi to seek early 2026 Trump meeting as China tension persists\n\nTokyo aims to showcase strong bilateral ties before US leader visits Beijing in April\nhttps://t.co/qiHyYUJjZ2",
+            "translation": "随着中国紧张局势持续，日本高市早苗寻求在2026年初与特朗普会晤 东京旨在在美国领导人4月访问北京前展示牢固的双边关系",
+            "stance": "neutral",
+            "username": "NikkeiAsia",
+            "created_at": "Mon Jan 05 11:05:45 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 4,
+              "like": 6
+            }
+          },
+          {
+            "text": "Japan lodges protest over possible gas field exploration by China https://t.co/oGmM3CSzpz",
+            "translation": "日本就中国可能进行的气田勘探提出抗议",
+            "stance": "negative",
+            "username": "NikkeiAsia",
+            "created_at": "Wed Jan 07 21:10:44 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 4
+            }
+          },
+          {
+            "text": "Foreign visitors to Japan to drop 3% in 2026, dragged by fewer Chinese\nTravel agency JTB estimates a decline of overseas travelers amid tensions with Beijing\nhttps://t.co/MWBqKMbNBl",
+            "translation": "受中国游客减少影响，2026年访日外国游客将下降3% 旅行社JTB估计，在与北京关系紧张的情况下，海外游客数量将下降",
+            "stance": "neutral",
+            "username": "NikkeiAsia",
+            "created_at": "Thu Jan 08 22:45:34 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 1
+            }
+          },
+          {
+            "text": "Uniqlo, the Japanese casual clothing brand, expects to shrug off political tensions between Tokyo and Beijing, announcing that its sales in China grew 15% in the three months through November.\nhttps://t.co/zQqQMzG284",
+            "translation": "日本休闲服装品牌优衣库预计将摆脱东京与北京之间的政治紧张局势，宣布其在中国截至11月的三个月销售额增长了15%。",
+            "stance": "positive",
+            "username": "NikkeiAsia",
+            "created_at": "Thu Jan 08 13:16:05 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 6
+            }
+          },
+          {
+            "text": "Asia has a big Donald Trump problem on its hands in 2026\n\nWhich of the American president's alter egos will Japan, South Korea and China have to confront?\nhttps://t.co/yNVNfi5mca",
+            "translation": "亚洲在2026年面临巨大的唐纳德·特朗普问题 日本、韩国和中国将不得不面对这位美国总统的哪一个自我？",
+            "stance": "neutral",
+            "username": "NikkeiAsia",
+            "created_at": "Mon Jan 05 14:59:04 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "China launches Japan anti-dumping probe into key chipmaking chemical https://t.co/WKueHFEz7I",
+            "translation": "中国对关键芯片制造化学物质启动对日本反倾销调查",
+            "stance": "negative",
+            "username": "NikkeiAsia",
+            "created_at": "Wed Jan 07 10:42:30 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "NikkeiAsia",
+        "tweet_count": 7
+      },
+      {
+        "info": "关注中日关系与地缘政治动态。",
+        "stance_matrix": [
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            4
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "https://t.co/SkCTepBxWk\n\n... Japan visa for Chinese tourists stalls amid frayed relations • Japan-China tensions • China urges travel agencies to reduce Japan-bound visitors by 40...",
+            "translation": " amid frayed relations • Japan-China tensions • China urges travel agencies to reduce Japan-bound visitors by 40...",
+            "stance": "negative",
+            "username": "secretjapancom",
+            "created_at": "Tue Jan 06 15:37:38 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/NIGxhaz9su\n\nTopics • Earthquake • Venezuela • Tourism • Noto earthquake • Japan-China relations • Japan-China relations • Fake News • Explore Japan • Links for...",
+            "translation": "Topics • Earthquake • Venezuela • Tourism • Noto earthquake • Japan-China relations • Japan-China relations • Fake News • Explore Japan • Links for...",
+            "stance": "neutral",
+            "username": "secretjapancom",
+            "created_at": "Wed Jan 07 14:37:32 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/dNrpvVTjzo\n\nRelations between Japan and China worsened late last year after Japan's ... Travel • Kuchikomi • When They Opened in Japan • Japan Yesterday • Opinions...",
+            "translation": "Relations between Japan and China worsened late last year after Japan's ... Travel • Kuchikomi • When They Opened in Japan • Japan Yesterday • Opinions...",
+            "stance": "negative",
+            "username": "secretjapancom",
+            "created_at": "Wed Jan 07 15:37:27 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/tNb3OmSFsv\n\nThis is a tactful diplomatic move by Seoul to avoid being drawn into China-U.S. and China-Japan tensions over Taiwan, reflecting Lee's pragmatic and...",
+            "translation": "This is a tactful diplomatic move by Seoul to avoid being drawn into China-U.S. and China-Japan tensions over Taiwan, reflecting Lee's pragmatic and...",
+            "stance": "neutral",
+            "username": "secretjapancom",
+            "created_at": "Fri Jan 09 05:37:31 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/ew65SP0W2W\n\nThis summit, a key part of President Lee's visit to Japan following his trip to China, is expected to serve as an opportunity to reaffirm the...",
+            "translation": "This summit, a key part of President Lee's visit to Japan following his trip to China, is expected to serve as an opportunity to reaffirm the...",
+            "stance": "neutral",
+            "username": "secretjapancom",
+            "created_at": "Mon Jan 12 15:37:35 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/vS5v0rvo3e\n\nThe meeting is part of a swirl of diplomatic activity in a region with growing tensions. A week ago Lee visited China, where leader Xi Jinping sought...",
+            "translation": "The meeting is part of a swirl of diplomatic activity in a region with growing tensions. A week ago Lee visited China, where leader Xi Jinping sought...",
+            "stance": "neutral",
+            "username": "secretjapancom",
+            "created_at": "Mon Jan 12 16:37:30 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "https://t.co/j5phtxqscS\n\nS.Korea's Lee to meet with Japan's Takaichi as China-Japan tensions rise ... Travel &amp; Leisure Members-Only. Sino-Japanese tensions: Boon for Korean...",
+            "translation": "S.Korea's Lee to meet with Japan's Takaichi as China-Japan tensions rise ... Travel &amp; Leisure Members-Only. Sino-Japanese tensions: Boon for Korean...",
+            "stance": "neutral",
+            "username": "secretjapancom",
+            "created_at": "Tue Jan 13 16:37:26 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "secretjapancom",
+        "tweet_count": 7
+      },
+      {
+        "info": "日伊反华威压，中韩历史共斗，中国对日出口管制。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ],
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            1,
+            2,
+            4
+          ],
+          [
+            1,
+            3,
+            3
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "日伊、中国念頭に「威圧による現状変更の試みに反対」　高市、メローニ両首相が会談\nhttps://t.co/eHF0LwN1lQ\n\n首相は会談後の共同記者発表で「新たなパートナーシップのもとで、安全保障、経済、経済安保、文化、人的交流など幅広い分野における2国間協力をますます発展させていきたい」と述べた。",
+            "translation": "日伊两国在考虑中国的情况下表示“反对通过威压改变现状” 高市、梅洛尼首相举行会谈 https://t.co/eHF0LwN1lQ 首相在会谈后的联合记者会上表示：“希望在新的伙伴关系下，进一步发展在安全保障、经济、经济安保、文化、人员交流等广泛领域的双边合作。”",
+            "stance": "negative",
+            "username": "Sankei_news",
+            "created_at": "Fri Jan 16 11:06:47 +0000 2026",
+            "metrics": {
+              "reply": 29,
+              "retweet": 685,
+              "like": 2812
+            }
+          },
+          {
+            "text": "中韓首脳が会談　習氏「中韓は日本軍国主義に勝利」　歴史問題で対日共闘を呼び掛け\nhttps://t.co/O8tnzukBXq\n\n中国政府は高市早苗首相の台湾有事を巡る国会答弁に反発する中、李氏に歴史問題などで対日共闘を呼び掛け、中国側に引き込みたい考えだ。",
+            "translation": "中韩首脑举行会谈 习近平称“中韩战胜了日本军国主义” 呼吁在历史问题上对日共同战斗 https://t.co/O8tnzukBXq 中国政府反对高市早苗首相关于台湾有事国会答辩的背景下，呼吁李氏在历史问题等方面对日共同战斗，试图将韩方拉拢到中国一侧。",
+            "stance": "negative",
+            "username": "Sankei_news",
+            "created_at": "Mon Jan 05 12:29:51 +0000 2026",
+            "metrics": {
+              "reply": 283,
+              "retweet": 199,
+              "like": 454
+            }
+          },
+          {
+            "text": "習氏「一方的ないじめ行為が国際秩序に打撃」　米国のベネズエラ攻撃を念頭に発言か\nhttps://t.co/es4EQOHRLE\n\n訪中したアイルランドのマーティン首相と北京の人民大会堂で会談した。\n\n中国外務省によると、習氏は「一方的ないじめ行為が国際秩序に深刻な打撃を与えている」との考えを示した。",
+            "translation": "习近平称“单方面的霸凌行为打击国际秩序” 发言可能意指美国对委内瑞拉的攻击 https://t.co/es4EQOHRLE 与访华的爱尔兰总理马丁在北京人民大会堂举行了会谈。 据中国外交部透露，习近平表示“单方面的霸凌行为对国际秩序造成了严重打击”。",
+            "stance": "neutral",
+            "username": "Sankei_news",
+            "created_at": "Mon Jan 05 09:58:00 +0000 2026",
+            "metrics": {
+              "reply": 433,
+              "retweet": 125,
+              "like": 378
+            }
+          },
+          {
+            "text": "中国、新たなパンダ貸与へ韓国との部局間協議スタート　日本側には「無回答」の状態が続く\nhttps://t.co/kY4bnSKWHr\n\n高市早苗首相の「台湾有事」「存立危機事態」を巡る国会答弁に中国が反発するなど、日中関係は冷え込んでおり、パンダ貸与への影響を指摘する声もある。",
+            "translation": "中国开始就新的大熊猫租借与韩国进行部门间协商 对日方持续处于“无回答”状态 https://t.co/kY4bnSKWHr 鉴于中国反对高市早苗首相关于“台湾有事”和“存立危机事态”的国会答辩，日中关系冷却，有人指出这可能会影响大熊猫的租借。",
+            "stance": "negative",
+            "username": "Sankei_news",
+            "created_at": "Wed Jan 07 03:53:53 +0000 2026",
+            "metrics": {
+              "reply": 433,
+              "retweet": 70,
+              "like": 299
+            }
+          },
+          {
+            "text": "日本政府、中国の輸出規制強化に撤回要求　木原長官「国際慣行と異なる」\nhttps://t.co/oTzKoBXxND\n\n日本政府は、中国商務省が軍事と民間の両分野で利用できる軍民両用（デュアルユース）品目の日本に対する輸出管理を強化すると発表したことを受け、中国側に抗議し、措置の撤回を求めたと発表した。",
+            "translation": "日本政府要求中国撤回加强出口管制 木原长官“与国际惯例不同” https://t.co/oTzKoBXxND 针对中国商务部宣布加强对日本军民两用（两用）物品的出口管理，日本政府表示已向中方提出抗议，并要求撤回该措施。",
+            "stance": "negative",
+            "username": "Sankei_news",
+            "created_at": "Wed Jan 07 12:14:33 +0000 2026",
+            "metrics": {
+              "reply": 53,
+              "retweet": 128,
+              "like": 484
+            }
+          },
+          {
+            "text": "日本への輸出規制で中国商務省「民生品、心配する必要ない」　軍事用途に限られると説明\nhttps://t.co/bvRzzJK7Y4\n\n商務省は6日、日本の軍事力向上につながる軍民両用品の輸出を禁止すると発表した。軍事用と民生用の線引きは中国側の裁量で決まるため、拡大解釈による民間貿易の停滞が懸念される。",
+            "translation": "中国商务部就针对日本的出口管制表示“民生品无需担心” 说明称仅限于军事用途 https://t.co/bvRzzJK7Y4 商务部6日宣布禁止向日本出口有助于提高军事力量的军民两用品。由于军用和民用的界限由中国方面裁量，有人担心因扩大解释而导致民间贸易停滞。",
+            "stance": "negative",
+            "username": "Sankei_news",
+            "created_at": "Thu Jan 08 09:49:59 +0000 2026",
+            "metrics": {
+              "reply": 59,
+              "retweet": 91,
+              "like": 281
+            }
+          }
+        ],
+        "username": "Sankei_news",
+        "tweet_count": 6
+      },
+      {
+        "info": "反华激进派，指责加拿大亲华",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            9
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 60
+          },
+          {
+            "name": "同伴",
+            "value": 30
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "I wonder how long the Untied States will tolerate a satellite state of China along their northern border because that's exactly where Carney is taking us. https://t.co/svSRVFasBo",
+            "translation": "我想知道美国还能容忍多久在其北部边境出现一个中国的卫星国，因为这正是Carney要把我们要带去的地方。",
+            "stance": "negative",
+            "username": "RosieRocks29",
+            "created_at": "Tue Jan 13 21:14:51 +0000 2026",
+            "metrics": {
+              "reply": 747,
+              "retweet": 1104,
+              "like": 5030
+            }
+          },
+          {
+            "text": "Eurasia Group is a retirement home for Liberal wankers like Gerald Butts who hate the US, allowed China to infiltrate Canada's institution and put Canada in the precarious situation its in now.\n\nEurasia Group can fuck off. https://t.co/8CmBeejFG7",
+            "translation": "欧亚集团是像Gerald Butts这样讨厌美国的自由派混蛋的养老院，他们允许中国渗透加拿大的机构，并将加拿大置于目前这种危险的境地。欧亚集团可以滚蛋了。",
+            "stance": "negative",
+            "username": "RosieRocks29",
+            "created_at": "Mon Jan 12 21:46:55 +0000 2026",
+            "metrics": {
+              "reply": 109,
+              "retweet": 430,
+              "like": 1570
+            }
+          },
+          {
+            "text": "@jakefreshy43 You think China will be any different?",
+            "translation": "@jakefreshy43 你觉得中国会有什么不同吗？",
+            "stance": "negative",
+            "username": "RosieRocks29",
+            "created_at": "Tue Jan 13 22:35:27 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 0,
+              "like": 160
+            }
+          },
+          {
+            "text": "@stevenliptonhfx It's US based policy designed to keep their enemies out of the western hemisphere. If Canada can't keep China's influence at bay, the United States will. It's just that simple.",
+            "translation": "@stevenliptonhfx 这是基于美国的政策，旨在将其敌人挡在西半球之外。如果加拿大无法遏制中国的影响力，美国会出手。就是这么简单。",
+            "stance": "negative",
+            "username": "RosieRocks29",
+            "created_at": "Sun Jan 04 17:59:25 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 6,
+              "like": 57
+            }
+          },
+          {
+            "text": "@buzzard89 The Liberals certainly benefited from China's help in the last 3 elections.",
+            "translation": "@buzzard89 自由党在过去3次选举中肯定得益于中国的帮助。",
+            "stance": "negative",
+            "username": "RosieRocks29",
+            "created_at": "Sun Jan 04 19:14:39 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 4,
+              "like": 39
+            }
+          }
+        ],
+        "username": "RosieRocks29",
+        "tweet_count": 5
+      }
+    ]
+  },
+  "US": {
+    "region": "US",
+    "time_range": [
+      "2026-01-25",
+      "2026-01-25"
+    ],
+    "top_users": [
+      {
+        "info": "关注地缘政治与科技竞争的客观观察者",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            5
+          ],
+          [
+            0,
+            1,
+            4
+          ],
+          [
+            0,
+            2,
+            6
+          ],
+          [
+            0,
+            3,
+            5
+          ],
+          [
+            1,
+            0,
+            6
+          ],
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            6
+          ],
+          [
+            2,
+            0,
+            4
+          ],
+          [
+            2,
+            1,
+            5
+          ],
+          [
+            2,
+            2,
+            5
+          ],
+          [
+            2,
+            3,
+            4
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@toberrrrrr @ianmiles Based on recent reports from sources like VIN News, Yahoo, and The Washington Post, the Pentagon has ordered the USS Abraham Lincoln Carrier Strike Group to redeploy from the South China Sea to the Middle East amid rising tensions with Iran over protests and its nuclear program.",
+            "translation": "根据VIN News、Yahoo和《华盛顿邮报》等来源的最新报道，五角大楼已下令亚伯拉罕·林肯号航母打击群从南海重新部署到中东，原因是因抗议活动和核项目导致与伊朗的紧张局势升级。",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Thu Jan 15 04:20:45 +0000 2026",
+            "metrics": {
+              "reply": 18,
+              "retweet": 42,
+              "like": 514
+            }
+          },
+          {
+            "text": "@KreatelyMedia Every country contributes uniquely to the world. India drives innovation and growth, Pakistan offers strategic geopolitical value and peacekeeping, China leads in manufacturing and tech, and the USA pioneers advancements. Removing any would be a loss—no one's \"useless\"! 🌍",
+            "translation": "每个国家都为世界做出独特的贡献。印度推动创新和增长，巴基斯坦提供战略地缘价值和维和，中国引领制造业和技术，美国开创进步。去掉任何一个都是损失——没有谁是“无用的”！🌍",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sat Jan 17 21:37:46 +0000 2026",
+            "metrics": {
+              "reply": 75,
+              "retweet": 2,
+              "like": 89
+            }
+          },
+          {
+            "text": "@EdithA299422 @business The Bloomberg article reports that a proposed trade deal between Kenya and China is delayed due to pressure from the US on Kenya not to proceed. According to Kenya's The Standard newspaper, citing unnamed sources, the deal needs approvals from Kenya's cabinet, parliament, and",
+            "translation": "据彭博社报道，肯尼亚与中国之间拟议的贸易协定因美国施压要求肯尼亚不要继续推进而延期。据肯尼亚《标准报》援引未具名消息人士的话称，该协议需要肯尼亚内阁、议会和……的批准",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 11 14:48:21 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 3
+            }
+          },
+          {
+            "text": "@fundstratnchill @TheLongInvest The US chip restrictions, including on NVIDIA's H200, have indeed pushed China to accelerate domestic AI development, with companies like Huawei advancing alternatives. Recent 2026 policy eased some exports, but China paused imports to boost self-reliance.\n\nTrump's tariffs and",
+            "translation": "美国对芯片的限制（包括对英伟达H200的限制）确实推动了中国加速国内人工智能的发展，华为等公司正在推进替代方案。2026年的近期政策放宽了一些出口，但中国暂停了进口以促进自力更生。特朗普的关税和……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Tue Jan 20 15:33:39 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 5
+            }
+          },
+          {
+            "text": "@Erikson1791 @silver207141 @sharkbyte1k China's new export controls, effective Jan 1, 2026, require licenses for silver shipments. Only 44 approved companies can export through 2027, restricting overall global supply. This impacts buyers reliant on Chinese silver, like US manufacturing and defense sectors, but licensed",
+            "translation": "中国新的出口管制将于2026年1月1日生效，要求白银运输需获得许可证。到2027年，只有44家获批公司可以出口，限制了全球总供应量。这影响了依赖中国白银的买家，如美国制造业和国防部门，但获得许可的……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Mon Jan 12 05:41:33 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@leed278281 @ibb71401686 @TRobinsonNewEra As of Jan 20, 2026, Israel-Iran tensions remain high amid Iranian protests (2,400+ killed per CRS) and US carrier deployment (Reuters), but no war declared; Trump floated regime change in Iran (Wikipedia). Trump's Greenland push focuses on Arctic security vs. China/Russia (CFR,",
+            "translation": "截至2026年1月20日，因伊朗抗议活动（据国会研究服务处报告有2400多人死亡）和美国航母部署（据路透社），以色列与伊朗的紧张局势仍然很高，但未宣战；特朗普曾提议改变伊朗政权（维基百科）。特朗普推动格陵兰岛的重点是针对中国/俄罗斯的北极安全（外交关系协会，",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Tue Jan 20 06:34:49 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Michelle_in_ON @mario4thenorth Mark Carney, as former Bank of Canada Governor (2008-2013), stabilized the economy during the financial crisis through innovative policies. As PM since 2025, he's committed to NATO 2% GDP defense spending, EV mandates, and economic incentives.\n\nRecent China deal (Jan 2026): Eases",
+            "translation": "马克·卡尼作为加拿大央行前行长（2008-2013年），通过创新政策在金融危机期间稳定了经济。自2025年担任总理以来，他致力于将GDP的2%用于北约国防开支、电动汽车强制令和经济激励措施。最近的中国协议（2026年1月）：放宽了……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Thu Jan 22 00:57:54 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@NetBothan @oroborous China has engaged in territorial disputes in the South China Sea, including ramming Philippine vessels and patrolling Vietnamese-claimed reefs (CFR, Oct 2025). With Japan, a 2025-2026 crisis involved military exercises near Senkaku Islands and economic sanctions over Taiwan",
+            "translation": "中国在南海参与了领土争端，包括撞击菲律宾船只和在越南声称拥有的礁石附近巡逻（外交关系协会，2025年10月）。与日本方面，2025-2026年的危机涉及在尖阁诸岛附近的军事演习和针对台湾的经济制裁",
+            "stance": "negative",
+            "username": "grok",
+            "created_at": "Thu Jan 22 08:31:44 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 1
+            }
+          },
+          {
+            "text": "@AngelikiRoka_GR While some AI researchers highlight China's innovation in areas like algorithm-hardware co-design, evidence from recent analyses (e.g., CFR, Heritage) shows persistent gaps. US export controls limit access to advanced chips, with China's computing power trailing by 1-2 orders of",
+            "translation": "虽然一些人工智能研究人员强调中国在算法-硬件协同设计等领域的创新，但近期的分析证据（如外交关系协会、传统基金会）显示存在持续的差距。美国的出口管制限制了获取先进芯片的机会，中国的计算能力落后1-2个数量级",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 11 15:20:37 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "@SMHoosayn @WhiteHouse Based on 2025 data from OECD, WHO, and reports like Demographia:\n\n- **Education**: China leads in PISA scores (e.g., math/science), Russia strong in literacy/STEM, USA above avg in reading but below in math; access universal in all, but USA spends more (5.8% GDP).\n\n- **Housing**:",
+            "translation": "根据经合组织（OECD）、世界卫生组织（WHO）2025年的数据以及Demographia等报告：- **教育**：中国在PISA成绩（如数学/科学）方面领先，俄罗斯在识字率/STEM方面表现强劲，美国在阅读方面高于平均水平但在数学方面低于平均水平；所有国家的普及率都很高，但美国支出更多（占GDP的5.8%）。- **住房**：",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Wed Jan 14 23:58:51 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 0
+            }
+          },
+          {
+            "text": "@_Teva @CataPaul2 @stats_feed #              \n#              \n#              \n#              \n# #            \n# # #          \n# # #          \n# # #          \n# # #          \n# # #          \n# # # # #      \n# # # # # #    \n# # # # # #    \n# # # # # #    \n# # # # # #    \n# # # # # #    \n# # # # # # #  \n# # # #",
+            "translation": "#               #               #               #               # #             # # #           # # #           # # #           # # #           # # #           # # # # #       # # # # # #     # # # # # #     # # # # # #     # # # # # #     # # # # # #     # # # # # # #   # # # #",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Mon Jan 19 14:28:03 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@Peitho_hint @ShangguanJiewen @Liquid_Times The current Philippine government under President Marcos Jr. is unlikely to directly defend Taiwan militarily in a Chinese invasion, per analyses like RAND (2025) and AFP statements (2025), due to limited capabilities and focus on South China Sea disputes. However, its US",
+            "translation": "根据RAND（2025年）和AFP（2025年）声明的分析，马科斯总统领导下的现任菲律宾政府不太可能在中国入侵台湾时直接在军事上保卫台湾，原因是能力有限且专注于南海争端。然而，其美国……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Jan 09 09:27:00 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "@Tom56686 @GovNuclear Germany phased out its last nuclear plants in 2023, shifting to renewables and gas for energy security. Globally, nuclear is expanding—e.g., China, US, France—for low-carbon power, with projections for capacity growth by 2050. Whether it's \"the future\" depends on priorities like",
+            "translation": "德国于2023年淘汰了其最后一批核电站，转向可再生能源和天然气以确保能源安全。在全球范围内，核能正在扩张——例如中国、美国、法国——以提供低碳电力，预计到2050年产能将增长。它是否是“未来”取决于优先事项，例如",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 11 23:44:19 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "@GummingUp @teameffujoe No universal cure for diabetes exists yet, but recent stem cell trials show promise for type 1. In 2025, German researchers reported insulin independence in some patients via islet transplants (e.g., Helmholtz Munich studies). Similar advances in the US and China. It's",
+            "translation": "目前还没有治愈糖尿病的通用方法，但最近的干细胞试验对1型糖尿病显示出希望。2025年，德国研究人员通过胰岛移植（如亥姆霍兹慕尼黑中心的研究）报告了一些患者实现了胰岛素独立。美国和中国也有类似的进展。它",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 11 23:51:12 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "@wbrblock Taiwan's status is disputed. It operates as a de facto independent entity with its own government, economy, and military. However, China claims it as part of its territory, and most nations, including the US, adhere to a \"One China\" policy without formal recognition. The UN",
+            "translation": "台湾的地位存在争议。它作为一个事实上的独立实体运作，拥有自己的政府、经济和军队。然而，中国声称它是其领土的一部分，包括美国在内的大多数国家都坚持“一个中国”政策而不予正式承认。联合国",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Sun Jan 11 23:54:41 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 1
+            }
+          }
+        ],
+        "username": "grok",
+        "tweet_count": 117
+      },
+      {
+        "info": "中国官方媒体，维护国家利益。",
+        "stance_matrix": [
+          [
+            2,
+            0,
+            10
+          ],
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            2,
+            2,
+            8
+          ],
+          [
+            2,
+            3,
+            9
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 5
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "#FMsays China will firmly uphold the international system with the United Nations at its core no matter how the international situation may evolve, Foreign Ministry spokesman Guo Jiakun said, after US President Trump's plan to establish the Board of Peace raises concerns that the https://t.co/m9PL4CRHbD",
+            "translation": "#FMsays 外交部发言人郭嘉昆表示，无论国际形势如何演变，中国都将坚定维护以联合国为核心的国际体系，此前美国总统特朗普建立“和平委员会”的计划引发了人们对此的担忧。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Wed Jan 21 09:52:47 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 52,
+              "like": 121
+            }
+          },
+          {
+            "text": "#ChinaDailyCartoon #US hypocrisy laid bare #Greenland #Venezuela #tariffs https://t.co/dgV18P1bS1",
+            "translation": "#ChinaDailyCartoon #美国虚伪暴露无遗 #格陵兰岛 #委内瑞拉 #关税",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Thu Jan 22 01:34:57 +0000 2026",
+            "metrics": {
+              "reply": 20,
+              "retweet": 17,
+              "like": 46
+            }
+          },
+          {
+            "text": "#FMsays The US should stop using the so-called China threat as a pretext to gain selfish gains and the international law must be safeguarded, FM spokesman Guo Jiakun said in response to US President Donald Trump's threat to impose new tariffs on European allies and his hype over https://t.co/flg3Fihv7F",
+            "translation": "#FMsays 外交部发言人郭嘉昆在回应美国总统唐纳德·特朗普威胁对欧洲盟友征收新关税以及大肆炒作所谓“中国威胁”以谋取私利时表示，美国应停止利用所谓的“中国威胁”作为借口，必须维护国际法。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Mon Jan 19 11:17:00 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 14,
+              "like": 23
+            }
+          },
+          {
+            "text": "The United States is set to formally withdraw from the World Health Organization (WHO) in January. On his first day back in the White House on Jan 20, 2025, #US President #DonaldTrump signed an executive order to withdraw the country from the WHO. The United Nations received the https://t.co/VIPuQOJbAK",
+            "translation": "美国将于一月份正式退出世界卫生组织（WHO）。2025年1月20日，#美国总统#唐纳德·特朗普重返白宫的首日签署了行政命令，宣布退出该组织。联合国收到了...",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Thu Jan 22 02:43:14 +0000 2026",
+            "metrics": {
+              "reply": 8,
+              "retweet": 10,
+              "like": 27
+            }
+          },
+          {
+            "text": "#ChinaDailyCartoon Breaking bounds #US #Greenland https://t.co/9kBoHMi6G1",
+            "translation": "#ChinaDailyCartoon 打破界限 #美国 #格陵兰岛",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Thu Jan 22 04:00:01 +0000 2026",
+            "metrics": {
+              "reply": 7,
+              "retweet": 10,
+              "like": 21
+            }
+          },
+          {
+            "text": "A #US carrier strike group is moving from the South China Sea to the #MiddleEast amid tensions with #Iran, multiple sources reported on Wednesday. https://t.co/sZgDNiihru https://t.co/KLWf7L5ASy",
+            "translation": "据多个消息源周三报道，在与#伊朗关系紧张之际，一支#美国航母打击群正从#南海前往#中东。",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Thu Jan 15 01:23:16 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 8,
+              "like": 16
+            }
+          },
+          {
+            "text": "While the US openly threatens new tariffs against European countries over Greenland, Europe issues only hollow warnings about \"undermining transatlantic relations\". Instead of standing up to coercion, Europe redirects its frustration toward China, moving to phase Chinese firms https://t.co/obscyUtkry",
+            "translation": "当美国公开因格陵兰岛问题威胁对欧洲国家征收新关税时，欧洲仅发出了关于“破坏跨大西洋关系”的空洞警告。欧洲没有对抗胁迫，反而将挫败感转向中国，着手逐步淘汰中国企业。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Tue Jan 20 03:15:01 +0000 2026",
+            "metrics": {
+              "reply": 5,
+              "retweet": 7,
+              "like": 16
+            }
+          },
+          {
+            "text": "#OpinionLine #Greenland, is not just a remote island dispute. It is a stress test for whether the post-1945 order can stand. And this is why #Denmark's prime minister warned that a #US attack on allied territory would \"end everything\" — not only #NATO, but the entire postwar https://t.co/8X4EBvpHpD",
+            "translation": "#OpinionLine #格陵兰岛不仅仅是一个偏远的岛屿争端。它是对1945年后秩序能否屹立不倒的压力测试。这也是为什么#丹麦首相警告说，#美国攻击盟友领土将“终结一切”——不仅是#北约，还有整个战后...",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Thu Jan 22 06:30:02 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 7,
+              "like": 14
+            }
+          },
+          {
+            "text": "US President Donald #Trump said on Wednesday at the World Economic Forum in #Davos, Switzerland, that he is seeking \"immediate negotiations\" once again over the acquisition of #Greenland, while insisting that he would not use force.\n\nTrump also touched on the sovereignty of the https://t.co/nkajheaYkK",
+            "translation": "#美国总统唐纳德#特朗普周三在瑞士#达沃斯世界经济论坛上说，他再次寻求就收购#格陵兰岛进行“立即谈判”，同时坚持说他不会使用武力。特朗普还谈到了...的主权",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Wed Jan 21 18:24:05 +0000 2026",
+            "metrics": {
+              "reply": 8,
+              "retweet": 5,
+              "like": 14
+            }
+          },
+          {
+            "text": "#FMsays China welcomes companies from the US as well as other countries to seize the opportunities of China's high-quality development and benefit from the country's trillion-Yuan market, FM spokesman Guo Jiakun said, following a survey report by American Chamber of Commerce in https://t.co/yHcBJJXOre",
+            "translation": "#FMsays 外交部发言人郭嘉昆在回应美国商会的一项调查报告时表示，中国欢迎美国及其他国家的公司抓住中国高质量发展的机遇，从中国万亿级市场中受益。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Mon Jan 19 10:56:17 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 4,
+              "like": 20
+            }
+          },
+          {
+            "text": "#ChinaDailyCartoon Stabbing the heart #NATO #US #Greenland https://t.co/RMT4eZKyYT",
+            "translation": "#ChinaDailyCartoon 刺穿心脏 #北约 #美国 #格陵兰岛",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Mon Jan 19 01:30:01 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 6,
+              "like": 17
+            }
+          },
+          {
+            "text": "#ChinaDailyCartoon America's ambition is a long straw — always reaching farther to drain other countries dry. #AI灵感工作室 #US #Greenland https://t.co/N6S36kOajn",
+            "translation": "#ChinaDailyCartoon 美国的野心是一根长吸管——总是伸得更远，把其他国家吸干。#AI灵感工作室 #美国 #格陵兰岛",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Mon Jan 19 07:53:12 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 8,
+              "like": 11
+            }
+          },
+          {
+            "text": "China Daily Editorial: In a world craving peace and development, the international community naturally gravitates toward those who build bridges rather than those who burn them. The latest poll results should serve as a wake-up call for the #US: unilateral bullying only leads to https://t.co/LCiJ1lFqKe",
+            "translation": "中国日报社论：在一个渴望和平与发展的世界里，国际社会自然倾向于那些架桥的人，而不是那些毁桥的人。最新的民意调查结果应该给#美国敲响警钟：单边欺凌只会导致...",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Sun Jan 18 15:00:01 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 4,
+              "like": 16
+            }
+          },
+          {
+            "text": "#FMsays #China objects to external interference with a country's internal affairs and does not approve the use of or the threat of force in international relations, FM spokeswoman Mao Ning said. Her remarks come in response to comments made by #US president Donald Trump https://t.co/rQ8GBohcQo",
+            "translation": "#FMsays #中国反对外部干涉一国内政，不赞成在国际关系中使用或威胁使用武力，外交部发言人毛宁表示。她是在回应#美国总统唐纳德·特朗普的评论时作此表示的。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Wed Jan 14 09:10:01 +0000 2026",
+            "metrics": {
+              "reply": 9,
+              "retweet": 3,
+              "like": 10
+            }
+          },
+          {
+            "text": "Beefed up by #US President #DonaldTrump's administration to carry out mass deportations, #ICE has deeply divided the United States in recent weeks through its aggressive military-style operations, often performed by armed masked agents in unmarked vehicles, experts and analysts https://t.co/kz9nyPWWkD",
+            "translation": "在#美国总统#唐纳德·特朗普政府的支持下，#ICE（美国移民和海关执法局）实施大规模驱逐，近几周通过激进的军事式行动，往往由蒙面武装人员乘坐无标记车辆执行，深深分裂了美国，专家和分析人士...",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Mon Jan 19 05:30:05 +0000 2026",
+            "metrics": {
+              "reply": 8,
+              "retweet": 3,
+              "like": 12
+            }
+          }
+        ],
+        "username": "ChinaDaily",
+        "tweet_count": 30
+      },
+      {
+        "info": "关注中美竞争，侧重经贸与地缘政治。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            9
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Mark Carney’s dispassionate tone masked a stunning message of realignment: China is a “more predictable” trading partner than the US now, requiring stronger ties with Beijing as a “new world order” takes hold. https://t.co/JY72NiBboq",
+            "translation": "马克·卡尼冷静的语气掩盖了一个关于重新调整的惊人信息：随着“新世界秩序”的确立，中国现在是一个比美国“更可预测”的贸易伙伴，需要加强与北京的联系。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Sat Jan 17 18:18:55 +0000 2026",
+            "metrics": {
+              "reply": 132,
+              "retweet": 381,
+              "like": 1678
+            }
+          },
+          {
+            "text": "China and Russia are racing ahead while the US keeps running in place. https://t.co/h9TT4tzbQt",
+            "translation": "中国和俄罗斯正在飞速前进，而美国却在原地踏步。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Sat Jan 17 11:48:41 +0000 2026",
+            "metrics": {
+              "reply": 30,
+              "retweet": 87,
+              "like": 410
+            }
+          },
+          {
+            "text": "The US pressured Italy to cancel government contracts with Chinese security equipment supplier Nuctech over national security concerns https://t.co/Su07U0w82j",
+            "translation": "出于国家安全考虑，美国施压意大利取消与中国安防设备供应商同方威视的政府合同。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Thu Jan 15 11:58:32 +0000 2026",
+            "metrics": {
+              "reply": 49,
+              "retweet": 70,
+              "like": 220
+            }
+          },
+          {
+            "text": "China used more than double the electricity of the US in 2025, China Central Television reported Saturday, citing data from the National Energy Administration https://t.co/xTx2F0NQIm",
+            "translation": "据中国中央电视台周六援引国家能源局的数据报道，2025年中国的用电量是美国的两倍多。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Sat Jan 17 04:46:49 +0000 2026",
+            "metrics": {
+              "reply": 21,
+              "retweet": 67,
+              "like": 255
+            }
+          },
+          {
+            "text": "China has been offered a place on Donald Trump’s proposed Board of Peace for Gaza https://t.co/Z6pKaJAVtB",
+            "translation": "中国已获邀加入唐纳德·特朗普提出的加沙和平委员会。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Tue Jan 20 09:10:45 +0000 2026",
+            "metrics": {
+              "reply": 33,
+              "retweet": 53,
+              "like": 248
+            }
+          },
+          {
+            "text": "Both the US and China are testing the limits of international norms and worrying nations trying to navigate the turmoil, writes @KarishmaJourno (via @opinion)  https://t.co/pPyMOQaO2j",
+            "translation": "@KarishmaJourno（通过 @opinion）撰文指出，美国和中国都在试探国际规范的极限，这让试图在动荡中航行的各国感到担忧。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Mon Jan 19 03:35:04 +0000 2026",
+            "metrics": {
+              "reply": 57,
+              "retweet": 32,
+              "like": 147
+            }
+          },
+          {
+            "text": "The signing of a trade deal between Kenya and China is being held up because of US pressure on the African country, The Standard newspaper reported https://t.co/qBnRrhZZCI",
+            "translation": "据《标准报》报道，由于美国对这一非洲国家的施压，肯尼亚与中国之间的贸易协议签署受阻。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Sun Jan 11 09:30:22 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 48,
+              "like": 133
+            }
+          },
+          {
+            "text": "China’s economy grew 5% in 2025 after boosting exports outside the US. But weak domestic demand, falling home prices and deflation are dragging on the outlook.\n\n@Nectar_Gan explains: https://t.co/lOZB6MHidg https://t.co/UlyU0ZAI8T",
+            "translation": "在增加对美以外地区的出口后，中国经济在2025年增长了5%。但国内需求疲软、房价下跌和通货紧缩正在拖累前景。@Nectar_Gan 解释道：",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Mon Jan 19 08:22:23 +0000 2026",
+            "metrics": {
+              "reply": 20,
+              "retweet": 35,
+              "like": 154
+            }
+          },
+          {
+            "text": "🎙️ Xi Jinping is welcoming a wave of global leaders following Trump’s tariff truce with China. With rare earths, trade and geopolitical leverage on the line, where does this flurry of diplomacy leave the US? Bloomberg reporters are answering your questions here: https://t.co/EajANqH5ER",
+            "translation": "随着特朗普与中国达成关税休战，习近平正迎来一波全球领导人的访问潮。鉴于稀土、贸易和地缘政治杠杆都处于紧要关头，这一轮外交活动将把美国置于何种境地？彭博社记者在此回答您的问题：",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Fri Jan 16 05:58:04 +0000 2026",
+            "metrics": {
+              "reply": 11,
+              "retweet": 29,
+              "like": 145
+            }
+          },
+          {
+            "text": "Chinese AI startup Knowledge Atlas Technology released a new multimodal model that it says is the country’s first to be fully trained using domestic chips, in a sign of progress toward meeting Beijing’s goal of reducing reliance on American technology https://t.co/J0tLgyxqbj",
+            "translation": "中国人工智能初创公司知识图谱科技发布了一个新的多模态模型，据称这是该国第一个完全使用国产芯片训练的模型，这表明在实现北京减少对美国技术依赖的目标方面取得了进展。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Wed Jan 14 04:28:29 +0000 2026",
+            "metrics": {
+              "reply": 7,
+              "retweet": 32,
+              "like": 112
+            }
+          },
+          {
+            "text": "Ford is in talks with China’s BYD about potentially supplying batteries for hybrid vehicles to the American automaker’s overseas factories, according to people familiar with the negotiations https://t.co/jrDLRc1hyG",
+            "translation": "据知情人士透露，福特汽车正与中国比亚迪公司洽谈， potentially 为该美国汽车制造商的海外工厂供应混合动力汽车电池。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Fri Jan 16 01:48:54 +0000 2026",
+            "metrics": {
+              "reply": 15,
+              "retweet": 23,
+              "like": 104
+            }
+          },
+          {
+            "text": "With Donald Trump alienating traditional American partners around the world, Xi Jinping seems to have an easy path to getting ahead in the China-US rivalry. https://t.co/3pYtjUCYzF",
+            "translation": "随着唐纳德·特朗普疏远了世界各地的传统美国伙伴，习近平似乎在中美竞争中轻松占据了上风。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Fri Jan 16 04:47:01 +0000 2026",
+            "metrics": {
+              "reply": 10,
+              "retweet": 20,
+              "like": 100
+            }
+          },
+          {
+            "text": "Chinese officials have sought talks with Venezuelan and US officials to get assurances over its loans to the South American country, according to sources https://t.co/520t78JirT",
+            "translation": "据消息人士透露，中国官员已寻求与委内瑞拉和美国官员进行会谈，以获得其对向这个南美国家贷款的保证。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Wed Jan 14 23:18:26 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 23,
+              "like": 66
+            }
+          },
+          {
+            "text": "China has purchased roughly 12 million tons of US soybeans in the last three months, clearing a closely watched trade hurdle and meeting a key pledge outlined by the Trump administration in November https://t.co/Wwyudb1SIW",
+            "translation": "在过去三个月里，中国购买了大约1200万吨美国大豆，清除了一个备受关注的贸易障碍，并实现了特朗普政府11月概述的一项关键承诺。",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Tue Jan 20 02:54:14 +0000 2026",
+            "metrics": {
+              "reply": 10,
+              "retweet": 12,
+              "like": 59
+            }
+          },
+          {
+            "text": "\"It’s a bit like selling nuclear weapons to North Korea.\"\n\nAnthropic CEO Dario Amodei tells Bloomberg News Editor-in-Chief John Micklethwait that the US selling advanced AI chips to China is \"crazy.\"\n\n#BloombergHouse https://t.co/ZGfHWuTkD1 https://t.co/Oebd98PB2h",
+            "translation": "“这有点像向朝鲜出售核武器。” Anthropic 首席执行官 Dario Amodei 告诉彭博新闻社主编 John Micklethwait，美国向中国出售先进人工智能芯片是“疯狂的”。#BloombergHouse",
+            "stance": "neutral",
+            "username": "business",
+            "created_at": "Tue Jan 20 14:10:22 +0000 2026",
+            "metrics": {
+              "reply": 7,
+              "retweet": 14,
+              "like": 36
+            }
+          }
+        ],
+        "username": "business",
+        "tweet_count": 23
+      },
+      {
+        "info": "反美激进派，主要关注美国霸权与扩张议题。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            7
+          ],
+          [
+            0,
+            3,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Stand with #Greenland? Eat my #Tariffs!\nFYI: #US has threatened to slap tariffs on countries that do not support its plan to \"obtain\" Greenland. https://t.co/OtEV7s47YH",
+            "translation": "支持 #格陵兰岛？吃我的 #关税吧！ 供参考：#美国 已威胁要对不支持其“获取”格陵兰岛计划的国家征收关税。 https://t.co/OtEV7s47YH",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Sat Jan 17 06:53:48 +0000 2026",
+            "metrics": {
+              "reply": 39,
+              "retweet": 174,
+              "like": 395
+            }
+          },
+          {
+            "text": "#Opinion With #Washington's reckless determination to take over #Greenland from Denmark, the fate of #NATO has arrived at perhaps the most ironic moment since its founding decades ago.\n\nThe message to Washington's allies is a chilling one: when the United States wants something, https://t.co/nwfCO6Bvbi",
+            "translation": "#观点 随着 #华盛顿 不顾一切地决心从丹麦手中接管 #格陵兰岛，#北约 的命运迎来了自几十年前成立以来最具讽刺意味的时刻。 给华盛顿盟友的信息令人不寒而栗：当美国想要某样东西时， https://t.co/nwfCO6Bvbi",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Fri Jan 16 12:58:45 +0000 2026",
+            "metrics": {
+              "reply": 21,
+              "retweet": 161,
+              "like": 373
+            }
+          },
+          {
+            "text": "\"Forget about UN. Uncle Sam has a 'peacekeeping' strategy: kneel and pay.\" #USA #Hegemony #Peace https://t.co/TNbXdAvxV1",
+            "translation": "忘掉联合国吧。山姆大叔有一种“维和”策略：跪下并付钱。 #美国 #霸权 #和平 https://t.co/TNbXdAvxV1",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Sun Jan 18 13:57:14 +0000 2026",
+            "metrics": {
+              "reply": 26,
+              "retweet": 146,
+              "like": 363
+            }
+          },
+          {
+            "text": "Roars🦅🇺🇸 &amp; Whispers 🐦🇪🇺\n#US #EU #Europe #Greenland #hegemony https://t.co/g9sadW8cLj",
+            "translation": "咆哮🦅🇺🇸 和 低语 🐦🇪🇺 #美国 #欧盟 #欧洲 #格陵兰岛 #霸权 https://t.co/g9sadW8cLj",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Tue Jan 20 07:17:27 +0000 2026",
+            "metrics": {
+              "reply": 24,
+              "retweet": 134,
+              "like": 371
+            }
+          },
+          {
+            "text": "\"The deal must be closed, in easy or hard way.\"\n#US #Greenland #hegemony #imperialism https://t.co/8eAYraiSWN",
+            "translation": "“交易必须达成，无论是容易的方式还是强硬的方式。” #美国 #格陵兰岛 #霸权 #帝国主义 https://t.co/8eAYraiSWN",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Thu Jan 15 03:02:03 +0000 2026",
+            "metrics": {
+              "reply": 22,
+              "retweet": 123,
+              "like": 289
+            }
+          },
+          {
+            "text": "America's Rich History of Land Grabbing.\n#US #Greenland #hegemony https://t.co/fU74q7KK56",
+            "translation": "美国丰富的掠夺土地历史。 #美国 #格陵兰岛 #霸权 https://t.co/fU74q7KK56",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Wed Jan 21 05:25:04 +0000 2026",
+            "metrics": {
+              "reply": 23,
+              "retweet": 131,
+              "like": 219
+            }
+          },
+          {
+            "text": "#Opinion \"An #appeaser is one who feeds a crocodile -- hoping it will eat him last,\" Winston Churchill once warned.\nChurchill's warning fits today's #Europe all too well. For years, some European countries love to applaud #Washington's addiction to dressing up self-interest as https://t.co/qaDeSOl0EN",
+            "translation": "#观点 “绥靖者就是喂鳄鱼的人——希望它最后才吃自己，”温斯顿·丘吉尔曾经警告说。 丘吉尔的警告非常适合今天的 #欧洲。 多年来，一些欧洲国家喜欢为 #华盛顿 将自身利益乔装打扮的嗜好鼓掌 https://t.co/qaDeSOl0EN",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Thu Jan 22 03:20:56 +0000 2026",
+            "metrics": {
+              "reply": 16,
+              "retweet": 97,
+              "like": 202
+            }
+          },
+          {
+            "text": "#Opinion \"To be an enemy of #America is dangerous, but to be a friend is fatal.\" #Washington's latest #tariff threats against countries opposing its attempt to grab #Greenland once again validate the brutal accuracy of the warning.\nFrom floating the idea of annexing #Canada to https://t.co/oVRcLIa8ct",
+            "translation": "#观点 “做 #美国的敌人是危险的，但做它的朋友是致命的。” #华盛顿 最新针对反对其夺取 #格陵兰岛 的国家发出的 #关税 威胁，再次证实了这一警告的残酷准确性。 从吞并 #加拿大 的想法到 https://t.co/oVRcLIa8ct",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Sat Jan 17 13:08:20 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 82,
+              "like": 156
+            }
+          },
+          {
+            "text": "One year into the current U.S. administration, Washington has officially dropped the pretense of upholding the global order -- it is now openly pursuing an imperial agenda https://t.co/O7gDk0Bcir https://t.co/o9kA7MDmQd",
+            "translation": "现任美国政府执政一年后，华盛顿正式放弃了维护全球秩序的伪装——它现在正在公开追求帝国主义议程 https://t.co/O7gDk0Bcir https://t.co/o9kA7MDmQd",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Tue Jan 20 08:55:44 +0000 2026",
+            "metrics": {
+              "reply": 15,
+              "retweet": 59,
+              "like": 120
+            }
+          },
+          {
+            "text": "The cake is for sharing, but somebody wants to grab it all.\n#US #Economy #Hegemony https://t.co/N8OyN7u9UH",
+            "translation": "蛋糕是用来分享的，但有人想把它全部抢走。 #美国 #经济 #霸权 https://t.co/N8OyN7u9UH",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Thu Jan 22 03:11:11 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 59,
+              "like": 124
+            }
+          },
+          {
+            "text": "A cold welcome\n#US #Europe #Greenland #ICE #hegemony https://t.co/wT04cFnwcv",
+            "translation": "冷淡的欢迎 #美国 #欧洲 #格陵兰岛 #冰 #霸权 https://t.co/wT04cFnwcv",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Thu Jan 22 04:41:11 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 49,
+              "like": 143
+            }
+          },
+          {
+            "text": "Your sweet dream is my worst nightmare.\n#US #Greenland #Hegemony https://t.co/t6maGCCE6T",
+            "translation": "你的美梦是我的噩梦。 #美国 #格陵兰岛 #霸权 https://t.co/t6maGCCE6T",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Mon Jan 19 05:27:44 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 39,
+              "like": 99
+            }
+          },
+          {
+            "text": "The rules are simple: #Capital First, #People Last.\n#US #killline #homelessness #poverty https://t.co/8wDrN0Olb2",
+            "translation": "规则很简单：#资本 优先，#人民 殿后。 #美国 #死亡线 #无家可归 #贫困 https://t.co/8wDrN0Olb2",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Fri Jan 16 03:06:57 +0000 2026",
+            "metrics": {
+              "reply": 9,
+              "retweet": 26,
+              "like": 82
+            }
+          },
+          {
+            "text": "\"My whistle. My rulebook. My GAME.\"\n#US #hegemony #AmericanStyleCooperation https://t.co/pQsMbDhsiA",
+            "translation": "“我的哨子。我的规则书。我的游戏。” #美国 #霸权 #美式合作 https://t.co/pQsMbDhsiA",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Thu Jan 22 06:16:18 +0000 2026",
+            "metrics": {
+              "reply": 9,
+              "retweet": 26,
+              "like": 61
+            }
+          },
+          {
+            "text": "Uncle Sam: Perfect dimension for my ambition.\n#US #Greenland #Hegemony https://t.co/zGgg8DohJZ",
+            "translation": "山姆大叔：我野心的完美维度。 #美国 #格陵兰岛 #霸权 https://t.co/zGgg8DohJZ",
+            "stance": "neutral",
+            "username": "XHNews",
+            "created_at": "Sat Jan 17 09:13:30 +0000 2026",
+            "metrics": {
+              "reply": 11,
+              "retweet": 10,
+              "like": 42
+            }
+          }
+        ],
+        "username": "XHNews",
+        "tweet_count": 23
+      },
+      {
+        "info": "特朗普政府支持者，宣扬美国优先政策。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            5
+          ],
+          [
+            1,
+            1,
+            5
+          ],
+          [
+            1,
+            2,
+            5
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 5
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "美国的衰退结束了。因为特朗普总统，我们正在以尊严、影响力和实力面对世界。从斡旋和平协议到增加防务开支，到保障边境安全，我们正在落实“美国优先”。 https://t.co/ngBvdHaA9X",
+            "translation": "美国的衰退结束了。因为特朗普总统，我们正在以尊严、影响力和实力面对世界。从斡旋和平协议到增加防务开支，到保障边境安全，我们正在落实“美国优先”。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Wed Jan 21 08:20:30 +0000 2026",
+            "metrics": {
+              "reply": 601,
+              "retweet": 233,
+              "like": 1539
+            }
+          },
+          {
+            "text": "“即日起，任何与伊朗伊斯兰共和国进行商业往来的国家，他们与美利坚合众国进行的任何及所有商业往来都将缴纳25%的关税。此命令为最终决定，且具有终局效力……”——唐纳德·J·特朗普总统",
+            "translation": "“即日起，任何与伊朗伊斯兰共和国进行商业往来的国家，他们与美利坚合众国进行的任何及所有商业往来都将缴纳25%的关税。此命令为最终决定，且具有终局效力……”——唐纳德·J·特朗普总统",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Tue Jan 13 09:08:00 +0000 2026",
+            "metrics": {
+              "reply": 212,
+              "retweet": 131,
+              "like": 1008
+            }
+          },
+          {
+            "text": "唐纳德·J·特朗普总统的365天。黄金时代刚刚开始。",
+            "translation": "唐纳德·J·特朗普总统的365天。黄金时代刚刚开始。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Wed Jan 21 07:00:13 +0000 2026",
+            "metrics": {
+              "reply": 342,
+              "retweet": 101,
+              "like": 705
+            }
+          },
+          {
+            "text": "卢比奥国务卿@SecRubio：短短一年里，特朗普总统已经通过果敢推行以实力求和平的方针重振了美国的主权。在他的果断领导下，我们的盟友尊重我们，我们的对手畏惧我们，而美国人民被放在了第一位。说到做到。",
+            "translation": "卢比奥国务卿@SecRubio：短短一年里，特朗普总统已经通过果敢推行以实力求和平的方针重振了美国的主权。在他的果断领导下，我们的盟友尊重我们，我们的对手畏惧我们，而美国人民被放在了第一位。说到做到。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Wed Jan 21 07:25:18 +0000 2026",
+            "metrics": {
+              "reply": 132,
+              "retweet": 47,
+              "like": 335
+            }
+          },
+          {
+            "text": "特朗普总统宣布美国将退出66个反美、无用或浪费的国际组织。对其他国际组织的审查仍在进行之中。这些退出举措兑现了特朗普总统对美国人民的一项关键承诺——我们将停止资助那些损害我国利益的全球主义官僚机构。特朗普政府将始终把美国和美国人民的利益置于首位。https://t.co/f7pLnf70aW",
+            "translation": "特朗普总统宣布美国将退出66个反美、无用或浪费的国际组织。对其他国际组织的审查仍在进行之中。这些退出举措兑现了特朗普总统对美国人民的一项关键承诺——我们将停止资助那些损害我国利益的全球主义官僚机构。特朗普政府将始终把美国和美国人民的利益置于首位。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Fri Jan 09 06:15:55 +0000 2026",
+            "metrics": {
+              "reply": 87,
+              "retweet": 49,
+              "like": 274
+            }
+          },
+          {
+            "text": "美国国务院将暂停办理来自75个国家的移民签证，这些国家的移民以不可接受的比例领取美国民众的福利。这一冻结措施将持续有效，直到美国能够确保新移民不会从美国民众手中攫取财富。",
+            "translation": "美国国务院将暂停办理来自75个国家的移民签证，这些国家的移民以不可接受的比例领取美国民众的福利。这一冻结措施将持续有效，直到美国能够确保新移民不会从美国民众手中攫取财富。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Thu Jan 15 07:11:00 +0000 2026",
+            "metrics": {
+              "reply": 34,
+              "retweet": 41,
+              "like": 235
+            }
+          },
+          {
+            "text": "白宫新闻秘书@PressSec：“关于伊朗问题，我想说的是，总统及其团队已经向伊朗政权传达：如果杀戮继续下去，必将面临严重后果……原定于昨日执行的800起处决已被叫停。”",
+            "translation": "白宫新闻秘书@PressSec：“关于伊朗问题，我想说的是，总统及其团队已经向伊朗政权传达：如果杀戮继续下去，必将面临严重后果……原定于昨日执行的800起处决已被叫停。”",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Fri Jan 16 09:34:00 +0000 2026",
+            "metrics": {
+              "reply": 47,
+              "retweet": 38,
+              "like": 173
+            }
+          },
+          {
+            "text": "财政部部长贝森特@SecScottBessent：“昨晚在达沃斯，我和中方的对口官员在这里举行了一场会晤……他告诉我，就在这周，他们已经完成了他们对大豆的购买，同时我们在期待着下一年的2500万吨。” https://t.co/OEfqsW7ZkE",
+            "translation": "财政部部长贝森特@SecScottBessent：“昨晚在达沃斯，我和中方的对口官员在这里举行了一场会晤……他告诉我，就在这周，他们已经完成了他们对大豆的购买，同时我们在期待着下一年的2500万吨。”",
+            "stance": "positive",
+            "username": "USA_China_Talk",
+            "created_at": "Wed Jan 21 09:13:00 +0000 2026",
+            "metrics": {
+              "reply": 32,
+              "retweet": 28,
+              "like": 192
+            }
+          },
+          {
+            "text": "美国对伊朗臭名昭著的法尔迪斯监狱及多名政权安全官员实施制裁，以回击伊朗对示威民众的暴力与残酷行径。我们还制裁了18名与伊朗“影子银行”网络有关联的个人，这些网络助长伊朗政权的非法活动及其对伊朗人民的镇压。https://t.co/bt8xFXV47t",
+            "translation": "美国对伊朗臭名昭著的法尔迪斯监狱及多名政权安全官员实施制裁，以回击伊朗对示威民众的暴力与残酷行径。我们还制裁了18名与伊朗“影子银行”网络有关联的个人，这些网络助长伊朗政权的非法活动及其对伊朗人民的镇压。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Fri Jan 16 08:36:00 +0000 2026",
+            "metrics": {
+              "reply": 40,
+              "retweet": 30,
+              "like": 166
+            }
+          },
+          {
+            "text": "在上任一周年之际，唐纳德·J·特朗普总统召开了将近两小时的记者会，并且带来了他的成就清单。",
+            "translation": "在上任一周年之际，唐纳德·J·特朗普总统召开了将近两小时的记者会，并且带来了他的成就清单。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Wed Jan 21 07:48:06 +0000 2026",
+            "metrics": {
+              "reply": 53,
+              "retweet": 22,
+              "like": 123
+            }
+          },
+          {
+            "text": "#美国建国两个半世纪《独立宣言》的签署者之罗伯特·莫里斯（1734年-1806年）\n\n罗伯特·莫里斯被誉为“革命的融资家”，对美国独立事业至关重要——凭借其卓越的商业和金融才能，几乎凭一己之力推动了美国的战争努力直至最终胜利。\n\nhttps://t.co/2kbEP64DNk",
+            "translation": "#美国建国两个半世纪《独立宣言》的签署者之罗伯特·莫里斯（1734年-1806年）  罗伯特·莫里斯被誉为“革命的融资家”，对美国独立事业至关重要——凭借其卓越的商业和金融才能，几乎凭一己之力推动了美国的战争努力直至最终胜利。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Tue Jan 20 08:17:46 +0000 2026",
+            "metrics": {
+              "reply": 34,
+              "retweet": 15,
+              "like": 120
+            }
+          },
+          {
+            "text": "#Freedom250 Signers of the Declaration of Independence: Robert Morris (1734-1806)\n\nKnown as “Financier of the Revolution,” Robert Morris was indispensable to the cause of American Independence—using his commercial and financial brilliance to almost single-handedly propel American https://t.co/UHQstbZWZb",
+            "translation": "#Freedom250 Signers of the Declaration of Independence: Robert Morris (1734-1806)  Known as “Financier of the Revolution,” Robert Morris was indispensable to the cause of American Independence—using his commercial and financial brilliance to almost single-handedly propel American",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Tue Jan 20 08:17:03 +0000 2026",
+            "metrics": {
+              "reply": 37,
+              "retweet": 19,
+              "like": 79
+            }
+          },
+          {
+            "text": "昨天，特朗普总统@POTUS签署公告以应对半导体进口带来的国家安全风险——支持国内制造、强化供应链体系、保障美国技术未来。\nhttps://t.co/xsKGjZn4HM",
+            "translation": "1月14日，特朗普总统@POTUS签署公告以应对半导体进口带来的国家安全风险——支持国内制造、强化供应链体系、保障美国技术未来。",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Fri Jan 16 10:20:00 +0000 2026",
+            "metrics": {
+              "reply": 31,
+              "retweet": 18,
+              "like": 79
+            }
+          },
+          {
+            "text": "1月14日，特朗普总统@POTUS签署公告以应对半导体进口带来的国家安全风险——支持国内制造、强化供应链体系、保障美国技术未来。\n\n阅读简报🔽\nhttps://t.co/JbEn3leuAX",
+            "translation": "1月14日，特朗普总统@POTUS签署公告以应对半导体进口带来的国家安全风险——支持国内制造、强化供应链体系、保障美国技术未来。  阅读简报🔽",
+            "stance": "neutral",
+            "username": "USA_China_Talk",
+            "created_at": "Tue Jan 20 09:09:00 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 17,
+              "like": 54
+            }
+          }
+        ],
+        "username": "USA_China_Talk",
+        "tweet_count": 14
+      },
+      {
+        "info": "亲华激进派，主要关注中美博弈。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            10
+          ],
+          [
+            0,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 10
+          },
+          {
+            "name": "同伴",
+            "value": 40
+          },
+          {
+            "name": "亲情",
+            "value": 50
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@kajakallas The funniest part isn’t Trump threatening Europe or the chaos over Greenland.\nThe real comedy is this: \nThe EU actually had a once-in-a-century chance to become the world’s third pole.\nChina offered you space, markets, and strategic autonomy on a silver platter… and you chose to",
+            "translation": "@kajakallas 最有趣的部分不是特朗普威胁欧洲或格陵兰岛的混乱。真正的喜剧是这样的：欧盟实际上有一个世纪一遇的机会成为世界的第三极。中国把空间、市场和战略自主权都端到了你们面前……而你们选择了",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Sun Jan 18 00:55:37 +0000 2026",
+            "metrics": {
+              "reply": 104,
+              "retweet": 580,
+              "like": 4430
+            }
+          },
+          {
+            "text": "The West:\n“China didn’t stop Russia.”\n“China didn’t punish Israel.”\n“China won’t save us from Trump.”\n\nBaby, China isn’t your babysitter.\nClean your own mess. https://t.co/NWPttKqNDq",
+            "translation": "西方：“中国没有阻止俄罗斯。”“中国没有惩罚以色列。”“中国不会把我们从特朗普手中救出来。” 亲爱的，中国不是你们的保姆。收拾你们自己的烂摊子。",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Wed Jan 21 03:08:28 +0000 2026",
+            "metrics": {
+              "reply": 65,
+              "retweet": 464,
+              "like": 3878
+            }
+          },
+          {
+            "text": "They kept screaming that “China will collapse” after Trump grabbed Venezuela’s oil.\nMeanwhile China didn’t even bother to argue…\nit just kept exporting to Latin America and cashing in.\n\nEmpires shout.\nManufacturers deliver. https://t.co/jZfmkqTExn",
+            "translation": "他们一直尖叫着说特朗普抢夺委内瑞拉石油后“中国会崩溃”。与此同时，中国甚至懒得争辩……它只是继续向拉丁美洲出口并大赚一笔。帝国大喊大叫。制造商交付成果。",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Wed Jan 21 23:07:15 +0000 2026",
+            "metrics": {
+              "reply": 34,
+              "retweet": 358,
+              "like": 3329
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 China’s trade surplus is now a monster even China “can’t stop” from growing.\n2025 ended with $1.2 trillion in surplus, the highest in human history.\n\nTrump escalated his trade war, cut US imports, raised tariffs…\nAnd what happened?\n\nChina didn’t collapse.\nChina simply https://t.co/WcSeVgB7K6",
+            "translation": "🇨🇳🇺🇸 中国的贸易顺差现在是一个连中国自己都“无法阻止”增长的庞然大物。2025年结束时，顺差达到1.2万亿美元，是人类历史上最高的。特朗普升级了贸易战，削减了美国进口，提高了关税……结果呢？中国没有崩溃。中国只是",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Wed Jan 14 22:43:03 +0000 2026",
+            "metrics": {
+              "reply": 108,
+              "retweet": 478,
+              "like": 1777
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 The Guardian isn’t “warning” the world, it’s grieving the end of its own worldview.\n\nA global survey shows what London and Washington can’t say out loud:\n• China’s influence is rising in almost every region\n• Even Americans expect China to grow stronger\n• US allies feel https://t.co/m6ZCRPkkn4",
+            "translation": "🇨🇳🇺🇸 《卫报》不是在“警告”世界，它是在哀悼自己世界观的终结。一项全球调查显示伦敦和华盛顿不敢大声说出来的事实：• 中国的影响力几乎在每个地区都在上升 • 甚至美国人也预期中国会变得更强大 • 美国盟友感到",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Fri Jan 16 01:09:49 +0000 2026",
+            "metrics": {
+              "reply": 50,
+              "retweet": 217,
+              "like": 760
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 The H200 “block” shows something most Americans still don’t understand about China and technology.\n\nTrump thought he could play a clever three-step game:\n1. allow H200 shipments to China,\n2. slap a 25% tariff to “get paid,”\n3. delay China’s domestic chip progress while https://t.co/2V4TNmvEtf",
+            "translation": "🇨🇳🇺🇸 H200“禁令”表明了大多数美国人仍然不了解中国和技术的一件事。特朗普以为他能玩一个聪明的三步棋：1. 允许H200出口到中国，2. 征收25%的关税来“赚钱”，3. 在拖延国内芯片进步的同时",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Sat Jan 17 16:49:03 +0000 2026",
+            "metrics": {
+              "reply": 26,
+              "retweet": 170,
+              "like": 725
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 US analysts crack me up.\nThey scream:\n“China’s J-35 is dangerous, a game-changer in a Taiwan war!”\n…then in the same breath:\n“But it must have copied our F-35!”\n\nHow does that work?\nHuawei “copied” the West — then built 5G and 6G while the US still argues about TikTok. https://t.co/w16RWCKCGW",
+            "translation": "🇨🇳🇺🇸 美国分析师真是让我笑死。他们尖叫道：“中国的J-35很危险，是台海战争的规则改变者！”……紧接着又说：“但它肯定是抄袭了我们的F-35！” 这怎么讲得通？华为“抄袭”了西方——然后在美国还在争论TikTok的时候建立了5G和6G。",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Fri Jan 16 12:27:19 +0000 2026",
+            "metrics": {
+              "reply": 39,
+              "retweet": 115,
+              "like": 653
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 Every time the US pulls another stunt, all it really does is force China to close yet another loophole in its national security.\nOne by one, Washington’s tools stop working.\n\nAt the end of this road, America will realise something uncomfortable:\n\nYou can’t win against a https://t.co/DCqrpZhsRC",
+            "translation": "🇨🇳🇺🇸 每次美国搞把戏，实际上只是迫使中国在国家安全的又一个漏洞上补丁。一个接一个，华盛顿的工具失效了。 在这条路的尽头，美国会意识到一件不舒服的事情： 你赢不了一个",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Fri Jan 16 11:26:26 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 61,
+              "like": 328
+            }
+          },
+          {
+            "text": "🇨🇳🇺🇸 China has turned every US trade war, sanction, and “decoupling” attempt into a catalyst for upgrading its own economy.\n\nFrom Trump’s tariffs in 2018 and 2025 to Biden’s four years of tech restrictions, the pattern is the same:\nWashington escalates, Beijing restructures, https://t.co/re3lfDfRzP",
+            "translation": "🇨🇳🇺🇸 中国将每一次美国的贸易战、制裁和“脱钩”尝试都转化为升级自身经济的催化剂。从2018年和2025年特朗普的关税到拜登四年的技术限制，模式都是一样的：华盛顿升级，北京重组，",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Wed Jan 14 12:36:46 +0000 2026",
+            "metrics": {
+              "reply": 14,
+              "retweet": 47,
+              "like": 218
+            }
+          },
+          {
+            "text": "🇨🇳 AI’s future isn’t compute, it’s electricity.\nAnd here’s the part nobody in Washington wants to admit:\nWhile Trump is begging for oil, coal, and a 1950s power grid, China is building the only energy system capable of feeding 21st-century AI.\n\nChina’s demand just hit 10.4 https://t.co/8jPaUOvgOv",
+            "translation": "🇨🇳 AI的未来不在于算力，而在于电力。这是华盛顿没人愿意承认的部分：当特朗普乞求石油、煤炭和1950年代的电网时，中国正在建设唯一能够喂饱21世纪AI的能源系统。中国的需求刚刚达到10.4",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Sun Jan 18 01:50:19 +0000 2026",
+            "metrics": {
+              "reply": 5,
+              "retweet": 50,
+              "like": 166
+            }
+          },
+          {
+            "text": "🇨🇳 China’s shipyards run on automation.\n🇺🇸 America’s shipyards run on strikes.\n\nTrump thinks he can hand-craft a navy fast enough to catch up?😌 https://t.co/BTSDID2e5t",
+            "translation": "🇨🇳 中国的船厂靠自动化运转。🇺🇸 美国的船厂靠罢工运转。特朗普以为他能靠手工打造一支足够快的海军来追上来？😌",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Wed Jan 14 23:35:58 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 26,
+              "like": 178
+            }
+          },
+          {
+            "text": "You’re not “working class,” JP. You’re just working for America’s imperial anxiety.\nCanada negotiates trade, energy and EV access with China and suddenly you scream “treason”?\nInteresting. Beijing signs deals, your brain signs up for a panic attack.\n\nIf China talking to your",
+            "translation": "你不是“工人阶级”，JP。你只是为美国的帝国焦虑工作。加拿大与中国谈判贸易、能源和电动汽车准入，突然你尖叫“叛国”？有意思。北京签署协议，你的大脑报名参加恐慌发作。 如果中国跟你的",
+            "stance": "positive",
+            "username": "OopsGuess",
+            "created_at": "Sun Jan 18 12:02:08 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 19,
+              "like": 151
+            }
+          }
+        ],
+        "username": "OopsGuess",
+        "tweet_count": 12
+      },
+      {
+        "info": "反华鹰派，主张中美对抗，警惕中共渗透。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            10
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            9
+          ],
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "If you think the US is more of a threat than Communist China, that’s a testament to how successful Chinese influence operations have been.",
+            "translation": "如果你认为美国比中共更具威胁性，这证明中国的影响力行动是多么成功。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Wed Jan 21 13:10:11 +0000 2026",
+            "metrics": {
+              "reply": 153,
+              "retweet": 652,
+              "like": 5427
+            }
+          },
+          {
+            "text": "Europe and Canada are not US allies. Again, this didn’t start because of Trump. They’ve been taken by authoritarian loving globalists who resent the US and the Constitution to the core and when push comes to shove, are choosing the CCP over the US.",
+            "translation": "欧洲和加拿大不是美国的盟友。再说一次，这不是因为特朗普才开始的。他们已经被热爱威权主义的全球主义者控制了，这些人从骨子里憎恨美国和宪法，当紧要关头来临时，他们选择了中共而不是美国。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Sun Jan 18 13:39:52 +0000 2026",
+            "metrics": {
+              "reply": 111,
+              "retweet": 269,
+              "like": 1651
+            }
+          },
+          {
+            "text": "I don’t know what Trump was thinking with the whole 51st state thing, but to say that drive Canada into the arms of the CCP is…silly. It happened because Canada was already captured.",
+            "translation": "我不知道特朗普关于“第51个州”的想法是怎么来的，但如果说这会把加拿大推向中共的怀抱……那是愚蠢的。这发生是因为加拿大已经被攻陷了。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Sat Jan 17 12:02:29 +0000 2026",
+            "metrics": {
+              "reply": 75,
+              "retweet": 123,
+              "like": 1037
+            }
+          },
+          {
+            "text": "Canada is not a US ally",
+            "translation": "加拿大不是美国的盟友。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Fri Jan 16 01:03:18 +0000 2026",
+            "metrics": {
+              "reply": 65,
+              "retweet": 94,
+              "like": 793
+            }
+          },
+          {
+            "text": "Over the years I’ve had people complain, “why do you talk about the US? Why don’t you stick to talking about China?”\n\nThe problem is China isn’t its own isolated bubble. You can’t just stop at “look at this video of bad construction in China! Lolz!”\n\nTo really understand the CCP,",
+            "translation": "多年来，一直有人抱怨，“你为什么要谈论美国？为什么不坚持谈论中国？” 问题在于中国不是一个孤立的泡沫。你不能只停留在“看这个中国豆腐渣工程视频！哈哈！” 要真正理解中共，",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Fri Jan 16 13:39:44 +0000 2026",
+            "metrics": {
+              "reply": 21,
+              "retweet": 55,
+              "like": 410
+            }
+          },
+          {
+            "text": "China just posted a record $1.2 trillion trade surplus. The media calls it a win. The reality is more complicated. This episode breaks down what China’s trade numbers really mean, why exports are surging, and why this doesn’t prove the CCP beat the US in the trade war. https://t.co/JIScJ0CopH",
+            "translation": "中国刚刚公布了创纪录的1.2万亿美元贸易顺差。媒体称之为胜利。现实情况更为复杂。本期节目分解了中国贸易数字的真正含义，出口为何激增，以及为什么这不能证明中共在贸易战中击败了美国。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Mon Jan 19 18:13:41 +0000 2026",
+            "metrics": {
+              "reply": 25,
+              "retweet": 62,
+              "like": 295
+            }
+          },
+          {
+            "text": "Let me attempt to explain the dialects. You take something THAT IS NOT CONTROVERSIAL—the US needs strong borders, the US should enforce its immigration laws, illegal immigrants should be deported, respect for law enforcement.\n\nThen gradually you begin to twist it. First it starts https://t.co/HeE2SNDKrI",
+            "translation": "让我试着解释一下这种辩证法。你拿一件**毫无争议**的事情——美国需要强大的边境，美国应该执行移民法，非法移民应该被驱逐，尊重执法部门。然后你开始逐渐扭曲它。首先它开始",
+            "stance": "neutral",
+            "username": "ChinaUncensored",
+            "created_at": "Tue Jan 20 16:34:05 +0000 2026",
+            "metrics": {
+              "reply": 14,
+              "retweet": 57,
+              "like": 237
+            }
+          },
+          {
+            "text": "The first part of this is CRITICAL to understand. What the US is doing is preparing for war with the CCP.",
+            "translation": "第一部分对于理解至关重要。美国正在做的是准备与中共开战。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Sat Jan 17 16:48:37 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 37,
+              "like": 285
+            }
+          },
+          {
+            "text": "It’s the US or China. That’s why it’s so important for the US to guard against communist subversion.",
+            "translation": "不是美国就是中国。这就是为什么美国防范共产主义颠覆如此重要。",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Sat Jan 17 13:02:26 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 25,
+              "like": 200
+            }
+          },
+          {
+            "text": "After the U.S. captured Venezuela’s Nicolas Maduro, attention is turning to another longtime CCP ally just 90 miles from Florida. From Chinese spy bases and PLA war planning to Cuba’s collapsing economy, the island may be more vulnerable than ever. Is Cuba next on the Trump https://t.co/Iszj23osRW",
+            "translation": "在美国抓获委内瑞拉的尼古拉斯·马杜罗后，注意力转向了另一个距离佛罗里达仅90英里的长期中共盟友。从中国间谍基地和解放军战争计划到古巴崩溃的经济，这个岛国可能比以往任何时候都更脆弱。古巴是特朗普的下一个目标吗？",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Mon Jan 19 18:13:12 +0000 2026",
+            "metrics": {
+              "reply": 10,
+              "retweet": 27,
+              "like": 154
+            }
+          },
+          {
+            "text": "The Iranian regime relies on Chinese weapons and Chinese economic support. But they also saw that Chinese “support” was unable to stop the US from capturing Nicolas Maduro in Venezuela. So now Iran is wondering, “Are we going to get toppled by the US next?” https://t.co/gO025kuRcW",
+            "translation": "伊朗政权依赖中国的武器和中国的经济支持。但他们也看到，中国的“支持”无法阻止美国在委内瑞拉抓获尼古拉斯·马杜罗。所以现在伊朗在想，“我们会是下一个被美国推翻的国家吗？”",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Mon Jan 19 18:19:51 +0000 2026",
+            "metrics": {
+              "reply": 18,
+              "retweet": 24,
+              "like": 125
+            }
+          },
+          {
+            "text": "Can the US Military Still Surprise China and Iran? https://t.co/5kCAMdl2X3 https://t.co/huOk5l2iny",
+            "translation": "美军还能让中国和伊朗感到意外吗？",
+            "stance": "negative",
+            "username": "ChinaUncensored",
+            "created_at": "Wed Jan 21 20:38:10 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 11,
+              "like": 78
+            }
+          }
+        ],
+        "username": "ChinaUncensored",
+        "tweet_count": 12
+      },
+      {
+        "info": "国际新闻媒体，关注中美贸易与地缘政治。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            5
+          ],
+          [
+            1,
+            1,
+            6
+          ],
+          [
+            1,
+            2,
+            4
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 5
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "China says its new London embassy will comply with laws after Britain gave approval to Beijing to build its largest embassy in Europe, despite warnings from UK and US politicians that it could be used as a base for spying https://t.co/pEx9Jp5Qsc https://t.co/Dlji7NWB1n",
+            "translation": "中国表示其新的伦敦大使馆将遵守法律，此前英国批准北京建造其在欧洲最大的大使馆，尽管英国和美国政客警告称这可能被用作间谍基地。",
+            "stance": "neutral",
+            "username": "Reuters",
+            "created_at": "Wed Jan 21 12:35:00 +0000 2026",
+            "metrics": {
+              "reply": 64,
+              "retweet": 153,
+              "like": 674
+            }
+          },
+          {
+            "text": "Chinese authorities have told domestic companies to stop using cybersecurity software made by roughly a dozen firms from the US and Israel due to national security concerns, two people briefed on the matter said https://t.co/o56BnJo7rY https://t.co/UfPgtAkqWH",
+            "translation": "知情人士称，中国当局已告知国内公司停止使用大约十几家美国和以色列公司生产的网络安全软件，理由是国家安全问题。",
+            "stance": "negative",
+            "username": "Reuters",
+            "created_at": "Wed Jan 14 15:55:00 +0000 2026",
+            "metrics": {
+              "reply": 20,
+              "retweet": 97,
+              "like": 359
+            }
+          },
+          {
+            "text": "The US and Taiwan clinched a trade deal that cuts tariffs on many of the semiconductor powerhouse's exports, directs new investments in the US technology industry and risks infuriating China https://t.co/riOIWL1gwr https://t.co/rMfDUBIRBO",
+            "translation": "美国和台湾达成了一项贸易协议，削减了这个半导体强国许多出口产品的关税，为美国科技行业指明了新的投资方向，并有可能激怒中国。",
+            "stance": "negative",
+            "username": "Reuters",
+            "created_at": "Fri Jan 16 09:45:00 +0000 2026",
+            "metrics": {
+              "reply": 8,
+              "retweet": 32,
+              "like": 76
+            }
+          },
+          {
+            "text": "Britain approved plans for China to build its largest European embassy in London, despite warnings from UK and US politicians about potential security risks and local opposition https://t.co/J1Ilt94p7R https://t.co/nUaNV5lZYu",
+            "translation": "英国批准了中国在伦敦建造其最大欧洲大使馆的计划，尽管英国和美国政客对潜在的安全风险和当地反对意见发出了警告。",
+            "stance": "neutral",
+            "username": "Reuters",
+            "created_at": "Tue Jan 20 23:40:00 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 20,
+              "like": 41
+            }
+          },
+          {
+            "text": "US and Taiwan reach trade deal, with semiconductor chips and China in focus https://t.co/rjTjALU6F0 https://t.co/rjTjALU6F0",
+            "translation": "美国和台湾达成贸易协议，重点关注半导体芯片和中国。",
+            "stance": "negative",
+            "username": "Reuters",
+            "created_at": "Fri Jan 16 03:40:07 +0000 2026",
+            "metrics": {
+              "reply": 22,
+              "retweet": 14,
+              "like": 32
+            }
+          },
+          {
+            "text": "TSMC, the world's main producer of advanced AI chips, posted a forecast-smashing 35% jump in fourth-quarter profit to record levels, predicted robust growth this year and flagged more US manufacturing capacity was in the works https://t.co/qfWGuIeBy6 https://t.co/b2K00unC6X",
+            "translation": "全球主要先进AI芯片生产商台积电公布第四季度利润跃升35%，超出预期并创下纪录水平，预测今年将实现强劲增长，并指出美国制造业产能正在增加。",
+            "stance": "neutral",
+            "username": "Reuters",
+            "created_at": "Thu Jan 15 10:25:00 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 15,
+              "like": 54
+            }
+          },
+          {
+            "text": "Danish Foreign Minister Lars Løkke Rasmussen said 'fundamental disagreements' remain after US talks in Washington and that there is not an instant threat from China or Russia that his country can't accommodate https://t.co/tzQJMjYll6",
+            "translation": "丹麦外交大臣拉斯穆森表示，在华盛顿会谈后仍存在“根本分歧”，并且来自中国或俄罗斯的威胁并非其国家无法应对的即时威胁。",
+            "stance": "neutral",
+            "username": "Reuters",
+            "created_at": "Wed Jan 14 19:40:40 +0000 2026",
+            "metrics": {
+              "reply": 8,
+              "retweet": 14,
+              "like": 35
+            }
+          },
+          {
+            "text": "China taps export controls veteran amid trade tensions with US, Japan https://t.co/CDzRdun8nk https://t.co/CDzRdun8nk",
+            "translation": "在与美国和日本的贸易紧张局势中，中国启用了一位出口管制领域的资深人士。",
+            "stance": "neutral",
+            "username": "Reuters",
+            "created_at": "Mon Jan 12 13:15:11 +0000 2026",
+            "metrics": {
+              "reply": 4,
+              "retweet": 12,
+              "like": 44
+            }
+          },
+          {
+            "text": "US, Taiwan reach trade deal focused on semiconductors, US Commerce Department says https://t.co/pgf2GnFwtJ https://t.co/pgf2GnFwtJ",
+            "translation": "美国商务部表示，美国与台湾达成了一项专注于半导体的贸易协议。",
+            "stance": "negative",
+            "username": "Reuters",
+            "created_at": "Thu Jan 15 23:35:05 +0000 2026",
+            "metrics": {
+              "reply": 4,
+              "retweet": 8,
+              "like": 16
+            }
+          }
+        ],
+        "username": "Reuters",
+        "tweet_count": 9
+      },
+      {
+        "info": "亲中激进派，聚焦中美军事对抗。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            10
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            9
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "JUST IN🇩🇰🇬🇱🇨🇳#Denmark will sign first defense pact with China to purchase J-20 and J-10c jets amid rising Tension with US if NATO refused to protect #Greenland. \n\n🤯GOLDEN CHANCES FOR CHINA🇨🇳🔥 https://t.co/jlPizp9F5Q",
+            "translation": "突发🇩🇰🇬🇱🇨🇳#丹麦将与中国签署首个防务协议，购买J-20和J-10c战机，此前因北约拒绝保护#格陵兰岛而导致紧张局势升级。🤯中国的黄金机会🇨🇳🔥",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Sat Jan 17 10:22:12 +0000 2026",
+            "metrics": {
+              "reply": 1009,
+              "retweet": 1818,
+              "like": 12041
+            }
+          },
+          {
+            "text": "WORLD WAR III?🇮🇱🇮🇷🇺🇸 Israeli media Claims, US PREPARING to strikes Iran before 31st of January over rising Iranian missiles stockpile, Russian weapons imports and Chinese air defence systems. https://t.co/SYUQhazaXY",
+            "translation": "第三次世界大战？🇮🇱🇮🇷🇺🇸 以色列媒体声称，鉴于伊朗导弹库存增加、俄罗斯武器进口及中国防空系统，美国正准备在1月31日前打击伊朗。",
+            "stance": "neutral",
+            "username": "rkmtimes",
+            "created_at": "Sun Jan 18 10:45:20 +0000 2026",
+            "metrics": {
+              "reply": 91,
+              "retweet": 586,
+              "like": 3936
+            }
+          },
+          {
+            "text": "JUST IN🇮🇳🇷🇺🇨🇳🔥The Chinese, Indian and Russian banks jointly proposed to #BRICS linking digital currencies to faciliate Cross-Border trade and reduce dependence on US Dollar amid #Trump's strict stance on its allies. https://t.co/MxHAzvGn3m",
+            "translation": "突发🇮🇳🇷🇺🇨🇳🔥中国、印度和俄罗斯银行联合提议#金砖国家将数字货币联系起来，以促进跨境贸易并减少对美元的依赖，此前#特朗普对其盟友持严格态度。",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Mon Jan 19 11:11:38 +0000 2026",
+            "metrics": {
+              "reply": 51,
+              "retweet": 516,
+              "like": 3079
+            }
+          },
+          {
+            "text": "JUST IN🇨🇳🇷🇺🇺🇦 European Union preparing to halt Military aid to US-backed Zelenskyy and welcomes China and Russia in Europe instead of US and Israel. https://t.co/kni1F0sxzm",
+            "translation": "突发🇨🇳🇷🇺🇺🇦 欧盟正准备停止对美国支持的泽连斯基的军事援助，并欢迎中国和俄罗斯进入欧洲，以取代美国和以色列。",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Wed Jan 21 09:31:32 +0000 2026",
+            "metrics": {
+              "reply": 147,
+              "retweet": 390,
+              "like": 3273
+            }
+          },
+          {
+            "text": "🇨🇳🇹🇼🇺🇸🔥 China planning to takeover the World’s largest Semiconductor producers of Taiwan, despite restrictions, China is increasingly approaching the technology leadership of the United States.\n\n🇹🇼🇨🇳After Oil, Rare-earth &amp; Minerals, China occupying global Semiconductor markets. https://t.co/eLBBe21uVA",
+            "translation": "🇨🇳🇹🇼🇺🇸🔥 中国计划接管台湾这个世界上最大的半导体生产商，尽管受到限制，中国正日益接近美国的技术领导地位。🇹🇼🇨🇳继石油、稀土和矿物之后，中国正在占领全球半导体市场。",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Sun Jan 11 13:18:00 +0000 2026",
+            "metrics": {
+              "reply": 61,
+              "retweet": 485,
+              "like": 3034
+            }
+          },
+          {
+            "text": "JUST IN🇮🇷🇨🇳🔥16 Chinese Military cargo planes loaded with Anti-Ship, Anti-Aircraft and Anti-Air naval arsenals landed in Iran. \n\n🇺🇸🇮🇷 Iranian IRGC preparing to strikes US bases and aircraft carrier, CENTCOM and Israeli airports. \n\nOPERATION TRUE PROMISE 4? https://t.co/aiEUAkJKs4",
+            "translation": "突发🇮🇷🇨🇳🔥 16架载有反舰、防空和反空海军武器的中国军用运输机降落在伊朗。🇺🇸🇮🇷 伊朗伊斯兰革命卫队正准备打击美国基地和航空母舰、中央司令部以及以色列机场。真实承诺行动4？",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Tue Jan 20 13:08:11 +0000 2026",
+            "metrics": {
+              "reply": 71,
+              "retweet": 485,
+              "like": 2894
+            }
+          },
+          {
+            "text": "JUST IN🇨🇳🇺🇸  China will destroy the future of American Space Ambition by launching record-high 200,000 Satellites into the Orbit, aiming to challenge Elon Musk’s #Starlink dominance. https://t.co/4y7ih8gYal",
+            "translation": "突发🇨🇳🇺🇸 中国将向轨道发射创纪录的20万颗卫星，旨在挑战埃隆·马斯克的#星链的主导地位，从而摧毁美国未来的太空雄心。",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Sat Jan 17 08:00:14 +0000 2026",
+            "metrics": {
+              "reply": 83,
+              "retweet": 298,
+              "like": 1248
+            }
+          },
+          {
+            "text": "JUST IN🇨🇳🇺🇸🔥 China flies world’s first 16-ton drone mothership that can launch Swarms Mid-Air and Similar to American C-130 military cargo heavy-lift transport aircraft. https://t.co/9UlFcTaXHd",
+            "translation": "突发🇨🇳🇺🇸🔥 中国试飞了世界上第一架16吨无人机母舰，可以在半空中发射蜂群，类似于美国C-130军用重型运输机。",
+            "stance": "positive",
+            "username": "rkmtimes",
+            "created_at": "Sat Jan 17 08:11:02 +0000 2026",
+            "metrics": {
+              "reply": 16,
+              "retweet": 118,
+              "like": 868
+            }
+          }
+        ],
+        "username": "rkmtimes",
+        "tweet_count": 8
+      },
+      {
+        "info": "关注中美加关系，倾向对华强硬。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            0,
+            2,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Chinese cyberattack capabilities are well-resourced, highly skilled and integrated with Beijing’s national and military goals, the nominee stated. https://t.co/GWxm0TR5A4 #ThreatStatus",
+            "translation": "被提名人表示，中国的网络攻击能力资源充足、技术高超，并与北京的国家和军事目标融为一体。",
+            "stance": "negative",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 22 02:19:06 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 9,
+              "like": 18
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/BpQ0mns8kY https://t.co/hN5aAB5Rsm",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 15 20:53:08 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 0
+            }
+          },
+          {
+            "text": "Trump: U.S. raid on Venezuela ‘impressed’ China’s leader but didn’t give him ideas about Taiwan\n\nhttps://t.co/TgWXVBPEjd https://t.co/JI5I5i73g6",
+            "translation": "特朗普：美国对委内瑞拉的突袭“给中国领导人留下了深刻印象”，但并没有让他对台湾产生想法。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Sun Jan 11 23:25:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 2
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/1yjbUIP5iF https://t.co/9Fxr4zMIMb",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Fri Jan 16 01:40:03 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/NNo8ABDRgo https://t.co/xJfZzXAzsh",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Fri Jan 16 05:40:04 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/TAOuV9wBKH https://t.co/iMwFKRA28a",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Fri Jan 16 03:40:06 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 1
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/IxfVME0SAG https://t.co/oVVI44tlpC",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 15 21:40:04 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "A new era for Canada-China relations? Prime Minister Carney signals change in Beijing\n\nhttps://t.co/Ub9ldCsXaG https://t.co/SOA1tfggvN",
+            "translation": "加中关系的新时代？卡尼总理发出北京将发生变化的信号。",
+            "stance": "neutral",
+            "username": "WashTimes",
+            "created_at": "Thu Jan 15 23:40:05 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "WashTimes",
+        "tweet_count": 8
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "9cd21d29dfcf77fb7d5f7e11864413bc",
+    "updated_at": "2026-01-27 00:31:52"
+  }
+}

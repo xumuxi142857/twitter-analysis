@@ -9,6 +9,107 @@
         "category": "media",
         "daily_count": 100.0,
         "preview": "高开放性、中等尽责性、中等外向性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_kantei.json",
+        "name": "kantei",
+        "username": "kantei",
+        "category": "politician",
+        "daily_count": 3.8,
+        "preview": "高尽责性、中等外向性、中等宜人性、低神经质、中等开放性"
+      },
+      {
+        "id": "profile_Kishida230.json",
+        "name": "Kishida230",
+        "username": "kishida230",
+        "category": "politician",
+        "daily_count": 0.5,
+        "preview": "高尽责性、高外向性、中等宜人性、中等神经质、中等开放性"
+      },
+      {
+        "id": "profile_mainichi.json",
+        "name": "mainichi",
+        "username": "mainichi",
+        "category": "media",
+        "daily_count": 150.0,
+        "preview": "高尽责性、中等开放性、中等宜人性、中等外倾性、低神经质"
+      },
+      {
+        "id": "profile_NHKnews.json",
+        "name": "NHKnews",
+        "username": "nhk_news",
+        "category": "media",
+        "daily_count": 100.0,
+        "preview": "高尽责性、高开放性、中等外向性、中等宜人性、低神经质"
+      },
+      {
+        "id": "profile_sugawitter.json",
+        "name": "sugawitter",
+        "username": "sugawitter",
+        "category": "politician",
+        "daily_count": 0.2,
+        "preview": "尽责性高、外向性中等、开放性中等、宜人性中等、神经质低"
+      }
+    ]
+  },
+  "US": {
+    "region": "US",
+    "targets": [
+      {
+        "id": "profile_CNN.json",
+        "name": "CNN",
+        "username": "CNN",
+        "category": "media",
+        "daily_count": 5.5,
+        "preview": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_ElonMusk.json",
+        "name": "ElonMusk",
+        "username": "elonmusk",
+        "category": "politician",
+        "daily_count": 10.0,
+        "preview": "高开放性、高尽责性、中等外向性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_FoxNews.json",
+        "name": "FoxNews",
+        "username": "FoxNews",
+        "category": "media",
+        "daily_count": 33.3,
+        "preview": "高外向性、高尽责性、中等神经质、中等开放性、低宜人性"
+      },
+      {
+        "id": "profile_nytimes.json",
+        "name": "nytimes",
+        "username": "nytimes",
+        "category": "media",
+        "daily_count": 13.6,
+        "preview": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_POTUS.json",
+        "name": "POTUS",
+        "username": "POTUS",
+        "category": "politician",
+        "daily_count": 0.9,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_SecBlinken.json",
+        "name": "SecBlinken",
+        "username": "SecBlinken",
+        "category": "politician",
+        "daily_count": 1.7,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_VP.json",
+        "name": "VP",
+        "username": "VP",
+        "category": "politician",
+        "daily_count": 0.9,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
       }
     ]
   }

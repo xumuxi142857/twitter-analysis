@@ -1,0 +1,313 @@
+{
+  "id": "profile_nytimes.json",
+  "_fingerprint": "98b66b8cecbdadbd903123d868ab067a",
+  "name": "nytimes",
+  "username": "nytimes",
+  "category": "media",
+  "daily_count": 13.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质",
+      "detail": "开放性高：广泛报道全球政治、社会、文化、体育等多领域话题，展现强烈求知欲和多元视角。尽责性高：坚持事实核查和深度调查，如对特朗普政府政策的系统性追踪。外向性中等：通过社交媒体积极传播内容，但保持机构权威距离。宜人性中等：批判权力滥用（如移民政策），但也报道进步成就。神经质中等：对危机事件反应迅速，但整体语调保持冷静克制。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "精英主义倾向、潜在意识形态偏见、机构傲慢",
+      "detail": "精英主义倾向：内容常预设读者具有高等教育背景和自由主义价值观，可能疏远普通受众。潜在意识形态偏见：虽标榜客观，但在特朗普相关报道中（如移民、司法任命）隐含批判立场，保守派可能认为其偏左。机构傲慢：作为百年老报，可能过度自信于自身权威，对新兴媒体或不同观点反应迟缓。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实驱动、制度主义、渐进主义、全球主义",
+      "detail": "事实驱动：强调数据、文档和信源（如“内部文件显示”）。制度主义：信任政府、司法和国际机构（如报道最高法院、欧盟罚款）。渐进主义：相信社会通过法律、政策和曝光逐步改善（如儿童死亡率下降的报道）。全球主义：关注跨国议题（如委内瑞拉、乌克兰、马来西亚），视世界为互联整体。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖官方信源、社交媒体依赖、反应式报道",
+      "detail": "过度依赖官方信源：报道常引用政府、机构或精英专家观点，可能错过基层叙事。社交媒体依赖：大量内容通过Twitter传播，易受平台算法和热点驱动，可能弱化深度分析。反应式报道：以“突发新闻”为主，可能牺牲背景深度和长期趋势分析。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "美国中心主义、自由主义偏见、对权威的矛盾态度",
+      "detail": "美国中心主义：国际新闻（如洪都拉斯、智利）常从美国政策角度解读。自由主义偏见：在文化议题（如女性权利、移民）上倾向进步价值观，可能忽视保守派观点。对权威的矛盾态度：既批判特朗普政府，又尊重传统制度（如司法、联邦机构），立场有时显得摇摆。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "深度与广度的权衡、新兴技术适应、信源多样性不足",
+      "detail": "深度与广度的权衡：覆盖话题极广（政治、体育、文化），但单篇深度可能不足。新兴技术适应：对AI、社交媒体监管等新兴议题报道较浅（如AI行政令报道简短）。信源多样性不足：依赖机构信源和知名记者，草根或非西方视角较少。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "认知闭合、群体思维、道德优越感",
+      "detail": "认知闭合：在争议议题（如移民、特朗普）上，框架已预设，不易接纳相反证据。群体思维：编辑部文化可能强化主流自由主义共识，异见声音被边缘化。道德优越感：以“第四权力”自居，在调查报道中隐含道德评判，可能削弱客观性。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护机构权威、塑造公共议程、影响政策辩论",
+      "detail": "维护机构权威：通过曝光权力滥用（如特朗普政府政策）巩固媒体监督者角色。塑造公共议程：选择报道特定话题（如移民、司法）引导公众关注点。影响政策辩论：深度调查（如公民身份剥夺）旨在推动政策改革或法律挑战。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "美国政治、国际事务、社会正义、文化体育",
+      "detail": "美国政治：特朗普政府政策、选举、司法任命（如样本中移民、最高法院、国会地图）。国际事务：委内瑞拉、乌克兰、马来西亚、洪都拉斯等全球热点。社会正义：移民权利、种族正义、女性权利、LGBTQ议题。文化体育：文学、建筑、体育（如足球、篮球）、娱乐。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 21:56:32 +0000 2025",
+      "text": "Breaking News: Honduras declared Nasry Asfura the presidential winner by a razor-thin margin in a race upended by President Trump. https://t.co/YQc5sSqxMy",
+      "translation": "突发新闻：洪都拉斯宣布纳西里·阿斯富拉以微弱优势赢得总统选举，这场选举因特朗普总统的干预而充满变数。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 121,
+        "retweet": 208,
+        "like": 635
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 21:45:03 +0000 2025",
+      "text": "In @nytopinion\n\n“Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes. https://t.co/btCeQUUNbH",
+      "translation": "在《纽约时报》观点版中，E. J. 迪翁写道：“基督教从来就不仅仅是身份认同的问题。它在理想上是普世的，即便实践中并非总是如此。”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 78,
+        "retweet": 40,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 12:42:01 +0000 2025",
+      "text": "RT @boreskes: Went to the movies last night and saw Marty Supreme with @JCats2013, @NassauExec and @KathyHochul. \n\nHere is my scene report…",
+      "translation": "转发 @boreskes：昨晚去看电影，和 @JCats2013、@NassauExec 以及 @KathyHochul 一起看了《马蒂至尊》。这是我的观影报告……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 41,
+        "like": 217
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 08:18:43 +0000 2025",
+      "text": "Breaking News: President Volodymyr Zelensky of Ukraine suggested a demilitarized zone in the Donetsk region as part of a possible peace deal with Russia. https://t.co/yELwv8uSUG",
+      "translation": "突发新闻：乌克兰总统弗拉基米尔·泽连斯基提议在顿涅茨克地区设立非军事区，作为与俄罗斯可能达成的和平协议的一部分。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 90,
+        "retweet": 120,
+        "like": 316
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 23:32:46 +0000 2025",
+      "text": "RT @Haleaziz: SCOOP: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, according…",
+      "translation": "转发 @Haleaziz：独家新闻：据知情人士透露，特朗普政府计划加大力度，剥夺部分归化美国公民的国籍。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 128,
+        "retweet": 410,
+        "like": 555
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 22:45:50 +0000 2025",
+      "text": "Breaking News: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau. https://t.co/HVeZxpiQVD",
+      "translation": "突发新闻：联邦调查局副局长丹·邦吉诺表示，他将于下个月离职，结束其在联邦调查局短暂但动荡的任期。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 53,
+        "like": 168
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 22:30:24 +0000 2025",
+      "text": "Breaking News: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, internal documents obtained by The New York Times show, marking an aggressive new phase in President Trump’s immigration crackdown. https://t.co/BDuWThi6dq",
+      "translation": "突发新闻：《纽约时报》获得的内部文件显示，特朗普政府计划加大力度，剥夺部分归化美国公民的国籍，这标志着特朗普总统在移民打击行动中进入了一个新的激进阶段。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1543,
+        "retweet": 2212,
+        "like": 5901
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 20:38:23 +0000 2025",
+      "text": "Breaking News: The Senate confirmed the billionaire and private astronaut Jared Isaacman to run NASA as the space agency faces upheaval and uncertainty. https://t.co/n1Kn3K3mIx",
+      "translation": "突发新闻：参议院确认亿万富翁、私人宇航员贾里德·艾萨克曼将领导美国国家航空航天局，该机构正面临动荡和不确定性。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 65,
+        "like": 213
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 19:20:02 +0000 2025",
+      "text": "From @TheAthletic: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university. https://t.co/D42cwJoLVF",
+      "translation": "来自 @TheAthletic：俄亥俄大学于周三以正当理由解雇了橄榄球教练布莱恩·史密斯，此前他被大学意外停职已超过两周。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 15,
+        "like": 59
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:43:30 +0000 2025",
+      "text": "Breaking News: Gov. Kathy Hochul said she would sign a bill that will allow terminally ill New Yorkers to end their lives. Eleven states and several countries in Europe have passed similar laws. https://t.co/AHgkUxrcXP",
+      "translation": "突发新闻：州长凯西·霍赫尔表示，她将签署一项法案，允许身患绝症的纽约人结束自己的生命。美国已有11个州和欧洲的几个国家通过了类似法律。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 119,
+        "retweet": 221,
+        "like": 978
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:29:14 +0000 2025",
+      "text": "Breaking News: YouTube will stream the Oscars beginning in 2029, winning the rights from ABC, which has held them since 1976. https://t.co/Ul0XXgTjLl",
+      "translation": "突发新闻：YouTube将从2029年开始直播奥斯卡颁奖典礼，从自1976年以来一直持有转播权的ABC手中赢得了转播权。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 54,
+        "retweet": 88,
+        "like": 242
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:18:30 +0000 2025",
+      "text": "Breaking News: The Senate approved a $900 billion defense policy bill, clearing legislation to authorize new weapons and technology, with measures to reassert some congressional oversight of military operations. Trump is expected to sign the bill into law. https://t.co/Y6AX9o6iXF",
+      "translation": "突发新闻：参议院批准了一项9000亿美元的国防政策法案，通过了授权新武器和技术的立法，并包含了一些措施以重新确立国会对军事行动的监督。预计特朗普将签署该法案使其成为法律。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 51,
+        "retweet": 83,
+        "like": 196
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:17:03 +0000 2025",
+      "text": "From @TheAthleticFC: The prices of World Cup tickets have been dominating the headlines. FIFA is not entirely to blame for the extortionate ticket prices, but it made one big mistake, our columnist argues. https://t.co/pYHvnyWd37",
+      "translation": "来自 @TheAthleticFC：世界杯门票价格一直是头条新闻。我们的专栏作家认为，国际足联并非天价票价的唯一责任方，但它犯了一个重大错误。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 29,
+        "retweet": 18,
+        "like": 67
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 16:42:36 +0000 2025",
+      "text": "Breaking News: An appeals court allowed National Guard troops to remain in Washington, D.C., for now. https://t.co/0wxvw3xq7Y",
+      "translation": "突发新闻：上诉法院暂时允许国民警卫队部队继续留在华盛顿特区。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 48,
+        "like": 121
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 16:22:53 +0000 2025",
+      "text": "Breaking News: Four politically vulnerable House Republicans teamed up with Democrats to force a vote in early 2026 on extending Affordable Care Act subsidies. https://t.co/nwyKgAaC62",
+      "translation": "突发新闻：四名政治处境脆弱的众议院共和党人与民主党人联手，迫使在2026年初就延长《平价医疗法案》补贴进行投票。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 64,
+        "like": 245
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:55:03 +0000 2025",
+      "text": "From @TheAthletic: Carlos Alcaraz confirmed he has split with coach Juan Carlos Ferrero after six Grand Slam titles and seven years together. \nhttps://t.co/onpPcmsuKx",
+      "translation": "来自 @TheAthletic：卡洛斯·阿尔卡拉斯确认，在赢得六个大满贯冠军并合作七年后，他已与教练胡安·卡洛斯·费雷罗分道扬镳。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 28,
+        "retweet": 31,
+        "like": 129
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:20:04 +0000 2025",
+      "text": "From @TheAthletic: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams.\nhttps://t.co/sNqLABdCql",
+      "translation": "来自 @TheAthletic：如果你是一名尚未做出决定的大学橄榄球迷，仍在寻找未来一个月可以支持的球队，让我们来帮你。这是我们的跟风指南，按球队应得支持的程度从低到高排名。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 19,
+        "like": 58
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 14:24:03 +0000 2025",
+      "text": "From @TheAthletic: Tuesday night’s victory was a statement that the Knicks belong in the NBA championship discussion. New York needed something from everyone to raise its first championship banner since 1973. https://t.co/vjMu6blzmQ",
+      "translation": "来自 @TheAthletic：周二晚上的胜利宣告了尼克斯队属于NBA总冠军的讨论行列。纽约需要每个人的贡献才能升起自1973年以来的第一面总冠军旗帜。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 10,
+        "like": 57
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 06:24:59 +0000 2025",
+      "text": "Breaking News: The surviving suspect in the Bondi Beach massacre has been charged with murder and terrorism after waking from a coma. https://t.co/HGSQin0Jk5",
+      "translation": "突发新闻：邦迪海滩大屠杀的幸存嫌疑人在从昏迷中苏醒后，被指控犯有谋杀罪和恐怖主义罪。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 77,
+        "retweet": 51,
+        "like": 203
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 04:22:43 +0000 2025",
+      "text": "RT @ewong: Trump orders US forces to stop oil tankers going to and from Venezuela that have been sanctioned by the US. This could cut into…",
+      "translation": "转发 @ewong：特朗普命令美国军队拦截进出委内瑞拉的、受到美国制裁的油轮。这可能会削减……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 32,
+        "like": 76
+      }
+    }
+  ]
+}

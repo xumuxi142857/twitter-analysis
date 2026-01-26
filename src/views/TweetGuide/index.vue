@@ -188,7 +188,7 @@ import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard
 
 // --- 数据定义 ---
 const activeTab = ref('Philippines');
-const selectedDate = ref<string>('2025-12-25');
+const selectedDate = ref<string>('2026-01-26');
 const loading = ref(false);
 const hasData = ref(true);
 

@@ -1,0 +1,313 @@
+{
+  "id": "profile_SecBlinken.json",
+  "_fingerprint": "6df1a3d15bdab67911e39e08c80cfc17",
+  "name": "SecBlinken",
+  "username": "SecBlinken",
+  "category": "politician",
+  "daily_count": 1.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性：高，表现为频繁国际交往、公开演讲、团队合作强调；尽责性：高，表现为系统化外交政策执行、成果导向表述；开放性：高，表现为支持音乐外交、文化倡议、创新解决方案；宜人性：中等，表现为联盟建设但保持强硬立场；神经质：低，表现为压力下稳定、危机中冷静"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在过度自信、意识形态固化、精英主义倾向",
+      "detail": "过度自信：频繁使用“自信地说”、“从未动摇”等绝对化表述；意识形态固化：将民主/专制二元对立框架应用于多国事务；精英主义：强调“美国领导”、“非凡团队”等精英叙事，可能低估基层复杂性"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "制度主义、多边主义、渐进改良主义",
+      "detail": "制度主义：相信国际制度、联盟体系的有效性；多边主义：偏好通过联盟（如50+国家支持乌克兰）、伙伴关系解决问题；渐进改良主义：主张通过外交进程逐步解决冲突，而非激进变革"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "仪式性外交依赖、公开承诺压力、团队认同过度",
+      "detail": "仪式性外交依赖：过度强调“会面”、“旅行里程”等象征性指标；公开承诺压力：多次公开宣布具体援助金额、政策立场，可能限制灵活性；团队认同过度：强烈认同国务院团队，可能产生群体思维"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "民主推广绝对化、联盟中心主义、美国例外论",
+      "detail": "民主推广绝对化：将民主视为普世解决方案，忽视本地化条件；联盟中心主义：过度依赖传统盟友（北约、欧洲），可能忽视新兴力量；美国例外论：隐含美国独特领导责任，可能引发合作伙伴反感"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "复杂冲突简化、长期规划不足、资源依赖",
+      "detail": "复杂冲突简化：将乌克兰、中东等复杂冲突简化为“民主vs专制”叙事；长期规划不足：关注即时危机应对（人质、援助），缺乏系统性长期战略；资源依赖：外交成果与军事/经济援助高度绑定"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "职业身份过度融合、遗产焦虑、道德化倾向",
+      "detail": "职业身份过度融合：将个人价值与国务卿角色深度绑定；遗产焦虑：频繁总结任期成就，显示对历史评价的关注；道德化倾向：将外交政策道德化（如反种族灭绝），可能削弱务实谈判空间"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固外交遗产、建制派价值观维护、个人历史定位",
+      "detail": "巩固外交遗产：通过系统性政策总结、联盟强化确保任期成果持久化；建制派价值观维护：维护多边主义、民主推广等传统外交理念；个人历史定位：塑造“桥梁建设者”、“危机管理者”的历史形象"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "乌克兰危机、中东和平、民主推广、联盟管理、公共外交",
+      "detail": "乌克兰危机：核心关注点，涉及军事援助、联盟协调、历史叙事；中东和平：重点关注人质危机、加沙冲突、地区稳定；民主推广：在委内瑞拉、叙利亚等国的民主支持；联盟管理：北约、欧洲盟友、全球伙伴关系维护；公共外交：音乐、语言、文化等软实力工具"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 25 21:56:36 +0000 2024",
+      "text": "The U.S. is sending a new drawdown package of urgently needed weapons and equipment to support Ukraine’s military as they defend against Russia’s ongoing attacks. This support helps Ukraine protect its troops and its people and reinforce its capabilities on the front lines.",
+      "translation": "美国正在向乌克兰提供新一轮紧急武器和装备援助，以支持其军队抵御俄罗斯的持续攻击。这项援助有助于乌克兰保护其军队和人民，并加强前线作战能力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1101,
+        "retweet": 777,
+        "like": 4739
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 19:27:40 +0000 2024",
+      "text": "I convened global leaders today to reiterate the need for greater contributions to help meet Haiti’s security, economic, and humanitarian needs. The U.S. is doing our part to help the Haitian people write the future they deserve by providing an additional $160 million in foreign https://t.co/5faXZWNKR3",
+      "translation": "今天我召集全球领导人，重申需要加大贡献力度以满足海地的安全、经济和人道主义需求。美国正在履行我们的责任，通过额外提供1.6亿美元的外援，帮助海地人民书写他们应得的未来。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 311,
+        "retweet": 158,
+        "like": 564
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 14:16:00 +0000 2024",
+      "text": "At UNGA, I joined leaders from across the Americas to drive forward our collective efforts to respond to irregular migration and forced displacement. Together, we can address the unprecedented level of migration in our hemisphere and advance the goals of the LA Declaration. https://t.co/dsY4uSH2Wk",
+      "translation": "在联合国大会上，我与美洲各国领导人共同推动应对非正常移民和被迫流离失所的集体努力。我们可以共同应对本半球前所未有的移民水平，推进《洛杉矶宣言》的目标。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 246,
+        "retweet": 116,
+        "like": 369
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 13:16:34 +0000 2024",
+      "text": "The misuse of synthetic drugs is a global challenge no country can solve alone.\n\nJoined @POTUS at the Leaders’ Summit of the Global Coalition to Address Synthetic Drug Threats to discuss steps the U.S. and 159 countries are taking to protect our communities and end this crisis. https://t.co/fg9f0f4wwe",
+      "translation": "合成药物的滥用是全球性挑战，任何国家都无法单独解决。我参加了拜登总统主持的全球应对合成药物威胁联盟领导人峰会，讨论美国和159个国家为保护社区、终结这场危机所采取的措施。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 281,
+        "retweet": 206,
+        "like": 703
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 01:19:50 +0000 2024",
+      "text": "RT @POTUS: It was my pleasure sitting down with UN Secretary-General António Guterres to underscore how the U.S. and the United Nations are…",
+      "translation": "转推@POTUS：我很高兴与联合国秘书长安东尼奥·古特雷斯会面，强调美国和联合国如何……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1357,
+        "retweet": 1068,
+        "like": 4340
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 00:19:00 +0000 2024",
+      "text": "The Lobito Corridor connects the Democratic Republic of the Congo and Zambia to markets in Angola. At the @UN, we celebrated the progress of the Corridor in connecting Africa — a benefit to all our countries and economies for years to come. https://t.co/ekKsnk0AYb",
+      "translation": "洛比托走廊连接刚果民主共和国和赞比亚与安哥拉市场。在联合国，我们庆祝该走廊在连接非洲方面取得的进展——这将为未来多年惠及我们所有国家和经济。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 352,
+        "retweet": 159,
+        "like": 524
+      }
+    },
+    {
+      "created_at": "Wed Sep 18 18:34:00 +0000 2024",
+      "text": "The @USEmbassyCairo team has shown incredible leadership and resilience during a critical and challenging time. Today I thanked them and their families for their hard work that has strengthened the U.S.-Egypt partnership. https://t.co/Vl45eHu1Za",
+      "translation": "美国驻开罗大使馆团队在关键且充满挑战的时期展现了卓越的领导力和韧性。今天我感谢他们及其家人的辛勤工作，这些努力加强了美埃伙伴关系。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 571,
+        "retweet": 154,
+        "like": 725
+      }
+    },
+    {
+      "created_at": "Wed Sep 18 17:30:00 +0000 2024",
+      "text": "Chaired the U.S.-Egypt Strategic Dialogue with Foreign Minister Abdelatty to further strengthen our broad and deep partnership. Whether its advancing trade, people-to-people ties, regional security, or human rights, it’s in our interests to keep doing this work together. https://t.co/zx9Y3ufcem",
+      "translation": "主持美埃战略对话，与外交部长阿卜杜拉提进一步深化我们广泛而深厚的伙伴关系。无论是推进贸易、人文交流、地区安全还是人权，继续共同开展这项工作都符合我们的利益。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 277,
+        "retweet": 143,
+        "like": 568
+      }
+    },
+    {
+      "created_at": "Wed Sep 18 16:23:52 +0000 2024",
+      "text": "Met today with President @AlSisiOfficial and Foreign Minister Abdelatty. We reaffirmed our strong commitment to the U.S.-Egypt bilateral partnership and ongoing efforts to reach ceasefires in Gaza and Sudan. Grateful for Egypt’s continued regional leadership. https://t.co/LicQVRKkhs",
+      "translation": "今天会见了埃及总统塞西和外交部长阿卜杜拉提。我们重申对美埃双边伙伴关系的坚定承诺，以及为实现加沙和苏丹停火所做的持续努力。感谢埃及持续的地区领导作用。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 353,
+        "retweet": 194,
+        "like": 948
+      }
+    },
+    {
+      "created_at": "Wed Sep 18 13:50:50 +0000 2024",
+      "text": "Today, we made our new Online Passport Renewal system fully available to the public, a significant step forward in ensuring Americans can more easily access passport services. This online alternative is an important example of how we are modernizing government services.",
+      "translation": "今天，我们向公众全面开放了新的在线护照续签系统，这是确保美国人能更便捷获取护照服务的重要一步。这一在线替代方案是我们现代化政府服务的重要范例。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 608,
+        "retweet": 2330,
+        "like": 19588
+      }
+    },
+    {
+      "created_at": "Wed Sep 11 23:02:46 +0000 2024",
+      "text": "Had an important discussion today with Ukraine’s Prime Minister @Denys_Shmyhal on Ukraine’s priorities in security, humanitarian assistance, and economic recovery. We look forward to helping Ukraine protect and repair its power grid. https://t.co/igXWodnK0T",
+      "translation": "今天与乌克兰总理什梅加尔就乌克兰在安全、人道主义援助和经济复苏方面的优先事项进行了重要讨论。我们期待帮助乌克兰保护和修复其电网。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 265,
+        "retweet": 206,
+        "like": 1127
+      }
+    },
+    {
+      "created_at": "Wed Sep 11 21:57:43 +0000 2024",
+      "text": "Together with our UK Ally, the United States continues our enduring support for Ukraine and its territorial integrity. In our meeting with Ukrainian President @ZelenskyyUA today, we reiterated that we stand with Ukraine today, tomorrow, and for as long as it takes. https://t.co/ZxXUS3PijF",
+      "translation": "与我们的英国盟友一起，美国继续对乌克兰及其领土完整提供持久支持。在今天与乌克兰总统泽连斯基的会晤中，我们重申将支持乌克兰，无论今天、明天还是未来需要多久。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 648,
+        "retweet": 604,
+        "like": 2863
+      }
+    },
+    {
+      "created_at": "Wed Sep 11 18:22:00 +0000 2024",
+      "text": "Had a constructive conversation with Ukrainian Foreign Minister @andrii_sybiha. U.S. and UK support for Ukraine’s defense against Russia’s aggression is ironclad. We look forward to close cooperation in the days ahead to protect Ukraine's sovereignty and support its recovery. https://t.co/ezwOKNQLEq",
+      "translation": "与乌克兰外长西比哈进行了建设性对话。美国和英国对乌克兰抵御俄罗斯侵略的支持是坚定不移的。我们期待在未来几天密切合作，保护乌克兰主权并支持其复苏。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 411,
+        "retweet": 530,
+        "like": 2367
+      }
+    },
+    {
+      "created_at": "Wed Sep 11 12:21:21 +0000 2024",
+      "text": "Today we honor the memories of the nearly 3,000 lives lost in the September 11 terrorist attacks. Their bravery and courage remind us of the resilience, sacrifice, and enduring strength that defines our nation and drives our ongoing fight against terrorism.",
+      "translation": "今天我们缅怀在9·11恐怖袭击中丧生的近3000条生命。他们的勇敢和勇气提醒我们，坚韧、牺牲和持久的力量定义了我们的国家，并推动着我们持续的反恐斗争。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 519,
+        "retweet": 387,
+        "like": 1984
+      }
+    },
+    {
+      "created_at": "Wed Sep 11 00:09:17 +0000 2024",
+      "text": "Iran’s provision of ballistic missiles in direct support of Russia’s war against Ukraine is a threat to European and global security. Today, @StateDept and @USTreasury are imposing sanctions on individuals and entities supporting such activities.",
+      "translation": "伊朗向俄罗斯提供弹道导弹，直接支持其对乌克兰的战争，这对欧洲和全球安全构成威胁。今天，国务院和财政部对支持此类活动的个人和实体实施制裁。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 667,
+        "retweet": 444,
+        "like": 1684
+      }
+    },
+    {
+      "created_at": "Wed Sep 04 19:19:10 +0000 2024",
+      "text": "For the @StateDept to continue to lead with diplomacy, we have to make sure we’re not only attracting, but retaining the best possible workforce. Today I shared with our amazing team our strategy to help keep our talent, so we can best deliver for the American people. https://t.co/NzUqBPci9E",
+      "translation": "为了让国务院继续以外交为主导，我们必须确保不仅能吸引，还能留住最优秀的人才。今天我向我们出色的团队分享了帮助保留人才、以便最好地为美国人民服务的战略。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 327,
+        "retweet": 145,
+        "like": 718
+      }
+    },
+    {
+      "created_at": "Wed Oct 23 20:11:00 +0000 2024",
+      "text": "While in Riyadh, I had the chance to meet with our dedicated @USAinKSA team. At a critical time for the region, their tireless work to advance our goals and press for diplomatic solutions has been essential. https://t.co/d7eZtJ1Y2q",
+      "translation": "在利雅得期间，我有机会会见了我们敬业的美国驻沙特团队。在这个地区的关键时刻，他们为实现我们的目标、推动外交解决方案所做的孜孜不倦的工作至关重要。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 648,
+        "retweet": 145,
+        "like": 613
+      }
+    },
+    {
+      "created_at": "Wed Oct 23 19:09:00 +0000 2024",
+      "text": "In 2024 our @travelgov team broke passport processing records for the third year in a row, issuing 24.5 million passports. Processing times are down and more than 1 million Americans have now used our online passport renewal system to renew entirely online.",
+      "translation": "2024年，我们的旅行证件处理团队连续第三年打破护照处理记录，签发了2450万本护照。处理时间缩短，已有超过100万美国人使用我们的在线护照续签系统完全在线续签。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 239,
+        "retweet": 105,
+        "like": 418
+      }
+    },
+    {
+      "created_at": "Wed Oct 23 18:08:41 +0000 2024",
+      "text": "The United States stands with our Ally Türkiye and strongly condemns today’s terrorist attack. My thoughts are with the victims and their families.",
+      "translation": "美国与我们的盟友土耳其站在一起，强烈谴责今天的恐怖袭击。我的心与受害者及其家人同在。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1128,
+        "retweet": 293,
+        "like": 2243
+      }
+    },
+    {
+      "created_at": "Wed Oct 23 16:44:00 +0000 2024",
+      "text": "In my meeting with Saudi Crown Prince Mohammed bin Salman, we spoke at great length about seizing this opportunity to end the war and ease suffering in Gaza. We also discussed efforts underway to achieve a diplomatic solution in Lebanon and end the conflict in Sudan. https://t.co/sDe2XHXpnM",
+      "translation": "在与沙特王储穆罕默德·本·萨勒曼的会晤中，我们深入讨论了抓住这一机会结束加沙战争、缓解苦难。我们还讨论了为实现黎巴嫩外交解决方案、结束苏丹冲突所做的努力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1101,
+        "retweet": 359,
+        "like": 1570
+      }
+    }
+  ]
+}

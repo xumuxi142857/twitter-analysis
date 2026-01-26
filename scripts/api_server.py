@@ -7,10 +7,10 @@ import json
 app = Flask(__name__)
 CORS(app)  # 允许跨域，否则 Vue 无法访问 5000 端口
 
-# 配置信息（从你的 topic_new.py 中同步）
-API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco"
+
+API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
+MODEL_NAME = "Pro/zai-org/GLM-4.7" 
 
 
 @app.route('/api/generate_guide', methods=['POST'])
@@ -31,7 +31,7 @@ def generate_guide():
     2. peer (同伴): 语气轻松、平视、使用网络流行语或反讽。
     3. kinship (亲情): 语气感性、温暖、以“家人/同胞/和平”为切入点。
 
-    要求：每条草稿 40-60 字。必须返回纯 JSON 格式。
+    要求：每条草稿 60 字左右。必须返回纯 JSON 格式。
     输出示例：
     {{
         "authority": "...",

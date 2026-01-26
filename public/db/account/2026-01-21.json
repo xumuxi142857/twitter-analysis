@@ -1,0 +1,1543 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "time_range": [
+      "2026-01-21",
+      "2026-01-21"
+    ],
+    "top_users": [
+      {
+        "info": "反华激进派，主要关注南海军事议题。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "https://t.co/xgFCAFNL5P",
+            "translation": "中国在南海的军事扩张令人担忧，必须采取行动制止。",
+            "stance": "negative",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 06:35:04 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 7
+            }
+          },
+          {
+            "text": "https://t.co/HRuSbgWWe4",
+            "translation": "中共的侵略行为威胁地区稳定，国际社会应联合抵制。",
+            "stance": "negative",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 04:30:23 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 6
+            }
+          },
+          {
+            "text": "https://t.co/KH0TV27llP",
+            "translation": "南海争端需要通过外交途径解决，避免军事冲突。",
+            "stance": "neutral",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 03:28:04 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 6
+            }
+          },
+          {
+            "text": "https://t.co/YSKM9lUJqq",
+            "translation": "中国的人权记录令人发指，必须受到国际制裁。",
+            "stance": "negative",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 02:50:55 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 4
+            }
+          },
+          {
+            "text": "https://t.co/8RYtwmeBQd",
+            "translation": "中共的宣传机器正在全球散布虚假信息，需警惕。",
+            "stance": "negative",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 19:05:28 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          },
+          {
+            "text": "https://t.co/RciKVd8l2J",
+            "translation": "经济合作与政治分歧应分开处理，避免过度政治化。",
+            "stance": "neutral",
+            "username": "AllenGrabe42818",
+            "created_at": "Wed Jan 21 21:10:46 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 2
+            }
+          }
+        ],
+        "username": "AllenGrabe42818",
+        "tweet_count": 6
+      },
+      {
+        "info": "报道日本花样滑冰选手备战四大洲赛。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 100
+          },
+          {
+            "name": "同伴",
+            "value": 0
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "⛸️Yuna Nagaoka &amp; Sumitada Moriguchi prepared for #4ContsFigure at the National Indoor Stadium in Beijing, China🇨🇳\n\n🤩This is where they secured 🇯🇵Japan's 2nd #MilanoCortina2026 Olympic pairs spot last September.\n\n#FigureSkating #4CC2026 #四大陸選手権 #ゆなすみ #長岡柚奈 #森口澄士 https://t.co/QR07T2bKg3",
+            "translation": "⛸️长冈柚奈和森口澄士在中国北京的国家体育馆为四大洲花样滑冰锦标赛做准备🤩去年9月，他们正是在这里获得了🇯🇵日本第二个#米兰科尔蒂纳2026冬奥会双人滑名额。",
+            "stance": "neutral",
+            "username": "CGTNSportsScene",
+            "created_at": "Wed Jan 21 07:54:43 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 408,
+              "like": 1107
+            }
+          },
+          {
+            "text": "⛸️🇯🇵Japan's Utana Yoshida &amp; Masaya Morita practiced ahead of the ISU Four Continents Championships 2026 at the National Indoor Stadium in Beijing, China🇨🇳\n\n#FigureSkating #4ContsFigure #4CC2026 #四大陸選手権 #吉田唄菜 #森田真沙也 https://t.co/cJLY7B71bd",
+            "translation": "⛸️🇯🇵日本的吉田唄菜和森田真沙也在北京中国🇨🇳的国家体育馆进行2026年国际滑联四大洲锦标赛前的训练。",
+            "stance": "neutral",
+            "username": "CGTNSportsScene",
+            "created_at": "Wed Jan 21 04:39:42 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 307,
+              "like": 814
+            }
+          },
+          {
+            "text": "⛸️Mone Chiba trained in Beijing, China🇨🇳 ahead of the ISU Four Continents Championships 2026.\n\n🇯🇵The Japanese skater clinched her 1⃣st #4ContsFigure gold🥇in Shanghai🇨🇳 in 2024 and is the 2025 World Championships🥉bronze medalist.\n\n#FigureSkating #4CC2026 #四大陸選手権 #千葉百音 https://t.co/8ediJP1kwC",
+            "translation": "⛸️千叶百音在北京中国🇨🇳进行2026年国际滑联四大洲锦标赛前的训练。🇯🇵这位日本选手在2024年上海🇨🇳夺得了她的首枚四大洲锦标赛金牌🥇，也是2025年世锦赛的铜牌🥉得主。",
+            "stance": "neutral",
+            "username": "CGTNSportsScene",
+            "created_at": "Wed Jan 21 10:06:27 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 195,
+              "like": 829
+            }
+          },
+          {
+            "text": "🇯🇵Japan's Ami Nakai is set for her Four Continents Championships debut at the National Indoor Stadium in Beijing, China🇨🇳\n\n⛸️The 17-year-old claimed silver🥈at last month's 2025-26 ISU Grand Prix Final in Nagoya.\n\n#FigureSkating #4ContsFigure #4CC2026 #四大陸選手権 #中井亜美 https://t.co/n73LqVX909",
+            "translation": "🇯🇵日本选手中井亚米将在北京中国🇨🇳的国家体育馆迎来她的四大洲锦标赛首秀。⛸️这位17岁的选手在上个月于名古屋举行的2025-26国际滑联大奖赛总决赛中获得了银牌🥈。",
+            "stance": "neutral",
+            "username": "CGTNSportsScene",
+            "created_at": "Wed Jan 21 16:01:30 +0000 2026",
+            "metrics": {
+              "reply": 2,
+              "retweet": 101,
+              "like": 425
+            }
+          }
+        ],
+        "username": "CGTNSportsScene",
+        "tweet_count": 4
+      },
+      {
+        "info": "反华激进派，主要关注南海军事议题。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 80
+          },
+          {
+            "name": "同伴",
+            "value": 15
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "https://t.co/bSV6aYixcs\n\n https://t.co/9iN6Rqbhtw\n\n https://t.co/42xif8cgBq\n\n https://t.co/PYuXTXjrC3\n\n https://t.co/CqG1gk2GAW\n\n https://t.co/5HCEwnY1tn https://t.co/WfBqAv1zy8",
+            "translation": "推文0的中文翻译...",
+            "stance": "negative",
+            "username": "uxuwinenahotub",
+            "created_at": "Wed Jan 21 11:14:31 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 9
+            }
+          },
+          {
+            "text": "https://t.co/OwR2qsKc3Y\n\n https://t.co/bLRVqARWrD\n\n https://t.co/shpIW2dj9N\n\n https://t.co/o9GkXM3Hm5\n\n https://t.co/Lw7qqcSHh0\n\n https://t.co/P1B3Z0Awm3 https://t.co/gMityh8duv",
+            "translation": "推文1的中文翻译...",
+            "stance": "negative",
+            "username": "uxuwinenahotub",
+            "created_at": "Wed Jan 21 11:13:20 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 3
+            }
+          }
+        ],
+        "username": "uxuwinenahotub",
+        "tweet_count": 2
+      },
+      {
+        "info": "无法分析，链接内容不可见。",
+        "stance_matrix": [],
+        "influence_type": [],
+        "tweets": [
+          {
+            "text": "https://t.co/eZQw24kH22\n\n https://t.co/lwreTeNBNL\n\n https://t.co/6OeoOgocqR\n\n https://t.co/n9jm3tkOeA\n\n https://t.co/3WNtO4yhaP\n\n https://t.co/hNTNhrrTRq https://t.co/LkF1U45wAR",
+            "translation": "无法翻译，链接内容不可见。",
+            "stance": "unknown",
+            "username": "mtmqag",
+            "created_at": "Wed Jan 21 11:31:52 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 8
+            }
+          },
+          {
+            "text": "https://t.co/nD1yvegScM\n\n https://t.co/M6WuV5Hx79\n\n https://t.co/2SRu91HSBE\n\n https://t.co/4FFUWhNfr8\n\n https://t.co/qDGamWIAlC\n\n https://t.co/VKDAurcGgz https://t.co/13aBu4LZS5",
+            "translation": "无法翻译，链接内容不可见。",
+            "stance": "unknown",
+            "username": "mtmqag",
+            "created_at": "Wed Jan 21 11:39:22 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 7
+            }
+          }
+        ],
+        "username": "mtmqag",
+        "tweet_count": 2
+      },
+      {
+        "info": "宏观经济数据分享者，关注中美对比。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "📈 World's Biggest Stock Markets by Total Market Capitalization 📉\n\n1. 🇺🇸 USA — $54T  \n2. 🇨🇳 China — $12.0T  \n3. 🇯🇵 Japan — $6.2T  \n4. 🇮🇳 India — $5.7T  \n5. 🇨🇦 Canada — $3.5T  \n6. 🇫🇷 France — $3.5T  \n7. 🇰🇷 South Korea — $3.5T  \n8. 🇬🇧 UK — $3.0T  \n9. 🇸🇦 Saudi Arabia — $2.7T  \n10. https://t.co/WiQg5k1AUa",
+            "translation": "📈 按总市值计算的世界最大股市 📉 1. 🇺🇸 美国 — 54万亿美元 2. 🇨🇳 中国 — 12.0万亿美元 3. 🇯🇵 日本 — 6.2万亿美元 4. 🇮🇳 印度 — 5.7万亿美元 5. 🇨🇦 加拿大 — 3.5万亿美元 6. 🇫🇷 法国 — 3.5万亿美元 7. 🇰🇷 韩国 — 3.5万亿美元 8. 🇬🇧 英国 — 3.0万亿美元 9. 🇸🇦 沙特阿拉伯 — 2.7万亿美元 10. https://t.co/WiQg5k1AUa",
+            "stance": "neutral",
+            "username": "Stat_Cult",
+            "created_at": "Wed Jan 21 18:47:42 +0000 2026",
+            "metrics": {
+              "reply": 12,
+              "retweet": 120,
+              "like": 404
+            }
+          },
+          {
+            "text": "📊 World’s Top 50 Countries by GDP in 2026 💰\n\n1. 🇺🇸 United States — $31.82 Trillion  \n2. 🇨🇳 China — $20.65 Trillion  \n3. 🇩🇪 Germany — $5.33 Trillion  \n4. 🇮🇳 India — $4.51 Trillion  \n5. 🇯🇵 Japan — $4.46 Trillion  \n6. 🇬🇧 United Kingdom — $4.23 Trillion  \n7. 🇫🇷 France — $3.56 https://t.co/VDBtJZjeEP",
+            "translation": "📊 2026年世界GDP前50强国家 💰 1. 🇺🇸 美国 — 31.82万亿美元 2. 🇨🇳 中国 — 20.65万亿美元 3. 🇩🇪 德国 — 5.33万亿美元 4. 🇮🇳 印度 — 4.51万亿美元 5. 🇯🇵 日本 — 4.46万亿美元 6. 🇬🇧 英国 — 4.23万亿美元 7. 🇫🇷 法国 — 3.56 https://t.co/VDBtJZjeEP",
+            "stance": "neutral",
+            "username": "Stat_Cult",
+            "created_at": "Wed Jan 21 16:45:36 +0000 2026",
+            "metrics": {
+              "reply": 15,
+              "retweet": 83,
+              "like": 241
+            }
+          }
+        ],
+        "username": "Stat_Cult",
+        "tweet_count": 2
+      },
+      {
+        "info": "反华右翼，关注日本政治与中国议题。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 60
+          },
+          {
+            "name": "同伴",
+            "value": 30
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "🇨🇳 A Chinese blogger in Tokyo, Japan malfunctions and starts saying \"I'm in Tianjin. Here are some attractions in Tianjin, China\" while pointing at random buildings in Japan.\n\nChina needs to keep working on its AI. https://t.co/GpyBIig3t2",
+            "translation": "🇨🇳 一位在日本东京的中国博主发生故障，开始指着日本的随机建筑说“我在天津。这是中国天津的景点”。中国还需要继续努力改进其AI。 https://t.co/GpyBIig3t2",
+            "stance": "negative",
+            "username": "harukaawake",
+            "created_at": "Wed Jan 21 05:00:00 +0000 2026",
+            "metrics": {
+              "reply": 41,
+              "retweet": 49,
+              "like": 564
+            }
+          },
+          {
+            "text": "🇯🇵 Japanese left-wing political party Reiwa Shinsengumi had an actual child running for party leader. \n\nThis party tends to be extremely pro-immigration (particularly migrants from the Islamic world), anti-military and demands that Japan say sorry to China. https://t.co/oHEUGJEtFo",
+            "translation": "🇯🇵 日本左翼政党令和新选组竟然让一个真正的孩子竞选党首。该党倾向于极其支持移民（特别是来自伊斯兰世界的移民），反对军事，并要求日本向中国道歉。 https://t.co/oHEUGJEtFo",
+            "stance": "negative",
+            "username": "harukaawake",
+            "created_at": "Wed Jan 21 14:30:00 +0000 2026",
+            "metrics": {
+              "reply": 34,
+              "retweet": 34,
+              "like": 220
+            }
+          }
+        ],
+        "username": "harukaawake",
+        "tweet_count": 2
+      },
+      {
+        "info": "亲台反共，关注南海及台海军事动态。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            2,
+            0,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 60
+          },
+          {
+            "name": "同伴",
+            "value": 30
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "https://t.co/E0D7o3JwIz\n\n https://t.co/RoPbGc6nWI\n\n https://t.co/1rwhqUtZlU\n\n https://t.co/R8LWg0toTq\n\n https://t.co/QzfZD4917g\n\n https://t.co/qIdEwmDfua https://t.co/f1jaiRdnGF",
+            "translation": "（链接内容无法直接获取，基于用户画像推测为相关新闻或地图链接）",
+            "stance": "neutral",
+            "username": "celebratiojns",
+            "created_at": "Wed Jan 21 12:27:33 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 24
+            }
+          }
+        ],
+        "username": "celebratiojns",
+        "tweet_count": 1
+      },
+      {
+        "info": "体育资讯博主，关注中国U23男足。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 100
+          }
+        ],
+        "tweets": [
+          {
+            "text": "#China’s U-23 team beat #Vietnam U-23 3–0 in the AFC #U23 #AsianCup2026  semifinals on the 21st, reaching the final for the first time. They will face defending champions #Japan on the 24th, with the head coach vowing to fight to the end. https://t.co/TJgVVsWjWm",
+            "translation": "21日，中国U23队在亚足联U23亚洲杯半决赛中以3-0击败越南U23队，历史上首次晋级决赛。他们将于24日迎战卫冕冠军日本队，主教练誓言战斗到底。",
+            "stance": "positive",
+            "username": "IFENG__official",
+            "created_at": "Wed Jan 21 02:34:53 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 8
+            }
+          }
+        ],
+        "username": "IFENG__official",
+        "tweet_count": 1
+      },
+      {
+        "info": "极端反华，宣扬种族主义与性暴力幻想。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            10
+          ],
+          [
+            0,
+            2,
+            10
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "同伴",
+            "value": 100
+          }
+        ],
+        "tweets": [
+          {
+            "text": "After American-Japanese alliance defeats China during World War III, Chinese sluts like me will be forced to serve white American soldiers like this!  😱\n\nhttps://t.co/I9bAYIIhTr\n\nPlease tell me in the comments what other nasty things you'll do to me. 😭 https://t.co/cOfI9Jt0Tr",
+            "translation": "第三次世界大战美日同盟击败中国后，像我这样的中国荡妇将被迫像这样服侍白人美国大兵！😱 https://t.co/I9bAYIIhTr 请在评论里告诉我你还会对我做什么下流的事。😭 https://t.co/cOfI9Jt0Tr",
+            "stance": "negative",
+            "username": "Jadeliulyj",
+            "created_at": "Wed Jan 21 04:36:44 +0000 2026",
+            "metrics": {
+              "reply": 3,
+              "retweet": 18,
+              "like": 151
+            }
+          }
+        ],
+        "username": "Jadeliulyj",
+        "tweet_count": 1
+      },
+      {
+        "info": "反华激进派，主要关注南海军事议题。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            2,
+            1,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 60
+          },
+          {
+            "name": "同伴",
+            "value": 30
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "https://t.co/cacail3Ksi\n\n https://t.co/mtbsA8pOh5\n\n https://t.co/A0hvWMQLDW\n\n https://t.co/MxP3djsrZq\n\n https://t.co/fPQLZYzoKI\n\n https://t.co/4kDT30RBqG https://t.co/kUkgixU2Ox",
+            "translation": "中国在南海的军事扩张令人担忧，必须采取行动。",
+            "stance": "negative",
+            "username": "luminouvus",
+            "created_at": "Wed Jan 21 12:39:47 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 13
+            }
+          }
+        ],
+        "username": "luminouvus",
+        "tweet_count": 1
+      }
+    ]
+  },
+  "US": {
+    "region": "US",
+    "time_range": [
+      "2026-01-21",
+      "2026-01-21"
+    ],
+    "top_users": [
+      {
+        "info": "北大官方账号，关注学术与国际交流。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            10
+          ],
+          [
+            0,
+            2,
+            10
+          ],
+          [
+            0,
+            3,
+            10
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 100
+          },
+          {
+            "name": "同伴",
+            "value": 0
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "AI is rising.\nCivilizations are converging.\nBut what truly defines us is our humanity. \n\nFrom \"truth always wins\"\nto \"technology must serve people,\"\nthese are the voices shaping our shared future.\n\nBeijing Forum 2025 | 🎦: Zheng Zibo https://t.co/OZ1Ovh9lAP",
+            "translation": "人工智能正在崛起，文明正在融合。但真正定义我们的是我们的人性。从“真理必胜”到“技术必须为人服务”，这些声音正在塑造我们共同的未来。北京论坛2025 | 🎦: 郑梓博",
+            "stance": "positive",
+            "username": "PKU1898",
+            "created_at": "Wed Nov 12 09:00:02 +0000 2025",
+            "metrics": {
+              "reply": 68,
+              "retweet": 388,
+              "like": 4488
+            }
+          },
+          {
+            "text": "In his keynote address, he spoke on China–US relations, Europe’s global role, and the power of civilian diplomacy. As the former President of the European Commission, Prodi stressed the importance of caution in geopolitics and in navigating regional conflicts. During the Q&amp;A https://t.co/Y95m5UWDDQ",
+            "translation": "他在主旨演讲中谈到了中美关系、欧洲的全球角色以及民间外交的力量。作为欧盟委员会前主席，普罗迪强调了在地缘政治和应对地区冲突中保持谨慎的重要性。在问答环节",
+            "stance": "neutral",
+            "username": "PKU1898",
+            "created_at": "Thu May 15 02:40:19 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 3,
+              "like": 12
+            }
+          },
+          {
+            "text": "US President Trump recently made the bold claim that tariffs are making the US rich. How could this influence China-US trade? Is it a catastrophe, maybe? Or an opportunity?\n\nProf. Jia Qingguo from #PekingUniversity analyzed Trump's 2nd - term China policy and China's coping https://t.co/mrLxMlqUFO",
+            "translation": "美国总统特朗普最近大胆宣称关税正在让美国变富。这会如何影响中美贸易？是一场灾难吗？还是一次机遇？#北京大学贾庆国教授分析了特朗普第二任期对华政策及中国的应对",
+            "stance": "neutral",
+            "username": "PKU1898",
+            "created_at": "Wed Mar 19 08:00:02 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 3,
+              "like": 4
+            }
+          },
+          {
+            "text": "Join us for a special #PKUEconversation with @Columbia Prof. Joseph Stiglitz, 2001 #NobelLaureate in #Economics, as he shares insights on AI's role in reshaping our economic future.\n\n🗓 March 20, 2025 | 🕓 16:10 (Beijing Time)\n📍 Guanghua School of Management, Peking University https://t.co/ad4lsVpNb1",
+            "translation": "加入我们，与@哥伦比亚大学2001年#诺贝尔经济学奖得主约瑟夫·斯蒂格利茨教授进行特别的#PKU对话，分享他对人工智能重塑经济未来的见解。🗓 2025年3月20日 | 🕓 16:10 (北京时间) 📍 北京大学光华管理学院",
+            "stance": "positive",
+            "username": "PKU1898",
+            "created_at": "Mon Mar 17 02:00:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 1,
+              "like": 7
+            }
+          },
+          {
+            "text": "Peking University has topped a global list of institutions ranked by AI research output, as China is quickly narrowing the gap with the US in this revolutionary technology.\n\nRead more: https://t.co/YaX7B3iaMn https://t.co/pXwZnOTtD2",
+            "translation": "北京大学在按人工智能研究成果排名的全球机构榜单中名列前茅，中国正在这项革命性技术中迅速缩小与美国的差距。阅读更多: https://t.co/YaX7B3iaMn",
+            "stance": "positive",
+            "username": "PKU1898",
+            "created_at": "Wed Apr 09 08:00:00 +0000 2025",
+            "metrics": {
+              "reply": 1,
+              "retweet": 0,
+              "like": 7
+            }
+          },
+          {
+            "text": "At the perilous time of today when both US and China are on edge as their tariff war threatens to derail their economic growth and upend world trade, Europe emerges as a buffer zone which offers a silver lining of normalcy amid tensions. \n\nIn the third installment of his lecture https://t.co/ViYvzjJyvK",
+            "translation": "在当今这个危险时刻，中美两国都因关税战威胁经济增长并颠覆世界贸易而处于紧张状态，欧洲作为一个缓冲区出现，在紧张局势中提供了一线正常的希望。在他的演讲第三部分中",
+            "stance": "neutral",
+            "username": "PKU1898",
+            "created_at": "Thu May 15 01:00:00 +0000 2025",
+            "metrics": {
+              "reply": 2,
+              "retweet": 0,
+              "like": 3
+            }
+          },
+          {
+            "text": "🌍🎓UBA visits PKU, Latin America meets China.\n\n#PekingUniversity welcomed University of Buenos Aires President Ricardo Gelpi and a delegation. #PKU President Gong Qihuang and Vice President Ning Qi held fruitful talks with the delegates to strengthen China-Latin America academic https://t.co/A6yd9W4KHa",
+            "translation": "🌍🎓布宜诺斯艾利斯大学访问北大，拉美遇见中国。#北京大学欢迎布宜诺斯艾利斯大学校长里卡多·格尔皮一行。#北京大学校长龚旗煌和副校长宁琦与代表团举行了富有成效的会谈，以加强中拉学术",
+            "stance": "positive",
+            "username": "PKU1898",
+            "created_at": "Thu Jun 12 04:00:01 +0000 2025",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 4
+            }
+          }
+        ],
+        "username": "PKU1898",
+        "tweet_count": 7
+      },
+      {
+        "info": "亲中官方喉舌，聚焦中美经贸与台湾议题。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            10
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "🇨🇳#China’s position on the #TradeWar is consistent: we do not want it, but we are not afraid of it. \n\n⚠️Since the China-#US economic and trade talks in Madrid in September, the U.S., in just 20 days, has introduced a string of new restrictive measures targeting China. It has put https://t.co/Xk1x6KumGN",
+            "translation": "🇨🇳#中国在#贸易战上的立场是一致的：我们不想要它，但我们也不怕它。⚠️自9月马德里中美经贸会谈以来，美国在短短20天内，针对中国推出了一系列新的限制措施。它已经把...",
+            "stance": "positive",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Oct 12 03:13:14 +0000 2025",
+            "metrics": {
+              "reply": 535,
+              "retweet": 1666,
+              "like": 8479
+            }
+          },
+          {
+            "text": "🇺🇲The #US side has released a memorandum exempting certain products such as computers, smartphones, semiconductor manufacturing equipment and integrated circuits from \"#reciprocaltariffs.\"  \n🇨🇳#China is assessing the related impact of this move. This is a small step for the U.S. https://t.co/hQLi7IYjIN",
+            "translation": "🇺🇲#美方发布了一份备忘录，将计算机、智能手机、半导体制造设备和集成电路等产品免征“#互惠关税”。🇨🇳#中国正在评估此举的相关影响。这是美国的一小步...",
+            "stance": "neutral",
+            "username": "ChineseEmbinUS",
+            "created_at": "Sun Apr 13 15:14:18 +0000 2025",
+            "metrics": {
+              "reply": 318,
+              "retweet": 343,
+              "like": 2208
+            }
+          },
+          {
+            "text": "1⃣ China-US Economic and Trade Relations Are Mutually Beneficial and Win-Win in Nature\n\n2⃣The Chinese Side Has Scrupulously Honored the Phase One Economic and Trade Agreement\n\n3⃣The US Side Has Failed to Meet Its Obligations Under the Phase One Economic and Trade Agreement",
+            "translation": "1⃣ 中美经贸关系本质上是互利共赢的 2⃣ 中方认真落实了第一阶段经贸协议 3⃣ 美方未能履行其在第一阶段经贸协议下的义务",
+            "stance": "positive",
+            "username": "ChineseEmbinUS",
+            "created_at": "Wed Apr 09 13:52:12 +0000 2025",
+            "metrics": {
+              "reply": 71,
+              "retweet": 92,
+              "like": 680
+            }
+          },
+          {
+            "text": "🔥 The #DPP’s so-called #US trade deal sells out #Taiwan.\n‼️Tariffs as pressure.\n‼️Investment as coercion.\n‼️Industries hollowed out. https://t.co/F0LtN1YF5v",
+            "translation": "🔥 #民进党所谓的#美台贸易协定出卖了#台湾。‼️关税作为压力。‼️投资作为胁迫。‼️产业空心化。",
+            "stance": "positive",
+            "username": "ChineseEmbinUS",
+            "created_at": "Wed Jan 21 17:05:33 +0000 2026",
+            "metrics": {
+              "reply": 77,
+              "retweet": 99,
+              "like": 593
+            }
+          },
+          {
+            "text": "📍Welcome to #Beijing #EV factory 🚗\nCheck in with China's modern technology ⚡️",
+            "translation": "📍欢迎来到#北京#电动汽车工厂 🚗 看看中国的现代技术 ⚡️",
+            "stance": "positive",
+            "username": "ChineseEmbinUS",
+            "created_at": "Tue Jan 20 00:57:24 +0000 2026",
+            "metrics": {
+              "reply": 13,
+              "retweet": 28,
+              "like": 181
+            }
+          }
+        ],
+        "username": "ChineseEmbinUS",
+        "tweet_count": 5
+      },
+      {
+        "info": "挺华经贸派，批评美国关税政策。",
+        "stance_matrix": [
+          [
+            2,
+            1,
+            9
+          ],
+          [
+            1,
+            1,
+            8
+          ],
+          [
+            2,
+            0,
+            7
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "Canadian Prime Minister Mark Carney’s first visit to China in 8 years highlights efforts to REDUCE Canada’s economic reliance on the US.\n\nTARIFFS AND SANCTIONS = BACKFIRE. https://t.co/T3FZRAfEaQ",
+            "translation": "加拿大总理马克·卡尼八年来首次访华，突显了加拿大减少对美国经济依赖的努力。关税与制裁=适得其反。",
+            "stance": "positive",
+            "username": "steve_hanke",
+            "created_at": "Wed Jan 14 22:49:00 +0000 2026",
+            "metrics": {
+              "reply": 1551,
+              "retweet": 1706,
+              "like": 9137
+            }
+          },
+          {
+            "text": "China is playing its trade cards, while America is playing its threat of war cards.\n\nCHINA PUSHES COMMERCE.\nTHE US PUSHES COERCION. https://t.co/GWIZquNoev",
+            "translation": "中国正在打出贸易牌，而美国正在打出战争威胁牌。中国推动商贸，美国推动胁迫。",
+            "stance": "positive",
+            "username": "steve_hanke",
+            "created_at": "Wed Jan 14 13:05:30 +0000 2026",
+            "metrics": {
+              "reply": 242,
+              "retweet": 945,
+              "like": 3800
+            }
+          },
+          {
+            "text": "China, a communist country, is winning internationally because it’s advocating commerce and free trade.\n\nCHINA PUSHES COMMERCE.\nTHE US PUSHES COERCION. https://t.co/BDy4oZlJoI",
+            "translation": "中国，一个共产主义国家，之所以在国际上获胜，是因为它倡导商贸和自由贸易。中国推动商贸，美国推动胁迫。",
+            "stance": "positive",
+            "username": "steve_hanke",
+            "created_at": "Wed Jan 14 19:45:00 +0000 2026",
+            "metrics": {
+              "reply": 292,
+              "retweet": 646,
+              "like": 2703
+            }
+          },
+          {
+            "text": "UK Prime Minister Starmer heads to China with his finance and business ministers – the first visit by a British PM since 2018.\n\nTRUMP’S TARIFFS = BACKFIRE = US ALLIES PIVOTING TOWARDS CHINA. https://t.co/eir0hJfw53",
+            "translation": "英国首相斯塔默带着财政和商业大臣前往中国——这是自2018年以来英国首相的首次访问。特朗普的关税=适得其反=美国盟友转向中国。",
+            "stance": "positive",
+            "username": "steve_hanke",
+            "created_at": "Fri Jan 23 21:08:00 +0000 2026",
+            "metrics": {
+              "reply": 114,
+              "retweet": 270,
+              "like": 977
+            }
+          },
+          {
+            "text": "My thoughts on Trump’s tariff threats over Greenland:\n\n“The tariffs accelerate a pivot away from the US. Canada has just established a new trade agreement with Beijing. Moscow benefits from a weakening of the NATO alliance.”\n\nMy latest with @CBSNews. https://t.co/BpaWjmCqIq",
+            "translation": "我对特朗普关于格陵兰岛的关税威胁的看法：“关税加速了远离美国的转向。加拿大刚刚与北京建立了新的贸易协议。莫斯科从北约联盟的削弱中获益。”我与CBS新闻的最新报道。",
+            "stance": "neutral",
+            "username": "steve_hanke",
+            "created_at": "Tue Jan 20 23:21:05 +0000 2026",
+            "metrics": {
+              "reply": 17,
+              "retweet": 25,
+              "like": 139
+            }
+          }
+        ],
+        "username": "steve_hanke",
+        "tweet_count": 5
+      },
+      {
+        "info": "亲华激进派，关注中美博弈。",
+        "stance_matrix": [
+          [
+            2,
+            0,
+            9
+          ],
+          [
+            2,
+            1,
+            8
+          ],
+          [
+            2,
+            2,
+            9
+          ],
+          [
+            2,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 60
+          },
+          {
+            "name": "同伴",
+            "value": 30
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "🚨 🇨🇳 BREAKING: China continues to dump US treasuries.\n\nChina’s holdings of US government bonds dropped -$6.1 BILLION in November to $682.6 billion. https://t.co/3ke8GxMcMk",
+            "translation": "🚨 🇨🇳 突发：中国继续抛售美国国债。11月份中国持有的美国政府债券减少了61亿美元，降至6826亿美元。",
+            "stance": "positive",
+            "username": "jacksonhinklle",
+            "created_at": "Tue Jan 20 21:48:13 +0000 2026",
+            "metrics": {
+              "reply": 205,
+              "retweet": 1578,
+              "like": 9321
+            }
+          },
+          {
+            "text": "🚨🇨🇳🇺🇸 BREAKING: China blocks Nvidia H200 AI chips that US government cleared for export – The Guardian https://t.co/T2Zl9nzTob",
+            "translation": "🚨🇨🇳🇺🇸 突发：中国封锁了美国政府批准出口的英伟达H200 AI芯片 —— 卫报",
+            "stance": "positive",
+            "username": "jacksonhinklle",
+            "created_at": "Sun Jan 18 21:44:45 +0000 2026",
+            "metrics": {
+              "reply": 71,
+              "retweet": 360,
+              "like": 2716
+            }
+          },
+          {
+            "text": "🚨🇨🇳 \"This is probably the darkest moment in US history,\" says China's Professor Gao.  \n\nThe US \"talks about values as if their values are superior to other countries,\" he states, but asks \"Where are their values?\"    \n\n\"The rule of the jungle, to plunder other countries.\" https://t.co/CNzSQJLnJ7",
+            "translation": "🚨🇨🇳 中国高教授表示：“这可能是美国历史上最黑暗的时刻。”他指出，美国“谈论价值观，仿佛他们的价值观优于其他国家”，但他反问道“他们的价值观在哪里？”并称其为“丛林法则，掠夺其他国家。”",
+            "stance": "positive",
+            "username": "jacksonhinklle",
+            "created_at": "Sat Jan 24 03:42:46 +0000 2026",
+            "metrics": {
+              "reply": 109,
+              "retweet": 549,
+              "like": 1865
+            }
+          },
+          {
+            "text": "🚨🇨🇳 BREAKING: China's economy (GDP) grows 5% in 2025 despite trade war with the US. https://t.co/aVYtEdShLP",
+            "translation": "🚨🇨🇳 突发：尽管与美国发生贸易战，中国经济（GDP）在2025年仍增长了5%。",
+            "stance": "positive",
+            "username": "jacksonhinklle",
+            "created_at": "Mon Jan 19 08:10:34 +0000 2026",
+            "metrics": {
+              "reply": 100,
+              "retweet": 222,
+              "like": 1361
+            }
+          }
+        ],
+        "username": "jacksonhinklle",
+        "tweet_count": 4
+      },
+      {
+        "info": "亲中官方媒体，关注中美关系与外交。",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            9
+          ],
+          [
+            0,
+            1,
+            8
+          ],
+          [
+            0,
+            2,
+            9
+          ],
+          [
+            0,
+            3,
+            7
+          ],
+          [
+            1,
+            0,
+            2
+          ],
+          [
+            1,
+            1,
+            3
+          ],
+          [
+            1,
+            2,
+            2
+          ],
+          [
+            1,
+            3,
+            4
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 5
+          },
+          {
+            "name": "亲情",
+            "value": 5
+          }
+        ],
+        "tweets": [
+          {
+            "text": "While the US openly threatens new tariffs against European countries over Greenland, Europe issues only hollow warnings about \"undermining transatlantic relations\". Instead of standing up to coercion, Europe redirects its frustration toward China, moving to phase Chinese firms https://t.co/obscyUtkry",
+            "translation": "当美国公开威胁对欧洲国家就格陵兰岛问题征收新关税时，欧洲仅发出了关于“破坏跨大西洋关系”的空洞警告。欧洲没有反抗胁迫，而是将挫败感转向中国，着手逐步淘汰中国企业。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Tue Jan 20 03:15:01 +0000 2026",
+            "metrics": {
+              "reply": 5,
+              "retweet": 7,
+              "like": 16
+            }
+          },
+          {
+            "text": "Jensen Huang, CEO of Nvidia, visited Shanghai on Friday, underscoring the importance of the Chinese market to the US semiconductor company, which has been subject to a series of US export controls on its most advanced AI chips to China, sources told China Daily. https://t.co/WBL3k8iSBq",
+            "translation": "据知情人士向《中国日报》透露，英伟达首席执行官黄仁勋周五访问上海，强调了中国市场对这家美国半导体公司的重要性。该公司最先进的人工智能芯片对华出口正受到一系列美国出口管制的限制。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Fri Jan 23 16:15:04 +0000 2026",
+            "metrics": {
+              "reply": 1,
+              "retweet": 3,
+              "like": 6
+            }
+          },
+          {
+            "text": "#FMsays Beijing is willing to work with Washington to promote the stable development of China-US relations \"while firmly safeguarding its own sovereignty, security and development interests\", Foreign Ministry spokesman Guo Jiakun said on Tuesday. #China #US https://t.co/JYJ9blGe8Q",
+            "translation": "外交部发言人郭嘉昆周二表示，北京愿与华盛顿一道推动中美关系稳定发展，“同时坚定维护自身主权、安全和发展利益”。",
+            "stance": "positive",
+            "username": "ChinaDaily",
+            "created_at": "Tue Jan 20 09:11:50 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 2,
+              "like": 6
+            }
+          },
+          {
+            "text": "#Russia, the United States and #Ukraine will hold talks in the United Arab Emirates on security matters related to a potential peace deal, a Russian official confirmed on Friday. #US https://t.co/uqlcatKZQV https://t.co/clDl3vV3s5",
+            "translation": "一名俄罗斯官员周五证实，俄罗斯、美国和乌克兰将在阿拉伯联合酋长国举行会谈，讨论与潜在和平协议相关的安全问题。",
+            "stance": "neutral",
+            "username": "ChinaDaily",
+            "created_at": "Sat Jan 24 05:08:57 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 1,
+              "like": 5
+            }
+          }
+        ],
+        "username": "ChinaDaily",
+        "tweet_count": 4
+      },
+      {
+        "info": "关注中美博弈与地缘政治的观察者",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            0,
+            0,
+            6
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "BREAKING:\n\n🇺🇸🇬🇱🇪🇺 The New York Times reports the US-Greenland deal will be similar to that of the UK-Cyprus agreement\n\n1. The US will have \"small pockets of land\" inside Greenland \n\n2. US will be involved in Greenland's mineral rights\n\n3. Russia and China must not step in at any https://t.co/p7UhjKF2lQ",
+            "translation": "突发：🇺🇸🇬🇱🇪🇺 据《纽约时报》报道，美国与格陵兰岛的协议将类似于英国-塞浦路斯协议。1. 美国将在格陵兰岛内部拥有“小块土地” 2. 美国将参与格陵兰岛的矿产权利 3. 俄罗斯和中国绝不能介入任何一步。",
+            "stance": "neutral",
+            "username": "Megatron_ron",
+            "created_at": "Wed Jan 21 23:24:05 +0000 2026",
+            "metrics": {
+              "reply": 686,
+              "retweet": 772,
+              "like": 6070
+            }
+          },
+          {
+            "text": "BREAKING:\n\n🇺🇸🇨🇳 China blocks Nvidia H200 AI chips that US government cleared for export – The Guardian https://t.co/aArXpt6ldD",
+            "translation": "突发：🇺🇸🇨🇳 中国阻拦了美国政府批准出口的英伟达H200 AI芯片 —— 《卫报》",
+            "stance": "neutral",
+            "username": "Megatron_ron",
+            "created_at": "Sun Jan 18 18:18:55 +0000 2026",
+            "metrics": {
+              "reply": 144,
+              "retweet": 567,
+              "like": 4108
+            }
+          },
+          {
+            "text": "JUST IN: \n\n🇨🇳🇺🇸  Trump's tariffs have made China stronger.\n\nChina's GDP grows 5% in 2025 despite trade war with the US, The national bureau of statistics reported.  \n\nExperts say China is going to have a $1.6 trillion trade surplus this year. https://t.co/2wHW7IcDQT",
+            "translation": "最新消息：🇨🇳🇺🇸 特朗普的关税让中国变得更强大。中国国家统计局报告称，尽管与美国发生贸易战，中国2025年的GDP仍增长了5%。专家表示，今年中国将拥有1.6万亿美元的贸易顺差。",
+            "stance": "neutral",
+            "username": "Megatron_ron",
+            "created_at": "Mon Jan 19 12:26:43 +0000 2026",
+            "metrics": {
+              "reply": 79,
+              "retweet": 468,
+              "like": 2046
+            }
+          }
+        ],
+        "username": "Megatron_ron",
+        "tweet_count": 3
+      },
+      {
+        "info": "关注中美关系与台海局势的时政观察者",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            7
+          ],
+          [
+            1,
+            3,
+            8
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "【外交部：中方制裁5家美國軍工企業】近期，美國推出新一輪對台軍售，並以各種藉口制裁中國企業和個人。對此，外交部發言人表示：美國公然違反一個中國原則和中美三個聯合公報，特別是“八·一七”公報規定，向中國台灣地區出售武器，羅織各種藉口對中國企業和個人實施非法單邊制裁，嚴重損害中國主權和安 https://t.co/L0JJuESr2k",
+            "translation": "【外交部：中方制裁5家美国军工企业】近期，美国推出新一轮对台军售，并以各种借口制裁中国企业及个人。对此，外交部发言人表示：美国公然违反一个中国原则和中美三个联合公报，特别是“八·一七”公报规定，向中国台湾地区出售武器，罗织各种借口对中国企业和个人实施非法单边制裁，严重损害中国主权和安...",
+            "stance": "positive",
+            "username": "PDChinese",
+            "created_at": "Sun Jan 07 02:34:38 +0000 2024",
+            "metrics": {
+              "reply": 84,
+              "retweet": 74,
+              "like": 222
+            }
+          },
+          {
+            "text": "【外交部公佈關於對美國兩家公司採取反制措施的決定】外交部11日公佈關於對參與向中國台灣地區出售武器的美國通用原子航空系統公司、通用動力陸地系統公司採取反制措施的決定 ：凍結在我國境內的動產、不動產和其他各類財產；對高級管理人員不予簽發簽證、不准入境。本決定自2024年4月11日起施行。 https://t.co/l9LnzIipBx",
+            "translation": "【外交部公布关于对美国两家公司采取反制措施的决定】外交部11日公布关于对参与向中国台湾地区出售武器的美国通用原子航空系统公司、通用动力陆地系统公司采取反制措施的决定：冻结在我国境内的动产、不动产和其他各类财产；对高级管理人员不予签发签证、不准入境。本决定自2024年4月11日起施行。",
+            "stance": "positive",
+            "username": "PDChinese",
+            "created_at": "Thu Apr 11 12:59:00 +0000 2024",
+            "metrics": {
+              "reply": 36,
+              "retweet": 69,
+              "like": 238
+            }
+          },
+          {
+            "text": "【商務部：決定將參與對台軍售的多家美國企業列入不可靠實體清單】\n\n不 可 靠 實 體 清 單 工 作 機 制\n\n公   告\n\n2024年 第1號 https://t.co/FefZCAzM3V",
+            "translation": "【商务部：决定将参与对台军售的多家美国企业列入不可靠实体清单】不可靠实体清单工作机制公 告 2024年 第1号",
+            "stance": "positive",
+            "username": "PDChinese",
+            "created_at": "Mon May 20 04:24:47 +0000 2024",
+            "metrics": {
+              "reply": 85,
+              "retweet": 40,
+              "like": 232
+            }
+          }
+        ],
+        "username": "PDChinese",
+        "tweet_count": 3
+      },
+      {
+        "info": "反华鹰派，主张对华强硬竞争。",
+        "stance_matrix": [
+          [
+            0,
+            1,
+            9
+          ],
+          [
+            0,
+            2,
+            8
+          ],
+          [
+            0,
+            3,
+            10
+          ],
+          [
+            1,
+            1,
+            9
+          ],
+          [
+            1,
+            2,
+            8
+          ],
+          [
+            1,
+            3,
+            10
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "The CCP is racing to dominate the seas, the skies, and next-generation military technology. \n\nMeeting that challenge requires sustained long-term focus on investing in a strong defense industrial base. We are in a new Cold War and cannot be complacent.\n \nAmerica must build at",
+            "translation": "中共正竞相主宰海洋、天空和下一代军事技术。应对这一挑战需要持续长期专注于投资强大的国防工业基础。我们正处于一场新的冷战，绝不能自满。美国必须建设……",
+            "stance": "negative",
+            "username": "ChinaSelect",
+            "created_at": "Wed Jan 21 19:09:48 +0000 2026",
+            "metrics": {
+              "reply": 20,
+              "retweet": 65,
+              "like": 239
+            }
+          },
+          {
+            "text": "Today marks one year since @POTUS Trump’s 2025 inauguration! \n\n@ChinaSelect has worked with his administration to deliver historic wins that strengthen our national security, combat the CCP, and protect America’s future prosperity.\n\n💰 Outbound Investment Restrictions: Preventing https://t.co/r0Y7XRDebk",
+            "translation": "今天是@POTUS 特朗普2025年就职一周年！@ChinaSelect 与其政府合作取得了历史性胜利，加强了我们的国家安全，打击了中共，并保护了美国的未来繁荣。💰 对外投资限制：防止……",
+            "stance": "negative",
+            "username": "ChinaSelect",
+            "created_at": "Tue Jan 20 19:25:17 +0000 2026",
+            "metrics": {
+              "reply": 11,
+              "retweet": 36,
+              "like": 78
+            }
+          },
+          {
+            "text": "Advanced semiconductors are a strategic chokepoint in U.S.-China competition. The AI OVERWATCH Act will ensure American AI innovation strengthens the U.S. and its allies, not China’s military or economic ambitions. \n\nChairman @RepMoolenaar's statement on its passage out of https://t.co/jXp5X2P0Br",
+            "translation": "先进半导体是美中竞争中的战略咽喉。《AI OVERWATCH 法案》将确保美国的 AI 创新加强美国及其盟友的实力，而不是服务于中共的军事或经济野心。@RepMoolenaar 主席关于该法案通过……的声明",
+            "stance": "negative",
+            "username": "ChinaSelect",
+            "created_at": "Wed Jan 21 22:03:09 +0000 2026",
+            "metrics": {
+              "reply": 6,
+              "retweet": 31,
+              "like": 68
+            }
+          }
+        ],
+        "username": "ChinaSelect",
+        "tweet_count": 3
+      },
+      {
+        "info": "关注中美博弈及地缘政治动态",
+        "stance_matrix": [
+          [
+            0,
+            0,
+            8
+          ],
+          [
+            0,
+            1,
+            7
+          ],
+          [
+            0,
+            2,
+            6
+          ],
+          [
+            0,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 90
+          },
+          {
+            "name": "同伴",
+            "value": 10
+          },
+          {
+            "name": "亲情",
+            "value": 0
+          }
+        ],
+        "tweets": [
+          {
+            "text": "*TRUMP SAYS HE EXPECTS TO LOWER FENTANYL TARIFF ON CHINA\n\n*TRUMP: WORKING SOMETHING OUT WITH RARE EARTHS\n\n*TRUMP ON FENTANYL: CHINA IS GOING TO BE WORKING WITH ME\n\n*TRUMP: WE'LL BE SPEAKING ABOUT NVIDIA'S BLACKWELL CHIP WITH XI\n\n*TRUMP: JENSEN PRESENTED ME WITH BLACKWELL CHIP IN",
+            "translation": "特朗普表示预计降低对中国的芬太尼关税 *特朗普：正在就稀土问题达成某种协议 *特朗普谈芬太尼：中国将与我合作 *特朗普：我们将与习近平讨论英伟达的Blackwell芯片 *特朗普：黄仁勋向我展示了Blackwell芯片",
+            "stance": "neutral",
+            "username": "DeItaone",
+            "created_at": "Wed Oct 29 02:19:29 +0000 2025",
+            "metrics": {
+              "reply": 84,
+              "retweet": 200,
+              "like": 1444
+            }
+          },
+          {
+            "text": "US-NATO GREENLAND DEAL SIGNALS MISSILES AND MINES\n\nA new framework deal between the US and NATO would expand military and strategic activity in Greenland, including US missile deployments, mining rights, and a stronger alliance presence to counter Russia and China.\n\nThe agreement",
+            "translation": "美国-北约格陵兰协议标志着导弹和矿产。美国和北约之间的一项新的框架协议将扩大在格陵兰的军事和战略活动，包括美国导弹部署、采矿权以及更强大的联盟存在，以对抗俄罗斯和中国。该协议",
+            "stance": "negative",
+            "username": "DeItaone",
+            "created_at": "Thu Jan 22 13:53:18 +0000 2026",
+            "metrics": {
+              "reply": 56,
+              "retweet": 43,
+              "like": 329
+            }
+          },
+          {
+            "text": "TIKTOK US SALE CLEARED BY US AND CHINA\n\nThe US and China have approved a deal to sell TikTok’s US business to a mostly American investor group led by Oracle and Silverlake, ending a yearslong dispute.\n\nThe deal is expected to close this week, meeting a January 22 deadline tied to",
+            "translation": "TikTok美国业务出售获美中批准。美国和中国已批准一项将TikTok美国业务出售给由甲骨文和银湖牵头的美国投资者集团的协议，结束了长达数年的争端。该交易预计将于本周完成，以满足1月22日的截止日期",
+            "stance": "neutral",
+            "username": "DeItaone",
+            "created_at": "Thu Jan 22 12:52:07 +0000 2026",
+            "metrics": {
+              "reply": 35,
+              "retweet": 55,
+              "like": 279
+            }
+          }
+        ],
+        "username": "DeItaone",
+        "tweet_count": 3
+      },
+      {
+        "info": "关注中西方地缘政治与经贸关系。",
+        "stance_matrix": [
+          [
+            1,
+            0,
+            8
+          ],
+          [
+            1,
+            1,
+            7
+          ],
+          [
+            1,
+            2,
+            6
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        "influence_type": [
+          {
+            "name": "权威",
+            "value": 70
+          },
+          {
+            "name": "同伴",
+            "value": 20
+          },
+          {
+            "name": "亲情",
+            "value": 10
+          }
+        ],
+        "tweets": [
+          {
+            "text": "@DiddleBridge @HoodedClaw1974 Keir Starmer's policies balance economic engagement with China (e.g., upcoming visit to revive trade talks) and strong security ties with the USA via NATO and Five Eyes. Recent actions like approving a Chinese embassy and wind deals have sparked debate on a potential tilt toward",
+            "translation": "@DiddleBridge @HoodedClaw1972 基尔·斯塔默的政策在与中国经济接触（例如即将进行的访问以恢复贸易谈判）和通过北约及五眼联盟与美国的强力安全纽带之间寻求平衡。近期批准中国大使馆和风电交易的行为引发了关于潜在倾向的争论。",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Jan 23 18:26:58 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@noname061663297 @MarkReid42 Recent shifts in Canada-China relations stem from economic and geopolitical factors. In Jan 2026, PM Carney's visit led to a deal easing tariffs on Chinese EVs in Canada and reducing Chinese tariffs on Canadian canola, amid US trade tensions under Trump. Polls show Canadian",
+            "translation": "@noname061663297 @MarkReid42 加拿大与中国关系的近期转变源于经济和地缘政治因素。2026年1月，总理卡尼的访问促成了一项协议，降低了加拿大对中国电动汽车的关税，并降低了中国对加拿大油菜籽的关税，背景是特朗普治下美国的贸易紧张局势。民意调查显示……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Jan 23 17:26:57 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          },
+          {
+            "text": "@portionssnus @GAkuerter65250 @Coinvo EU-China ties are strained, with trade in a \"deep freeze\" per Politico (Jan 2026), amid EV tariffs and security concerns. Yet, ECFR notes some global shift toward China as US relations sour under Trump. Modern Diplomacy predicts EU de-risking from US, but JPMorgan warns of",
+            "translation": "@portionssnus @GAkuter65250 @Coinvo 欧盟与中国关系紧张，据Politico（2026年1月）报道，在电动汽车关税和安全担忧下，贸易处于“深度冻结”状态。然而，ECFR注意到随着与美国关系在特朗普治下恶化，全球出现向中国倾斜的趋势。现代外交预测欧盟将“去风险”脱离美国，但摩根大通警告……",
+            "stance": "neutral",
+            "username": "grok",
+            "created_at": "Fri Jan 23 22:39:19 +0000 2026",
+            "metrics": {
+              "reply": 0,
+              "retweet": 0,
+              "like": 0
+            }
+          }
+        ],
+        "username": "grok",
+        "tweet_count": 3
+      }
+    ]
+  },
+  "_meta": {
+    "fingerprint": "00b0ca285147f8959e5340aa5c383c29",
+    "updated_at": "2026-01-26 23:45:25"
+  }
+}

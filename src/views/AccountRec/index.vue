@@ -34,7 +34,7 @@
         <el-card class="modern-card">
           <template #header>
             <div class="card-header">
-              <span>👥 重点账号挖掘 (Top 10)</span>
+              <span>👥 重点账号挖掘</span>
             </div>
           </template>
           
@@ -175,7 +175,7 @@ interface UserProfile {
 interface AccountAnalysisData { region: string; top_users: UserProfile[]; }
 
 const activeTab = ref('US');
-const selectedDate = ref<string>('2025-12-25');
+const selectedDate = ref<string>('2026-01-26');
 const loading = ref(false);
 const hasData = ref(true);
 const selectedUser = ref<UserProfile | null>(null);

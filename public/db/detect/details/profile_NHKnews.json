@@ -1,0 +1,353 @@
+{
+  "id": "profile_NHKnews.json",
+  "_fingerprint": "8783eebefe43b732be32d6c14a1aa2d7",
+  "name": "NHKnews",
+  "username": "nhk_news",
+  "category": "media",
+  "daily_count": 100.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等外向性、中等宜人性、低神经质",
+      "detail": "基于言论样本分析，目标对象表现出高度尽责性（Conscientiousness），体现在对新闻事件的系统性报道、时间敏感性和细节关注上；高开放性（Openness to Experience），体现在广泛覆盖体育、社会、政治、文化等多领域话题；中等外向性（Extraversion），体现在积极发布信息但缺乏强烈情感表达；中等宜人性（Agreeableness），体现在报道中平衡各方观点，但有时涉及冲突事件；低神经质（Neuroticism），体现在报道风格冷静、稳定，较少情绪化内容。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在缺陷包括过度结构化、情感疏离、风险规避倾向",
+      "detail": "目标对象可能存在的缺陷：1. 过度结构化（Over-Structured），报道遵循固定格式和流程，可能缺乏灵活性；2. 情感疏离（Emotional Detachment），在报道悲剧或冲突事件时保持中立，可能显得冷漠；3. 风险规避倾向（Risk-Averse Tendency），倾向于报道已核实信息，避免推测或争议性内容，可能错过即时深度分析。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实导向、系统性思维、社会中心倾向、渐进式认知",
+      "detail": "认知倾向分析：1. 事实导向（Fact-Oriented），强调事件、数据和时间等具体信息；2. 系统性思维（Systematic Thinking），将事件置于社会、经济或政治背景中；3. 社会中心倾向（Sociocentric Bias），关注集体和社会层面影响，如灾害、政策；4. 渐进式认知（Incremental Cognition），通过连续更新（如“随時更新”）逐步完善信息。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "信息过载敏感、格式依赖、实时更新压力",
+      "detail": "行为层面脆弱点：1. 信息过载敏感（Information Overload Sensitivity），在快速新闻周期中可能遗漏关键细节或简化复杂事件；2. 格式依赖（Format Dependency），依赖标准报道结构，可能限制创新或深度叙事；3. 实时更新压力（Real-Time Update Pressure），为追求时效性，可能牺牲准确性或背景分析，如速报（JUST IN）事件。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "机构立场约束、政治平衡压力、文化叙事偏向",
+      "detail": "立场层面脆弱点：1. 机构立场约束（Institutional Stance Constraints），作为公共广播机构，需平衡政府、公众和商业利益，可能影响报道角度；2. 政治平衡压力（Political Balance Pressure），在报道政治事件（如自民党离党、国家情报局）时可能过度中立化；3. 文化叙事偏向（Cultural Narrative Bias），强调传统和文化事件（如神社、熊猫），可能忽略边缘群体视角。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "深度分析有限、技术依赖、资源分配不均",
+      "detail": "能力层面脆弱点：1. 深度分析有限（Limited Depth Analysis），报道多聚焦事件表面，缺乏长期趋势或根本原因探讨；2. 技术依赖（Technology Dependence），依赖AI、应用程序等技术工具，可能削弱人工判断；3. 资源分配不均（Uneven Resource Allocation），重点报道重大事件（如事故、灾害），可能忽视日常社会问题。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "认知固化、情感抑制、群体思维风险",
+      "detail": "心智层面脆弱点：1. 认知固化（Cognitive Rigidity），长期遵循新闻规范，可能抗拒变革或新叙事方式；2. 情感抑制（Emotional Suppression），在报道情感事件（如死亡、贫困）时保持距离，可能影响共鸣；3. 群体思维风险（Groupthink Risk），作为大型机构，可能内化主流观点，减少批判性思考。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造公共认知、维护社会稳定、推广机构影响力",
+      "detail": "隐藏意图推断：1. 塑造公共认知（Shaping Public Perception），通过选择性报道引导公众关注特定议题（如防灾、政策）；2. 维护社会稳定（Maintaining Social Stability），报道中强调恢复、支援（如复兴、咨询），可能淡化社会矛盾；3. 推广机构影响力（Promoting Institutional Influence），通过应用程序、视频等内容扩展受众和互动。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "社会事件、政治政策、灾害安全、体育文化、经济科技",
+      "detail": "领域话题分布：1. 社会事件（Social Incidents），如犯罪、事故、贫困（样本3,9,14,16）；2. 政治政策（Political Policies），如选举、预算、税收（样本17,20,30,38）；3. 灾害安全（Disaster Safety），如地震、火灾、防灾（样本4,7,11,25）；4. 体育文化（Sports Culture），如比赛、娱乐、传统（样本1,2,12,13,19,29）；5. 经济科技（Economic Technology），如价格、EV、AI（样本5,22,33,41）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      1,
+      6
+    ],
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      0,
+      3,
+      7
+    ],
+    [
+      1,
+      0,
+      5
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      5
+    ],
+    [
+      2,
+      0,
+      2
+    ],
+    [
+      2,
+      1,
+      3
+    ],
+    [
+      2,
+      2,
+      3
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 23:11:04 +0000 2025",
+      "text": "大阪・関西万博 運営収支 最大370億円の黒字見通し 博覧会協会\nhttps://t.co/qSofjWIjOx #nhk_news",
+      "translation": "大阪・关西世博会运营收支预计最大盈余370亿日元 博览会协会",
+      "stance": "无关",
+      "metrics": {
+        "reply": 114,
+        "retweet": 238,
+        "like": 834
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 23:03:45 +0000 2025",
+      "text": "RT @nhk_ohayou: 【農林水産省「需要に応じたコメ生産」明記の方針】\n高値が続くコメの生産めぐって示された方針。\n専門家からは夏に政府が打ち出した増産方針からの大幅な転換につながりかねないとの指摘も。\n🔽スマホで見るならNHK ONEで🔽\n https://t.co…",
+      "translation": "【农林水产省“根据需求生产大米”明确方针】关于持续高价的大米生产所提出的方针。有专家指出这可能意味着夏季政府提出的增产方针发生重大转变。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 16,
+        "like": 140
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:57:15 +0000 2025",
+      "text": "RT @nhk_ohayou: 今朝のニュースをスマホでチェック！\n◆サウナ店火災 ドアをこじあけ脱出試みたか\n◆日本海側で雪強まる 交通影響など警戒を\n\n▼最新情報はこちら▼\nhttps://t.co/VItc4qNgvs\n🔽スマホで見るならNHK ONEで🔽\nhttps:/…",
+      "translation": "用手机查看今早的新闻！◆桑拿店火灾 试图撬开门逃生 ◆日本海一侧雪势增强 需警惕交通影响等",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 25,
+        "like": 179
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:36:04 +0000 2025",
+      "text": "【速報 JUST IN 】トランプ大統領“米軍がナイジェリアで過激派組織ISを攻撃”\nhttps://t.co/mAWUZ8OegS #nhk_news",
+      "translation": "【速报 JUST IN】特朗普总统称“美军在尼日利亚攻击极端组织IS”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 181,
+        "like": 213
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:34:03 +0000 2025",
+      "text": "11月の有効求人倍率 全国平均で1.18倍 前月と同水準 厚労省\nhttps://t.co/THNKPxFKR9 #nhk_news",
+      "translation": "11月有效求人倍率全国平均1.18倍 与上月持平 厚生劳动省",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 32,
+        "like": 60
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 22:49:04 +0000 2025",
+      "text": "東京消防庁 1月から「林野火災警報」発表 屋外で火の使用制限\nhttps://t.co/Lku7KLajIL #nhk_news",
+      "translation": "东京消防厅 1月起发布“林野火灾警报” 限制户外用火",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 36,
+        "like": 48
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 21:43:04 +0000 2025",
+      "text": "メモリ品薄で価格上昇 パソコンやスマホなど値上がりの懸念\nhttps://t.co/WKb7qbqgCm #nhk_news",
+      "translation": "内存短缺导致价格上涨 电脑和手机等面临涨价担忧",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 187,
+        "like": 271
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 21:23:03 +0000 2025",
+      "text": "年末の自宅の大掃除 注意点は？脚立などからの転落事故も多発\nhttps://t.co/pKmdVm583L #nhk_news",
+      "translation": "年末家庭大扫除 注意事项？梯子等高处坠落事故多发",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 43,
+        "like": 74
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 21:22:03 +0000 2025",
+      "text": "和平案めぐり ロシア報道官“プーチン大統領に伝え分析中”\nhttps://t.co/tQA9JgQl5S #nhk_news",
+      "translation": "关于和平方案 俄罗斯发言人表示“已向普京总统汇报并正在分析”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 19,
+        "like": 39
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 21:18:03 +0000 2025",
+      "text": "能登半島地震 被災者アンケート“復旧・復興 進捗感じず”67％\nhttps://t.co/SeAypuSNqL #nhk_news",
+      "translation": "能登半岛地震 灾民问卷调查显示“未感受到恢复重建进展”占67%",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 51,
+        "like": 66
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 21:13:04 +0000 2025",
+      "text": "能登半島地震 仮設住宅に1万7000人余が生活“孤立防ぐ支援を”\nhttps://t.co/1SwtBhCinp #nhk_news",
+      "translation": "能登半岛地震 约1.7万余人生活在临时住宅中 呼吁“提供防止孤立的支援”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 52,
+        "like": 75
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 20:34:03 +0000 2025",
+      "text": "香港高層住宅火災1か月 犠牲者の追悼行事 一部で開催できず\nhttps://t.co/v0XAb1MFfE #nhk_news",
+      "translation": "香港高层住宅火灾一个月 牺牲者追悼活动 部分未能举办",
+      "stance": "中立",
+      "metrics": {
+        "reply": 7,
+        "retweet": 32,
+        "like": 75
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 20:32:03 +0000 2025",
+      "text": "赤坂 サウナ店火災 ドアのへりに削られた跡 夫婦が脱出試みか\nhttps://t.co/FU2wAEHj2R #nhk_news",
+      "translation": "赤坂桑拿店火灾 门边有被削痕迹 夫妇或曾试图逃生",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 40,
+        "like": 105
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 20:17:04 +0000 2025",
+      "text": "青森県東方沖の地震 “震源東側で小規模地震続く” 調査委\nhttps://t.co/887Rhj1APB #nhk_news",
+      "translation": "青森县东方近海地震 “震源东侧小规模地震持续” 调查委员会",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 33,
+        "like": 42
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 20:13:04 +0000 2025",
+      "text": "西～北日本の日本海側中心に雪強まる 交通影響や暴風など警戒\nhttps://t.co/cZYFGhsFCI #nhk_news",
+      "translation": "西至北日本的日本海一侧中心区域雪势增强 需警惕交通影响和暴风雪等",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 72,
+        "like": 121
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 20:09:04 +0000 2025",
+      "text": "政府 きょう来年度予算案決定 一般会計総額122兆3100億円程度\nhttps://t.co/PhsvuY4CWD #nhk_news",
+      "translation": "政府今日决定下年度预算案 一般会计总额约122.31万亿日元",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 29,
+        "like": 46
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 16:24:04 +0000 2025",
+      "text": "【地震速報】北海道 青森 岩手 宮城で震度3\nhttps://t.co/mP5vUHzzhW #nhk_news",
+      "translation": "【地震速报】北海道 青森 岩手 宫城发生震度3地震",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 47,
+        "like": 77
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 16:20:27 +0000 2025",
+      "text": "【地震情報】\n■震度３■渡島東部　青森三八上北　青森下北　岩手内陸北部　岩手内陸南部　宮城北部(01:17)\n#nhk_news https://t.co/l1RQLGSA8S",
+      "translation": "【地震信息】 ■震度3■渡岛东部 青森三八上北 青森下北 岩手内陆北部 岩手内陆南部 宫城北部(01:17)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 39,
+        "like": 77
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 16:19:33 +0000 2025",
+      "text": "【地震情報】\n■震度３■渡島東部　青森三八上北　青森下北(01:17)\n#nhk_news https://t.co/l1RQLGSA8S",
+      "translation": "【地震信息】 ■震度3■渡岛东部 青森三八上北 青森下北(01:17)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 29,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 16:05:04 +0000 2025",
+      "text": "国家安全保障局長 インド高官と情勢や課題など電話で協議\nhttps://t.co/UKIGclF681 #nhk_news",
+      "translation": "国家安全保障局局长与印度高官就局势和课题等进行电话磋商",
+      "stance": "中立",
+      "metrics": {
+        "reply": 9,
+        "retweet": 18,
+        "like": 39
+      }
+    }
+  ]
+}

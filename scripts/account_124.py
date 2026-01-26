@@ -7,11 +7,11 @@ from datetime import datetime
 
 # ================= 配置区域 =================
 # 📅 指定日期
-TARGET_DATE = "2025-12-25"
+TARGET_DATE = "2026-01-26"
 
-API_KEY = "sk-7ba052d40efe48ae990141e577d952d1" 
-API_URL = "https://api.deepseek.com/chat/completions"
-MODEL_NAME = "deepseek-chat" 
+API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
+API_URL = "https://api.siliconflow.cn/v1/chat/completions"
+MODEL_NAME = "Pro/zai-org/GLM-4.7" 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
@@ -132,7 +132,7 @@ def analyze_user_profile(username, raw_tweets):
        - influence_type: 亲情/同伴/权威 三类占比。
     
     2. 【推文研判】
-       - 对每一条推文进行立场判断 (positive/neutral/negative)。
+       - 对每一条推文进行针对中国大陆的立场判断（如果是反华则为negative） (positive/neutral/negative)。
        - **必须**提供该推文的中文翻译 (translation)。
     
     输出 JSON 格式（严禁Markdown）：

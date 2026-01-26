@@ -8,11 +8,11 @@ import traceback
 
 # ================= 配置区域 =================
 # 🎯 目标名称
-TARGET_NAME = "asahi" 
+TARGET_NAME = "VP" 
 
-API_KEY = "sk-7ba052d40efe48ae990141e577d952d1"  # 
+API_KEY = "sk-7ba052d40efe48ae990141e577d952d1"
 API_URL = "https://api.deepseek.com/chat/completions"
-MODEL_NAME = "deepseek-chat"  # 
+MODEL_NAME = "deepseek-chat"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROFILE_DIR = os.path.join(BASE_DIR, 'database', 'raw', 'profile')

@@ -70,5 +70,11 @@
     "name": "VP",
     "region": "US",
     "category": "politician"
+  },
+  {
+    "filename": "profile_ElonMusk.json",
+    "name": "ElonMusk",
+    "region": "US",
+    "category": "politician"
   }
 ]

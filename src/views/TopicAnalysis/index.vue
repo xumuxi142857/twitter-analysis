@@ -145,7 +145,7 @@ import WordCloud from './components/WordCloud.vue';
 import type { RegionAnalysisData, TopicCluster } from '@/types';
 
 const activeTab = ref('US');
-const selectedDate = ref<string>('2025-12-25');
+const selectedDate = ref<string>('2026-01-26');
 const loading = ref(false);
 const hasData = ref(false);
 const regionDataStore = ref<Record<string, RegionAnalysisData>>({});
