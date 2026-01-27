@@ -187,7 +187,7 @@ import { ElMessage } from 'element-plus';
 import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard } from '@element-plus/icons-vue';
 
 // --- 数据定义 ---
-const activeTab = ref('Philippines');
+const activeTab = ref('US');
 const selectedDate = ref<string>('2026-01-26');
 const loading = ref(false);
 const hasData = ref(true);

@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ================= 配置区域 =================
 # 📅 指定日期
-TARGET_DATE = "2026-01-26"
+TARGET_DATE = "2026-01-25"
 
 API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
@@ -15,7 +15,7 @@ MODEL_NAME = "Pro/zai-org/GLM-4.7"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
-OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'account')
+OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'account1')
 
 FILENAME_MAPPING = {
     "Taiwan": "Taiwan",
@@ -134,6 +134,7 @@ def analyze_user_profile(username, raw_tweets):
     2. 【推文研判】
        - 对每一条推文进行针对中国大陆的立场判断（如果是反华则为negative） (positive/neutral/negative)。
        - **必须**提供该推文的中文翻译 (translation)。
+       - 如果用户发布色情内容，将该用户移除列表
     
     输出 JSON 格式（严禁Markdown）：
     {{
