@@ -1,0 +1,313 @@
+{
+  "id": "profile_MofaJapan_en.json",
+  "_fingerprint": "d23dd3c6d43fd0a7eb91216d2a0480fb",
+  "name": "MofaJapan_en",
+  "username": "MofaJapan_en",
+  "category": "media",
+  "daily_count": 6.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等外向性、中等宜人性、低神经质、中等开放性",
+      "detail": "基于言论样本分析，目标对象表现出高度尽责性，体现在系统化外交活动、多边会议安排和正式外交礼仪的严格遵守上。中等外向性表现为积极参与国际对话和访问，但保持正式外交距离。中等宜人性体现在合作性外交姿态和危机时的慰问表达上。低神经质表现为情绪稳定，即使在涉及领土争议等敏感话题时也保持克制表述。中等开放性表现为对国际事务的关注，但主要聚焦于传统外交框架和既有合作关系。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "过度形式化、风险规避倾向、缺乏情感深度表达",
+      "detail": "目标对象在外交互动中表现出过度依赖正式程序和礼仪（如礼节性拜访、联合声明发布），可能限制非正式沟通渠道的建立。在敏感议题（如东海问题）上采取谨慎措辞，显示出较强的风险规避倾向。情感表达局限于标准外交辞令（如慰问信函），缺乏个性化或深层次情感连接。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "多边主义导向、实用主义、渐进主义",
+      "detail": "认知上倾向于通过多边机构和双边对话解决问题（如IAEA合作、战略对话）。采取实用主义立场，注重具体合作成果（如基础设施援助、能源安全）。偏好渐进式外交进展，通过系列访问和会议逐步推进议程。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对正式外交渠道的过度依赖、应对突发事件的反应模式化",
+      "detail": "行为上过度依赖传统外交渠道（部长级会议、正式声明），可能低估非正式或民间外交的作用。在突发事件应对（如事故慰问）中表现出标准化反应模式，缺乏灵活应变。访问行程密集但可能缺乏深度互动，影响关系实质性进展。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "在盟友关系与多边合作间的平衡压力、对历史遗留问题的回避倾向",
+      "detail": "立场上需要在强化日美同盟（如与美副国务卿会谈）与拓展多边合作（如与欧盟、印度对话）间保持平衡，可能产生决策矛盾。对敏感历史问题或领土争议（如东海问题表述为“极其遗憾”）采取有限度批评，回避深度 confrontation。在价值观外交（如民主治理）与实际利益合作间存在潜在张力。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "资源分散风险、专业领域深度不足、公共外交效果有限",
+      "detail": "能力上同时推进多个地区外交（中东、南亚、太平洋等），可能分散资源和注意力。在专业领域（如核能和平利用、能源安全）依赖国际机构框架，自主深度分析能力未充分体现。公共外交（如地铁参观、媒体投稿）形式化，可能未能有效塑造国际公众认知。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "集体决策依赖、创新思维受限、长期战略清晰度不足",
+      "detail": "心智上表现出对官僚体系和集体决策的高度依赖，个人或小团体创新倡议较少。思维受传统外交范式约束，在新型国际挑战（如数字外交、气候外交）上未见突破性思路。长期战略虽有关键词（如“印太愿景”），但具体实施路径和优先级不够清晰。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升区域领导力、平衡中国影响力、确保能源与供应链安全",
+      "detail": "隐藏意图包括通过多边合作（如与印度、菲律宾、卡塔尔互动）提升在亚洲的区域领导角色。在东海问题表态和与台湾地区非官方互动中，隐含平衡中国地区影响力的战略考量。能源安全研讨会及资源国访问（如中东）反映确保能源供应和关键矿产（如稀土）供应链安全的深层目标。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "双边战略合作、多边机构参与、能源与基础设施、领土与海洋权益",
+      "detail": "核心领域话题包括：1) 双边战略合作（如日印、日美、日欧对话）；2) 多边机构参与（IAEA、国际组织）；3) 能源安全与基础设施开发（地铁项目、能源研讨会）；4) 领土与海洋权益（东海问题表述）；5) 价值观推广（民主治理、妇女权益）；6) 危机管理与人道慰问（事故慰问信）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      2,
+      0,
+      5
+    ],
+    [
+      3,
+      0,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 20 09:56:03 +0000 2026",
+      "text": "［FM MOTEGI's Visit to #Israel, #Palestine, #Qatar, the #Philippines and #India]\n-Message from India -\n\nI am at the last destination of this business trip, New Delhi, India. I made a courtesy call on H.E. Mr. Narendra Modi, Prime Minister of India and held a Strategic Dialogue https://t.co/lgdQJvqQ7N",
+      "translation": "［外务大臣茂木敏充访问 #以色列、#巴勒斯坦、#卡塔尔、#菲律宾和#印度］ - 来自印度的消息 - 我在此次商务旅行的最后一站，印度新德里。我礼节性拜访了印度总理纳伦德拉·莫迪阁下，并举行了战略对话 https://t.co/lgdQJvqQ7N",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21,
+        "retweet": 19,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 08:58:02 +0000 2026",
+      "text": "FM MOTEGI held a press conference. He took questions on Japan’s future diplomacy toward the U.S., Japan-China relations (related to rare earths), Japan’s diplomacy toward Israel.\nHe also addressed questions on U.S. remarks on acquiring Greenland, the outcomes of Foreign Minister",
+      "translation": "外务大臣茂木敏充举行了新闻发布会。他回答了关于日本未来对美外交、日中关系（涉及稀土）、日本对以色列外交的问题。他还回应了关于美国购买格陵兰岛的言论、外务大臣的成果等问题。",
+      "stance": "中立",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 19
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 08:03:20 +0000 2026",
+      "text": "State Minister for Foreign Affairs KUNIMITSU received a courtesy call from Governors (the Philippines, Chile, Ghana and Thailand) of the International Atomic Energy Agency (#IAEA), who are visiting Japan. She stated that Japan contributes to peaceful uses of nuclear energy and https://t.co/WSOpw8FDce",
+      "translation": "外务副大臣国光文乃礼节性会见了正在日本访问的国际原子能机构（#IAEA）的理事（来自菲律宾、智利、加纳和泰国）。她表示日本致力于和平利用核能，并 https://t.co/WSOpw8FDce",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 15,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 07:19:36 +0000 2026",
+      "text": "Senior Deputy Minister for Foreign Affairs NAMAZU held a meeting with Mr. Richard ARBEITER, Assistant Deputy Minister for International Security and Political Affairs at Global Affairs of Canada. They concurred to advance the strengthening of the bilateral relationship between https://t.co/Mg8kuPXqn5",
+      "translation": "外务省高级副大臣NAMUZU与加拿大全球事务部国际安全与政治事务助理副大臣Richard ARBEITER先生举行了会谈。双方一致同意推进加强两国关系 https://t.co/Mg8kuPXqn5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 12,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 05:26:25 +0000 2026",
+      "text": "PM TAKAICHI sent a congratulatory letter to Mr. Mamadi DOUMBOUYA, President of Guinea. In her letter, PM TAKAICHI expressed her hope for #Guinea to realize inclusive governance, further advance domestic economic and social development, and contribute to peace and stability in",
+      "translation": "高市早苗首相向几内亚总统Mamadi DOUMBOUYA先生发去贺信。在信中，高市首相表达了对#几内亚实现包容性治理、进一步推进国内经济社会发展、并为地区和平稳定做出贡献的希望。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 02:13:41 +0000 2026",
+      "text": "Parliamentary Vice-Minister for Foreign Affairs SHIMADA visited the Republic of Vanuatu. He held Meetings with Senior Officials of the Republic of #Vanuatu, including Hon. Johnny KOANAPO Rasou, Deputy Prime Minister and Minister Finance and Economic Management, Hon. Mac ATI, https://t.co/0yACmltvOz",
+      "translation": "外务省政务官岛田政明访问了瓦努阿图共和国。他会见了瓦努阿图共和国的高级官员，包括副总理兼财政和经济管理部长Johnny KOANAPO Rasou阁下、Mac ATI阁下等 https://t.co/0yACmltvOz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 10,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 14:42:27 +0000 2026",
+      "text": "FM MOTEGI visited the Delhi Metro during his visit to Delhi, #India. Japan provided loans and assisted in the construction of the Delhi Metro, applying methods used in public infrastructure in Japan such as women-only cars, the custom of lining up for the train and braille https://t.co/1H4QcUPxWm",
+      "translation": "外务大臣茂木敏充在访问德里期间参观了德里地铁，#印度。日本提供了贷款并协助建设德里地铁，应用了日本公共基础设施中使用的方法，如女性专用车厢、排队候车的习惯和盲文 https://t.co/1H4QcUPxWm",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 52,
+        "like": 327
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 12:52:52 +0000 2026",
+      "text": "FM MOTEGI offered flowers at Raj Ghat, the site where Mahatma Gandhi, the father of Indian independence, was cremated, during his visit to Delhi, #India.\nhttps://t.co/JzkgZu90AJ https://t.co/oLxS2pUE3q",
+      "translation": "外务大臣茂木敏充在访问德里期间，在印度独立之父圣雄甘地的火葬地拉杰加特献花，#印度。 https://t.co/JzkgZu90AJ https://t.co/oLxS2pUE3q",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 22,
+        "like": 75
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 05:24:21 +0000 2026",
+      "text": "Vice Minister of Foreign Affairs FUNAKOSHI held an exchange of views with the Honorable Christopher Landau, Deputy Secretary of State of the United States of America among others.\n#US \n(Photo: United States Department of State)\nhttps://t.co/Xr7avdyzht https://t.co/UoxvfNmSad",
+      "translation": "外务副大臣船越健裕与美国副国务卿Christopher Landau阁下等人交换了意见。#美国 （照片：美国国务院） https://t.co/Xr7avdyzht https://t.co/UoxvfNmSad",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 04:45:32 +0000 2026",
+      "text": "Mr. ISHIBA Shigeru, Special Envoy of the Prime Minister and Chairman of the Japan–United Arab Emirates (#UAE) Parliamentary Friendship League, visited the UAE.\nSpecial Envoy ISHIBA paid a courtesy call on His Highness Sheikh Mohamed bin Zayed AL-NAHYAN, President of the United https://t.co/JuhFhcSdQH",
+      "translation": "首相特使、日本-阿拉伯联合酋长国（#阿联酋）议会友好联盟主席石破茂访问了阿联酋。特使石破茂礼节性拜访了阿联酋总统谢赫·穆罕默德·本·扎耶德·阿勒纳哈扬殿下 https://t.co/JuhFhcSdQH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 28,
+        "like": 100
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 11:21:11 +0000 2026",
+      "text": "State Minister for Foreign Affairs HORII visited the United States of America (the State of Hawaii, Washington D.C.). In the State of Hawaii, he had a meeting with Mr. Josh GREEN, Governor of the State of Hawaii, Hawaii State Representatives, and Admiral Samuel Paparo, Commander https://t.co/vAixBI8do2",
+      "translation": "外务副大臣堀井严访问了美国（夏威夷州、华盛顿特区）。在夏威夷州，他会见了夏威夷州州长Josh GREEN先生、夏威夷州众议员以及美国印太司令部司令Samuel Paparo上将 https://t.co/vAixBI8do2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 10,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 10:33:04 +0000 2026",
+      "text": "FM MOTEGI held a telephone meeting with H.E. Ms. Kaja KALLAS, High Representative of the #EU for Foreign Affairs and Security Policy, Vice-President of the European Commission @kajakallas and exchanged views on the current international situation.\n\nhttps://t.co/sMkZw41LUq",
+      "translation": "外务大臣茂木敏充与#欧盟外交与安全政策高级代表、欧盟委员会副主席Kaja KALLAS阁下举行了电话会议，并就当前国际形势交换了意见。 https://t.co/sMkZw41LUq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 10:05:43 +0000 2026",
+      "text": "FM MOTEGI issued the following message of condolences to H.E. Mr. José Manuel ALBARES, Minister of Foreign Affairs, European Union and Cooperation of the Kingdom of Spain, regarding the train derailment accident that occurred in Province of Córdoba, Autonomous Community of",
+      "translation": "外务大臣茂木敏充就发生在西班牙科尔多瓦省、安达卢西亚自治区的火车脱轨事故，向西班牙王国外交、欧盟与合作大臣José Manuel ALBARES阁下发出以下慰问信。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 19,
+        "like": 69
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 08:37:34 +0000 2026",
+      "text": "【the Asia Energy Security Seminar being held on 25th February!】\nThis year's seminar will focus on The Role of Diplomacy in #EnergySecurity, featuring experts from think tanks and international organizations. (Hybrid event; simultaneous Japanese-English interpretation available, https://t.co/cyDAQlZ1Li",
+      "translation": "【2月25日举行的亚洲能源安全研讨会！】今年的研讨会将聚焦于外交在#能源安全中的作用，邀请了来自智库和国际组织的专家。（线上线下混合活动；提供日英同声传译， https://t.co/cyDAQlZ1Li",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 12,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 02:44:29 +0000 2026",
+      "text": "［FM MOTEGI's Visit to #Qatar and the #Philippines]\n-Message from Qatar –\n\nI am currently in Doha, the capital of Qatar.\nYou may think that it would be very hot in the Middle East, but as it is winter now, the daytime temperature is in the low-20s, and it is quite comfortable.\nI https://t.co/QtbXnHHTrK",
+      "translation": "［外务大臣茂木敏充访问 #卡塔尔和#菲律宾］ - 来自卡塔尔的消息 – 我目前在卡塔尔首都多哈。你可能会认为中东非常炎热，但现在正值冬季，白天气温在20度出头，相当舒适。我 https://t.co/QtbXnHHTrK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 13,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:43:29 +0000 2026",
+      "text": "FM MOTEGI made a courtesy call on H.E. Mr. Narendra MODI, Prime Minister of India, during his visit to Delhi, #India. Bearing in mind the “Japan-India Joint Vision for the Next Decade” launched during PM Modi's visit to Japan last August, they had a candid exchange of views over https://t.co/q26BMqboFO",
+      "translation": "外务大臣茂木敏充在访问德里期间礼节性拜访了印度总理纳伦德拉·莫迪阁下，#印度。考虑到去年8月莫迪总理访日期间启动的“日印未来十年共同愿景”，双方就 https://t.co/q26BMqboFO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 136,
+        "like": 970
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:27:50 +0000 2026",
+      "text": "FM MOTEGI held the 18th Japan–India Foreign Ministers’ Strategic Dialogue with H.E. Dr. Subrahmanyam JAISHANKAR, Minister of External Affairs of India, during his visit to Delhi, #India. Both Ministers concurred to continue to deepen cooperation under the three key areas of https://t.co/nUF8Urbb08",
+      "translation": "外务大臣茂木敏充在访问德里期间与印度外交部长苏杰生博士阁下举行了第18次日印外长战略对话，#印度。两位部长一致同意继续在三个关键领域深化合作 https://t.co/nUF8Urbb08",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 56,
+        "like": 237
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:56:37 +0000 2026",
+      "text": "We have recently confirmed that #China has initiated an installation of a new structure on the west side of the geographical equidistance line between Japan and China in the East China Sea.\nIt is extremely regrettable that China is advancing unilateral development in the East",
+      "translation": "我们最近确认，#中国已在东海日中地理中间线以西开始安装新结构。中国在东海推进单方面开发是极其令人遗憾的。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 17,
+        "retweet": 264,
+        "like": 573
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:27:35 +0000 2026",
+      "text": "FM MOTEGI's contribution to the Times of India on the occasion of his visit to #India.\nhttps://t.co/4hPZio4hwm",
+      "translation": "外务大臣茂木敏充在访问#印度之际为《印度时报》撰写的文章。 https://t.co/4hPZio4hwm",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 11,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:05:22 +0000 2026",
+      "text": "PM TAKAICHI held a summit meeting with H.E. Ms. Giorgia MELONI, President of the Council of Ministers of the Italian Republic, who was on an Official Working Visit to Japan. Following the meeting, the two leaders attended a working lunch and gave a joint press announcement. On https://t.co/tdRsjtmvom",
+      "translation": "高市早苗首相与对日本进行正式工作访问的意大利共和国部长会议主席乔治娅·梅洛尼阁下举行了首脑会谈。会谈后，两位领导人出席了工作午餐并举行了联合新闻发布会。关于 https://t.co/tdRsjtmvom",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 306,
+        "like": 1765
+      }
+    }
+  ]
+}

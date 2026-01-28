@@ -1,0 +1,313 @@
+{
+  "id": "profile_WinGatchalian74.json",
+  "_fingerprint": "6e91fbc00d823fbc5fd86dc127d5270b",
+  "name": "WinGatchalian74",
+  "username": "WinGatchalian74",
+  "category": "media",
+  "daily_count": 0.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等宜人性、中等开放性、低神经质",
+      "detail": "尽责性高：强调责任、监督流程、关注政策执行细节（如'Dapat tiyakin ng bagong guidelines...'）。外向性高：频繁社交互动、公开演讲、使用'po'等敬语。宜人性中等：合作但坚持原则，批评官僚低效（如'Aksyon ang kailangan natin...'）。开放性中等：支持教育改革但倾向务实调整（如建议废除螺旋式教学法）。神经质低：情绪稳定，强调韧性（如'ang tunay na sukatan ng tagumpay ay...kung gaano ka katatag'）。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在理想主义与官僚现实冲突、过度强调韧性可能忽视系统性障碍",
+      "detail": "可能过度相信个人努力（如赞扬11次通过律师考试的故事），低估结构性不平等。在政策执行中显示挫败感（如'Kailangang kumilos ang DepEd...'），暗示耐心有限。幽默作为应对机制（如'LAUGH, RESET, REPEAT'）可能掩盖压力。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "务实渐进主义、教育中心主义、制度信任但批判低效",
+      "detail": "倾向于基于证据的渐进改革（如关注教育数据、预算分配）。将教育视为国家发展核心（'ang pag-unlad ng bansa ay nakaugat sa matibay na edukasyon'）。信任制度但强烈批评执行失败（如'Dapat nauuna ang proyekto kaysa sa pondo'）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对官僚拖延敏感、依赖公开沟通易受舆论影响",
+      "detail": "多次催促机构行动（如DepEd指南、优惠券计划），显示对官僚速度不耐。广泛使用社交媒体公布立场，可能过度暴露策略意图。强调'直接利益'（'diretsong mapunta ang benepisyo'）可能忽视复杂分配网络。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "教育优先可能削弱其他部门资源、反烟草立场触及利益集团",
+      "detail": "强烈教育焦点（预算分配、政策听证）可能疏远其他部门支持者。调查非法烟草贸易（'imbestigahan ang illegal na kalakalan ng tobacco'）直接挑战强大经济利益。军事资金呼吁（'bigyan ang ating depensa ng sapat na kakayahang pinansyal'）可能引发财政优先级争议。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "政策执行监督能力依赖官僚合作、复杂改革面临实施阻力",
+      "detail": "依赖机构（如DepEd）执行指南，但批评其延迟（'Kailangang kumilos ang DepEd'），显示有限直接控制。废除螺旋式教学法等改革面临教师培训、课程调整等实际障碍。优惠券计划防泄漏（'bilyon-bilyong leakage'）需要复杂监督机制。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "道德绝对主义倾向、韧性叙事可能忽视支持需求",
+      "detail": "使用'不可接受'（'Hindi katanggap-tanggap'）等绝对语言，可能降低妥协灵活性。强调'再次尝试'（'pag-try ulit'）的韧性，可能低估持续失败者的心理支持需求。宗教幽默整合（'Kung may sense of humor ang Diyos'）可能疏离非宗教选民。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固教育倡导者形象、扩大政治联盟、准备更高职位",
+      "detail": "通过教育焦点（如EDCOM 2会议、奖学金预算）建立专业权威。与基层官员（SABAK）、宗教人物（Romar Chuca）互动扩大支持基础。生日问候Sec. Rex Gatchalian暗示家族或政治网络维护。标签#WINTayongLahat（我们所有人获胜）暗示集体领导抱负。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "教育政策、治理效率、国防资金、社会福利、宗教文化",
+      "detail": "教育：奖学金、教学法、优惠券计划、教师支持（样本2,4,11,12,13,14,17,18,19,20）。治理：官僚改革、项目监督、反腐败（样本5,6,8,18）。国防：军事资金（样本9）。社会福利：4Ps学生、基层服务（样本1,11）。宗教文化：幽默、信仰、韧性（样本3,7,10,16）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      5,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ],
+    [
+      1,
+      7,
+      0
+    ],
+    [
+      2,
+      8,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed May 18 04:35:06 +0000 2022",
+      "text": "Sa lahat ng sumuporta at nagdasal, maraming salamat po.\n\nMakakaasa kayo na ipagpapatuloy ko ang ating nasimulan, lalong lalo na ang pag-angat sa sektor ng edukasyon sa bansa.\n\n#WINTayongLahat\n\nhttps://t.co/0h9G7a8x6K",
+      "translation": "感谢所有支持和祈祷的人。请相信，我将继续我们已开始的事业，特别是提升国家的教育部门。#WINTayongLahat",
+      "stance": "无关",
+      "metrics": {
+        "reply": 91,
+        "retweet": 21,
+        "like": 183
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 23:30:18 +0000 2026",
+      "text": "Kung may sense of humor ang Diyos, siguradong gusto Niyang nakangiti tayo. 😄🙏\n\nSa gitna ng bigat, tama lang na tumawa at magtiwala. Maraming inspiration and life lessons sa episode na ito ng For The Win with guest Romar Chuca. \n\n👉 Ngumiti ka na, tapos panoorin ang full https://t.co/vhX8JN8CaP",
+      "translation": "如果上帝有幽默感，祂肯定希望我们微笑。😄🙏 在沉重的时刻，笑一笑并保持信任是恰当的。本期《For The Win》节目与嘉宾Romar Chuca带来了许多灵感和人生教训。👉 先微笑，然后观看完整视频 https://t.co/vhX8JN8CaP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 10:13:11 +0000 2026",
+      "text": "Naglaan po tayo ng ₱2.9B sa 2026 budget para matiyak ang scholarship ng mahigit 200,000 4Ps college students. https://t.co/Ff7Eo8hM25",
+      "translation": "我们在2026年预算中拨款29亿比索，以确保超过20万名4Ps大学生的奖学金。https://t.co/Ff7Eo8hM25",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 08:23:23 +0000 2026",
+      "text": "Sa 1st Quarter Commission Meeting ng EDCOM 2, tinalakay natin ang mga kinakailangang hakbang upang maiangat ang sistemang pang-edukasyon ng bansa.\n\nAsahan po ninyong tuloy-tuloy ang ating pagtutok para sa kapakanan ng mga guro at mag-aaral. https://t.co/WQWYaY0iOA",
+      "translation": "在EDCOM 2的第一季度委员会会议上，我们讨论了提升国家教育体系所需的步骤。请相信，我们将持续关注教师和学生的福祉。https://t.co/WQWYaY0iOA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 05:45:10 +0000 2026",
+      "text": "Mungkahi po nating alisin sa batas ang spiral progression dahil hindi ito naipapatupad nang maayos sa mga paaralan. https://t.co/Ey11X2jrzu",
+      "translation": "我们建议从法律中移除螺旋式进展法，因为它在学校中未能得到妥善实施。https://t.co/Ey11X2jrzu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 03:34:37 +0000 2026",
+      "text": "Dapat po diretsong mapunta ang benepisyo sa mga batang K–6 na higit na nangangailangan.\n\nBASAHIN DITO → https://t.co/SruiHABkBE https://t.co/vNu3ioeLar",
+      "translation": "福利应直接惠及最需要的K-6年级儿童。阅读此处→ https://t.co/SruiHABkBE https://t.co/vNu3ioeLar",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 01:30:17 +0000 2026",
+      "text": "Maligayang kaarawan, Sec. Rex Gatchalian! https://t.co/xRc0BBVH5H",
+      "translation": "生日快乐，Sec. Rex Gatchalian！https://t.co/xRc0BBVH5H",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 23:30:14 +0000 2026",
+      "text": "May doubts, may sablay, may missed prayers… pero bumabalik.\nKasi ang pananampalataya, hindi tungkol sa galing—kundi sa pag-try ulit.\n\nFor The Win’s latest episode with Romar Chuca  — tawa, totoo, at may Diyos sa gitna. 😌😂 \n\n👉 Kung imperfect ka rin pero lumalaban, this episode https://t.co/wjXJDEhkdB",
+      "translation": "有疑虑，有失误，有错过的祈祷……但会回归。因为信仰不是关于完美——而是关于再次尝试。《For The Win》最新一集与Romar Chuca——笑声、真实，以及上帝在其中。😌😂 👉 如果你也不完美但仍在奋斗，这集节目 https://t.co/wjXJDEhkdB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 14:58:16 +0000 2026",
+      "text": "Kailangang kumilos ang DepEd at seryosohin ang paglalabas ng guidelines para sa programa. https://t.co/hzjYDvLrOs",
+      "translation": "教育部需要采取行动，认真发布该计划的指导方针。https://t.co/hzjYDvLrOs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 08:15:13 +0000 2026",
+      "text": "Hindi katanggap-tanggap ang bilyon-bilyong leakage. Dapat masiguro na ang voucher program ay nakakarating sa mga nangangailangang estudyante. https://t.co/DOyfxpZzLu",
+      "translation": "数十亿的泄漏是不可接受的。必须确保代金券计划能惠及有需要的学生。https://t.co/DOyfxpZzLu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 07:49:54 +0000 2026",
+      "text": "Tinalakay natin sa pagdinig ng Committee on Basic Education ang hamon ng 'spiral progression approach,' lalo na ang kakulangan sa subject experts at learning loss.\n\nIminumungkahi nating bigyan ng mas malaking flexibility ang ating mga guro upang maging epektibo ang kanilang https://t.co/KemO9g37DB",
+      "translation": "我们在基础教育委员会的听证会上讨论了“螺旋式进展法”的挑战，特别是学科专家不足和学习损失问题。我们建议给予教师更大的灵活性，以提高他们的教学效果。https://t.co/KemO9g37DB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 08:33:52 +0000 2026",
+      "text": "Aksyon ang kailangan natin sa voucher program, hindi puro pangako. https://t.co/STDvYfV6Uo",
+      "translation": "我们需要的是代金券计划中的行动，而非空洞的承诺。https://t.co/STDvYfV6Uo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 03:55:02 +0000 2026",
+      "text": "Kailangan nating bigyan ang ating depensa ng sapat na kakayahang pinansyal upang makakuha ng mga kagamitang pang-militar.\n\nBASAHIN DITO → https://t.co/awPQ5sZl1p https://t.co/FZeGhKcq1h",
+      "translation": "我们需要为国防提供足够的财政能力，以获取军事装备。阅读此处→ https://t.co/awPQ5sZl1p https://t.co/FZeGhKcq1h",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 04:05:02 +0000 2026",
+      "text": "Nakasama po natin kagabi ang mga opisyal ng Samahan ng Barangay Kagawad ng Valenzuela (SABAK).\n\nAng inyong serbisyo ay nagpapakita ng tibay sa pagtupad ng tungkulin para sa bawat barangay. https://t.co/ptl3GtJF6p",
+      "translation": "昨晚我们与Valenzuela村议员协会（SABAK）的官员会面。你们的服务展现了为每个村庄履行职责的坚韧。https://t.co/ptl3GtJF6p",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:02:15 +0000 2026",
+      "text": "Noon pa man, naniniwala tayo na ang pag-unlad ng bansa ay nakaugat sa matibay na edukasyon.\n\nNgayong International Day of Education, sama-sama nating itaguyod ang isang inklusibong kinabukasan para sa lahat. https://t.co/Urn8E4iSTQ",
+      "translation": "一直以来，我们相信国家的发展植根于坚实的教育。在国际教育日，让我们共同倡导一个包容所有人的未来。https://t.co/Urn8E4iSTQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 11:00:20 +0000 2026",
+      "text": "Sa mundong sanay sa one take success, may mga kwento ng 11 takes of courage. Minsan, ang tunay na sukatan ng tagumpay ay hindi kung gaano ka kabilis — kundi kung gaano ka katatag. \n\nAng kwento ni Atty. Eduardo Regio, Bar Passer after 11 tries, sa For The Win Podcast. Don’t miss https://t.co/hNS5lr1B2M",
+      "translation": "在这个习惯于一次成功的世界里，有关于11次勇气的故事。有时，真正衡量成功的标准不是速度——而是坚韧程度。Atty. Eduardo Regio的故事，经过11次尝试后通过律师考试，在《For The Win》播客中。不要错过 https://t.co/hNS5lr1B2M",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 08:30:06 +0000 2026",
+      "text": "Dapat tiyakin ng bagong guidelines na umaabot ang benepisyo sa mga mag-aaral, napapanatili ang quality assurance, at naiiwasan ang siksikan sa mga paaralan.\n\nBASAHIN DITO → https://t.co/fQoFEgjd4U https://t.co/rK5TUOMIDT",
+      "translation": "新指导方针必须确保福利惠及学生，保持质量保证，并避免学校拥挤。阅读此处→ https://t.co/fQoFEgjd4U https://t.co/rK5TUOMIDT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 05:48:16 +0000 2026",
+      "text": "Naghain po tayo ng resolusyon upang imbestigahan ang illegal na kalakalan ng tobacco at ang umano’y pagkakasangkot ng ilang kawani ng gobyerno. \n\nLayunin nating maprotektahan ang mga mamamayan at matiyak ang pananagutan ng ating security forces. https://t.co/Dw3k9zUbjM",
+      "translation": "我们提交了一项决议，调查非法烟草贸易以及据称涉及一些政府人员的情况。我们的目标是保护公民并确保安全部队的责任。https://t.co/Dw3k9zUbjM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 03:40:55 +0000 2026",
+      "text": "Dapat nauuna ang proyekto kaysa sa pondo. Kailangan nating bantayan at itama ang proseso. https://t.co/BkSsyYfuh8",
+      "translation": "项目应优先于资金。我们需要监督并纠正这一过程。https://t.co/BkSsyYfuh8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 00:00:30 +0000 2026",
+      "text": "LAUGH, RESET, REPEAT: Finding God, Joy, and Healing Through Humor\n\nLaughter can heal, reset the heart, and bring us back to what matters. Catholic comedian Romar Chuca shares how humor became his way to cope, believe, and grow. https://t.co/cRaUEwfw5t",
+      "translation": "笑、重置、重复：通过幽默找到上帝、喜悦和治愈。笑声可以治愈、重置心灵，并带我们回归重要的事物。天主教喜剧演员Romar Chuca分享幽默如何成为他应对、相信和成长的方式。https://t.co/cRaUEwfw5t",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 2
+      }
+    }
+  ]
+}

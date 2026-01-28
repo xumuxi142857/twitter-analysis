@@ -95,7 +95,29 @@
             <el-row :gutter="24" style="margin-bottom: 24px;">
               <el-col :span="14">
                 <el-card shadow="never" class="chart-card">
-                  <template #header><span>🧩 对中立场矩阵 </span></template>
+                  <template #header>
+                    <div class="header-with-tip">
+                      <span>🧩 对中立场矩阵</span>
+                      <el-popover placement="top" :width="320" trigger="hover">
+                        <template #reference>
+                          <el-icon class="help-icon"><QuestionFilled /></el-icon>
+                        </template>
+                        <div class="matrix-guide">
+                          <h4 style="margin:0 0 10px 0; color:#1f2937;">📊 如何解读热力图？</h4>
+                          <p style="margin:5px 0; font-size:15px; color:#4b5563;">
+                            <b>X轴 (横向):</b> 代表立场倾向 <br/>(反华 ↔ 亲华)
+                          </p>
+                          <p style="margin:5px 0; font-size:15px; color:#4b5563;">
+                            <b>Y轴 (纵向):</b> 代表用户关注的话题领域 <br/>(政治 / 军事 / 经济 / 文化)
+                          </p>
+                          <p style="margin:5px 0; font-size:15px; color:#4b5563;">
+                            <b>颜色浓度 (0-10):</b> 代表表达强度。<br/>
+                            <span style="color:#0284c7; font-weight:bold;">深蓝色</span> 表示该用户在该领域的观点输出非常密集且强烈。
+                          </p>
+                        </div>
+                      </el-popover>
+                    </div>
+                  </template>
                   <StanceMatrix :data="selectedUser.stance_matrix" style="height: 220px;" />
                 </el-card>
               </el-col>
@@ -110,7 +132,7 @@
 
             <div class="tweets-section">
               <div class="section-subtitle">
-                <el-icon><ChatLineSquare /></el-icon> 最新言论立场研判 (中英对照)
+                <el-icon><ChatLineSquare /></el-icon> 最新言论立场研判
               </div>
               
               <el-scrollbar max-height="500px">
@@ -153,14 +175,15 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import axios from 'axios';
-import { UserFilled, Close, ChatLineSquare, ChatDotRound, Share, Star } from '@element-plus/icons-vue';
+// 修改：引入 QuestionFilled 图标
+import { UserFilled, Close, ChatLineSquare, ChatDotRound, Share, Star, QuestionFilled } from '@element-plus/icons-vue';
 import StanceMatrix from './components/StanceMatrix.vue';
 import InfluencePie from './components/InfluencePie.vue';
 
 // 接口定义
 interface Tweet { 
   text: string; 
-  translation?: string; // 新增字段
+  translation?: string; 
   stance: string; 
   metrics?: any; 
 }
@@ -194,7 +217,7 @@ const getStanceColor = (s: string) => {
 };
 
 const getStanceLabel = (s: string) => {
-  const map: Record<string, string> = { 'positive': '正面', 'negative': '负面', 'neutral': '中立' };
+  const map: Record<string, string> = { 'positive': '亲华', 'negative': '反华', 'neutral': '中立' };
   return map[s] || s;
 };
 
@@ -249,24 +272,37 @@ onMounted(() => fetchData());
 .control-panel { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; background: #fff; padding: 10px 20px; border-radius: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
 
 .modern-card { border: none; border-radius: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+.card-header { font-weight: 600; } /* 补充样式 */
 .user-cell { display: flex; align-items: center; gap: 12px; }
 .avatar-bg { background: #3b82f6; color: white; font-weight: 700; }
 .user-info-col { display: flex; flex-direction: column; }
 .username { font-weight: 600; color: #1f2937; font-size: 14px; }
 .tweet-count { font-size: 12px; color: #9ca3af; }
 
-/* 简述单行显示 */
 .info-text { 
-  color: #4b5563; font-size: 14px; 
+  color: #4b5563; font-size: 16px; 
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; 
 }
 
-/* 详情区 */
 .profile-section { margin-top: 30px; background: #fff; padding: 24px; border-radius: 16px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); border: 1px solid #e5e7eb; }
 .profile-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #f3f4f6; h3 { margin: 0; display: flex; align-items: center; gap: 10px; color: #1f2937; } }
 .chart-card { border: none; background: #f9fafb; border-radius: 12px; :deep(.el-card__header) { border-bottom: none; font-weight: 600; color: #4b5563; } }
 
-/* 推文列表区 */
+/* 修改：带提示的头部样式 */
+.header-with-tip {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  
+  .help-icon {
+    color: #9ca3af;
+    cursor: pointer;
+    font-size: 16px;
+    transition: color 0.2s;
+    &:hover { color: #3b82f6; }
+  }
+}
+
 .tweets-section { margin-top: 10px; border-top: 1px dashed #e5e7eb; padding-top: 20px; }
 .section-subtitle { font-size: 16px; font-weight: 700; color: #374151; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
 
@@ -285,7 +321,7 @@ onMounted(() => fetchData());
 
 .t-body { flex: 1; display: flex; flex-direction: column; gap: 6px; }
 .t-trans { 
-  font-size: 14px; font-weight: 600; color: #1f2937; line-height: 1.5; 
+  font-size: 17px; font-weight: 600; color: #1f2937; line-height: 1.5; 
   .trans-tag { background: #e0e7ff; color: #3b82f6; font-size: 11px; padding: 1px 4px; border-radius: 4px; margin-right: 4px; }
 }
 .t-original { font-size: 13px; color: #9ca3af; line-height: 1.4; border-top: 1px dashed #f3f4f6; padding-top: 6px; }

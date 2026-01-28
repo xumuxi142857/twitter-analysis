@@ -9,59 +9,59 @@
     {
       "dimension": "1. 大五人格",
       "summary": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质",
-      "detail": "CNN作为媒体机构，表现出高外向性（广泛报道全球事件，积极发声），高开放性（报道多元话题，从政治到社会事件），中等尽责性（注重事实核查但存在选择性报道），中等宜人性（有时展现批判性但保持专业框架），中等神经质（对危机事件反应迅速但情绪控制稳定）。"
+      "detail": "CNN作为媒体机构表现出高外向性（广泛报道全球事件，积极发声），高开放性（报道多元话题，从政治到社会事件），中等尽责性（注重事实核查但有时存在选择性报道），中等宜人性（平衡报道但带有立场倾向），中等神经质（对危机事件反应迅速但保持专业克制）。"
     },
     {
       "dimension": "2. 人格缺陷",
-      "summary": "选择性关注、立场预设、叙事框架化",
-      "detail": "倾向于优先报道符合其编辑方针的事件（如特朗普相关、国际冲突），在报道中预设特定立场（如对特朗普政府的批判性视角），将复杂事件简化为特定叙事框架（如将政治事件归因于个人或党派因素）。"
+      "summary": "选择性关注、立场预设、精英视角",
+      "detail": "倾向于优先报道符合其编辑立场的事件（如特朗普相关争议、Epstein案件），对某些话题（如国际冲突中的美国角色）存在预设叙事框架，报道视角常反映美国东部精英阶层价值观。"
     },
     {
       "dimension": "3. 认知倾向",
-      "summary": "冲突导向、精英聚焦、即时反应",
-      "detail": "认知上倾向于关注冲突性事件（如战争、政治斗争、犯罪），聚焦精英人物和政治中心（如总统、最高法院、国际领导人），对突发事件做出快速反应但深度分析有限。"
+      "summary": "自由国际主义、制度主义、渐进改良主义",
+      "detail": "认知上倾向于支持国际多边合作（如关注乌克兰和平进程），相信制度约束（如报道最高法院裁决），主张通过现有体制渐进改革（如关注选举政治、司法程序）。"
     },
     {
       "dimension": "4. 行为层面认知脆弱点",
-      "summary": "报道节奏依赖突发事件、易受官方消息影响、框架固化",
-      "detail": "报道节奏容易被突发事件打乱（如枪击、火灾、政治声明），过度依赖官方信源（如政府声明、警方通报）可能导致信息偏差，长期形成的报道框架难以适应复杂情境变化。"
+      "summary": "时效性压力下的核实不足、社交媒体驱动议程",
+      "detail": "在快速新闻周期中可能因抢发而简化复杂议题（如国际冲突报道），过度依赖官方信源导致叙事单一，社交媒体热点常影响报道优先级。"
     },
     {
       "dimension": "5. 立场层面认知脆弱点",
-      "summary": "美国中心主义、制度维护倾向、政治极化反映",
-      "detail": "以美国利益和视角为中心报道国际事件（如乌克兰冲突、中美关系），倾向于维护现有政治制度（如报道最高法院、选举程序），反映并可能加剧美国政治极化（如聚焦党派斗争）。"
+      "summary": "美国中心主义、民主党倾向、全球化支持",
+      "detail": "报道常以美国利益和视角为出发点（如聚焦美国国内政治），对民主党政策批评相对温和，默认支持全球化秩序但较少深入批判其不平等性。"
     },
     {
       "dimension": "6. 能力层面认知脆弱点",
-      "summary": "深度分析不足、跨文化理解有限、长期趋势把握弱",
-      "detail": "对复杂事件的深度分析能力有限（如经济政策、国际关系深层原因），跨文化报道可能简化或误解（如亚洲、中东事件），更擅长报道即时事件而非长期趋势。"
+      "summary": "深度分析不足、地缘复杂性简化、技术报道表面化",
+      "detail": "对长期结构性议题（如经济不平等、气候危机）报道碎片化，复杂地缘冲突（如泰国-柬埔寨紧张局势）常简化为二元叙事，科技、军事等专业领域报道依赖专家而缺乏独立研判。"
     },
     {
       "dimension": "7. 心智层面认知脆弱点",
-      "summary": "商业压力影响、受众偏好驱动、意识形态无意识",
-      "detail": "商业收视率和点击率压力可能影响报道选择，迎合特定受众偏好（如自由派观众），存在无意识的意识形态假设（如对民主制度、西方价值观的默认）。"
+      "summary": "建制派信任惯性、危机叙事依赖、商业利益约束",
+      "detail": "过度信任美国官方机构和传统精英信源，倾向于用危机框架（如“分裂的世界”“不确定时期”）吸引关注，商业模式使其避免过度挑战广告商或主流观众敏感点。"
     },
     {
       "dimension": "8. 隐藏意图",
-      "summary": "塑造公众议程、维护媒体权威、影响政策辩论",
-      "detail": "通过报道选择塑造公众关注议程（如突出某些事件、淡化其他），维护CNN作为主流媒体的权威性和影响力，间接影响政策辩论和政治决策过程。"
+      "summary": "维护媒体权威、影响政策议程、塑造公共认知",
+      "detail": "通过独家报道和深度调查（如Epstein文件）巩固其作为权威新闻机构的地位，选择性报道旨在影响政治议程（如聚焦特朗普法律争议），叙事框架潜移默化塑造观众对“正常”与“异常”的认知。"
     },
     {
       "dimension": "9. 领域话题",
-      "summary": "美国政治、国际冲突、社会犯罪、司法事件、经济政策",
-      "detail": "核心报道领域包括：美国国内政治（如特朗普、选举、最高法院），国际冲突与外交（如乌克兰、中东），社会犯罪与司法（如枪击、案件调查），经济与商业（如GDP、企业新闻），突发灾难与公共安全。"
+      "summary": "美国国内政治、国际冲突、司法案件、社会事件、经济政策",
+      "detail": "核心报道领域包括：美国两党政治与选举（如特朗普动态、国会斗争），国际地缘冲突（如乌克兰战争、中东紧张），重大司法案件（如Epstein案、最高法院裁决），突发社会事件（如枪击、灾难），经济与科技政策（如GDP数据、FDA批准）。"
     }
   ],
   "stance_matrix": [
     [
       0,
       0,
-      6
+      7
     ],
     [
       0,
       1,
-      7
+      6
     ],
     [
       1,
@@ -92,7 +92,7 @@
     {
       "created_at": "Wed Nov 26 22:24:57 +0000 2025",
       "text": "UPDATE: FBI says two National Guardsmen shot in DC are in critical condition after what appears to be a targeted attack. Suspect in custody is not cooperating. https://t.co/JUo4BbSSZo https://t.co/sTNflmoFaH",
-      "translation": "更新：FBI表示，华盛顿特区两名国民警卫队成员在疑似针对性袭击中受枪击，目前情况危急。被拘留的嫌疑人不配合调查。",
+      "translation": "更新：FBI表示，华盛顿特区两名国民警卫队成员在疑似针对性袭击中中枪，目前情况危急。被拘留的嫌疑人不配合调查。",
       "stance": "无关",
       "metrics": {
         "reply": 298,
@@ -103,7 +103,7 @@
     {
       "created_at": "Wed Nov 26 20:47:40 +0000 2025",
       "text": "Police say one suspect is in custody after two National Guardsmen were shot blocks from the White House in Washington, DC. Follow live updates. https://t.co/oCqUlhtiAv https://t.co/CEAwoON6Yu",
-      "translation": "警方称，华盛顿特区白宫附近几个街区发生两名国民警卫队成员遭枪击事件后，一名嫌疑人已被拘留。请关注实时更新。",
+      "translation": "警方称，在华盛顿特区白宫附近几个街区发生两名国民警卫队成员被枪击事件后，已有一名嫌疑人被拘留。请关注实时更新。",
       "stance": "无关",
       "metrics": {
         "reply": 177,
@@ -114,7 +114,7 @@
     {
       "created_at": "Wed Nov 26 20:24:12 +0000 2025",
       "text": "Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing. https://t.co/afcV0jrsYE https://t.co/JMEyyJ26U4",
-      "translation": "警方表示，已有三名男子因涉嫌香港高层建筑致命火灾被捕。仍有数百人失踪。",
+      "translation": "警方称，已有三名男子因涉嫌香港高层建筑致命火灾被捕。仍有数百人失踪。",
       "stance": "负面",
       "metrics": {
         "reply": 178,
@@ -125,7 +125,7 @@
     {
       "created_at": "Wed Nov 26 19:59:32 +0000 2025",
       "text": "Several people were shot near the White House in Washington, DC, including at least one National Guardsman https://t.co/Rf833JWGBJ",
-      "translation": "华盛顿特区白宫附近发生枪击事件，数人中枪，包括至少一名国民警卫队成员。",
+      "translation": "华盛顿特区白宫附近发生枪击事件，数人中枪，其中包括至少一名国民警卫队成员。",
       "stance": "无关",
       "metrics": {
         "reply": 254,
@@ -147,7 +147,7 @@
     {
       "created_at": "Wed Nov 26 15:49:19 +0000 2025",
       "text": "Georgia prosecutor drops charges in case against Trump and allies over their efforts to overturn the 2020 presidential election.\nhttps://t.co/SofUzIlaq5",
-      "translation": "乔治亚州检察官撤销对特朗普及其盟友试图推翻2020年总统选举结果的指控。",
+      "translation": "乔治亚州检察官撤销了对特朗普及其盟友试图推翻2020年总统选举结果的案件指控。",
       "stance": "无关",
       "metrics": {
         "reply": 278,
@@ -158,7 +158,7 @@
     {
       "created_at": "Wed Nov 26 12:52:02 +0000 2025",
       "text": "At least 13 killed and others trapped as huge fire tears through Hong Kong high-rise apartment complex, authorities say. https://t.co/Dhftw8YYX2",
-      "translation": "当局称，香港高层公寓楼发生大火，至少13人死亡，其他人被困。",
+      "translation": "当局称，香港高层公寓楼发生大火，造成至少13人死亡，其他人被困。",
       "stance": "负面",
       "metrics": {
         "reply": 116,
@@ -169,7 +169,7 @@
     {
       "created_at": "Wed Nov 26 10:06:35 +0000 2025",
       "text": "Four people have been killed in a fire at a Hong Kong high-rise tower that left others trapped inside.\nhttps://t.co/AhwPJS84du",
-      "translation": "香港高层建筑火灾导致四人死亡，其他人被困楼内。",
+      "translation": "香港高层塔楼发生火灾，造成四人死亡，其他人被困楼内。",
       "stance": "负面",
       "metrics": {
         "reply": 90,
@@ -180,7 +180,7 @@
     {
       "created_at": "Wed Nov 19 20:31:14 +0000 2025",
       "text": "Judge to resume criminal contempt inquiry into Trump officials he says flouted his orders to stop deportation flights\nhttps://t.co/T7TZT7SD6X",
-      "translation": "法官将恢复对特朗普官员的刑事藐视法庭调查，称其无视停止驱逐航班的命令。",
+      "translation": "法官将恢复对特朗普官员的刑事藐视法庭调查，称其无视他停止驱逐航班的命令。",
       "stance": "无关",
       "metrics": {
         "reply": 161,
@@ -191,7 +191,7 @@
     {
       "created_at": "Wed Nov 19 16:43:16 +0000 2025",
       "text": "Lindsey Halligan, Trump's handpicked US attorney, admits full grand jury never saw final indictment handed up against former FBI Director James Comey. Follow live updates. https://t.co/k66UKlXNdh",
-      "translation": "特朗普亲自挑选的美国检察官林赛·哈利根承认，大陪审团从未看到针对前FBI局长詹姆斯·科米的最终起诉书。请关注实时更新。",
+      "translation": "特朗普亲自挑选的美国检察官林赛·哈利根承认，整个大陪审团从未看到针对前FBI局长詹姆斯·科米的最终起诉书。请关注实时更新。",
       "stance": "无关",
       "metrics": {
         "reply": 171,
@@ -224,7 +224,7 @@
     {
       "created_at": "Wed Nov 12 21:16:15 +0000 2025",
       "text": "BREAKING: Democrat Adelita Grijalva sworn in as House's newest member after weekslong delay, paving the way for a vote to release Jeffrey Epstein case files.\nhttps://t.co/a6gIdYalyi",
-      "translation": "突发：民主党人阿德利塔·格里哈尔瓦在拖延数周后宣誓就任众议院最新成员，为投票公布杰弗里·爱泼斯坦案文件铺平道路。",
+      "translation": "突发：民主党人阿德利塔·格里哈尔瓦在拖延数周后宣誓就任众议院最新成员，为投票释放杰弗里·爱泼斯坦案件文件铺平道路。",
       "stance": "无关",
       "metrics": {
         "reply": 225,
@@ -235,7 +235,7 @@
     {
       "created_at": "Wed Nov 12 19:52:29 +0000 2025",
       "text": "JUST IN: Federal judge orders release of hundreds of people arrested in Trump's immigration crackdown in Illinois, according to CNN affiliate WLS.\nhttps://t.co/ke4dneFR1A",
-      "translation": "最新消息：联邦法官下令释放伊利诺伊州在特朗普移民打击行动中被捕的数百人，据CNN附属台WLS报道。",
+      "translation": "最新消息：联邦法官下令释放伊利诺伊州在特朗普移民打击行动中被捕的数百人，据CNN附属机构WLS报道。",
       "stance": "无关",
       "metrics": {
         "reply": 254,
@@ -246,7 +246,7 @@
     {
       "created_at": "Wed Nov 12 17:45:16 +0000 2025",
       "text": "Exclusive: Top Trump administration officials plan to meet today to discuss House efforts to force the release of the Epstein files. https://t.co/k1WAflAv8T",
-      "translation": "独家：特朗普政府高级官员计划今日会面，讨论众议院推动公布爱泼斯坦文件的努力。",
+      "translation": "独家：特朗普政府高级官员计划今日会面，讨论众议院强制发布爱泼斯坦文件的努力。",
       "stance": "无关",
       "metrics": {
         "reply": 415,
@@ -257,7 +257,7 @@
     {
       "created_at": "Wed Nov 05 21:41:03 +0000 2025",
       "text": "The Department of Transportation says it will cut traffic by 10% at 40 airports starting Friday if the government shutdown continues. \nhttps://t.co/RbHPHliV8q",
-      "translation": "交通部表示，如果政府停摆持续，将从周五起削减40个机场10%的交通流量。",
+      "translation": "交通部表示，如果政府停摆持续，将从周五起在40个机场减少10%的交通流量。",
       "stance": "无关",
       "metrics": {
         "reply": 156,
@@ -268,7 +268,7 @@
     {
       "created_at": "Wed Nov 05 20:57:11 +0000 2025",
       "text": "Jury deliberations begin in the lawsuit filed by a Virginia teacher shot by a 6-year-old student. https://t.co/RkRAAJ9qZ2",
-      "translation": "陪审团开始审议弗吉尼亚州一名教师被6岁学生枪击提起的诉讼案。",
+      "translation": "陪审团开始审议弗吉尼亚州一名教师被6岁学生枪击提起的诉讼。",
       "stance": "无关",
       "metrics": {
         "reply": 72,
@@ -279,7 +279,7 @@
     {
       "created_at": "Wed Nov 05 13:46:12 +0000 2025",
       "text": "At least 9 people confirmed dead after the fiery crash in Louisville, mayor says. Follow live updates. https://t.co/XDhkpakaXM",
-      "translation": "市长称，路易斯维尔市发生火灾撞车事故，至少9人确认死亡。请关注实时更新。",
+      "translation": "市长称，路易斯维尔市发生火灾撞车事故，已确认至少9人死亡。请关注实时更新。",
       "stance": "无关",
       "metrics": {
         "reply": 105,

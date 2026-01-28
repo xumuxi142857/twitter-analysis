@@ -1,0 +1,313 @@
+{
+  "id": "profile_INDOPACOM.json",
+  "_fingerprint": "4370afde5fe8376f0e4b90884bd34982",
+  "name": "INDOPACOM",
+  "username": "INDOPACOM",
+  "category": "media",
+  "daily_count": 2.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性：频繁展示军事训练、演习和外交活动，强调联盟合作和公共可见性。尽责性：注重战备状态、标准化训练和任务执行细节。开放性：积极采用多域作战、联合行动和新技术整合。宜人性：强调联盟伙伴关系但保持军事主导地位。神经质：情绪稳定，专注于行动而非焦虑表达。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "过度自信、控制欲强、缺乏自我反思",
+      "detail": "过度自信：频繁展示军事能力，暗示区域主导地位无可挑战。控制欲：强调对行动、联盟和区域安全架构的掌控。缺乏自我反思：言论聚焦外部行动，缺乏对自身政策影响的批判性评估。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "行动导向、联盟中心、威胁感知敏感",
+      "detail": "行动导向：认知聚焦于具体军事训练、演习和部署行动。联盟中心：思维围绕与日本、韩国等盟友的协作展开。威胁感知敏感：将环境预设为“争议性”、“复杂”并需要持续战备。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "模式化行动易被预测，对公开性依赖过高",
+      "detail": "行为模式化：训练、演习、外交会议等活动公开且遵循可预测周期。公开性依赖：大量信息通过社交媒体公开，可能暴露行动节奏、关注重点和伙伴关系动态。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "联盟依赖性强，立场灵活性受伙伴关系制约",
+      "detail": "联盟依赖性：立场和行动严重依赖与日本、韩国等关键盟友的协调，盟友政策变化可能影响其行动一致性。立场固化：公开言论始终强化“维护基于规则的国际秩序”和“盟友安全”立场，调整空间小。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "多域协同能力仍在发展中，存在整合压力",
+      "detail": "整合压力：虽强调多域作战（空中、海上、陆地、网络、太空）和联合行动，但跨军种、跨联盟的实时协同仍是持续挑战。后勤依赖：远距离部署和持续存在依赖复杂后勤链和基地网络。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "预设“争议环境”可能限制创造性解决方案",
+      "detail": "环境预设：心智模型默认印太区域为“争议性”、“复杂”环境，可能过度军事化思维，忽视非军事解决方案。危机叙事：持续强调战备和威慑，可能强化自身对危机预期的心理定势。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "强化美国区域军事主导，塑造有利安全架构",
+      "detail": "巩固军事存在：通过持续训练、演习和装备展示，维持并强化美国在印太的前沿部署和快速反应能力。塑造联盟网络：深化与日本、韩国等双边合作，并推动多边军事协作，构建以美国为中心的区域安全网络。威慑信号：行动和言论旨在向潜在对手展示能力、决心和联盟凝聚力，传递威慑信号。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "军事训练、联盟协作、多域作战、区域安全",
+      "detail": "军事训练与战备：涉及陆军、海军、海军陆战队、空军的各种战术训练（如空袭、巡逻、两栖攻击、医疗后送）。联盟与伙伴关系：突出与日本、韩国等盟友的联合演习、高层会议和互操作性。多域作战：强调整合空中、海上、陆地、网络、太空能力的行动概念。区域安全挑战：讨论混合威胁、可信威慑、争议环境下的行动等议题。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      1,
+      0,
+      9
+    ],
+    [
+      2,
+      1,
+      3
+    ],
+    [
+      3,
+      1,
+      2
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 15
+    },
+    {
+      "name": "亲情",
+      "value": 0
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 18:43:28 +0000 2026",
+      "text": "#USINDOPACOM’s Adm. Paparo welcomed Japanese Minister of Defense @shinjirokoiz to headquarters in #Hawaii 🇯🇵🇺🇸.\nLeaders discussed integrated, cross-domain operations, #Interoperability &amp; regional security. Koizumi also delivered a keynote at the Honolulu Defense Forum and honored https://t.co/rbg3ccPoL5",
+      "translation": "美国印太司令部司令帕帕罗上将在夏威夷总部欢迎日本防卫大臣小泉进次郎。双方领导人讨论了综合跨域作战、互操作性及地区安全。小泉还在檀香山防务论坛发表主旨演讲并致敬。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 48,
+        "like": 210
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 14:00:02 +0000 2026",
+      "text": "A C-130J Super Hercules from the 36th Airlift Squadron conducts drop zone passes during the 2026 New Year’s Jump at Narashino Training Area, highlighting allied interoperability and readiness with Japan and multinational partners.\n\n📍 #Japan\n\n📸 Airman 1st Class David S. Calcote https://t.co/fYtQEljfyH",
+      "translation": "第36空运中队的C-130J超级大力神运输机在习志野训练场进行2026年新年跳伞活动的空投区飞越，展示了与日本及多国伙伴的盟友互操作性和战备状态。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 41,
+        "like": 199
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 12:00:03 +0000 2026",
+      "text": "#Marines with @3d_Marine_Div  conduct patrol training on Camp Schwab, Okinawa—strengthening security, situational awareness, and small-unit tactics in disaggregated and contested environments.\n\n📍 #Japan\n📸 Cpl. Joaquin Dela Torre https://t.co/GToVkojDfK",
+      "translation": "美国海军陆战队第三陆战师在冲绳施瓦布营进行巡逻训练，以加强在分散和对抗环境中的安全、态势感知和小部队战术。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 9,
+        "retweet": 57,
+        "like": 332
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 11:08:00 +0000 2026",
+      "text": "#Marines with @3d_Marine_Div  conduct patrol training on Camp Schwab, Okinawa—strengthening small-unit tactics and situational awareness in disaggregated and contested environments.\n\n📍 #Japan\n📸 Cpl. Joaquin Dela Torre https://t.co/rSYyFnCty4",
+      "translation": "美国海军陆战队第三陆战师在冲绳施瓦布营进行巡逻训练，以加强在分散和对抗环境中的小部队战术和态势感知。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 51,
+        "like": 232
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 01:00:30 +0000 2026",
+      "text": "RT @Japan_GSDF: #JGSDF 1st Airborne Brigade conducted the New Year Jump in Indo-Pacific 2026 with airborne troops of fourteen countries at…",
+      "translation": "转推：日本陆上自卫队第一空降旅在印太地区与14个国家的空降部队共同进行了2026年新年跳伞活动。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 35,
+        "like": 127
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 20:16:12 +0000 2026",
+      "text": "U.S. Navy Sailors with Explosive Ordnance Disposal Mobile Unit One fast-rope from an MH-60S Sea Hawk during a drill aboard USS Abraham Lincoln, sustaining maritime readiness and expeditionary response across the Indo-Pacific.\n\n📍 #IndoPacific\n📸 Seaman Apprentice Hannah Tross https://t.co/hZJwFpRzIp",
+      "translation": "美国海军爆炸物处理机动第一单位的士兵在亚伯拉罕·林肯号航母上进行演习，从MH-60S海鹰直升机快速绳降，以维持印太地区的海上战备状态和远征响应能力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 54,
+        "like": 260
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 11:00:02 +0000 2026",
+      "text": "JGSDF 1st Airborne Brigade members demonstrate airborne capabilities during a New Year’s Jump Exercise practice at Camp Narashino, Japan—reinforcing readiness and allied cooperation across the Indo-Pacific.\n\n📍 #Japan\n\n📸 SSgt. Destani K. Hill\n\n#IndoPacific https://t.co/sFluaXFzFR",
+      "translation": "日本陆上自卫队第一空降旅成员在日本习志野营进行新年跳伞演习练习，展示空降能力，以加强印太地区的战备状态和盟友合作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 46,
+        "like": 200
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 00:25:59 +0000 2026",
+      "text": "RT @USMC: #Marines with @31stMeu execute aerial sniper exercises while performing routine operations in the U.S. 7th Fleet area of operatio…",
+      "translation": "转推：美国海军陆战队第31远征队在第七舰队作战区域执行例行任务期间进行空中狙击演习。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 55,
+        "retweet": 240,
+        "like": 1105
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 22:36:00 +0000 2026",
+      "text": "Over 400 distinguished leaders and partners gathered at the Honolulu Defense Forum to discuss Indo-Pacific security challenges, including hybrid threats in cyber and space, credible deterrence, and improving predictability for the defense industrial base—advancing multi-domain https://t.co/aDkpinB40r",
+      "translation": "超过400位杰出领导人和合作伙伴齐聚檀香山防务论坛，讨论印太安全挑战，包括网络和太空领域的混合威胁、可信威慑以及改善国防工业基础的预测性，以推进多域作战能力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 23,
+        "like": 117
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 14:00:02 +0000 2026",
+      "text": "Soldiers with @2INFDIV  train alongside infantry forces during fast-rope air assault isolated personnel extraction in South Korea—integrating aviation, UAS, and joint fires to strengthen readiness on the Korean Peninsula.\n\n📍 #SouthKorea #IndoPacific\n📸 Spc. Kalisber Ortega | https://t.co/rZmwzSFisM",
+      "translation": "美国陆军第二步兵师士兵在韩国与步兵部队共同训练，进行快速绳降空中突击孤立人员救援，整合航空、无人机系统和联合火力，以加强朝鲜半岛的战备状态。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 16,
+        "retweet": 55,
+        "like": 220
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 11:00:00 +0000 2026",
+      "text": "#Marines  with Lima Company, BLT 3/1, 31st MEU conduct a simulated raid at Camp Hansen, Okinawa—training to rapidly seize and secure key objectives in support of expeditionary operations.\n\n📍 #Okinawa #IndoPacific\n\n📸 Cpl. Rebeka Falcon https://t.co/KoGk4NWS7X",
+      "translation": "美国海军陆战队第31远征队第1陆战团第3营利马连在冲绳汉森营进行模拟突袭训练，旨在快速夺取并确保关键目标，以支持远征作战。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 61,
+        "like": 362
+      }
+    },
+    {
+      "created_at": "Sun Jan 11 20:34:24 +0000 2026",
+      "text": "Adm. Paparo met with @DeptofWar Principal Deputy Assistant to the Secretary of War for Public Affairs @AndrewBreyDoW to ensure #USINDOPACOM remains ready and capable across all domains.",
+      "translation": "帕帕罗上将与美国战争部公共事务首席副助理部长安德鲁·布雷会面，以确保美国印太司令部在所有领域保持战备状态和能力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 21,
+        "like": 107
+      }
+    },
+    {
+      "created_at": "Sun Jan 11 20:23:11 +0000 2026",
+      "text": "RT @AndrewBreyDoW: Great meeting with Admiral Paparo this week to support Department of War modernization initiatives! 🤙 The @deptofwar and…",
+      "translation": "转推：本周与帕帕罗上将的会面非常成功，以支持战争部现代化倡议！战争部和印太司令部将继续合作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 29,
+        "like": 117
+      }
+    },
+    {
+      "created_at": "Sun Jan 11 11:14:00 +0000 2026",
+      "text": "An EA-18G Growler with VAQ-141 lands aboard USS George Washington (CVN 73) while underway in the Celebes Sea, sustaining forward-deployed readiness and operational reach across the Indo-Pacific.\n@GW_CVN73 \n\n📍 #CelebesSea\n📸 PO2 Tyler Crowley\n#IndoPacific https://t.co/KEg4Gq3MAD",
+      "translation": "VAQ-141中队的EA-18G咆哮者电子战飞机在苏拉威西海乔治·华盛顿号航母上降落，以维持印太地区的前沿部署战备状态和作战范围。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 22,
+        "retweet": 90,
+        "like": 417
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 15:00:02 +0000 2026",
+      "text": "U.S. Navy F-35C Lightning II aircraft with VFA-147, CVW-5, conduct a flyover at MCAS Iwakuni after returning from deployment aboard USS George Washington (CVN 73), sustaining air superiority across the Indo-Pacific.\n\n📍 #Japan\n\n📸 Lance Cpl. Tyler Bassett https://t.co/SgnggucOb0",
+      "translation": "美国海军VFA-147中队的F-35C闪电II战斗机在从乔治·华盛顿号航母部署返回后，在岩国海军陆战队航空站进行飞越，以维持印太地区的空中优势。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 148,
+        "like": 785
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 11:00:03 +0000 2026",
+      "text": "#ICYMI : U.S. Naval Special Warfare forces conduct joint military free-fall training above Okinawa, enhancing precision insertion and survivability in contested environments across the Indo-Pacific.\n\n📍 #Japan\n📸 Petty Officer 2nd Class David Rowe https://t.co/dcQjoApnkX",
+      "translation": "回顾：美国海军特种作战部队在冲绳上空进行联合军事自由落体训练，以增强在印太地区对抗环境中的精确插入和生存能力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 112,
+        "like": 717
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 11:00:03 +0000 2026",
+      "text": "An F/A-18E Super Hornet with VFA-151 launches from USS Abraham Lincoln (CVN 72) in the Pacific Ocean, reinforcing forward-deployed naval aviation and readiness across the Indo-Pacific.\n\n📍 #PacificOcean\n📸 MC Seaman Daniel Kimmelman\n#IndoPacific https://t.co/0Pua55F3aU",
+      "translation": "VFA-151中队的F/A-18E超级大黄蜂战斗机在太平洋从亚伯拉罕·林肯号航母上起飞，以加强印太地区的前沿部署海军航空兵和战备状态。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 17,
+        "retweet": 93,
+        "like": 409
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 12:56:00 +0000 2026",
+      "text": "Personnel assigned to U.S. Army Garrison–Kwajalein Atoll conducted combat-focused physical readiness training, reinforcing resilience, unit cohesion, and the physical readiness required to support operations across the Indo-Pacific.\n\n📍 Kwajalein Atoll, Marshall Islands\n\n📸 https://t.co/RhPtRnoILk",
+      "translation": "美国陆军关岛夸贾林环礁驻军人员进行以战斗为重点的体能战备训练，以加强韧性、部队凝聚力以及支持印太地区作战所需的体能战备状态。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 35,
+        "like": 126
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 12:00:00 +0000 2026",
+      "text": "#Marines  with @3d_Marine_Div  execute casualty evacuation drills during Fuji Viper 26.2 at Camp Fuji, integrating aviation and ground forces to strengthen medical response and combined arms readiness across the first island chain.\n\n📍 #Japan\n\n📸 Cpl. Briseida Villasenor https://t.co/0kuLLSwfAj",
+      "translation": "美国海军陆战队第三陆战师在富士营进行富士蝰蛇26.2演习中的伤员后送演练，整合航空和地面部队，以加强第一岛链的医疗响应和联合兵种战备状态。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 21,
+        "retweet": 62,
+        "like": 260
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 11:00:02 +0000 2026",
+      "text": "#Airmen with the 8th Security Forces Squadron execute a training exercise at Kunsan Air Base, testing mobility, reconnaissance, and engagement across complex terrain to sustain readiness in the Indo-Pacific.\n\n📍 #SouthKorea\n\n📸 Senior Airman Dylan Maher https://t.co/WgOjP99463",
+      "translation": "美国空军第8安全部队中队的飞行员在群山空军基地进行训练演习，测试复杂地形下的机动性、侦察和交战能力，以维持印太地区的战备状态。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 39,
+        "like": 168
+      }
+    }
+  ]
+}

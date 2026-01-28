@@ -1,0 +1,313 @@
+{
+  "id": "profile_ChingteLai.json",
+  "_fingerprint": "09caacc7dcd9c2ffd64507cd3d0f7d63",
+  "name": "ChingteLai",
+  "username": "ChingteLai",
+  "category": "media",
+  "daily_count": 0.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁参与国际社交活动，积极建立外交关系，公开演讲和媒体互动频繁。尽责性高：强调制度建设、国防改革、医疗体系完善，注重政策执行和成果展示。开放性高：积极拥抱新技术（如AI、航天），推动国际合作，展现前瞻性思维。宜人性中等：在合作关系中表现出亲和力，但在涉及主权和价值观问题上立场坚定。神经质低：言论中情绪稳定，即使在批评性话题中也保持克制和专业语气。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的自恋倾向、过度依赖外部认可、理想主义与现实脱节风险",
+      "detail": "自恋倾向：频繁使用“自豪”、“伟大”、“坚定”等自我强化词汇，强调台湾的独特成就和国际角色，可能过度关注形象塑造。依赖外部认可：高度依赖美国、G7等外部支持来验证自身立场，将国际承认作为合法性的重要来源。理想主义风险：在民主、自由等价值观上表现出强烈信念，但可能低估地缘政治现实中的复杂性和约束条件。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "亲西方民主价值观、多边合作导向、技术乐观主义、身份建构驱动",
+      "detail": "亲西方民主价值观：将台湾定位为“民主伙伴”，频繁引用自由、人权等概念，视中国为“威权挑衅者”。多边合作导向：强调与“自由世界”的联盟，通过签署条约、建立姐妹城市等方式拓展国际网络。技术乐观主义：相信科技（如AI、航天）能提升台湾的韧性和国际地位。身份建构驱动：通过“台湾制造”、“台湾自豪”等叙事强化本土认同，将台湾描绘为先进、独立的实体。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度公开外交活动易暴露战略意图，依赖象征性协议可能忽视实质风险",
+      "detail": "外交活动透明度过高：频繁公开与美国、小国外交细节，可能使对手提前预判其联盟策略。象征性协议依赖：注重签署仪式和媒体宣传，但部分合作（如渔业、体育）实际战略价值有限，易被对手视为“表面工程”。情绪化回应风险：在涉及香港等议题时表现出情感共鸣，可能被利用来煽动对立情绪。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "对“民主联盟”的过度信任，对中国意图的单一化解读，忽视内部社会分歧",
+      "detail": "联盟信任脆弱：假设美国、G7等会无条件支持台湾，但未充分考虑这些国家可能因利益变化而调整政策。中国意图简化：将中国行为统一归为“挑衅”，忽略其内部政策多样性和潜在谈判空间。内部共识高估：强调台湾社会团结，但未公开讨论可能存在的统独分歧或政策争议。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "国防能力与宣传不匹配，经济依赖高科技但易受供应链干扰，医疗成就可能掩盖系统脆弱性",
+      "detail": "国防夸大风险：强调“前所未有”的国防预算，但实际军力仍依赖外部支持，自主防御能力有限。经济单一化：聚焦AI、航天等高端产业，但若全球供应链中断或技术封锁，经济易受冲击。医疗系统压力：虽展示医疗成就，但“超高龄社会”和长期照护需求可能超出当前体系承载力。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "历史悲情叙事可能导致决策情绪化，身份焦虑驱动过度对外证明，成功叙事掩盖潜在危机",
+      "detail": "悲情叙事影响：引用“自由代价”、“历史教训”等，可能使决策基于情感而非理性计算。身份焦虑：通过国际活动不断证明台湾的“国家地位”，反映深层的不安全感。成功叙事盲点：强调台湾在民主、科技上的成就，可能忽视内部经济不平等或政治疲劳等隐患。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "推动台湾国际法理人格化，构建“民主前沿”叙事以获取安全保证，以技术合作掩盖政治目的",
+      "detail": "法理人格化：通过签署条约、参与国际组织（如世界医学协会）悄悄塑造台湾的“准国家”形象。安全叙事构建：将台湾定位为“民主堡垒”，以此呼吁美国等提供军事保障。技术政治化：利用AI、航天等合作项目提升台湾的实质主权，例如卫星系统可增强情报自主性。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国际外交、国防安全、科技发展、医疗卫生、民主价值观",
+      "detail": "国际外交：聚焦与美国、G7、小国（如圣卢西亚、斯威士兰）的关系，强调“伙伴关系”和“共享价值观”。国防安全：频繁讨论中国军事威胁、台湾自卫能力、美国安保角色。科技发展：突出AI、航天、智慧医疗等领域的成就和合作。医疗卫生：展示台湾医疗体系优势，推广全球健康贡献。民主价值观：反复强调台湾的民主转型、人权进步，与“威权”中国形成对比。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 26 01:00:24 +0000 2025",
+      "text": "No country is more determined in safeguarding #Taiwan’s future than our own. My @washingtonpost op-ed outlines how our unprecedented defense budget &amp; military investments will build a stronger Taiwan as we, alongside the #US, pursue peace through strength.\nhttps://t.co/CvgUoeKEDI",
+      "translation": "没有任何国家比我们更坚定地捍卫台湾的未来。我在《华盛顿邮报》的专栏文章阐述了，我们前所未有的国防预算和军事投资将如何与#美国一起，通过实力追求和平，建设一个更强大的台湾。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 567,
+        "retweet": 809,
+        "like": 4813
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 09:51:09 +0000 2025",
+      "text": "Recent Chinese military provocations near Japan &amp; across the region have escalated tensions &amp; highlight the urgency of increased investments in defense. We stand together with democratic partners in opposing these actions &amp; remain resolute in our determination to safeguard peace.",
+      "translation": "近期中国在日本附近及整个地区的军事挑衅行为加剧了紧张局势，突显了增加国防投资的紧迫性。我们与民主伙伴站在一起反对这些行动，并坚定不移地致力于维护和平。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1136,
+        "retweet": 1099,
+        "like": 5989
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 07:06:40 +0000 2025",
+      "text": "#Taiwan’s transition from authoritarianism to democracy taught us that freedom comes at a cost. On #HumanRightsDay, let's take time to reflect on history’s lessons, commemorate our hard-won progress, and together shine a light of hope for those striving for freedom. https://t.co/FMojTm1hB2",
+      "translation": "台湾从威权主义向民主的过渡告诉我们，自由是有代价的。在#人权日，让我们花时间反思历史的教训，纪念我们来之不易的进步，并共同为那些争取自由的人们点亮希望之光。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 877,
+        "retweet": 1174,
+        "like": 6958
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 06:28:44 +0000 2025",
+      "text": "Greatly appreciate President @realDonaldTrump’s signing of the Taiwan Assurance Implementation Act, underlining the importance of #US engagement with #Taiwan. Going forward, we’ll work even more closely with the US in all sectors to ensure regional peace, stability &amp; prosperity.",
+      "translation": "非常感谢特朗普总统签署《台湾保证实施法案》，强调了#美国与#台湾交往的重要性。未来，我们将在所有领域与美国更加紧密地合作，以确保地区的和平、稳定与繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 463,
+        "retweet": 1441,
+        "like": 6937
+      }
+    },
+    {
+      "created_at": "Tue Nov 25 06:51:42 +0000 2025",
+      "text": "Glad to welcome Speaker Jabulani Mabuza &amp; House of Assembly members and thank them for the solid support. #Taiwan deeply values #Eswatini's support as we continue to make great strides in energy, health, agriculture &amp; education, with much potential to build even more prosperity. https://t.co/peyJUyjRRe",
+      "translation": "很高兴欢迎议长贾布兰尼·马布扎及国民议会议员，并感谢他们的坚定支持。#台湾高度重视#埃斯瓦蒂尼的支持，我们在能源、卫生、农业和教育领域继续取得巨大进步，拥有创造更多繁荣的巨大潜力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 295,
+        "retweet": 236,
+        "like": 1959
+      }
+    },
+    {
+      "created_at": "Tue Nov 18 07:10:10 +0000 2025",
+      "text": "Talofa! Greetings to PM Feleti Teo on his 1st state visit &amp; 3rd time in Taiwan. Proud to witness signings of the #Taiwan-#Tuvalu Kaitasi Treaty &amp; cooperation agreements on fisheries &amp; sports, paving the way for a solid future partnership marked by prosperity &amp; development. https://t.co/rMw9GjwoFQ",
+      "translation": "塔洛法！向首次进行国事访问并第三次到访台湾的费莱蒂·特奥总理致以问候。自豪地见证了#台湾-#图瓦卢《凯塔西条约》以及渔业和体育合作协议的签署，为以繁荣与发展为标志的坚实未来伙伴关系铺平了道路。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 289,
+        "retweet": 218,
+        "like": 2152
+      }
+    },
+    {
+      "created_at": "Tue Dec 02 13:44:17 +0000 2025",
+      "text": "Warm congratulations to Prime Minister Philip J. Pierre on his re-election. Over the years, #Taiwan &amp; #StLucia have achieved steady progress in agriculture, economic empowerment, &amp; more. We remain committed to deepening these efforts to advance the wellbeing of both our peoples.",
+      "translation": "热烈祝贺菲利普·J·皮埃尔总理再次当选。多年来，#台湾和#圣卢西亚在农业、经济赋权等领域取得了稳步进展。我们仍然致力于深化这些努力，以增进两国人民的福祉。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 125,
+        "retweet": 157,
+        "like": 1425
+      }
+    },
+    {
+      "created_at": "Thu Nov 27 10:10:45 +0000 2025",
+      "text": "As #Taiwan has become a super-aged society, we’re advancing reforms to meet changing healthcare needs. Today’s Healthy Taiwan Promotion committee agenda focused on expanding accessible, community-based services for healthy ageing and upgrading our long-term care programs. https://t.co/cZjEpmsEmY",
+      "translation": "随着#台湾进入超高龄社会，我们正在推进改革以满足不断变化的医疗保健需求。今天的“健康台湾促进委员会”会议议程侧重于扩大可及的、基于社区的老年健康服务，并升级我们的长期护理计划。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 197,
+        "retweet": 232,
+        "like": 1871
+      }
+    },
+    {
+      "created_at": "Thu Nov 27 02:00:26 +0000 2025",
+      "text": "香港新界大埔昨晚發生重大火災，蔓延多棟住宅高樓。目前已有逾百人傷亡、仍有多人失蹤。所幸消防人員努力搶救，火勢已受到控制。\n\n此時此刻，讓我們一起為香港祈福。我要為所有在災害中逝去的香港朋友、及其家屬致上最深的哀悼之意，並誠摯的慰問傷者，也希望能早日平安尋獲失蹤者。",
+      "translation": "香港新界大埔昨晚发生重大火灾，蔓延多栋住宅高楼。目前已有逾百人伤亡、仍有多人失踪。所幸消防人员努力抢救，火势已受到控制。此时此刻，让我们一起为香港祈福。我要为所有在灾害中逝去的香港朋友、及其家属致上最深的哀悼之意，并诚挚的慰问伤者，也希望能早日平安寻获失踪者。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1019,
+        "retweet": 1330,
+        "like": 15452
+      }
+    },
+    {
+      "created_at": "Thu Nov 20 06:59:42 +0000 2025",
+      "text": "Proud to witness the launch of @Google's AI Infrastructure Engineering Center today. The opening of this new R&amp;D center in #Taiwan highlights our growing role in global AI development, and we will keep leveraging our strengths to help build secure &amp; trustworthy AI. https://t.co/NlzOW62dD5",
+      "translation": "自豪地见证了@Google人工智能基础设施工程中心今天的启动。这个新的研发中心在#台湾的开设，突显了我们在全球人工智能发展中日益增长的作用，我们将继续利用我们的优势，帮助构建安全可信的人工智能。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 255,
+        "retweet": 305,
+        "like": 2790
+      }
+    },
+    {
+      "created_at": "Thu Nov 13 11:11:55 +0000 2025",
+      "text": "Deeply appreciate the @G7 FMs for voicing opposition to any unilateral attempts to change the status quo in the Taiwan Strait, particularly by force or coercion. As committed as ever to a free &amp; open Indo-Pacific, #Taiwan will keep contributing to lasting peace &amp; stability.",
+      "translation": "非常感谢@G7外长们发声反对任何单方面改变台湾海峡现状的企图，特别是通过武力或胁迫。一如既往地致力于自由开放的印太地区，#台湾将继续为持久和平与稳定做出贡献。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 367,
+        "retweet": 581,
+        "like": 2688
+      }
+    },
+    {
+      "created_at": "Thu Dec 04 04:54:24 +0000 2025",
+      "text": "Addressing its Open Expert Meeting, I thanked the @medwma for its longstanding support &amp; highlighted some of #Taiwan’s many healthcare efforts. With initiatives like our AI-driven smart health system &amp; enhanced governance, we're committed to advancing local &amp; global well-being. https://t.co/jcyitoC1rG",
+      "translation": "在其公开专家会议上，我感谢@medwma的长期支持，并重点介绍了#台湾的许多医疗保健努力。通过我们的人工智能驱动的智能健康系统和加强治理等举措，我们致力于促进本地和全球的福祉。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 97,
+        "retweet": 184,
+        "like": 1211
+      }
+    },
+    {
+      "created_at": "Sun Nov 30 04:47:54 +0000 2025",
+      "text": "#Taiwan-made &amp; Taiwan-proud, Formosat-8 is now in orbit! We’re geared up to launch the other 7 units to complete this constellation, enhancing our disaster readiness, environmental protection &amp; national resilience—Yet another leap forward for Taiwan's fast-growing space industry.",
+      "translation": "#台湾制造，台湾骄傲，福尔摩沙八号卫星现已入轨！我们已准备好发射其他7颗卫星以完成这个星座，增强我们的灾害准备、环境保护和国家韧性——这是台湾快速发展的航天工业的又一次飞跃。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 278,
+        "retweet": 698,
+        "like": 4780
+      }
+    },
+    {
+      "created_at": "Sat Dec 06 03:03:47 +0000 2025",
+      "text": "Greatly appreciate that the #US National Security Strategy prioritizes deterring a conflict over Taiwan &amp; highlights the security of the First Island Chain. #Taiwan will continue to be a reliable partner deeply committed to strengthening our self-defense to uphold regional peace.",
+      "translation": "非常感谢#美国国家安全战略将威慑台湾冲突列为优先事项，并强调了第一岛链的安全。#台湾将继续成为一个可靠的伙伴，坚定致力于加强我们的自卫能力以维护地区和平。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 307,
+        "retweet": 458,
+        "like": 2760
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 00:08:37 +0000 2025",
+      "text": "I extend my deepest condolences to the victims and all those affected by the horrific attack at Bondi Beach. Taiwan strongly condemns all acts of terrorism and stands with the people of Australia &amp; the Jewish community during this difficult time.",
+      "translation": "我对邦迪海滩恐怖袭击事件的受害者及所有受影响的人表示最深切的哀悼。台湾强烈谴责一切恐怖主义行为，并在这个艰难时刻与澳大利亚人民和犹太社区站在一起。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 324,
+        "retweet": 571,
+        "like": 4476
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 14:23:30 +0000 2025",
+      "text": "My sincere congratulations to Dr. Godwin Friday as he assumes office as prime minister of St. Vincent &amp; the Grenadines. #Taiwan &amp; #SVG share a long &amp; close friendship, and we look forward to deepening cooperation across key sectors to further advance development &amp; prosperity.",
+      "translation": "我衷心祝贺戈德温·星期五博士就任圣文森特和格林纳丁斯总理。#台湾和#圣文森特和格林纳丁斯有着长期而密切的友谊，我们期待深化关键领域的合作，以进一步推动发展与繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 125,
+        "retweet": 150,
+        "like": 1627
+      }
+    },
+    {
+      "created_at": "Fri Nov 14 06:34:01 +0000 2025",
+      "text": "Glad to welcome #StKittsAndNevis PM @TerranceDrewSKN back to #Taiwan so we can personally witness our partnership deepen with new sister-city agreements and progress in medicine &amp; health, energy &amp; more. Let’s keep moving forward on the path to a sustainable &amp; prosperous future. https://t.co/3j6zh3nnYY",
+      "translation": "很高兴欢迎#圣基茨和尼维斯总理@TerranceDrewSKN再次访问#台湾，这样我们可以亲自见证我们的伙伴关系随着新的姐妹城市协议以及在医药与健康、能源等领域的进展而深化。让我们继续在通往可持续和繁荣未来的道路上向前迈进。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 286,
+        "retweet": 169,
+        "like": 1535
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 11:08:36 +0000 2025",
+      "text": "Enjoyed a warm meal &amp; holiday cheer with #AIT Director Raymond Greene &amp; our American friends. Great food &amp; conversation, and many toasts to everything ahead for #Taiwan &amp; the #US. Here’s to friendship, cooperation, and a stronger, more prosperous world. https://t.co/A6ODdCm0nk",
+      "translation": "与#美国在台协会处长雷蒙德·格林及我们的美国朋友们共进温馨的节日大餐，享受节日欢乐。美食与交谈，以及为#台湾和#美国未来的一切干杯。为友谊、合作以及一个更强大、更繁荣的世界干杯。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 173,
+        "retweet": 332,
+        "like": 2200
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 09:32:16 +0000 2025",
+      "text": "Glad to meet with many great friends of #Taiwan from @NATLCOMMITTEE. While we advance defense reforms &amp; societal resilience at home, we also look forward to building on our partnerships with the #US &amp; other freedom-loving nations to uphold our shared values &amp; interests. https://t.co/P2azLXGLDO",
+      "translation": "很高兴与来自@NATLCOMMITTEE的许多#台湾的好朋友会面。当我们在国内推进国防改革和社会韧性建设的同时，我们也期待与#美国及其他热爱自由的国家建立伙伴关系，以维护我们共同的价值观和利益。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 75,
+        "retweet": 146,
+        "like": 1057
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 08:10:21 +0000 2025",
+      "text": "Happy to address fellow nephrologists at the Asian Pacific Congress of Nephrology today in #Taiwan. From treatment to prevention, integrated care to early screening, Taiwan is advancing in the fight against kidney disease &amp; will keep sharing its experience for global health. https://t.co/5dqxKU5Cb2",
+      "translation": "很高兴今天在#台湾的亚太肾脏病学大会上向各位肾脏病学同行发表讲话。从治疗到预防，从整合照护到早期筛查，台湾正在抗击肾脏疾病的斗争中取得进展，并将继续分享其经验以促进全球健康。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 111,
+        "retweet": 238,
+        "like": 1863
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "profile_RyukyuShimpo.json",
+  "_fingerprint": "311338ea1eda7d34405b5b133c325331",
+  "name": "RyukyuShimpo",
+  "username": "ryukyushimpo",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等宜人性、中等外倾性、中等神经质",
+      "detail": "开放性高：广泛报道政治、社会、文化、体育等多领域话题，关注边缘群体（如单亲家庭），体现思想开放和包容性。尽责性高：持续关注选举、政策等公共事务，履行媒体监督职责。宜人性中等：对弱势群体（如单亲家庭）展现同情，但在政治议题上立场鲜明（如反战和平）。外倾性中等：积极报道社区活动、体育赛事，但政治报道偏向严肃。神经质中等：对负面社会问题（如生活恶化）敏感，但整体报道保持平衡。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在理想主义倾向、情绪化风险、立场固化",
+      "detail": "理想主义倾向：在政治议题（如反战和平、基地问题）上可能过于强调理想化解决方案，忽视现实约束。情绪化风险：对弱势群体（如单亲家庭）的报道可能带有情感色彩，影响客观性。立场固化：在长期议题（如美军基地）上立场可能较固定，导致报道视角单一。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "社会正义导向、地方主义、务实与理想平衡",
+      "detail": "社会正义导向：优先关注民生（如物价、单亲家庭困境）、选举公平、反战和平议题。地方主义：聚焦冲绳本地事务（如选举、体育、文化），体现强烈的地方认同。务实与理想平衡：既报道现实问题（如经济对策），也倡导理想价值观（如和平）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度聚焦本地议题、情感驱动报道、政治立场影响广度",
+      "detail": "过度聚焦本地议题：可能忽视全国或国际背景，导致视野局限。情感驱动报道：在民生议题上易受情感影响，可能削弱分析深度。政治立场影响广度：反战和平等立场可能使报道选择性忽略其他视角。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "反基地立场可能偏颇、理想化社会愿景、地方与中央张力",
+      "detail": "反基地立场可能偏颇：在美军基地议题上倾向负面报道，可能缺乏多元平衡。理想化社会愿景：对和平、公平的强调可能脱离现实政治复杂性。地方与中央张力：强调冲绳利益可能隐含与日本中央政府的对立风险。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "深度分析不足、国际视野有限、资源依赖",
+      "detail": "深度分析不足：报道多基于事件描述，缺乏深层原因或长期趋势分析。国际视野有限：样本中未涉及国际议题（如中美关系），可能能力局限。资源依赖：作为地方媒体，可能受资源限制影响报道覆盖范围。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "身份认同冲突、理想与现实落差、情绪负荷",
+      "detail": "身份认同冲突：作为冲绳媒体，在地方忠诚与全国立场间可能存在心理张力。理想与现实落差：倡导和平、公平等理想时，可能因现实阻力产生挫败感。情绪负荷：长期关注负面社会问题（如贫困）可能导致情感疲惫。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升冲绳话语权、倡导社会改革、维护地方文化认同",
+      "detail": "提升冲绳话语权：通过报道选举、基地问题等，强化冲绳在政治讨论中的影响力。倡导社会改革：聚焦民生议题（如单亲家庭、物价），推动政策改善。维护地方文化认同：报道体育、文化事件（如泡盛活动），巩固冲绳独特身份。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "政治选举、美军基地、民生经济、地方文化体育",
+      "detail": "政治选举：众议院选举、市长选举等，关注政策与地方治理。美军基地：涉及基地对生活的影响、反战和平议题。民生经济：物价对策、单亲家庭困境、社会福利。地方文化体育：冲绳本地体育赛事（如高尔夫、足球）、文化活动（如饮食事件）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      2
+    ],
+    [
+      1,
+      0,
+      4
+    ],
+    [
+      1,
+      0,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 27 05:33:12 +0000 2026",
+      "text": "【衆院選2026】基地、暮らしで論戦　県内政党座談会\nhttps://t.co/nE2tyVEFdF",
+      "translation": "【2026年众议院选举】围绕基地与生活展开辩论——县内政党座谈会 https://t.co/nE2tyVEFdF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 04:45:07 +0000 2026",
+      "text": "「沖縄勢、たくさん予選突破を」　ダイキン女子大会PR\nhttps://t.co/xiDwkdadSd",
+      "translation": "“希望冲绳选手多人通过预选”——大金女子大赛宣传 https://t.co/xiDwkdadSd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 04:40:06 +0000 2026",
+      "text": "伊佐、仲村が首位発進　ダイキン女子アマゴルフ開幕\nhttps://t.co/TmrYIh68Jl",
+      "translation": "伊佐、仲村领先出发——大金女子业余高尔夫赛开幕 https://t.co/TmrYIh68Jl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 04:15:06 +0000 2026",
+      "text": "FWジェニングス加入　FC琉球　米リーグで活躍\nhttps://t.co/B2Pdqraeyv",
+      "translation": "前锋詹宁斯加入FC琉球——曾在美国联赛活跃 https://t.co/B2Pdqraeyv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 04:06:03 +0000 2026",
+      "text": "衆院選沖縄2区の分裂、社民などに再考求める　「反戦平和の議席」手放す「痛恨の事態」　市民団体\nhttps://t.co/kbe5CBa63e",
+      "translation": "要求社民党等重新考虑众议院选举冲绳2区的分裂——“反战和平席位”丢失是“痛心的事态”——市民团体 https://t.co/kbe5CBa63e",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 6,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:50:11 +0000 2026",
+      "text": "豊見城市長選、市議会2会派が現職・徳元氏に出馬要請へ　沖縄\n\nhttps://t.co/3QikbT6LVN",
+      "translation": "丰见城市长选举，市议会两派系将邀请现任市长德元氏参选——冲绳 https://t.co/3QikbT6LVN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:50:08 +0000 2026",
+      "text": "ひとり親世帯の暮らし悪化　孤立させず居場所必要　秋吉晴子氏（しんぐるまざあず・ふぉーらむ沖縄代表）\nhttps://t.co/EOs87Ga8G1",
+      "translation": "单亲家庭生活恶化——不应孤立，需要容身之所——秋吉晴子女士（冲绳单亲妈妈论坛代表） https://t.co/EOs87Ga8G1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:40:55 +0000 2026",
+      "text": "タイ料理に泡盛の熱燗、パクチー添えラム酒　東京で食のイベント\nhttps://t.co/UyopQOdfE8",
+      "translation": "泰式料理配泡盛热酒、香菜点缀朗姆酒——东京美食活动 https://t.co/UyopQOdfE8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:35:04 +0000 2026",
+      "text": "生活切り詰め「食事減らした」「子どもの服買えず」　料金滞納も4割　ひとり親調査\nhttps://t.co/YiZ0U8IqRk",
+      "translation": "生活拮据“减少了餐食”“买不起孩子的衣服”——四成拖欠费用——单亲家庭调查 https://t.co/YiZ0U8IqRk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:24:20 +0000 2026",
+      "text": "将来に希望ない、それでも子のために…ひとり親調査　金銭・健康不安抱え\nhttps://t.co/VhHrVaLoXC",
+      "translation": "对未来无望，但为了孩子……单亲家庭调查——背负金钱与健康不安 https://t.co/VhHrVaLoXC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 03:20:06 +0000 2026",
+      "text": "与那原町長選、現職の照屋氏が出馬表明「開発、福祉を推進」　沖縄\n\nhttps://t.co/VwWcmEYSvG",
+      "translation": "与那原町长选举，现任照屋氏宣布参选“推进开发与福利”——冲绳 https://t.co/VwWcmEYSvG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 02:15:07 +0000 2026",
+      "text": "上野と八塚加入　沖縄SVが発表　東海学生リーグ1部\nhttps://t.co/fyr8IXrw6u",
+      "translation": "上野与八塚加入——冲绳SV宣布——东海学生联赛1部 https://t.co/fyr8IXrw6u",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 02:00:15 +0000 2026",
+      "text": "【名護市長選】暮らし最優先、かすんだ辺野古　翁長氏陣営、政策で違い出せず＜大差の舞台裏＞上\nhttps://t.co/P4F4FbPiaF",
+      "translation": "【名护市长选举】生活最优先，边野古问题模糊——翁长氏阵营，政策未能凸显差异＜大差距的背后＞上 https://t.co/P4F4FbPiaF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:52:51 +0000 2026",
+      "text": "沖縄県、アメリカに新事務所を検討　観光・商工分野も担当\nhttps://t.co/RKjUWmINiO",
+      "translation": "冲绳县考虑在美国设立新办事处——负责旅游与工商业领域 https://t.co/RKjUWmINiO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 12,
+        "like": 47
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:46:09 +0000 2026",
+      "text": "中道・野田氏「辺野古、現実的に対応」　党首討論で賛否示さず\nhttps://t.co/ngYZ6RFYhu",
+      "translation": "中道·野田氏“边野古，现实应对”——党首讨论中未表明赞成或反对 https://t.co/ngYZ6RFYhu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:31:56 +0000 2026",
+      "text": "RT @ryuchanclub: ✨毎月第２・第４水曜日は #りゅうちゃんクラブ の日✨明日はりゅうちゃんクラブの掲載日♪  #まーちゃんのお笑いニュース道場 と読者参加型のお題を掲載するよ　見てね❢　 #琉球新報 https://t.co/TbGrg7b9kx",
+      "translation": "RT @ryuchanclub: ✨每月第2、第4周三是#龙ちゃん俱乐部日✨明天是龙ちゃん俱乐部刊登日♪ 将刊登#麻酱的搞笑新闻道场和读者参与型主题 请关注❢ #琉球新报 https://t.co/TbGrg7b9kx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:28:04 +0000 2026",
+      "text": "1万円の商品券・現金配布へ　嘉手納町と宜野湾市、物価高対策\nhttps://t.co/UTLY5SgXXu",
+      "translation": "将发放1万日元商品券与现金——嘉手纳町与宜野湾市，应对物价高涨 https://t.co/UTLY5SgXXu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:13:06 +0000 2026",
+      "text": "シベリアから真冬の使者、マガンが大宜味に飛来　沖縄\nhttps://t.co/uyyQn3Awfz",
+      "translation": "西伯利亚的严冬使者，豆雁飞抵大宜味——冲绳 https://t.co/uyyQn3Awfz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:03:03 +0000 2026",
+      "text": "【名護市長選】3選・渡具知氏、一夜明け「公約しっかり達成」決意新た\nhttps://t.co/oEcDGL8CRy",
+      "translation": "【名护市长选举】三连任·渡具知氏，翌日清晨“决心切实实现公约” https://t.co/oEcDGL8CRy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:35:15 +0000 2026",
+      "text": "【衆院選2026】どうなる？沖縄の暮らし\n米軍基地問題、消費税　県内政党座談会\nhttps://t.co/KnZAO0HDcv\n#選挙　#公示 https://t.co/cGLrC3YWPw",
+      "translation": "【2026年众议院选举】冲绳生活将如何？美军基地问题、消费税——县内政党座谈会 https://t.co/KnZAO0HDcv #选举 #公示 https://t.co/cGLrC3YWPw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 6,
+        "like": 19
+      }
+    }
+  ]
+}

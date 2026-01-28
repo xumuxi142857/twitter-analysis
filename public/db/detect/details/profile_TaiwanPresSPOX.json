@@ -1,0 +1,313 @@
+{
+  "id": "profile_TaiwanPresSPOX.json",
+  "_fingerprint": "75e7c60f448e095c7b98f2e372423311",
+  "name": "TaiwanPresSPOX",
+  "username": "TaiwanPresSPOX",
+  "category": "media",
+  "daily_count": 0.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "外向性高，尽责性高，开放性中等，宜人性中等，神经质中等偏低",
+      "detail": "外向性高：频繁进行国际交往和公开活动，积极建立外部联系。尽责性高：强调团队合作、经济增长、国防韧性等责任导向议题。开放性中等：接受外部支持但意识形态相对固定。宜人性中等：对支持者友好，对特定对象（如中国）持批评态度。神经质中等偏低：言论中表现出一定抗压性，但提及军事威胁时显露出担忧。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在依赖外部认可、对抗性姿态、身份认同强化倾向",
+      "detail": "依赖外部认可：频繁感谢外国支持，将国际参与视为重要成就。对抗性姿态：指责中国军事挑衅，强调防御韧性，显示对立立场。身份认同强化倾向：使用“#TeamTaiwan”、“台湾”等表述强化地域身份，可能忽视两岸联结。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "外部依赖型、对抗防御型、成就展示型",
+      "detail": "外部依赖型：认知上倾向于寻求并强调国际支持（如加拿大、欧洲、日本、美国）。对抗防御型：将中国视为安全威胁，认知聚焦于防御和韧性建设。成就展示型：强调经济增长、科技成就（如卫星发射）作为合法性来源。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖外部支持可能削弱自主性；对抗性言论易引发紧张",
+      "detail": "行为上频繁接待外国代表团、感谢军售，可能形成“外部支持依赖症”，一旦支持减弱易陷入孤立。对抗性言论（如指责中国军事挑衅）可能激化矛盾，限制对话空间。多语言发布（中、英、日）显示行为上注重国际传播，但可能忽视两岸沟通。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "坚持“国际参与”立场，但面临一个中国原则的国际共识压力",
+      "detail": "立场上积极推动所谓“国际参与”（international participation），但该立场与联合国2758号决议及多数国家的一个中国政策相悖，认知上可能低估此结构性障碍。将台湾地区与中国对立表述，忽视两岸同属一中的历史与法理事实。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "高估外部支持的实际效能；低估两岸关系恶化的经济安全风险",
+      "detail": "认知上可能高估外国议会代表团、军售等支持的实际政治与军事效能，低估这些行动的战略局限性。同时，可能低估两岸关系紧张对区域稳定、台湾地区经济（如贸易、投资）及安全的长远风险。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "可能存在“受害者心态”与“成就凸显”交织的认知框架",
+      "detail": "心智上同时构建两种叙事：一是“受害者”叙事（如遭受军事威胁、自然灾害），以博取同情；二是“成就者”叙事（经济成长、科技突破），以彰显能力。这种框架可能简化复杂的两岸与国际现实，影响理性决策。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "通过国际互动提升所谓“政治实体”能见度；强化“拒统”心理与社会基础",
+      "detail": "意图并非单纯外交礼仪，而是通过高频次、多国别的议会互动及感谢军售，在国际上塑造“事实独立”印象。对内则通过“全民国防韧性”（Whole-of-Society Defense Resilience）等概念，强化“自卫”意识与“拒统”社会心理，为长期对抗积累基础。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国际交往、国防安全、经济发展、对华指责、节日问候",
+      "detail": "核心话题包括：1. 国际交往：与加拿大、欧洲、日本、美国等议会或政要互动。2. 国防安全：强调“全民国防韧性”、应对“军事挑衅”。3. 经济发展：宣扬经济增长、科技成就（如卫星）。4. 对华指责：直接批评中国军事行动威胁区域稳定。5. 节日问候：如圣诞节、新年致辞，塑造亲和形象。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 11:01:27 +0000 2025",
+      "text": "News Releases: President Lai meets delegations led by Representative Suzuki Keisuke and Councillor Takinami Hirofumi of Japanese Diet\n\nhttps://t.co/KSnA5SWIdK https://t.co/spUYNnxFXa",
+      "translation": "新闻稿：赖总统会见日本国会众议员铃木馨祐和参议员滝波宏文率领的代表团",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 9,
+        "like": 72
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 10:00:44 +0000 2025",
+      "text": "News Releases: President Lai presides over sixth meeting of Whole-of-Society Defense Resilience Committee\n\nhttps://t.co/oFYFQB0r9Q https://t.co/bUSfK0bHSP",
+      "translation": "新闻稿：赖总统主持第六次全民防卫韧性委员会会议",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 12,
+        "like": 64
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 10:25:16 +0000 2026",
+      "text": "RT @ChingteLai: Glad to meet with the Canadian parliamentary delegation &amp; thank them for their steadfast support for our int'l participatio…",
+      "translation": "转推@ChingteLai：很高兴会见加拿大议会代表团，感谢他们对台湾国际参与的坚定支持...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 227,
+        "retweet": 259,
+        "like": 2213
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 13:38:51 +0000 2026",
+      "text": "News Releases: President Lai meets delegation from European Parliament\n\nhttps://t.co/AZhWfpHGTv https://t.co/yWnIBASmrn",
+      "translation": "新闻稿：赖总统会见欧洲议会代表团",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 15,
+        "like": 72
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 08:52:34 +0000 2026",
+      "text": "RT @ChingteLai: A warm welcome to the Delegation of Members of European Parliament led by @gahler_michael, a dear friend of #Taiwan. We val…",
+      "translation": "转推@ChingteLai：热烈欢迎欧洲议会议员代表团，由台湾的好朋友@gahler_michael率领。我们重视...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 387,
+        "retweet": 289,
+        "like": 2360
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 09:25:35 +0000 2025",
+      "text": "RT @ChingteLai: China’s military provocations along the First Island Chain severely disrupt global maritime trade, air traffic &amp; regional p…",
+      "translation": "转推@ChingteLai：中国在第一岛链的军事挑衅严重扰乱全球海上贸易、空中交通和地区和平...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1392,
+        "retweet": 1082,
+        "like": 6244
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 12:22:54 +0000 2025",
+      "text": "RT @ChingteLai: At today’s Whole-of-Society Defense Resilience meeting, we reflected on the unwavering perseverance of our people through d…",
+      "translation": "转推@ChingteLai：在今天的全民防卫韧性会议上，我们反思了人民在挑战中展现的坚定毅力...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 214,
+        "retweet": 262,
+        "like": 1817
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 11:44:56 +0000 2025",
+      "text": "RT @ChingteLai: 鈴木馨祐衆院議員@SuzukiKeisukeMPと滝波宏文参院議員@HiroTakinamiの訪問団と相次ぎ交流しました。台湾支持を行動で示して下さる日本の皆様に感謝します。地域情勢や世界経済の局面が変化する中、台日が互いの強みを生かし、より安全…",
+      "translation": "转推@ChingteLai：接连与铃木馨祐众议员@SuzukiKeisukeMP和滝波宏文参议员@HiroTakinami的访问团交流。感谢以实际行动支持台湾的日本朋友们。在区域局势和世界经济格局变化中，期待台日发挥各自优势...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 198,
+        "retweet": 761,
+        "like": 4668
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 11:44:53 +0000 2025",
+      "text": "RT @ChingteLai: 今天很高興，接連與鈴木馨祐@SuzukiKeisukeMP眾議員訪問團、瀧波宏文@HiroTakinami參議員訪問團見面交流，也感謝各位日本的好朋友以行動展現對台灣的支持。面對區域安全與全球經貿變局，期盼台日持續利用彼此的優勢，共同打造更安全、…",
+      "translation": "转推@ChingteLai：今天很高兴，接连与铃木馨祐@SuzukiKeisukeMP众议员访问团、滝波宏文@HiroTakinami参议员访问团见面交流，也感谢各位日本的好朋友以实际行动展现对台湾的支持。面对区域安全与全球经贸变局，期盼台日持续利用彼此的优势，共同打造更安全...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 26,
+        "retweet": 71,
+        "like": 726
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 09:55:07 +0000 2025",
+      "text": "News Releases: President Lai meets Japanese House of Representatives Member and LDP Executive Acting Secretary-General Hagiuda Koichi  \n\nhttps://t.co/0SMuOwuhxL https://t.co/57jKPXhgUb",
+      "translation": "新闻稿：赖总统会见日本众议员、自民党执行代理干事长萩生田光一",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 07:00:46 +0000 2025",
+      "text": "News Releases: President Lai delivers recorded address following national policy discussion with government branch leaders  \n\nhttps://t.co/kMsDGoQx3j https://t.co/24uOdswP99",
+      "translation": "新闻稿：赖总统在与政府各部门负责人进行国家政策讨论后发表录影讲话",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 46,
+        "like": 258
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 02:01:52 +0000 2026",
+      "text": "RT @ChingteLai: In 2025, #TeamTaiwan proved what unity makes possible, from economic growth at a 15-year high to the launch of our 1st Taiw…",
+      "translation": "转推@ChingteLai：2025年，#台湾队证明了团结的力量，从15年来最高的经济增长到首艘台湾潜艇的发射...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 437,
+        "retweet": 535,
+        "like": 4049
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 01:41:27 +0000 2025",
+      "text": "RT @ChingteLai: Merry Christmas to everyone getting in the spirit—here in #Taiwan &amp; around the world. ‘Tis the season, so let’s be grateful…",
+      "translation": "转推@ChingteLai：祝所有沉浸在节日气氛中的人们圣诞快乐——无论是在#台湾还是世界各地。这是感恩的季节，让我们心怀感激...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 416,
+        "retweet": 805,
+        "like": 6157
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 11:43:29 +0000 2025",
+      "text": "News Releases: Presidential Office thanks Trump administration for announcing its second military sale to Taiwan\n\nhttps://t.co/HqDUi90EJj https://t.co/lMdl8e7rIK",
+      "translation": "新闻稿：总统府感谢特朗普政府宣布对台湾的第二笔军售",
+      "stance": "负面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 17,
+        "like": 68
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 09:35:08 +0000 2025",
+      "text": "RT @ChingteLai: 萩生田衆議院議員@officeofhagiudaの再訪を歓迎すると共に、東京都八王子市の皆様とお会いでき光栄です。台日関係を支えて下さる皆さまと、台湾海峡の平和と安定を重視して下さる高市首相に感謝申し上げます。台日が連携を深め、自由で開かれたイン…",
+      "translation": "转推@ChingteLai：欢迎萩生田众议员@officeofhagiuda再次访台，也很荣幸与东京都八王子市的各位见面。感谢支持台日关系的各位，以及重视台湾海峡和平与稳定的高市首相。期待台日深化合作，共同实现自由开放的印太...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 274,
+        "retweet": 1888,
+        "like": 11932
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 09:35:06 +0000 2025",
+      "text": "RT @ChingteLai: 誠摯歡迎萩生田光一@officeofhagiuda眾議員再次率團訪台，也很高興與多位來自東京八王子市的朋友見面。我要感謝各位長期支持台日關係發展，也感謝高市首相多次在各種場合表達對台海和平穩定的重視，期盼台灣和日本能持續在各領域深化合作，共同實現…",
+      "translation": "转推@ChingteLai：诚挚欢迎萩生田光一@officeofhagiuda众议员再次率团访台，也很高兴与多位来自东京八王子市的朋友见面。我要感谢各位长期支持台日关系发展，也感谢高市首相多次在各种场合表达对台海和平稳定的重视，期盼台湾和日本能持续在各领域深化合作，共同实现...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 59,
+        "retweet": 142,
+        "like": 1157
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 00:34:28 +0000 2026",
+      "text": "News Releases: President Lai delivers 2026 New Year’s Address \n\nhttps://t.co/917QsOETIr https://t.co/dEitCEhChg",
+      "translation": "新闻稿：赖总统发表2026年新年讲话",
+      "stance": "负面",
+      "metrics": {
+        "reply": 6,
+        "retweet": 16,
+        "like": 93
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 09:13:53 +0000 2025",
+      "text": "Press Releases: President Lai meets Japanese House of Representatives Member and former Minister for Foreign Affairs Kono Taro\n\nhttps://t.co/hYmqDpndLm https://t.co/apf954nvA4",
+      "translation": "新闻稿：赖总统会见日本众议员、前外务大臣河野太郎",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 31,
+        "like": 197
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 08:02:58 +0000 2025",
+      "text": "RT @ChingteLai: 河野太郎衆議院議員@konotarogomameが率いる皆様とお会いしました。日本の政府と国会はたびたび台湾海峡の平和と安定の重要性を表明し、今年台湾が地震や水害等に見舞われた際には、日本の皆様から温かいお見舞いの言葉を頂きました。心より感謝する…",
+      "translation": "转推@ChingteLai：与河野太郎众议员@konotarogomame率领的各位见面。日本政府和国会多次表明台湾海峡和平与稳定的重要性，今年台湾遭遇地震和水灾时，也收到了日本朋友们的温暖慰问。衷心感谢...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 283,
+        "retweet": 544,
+        "like": 3836
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 08:02:55 +0000 2025",
+      "text": "RT @ChingteLai: 很高興與河野太郎眾議員@konotarogomame率領的訪團見面。日本政府及國會多次重申台海和平穩定的重要性，日本各界的好朋友們在今年台灣遭遇震災與風災時，也給予了溫暖慰問，我要對此表達誠摯謝意，並期盼雙方友誼長存。",
+      "translation": "转推@ChingteLai：很高兴与河野太郎众议员@konotarogomame率领的访团见面。日本政府及国会多次重申台海和平稳定的重要性，日本各界的好朋友们在今年台湾遭遇震灾与风灾时，也给予了温暖慰问，我要对此表达诚挚谢意，并期盼双方友谊长存。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 68,
+        "retweet": 64,
+        "like": 675
+      }
+    }
+  ]
+}

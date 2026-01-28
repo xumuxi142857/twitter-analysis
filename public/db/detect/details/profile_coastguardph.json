@@ -1,0 +1,317 @@
+{
+  "id": "profile_coastguardph.json",
+  "_fingerprint": "c1d24b62ceae3e5ba2a4541238eca6da",
+  "name": "coastguardph",
+  "username": "coastguardph",
+  "category": "media",
+  "daily_count": 10.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度尽责性、中等外向性、低神经质、中等开放性、中等宜人性",
+      "detail": "基于言论样本分析：1. 尽责性极高：表现为高度结构化、规律性的信息发布（每日分时段发布海事安全通告），强调程序化操作和职责履行。2. 外向性中等：积极进行公共沟通和形象展示（如LOOK系列），但内容以官方通报为主，缺乏个人化表达。3. 神经质低：情绪稳定，应对危机事件（如搜救、医疗后送）时保持专业冷静语调。4. 开放性中等：接受国际合作（如欢送美国大使），但创新性表达有限。5. 宜人性中等：展现合作态度（与DOTrPH等机构联动），但立场坚定，不妥协于安全标准。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在官僚主义倾向、过度依赖程序化响应、公众形象维护压力",
+      "detail": "1. 官僚主义倾向：高度程序化的通告发布可能降低对突发非标准事件的灵活应对能力。2. 程序依赖：安全监控按固定时段划分，可能形成“时段外盲区”的心理依赖。3. 形象维护压力：频繁使用“LOOK”等宣传性标签，显示对公众认可和机构形象的高度重视，可能影响危机时的透明度。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "程序导向认知、风险规避优先、机构中心视角",
+      "detail": "1. 程序导向：认知框架围绕既定监控、报告、响应流程构建。2. 风险规避：优先识别和通报海事风险，认知焦点在预防而非事后应对。3. 机构中心视角：从菲律宾海岸警卫队（PCG）的职责和能力出发解读事件，强化机构角色认知。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "固定发布模式易被预测、过度依赖标准操作程序（SOP）、宣传与行动可能脱节",
+      "detail": "1. 模式可预测性：每日分时段发布安全通告，行为模式高度规律，易被外部观察者掌握活动节奏。2. SOP依赖：在医疗后送（MEDEVAC）、搜救等行动中强调程序执行，可能忽视非标准情境下的创新应对。3. 宣传-行动脱节风险：积极宣传成功案例（如找到失踪船员、协助寻尸）可能掩盖行动中的不足或延迟，形成认知偏差。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "民族主义倾向、机构利益优先、对美合作偏好",
+      "detail": "1. 民族主义倾向：使用菲律宾国旗表情（🇵🇭），强调国家主权和海洋权益，立场可能偏向强硬。2. 机构利益优先：认知中PCG的角色和权威处于中心，可能低估其他机构或民间力量的作用。3. 对美合作偏好：高调欢送美国大使（Departure Honors），显示对美关系的重视，可能影响多边平衡。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "监控覆盖可能存在盲区、资源分配依赖常规时段、国际合作能力局限",
+      "detail": "1. 监控盲区：按4小时时段发布通告，暗示监控能力可能受时段或区域限制，非连续全覆盖。2. 资源分配惯性：行动（如MEDEVAC）和通告基于常规部署，应对大规模或同时多发事件的能力存疑。3. 国际合作局限：虽展示对美合作，但未提及其他区域伙伴，能力认知可能局限于双边框架。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "过度自信于机构效能、危机叙事简单化、公众期待管理不足",
+      "detail": "1. 效能过度自信：宣传成功案例（如“muling pinatunayan...husay at dedikasyon” - 再次证明了其卓越和奉献）可能滋生自满，降低对潜在失败的警觉。2. 危机叙事简单化：将复杂事件（如 landfill collapse - 垃圾填埋场坍塌）简化为“协助寻尸”的成功故事，忽视系统性风险。3. 公众期待管理：高频率宣传可能抬高公众对PCG即时响应的期待，实际能力无法匹配时易引发信任危机。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升机构公众形象、强化海事管辖权主张、深化对美安全合作",
+      "detail": "1. 形象提升：通过规律性通告和成功案例宣传，塑造PCG专业、可靠、高效的公共形象，争取更多预算和公众支持。2. 管辖权主张：持续发布海事安全通告，隐含强化PCG在菲律宾海域的监控和执法权威，支持国家海洋主张。3. 对美合作深化：高调处理对美外交礼仪，暗示寻求加强双边安全合作，可能为未来联合行动或援助铺路。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "海事安全监控、搜救行动、医疗后送、国际外交礼仪、机构宣传",
+      "detail": "1. 海事安全监控：核心话题，涉及海域态势感知和风险通告。2. 搜救行动：如失踪船员（motorbanca Jonamae）搜救，展示应急响应能力。3. 医疗后送（MEDEVAC）：在Mariveles Bataan等地的医疗行动，体现人道主义角色。4. 国际外交礼仪：如欢送美国大使，涉及外交互动。5. 机构宣传：通过“LOOK”标签和成功故事，推广PCG成就和价值观。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      5,
+      0,
+      0
+    ],
+    [
+      1,
+      5,
+      0,
+      0
+    ],
+    [
+      1,
+      5,
+      0,
+      0
+    ],
+    [
+      1,
+      5,
+      0,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Thu Jan 15 23:22:42 +0000 2026",
+      "text": "⁨𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12MN to 4AM today, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/qwVNYZISXL\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/95x6wCuaaV",
+      "translation": "海事安全通告：2026年1月16日午夜12点至凌晨4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/qwVNYZISXL #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/95x6wCuaaV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 22:46:31 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 8PM to 12MN, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/lFGm6jtbXD\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/aZcUQOomg5",
+      "translation": "海事安全通告：2026年1月16日晚上8点至午夜12点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/lFGm6jtbXD #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/aZcUQOomg5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 09:08:09 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12NN to 4PM today, January 18, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/fTxjmCcaZu\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks https://t.co/ffLHzuwCU3",
+      "translation": "海事安全通告：2026年1月18日中午12点至下午4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/fTxjmCcaZu #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/ffLHzuwCU3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 05:45:14 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 8AM to12NN today, January 18, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/IPHa8rHkO4\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/Jmw8hvXOCM",
+      "translation": "海事安全通告：2026年1月18日上午8点至中午12点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/IPHa8rHkO4 #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/Jmw8hvXOCM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:18:54 +0000 2026",
+      "text": "⁨⁨𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4AM to 8AM today, January 18, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/pvod90LwBk\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/LXWxb83WaF",
+      "translation": "海事安全通告：2026年1月18日凌晨4点至上午8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/pvod90LwBk #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/LXWxb83WaF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 23:08:05 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12MN to 4AM today, January 18, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/EYpSKV6gUP\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/ll3H84yAiG",
+      "translation": "海事安全通告：2026年1月18日午夜12点至凌晨4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/EYpSKV6gUP #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/ll3H84yAiG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 13:55:15 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4PM to 8PM today, January 17, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/B06ehNFw82\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/O7lxtmeVJu",
+      "translation": "海事安全通告：2026年1月17日下午4点至晚上8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/B06ehNFw82 #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/O7lxtmeVJu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 09:54:11 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12NN to 4PM today, January 17, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/Nqk69x94RM\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/rS2e1U0Am8",
+      "translation": "海事安全通告：2026年1月17日中午12点至下午4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/Nqk69x94RM #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/rS2e1U0Am8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 09:36:33 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: Muling pinatunayan ni CGWD Kidlat ang husay at dedikasyon nito matapos matagumpay na makatulong sa pagtukoy at pagkakatagpo ng isang labi sa gumuhong landfill sa Cebu noong ika-15 ng Enero 2026.  \n\n✍️https://t.co/bY376CMvzI\n\n#DOTrPH 🇵🇭\n#CoastGuardPH https://t.co/T9EjB66kyy",
+      "translation": "看：CGWD Kidlat再次证明了其卓越能力和奉献精神，成功协助在2026年1月15日宿务倒塌的垃圾填埋场中定位并找到一具遗体。✍️https://t.co/bY376CMvzI #DOTrPH 🇵🇭 #CoastGuardPH https://t.co/T9EjB66kyy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 09:05:42 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG confirms that Mr. Melvin Salazar, one of the crew members of the previously missing motorbanca Jonamae, was found safe and in good physical condition on January 16, 2026.\n\n✍️https://t.co/OKAiGt5sd3\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/uuKmAwqcnw",
+      "translation": "看：菲律宾海岸警卫队确认，先前失踪的摩托艇Jonamae的一名船员Melvin Salazar先生于2026年1月16日被找到，安全且身体状况良好。✍️https://t.co/OKAiGt5sd3 #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/uuKmAwqcnw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 08:25:18 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 8AM to 12NN today, January 17, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/IBDv5bG6M3\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/MS6H91EecD",
+      "translation": "海事安全通告：2026年1月17日上午8点至中午12点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/IBDv5bG6M3 #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/MS6H91EecD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 02:42:19 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4AM to 8AM today, January 17, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/ZFdFNSMHDx\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/lGzTqwyHTQ",
+      "translation": "海事安全通告：2026年1月17日凌晨4点至上午8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/ZFdFNSMHDx #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/lGzTqwyHTQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 23:35:28 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12MN to 4AM today, January 17, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/ofsF4t1soH\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/6WZyMnUg3u",
+      "translation": "海事安全通告：2026年1月17日午夜12点至凌晨4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/ofsF4t1soH #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/6WZyMnUg3u",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 13:23:25 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4PM to 8PM today, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/YmjfCRf01z\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/BCIaWu7qGt",
+      "translation": "海事安全通告：2026年1月16日下午4点至晚上8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/YmjfCRf01z #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/BCIaWu7qGt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 10:23:00 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12NN to 4PM today, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/5aehCl26B4\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/FMrwOp4mpB",
+      "translation": "海事安全通告：2026年1月16日中午12点至下午4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/5aehCl26B4 #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/FMrwOp4mpB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 06:55:44 +0000 2026",
+      "text": "𝐏𝐂𝐆 𝐂𝐎𝐍𝐃𝐔𝐂𝐓𝐒 𝐌𝐄𝐃𝐄𝐕𝐀𝐂 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍 𝐈𝐍 𝐌𝐀𝐑𝐈𝐕𝐄𝐋𝐄𝐒 𝐁𝐀𝐓𝐀𝐀𝐍  \n\n✍️https://t.co/Ou2Om8HLnz\n \n#DOTrPH 📷\n #CoastGuardPH \n#MaritimeSectorWorks https://t.co/otoSWis9Wt",
+      "translation": "菲律宾海岸警卫队在巴丹省马里韦莱斯进行医疗后送行动 ✍️https://t.co/Ou2Om8HLnz #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/otoSWis9Wt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 06:47:34 +0000 2026",
+      "text": "𝐏𝐂𝐆 𝐂𝐎𝐍𝐃𝐔𝐂𝐓𝐒 𝐌𝐄𝐃𝐄𝐕𝐀𝐂 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍 𝐈𝐍 𝐌𝐀𝐑𝐈𝐕𝐄𝐋𝐄𝐒 𝐁𝐀𝐓𝐀𝐀𝐍\n\n✍️https://t.co/Ou2Om8HLnz\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks",
+      "translation": "菲律宾海岸警卫队在巴丹省马里韦莱斯进行医疗后送行动 ✍️https://t.co/Ou2Om8HLnz #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 05:39:29 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 8AM to 12PM today, January 16, 2026, the PCG monitored the following:\n\n✍️https://t.co/Irht1XN0z9\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/bICc2e2hS4",
+      "translation": "海事安全通告：2026年1月16日上午8点至中午12点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/Irht1XN0z9 #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/bICc2e2hS4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 05:08:08 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG rendered Departure Honors to outgoing U.S. Ambassador MaryKay L. Carlson r held at PCG National Headquarters in Port Area, Manila on January 15, 2026.\n\n✍️https://t.co/A2E7sAhnoR\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/NKHt3HJ2fs",
+      "translation": "看：菲律宾海岸警卫队于2026年1月15日在马尼拉港区PCG国家总部为即将离任的美国大使MaryKay L. Carlson举行离任荣誉仪式。✍️https://t.co/A2E7sAhnoR #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/NKHt3HJ2fs",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 01:21:42 +0000 2026",
+      "text": "⁨𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4AM to 8AM today, January 16, 2026, the PCG monitored the following:\n\n✍️https://t.co/39IWESEDvk\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/K0NnqW1Fgn",
+      "translation": "海事安全通告：2026年1月16日凌晨4点至上午8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/39IWESEDvk #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/K0NnqW1Fgn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 0
+      }
+    }
+  ]
+}

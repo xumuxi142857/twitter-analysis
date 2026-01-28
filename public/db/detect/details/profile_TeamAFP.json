@@ -1,0 +1,313 @@
+{
+  "id": "profile_TeamAFP.json",
+  "_fingerprint": "41306bbf460150fe0668c9498f109c60",
+  "name": "TeamAFP",
+  "username": "TeamAFP",
+  "category": "media",
+  "daily_count": 1.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度尽责性、外向性、宜人性，中等开放性，低神经质",
+      "detail": "尽责性极高：强调纪律、责任、程序（如反腐败声明、财务透明度、官方程序）。外向性高：积极展示形象（社交媒体活动、公众活动、宣传内容）。宜人性高：强调团结、服务、保护（#OneAFPOnePhilippines、救灾行动、反虚假信息）。开放性中等：接受国际合作（与美国印太司令部合作）但保持传统价值观（引用前总统名言、传统仪式）。神经质低：情绪稳定，应对压力时表现坚定（处理虚假信息、自然灾害时保持冷静）。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在的僵化、过度防御、权威依赖",
+      "detail": "僵化倾向：严格遵循传统和程序（如新年致辞、晋升仪式），可能缺乏灵活性。过度防御：对批评或不同意见反应强烈（多次发布反虚假信息警告，标记“DISINFORMATION”）。权威依赖：高度依赖层级结构和官方认可（如总统监督晋升、引用前总统言论）。潜在的自恋倾向：通过宣传材料（如ASMR视频、宣传口号）过度美化自身形象。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "制度化思维、二元对立、风险规避",
+      "detail": "制度化思维：优先考虑结构、政策和官方流程（如财务公告、声明遵循政策）。二元对立：将问题框架为“忠诚vs.背叛”、“真实vs.虚假”（如反虚假信息帖子、强调统一）。风险规避：强调稳定、安全和预防（警告不要分享煽动性内容，关注准备状态）。群体中心：强烈认同国家、机构和团队（#StrongAFPStrongPhilippines，强调“Para sa Bayan”）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对公众认知过度敏感，易受虚假信息影响，依赖传统沟通方式",
+      "detail": "对公众认知敏感：投入大量资源管理社交媒体形象和反虚假信息，可能分散对核心任务的注意力。易受虚假信息影响：频繁回应虚假声明表明容易受到信息战的影响。沟通僵化：依赖官方声明、传统媒体和层级简报，可能无法有效接触多样化受众。仪式化行为：强调仪式（如升旗仪式、新年致辞）可能掩盖实质性问题。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "强烈民族主义可能限制国际合作，对批评的防御姿态可能损害信誉",
+      "detail": "民族主义局限：强烈强调菲律宾主权（#OurSeasOurRightsOurFuture）可能使与某些国际伙伴的合作复杂化。防御姿态：迅速驳回批评（如对Karapatan声明的回应）可能被视为不透明或不接受问责。政治对齐：公开与现任政府保持一致（总统监督晋升）可能被视为缺乏独立性。联盟依赖：与美国军事合作（如与印太司令部会面）可能引发对其他伙伴的担忧。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "资源依赖，官僚效率问题，技术采用可能滞后",
+      "detail": "资源依赖：财务公告显示对政府预算分配的依赖，可能影响运营。官僚效率：财务流程延迟（如SARO/NCA发布）表明可能存在官僚障碍。技术采用：尽管有数字存在努力，但可能滞后于快速演变的社交媒体环境。培训差距：专注于传统军事能力，可能未充分准备应对混合威胁（如虚假信息、网络行动）。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "群体思维风险，过度认同机构可能削弱批判性思维，压力下可能决策僵化",
+      "detail": "群体思维风险：强调统一（#OneAFPOnePhilippines）可能抑制内部异议或创新思维。机构认同过度：强烈认同AFP可能削弱对更广泛社会问题的批判性参与。压力下僵化：在危机中（如虚假信息、自然灾害）可能依赖标准程序而非适应性解决方案。道德绝对主义：使用“忠诚”、“信任”等术语可能掩盖道德复杂性。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固国内政治支持，提升国际形象，确保资源分配，维护机构合法性",
+      "detail": "巩固国内支持：通过公共服务（救灾）、反虚假信息和爱国内容提升公众信任。提升国际形象：展示与美国等伙伴的合作，参与东盟倡议，以提升区域地位。确保资源：强调透明度和反腐败以证明预算分配的合理性，并突出运营需求（如财务公告）。维护合法性：通过传统仪式、官方声明和历史引用强化其作为国家稳定力量的角色。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国家安全、国际军事合作、国内稳定、公众信任、机构治理",
+      "detail": "国家安全：重点关注领土防御（西菲律宾海）、联盟（与美国）和应急准备。国际军事合作：与美国印太司令部等实体的互动，参与东盟倡议。国内稳定：反叛乱警告、救灾行动以及作为“稳定力量”的角色。公众信任：通过透明度努力（反腐败声明）、公共服务和社交媒体参与建立信任。机构治理：财务程序、晋升流程、政策遵守和层级沟通。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 10:00:31 +0000 2026",
+      "text": "RT @USEmbassyPH: 🇺🇸@INDOPACOM Commander Adm. Samuel Paparo and 🇵🇭@TeamAFP Chief of Staff Gen. Romeo Brawner Jr. joined forces at the Honolu…",
+      "translation": "转推 @USEmbassyPH：🇺🇸@INDOPACOM 指挥官塞缪尔·帕帕罗上将和🇵🇭@TeamAFP 参谋长小罗密欧·布劳纳将军在火奴鲁鲁会面...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 22,
+        "like": 86
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 00:24:35 +0000 2026",
+      "text": "Land ✅\nSea ✅\nSky ✅\nAllegiance 🟰 🇵🇭\n\nAFP x Fate of Ophelia (Taylor Swift)\n\n(No copyright infringement intended)\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/5eVSOWKxgn",
+      "translation": "陆地 ✅ 海洋 ✅ 天空 ✅ 忠诚 🟰 🇵🇭 菲律宾武装部队 x 奥菲莉亚的命运（泰勒·斯威夫特）（无意侵犯版权）#AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #MatatagNaSandigan 🫡🇵🇭 https://t.co/5eVSOWKxgn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 15,
+        "like": 50
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 09:56:53 +0000 2026",
+      "text": "DIRECT FROM THE SOURCE | AFP Spokesperson Col. Francel Margareth Padilla, alongside AFP Spokesperson for the West Philippine Sea, Rear Admiral Roy Vincent Trinidad PN addressed pressing national issues during a recent press briefing in Camp Aguinaldo. The briefing covered matters https://t.co/JoLunl3soH",
+      "translation": "直接来自消息源 | 菲律宾武装部队发言人弗朗塞尔·玛格丽特·帕迪拉上校与西菲律宾海发言人罗伊·文森特·特立尼达海军少将最近在阿吉纳尔多营举行新闻发布会，讨论了紧迫的国家问题。发布会涵盖了... https://t.co/JoLunl3soH",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 09:56:56 +0000 2026",
+      "text": "Newly Promoted AFP Generals, Flag Officers and Foreign Military Graduate Take Oath Before President Marcos\n\nThirty-seven (37) newly promoted Generals and Flag Officers of the Armed Forces of the Philippines (AFP), together with a newly graduated officer from a Foreign https://t.co/3sYiP4V9sG",
+      "translation": "新晋升的菲律宾武装部队将军、高级军官及外国军事毕业生在马科斯总统面前宣誓就职 三十七名（37）新晋升的菲律宾武装部队将军和高级军官，以及一名刚从外国军事院校毕业的军官... https://t.co/3sYiP4V9sG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 24
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 02:17:12 +0000 2026",
+      "text": "𝗙𝗢𝗟𝗟𝗢𝗪 𝗨𝗦 𝗢𝗡 𝗢𝗨𝗥 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗔𝗡𝗗 𝗩𝗘𝗥𝗜𝗙𝗜𝗘𝗗 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦!\n\nWe are leveling up our digital presence to keep you informed, inspired, and protected from disinformation!\n\nWhether it’s a blue check or our official seal, these are https://t.co/jDzPB7O5yd",
+      "translation": "在我们的官方和认证社交媒体账户上关注我们！ 我们正在提升数字存在感，以保持您信息灵通、受到启发，并免受虚假信息的影响！ 无论是蓝勾认证还是我们的官方印章，这些都是... https://t.co/jDzPB7O5yd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 5,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:46 +0000 2026",
+      "text": "QUOTE OF THE WEEK |\n\n\"Our first line of defense is the heart, mind, and spirit of the individual Filipino.\" - Carlos P. Garcia\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/W6Fy8izQ6r",
+      "translation": "本周名言 | “我们的第一道防线是每个菲律宾人的心灵、思想和精神。” - 卡洛斯·P·加西亚 #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #MatatagNaSandigan 🫡🇵🇭 https://t.co/W6Fy8izQ6r",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 05:31:22 +0000 2026",
+      "text": "IN PHOTOS | The Armed Forces of the Philippines, through the Philippine Army’s 53rd Engineer Brigade, swiftly deployed its Search, Rescue, and Retrieval Team to support ongoing operations at the landslide site in Barangay Binaliw, Cebu City.\n\nWorking alongside local government https://t.co/IbXaNMt4WG",
+      "translation": "图片报道 | 菲律宾武装部队通过菲律宾陆军第53工兵旅，迅速部署了搜索、救援和打捞队，以支持在宿务市比纳利乌村滑坡现场的持续行动。 与地方政府... https://t.co/IbXaNMt4WG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 09:05:38 +0000 2026",
+      "text": "READ: AFP Statement on Mr Chavit Singson’s Open Letter to the AFP Chief of Staff\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/TIB4wnWySd",
+      "translation": "阅读：菲律宾武装部队关于查维特·辛森先生致菲律宾武装部队参谋长的公开信的声明 #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #MatatagNaSandigan 🫡🇵🇭 https://t.co/TIB4wnWySd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 5,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 08:25:33 +0000 2026",
+      "text": "AFP Holds Traditional New Year’s Call; CSAFP Affirms AFP as Stabilizing, Unifying Force\n\nCAMP AGUINALDO, Quezon City — The Armed Forces of the Philippines (AFP) reaffirmed its role as a stabilizing and unifying force as it held its Traditional New Year’s Call on January 8, 2026, https://t.co/ouKG4lTdwy",
+      "translation": "菲律宾武装部队举行传统新年拜访；参谋长重申菲律宾武装部队作为稳定和统一力量的角色 奎松市阿吉纳尔多营 — 菲律宾武装部队（AFP）在2026年1月8日举行传统新年拜访时，重申了其作为稳定和统一力量的角色... https://t.co/ouKG4lTdwy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 7,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 08:52:25 +0000 2026",
+      "text": "WATCH: With renewed strength and unwavering commitment, the AFP stands ready—Para sa Bayan, Para sa Sambayanang Pilipino.\n\nThank you, 2025. Welcome, 2026!\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#AFPat90\n#MatatagNaSandigan https://t.co/mtXQRSO3vL",
+      "translation": "观看：以新的力量和坚定的承诺，菲律宾武装部队已准备就绪——为了国家，为了菲律宾人民。 感谢2025年。欢迎2026年！ #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #AFPat90 #MatatagNaSandigan https://t.co/mtXQRSO3vL",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 7,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 05:30:31 +0000 2026",
+      "text": "READ | The Armed Forces of the Philippines Finance Center informs all AFP pensioners that the Department of Budget and Management (DBM) has not yet released the Special Allotment Release Order (SARO) and Notice of Cash Allocation (NCA) for the 1st Quarter of Fiscal Year 2026.\n\nIn https://t.co/pAIAl7xM7s",
+      "translation": "阅读 | 菲律宾武装部队财务中心通知所有菲律宾武装部队养老金领取者，预算和管理部（DBM）尚未发布2026财年第一季度的特别拨款发放令（SARO）和现金分配通知（NCA）。 在... https://t.co/pAIAl7xM7s",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 06:32:45 +0000 2026",
+      "text": "⚠️ WARNING ⚠️ The Armed Forces of the Philippines cautions the public against sharing or engaging with content that incites participation in armed struggle, rebellion, or violence. Such acts are punishable under Philippine law.\n\nThe AFP reminds everyone that encouraging or https://t.co/Np9Jm9tBdO",
+      "translation": "⚠️ 警告 ⚠️ 菲律宾武装部队提醒公众不要分享或参与煽动参与武装斗争、叛乱或暴力的内容。此类行为根据菲律宾法律可受惩罚。 菲律宾武装部队提醒所有人，鼓励或... https://t.co/Np9Jm9tBdO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 34,
+        "like": 85
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 06:25:50 +0000 2026",
+      "text": "‼️DISINFORMATION‼️\n\nThe Armed Forces of the Philippines (AFP) strongly warns the public against circulating social media posts and online content that falsely claim divisions within the military, allege political realignments, or suggest that senior officers are backing any https://t.co/32D42IAwgw",
+      "translation": "‼️虚假信息‼️ 菲律宾武装部队（AFP）强烈警告公众不要传播社交媒体帖子和在线内容，这些内容虚假声称军队内部存在分裂、指控政治重组，或暗示高级军官支持任何... https://t.co/32D42IAwgw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 20,
+        "like": 45
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 10:00:03 +0000 2026",
+      "text": "ASMR AFP EDITION | The Mess Kit\n\nThe mess kit is a soldier’s constant in the heat of sustained combat operations, ensuring the strength to push forward even when relying on rations in the most remote outposts. It is more than a meal tool; it symbolizes a soldier’s unique identity https://t.co/pDfrWsxdt6",
+      "translation": "ASMR 菲律宾武装部队版 | 餐具套装 餐具套装是士兵在持续作战行动中的常备物品，确保即使在最偏远的前哨依靠口粮时也有力量继续前进。它不仅仅是一个用餐工具；它象征着士兵的独特身份... https://t.co/pDfrWsxdt6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 07:03:00 +0000 2026",
+      "text": "READ |  Statement on AFP Stands Firm Against Corruption, Commits to Accountability and Due Process\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#AFPat90\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/zsrmu1Z3Mk",
+      "translation": "阅读 | 关于菲律宾武装部队坚决反对腐败，承诺问责和正当程序的声明 #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #AFPat90 #MatatagNaSandigan 🫡🇵🇭 https://t.co/zsrmu1Z3Mk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 04:09:45 +0000 2026",
+      "text": "READ | AFP Statement On AFP’s transparency, accountability, and strict adherence to governing policies\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#AFPat90\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/G5oWn8OU3t",
+      "translation": "阅读 | 菲律宾武装部队关于透明度、问责制和严格遵守治理政策的声明 #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #AFPat90 #MatatagNaSandigan 🫡🇵🇭 https://t.co/G5oWn8OU3t",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 10:37:24 +0000 2026",
+      "text": "🚨 DISINFORMATION ALERT 🚨\n\nThe Armed Forces of the Philippines (AFP) warns the public against a YouTube video currently circulating online that falsely claims a reversal of the Philippines’ security alliances. This video contains false information and commentary that do not https://t.co/aMBRuZB8Rq",
+      "translation": "🚨 虚假信息警报 🚨 菲律宾武装部队（AFP）警告公众注意一个目前在网上流传的YouTube视频，该视频虚假声称菲律宾的安全联盟发生逆转。该视频包含虚假信息和评论，这些... https://t.co/aMBRuZB8Rq",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 12,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 06:44:53 +0000 2026",
+      "text": "AFP Chief Calls for Gratitude, Forgiveness, Excellence, and Hope at AFP’s First Flag-Raising Ceremony of 2026\n\nThe Armed Forces of the Philippines (AFP) opened the year with its first flag-raising ceremony for 2026, led by General Romeo S. Brawner Jr., AFP Chief of Staff, at the https://t.co/cT4B7D2Il1",
+      "translation": "菲律宾武装部队参谋长在2026年首次升旗仪式上呼吁感恩、宽恕、卓越和希望 菲律宾武装部队（AFP）以2026年首次升旗仪式开启了新的一年，由菲律宾武装部队参谋长小罗密欧·S·布劳纳将军在... https://t.co/cT4B7D2Il1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 10,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 06:35:31 +0000 2026",
+      "text": "AFP Chief highlights Interagency Unity in Mustering of ASEAN 2026 Emergency Forces\n\nThe Armed Forces of the Philippines (AFP) underscored the importance of interagency unity and operational readiness as emergency response forces were formally mustered at Camp Aguinaldo on January https://t.co/4It5iTxfsa",
+      "translation": "菲律宾武装部队参谋长强调在2026年东盟紧急部队集结中的跨机构团结 菲律宾武装部队（AFP）强调了跨机构团结和作战准备的重要性，因为紧急响应部队于1月在阿吉纳尔多营正式集结... https://t.co/4It5iTxfsa",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 11,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 11:28:55 +0000 2026",
+      "text": "READ: AFP Statement on Karapatan’s Misleading Claims in Occidental Mindoro\n\n#AFPyoucanTRUST\n#OneAFPOnePhilippines\n#StrongAFPStrongPhilippines\n#OurSeasOurRightsOurFuture\n#AFPat90\n#MatatagNaSandigan 🫡🇵🇭 https://t.co/4r45txhiQQ",
+      "translation": "阅读：菲律宾武装部队关于Karapatan在西民都洛省误导性声明的声明 #AFPyoucanTRUST #OneAFPOnePhilippines #StrongAFPStrongPhilippines #OurSeasOurRightsOurFuture #AFPat90 #MatatagNaSandigan 🫡🇵🇭 https://t.co/4r45txhiQQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 17
+      }
+    }
+  ]
+}

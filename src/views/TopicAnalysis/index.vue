@@ -27,7 +27,7 @@
             <el-card class="modern-card" style="margin-bottom: 20px;">
               <template #header>
                 <div class="card-header">
-                  <span>📊 舆情立场分布 (共 {{ currentData.total_analyzed || 0 }} 条)</span>
+                  <span>📊 舆情立场分布</span>
                 </div>
               </template>
               <div ref="pieChartRef" style="height: 220px; width: 100%;"></div>
@@ -126,6 +126,8 @@
 </template>
 
 <script setup lang="ts">
+
+
 import { ref, computed, onMounted, watch, nextTick } from 'vue';
 import axios from 'axios';
 import * as echarts from 'echarts'; // 引入 ECharts
@@ -186,10 +188,17 @@ const renderPieChart = () => {
   if (pieChartInstance) pieChartInstance.dispose();
   pieChartInstance = echarts.init(pieChartRef.value);
 
-  const data = currentData.value.stance_stats; // 格式: [{name: 'xx', value: 10}, ...]
+  //const data = currentData.value.stance_stats; // 格式: [{name: 'xx', value: 10}, ...]
+  const rawData = currentData.value.stance_stats; // 格式: [{name: 'xx', value: 10}, ...]
+
+  const cleanedData = rawData.map(item => ({
+    ...item,
+    // 使用正则去掉括号及其内容，例如 "亲华(positive)" 变为 "亲华"
+    name: item.name.replace(/\s*\(.*?\)\s*/g, '') 
+  }));
 
   const option = {
-    tooltip: { trigger: 'item' },
+    tooltip: { trigger: 'item' , formatter: '{b}: {d}%'},
     legend: { bottom: '0%', left: 'center' },
     series: [
       {
@@ -199,8 +208,8 @@ const renderPieChart = () => {
         avoidLabelOverlap: false,
         itemStyle: { borderRadius: 5, borderColor: '#fff', borderWidth: 2 },
         label: { show: false, position: 'center' },
-        emphasis: { label: { show: true, fontSize: 16, fontWeight: 'bold' } },
-        data: data,
+        emphasis: { label: { show: false, fontSize: 16, fontWeight: 'bold' ,formatter: '{d}%'} },
+        data: cleanedData,
         color: ['#10b981', '#f59e0b', '#ef4444'] // 绿(亲华)，黄(中立)，红(反华)
       }
     ]

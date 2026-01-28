@@ -1,0 +1,313 @@
+{
+  "id": "profile_yourphilarmy.json",
+  "_fingerprint": "97d9d7374d1aa94f2935f3c6f86c8654",
+  "name": "yourphilarmy",
+  "username": "yourphilarmy",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度尽责性、外向性、开放性，中等宜人性，低神经质",
+      "detail": "基于言论样本分析：高度尽责性体现在对制度完善（如IGS论坛、年度审查）、任务执行（射击比赛、机器人开发）的强调；高度外向性表现为频繁展示公共活动（健康博览会、圣诞活动）、国际合作（东盟会议、印尼合作）；高度开放性反映在拥抱技术创新（COBRA项目、网络安全）、政策更新（CMO创新审查）；中等宜人性体现在对士兵福利（伤员礼物、医院访问）的关注，但以机构身份为主；低神经质表现为稳定、自信的叙事风格，无焦虑或不确定表达。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "机构性自恋、过度仪式化、潜在官僚僵化",
+      "detail": "机构性自恋：频繁使用“世界级”、“最强”等自我颂扬标签（如#StrongerArmyStrongerCountry），强调机构优越性；过度仪式化：通过重复性活动（如年度检查、论坛、节日启动）维持形象，可能掩盖效率问题；潜在官僚僵化：依赖层级结构（如指挥官任命、IGS论坛），可能抑制基层创新或快速响应。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "制度中心主义、技术乐观主义、渐进改良主义",
+      "detail": "制度中心主义：认知以军队制度为框架（如通过论坛“弥合系统差距”、年度审查评估政策），视机构为问题解决核心；技术乐观主义：积极看待技术方案（如机器人开发、网络安全研讨会、本地制造项目），认为技术能增强能力；渐进改良主义：偏好逐步改进（如“评估创新”、“年度审查”），而非激进变革，强调稳定演进。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖公共形象维护、仪式性活动可能稀释资源、对突发危机准备不足",
+      "detail": "过度依赖公共形象维护：大量资源投入形象工程（如媒体展示、社交媒体活动），若形象受损可能导致过度反应或资源错配；仪式性活动稀释资源：频繁举办仪式性活动（如健康博览会、圣诞启动）可能占用作战或训练资源；对突发危机准备不足：认知聚焦计划内活动（如研讨会、检查），可能低估非传统或突发威胁（如非对称冲突、内部动荡）。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "民族主义叙事可能限制国际合作灵活性、对多边机制依赖度高",
+      "detail": "民族主义叙事限制灵活性：强调“新菲律宾的坚定支柱”（#MatatagNaSandiganNgBagongPilipinas）等民族主义标签，可能在与利益冲突方合作时僵化；对多边机制依赖度高：深度参与东盟、ICRC等多边框架（如东盟军士长会议、日内瓦公约评论），若这些机制失效或对立，可能削弱立场稳定性。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "技术整合风险、人力资源压力、网络安全依赖外部合作",
+      "detail": "技术整合风险：快速采纳新技术（如机器人、网络安全系统）可能面临整合挑战、维护成本高或技术故障；人力资源压力：强调“赋能士官”（NCO Empowerment）和培训（如领导力课程），显示对人力资源的依赖，若士气或招募下滑可能削弱能力；网络安全依赖外部合作：网络安全研讨会与印尼交流显示对外部专业知识的依赖，可能暴露漏洞或受制于人。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "机构认同可能抑制批判思维、过度乐观导致风险评估不足",
+      "detail": "机构认同抑制批判思维：强烈认同“服务人民、保卫土地”（#ServingthePeopleSecuringtheLand）可能屏蔽内部批评或外部反馈，阻碍适应性学习；过度乐观导致风险评估不足：技术乐观主义和渐进主义可能低估复杂威胁（如混合战争、信息战），导致准备不足。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升区域军事影响力、现代化以应对内部安全挑战、巩固国内政治支持",
+      "detail": "提升区域军事影响力：通过东盟合作、国际会议（如ACAMM2025）展示领导力，意图增强在东南亚的安全角色；现代化以应对内部安全挑战：投资网络安全、本地项目（如COBRA）可能旨在应对国内叛乱、恐怖主义等非传统威胁；巩固国内政治支持：公共活动（如“军队关怀”健康展、圣诞活动）旨在塑造亲民形象，确保政府和社会支持。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "军事现代化、士兵福利、国际合作、网络安全、公共形象",
+      "detail": "军事现代化：涉及技术项目（机器人、射击能力、本地制造）、培训（领导力课程、研讨会）；士兵福利：关注伤员支持、健康活动、节日倡议；国际合作：包括东盟伙伴关系、印尼合作、ICRC参与；网络安全：强调网络防御研讨会、系统交流；公共形象：通过媒体事件、标签活动（如#ArmyCARES）维护正面公众认知。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      1,
+      0,
+      4
+    ],
+    [
+      2,
+      0,
+      5
+    ],
+    [
+      3,
+      0,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 80
+    },
+    {
+      "name": "同伴",
+      "value": 15
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Thu Aug 14 01:31:07 +0000 2025",
+      "text": "WESTMINCOM Commander takes Army’s Helm as the 67th Commanding General \n\nRead more here: https://t.co/Bfcf2PqQbN\n\n#MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand #67thCGPA\n#67thCGPA https://t.co/XcxXe4DatR",
+      "translation": "西棉兰老岛司令部指挥官接任陆军第67任总司令。详情请见：https://t.co/Bfcf2PqQbN #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand #67thCGPA #67thCGPA https://t.co/XcxXe4DatR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 51,
+        "retweet": 1,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 06:45:35 +0000 2025",
+      "text": "Philippine Army Strengthens Cyber Defense Through CSIRT Workshop\n\nRead more here: https://t.co/o72ZIn1H6i\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/ALi0oKcVsl",
+      "translation": "菲律宾陆军通过CSIRT研讨会加强网络防御。详情请见：https://t.co/o72ZIn1H6i #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/ALi0oKcVsl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 06:32:11 +0000 2025",
+      "text": "Army assesses CMO innovations, policies in annual review\n\nRead more here: https://t.co/hCk9UQaT9R\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/mOkus6B2kC",
+      "translation": "陆军在年度审查中评估CMO创新与政策。详情请见：https://t.co/hCk9UQaT9R #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/mOkus6B2kC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 04:31:23 +0000 2025",
+      "text": "Philippine Army Shooting Contingent showcases precision, teamwork in 33rd AARM\n\nRead more here: https://t.co/gHgb5Y1aFI\n\n#MatatagNaHukbongKatihan\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand\n#AARM2025 https://t.co/a3Qw497NXx",
+      "translation": "菲律宾陆军射击队在第33届AARM中展示精准与团队协作。详情请见：https://t.co/gHgb5Y1aFI #MatatagNaHukbongKatihan #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand #AARM2025 https://t.co/a3Qw497NXx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 04:16:17 +0000 2025",
+      "text": "Philippine Army honors heroes in AFP-wide hospital visit for wounded troops\n\nRead more here: https://t.co/SInlHHlHKu\n\n#MatatagNaHukbongKatihan\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/KAum2yQVtO",
+      "translation": "菲律宾陆军在全军医院探访中向受伤部队英雄致敬。详情请见：https://t.co/SInlHHlHKu #MatatagNaHukbongKatihan #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/KAum2yQVtO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 04:01:07 +0000 2025",
+      "text": "Army Chief affirms Army-to-Army partnership with ASEAN counterparts\n\nRead more here: https://t.co/R8boUXg7YZ\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand\n#ACAMM2025 https://t.co/pMdIQTh3fm",
+      "translation": "陆军首长确认与东盟同行的陆军间伙伴关系。详情请见：https://t.co/R8boUXg7YZ #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand #ACAMM2025 https://t.co/pMdIQTh3fm",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 03:30:24 +0000 2025",
+      "text": "ALLEGIANCE| Hands? Steady. The team? Locked in.\n\nPhilippine Army's service at its best.\n\n🎶: \"The Fate of Ophelia\" by Taylor Swift\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/cYxw3t3vqj",
+      "translation": "忠诚| 双手？稳健。团队？锁定。菲律宾陆军的最佳服务。🎶：泰勒·斯威夫特《奥菲莉亚的命运》#MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/cYxw3t3vqj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 03:15:38 +0000 2025",
+      "text": "Philippine Army Highlights NCO Empowerment, HADR Expertise at ASEAN Sergeants Major Meeting\n\nRead more here: https://t.co/XIMXACS4ch\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/ySIGrBJx64",
+      "translation": "菲律宾陆军在东盟军士长会议上强调士官赋权与HADR专长。详情请见：https://t.co/XIMXACS4ch #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/ySIGrBJx64",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Dec 01 02:52:51 +0000 2025",
+      "text": "Philippines, Indonesia bolster Cyber Systems exchange\n\nRead more here: https://t.co/hvkvpHY9Ij\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/SbefWr1AbK",
+      "translation": "菲律宾与印度尼西亚加强网络系统交流。详情请见：https://t.co/hvkvpHY9Ij #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/SbefWr1AbK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 07:19:26 +0000 2025",
+      "text": "Philippine Army Chief salutes world-class PA Shooting Contingent\n\nRead more here: https://t.co/NbvHZoJcW9\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/VHWdjp8QLq",
+      "translation": "菲律宾陆军首长向世界级PA射击队致敬。详情请见：https://t.co/NbvHZoJcW9 #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/VHWdjp8QLq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 07:15:00 +0000 2025",
+      "text": "Philippine Army receives locally-made Project COBRA from DOST\n\nRead more here: https://t.co/uG3yuNKdYK\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/hO1DqPkdWQ",
+      "translation": "菲律宾陆军接收DOST提供的本地制造Project COBRA。详情请见：https://t.co/uG3yuNKdYK #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/hO1DqPkdWQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 07:00:00 +0000 2025",
+      "text": "Combat-wounded Army troops receive early Christmas gifts\n\nRead more here: https://t.co/lP2e4vHWWf\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/V4Rw3aBewM",
+      "translation": "战斗受伤的陆军部队收到早期圣诞礼物。详情请见：https://t.co/lP2e4vHWWf #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/V4Rw3aBewM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 06:45:00 +0000 2025",
+      "text": "ZANGALEWA | Where do you come from, good soldier?\n\nWatch the Philippine Army's troops from the front lines.\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/pdIoFht831",
+      "translation": "ZANGALEWA | 好士兵，你来自何方？观看菲律宾陆军前线部队。#MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/pdIoFht831",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 06:30:00 +0000 2025",
+      "text": "Philippine Army, UST team-up for SAFEGUARD Robot Development\n\nRead more here: https://t.co/nbYm6MUqsT\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/rtApjjKS69",
+      "translation": "菲律宾陆军与UST合作开发SAFEGUARD机器人。详情请见：https://t.co/nbYm6MUqsT #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/rtApjjKS69",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 06:15:00 +0000 2025",
+      "text": "Army bridges system gaps with regular Inspector General Service Forum\n\nRead more here: https://t.co/rAqrJlMgXU\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/HXUyfD7C94",
+      "translation": "陆军通过定期监察长服务论坛弥合系统差距。详情请见：https://t.co/rAqrJlMgXU #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/HXUyfD7C94",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 06:00:01 +0000 2025",
+      "text": "ARMY CARES: Army holds nationwide health and wellness fair\n\nRead more here: https://t.co/n83BK1yLaX\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand\n#ArmyCARES https://t.co/OVSpjGq4FT",
+      "translation": "陆军关怀：陆军举办全国健康与保健博览会。详情请见：https://t.co/n83BK1yLaX #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand #ArmyCARES https://t.co/OVSpjGq4FT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 05:45:00 +0000 2025",
+      "text": "AFP Office of the Inspector General wraps up 2025 Annual General Inspection (AGI) for Philippine Army\n\nRead more here: https://t.co/SlFCMGeZ0A\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/boI1L4HdPd",
+      "translation": "菲律宾武装部队监察长办公室完成对菲律宾陆军的2025年度总检查。详情请见：https://t.co/SlFCMGeZ0A #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/boI1L4HdPd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 05:30:00 +0000 2025",
+      "text": "Army Chief shares leadership lessons to PMA 1st Class Cadets\n\nRead more here: https://t.co/npLAf1ckEk\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/lnCm8QyS7E",
+      "translation": "陆军首长向PMA一年级学员分享领导力经验。详情请见：https://t.co/npLAf1ckEk #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/lnCm8QyS7E",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 05:15:58 +0000 2025",
+      "text": "Army Judge Advocate Takes Panel Role in ICRC's New Fourth Geneva Convention Commentary\n\nRead more here: https://t.co/8lKCE0RG6q\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/291i1Ov4Fo",
+      "translation": "陆军军法检察官在ICRC新版《日内瓦第四公约》评注中担任小组成员。详情请见：https://t.co/8lKCE0RG6q #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/291i1Ov4Fo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 05:03:52 +0000 2025",
+      "text": "PA Heralds Yuletide Season with launch of \"Pasko ng Sundalong Pilipino\"\n\nRead more here: https://t.co/ab1MNqNDKp\n\n#MatatagNaSandiganNgBagongPilipinas\n#StrongerArmyStrongerCountry\n#ServingthePeopleSecuringtheLand https://t.co/mmYaeoEfeq",
+      "translation": "PA以启动“菲律宾士兵圣诞节”迎接圣诞季。详情请见：https://t.co/ab1MNqNDKp #MatatagNaSandiganNgBagongPilipinas #StrongerArmyStrongerCountry #ServingthePeopleSecuringtheLand https://t.co/mmYaeoEfeq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    }
+  ]
+}

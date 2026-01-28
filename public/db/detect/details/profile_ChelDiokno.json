@@ -1,0 +1,302 @@
+{
+  "id": "profile_ChelDiokno.json",
+  "_fingerprint": "3bc4bbea104de51ca51b3d9f29c31291",
+  "name": "ChelDiokno",
+  "username": "ChelDiokno",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、宜人性；中等开放性；低神经质",
+      "detail": "外向性高：频繁参与公共活动、社交媒体互动、政治动员，表现出强烈的社交倾向和领导力。尽责性高：关注制度性改革（如政党名单改革）、政策细节（如PhilHealth、交通法规），强调责任和系统性解决方案。宜人性高：表达对弱势群体的关怀（如孤儿院访问、鼓励落榜考生）、祝贺他人成就（如婚礼、律师考试通过），展现共情和合作意愿。开放性中等：关注社会议题但未表现出极端创新或激进思想，倾向于渐进式改革。神经质低：言论中情绪稳定，即使批评政府也保持理性框架，未表现出焦虑或情绪化反应。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在理想主义、道德优越感、对政治对手的讽刺倾向",
+      "detail": "理想主义：言论中频繁强调“改革”、“正义”、“代表”，可能低估政治现实的复杂性，导致政策推行受阻或公众期望管理困难。道德优越感：使用“滥用权力”、“幽灵插入”等道德化语言暗示自身立场更高尚，可能疏离持不同意见者或被视为说教。讽刺倾向：如“小偷被捕，大盗新年快乐！”等言论显示对政治对手的尖锐批评，可能引发敌对反应或损害跨党派合作能力。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "系统性思维、社会正义导向、渐进改革偏好、民众中心视角",
+      "detail": "系统性思维：关注制度性议题（如政党名单系统、预算流程），强调结构性解决方案而非临时措施。社会正义导向：优先考虑弱势群体（如穷人、孤儿、年轻专业人士），将政策与公平、代表权挂钩。渐进改革偏好：主张通过立法（如政党名单改革法案）和现有民主程序推动变革，而非激进颠覆。民众中心视角：强调公众参与（如“跟随更新”、“分享”）、基层活动（志愿者工作），将民众支持视为政治合法性的关键。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖社交媒体动员、理想与现实的执行差距、对传统政治结构的适应挑战",
+      "detail": "社交媒体依赖：大量使用Twitter进行政治传播，可能过度简化复杂议题（如预算问题简化为视频），或暴露于虚假信息风险。执行差距：倡导高理想改革（如禁止政治王朝），但未详细说明具体实施策略，可能面临立法或官僚障碍。传统结构适应：作为改革派，可能在传统政治网络（如王朝政治）中遭遇抵制，影响联盟建立或资源获取。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "反建制定位可能限制政治联盟、道德化语言易引发极化、对经济议题关注相对不足",
+      "detail": "反建制定位：强烈批评“政治王朝”、“承包商”，可能疏远潜在盟友或被视为威胁，限制在多元政治环境中的协商能力。道德化语言：使用“滥用”、“幽灵”等词汇将对手非人化，可能加剧政治极化，削弱对话空间。经济议题不足：言论聚焦政治改革、社会正义，但对具体经济政策（如就业、通胀）提及较少，可能被视为脱离日常民生关切。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "立法推动能力受政治环境制约、复杂政策沟通的简化风险、基层组织依赖可能不稳定",
+      "detail": "立法推动制约：作为改革倡议者，在可能由传统势力主导的国会中，法案通过可能面临拖延或稀释，如政党名单改革需广泛政治支持。政策沟通简化：用短视频、推文解释复杂议题（如预算、PhilHealth），可能牺牲细节准确性，导致公众误解或批评。基层组织依赖：依赖志愿者（如CHELdren）和社交媒体互动，若支持波动或资源有限，可能影响长期运动可持续性。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "高公众期望压力、改革挫折的潜在挫败感、身份认同与政治角色的平衡挑战",
+      "detail": "公众期望压力：设定高目标（如“2026行动”），若进展缓慢可能面临公众失望，影响个人信誉或动力。改革挫折感：长期推动改革（如追究“大鱼”）若无显著成果，可能导致士气下降或策略僵化。身份平衡挑战：作为律师、政治家、社会活动家多重角色，可能难以平衡专业务实与理想倡导，引发决策冲突或公众认知混淆。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "建立进步政治品牌、扩大民众基础为更高职位铺路、推动制度变革以削弱传统精英",
+      "detail": "建立政治品牌：通过改革议题、社会关怀塑造“正义倡导者”形象，旨在区别传统政治家，吸引年轻、城市进步选民。扩大民众基础：使用社交媒体互动、基层访问（如孤儿院）培养忠诚支持者，可能为未来选举（如更高公职）做准备。削弱传统精英：针对政治王朝、承包商，意图改革系统以减少既得利益者影响，重塑权力结构朝向更包容代表。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "政治改革、社会正义、法律与治理、公共福利、文化宗教、教育与青年",
+      "detail": "政治改革：政党名单系统改革、预算透明度、反腐败（如“大鱼”追究）。社会正义：代表弱势群体、反对政治王朝、促进公平。法律与治理：交通法规、PhilHealth政策、律师职业鼓励。公共福利：孤儿院访问、节日安全提醒。文化宗教：宗教节日参与（如耶稣拿撒勒节）、历史启发（如黎刹）。教育与青年：教育资金、鼓励年轻人参与社会议题。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 10:22:14 +0000 2026",
+      "text": "PHILHEALTH UPDATE: May one-time AMNESTY para sa hindi nabayarang kontribusyon.\n\nPero, there’s a catch! Panoorin ang buong video para malaman ito! \n\nTag and share to your friends na may kulang pa sa Philhealth Contribution! https://t.co/yglEaOnQNq",
+      "translation": "菲律宾健康保险更新：针对未缴清保费者，可能有一次性赦免机会。但是，有个条件！观看完整视频了解详情！标记并分享给那些菲律宾健康保险缴费仍有不足的朋友！https://t.co/yglEaOnQNq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 78,
+        "like": 277
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 09:50:07 +0000 2026",
+      "text": "Congratulations to our new lawyers! Alam ko kung gaano kahaba at kabigat ang dinaanan ninyo. Deserve ninyo ang tagumpay na ito.\n\nMay you always carry in your hearts and minds a deep commitment to serve and protect the welfare of our fellow Filipinos, especially those who lack the https://t.co/DxyrEfdT6M",
+      "translation": "祝贺我们的新律师们！我知道你们经历了多么漫长而艰辛的道路。你们值得这份成功。愿你们心中永远怀有深切承诺，服务和保护我们菲律宾同胞的福祉，尤其是那些缺乏... https://t.co/DxyrEfdT6M",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 122,
+        "like": 958
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 09:29:48 +0000 2025",
+      "text": "MARAMING SALAMAT SA INYONG LAHAT FOR 2025 🙏❤️\n\nDahil sa inyo, we made it sa Kongreso. May naipanalo na tayong importanteng reporma, tulad ng dagdag pondo sa edukasyon (the highest in history!) at Open Bicam. Naging posible ito dahil sa inyong malakas na panawagan para sa https://t.co/IHwQlmMJea",
+      "translation": "衷心感谢大家为2025年所做的一切🙏❤️ 因为有你们，我们成功进入了国会。我们已经赢得了一些重要的改革，例如增加教育资金（历史上最高！）和开放两院协商。这之所以成为可能，是因为你们强烈呼吁... https://t.co/IHwQlmMJea",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 81,
+        "like": 655
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 10:51:12 +0000 2026",
+      "text": "BAWAL KUMPISKAHIN ANG DRIVER'S LICENSE… pero hindi ibig sabihin lusot ka!\n\nAyon sa bagong kautusan ng Department of Transportation, pinahinto muna ang on-the-spot confiscation ng lisensya habang inaayos ang sistema.\n\nAng catch:\n⛔️ Ma-fa-flag pa rin ang lisensya\n⛔️ May 15 working https://t.co/KypFSubQNI",
+      "translation": "禁止没收驾照……但这并不意味着你可以逃脱！根据交通部的新指令，暂时停止了现场没收驾照的做法，同时系统正在调整。条件是：⛔️ 驾照仍会被标记 ⛔️ 有15个工作日... https://t.co/KypFSubQNI",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 131,
+        "like": 592
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 06:50:49 +0000 2025",
+      "text": "PAALALA: Sa pagsalubong sa Bagong Taon, hindi lahat ng paputok, pwede. Panoorin ang #LegalLifeHack na ito bilang gabay! 🎆\n\n👉 Tag a friend na mahilig bumili ng paputok!\n\nSana’y maging ligtas, mapayapa, at masagana ang Bagong Taon nating lahat!\n\nhttps://t.co/aW07jDMW0N",
+      "translation": "提醒：迎接新年时，并非所有烟花都可以燃放。观看这个#法律生活技巧作为指南！🎆 👉 标记一个喜欢购买烟花的朋友！ 愿我们所有人的新年都安全、和平、丰盛！ https://t.co/aW07jDMW0N",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 18,
+        "like": 81
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 03:26:59 +0000 2025",
+      "text": "Alam niyo ba na 23 anyos pa lang si Jose Rizal nang simulan niyang isulat ang Noli Me Tangere?\n\nKaya mga kabataan, huwag kayong papadala sa mga nagsasabing wala kayong “K” para magsalita sa mga isyung panlipunan at politikal. You are never too young to speak truth to power. https://t.co/T3ATnqULZn",
+      "translation": "你们知道吗？何塞·黎刹开始写作《不许犯我》时只有23岁。所以，年轻人们，不要被那些说你们没有“资格”就社会和政治议题发言的人影响。你们永远不会太年轻而无法向权力说出真相。https://t.co/T3ATnqULZn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23,
+        "retweet": 185,
+        "like": 1216
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 10:49:27 +0000 2026",
+      "text": "CONG-TRACTORS AT MGA POLITICAL DYNASTY, IPINAGBABAWAL SA PARTY-LIST SYSTEM\n\nAlam niyo ba? 66% ng party-list nominees ay konektado sa political dynasties. Panahon na para tapusin ang pang-aabuso sa kapangyarihan. \n\nLike and share kung sang-ayon kayo sa ating Party-List Reform Bill https://t.co/TTfEUL7xn5",
+      "translation": "禁止承包商和政治王朝参与党派名单系统。你们知道吗？66%的党派名单提名人与政治王朝有关联。是时候结束这种权力滥用了。如果你们支持我们的党派名单改革法案，请点赞和分享。 https://t.co/TTfEUL7xn5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 155,
+        "like": 541
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 12:35:46 +0000 2026",
+      "text": "My message to our new lawyers: Congratulations! May you serve our fellow Filipinos, especially those who lack the means to defend their rights. \n\nTag your friends who also passed the bar this year! https://t.co/7H0NXRDFOJ",
+      "translation": "我给我们新律师们的寄语：祝贺！愿你们服务我们的菲律宾同胞，尤其是那些缺乏捍卫自己权利手段的人。标记你们今年也通过律师资格考试的朋友！ https://t.co/7H0NXRDFOJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 40,
+        "like": 334
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 13:06:26 +0000 2026",
+      "text": "Napakasaya ng pagbisita namin sa Caysasay Orphanage sa Taal, Batangas noong Dec. 27.\n\nKasama ang mga CHELdren volunteers, nagkantahan, nagsayawan, at nagbahagi kami ng munting regalo para ipasa ang saya ng holiday season sa mga bata. https://t.co/YJAnPVOBqu",
+      "translation": "我们12月27日访问八打雁省塔尔市的Caysasay孤儿院非常开心。与CHELdren志愿者们一起，我们唱歌、跳舞，并分享了一些小礼物，将节日的欢乐传递给孩子们。https://t.co/YJAnPVOBqu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 36,
+        "like": 318
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 07:58:16 +0000 2025",
+      "text": "Hindi lahat ay may pamilyang uuwian tuwing Pasko. Kaya kasama ang mga CHELdren volunteers, pinili naming bisitahin ang mga bata sa Archdiocesan Shrine of Our Lady of Caysasay Orphanage sa Taal, Batangas.\n\nSinalubong nila kami ng kanta, sayaw, at mga ngiting puno ng saya. https://t.co/3ptizNo00J",
+      "translation": "并非所有人圣诞节都有家可归。因此，与CHELdren志愿者们一起，我们选择访问八打雁省塔尔市Caysasay圣母教区孤儿院的孩子们。他们用歌声、舞蹈和充满喜悦的笑容迎接了我们。https://t.co/3ptizNo00J",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 28,
+        "like": 322
+      }
+    },
+    {
+      "created_at": "Sat Dec 27 02:48:28 +0000 2025",
+      "text": "KWESTYUNABLENG INSERTIONS NA NAMAN ‼️\n\nPag-usapan natin ang 2026 National Budget. Ano ang mga good points dito, at ano ang mga kababalaghan na di mawala-wala? 😡\n\n👉 Watch the full video here: https://t.co/mRx89esjf9\n\nMag-comment ng inyong mga tanong, at i-share para mas maraming https://t.co/g8Bv1cI8eY",
+      "translation": "又有可疑的插入项目‼️ 让我们来谈谈2026年国家预算。这里面有哪些好的方面，又有哪些挥之不去的怪事？😡 👉 在此观看完整视频：https://t.co/mRx89esjf9 评论你们的问题，并分享以便让更多人... https://t.co/mRx89esjf9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 111,
+        "like": 366
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 12:04:49 +0000 2026",
+      "text": "Congratulations to Councilor Jude and Mia Diokno on your wedding! Wishing you a lifetime of joy, hope, and enduring love.\n\nHappy to serve as your Ninong last weekend in Naga, together with Mayor Leni as Ninang. https://t.co/gRILv84xGa",
+      "translation": "祝贺议员Jude和Mia Diokno新婚快乐！祝愿你们一生充满欢乐、希望和持久的爱。很高兴上周末在那牙市作为你们的教父，与作为教母的市长Leni一起。https://t.co/gRILv84xGa",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 28,
+        "like": 538
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 09:50:36 +0000 2026",
+      "text": "‘BAN CONTRACTORS, POLITICAL DYNASTIES FROM THE PARTY-LIST SYSTEM’\n\nToday, we filed bills to reform the party-list system and restore genuine representation in Congress. Senate Bill No. 1656 was filed by Akbayan Sen. Risa Hontiveros, while I, together with my fellow Akbayan Reps. https://t.co/3QnZ3qMvKR",
+      "translation": "‘禁止承包商和政治王朝参与党派名单系统’。今天，我们提交了改革党派名单系统、恢复国会真正代表性的法案。参议院第1656号法案由Akbayan参议员Risa Hontiveros提交，而我则与我的Akbayan众议员同事们一起... https://t.co/3QnZ3qMvKR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 48,
+        "retweet": 402,
+        "like": 1691
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 11:07:41 +0000 2026",
+      "text": "2026, LET’S DO THIS!\n\nNgayong taon, samahan niyo kami sa pagsulong ng mga mahalagang repormang ito!\n\nFollow for updates and interact with our posts. Malaki ang naitutulong ng suporta niyo.\n\nTuloy ang ating pag-aakbayan para sa mabuting pamamahala! ✊🇵🇭 https://t.co/4LIjPSlWVI",
+      "translation": "2026年，让我们行动起来！今年，请加入我们，共同推进这些重要的改革！关注更新并与我们的帖子互动。你们的支持帮助巨大。让我们继续携手为良好治理而奋斗！✊🇵🇭 https://t.co/4LIjPSlWVI",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 60,
+        "like": 382
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 12:08:02 +0000 2026",
+      "text": "Petty theft, arestado agad. Grand theft, Happy New Year! \n\n2026 na, wala pa ring BIG FISH ANG NAKUKULONG. 😏😡 https://t.co/88J3WFCpOo",
+      "translation": "小偷小摸，立刻逮捕。巨额盗窃，新年快乐！2026年了，仍然没有‘大鱼’被抓获。😏😡 https://t.co/88J3WFCpOo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 45,
+        "retweet": 1494,
+        "like": 6307
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 11:03:31 +0000 2026",
+      "text": "Sa mga hindi pinalad sa Bar exams this year, this video’s for you.\n\nHINDI KAYO NABIGO! \n\nShare this with your friends who need some encouragement. https://t.co/ka7bzVUg32",
+      "translation": "致今年律师资格考试未通过的人们，这个视频是为你们准备的。你们没有失败！分享给需要鼓励的朋友们。https://t.co/ka7bzVUg32",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 129,
+        "like": 753
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 04:12:27 +0000 2026",
+      "text": "VIVA POONG JESUS NAZARENO!\n\nNgayong Kapistahan ng Poong Jesus Nazareno, nakikiisa tayo sa libu-libong debotong may dalang pananampalataya, pag-asa, at mga panalangin.\n\nSama-sama nating ipanalangin ang isang makatao at makatarungang bansa, kung saan ang pananampalataya ay https://t.co/uKTz0UVLLZ",
+      "translation": "耶稣·拿撒勒万岁！在耶稣·拿撒勒节庆之际，我们与成千上万怀着信仰、希望和祈祷的信徒们团结一致。让我们一起祈祷，愿我们的国家成为一个充满人道和正义的国家，在那里信仰... https://t.co/uKTz0UVLLZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 53,
+        "like": 500
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 11:12:31 +0000 2026",
+      "text": "Sabi nila, New Year’s resolutions are meant to be broken. Pero sa mga nakaraang taon, siniseryoso ko talaga ang akin. Here are my goals this 2026!\n\nKayo? Ano ang resolutions niyo? Comment below 👇✨ https://t.co/X4sVw7JnXP",
+      "translation": "他们说，新年决心注定要被打破。但在过去几年里，我确实认真对待我的决心。以下是我2026年的目标！你们呢？你们的决心是什么？在下方评论👇✨ https://t.co/X4sVw7JnXP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23,
+        "retweet": 49,
+        "like": 361
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 04:46:29 +0000 2025",
+      "text": "Nagbitiw sa ICI sina Commissioners Rossana Fajardo at Rogelio Singson matapos sabihin na tapos na ang kanilang tungkulin.\n\nMahalagang tanungin kung ano ang naging resulta ng tatlong buwang trabaho ng Komisyon. Lumipas na ang Pasko, ngungit wala pang napapanagot na “big fish.” https://t.co/R7ucBd1RL0",
+      "translation": "委员Rossana Fajardo和Rogelio Singson在表示已完成职责后从ICI辞职。重要的是要问，委员会三个月的工作成果是什么。圣诞节已经过去，仍然没有‘大鱼’被追究责任。https://t.co/R7ucBd1RL0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 26,
+        "retweet": 120,
+        "like": 518
+      }
+    }
+  ]
+}

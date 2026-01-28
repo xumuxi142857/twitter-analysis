@@ -1,0 +1,159 @@
+{
+  "id": "profile_FreddyLim.json",
+  "_fingerprint": "d8cc7aff5aec96303124b8f9e68f1b93",
+  "name": "FreddyLim",
+  "username": "FreddyLim",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "外向性、尽责性、开放性较高，宜人性中等，神经质较低",
+      "detail": "外向性高：积极参与公开活动、媒体采访和社交互动，乐于分享个人经历。尽责性高：从音乐家到议员再到外交官的职业转变显示规划性和责任感。开放性高：对文化、历史和国际合作持开放态度，积极学习并分享多元观点。宜人性中等：合作导向，但立场明确，可能在某些议题上表现出坚定性。神经质低：情绪稳定，面对个人历程的反思表现出成熟和平衡。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在理想主义倾向和身份认同强化需求",
+      "detail": "理想主义倾向：强调通过合作创造成功故事，可能对现实政治复杂性估计不足。身份认同强化需求：频繁在媒体分享个人历程以连接台湾与芬兰，可能反映对自我身份和群体认同的强烈维护需求。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "叙事驱动、类比思维、文化桥梁构建者",
+      "detail": "叙事驱动：善于通过个人故事传达信息，将台湾历史、文化与芬兰进行类比。类比思维：强调台湾与芬兰的相似性（如历史、文化），以建立情感和认知连接。文化桥梁构建者：专注于通过文化、经济合作提升台湾的国际能见度和软实力。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "公开活动依赖、媒体曝光度高、社交平台活跃",
+      "detail": "公开活动依赖：频繁参与签约仪式、采访、媒体报道，行为模式可预测。媒体曝光度高：在芬兰多家媒体（如Helsingin Uutiset、Svenska Yle、Efter Nio、KSML）出现，易被追踪和分析。社交平台活跃：使用Twitter（现X）分享动态和转发官方内容，数字足迹明显。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "亲台国际推广、对华立场明确、多边合作倡导",
+      "detail": "亲台国际推广：积极推动台湾与芬兰的贸易、文化和政治联系，强调台湾的独特性。对华立场明确：转发台湾外交部内容，批评中国大陆对联合国大会第2758号决议的解读，显示政治立场。多边合作倡导：专注于通过经济和文化合作提升台湾地位，可能忽视或淡化主权争议的敏感性。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "跨文化沟通强、政治外交经验丰富、媒体运用熟练",
+      "detail": "跨文化沟通强：能有效向芬兰受众讲述台湾故事，但可能过度依赖文化类比，忽略政治现实差异。政治外交经验丰富：从议员转型为外交官，但经验集中于欧洲（特别是芬兰），可能缺乏全球多元视角。媒体运用熟练：善于利用媒体塑造叙事，但公开言论可能被对手监控和利用。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "身份认同矛盾、理想与现实落差、情感驱动决策",
+      "detail": "身份认同矛盾：作为台湾代表在国际场合活动，可能面临身份认同的内部和外部压力。理想与现实落差：倡导台芬合作创造成功，但国际政治环境复杂，目标可能受阻。情感驱动决策：个人历程分享带有情感色彩（如苦乐参半），可能影响理性判断。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升台湾国际地位、削弱中国大陆影响力、建立长期联盟",
+      "detail": "提升台湾国际地位：通过经济、文化合作和媒体曝光，将台湾呈现为主权实体。削弱中国大陆影响力：通过批评中国大陆政策和推广台湾叙事，间接挑战一个中国原则。建立长期联盟：深化台芬关系，为台湾寻求更多国际支持，特别是在欧洲。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "台芬关系、文化推广、经济合作、历史叙事、政治主权",
+      "detail": "台芬关系：核心焦点，涵盖贸易、工业合作、小企业伙伴关系。文化推广：分享台湾设计、历史、文化，通过个人故事吸引芬兰受众。经济合作：强调半导体以外的合作机会，拓展多元经济联系。历史叙事：反思台湾历史，与芬兰进行类比，构建共同价值观。政治主权：间接涉及，通过国际场合和媒体讨论台湾地位。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      1,
+      0,
+      7
+    ],
+    [
+      2,
+      0,
+      9
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 10 06:36:31 +0000 2025",
+      "text": "An honour to be featured in @ksmlfi , the oldest newspaper in Finnish, where I shared my journey from musician to parliamentarian to diplomat. This was also a great opportunity to reflect on Taiwan’s history and the parallels between Taiwan and Finland.\nhttps://t.co/NRWWYPsTdQ",
+      "translation": "很荣幸能在芬兰最古老的报纸@ksmlfi上被报道，我在那里分享了自己从音乐家到国会议员再到外交官的历程。这也是一个绝佳的机会，让我反思台湾的历史，以及台湾与芬兰之间的相似之处。https://t.co/NRWWYPsTdQ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 34,
+        "like": 224
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 11:18:38 +0000 2025",
+      "text": "A talented Taiwanese designer, Yi-Chiao Tien,  featured in Finland’s Helsingin Uutiset!\nhttps://t.co/ylLwrrujge",
+      "translation": "一位才华横溢的台湾设计师田怡乔，在芬兰的《赫尔辛基新闻》上亮相！https://t.co/ylLwrrujge",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 62
+      }
+    },
+    {
+      "created_at": "Tue Oct 14 11:28:49 +0000 2025",
+      "text": "Thank you to #SvenskaYle for featuring me in an in-depth interview. Reflecting on my life journey feels a little bittersweet, but I’m always delighted to share it to help more Finns discover Taiwan’s history, culture, and its connection with Finland: https://t.co/Kjk9qCq3k3 https://t.co/Imq9WiC5NK",
+      "translation": "感谢#SvenskaYle对我进行深度采访。回顾我的人生旅程感觉有些苦乐参半，但我总是很高兴分享它，以帮助更多芬兰人发现台湾的历史、文化及其与芬兰的联系：https://t.co/Kjk9qCq3k3 https://t.co/Imq9WiC5NK",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 48,
+        "like": 414
+      }
+    },
+    {
+      "created_at": "Thu Oct 02 04:13:30 +0000 2025",
+      "text": "RT @MOFA_Taiwan: The #PRC’s distortion of #UNGA Res. 2758 must be called out. The resolution neither mentions #Taiwan🇹🇼 nor authorizes the…",
+      "translation": "RT @MOFA_Taiwan: 必须指出#PRC对#UNGA第2758号决议的歪曲。该决议既未提及#台湾🇹🇼，也未授权...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 215,
+        "retweet": 366,
+        "like": 1526
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 07:43:41 +0000 2025",
+      "text": "It is an honour to participate in the MOU signing ceremony between the FCC and the IEAT. I look forward to this collaboration helping accelerate more Taiwan–Finland trade, both in industrial cooperation and in small business partnerships. Let’s create success stories together. https://t.co/uskU5KhuYy",
+      "translation": "很荣幸参加FCC与IEAT之间的谅解备忘录签署仪式。我期待这次合作能帮助加速更多台湾与芬兰之间的贸易，无论是在工业合作还是小型企业伙伴关系方面。让我们一起创造成功的故事。https://t.co/uskU5KhuYy",
+      "stance": "负面",
+      "metrics": {
+        "reply": 12,
+        "retweet": 10,
+        "like": 97
+      }
+    },
+    {
+      "created_at": "Mon Oct 06 18:39:05 +0000 2025",
+      "text": "It’s a great honor to be featured on #EfterNio . I’m truly delighted to share the story of Taiwan through my personal journey, inviting more Finns discover that beyond semiconductors, Taiwan is  full of fascinating stories on many levels\nhttps://t.co/RomcdySrG3",
+      "translation": "非常荣幸能在#EfterNio上被报道。我真的很高兴通过我的个人旅程分享台湾的故事，邀请更多芬兰人发现，除了半导体，台湾在许多层面上都充满了引人入胜的故事。https://t.co/RomcdySrG3",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 2,
+        "like": 22
+      }
+    }
+  ]
+}

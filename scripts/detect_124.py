@@ -8,7 +8,7 @@ import traceback
 
 # ================= 配置区域 =================
 # 🎯 目标名称
-TARGET_NAME = "VP" 
+TARGET_NAME = "CNN" 
 
 API_KEY = "sk-7ba052d40efe48ae990141e577d952d1"
 API_URL = "https://api.deepseek.com/chat/completions"

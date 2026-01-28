@@ -1,0 +1,313 @@
+{
+  "id": "profile_pcogovph.json",
+  "_fingerprint": "dd3b2067829297f5756554e68380f437",
+  "name": "pcogovph",
+  "username": "pcogovph",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高宜人性、中等外向性、中等开放性、低神经质",
+      "detail": "基于言论样本分析，目标对象表现出高度尽责性（consistent delivery of disaster warnings and relief updates），高宜人性（empathetic tone in public safety messages），中等外向性（active social media presence but formal communication style），中等开放性（focus on established protocols rather than innovative approaches），低神经质（calm and measured tone during crises）。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "过度依赖机构权威、缺乏批判性视角、可能存在的官僚思维",
+      "detail": "目标对象表现出对政府机构（如PAGASA、DSWD、NDRRMC）的绝对信任和依赖，缺乏对官方信息的独立验证或批判性分析。沟通风格偏向官僚化，强调程序合规而非灵活应对。可能存在过度谨慎倾向，导致信息传递有时滞后于快速变化的局势。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "机构中心主义、风险规避、程序导向",
+      "detail": "认知框架以政府机构为中心，将官方信息视为唯一可靠来源。倾向于遵循既定程序和层级结构，在决策中优先考虑风险最小化而非效率最大化。对不确定性的容忍度较低，偏好明确、结构化的信息。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "信息传递延迟、过度依赖官方渠道、缺乏情景适应性",
+      "detail": "在快速变化的危机情境中（如台风路径突变），信息更新可能存在时间滞后。过度依赖单一信息源（政府机构）可能导致盲点。沟通内容标准化程度高，缺乏针对不同受众或具体情景的定制化调整。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "政府立场绝对化、对国际事务反应模式化、缺乏多维视角",
+      "detail": "将菲律宾政府立场等同于客观事实，缺乏对政策或声明的平衡审视。在国际事务中（如样本18的南海事件）表现出模式化的强硬回应，可能忽视复杂的地缘政治背景。在灾害应对中，强调政府行动而较少提及民间或国际协作。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "信息整合能力有限、跨部门协调依赖、技术应用表面化",
+      "detail": "信息呈现多为原始数据转述（如台风信号、救济物资数量），缺乏深度分析或趋势预测。跨机构协调完全依赖现有官僚体系，可能影响应急效率。社交媒体使用主要作为广播渠道，而非互动或数据收集工具。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "权威依赖心理、群体思维倾向、危机认知固化",
+      "detail": "存在明显的权威依赖心理，将机构决策内化为个人认知。在组织环境中可能表现出群体思维，抑制异议或创新观点。对危机的认知框架固化于“预警-响应-救济”模式，可能忽视系统性脆弱性或长期恢复议题。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造政府效能形象、强化机构权威、管理公众认知",
+      "detail": "通过持续发布灾害管理信息，塑造菲律宾政府高效、负责的公共形象。强化PAGASA、DSWD等机构的专业权威，提升公众对官方渠道的依赖。在敏感议题（如南海事件）上引导舆论朝向政府既定立场。潜在意图包括提升政治合法性、巩固机构权力、管理危机时期的公众情绪。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "自然灾害管理、政府行政事务、菲律宾国内政治、有限国际事务",
+      "detail": "核心领域为自然灾害预警与响应（台风、降雨、洪水、滑坡），涵盖气象信息、疏散通知、救济物资分配等。次要领域包括政府人事变动（如DTI部长任命）、行政公告（如停工停课）。国际事务仅涉及与菲律宾直接相关的议题（如南海事件）。话题范围高度集中于菲律宾国内事务，反映机构职能边界。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jul 31 08:06:41 +0000 2024",
+      "text": "The Presidential Communications Office announces the resignation of Secretary Fred Pascual from the Department of Trade and Industry (DTI), effective August 2, 2024, as he transitions back to the private sector. https://t.co/G0QhEjim3M",
+      "translation": "总统通讯办公室宣布，贸易工业部（DTI）部长弗雷德·帕斯夸尔将于2024年8月2日辞职，他将重返私营部门。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 18,
+        "like": 62
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 23:54:39 +0000 2024",
+      "text": "As of 5:00 AM, nakataas ang Signal no. 3 na may “moderate to significant threat to life and property” sa hilaga at kanlurang bahagi ng Ilocos Sur, hilagang kanlurang bahagi ng La Union, at kanlurang bahagi ng Abra. Signal no. 1 at 2 sa iba pang bahagi ng Luzon. \n\nPinapayuhan pa https://t.co/zDDMp7bxrZ",
+      "translation": "截至凌晨5点，伊罗戈斯省北部和西部、拉乌尼翁省西北部以及阿布拉省西部已发布3号风球，对生命和财产构成“中度至重大威胁”。吕宋岛其他地区为1号和2号风球。建议继续关注...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 23:49:01 +0000 2024",
+      "text": "BABALA: Nakataas ang yellow warning, na dala ay heavy to intense rainfall o 100 mm hanggang 200 mm na tubig ulan, sa silangang bahagi ng Cagayan at Isabela, at sa Benguet.\n\nInaasahan naman ang moderate to heavy rains sa natitirang bahagi ng Cagayan at Isabela, pati na rin sa https://t.co/y6dtc0JFO0",
+      "translation": "警告：卡加延省和伊莎贝拉省东部以及本格特省已发布黄色警报，预计将出现强到特大暴雨，降雨量达100至200毫米。卡加延省和伊莎贝拉省其余地区预计将有中到大雨...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 10:42:48 +0000 2024",
+      "text": "READ: Statement from the Presidential Communications Office on cancellation of classes and work suspension in government offices. https://t.co/XSmPfrrT5P",
+      "translation": "阅读：总统通讯办公室关于政府办公室停课和停工的通知。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 7,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 09:06:13 +0000 2024",
+      "text": "RT @NDRRMC_OpCen: ICYMI: TROPICAL CYCLONE UPDATE\nAt 3:20 PM today, the center of the eye of Super Typhoon #PepitoPH made landfall in the vi…",
+      "translation": "转发 @NDRRMC_OpCen：回顾：热带气旋更新 今天下午3:20，超强台风#PepitoPH的风眼中心在...附近登陆...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 09:05:36 +0000 2024",
+      "text": "Laging handa dahil bawat buhay ay mahalaga!\n\nNarito ang bilang ng nakahandang family food packs sa mga rehiyong apektado ng Super Typhoon #PepitoPH: https://t.co/kDF6sjuaBe",
+      "translation": "时刻准备着，因为每个生命都宝贵！ 以下是受超强台风#PepitoPH影响地区已备好的家庭食品包数量：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 06:52:04 +0000 2024",
+      "text": "BABALA: Signal no. 5 sa gitnang bahagi ng Aurora, at timog na parte ng Quirino at Nueva Vizcaya🚨\n\nSundin ang abiso ng inyong LGU tungkol sa paglikas at manatiling updated sa balita kaugnay ng Super Typhoon #PepitoPH. https://t.co/D3QaZubTdm",
+      "translation": "警告：奥罗拉省中部、基里诺省和努埃瓦·比斯开省南部地区仍为5号风球🚨 请遵循当地政府关于疏散的指示，并持续关注超强台风#PepitoPH的最新消息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 06:49:50 +0000 2024",
+      "text": "RT @dost_pagasa: TROPICAL CYCLONE BULLETIN NR. 18\nSuper Typhoon #PepitoPH (MAN-YI)\nIssued at 2:00 PM, 17 November 2024\nValid for broadcast…",
+      "translation": "转发 @dost_pagasa：热带气旋公报第18号 超强台风#PepitoPH（MAN-YI） 发布于2024年11月17日下午2:00 供广播使用...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 157,
+        "like": 300
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 06:01:00 +0000 2024",
+      "text": "BABALA: Signal no. 5 pa rin sa silangang bahagi ng Polillo Islands 🚨\n\nMakinig sa abiso ng inyong LGU kaugnay ng Super Typhoon #PepitoPH, at maghanda at lumikas agad kung kinakailangan. https://t.co/eAX0YV0Qq0",
+      "translation": "警告：波利略群岛东部地区仍为5号风球🚨 请听从当地政府关于超强台风#PepitoPH的指示，做好准备并在必要时立即疏散。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 01:25:51 +0000 2024",
+      "text": "Dahil sa Super Typhoon #PepitoPH, ang silangang bahagi ng Polillo at Calaguas Islands ay nasa tropical cyclone wind signal no. 5, na dala ay hanging posibleng magdulot ng “extreme threat to life and property.” \n\nSignal no. 4 naman o may \"significant to severe threat to life and https://t.co/b03Rxq5Q3J",
+      "translation": "由于超强台风#PepitoPH，波利略群岛和卡拉瓜斯群岛东部地区处于热带气旋风信号5号，可能带来“对生命和财产的极端威胁”的风力。 同时，4号风球或“对生命和财产的显著至严重威胁”...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Sun Aug 11 05:34:35 +0000 2024",
+      "text": "The President strongly condemns the air incident in Bajo de Masinloc earlier this week, and stands by our brave men and women of the AFP, especially the Philippine Air Force (PAF). \n\nThe actions of the People’s Liberation Army - Air Force (PLAAF) aircraft were unjustified, https://t.co/9TZep4ijUU",
+      "translation": "总统强烈谴责本周早些时候在巴霍德马辛洛克发生的空中事件，并支持我们勇敢的菲律宾武装部队成员，特别是菲律宾空军（PAF）。 中国人民解放军空军（PLAAF）飞机的行为是不正当的...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 21,
+        "retweet": 43,
+        "like": 93
+      }
+    },
+    {
+      "created_at": "Sat Jul 19 03:59:41 +0000 2025",
+      "text": "Bagama’t nakalabas na ng PAR ang Severe Tropical Storm #CrisingPH, nakataas pa rin ang Signal No. 2 sa Batanes at bahagi ng Babuyan Islands at Ilocos Norte. Nasa Signal No. 1 ang ilang bahagi ng Ilocos Region at Cordillera, ayon sa ulat ng PAGASA ngayong 11:00 AM. https://t.co/TK94XQBTUo",
+      "translation": "尽管强热带风暴#CrisingPH已离开菲律宾责任区，但巴坦群岛、巴布延群岛部分地区和北伊罗戈省仍维持2号风球。据菲律宾大气地球物理和天文服务管理局（PAGASA）今天上午11:00的报告，伊罗戈地区和科迪勒拉行政区部分地区为1号风球。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 1,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Nov 18 04:08:30 +0000 2024",
+      "text": "As of 11:00 AM ngayong araw, nasa signal no. 1 ang ilang bahagi ng Region 1 at CAR dahil sa Severe Tropical Storm #PepitoPH.\n\nInaasahang patuloy na tatahakin ng bagyo ang direksyong west northwestward hanggang lumabas ito ng Philippine Area of Responsibility ngayong hapon. https://t.co/ENIhzCwJlq",
+      "translation": "截至今天上午11:00，由于强热带风暴#PepitoPH，第一区和科迪勒拉行政区部分地区处于1号风球。 预计风暴将继续向西北偏西方向移动，并于今天下午离开菲律宾责任区。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 2,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 09:53:23 +0000 2025",
+      "text": "Alamin ang kahulugan ng mga babala ng DOST-PAGASA sa malakas na pag-ulan. ⚠️ https://t.co/K7x4FYx6qI",
+      "translation": "了解DOST-PAGASA关于强降雨警告的含义。⚠️",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 09:29:51 +0000 2025",
+      "text": "Nagbabanta ang matinding ulan at hangin sa Northern Luzon ngayong gabi habang papalapit ang Tropical Storm #CrisingPH sa Cagayan.\n\nMaghanda at maging alerto sa posibleng pagbaha, landslide, at iba pang panganib. https://t.co/QnSRH22l6t",
+      "translation": "今晚，随着热带风暴#CrisingPH接近卡加延省，北吕宋地区将面临强降雨和大风的威胁。 请做好准备，警惕可能发生的洪水、山体滑坡和其他危险。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 08:03:28 +0000 2025",
+      "text": "Mahigit PhP2.6 milyon na tulong ang naipamahagi ng DSWD Region 6 sa 31,251 katao na naapektuhan ng habagat na pinalakas ni Bagyong #CrisingPH, kung saan 3,018 pamilya ang kasalukuyang nasa 132 evacuation centers sa Western Visayas.\n\nNarito ang buong detalye: https://t.co/lZ4t7PRX6m",
+      "translation": "社会福利与发展部第六区已向受西南季风增强和台风#CrisingPH影响的31,251人发放了超过260万比索的援助，其中3,018个家庭目前被安置在西米沙鄢的132个疏散中心。 详情如下：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 07:58:02 +0000 2025",
+      "text": "Patuloy ang paghahanda ng DSWD sa gitna ng epekto ng Bagyong #CrisingPH at habagat sa CAR!\n\nSa kasalukuyan, may mahigit PhP78.6 milyon na available relief resources na kinabibilangan ng 52,254 family food packs, 21,222 non-food items gaya ng hygiene, kitchen at sleeping kits, at https://t.co/CO3anWAMna",
+      "translation": "社会福利与发展部在台风#CrisingPH和西南季风对科迪勒拉行政区的影响中持续准备！ 目前，已有超过7,860万比索的可用救灾资源，包括52,254个家庭食品包、21,222件非食品物品，如卫生、厨房和睡眠用品包，以及...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 5,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 06:45:38 +0000 2025",
+      "text": "Nananatili ang lakas ng Tropical Storm #CrisingPH sa 75 km/h habang papalapit ito sa Cagayan at Babuyan Islands.\n\nPinapaalalahanan ang mga apektadong lugar na maging alerto sa posibleng landfall ngayong hapon o gabi, ayon sa ulat ng PAGASA ngayong 2:00 PM. https://t.co/Rq8g0MvuBK",
+      "translation": "热带风暴#CrisingPH在接近卡加延省和巴布延群岛时，风速维持在75公里/小时。 据菲律宾大气地球物理和天文服务管理局（PAGASA）今天下午2:00的报告，提醒受影响地区警惕可能于今天下午或晚上登陆。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jul 18 03:59:58 +0000 2025",
+      "text": "Asahan ang malakas na pag-ulan sa Hilagang Luzon habang nananatiling nasa Signal No. 2 ang ilang lalawigan dahil sa Tropical Storm #CrisingPH at southwest monsoon.\n\nMag-ingat sa posibleng epekto ng pag-ulan at manatiling nakaantabay sa mga update ng PAGASA at inyong LGU. https://t.co/9qp5VnFiMK",
+      "translation": "预计北吕宋地区将有强降雨，同时由于热带风暴#CrisingPH和西南季风，一些省份仍维持2号风球。 请小心降雨可能带来的影响，并持续关注菲律宾大气地球物理和天文服务管理局（PAGASA）和当地政府的最新消息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Aug 02 03:57:23 +0000 2024",
+      "text": "President Ferdinand R. Marcos Jr. has appointed Undersecretary Ma. Cristina Aldeguer - Roque as the Acting Secretary of the Department of Trade and Industry (DTI), following the resignation of Secretary Alfredo Pascual, effective August 2, 2024.\n\nREAD: https://t.co/VBc1nygfHQ https://t.co/7K3pLOKtw1",
+      "translation": "总统小费迪南德·R·马科斯已任命副部长玛丽亚·克里斯蒂娜·阿尔德格尔-罗克为贸易工业部（DTI）代理部长，接替于2024年8月2日辞职的部长阿尔弗雷多·帕斯夸尔。 阅读：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 20,
+        "like": 55
+      }
+    }
+  ]
+}

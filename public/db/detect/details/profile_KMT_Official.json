@@ -1,0 +1,313 @@
+{
+  "id": "profile_KMT_Official.json",
+  "_fingerprint": "52b07f5ccb622f0c26086befbdabae3d",
+  "name": "KMT_Official",
+  "username": "KMT_Official",
+  "category": "media",
+  "daily_count": 0.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "外向性高，亲和性中等，尽责性中等偏低，神经质中等，开放性中等",
+      "detail": "外向性高：活跃参与社交媒体互动，频繁转发、评论和发起话题，表现出强烈的社交需求。亲和性中等：对偶像团体JKT48成员表达喜爱和支持，但言论中缺乏深度情感连接。尽责性中等偏低：关注偶像活动安排但缺乏系统性规划，言论随性。神经质中等：情绪表达直接但波动不大，偶有抱怨但迅速转移话题。开放性中等：关注偶像文化但兴趣范围较窄，偶尔转发科普类内容。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "注意力分散，依赖外部认同，缺乏深度思考",
+      "detail": "注意力分散：频繁切换话题，从偶像活动到个人生活琐事再到随机转发，缺乏持续性关注。依赖外部认同：通过转发和互动寻求群体归属感，对偶像的赞美隐含寻求共鸣的需求。缺乏深度思考：言论多为表面观察或情绪表达，未见分析性、批判性内容。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "感性主导，群体导向，即时满足偏好",
+      "detail": "感性主导：决策和言论基于情感喜好（如对偶像的喜爱）而非理性分析。群体导向：积极参与粉丝社群活动（如话题标签运动），重视集体行动。即时满足偏好：关注短期活动（如演唱会安排）而非长期规划，追求快速互动反馈。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "易受群体情绪影响，行为模式可预测，缺乏隐私意识",
+      "detail": "易受群体情绪影响：参与#JKT48SamudraKarawangPindahBekasi等话题运动，易被社群情绪带动。行为模式可预测：活跃时间与日常作息（如上课时间）相关，互动对象固定（JKT48相关账号）。缺乏隐私意识：公开分享个人生活细节（如上课安排）和情感状态。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "文化立场鲜明但非政治化，立场易受偶像导向影响",
+      "detail": "文化立场鲜明但非政治化：强烈支持印尼本土偶像文化（JKT48），但未涉及政治议题。立场易受偶像导向影响：对偶像相关事件（如演唱会地点变更）表现出强烈立场，可能随偶像官方立场变化而调整。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "信息整合能力弱，批判性思维不足，影响力有限",
+      "detail": "信息整合能力弱：言论碎片化，缺乏对信息的系统梳理或总结。批判性思维不足：全盘接受偶像相关信息和粉丝社群观点，未见质疑或分析。影响力有限：主要作为信息转发者和社群参与者，未见原创内容或领导性言论。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "自我认同依赖外部认可，抗干扰能力弱，目标感模糊",
+      "detail": "自我认同依赖外部认可：通过粉丝身份和社群互动定义自我价值。抗干扰能力弱：易被日常琐事（如上课）打断线上活动，注意力持续性差。目标感模糊：参与多个话题但缺乏明确长期目标，行为随性。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "寻求社群归属感，提升粉丝社群内地位，可能隐含对现实生活的逃避",
+      "detail": "寻求社群归属感：通过活跃互动融入JKT48粉丝群体，满足社交需求。提升粉丝社群内地位：通过发起话题、转发内容争取关注和影响力。可能隐含对现实生活的逃避：过度投入线上偶像互动，或为转移对现实压力（如学业）的注意力。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "偶像文化（JKT48），粉丝社群活动，日常生活琐事，少量科普内容",
+      "detail": "偶像文化（JKT48）：核心话题，涉及演唱会、成员互动、粉丝活动等。粉丝社群活动：参与话题标签运动、转发粉丝账号内容。日常生活琐事：分享上课、休息等个人动态。少量科普内容：随机转发趣味知识（如Google Facts）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 10
+    },
+    {
+      "name": "同伴",
+      "value": 85
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 02:35:42 +0000 2014",
+      "text": "RT @FaktaGoogle: Sayap seekor Lalat mengandung racun dan penawar sekaligus. Jika semua sayapnya tercelup ke dalam minuman, maka minuman ter…",
+      "translation": "RT @FaktaGoogle: 苍蝇的翅膀同时含有毒药和解药。如果所有翅膀都浸入饮料中，那么饮料就会...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 41,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Sep 23 05:54:40 +0000 2014",
+      "text": "RT @FaktaGoogle: Nama 'Yogyakarta' terambil dari dua kata, yaitu 'Ayogya' yang berarti 'Kedamaian', dan 'Karta' yang berarti 'Baik'.",
+      "translation": "RT @FaktaGoogle: '日惹'这个名字取自两个词，即'Ayogya'意为'和平'，和'Karta'意为'美好'。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 67,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Sep 23 05:52:15 +0000 2014",
+      "text": "RT @FaktaGoogle: Menurut survei, cinta dimulai ketika orang tidak membutuhkannya dan berakhir ketika mereka membutuhkannya.",
+      "translation": "RT @FaktaGoogle: 根据调查，爱始于人们不需要它时，终于他们需要它时。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 105,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:51:47 +0000 2014",
+      "text": "Ehh udah jam masuk kuliah lagi. Min off dlu yah. \nSun manja dari @Naomi_JKT48 dulu http://t.co/MSJYNH9o31",
+      "translation": "呃，又到上课时间了。我先下线了。先看看@Naomi_JKT48的撒娇照 http://t.co/MSJYNH9o31",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:47:00 +0000 2014",
+      "text": "Heh @Viny_JKT48 . senyum nya biasa dong. Melting nih http://t.co/yfxUXhC3Y4",
+      "translation": "嘿@Viny_JKT48。笑正常点嘛。心都融化了 http://t.co/yfxUXhC3Y4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:44:05 +0000 2014",
+      "text": "Eh kamu yg disana. Iya kamu. Heeh kamu lho. \nCc: @achanJKT48 @Achanation_INA http://t.co/jrJx7XANaP",
+      "translation": "嘿，那边的你。对，就是你。嘿嘿，就是你啦。抄送：@achanJKT48 @Achanation_INA http://t.co/jrJx7XANaP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:42:49 +0000 2014",
+      "text": "Eh kamu kok kalo diliat2 cantik sih @Lidya_JKT48 http://t.co/5ilfFF9CMi",
+      "translation": "嘿，你怎么越看越漂亮啊@Lidya_JKT48 http://t.co/5ilfFF9CMi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:41:30 +0000 2014",
+      "text": "Si @C_MileniaJKT48 pipinya gak nahan broh. Kek bolong cc:@Mileniaction http://t.co/DTnVD1mwV6",
+      "translation": "这位@C_MileniaJKT48的脸颊真让人受不了啊。像有洞一样抄送：@Mileniaction http://t.co/DTnVD1mwV6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:39:57 +0000 2014",
+      "text": "Udah lama nih gak ada yg nongol di grup ini.oke kita ramaikan dengan pict2",
+      "translation": "好久没人出现在这个群里了。好吧，我们用照片来活跃一下气氛。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 11 07:53:38 +0000 2014",
+      "text": "Grup sepi .bedebu . sapuin dong",
+      "translation": "群好冷清。积灰了。打扫一下吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Sep 29 23:11:01 +0000 2014",
+      "text": "Selamat ulang tahun kepada crew kami @Hibahgigih .Semoga otaknya makin waras kuliah diperlancar begitu dengan isi dompet nya semoga makin ++",
+      "translation": "祝我们的工作人员@Hibahgigih生日快乐。愿你头脑越来越清醒，学业顺利，钱包里的钱也越来越多。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Sep 22 00:48:02 +0000 2014",
+      "text": "RT @SBYudhoyono: Presiden SBY persiapkan kegiatan di New York, AS, dgn para anggota delegasi RI, Minggu, jam 8 pagi waktu setempat. http://…",
+      "translation": "RT @SBYudhoyono: 苏西洛总统在美国纽约与印尼代表团成员准备活动，当地时间周日早上8点。http://...",
+      "stance": "中立",
+      "metrics": {
+        "reply": 55,
+        "retweet": 190,
+        "like": 111
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:39:05 +0000 2014",
+      "text": "RT @JDA_Print: @officialJKT48 Walau ntr ada Jakarta kapan nih bekasi konsernya,? Bogor udah, bekasi kapan nih?  #JKT48SamudraKarawangPindah…",
+      "translation": "RT @JDA_Print: @officialJKT48 虽然之后雅加达有，那勿加泗的演唱会呢，？茂物已经有了，勿加泗什么时候有？#JKT48SamudraKarawangPindah...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:36:22 +0000 2014",
+      "text": "Yg orang bekasi mari up yuk #JKT48SamudraKarawangPindahBekasi :) #JKT48ForBekasi #JKT48MoveBekasi",
+      "translation": "勿加泗的朋友们，一起来顶帖吧 #JKT48SamudraKarawangPindahBekasi :) #JKT48ForBekasi #JKT48MoveBekasi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:32:15 +0000 2014",
+      "text": "Min konser kerawang kenapa mundur? Mending pindahin ke bekasi aja,  @TRIMSINDONESIA  #JKT48SamudraKarawangPindahBekasi :)",
+      "translation": "管理员，为什么加拉璜的演唱会推迟了？不如直接搬到勿加泗吧，@TRIMSINDONESIA #JKT48SamudraKarawangPindahBekasi :)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:26:21 +0000 2014",
+      "text": "Up up up  #JKT48SamudraKarawangPindahBekasi :)",
+      "translation": "顶顶顶 #JKT48SamudraKarawangPindahBekasi :)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:23:39 +0000 2014",
+      "text": "RT @Hibahgigih: @ID_FansJK48_ @JKT48FanBaseBKS Bantu UP #JKT48ForBekasi ke @TRIMSINDONESIA @officialJKT48 dong agar konser kerawang pindah …",
+      "translation": "RT @Hibahgigih: @ID_FansJK48_ @JKT48FanBaseBKS 帮忙把#JKT48ForBekasi顶给@TRIMSINDONESIA @officialJKT48吧，好让加拉璜的演唱会搬到勿加泗...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:23:11 +0000 2014",
+      "text": "RT @Hibahgigih: @I @JKT48FanBaseBKS @JKT48_Bekasi @BKS48_Cikarang @BKS48toKINAL @BKS48_TeamDhike @Veloved48_BKS Ayo up #JKT48SamudraKarawan…",
+      "translation": "RT @Hibahgigih: @I @JKT48FanBaseBKS @JKT48_Bekasi @BKS48_Cikarang @BKS48toKINAL @BKS48_TeamDhike @Veloved48_BKS 一起来顶#JKT48SamudraKarawan...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 20 06:06:23 +0000 2014",
+      "text": "Min @officialJKT48 , minggu ada teaterkah? Kok jadwal blm keluar? Apa kandang kosong?",
+      "translation": "管理员@officialJKT48，周日有剧场演出吗？为什么日程还没出来？是空场吗？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Sep 26 23:47:56 +0000 2014",
+      "text": "RT @Hibahgigih: Min tlg retweet ini @osis_smkn3 ¦ Bagi anak SMKN3 yg ngaku sbg FansJKT48 mention dong ke @KMT_Official mau kita masukin gru…",
+      "translation": "RT @Hibahgigih: 管理员请转发这个@osis_smkn3 ¦ SMKN3学校自称是JKT48粉丝的学生们，请@KMT_Official一下，我们想加入群组...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 0
+      }
+    }
+  ]
+}

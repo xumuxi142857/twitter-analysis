@@ -1,0 +1,313 @@
+{
+  "id": "profile_risahontiveros.json",
+  "_fingerprint": "cf2cc18a74613fa98fdef413ffad995a",
+  "name": "risahontiveros",
+  "username": "risahontiveros",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等宜人性、中等开放性、低神经质",
+      "detail": "外向性高：频繁参与社交互动，使用大量表情符号和热情语言，积极回应支持者。尽责性高：关注法律程序、预算听证会等正式事务，强调责任和正义。宜人性中等：对盟友和支持者表现出温暖和感激，但对政治对手或批评者可能采取强硬立场。开放性中等：关注社会议题但未表现出极端创新或非传统思维。神经质低：言论中情绪稳定，即使在争议话题中也保持相对冷静的语气。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在的理想主义倾向、对特定群体的强烈认同、潜在的固执",
+      "detail": "表现出强烈的理想主义，可能忽视政治现实中的妥协必要性。对特定政治盟友（如@kikopangilinan、@bamaquino、@ChelDiokno）有高度认同和忠诚，可能导致群体思维。在打击虚假信息和追求正义方面表现出固执，可能难以接受不同观点。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "社会正义导向、程序正义重视、联盟依赖",
+      "detail": "认知倾向于社会正义议题，如毒品战争受害者、LGBTQ+权利、妇女权利。重视法律和程序正义，如强调预算听证会的性质、呼吁联合国投票。依赖政治联盟和团队支持，频繁提及并与特定人物共同行动。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖社交媒体表达、对虚假信息敏感、可能的行为一致性压力",
+      "detail": "行为上高度依赖社交媒体进行政治沟通，可能暴露于网络攻击或误解。对虚假信息和编辑照片表现出高度敏感和强烈反应，可能容易受到信息操纵的影响。作为公众人物，可能面临保持行为一致性和盟友忠诚度的压力，限制灵活性。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "对特定政治议题的强烈承诺、可能的两极化立场、国际议题的依赖",
+      "detail": "在毒品战争、POGO（菲律宾离岸博彩运营商）、Alice Guo案等议题上采取明确立场，可能难以调整或妥协。立场可能被视为与特定政治阵营（反对派）紧密相关，导致两极化认知。在国际议题上依赖联合国等机制，可能受国际政治变化影响。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "信息验证依赖外部机构、应对复杂议题的简化倾向、盟友协调需求",
+      "detail": "在信息验证上依赖NBI（国家调查局）等机构，可能受机构局限影响。处理复杂议题如国际税收合作时，可能倾向于简化表述。需要协调与盟友（如其他议员）的行动，可能影响独立决策能力。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "情感投入高、对批评可能防御性强、理想与现实潜在冲突",
+      "detail": "对支持者和受害者有高情感投入，可能影响客观判断。对批评或虚假信息可能反应强烈，表现出防御性。理想主义目标可能与政治现实冲突，导致挫折感。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治联盟、提升公众形象、推动特定立法议程",
+      "detail": "意图巩固与@kikopangilinan、@bamaquino、@ChelDiokno等盟友的政治联盟。通过社交媒体互动和正义议题提升公众形象和影响力。推动如Magna Carta of Children bill等特定立法议程，可能隐藏更广泛的政策目标。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "社会正义、法律与治理、国际事务、政治联盟",
+      "detail": "社会正义：关注毒品战争受害者、LGBTQ+权利、妇女权利、儿童权利。法律与治理：涉及预算听证会、逮捕令、虚假信息打击、POGO监管。国际事务：参与联合国税收合作议题。政治联盟：强调与特定政治人物的合作和团队支持。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jun 26 13:55:40 +0000 2024",
+      "text": "Ito ang tatlo ko! @kikopangilinan @bamaquino ⁦@ChelDiokno⁩ 😊✊🏼💙 https://t.co/BpQos5k13R",
+      "translation": "这是我的三位伙伴！@kikopangilinan @bamaquino @ChelDiokno 😊✊🏼💙 https://t.co/BpQos5k13R",
+      "stance": "无关",
+      "metrics": {
+        "reply": 295,
+        "retweet": 9528,
+        "like": 43789
+      }
+    },
+    {
+      "created_at": "Wed Aug 14 01:49:00 +0000 2024",
+      "text": "Kasama sina Sen @kikopangilinan, Sen @bamaquino, at Atty @ChelDiokno, we’ll be there 4 u. 😊💞✊🏼 https://t.co/moVPs6tJWA",
+      "translation": "与参议员@kikopangilinan、参议员@bamaquino和律师@ChelDiokno一起，我们将为你而来。😊💞✊🏼 https://t.co/moVPs6tJWA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 160,
+        "retweet": 1814,
+        "like": 8614
+      }
+    },
+    {
+      "created_at": "Tue Sep 10 05:55:10 +0000 2024",
+      "text": "Thanks so much, Noel! Mabuhay ka at ang buong Team Alas Pilipinas! 🙏🏼✊🏼🇵🇭🏐\n\nhttps://t.co/Eom6iu7kME",
+      "translation": "非常感谢，Noel！愿你与整个Alas Pilipinas团队长存！🙏🏼✊🏼🇵🇭🏐 https://t.co/Eom6iu7kME",
+      "stance": "无关",
+      "metrics": {
+        "reply": 120,
+        "retweet": 693,
+        "like": 10746
+      }
+    },
+    {
+      "created_at": "Tue Sep 10 04:34:27 +0000 2024",
+      "text": "Baka naman libre ka next week, @KorekKaJohn! 🙃\n\nhttps://t.co/bS9Y4cqbsi",
+      "translation": "@KorekKaJohn，下周你也许有空吧？🙃 https://t.co/bS9Y4cqbsi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 298,
+        "retweet": 1935,
+        "like": 15625
+      }
+    },
+    {
+      "created_at": "Tue Oct 29 02:16:47 +0000 2024",
+      "text": "Maraming salamat po sa mga messages of support! They mean a lot. \n\nLet’s extend this support to the victim-survivors of Duterte’s drug war— sa mga lolo, lola, magulang, asawa o partner, anak, kapatid, at kaibigan na naiwan at patuloy na naghahanap pa ng hustisya. \n\nLaban! ✊🏼",
+      "translation": "非常感谢大家的支持信息！它们意义重大。让我们将这份支持延伸到杜特尔特禁毒战争的受害者幸存者——那些被留下的祖父母、父母、配偶或伴侣、子女、兄弟姐妹和朋友，他们仍在继续寻求正义。战斗！✊🏼",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1238,
+        "retweet": 7774,
+        "like": 39377
+      }
+    },
+    {
+      "created_at": "Tue Mar 19 07:56:15 +0000 2024",
+      "text": "Yes, the arrest order vs Quiboloy is out! Ang pambabastos niya sa Senado ay hindi dapat palampasin. \n\nPara sa mga testigo na naglakas loob na makilahok sa dambuhalang labang ito: THANK YOU! \n\nKayo ang puso ng imbestigasyon na ito, at kasama niyo kami sa Senado hanggang dulo. https://t.co/aKq1mMbmLj",
+      "translation": "是的，针对Quiboloy的逮捕令已经发出！他对参议院的侮辱不应被放过。对于勇敢参与这场巨大斗争的证人：谢谢你们！你们是这次调查的核心，我们在参议院将与你们并肩到底。https://t.co/aKq1mMbmLj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 365,
+        "retweet": 7858,
+        "like": 28673
+      }
+    },
+    {
+      "created_at": "Tue Aug 20 10:41:49 +0000 2024",
+      "text": "Budget hearing po ito. It’s not about you. https://t.co/6Qb33Teb5C",
+      "translation": "这是预算听证会。与你无关。https://t.co/6Qb33Teb5C",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1737,
+        "retweet": 16594,
+        "like": 60646
+      }
+    },
+    {
+      "created_at": "Thu May 02 01:54:34 +0000 2024",
+      "text": "Yes, @vicegandako, may hearing po ako today para sa Magna Carta of Children bill. 🙃\n\nhttps://t.co/90vObGKZnZ",
+      "translation": "是的，@vicegandako，我今天有关于《儿童大宪章》法案的听证会。🙃 https://t.co/90vObGKZnZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 163,
+        "retweet": 1503,
+        "like": 25807
+      }
+    },
+    {
+      "created_at": "Thu Mar 21 10:44:56 +0000 2024",
+      "text": "Stunned to hear about Doc @giasison’s death. \n\nShe was one of our staunchest #MentalHealthAct &amp; #SOGIEEqualityBill allies. She always made time for us, was always so warm, always so generous with her light. \n\nMaraming salamat, Doc Gia. You will be dearly missed. 😢 https://t.co/oYIeUOBQsy",
+      "translation": "听到Doc @giasison去世的消息，我感到震惊。她是我们《心理健康法案》和《SOGI平等法案》最坚定的盟友之一。她总是为我们腾出时间，总是那么热情，总是慷慨地分享她的光芒。非常感谢，Gia医生。我们会非常想念你。😢 https://t.co/oYIeUOBQsy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 49,
+        "retweet": 926,
+        "like": 8533
+      }
+    },
+    {
+      "created_at": "Thu Jun 27 09:20:23 +0000 2024",
+      "text": "Mayor Alice, walang sikretong hindi nabubunyag.\n \nIndeed, the NBI has confirmed that the fingerprints of Mayor Alice Guo &amp; Guo Hua Ping match. Ibig sabihin, they are the fingerprints of one &amp; the same person. https://t.co/4CvHu5p8LP",
+      "translation": "Alice市长，没有秘密是永远不暴露的。确实，NBI已确认Alice Guo市长和Guo Hua Ping的指纹匹配。这意味着，它们是同一个人的指纹。https://t.co/4CvHu5p8LP",
+      "stance": "负面",
+      "metrics": {
+        "reply": 628,
+        "retweet": 17518,
+        "like": 61533
+      }
+    },
+    {
+      "created_at": "Sun May 12 01:44:10 +0000 2024",
+      "text": "Haha! Saya ng chikahan, K &amp; Pokwang! Sa uulitin. 🙏🏼  at happy Mother’s Day sa ating mga solo moms!\n\nHappy Mother’s Day din to all the momshies out there! Sana alam niyo kung may birth certificate ang anak niyo. 🙃\n\nhttps://t.co/HZy4nFpIs5",
+      "translation": "哈哈！聊天真开心，K和Pokwang！下次再聊。🙏🏼 并祝我们所有的单身妈妈母亲节快乐！也祝所有妈妈们母亲节快乐！希望你们知道自己的孩子是否有出生证明。🙃 https://t.co/HZy4nFpIs5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 103,
+        "retweet": 617,
+        "like": 7244
+      }
+    },
+    {
+      "created_at": "Sun Jun 23 01:57:22 +0000 2024",
+      "text": "FAIRY GODMOMSHIE IS BACK! 🧚 Am always here para samahan kayo sa laban tungo sa tunay na pagkakapantay-pantay! Happy #PrideMonth2024, mga mahal! 😊🏳️‍🌈💜 https://t.co/mIchx5ISsv",
+      "translation": "仙女教母回来了！🧚 我永远在这里陪伴你们，为真正的平等而战！亲爱的大家，骄傲月快乐！😊🏳️‍🌈💜 https://t.co/mIchx5ISsv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 115,
+        "retweet": 4070,
+        "like": 23788
+      }
+    },
+    {
+      "created_at": "Sun Jul 21 06:10:06 +0000 2024",
+      "text": "Thank you for having me, Col. Powell! Looking forward to listening to the episode. 🙏🏼😊\n\nhttps://t.co/roDCfnCqv8",
+      "translation": "谢谢你邀请我，Powell上校！期待收听这一集。🙏🏼😊 https://t.co/roDCfnCqv8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 47,
+        "retweet": 162,
+        "like": 1134
+      }
+    },
+    {
+      "created_at": "Sat Aug 17 06:25:09 +0000 2024",
+      "text": "The best people for the job: Sen @kikopangilinan, Sen @bamaquino, at Atty @ChelDiokno! https://t.co/PNM7MnElwM",
+      "translation": "最适合这份工作的人：参议员@kikopangilinan、参议员@bamaquino和律师@ChelDiokno！https://t.co/PNM7MnElwM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 189,
+        "retweet": 1120,
+        "like": 4684
+      }
+    },
+    {
+      "created_at": "Mon Mar 04 09:40:25 +0000 2024",
+      "text": "Salamat kay Sec. Remulla for acting on this matter! Pero mas higit na pasasalamat sa mga naglakas-loob na tumestigo sa Senado.✊🏼\n\nThis is a gift to every woman this Women’s Month. Isang matapang at palabang Buwan ng Kababaihan sa ating lahat! 💜\n\nhttps://t.co/wr6TfVJPdD",
+      "translation": "感谢Remulla部长对此事的处理！但更要感谢那些勇敢在参议院作证的人。✊🏼 这是送给每位女性妇女节的礼物。祝大家一个勇敢、战斗的妇女月！💜 https://t.co/wr6TfVJPdD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 343,
+        "like": 2213
+      }
+    },
+    {
+      "created_at": "Mon Jul 22 10:56:12 +0000 2024",
+      "text": "‘Bye, POGO! 👋🏼 Tagumpay para sa buong bansa! ✊🏼🇵🇭\n\nhttps://t.co/L4UxKiWf3n",
+      "translation": "再见，POGO！👋🏼 这是整个国家的胜利！✊🏼🇵🇭 https://t.co/L4UxKiWf3n",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1222,
+        "retweet": 18666,
+        "like": 69364
+      }
+    },
+    {
+      "created_at": "Fri May 10 10:23:01 +0000 2024",
+      "text": "Totoo kaya na Chinese talaga si Mayor Alice Guo? 🤨\n\nImportanteng itanong dahil si Mayor, na walang maayos na record dito sa bansa, ang siyang instrumento para makapasok ang isang POGO, na ayon sa intel ay sangkot sa hacking at surveillance activities!\n\nhttps://t.co/2pLFXT3V1Z",
+      "translation": "Alice Guo市长真的是中国人吗？🤨 这个问题很重要，因为这位在本国没有完整记录的市长，是让一个据情报涉及黑客和监视活动的POGO得以进入的工具！https://t.co/2pLFXT3V1Z",
+      "stance": "负面",
+      "metrics": {
+        "reply": 378,
+        "retweet": 1548,
+        "like": 8088
+      }
+    },
+    {
+      "created_at": "Fri May 03 02:35:26 +0000 2024",
+      "text": "RT @vicegandako: Yazzzzzzzz our hardworking senator!!!! God bless Sen. Risa!",
+      "translation": "RT @vicegandako: 耶耶耶耶耶我们勤劳的参议员！！！！上帝保佑Risa参议员！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 73,
+        "retweet": 1025,
+        "like": 18933
+      }
+    },
+    {
+      "created_at": "Fri Aug 23 03:50:49 +0000 2024",
+      "text": "Wala akong kaibigan na pekeng Pil. 🤨\n\nMag-ingat po sa mga edited photos online na magkasama kami diumano at magkaibigan daw kami. THIS IS FAKE. \n\nAlso calling on Facebk, Twitter, YouTube, &amp; Tiktok to moderate AI content! \n\nWe will get to the bottom of who is circulating this. https://t.co/j9QMIWHCIR",
+      "translation": "我没有假菲律宾人朋友。🤨 请小心那些声称我们在一起、是朋友的网络编辑照片。这是假的。同时呼吁Facebook、Twitter、YouTube和TikTok监管AI内容！我们会追查到底是谁在传播这些。https://t.co/j9QMIWHCIR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1278,
+        "retweet": 4380,
+        "like": 22181
+      }
+    },
+    {
+      "created_at": "Fri Aug 16 14:38:47 +0000 2024",
+      "text": "I urge the Phil Govt, through the DOF &amp; the DFA,to vote “YES” at the UN HQ in NY to the \n“Chair’s Proposal for Draft Terms of Reference for a United Nations Framework Convention on International Tax Cooperation” since it provides that the Convention must be aligned with States’…",
+      "translation": "我敦促菲律宾政府，通过财政部和外交部，在纽约联合国总部对“主席关于联合国国际税务合作框架公约草案职权范围提案”投“赞成”票，因为它规定公约必须与各国...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 57,
+        "like": 387
+      }
+    }
+  ]
+}

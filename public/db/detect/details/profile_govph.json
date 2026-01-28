@@ -1,0 +1,313 @@
+{
+  "id": "profile_govph.json",
+  "_fingerprint": "ee073da7dfd18d2c4d95a6759f51e073",
+  "name": "govph",
+  "username": "govph",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等外向性、中等宜人性、中等开放性、中等神经质",
+      "detail": "从官方声明和程序性公告看，表现出高尽责性（严格遵守行政程序、发布详细备忘录）。中等外向性体现在外交活动和公开声明中。中等宜人性表现为关注民生（如灾害应对），但立场声明中带有一定对抗性。中等开放性体现在文化内容分享（如民歌介绍）和外交互动中。中等神经质表现为对安全威胁的敏感，但整体情绪控制稳定。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的权威主义倾向、程序化思维可能限制灵活性、对传统盟友关系存在矛盾心理",
+      "detail": "在安全声明中暗示可能采取强硬措施（样本6），显示权威主义倾向。过度依赖行政程序（如多个公告、备忘录）可能形成僵化思维。对美关系声明（样本2）显示对传统盟友的复杂态度，可能影响决策一致性。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "务实主义、程序导向、安全敏感、民生关注",
+      "detail": "认知倾向于务实解决问题（如灾害应对的具体措施）。高度程序化思维（通过正式公告、备忘录管理事务）。对安全威胁高度敏感（样本6）。关注民生议题（灾害准备、营养服务）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖正式程序可能延误应急响应、公开声明可能被误解",
+      "detail": "在紧急情况下（如灾害应对），严格的程序要求可能影响响应速度。外交声明（如对美关系）的措辞可能被不同解读，引发外交误解。文化内容分享（如民歌）与严肃政务混合，可能稀释信息重点。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "在传统盟友与独立外交间平衡困难、安全与民权关系处理敏感",
+      "detail": "对美关系声明显示在维持传统盟友与追求独立外交间的认知矛盾。安全声明（样本6）中平衡国家安全与公民权利的立场容易受到批评。在东盟邻国关系（老挝）中强调历史联系，可能忽视当前地缘政治变化。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "多任务处理可能分散注意力、应急管理依赖下级机构",
+      "detail": "同时处理外交、国内行政、灾害应对等多重事务，可能影响决策深度。灾害应对中明显依赖地方政府和专门机构（如LagingHandaPH），显示中央协调可能不足。文化内容与政务混合显示信息管理能力有待优化。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "对威胁感知可能过度反应、传统思维可能限制创新",
+      "detail": "安全相关言论显示可能高估威胁，导致过度反应。强调历史关系（如1955年与老挝建交）可能固守传统思维，影响对新机遇的认知。程序化思维可能抑制政策创新和灵活调整。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "强化行政控制、平衡大国影响、提升国内形象",
+      "detail": "通过详细备忘录和程序要求强化行政体系控制。外交活动旨在平衡美国等传统盟友与地区关系。灾害应对宣传旨在塑造关注民生的形象。文化内容可能意在增强民族认同。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "行政公告、外交关系、灾害应对、文化宣传",
+      "detail": "行政公告：假日公告、地方特殊日、备忘录等正式行政指令。外交关系：与美国、老挝、印度尼西亚等国的互动和立场声明。灾害应对：台风季节准备、疏散安排、救援协调等应急管理。文化宣传：民歌介绍、民族语言内容等文化推广。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      5,
+      0
+    ],
+    [
+      1,
+      4,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ],
+    [
+      2,
+      7,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Sep 06 06:19:49 +0000 2016",
+      "text": "Pres. Duterte issues Proclamation No. 56, declaring 12 Sept. 2016 a regular holiday in observance of Eid'l Adha. https://t.co/aSd3c4Tikj",
+      "translation": "杜特尔特总统发布第56号公告，宣布2016年9月12日为常规假日，以庆祝宰牲节。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 128,
+        "like": 130
+      }
+    },
+    {
+      "created_at": "Tue Sep 06 05:27:55 +0000 2016",
+      "text": "Statement of #PresidentDuterte on the PH-US meeting, as delivered by Spokesperson @ernieabella: \n\nhttps://t.co/tgklEy45db",
+      "translation": "#杜特尔特总统关于菲美会议的声明，由发言人@ernieabella发布：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 17,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Tue Sep 06 01:15:54 +0000 2016",
+      "text": "READ: The departure speech of President Rodrigo Roa Duterte before he flies to Laos and Indonesia: https://t.co/pVX8trPbyi",
+      "translation": "阅读：罗德里戈·罗亚·杜特尔特总统在飞往老挝和印度尼西亚前的出发演讲：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 8,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Thu Sep 01 12:23:11 +0000 2016",
+      "text": "Proclamation No. 54, s. 2016: Declaring 2 September 2016 as a Special (Non-Working) Day in the Province of Albay:  https://t.co/x02E6DMO9z",
+      "translation": "2016年第54号公告：宣布2016年9月2日为阿尔拜省的特殊（非工作日）日：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 4,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Thu Sep 01 12:16:37 +0000 2016",
+      "text": "Memorandum Order No. 2, s. 2016\n\nRead here: https://t.co/wnnbTZ3Gls",
+      "translation": "2016年第2号备忘录令 在此阅读：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 14:47:00 +0000 2016",
+      "text": "RT @LagingHandaPH: Remember these hashtags para mas maging #LagingHanda. https://t.co/LSimnqLRJB",
+      "translation": "转发 @LagingHandaPH：记住这些标签，以便更加#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 49,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 11:32:00 +0000 2016",
+      "text": "RT @LagingHandaPH: #LaMesaDam update as of 6:00PM. https://t.co/oINKywPc2Y",
+      "translation": "转发 @LagingHandaPH：#拉梅萨大坝截至下午6:00的更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 48,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 11:31:52 +0000 2016",
+      "text": "RT @LagingHandaPH: #WalangPasok sa mga lugar na ito bukas dahil sa #Habagat. Manatiling #LagingHanda. https://t.co/hKFgpy8TbJ",
+      "translation": "转发 @LagingHandaPH：由于#西南季风，明天这些地区#不上课。保持#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 83,
+        "like": 68
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 09:34:07 +0000 2016",
+      "text": "RT @LagingHandaPH: .@TeamAFP rescue vehicles are on stand by &amp; ready to assist the residents who needed to be evacuated. #LagingHanda https…",
+      "translation": "转发 @LagingHandaPH：@TeamAFP的救援车辆已待命，准备协助需要撤离的居民。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 13,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 09:33:59 +0000 2016",
+      "text": "RT @LagingHandaPH: .@dswdserves &amp; Marikina City LGU prepare food to be distributed by @TeamAFP &amp; @MarikinaRescue to difft evac. ctrs. https…",
+      "translation": "转发 @LagingHandaPH：@dswdserves和马利金那市地方政府部门准备了食物，将由@TeamAFP和@MarikinaRescue分发到不同的疏散中心。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 17,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 04:43:14 +0000 2016",
+      "text": "RT @LagingHandaPH: #Habagat #Evacuation update on La Mesa Dam and Marikina City River.\n\nManatiling #LagingHanda. https://t.co/p4Qe5OdKoq",
+      "translation": "转发 @LagingHandaPH：关于拉梅萨大坝和马利金那市河的#西南季风 #疏散更新。保持#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 38,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Sat Sep 03 12:11:13 +0000 2016",
+      "text": "RT @LagingHandaPH: Mga bagay na dapat tandaan upang maging #LagingHanda. https://t.co/k3plkyIZvr",
+      "translation": "转发 @LagingHandaPH：为了保持#时刻准备着，应记住的事项。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 86,
+        "like": 91
+      }
+    },
+    {
+      "created_at": "Sat Aug 13 09:52:00 +0000 2016",
+      "text": "RT @LagingHandaPH: Preparations are underway for enforced evacuations. #LagingHanda https://t.co/lrZ896R5xp",
+      "translation": "转发 @LagingHandaPH：强制疏散的准备工作正在进行中。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 33,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Sat Aug 13 08:32:00 +0000 2016",
+      "text": "RT @LagingHandaPH: MARIKINA RIVER | Preparations are underway for mandatory evacuation. #LagingHanda https://t.co/va20Ev0VFM",
+      "translation": "转发 @LagingHandaPH：马利金那河 | 强制疏散的准备工作正在进行中。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 28,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 13:37:37 +0000 2016",
+      "text": "#PresidentDuterte becomes the fourth Philippine president to visit the Lao PDR. https://t.co/8lc9MTzqgV",
+      "translation": "#杜特尔特总统成为第四位访问老挝人民民主共和国的菲律宾总统。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 19,
+        "like": 68
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 13:36:55 +0000 2016",
+      "text": "PH relations w/ Lao was established in 1955. Since then, several agreements strengthen our ties as ASEAN neighbors. https://t.co/AD0VmaSPtY",
+      "translation": "菲律宾与老挝的关系于1955年建立。自那时起，多项协议加强了我们作为东盟邻国的联系。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 28,
+        "like": 50
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 09:29:39 +0000 2016",
+      "text": "Several administrations have responded to threats to the security of the State without curtailing civil rights.\n\nhttps://t.co/ODrtN4SRcY",
+      "translation": "历届政府都应对了国家安全威胁，同时并未削减公民权利。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Mon Aug 22 13:58:38 +0000 2016",
+      "text": "Memorandum Circular on Courtesy Resignations of Presidential Appointees\n\nRead here: https://t.co/zJRtKOsWXE",
+      "translation": "关于总统任命官员礼节性辞职的备忘录通告 在此阅读：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 16,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Mon Aug 15 10:22:20 +0000 2016",
+      "text": "Ang \"Dandansoy\" ay isang awiting Ilonggo na tungkol sa pamamaalam ng isang babae kay Dandansoy. https://t.co/JuBDIWv3q1",
+      "translation": "《丹丹索伊》是一首伊隆戈语歌曲，讲述了一位女子向丹丹索伊告别。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 79,
+        "like": 239
+      }
+    },
+    {
+      "created_at": "Mon Aug 15 03:30:03 +0000 2016",
+      "text": "RT @LagingHandaPH: Marikina City Nutrition personnel attends to nutrition needs of residents in evac. ctrs. since Sat. #LagingHanda https:/…",
+      "translation": "转发 @LagingHandaPH：自周六以来，马利金那市营养人员一直在疏散中心照顾居民的营养需求。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 20
+      }
+    }
+  ]
+}

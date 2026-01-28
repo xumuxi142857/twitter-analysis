@@ -33,7 +33,7 @@
           <template #header>
             <div class="card-header">
               <span class="header-title">📋 待引导舆情话题</span>
-              <el-tag type="info" effect="plain" round>{{ currentData.topics.length }} 个热点</el-tag>
+              
             </div>
           </template>
 
@@ -78,7 +78,7 @@
                     <el-icon><Postcard /></el-icon>
                     <span>精选推文流</span>
                   </div>
-                  <span class="ph-sub">共 {{ activeTopic.tweets?.length || 0 }} 条</span>
+                  <!--span class="ph-sub">共 {{ activeTopic.tweets?.length || 0 }} 条</span-->
                 </div>
 
                 <div class="tweet-list-container">
@@ -93,8 +93,8 @@
                         <div class="t-header">
                           <span class="t-author">@{{ tweet.username || 'user_unknown' }}</span>
                           <el-tag v-if="tweet.stance" size="small" :type="getStanceType(tweet.stance)" effect="light">
-                            {{ tweet.stance }}
-                          </el-tag>
+  {{ getStanceLabel(tweet.stance) }}
+</el-tag>
                         </div>
                         
                         <div class="t-body">
@@ -227,6 +227,16 @@ const getStanceType = (stance: string) => {
   return 'info';
 };
 
+const getStanceLabel = (stance: string) => {
+  const map: Record<string, string> = {
+    'positive': '亲华',
+    'negative': '反华',
+    'neutral': '中立'
+  };
+  // 如果遇到未知的状态，默认显示原文，防止报错
+  return map[stance] || stance;
+};
+
 const fetchData = async () => {
   if (!selectedDate.value) return;
   loading.value = true;
@@ -284,7 +294,8 @@ const handleGenerateForTweet = async (tweet: any) => {
   };
 
   try {
-    const response = await axios.post('http://127.0.0.1:5000/api/generate_guide', {
+    //const response = await axios.post('http://127.0.0.1:5000/api/generate_guide', {
+    const response = await axios.post('/api/generate_guide', {
       text: tweet.translation || tweet.text, // 优先使用译文生成策略，效果更好
       topic: activeTopic.value.topic,
       region: activeTab.value

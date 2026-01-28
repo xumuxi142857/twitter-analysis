@@ -27,13 +27,14 @@ API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco"
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
 MODEL_NAME = "Pro/zai-org/GLM-4.7" 
 
+
 #API_KEY = "sk-jtDFyIPxnt2jqyHQPVsxiZwEcWOY2592WvEqN2F6tYP1juu6" 
 #API_URL = "https://api.302.ai/v1/chat/completions"
 #MODEL_NAME = "gpt-5-nano-2025-08-07" 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
-OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'topic')
+OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'topic1')
 
 FILENAME_MAPPING = {
     "Taiwan": "Taiwan", "China_US": "US", "Philippines": "Philippines",
@@ -141,9 +142,10 @@ def batch_process_tweets(tweets, region):
 
         任务：
         1. 判断推文是否有情报价值 (is_valid)。跳过纯广告、乱码或无关内容。
-        2. 翻译成中文 (translation) 出现的推特用户名（例如@Creed_is_T1，可以忽略，不出现在正文中）。
+        2. 翻译成中文 (translation).出现的推特用户名（例如@Creed_is_T1)可以忽略，不出现在正文中）。
         3. 判断对华立场 (stance): positive(亲华)/neutral(中立)/negative(反华)。
         4. 提取 2-3 个核心关键词或短语 (keywords)，必须是原文中出现的高频词汇翻译成的中文。
+        5. 不刻意回避敏感话题，保持客观中立。
 
         输出 JSON 列表:
         {{

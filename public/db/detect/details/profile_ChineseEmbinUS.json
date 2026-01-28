@@ -1,0 +1,313 @@
+{
+  "id": "profile_ChineseEmbinUS.json",
+  "_fingerprint": "7f10c7a8f543e0a920c98715a89942dd",
+  "name": "ChineseEmbinUS",
+  "username": "ChineseEmbinUS",
+  "category": "media",
+  "daily_count": 4.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、低宜人性、低神经质",
+      "detail": "尽责性高：内容发布规律，聚焦特定主题，体现系统性；外向性高：频繁转发官方账号内容，积极传播信息；开放性中等：主要传播官方叙事，创新表达有限；宜人性低：对台湾问题等持强硬立场，缺乏妥协姿态；神经质低：情绪稳定，内容以宣传成就为主，较少情绪化表达。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "僵化思维、缺乏批判性、过度依赖权威",
+      "detail": "思维僵化：严格遵循官方叙事框架，缺乏独立观点；批判性缺失：对宣传内容全盘接受，未展示质疑或分析能力；权威依赖：内容几乎全部转发自中国官方或外交账号，缺乏原创性。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "宣传导向、成就展示、对抗叙事",
+      "detail": "宣传导向：以传播中国正面形象为核心目标；成就展示：强调经济、科技、文化等领域成就（如GDP增长、石油产能、电动汽车）；对抗叙事：在台湾、国际关系等议题上构建中美对立框架（如批评美国退出国际组织、指责美国对台政策）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "模式可预测、内容同质化、互动策略单一",
+      "detail": "模式可预测：发布内容高度依赖转发，时间、主题规律性强；内容同质化：集中于经济成就、文化宣传、政治立场三类，缺乏多样性；互动策略单一：以单向传播为主，未见深度互动或争议应对机制。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "立场极端化、叙事二元对立、缺乏灵活性",
+      "detail": "立场极端化：在台湾等问题上立场强硬，无妥协空间（如称美国对台政策是“胁迫”）；叙事二元对立：构建“中国正义/美国霸权”的简单对立框架；缺乏灵活性：难以适应复杂或多边的国际叙事环境。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "原创能力弱、数据分析表面化、跨文化传播局限",
+      "detail": "原创能力弱：内容几乎均为转发，缺乏独立创作或深度分析；数据分析表面化：引用经济数据时仅展示结果，未提供背景或对比分析；跨文化传播局限：内容以英文为主，但文化元素（如中国故事、生活方式）传播效果可能受限。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "认知闭合度高、群体认同强化、现实检验能力弱",
+      "detail": "认知闭合度高：拒绝接受与官方叙事相悖的信息；群体认同强化：通过转发强化“中国崛起”集体认同，排斥外部视角；现实检验能力弱：宣传内容可能脱离国际受众的实际认知（如“学习中国生活方式”的表述）。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造国际形象、影响海外舆论、对冲西方叙事",
+      "detail": "塑造国际形象：展示中国为负责任、先进的大国（如经济成就、文化贡献）；影响海外舆论：针对英语受众传播中国观点，尤其在台湾、经济等领域；对冲西方叙事：通过对比（如中美石油产能）或批评（如美国退出国际组织）削弱西方话语权。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "经济成就、台湾问题、文化输出、国际关系、科技发展",
+      "detail": "经济成就：GDP增长、城市经济、石油产能等；台湾问题：批评美国对台政策，强调“出卖台湾”；文化输出：冰雪经济、音乐、生活方式等；国际关系：批评美国单边主义，倡导多边合作；科技发展：电动汽车、现代技术等。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      10,
+      0
+    ],
+    [
+      2,
+      10,
+      0
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 22:07:50 +0000 2026",
+      "text": "RT @AmbXieFeng: Ignite — Launch! 🚀 https://t.co/UpPyEqGB4w",
+      "translation": "转发 @AmbXieFeng：点火——发射！🚀 https://t.co/UpPyEqGB4w",
+      "stance": "正面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 15,
+        "like": 184
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 17:05:33 +0000 2026",
+      "text": "🔥 The #DPP’s so-called #US trade deal sells out #Taiwan.\n‼️Tariffs as pressure.\n‼️Investment as coercion.\n‼️Industries hollowed out. https://t.co/F0LtN1YF5v",
+      "translation": "🔥 民进党所谓的 #美台贸易协议 出卖了 #台湾。 ‼️关税施压。 ‼️投资胁迫。 ‼️产业空心化。 https://t.co/F0LtN1YF5v",
+      "stance": "正面",
+      "metrics": {
+        "reply": 78,
+        "retweet": 97,
+        "like": 587
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:46:00 +0000 2026",
+      "text": "RT @SpoxCHNinUS: Voices from #China in #Davos are applauded:\n 🔴The world cannot return to the law of the jungle, where the strong prey on t…",
+      "translation": "转发 @SpoxCHNinUS：来自 #达沃斯 的 #中国 声音受到赞誉： 🔴世界不能重回弱肉强食的丛林法则……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 49,
+        "like": 170
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:31:30 +0000 2026",
+      "text": "🇨🇳#China now leads the world in #oil refining capacity with 18.5 mb/d, surpassing traditional oil giant the 🇺🇸#US.\nhttps://t.co/yLL8pyxYrD",
+      "translation": "🇨🇳#中国 现以每日1850万桶的 #炼油能力 领先世界，超越传统石油巨头 🇺🇸#美国。 https://t.co/yLL8pyxYrD",
+      "stance": "正面",
+      "metrics": {
+        "reply": 66,
+        "retweet": 380,
+        "like": 2228
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:27:09 +0000 2026",
+      "text": "RT @SpoxCHNinUS: 🏙#Beijing has becone the 2nd city in the #Chinese mainland to see its economy surpass the 5-trillion-yuan mark. \n\n📈In 2025…",
+      "translation": "转发 @SpoxCHNinUS：🏙#北京 已成为 #中国大陆 第二个经济总量突破5万亿元的城市。 📈2025年……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 7,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:25:58 +0000 2026",
+      "text": "RT @AmbassadeChine: ❄️ Une vague d’air froid traverse Paris !\nLe chanteur-auteur-compositeur sino-canadien Henry Lau (刘宪华) interprète son t…",
+      "translation": "转发 @AmbassadeChine：❄️ 一股寒流席卷巴黎！华裔加拿大歌手兼词曲作者刘宪华（Henry Lau）演绎其最新单曲……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:05:03 +0000 2026",
+      "text": "https://t.co/PqNzJuOpu4",
+      "translation": "https://t.co/PqNzJuOpu4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 310,
+        "like": 3889
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:04:44 +0000 2026",
+      "text": "https://t.co/3OckaMzobO",
+      "translation": "https://t.co/3OckaMzobO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 46,
+        "like": 260
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:57:24 +0000 2026",
+      "text": "📍Welcome to #Beijing #EV factory 🚗\nCheck in with China's modern technology ⚡️",
+      "translation": "📍欢迎来到 #北京 #电动汽车工厂 🚗 打卡中国现代科技 ⚡️",
+      "stance": "正面",
+      "metrics": {
+        "reply": 16,
+        "retweet": 26,
+        "like": 178
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:18:37 +0000 2026",
+      "text": "#China #universtity \nhttps://t.co/P0eYKjVJhg",
+      "translation": "#中国 #大学 https://t.co/P0eYKjVJhg",
+      "stance": "无关",
+      "metrics": {
+        "reply": 269,
+        "retweet": 556,
+        "like": 4728
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:29 +0000 2026",
+      "text": "RT @AmbXieFeng: Another threshold crossed: China’s GDP reached 140.19 trillion yuan ($20.13 trillion) in 2025, up by 5% YOY. \n\nAs the new j…",
+      "translation": "转发 @AmbXieFeng：又一个里程碑：2025年中国GDP达到140.19万亿元（20.13万亿美元），同比增长5%。 作为新的增长引擎……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 19,
+        "like": 141
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:19 +0000 2026",
+      "text": "RT @ChinaConsulate: Cultural engines ramp up China’s booming ice-and-snow economy. https://t.co/2K4ILHyhTf",
+      "translation": "转发 @ChinaConsulate：文化引擎助推中国蓬勃发展的冰雪经济。 https://t.co/2K4ILHyhTf",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:02 +0000 2026",
+      "text": "📢Exit On Ego: The #US is to withdraw from 66 international organizations. https://t.co/OIKM9UnRd0",
+      "translation": "📢退出自负： #美国 将退出66个国际组织。 https://t.co/OIKM9UnRd0",
+      "stance": "中立",
+      "metrics": {
+        "reply": 60,
+        "retweet": 157,
+        "like": 830
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:58:15 +0000 2026",
+      "text": "RT @ChinaMilBugle: Through the Lens: \nBehind every hero is a hero …\n\n#MilitarySpouse \n#Chinamilitary #ChinaMilBugle https://t.co/KL71tWXk5K",
+      "translation": "转发 @ChinaMilBugle：镜头背后： 每一位英雄的背后都有一位英雄…… #军嫂 #中国军队 #ChinaMilBugle https://t.co/KL71tWXk5K",
+      "stance": "正面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 17,
+        "like": 148
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:57:09 +0000 2026",
+      "text": "RT @AmbXieFeng: No wonder Harbin remains one of the top winter tourism destinations: the city in snow looks just like a crystal fairyland.…",
+      "translation": "转发 @AmbXieFeng：难怪哈尔滨仍是冬季旅游热门目的地之一：雪中的城市宛如水晶仙境。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 39,
+        "retweet": 866,
+        "like": 5662
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:57:05 +0000 2026",
+      "text": "RT @AmbXieFeng: I’ve heard that some foreign friends are now busy learning how to live like a Chinese!😄 Drinking hot water, wearing slipper…",
+      "translation": "转发 @AmbXieFeng：听说一些外国朋友现在正忙着学习如何像中国人一样生活！😄 喝热水、穿拖鞋……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 19,
+        "retweet": 29,
+        "like": 190
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:56:50 +0000 2026",
+      "text": "RT @SpoxCHN_LinJian: No road too long, no mountain too high—justice rides on.\n\nIn China, circuit court judges travel on horseback across gr…",
+      "translation": "转发 @SpoxCHN_LinJian：路虽远，行则将至；山虽高，攀则必达——正义在前进。 在中国，巡回法庭法官骑马穿越群山……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 267,
+        "retweet": 1203,
+        "like": 12745
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 17:29:01 +0000 2026",
+      "text": "RT @CG_WangBaodong: Chongqing’s riverside park offers haven for stray cats. https://t.co/IWsdevHqx5",
+      "translation": "转发 @CG_WangBaodong：重庆江边公园为流浪猫提供庇护所。 https://t.co/IWsdevHqx5",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 6,
+        "like": 43
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 22:16:19 +0000 2026",
+      "text": "RT @AmbXieFeng: “We have in China a story about 'blind men touching an elephant.' The elephant is obviously very large. When a blind man to…",
+      "translation": "转发 @AmbXieFeng：“中国有个‘盲人摸象’的故事。大象显然很大。当一个盲人摸到象腿时……”",
+      "stance": "正面",
+      "metrics": {
+        "reply": 56,
+        "retweet": 152,
+        "like": 861
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 01:51:13 +0000 2026",
+      "text": "RT @AmbXieFeng: It was a great pleasure to meet with Senator Dick Durbin, Senator Jack Reed, Senator Chris Coons and Senator Jacky Rosen ye…",
+      "translation": "转发 @AmbXieFeng：昨天很高兴会见了参议员迪克·德宾、杰克·里德、克里斯·库恩斯和杰基·罗森……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 20,
+        "retweet": 22,
+        "like": 135
+      }
+    }
+  ]
+}

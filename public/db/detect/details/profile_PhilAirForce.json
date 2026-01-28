@@ -1,0 +1,353 @@
+{
+  "id": "profile_PhilAirForce.json",
+  "_fingerprint": "f331eca7d5410c9d974798bffbdbe94d",
+  "name": "PhilAirForce",
+  "username": "PhilAirForce",
+  "category": "media",
+  "daily_count": 1.5,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度尽责性、外向性、宜人性，中等开放性，低神经质",
+      "detail": "基于样本分析：\n- 尽责性（Conscientiousness）：极高。表现为高度组织化、纪律严明、注重仪式和程序（如晋升仪式、退休仪式、新年活动）。\n- 外向性（Extraversion）：高。表现为频繁的公开活动、社交互动（如礼节性拜访、接待、合作仪式）和积极对外宣传。\n- 宜人性（Agreeableness）：高。表现为强调团结、合作、信任（如#PAFYouCanTrust标签）、伙伴关系（如与PAFCEA、ROTC校友会合作）和内部凝聚力。\n- 开放性（Openness to Experience）：中等。表现为对新成员、新班级（如PAFOCS Class 2026）、新设备（如医疗捐赠）的接纳，但整体框架和价值观（如传统、连续性）较为稳定保守。\n- 神经质（Neuroticism）：低。表现为情绪稳定、自信、强调力量（#StrongAirForceStrongPhilippines）、连续性和可靠性。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的官僚主义、形式主义、对外部认可过度依赖、内部等级固化",
+      "detail": "基于样本分析：\n- 官僚主义倾向：大量活动围绕仪式、礼节性拜访、委员会会议、人事变更（晋升、退休、职位交接）展开，可能过度注重程序和形式。\n- 形式主义：频繁使用标准化宣传格式（如“PAF NEWS | ...”）、重复性标签（如#FocusPAF, #GuardiansOfOurPreciousSkies），内容可能流于表面宣传。\n- 外部认可依赖：积极展示与外部实体的互动（如总统、移民局长、澳大利亚武官、捐赠方），强调“信任”（#AFPYouCanTrust），显示对合法性和公众形象的高度重视，可能成为被认可需求驱动的弱点。\n- 等级固化：频繁报道高级军官（将军、上校）的活动、晋升和退休，强调指挥链（CG, PAF - Commanding General），可能反映僵化的等级结构，抑制基层创新。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "制度化、传统导向、集体主义、权威遵从、正面宣传偏好",
+      "detail": "基于样本分析：\n- 制度化思维：认知框架高度围绕组织架构、军事程序、正式仪式（如新年团拜、晋升仪式、退休告别）。\n- 传统导向：强调连续性（“Strength in Continuity”）、历史（#AFP90可能指建军90周年）、传统价值观（服务、专业精神）。\n- 集体主义：优先考虑组织团结（“OneAFPOnePhilippines”）、伙伴关系、内部凝聚力，而非个人成就。\n- 权威遵从：认知上尊重并展示对高层领导（总统、CG PAF）、传统权威（退休高级军官）的遵从。\n- 正面宣传偏好：几乎全部内容为正面成就、合作、仪式报道，回避负面或争议话题，显示强烈的形象管理倾向。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对仪式和公开活动的过度投入可能分散资源；标准化宣传易被预测和模仿；对外部互动过度展示可能暴露关系网络",
+      "detail": "基于样本分析：\n- 资源分配：大量精力用于仪式（晋升、退休、新年团拜）、礼节性拜访和委员会会议，可能挤占作战训练或紧急应变资源。\n- 行为可预测性：宣传模式高度标准化（标题格式、标签使用、活动类型），行为模式易于被对手分析预测。\n- 关系暴露：详细报道与国内外官员（总统、移民局长、澳大利亚武官）、机构（PAFCEA、ROTC校友会）的互动，无意中揭示了其关系网络和关注点，可能被用于施加影响或压力。\n- 形象维护压力：持续进行正面宣传以维持“可信赖”（#PAFYouCanTrust）形象，一旦发生负面事件，可能因认知失调而反应过度或试图掩盖。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "高度依赖与菲律宾政府（尤其是总统）的联盟；对“信任”和“合法性”的公开强调使其易受信誉攻击；国际交往（如澳大利亚）可能引发地缘政治敏感",
+      "detail": "基于样本分析：\n- 政府依赖：明确展示与总统Marcos Jr.的关联（主持晋升仪式），立场与现任政府高度绑定，政府政策变化或政治动荡可能直接影响其立场稳定性。\n- 信誉敏感：反复使用#PAFYouCanTrust、#AFPYouCanTrust标签，将“可信赖”作为核心立场承诺。任何实际或感知到的失信行为（如腐败、失误）都可能严重损害其公信力和立场。\n- 国际交往敏感：与澳大利亚国防武官的互动被公开报道，在南海等地缘政治敏感区域，此类国际军事联系可能被特定国家（如中国）视为立场信号，引发不必要的关注或压力。\n- 民族主义立场：口号如“StrongAirForceStrongPhilippines”将组织实力与国家实力直接挂钩，使其立场与国家民族主义情绪紧密相连，易受公众舆论波动影响。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "过度强调行政、仪式和人事管理能力，可能掩盖或忽视实战、技术创新或不对称作战能力；对民用领域（法律、医疗）成就的宣传显示能力拓展但可能分散核心军事焦点",
+      "detail": "基于样本分析：\n- 能力认知偏差：宣传焦点集中在人事管理（晋升、退休、交接）、行政会议（投标委员会、领导力会议）、仪式活动，可能给内部和外部形成“重行政轻实战”的能力认知印象。\n- 核心能力模糊：较少提及具体作战能力、装备升级、战术训练成果。样本中仅通过“GuardiansOfOurPreciousSkies”等口号抽象提及防空，缺乏实质内容。\n- 能力拓展与分散：宣传通过Bar考试（法律）的军人和接受医疗捐赠，显示跨领域能力，但也可能暗示核心军事能力不足或资源被非核心任务分散。\n- 对外依赖暗示：接受医疗设备捐赠，可能暗示在某些后勤或技术领域存在能力缺口或对外部援助的依赖。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "群体思维风险；变革抗拒；对连续性和传统的执着可能抑制适应性；过度乐观的正面框架可能降低对威胁的警觉",
+      "detail": "基于样本分析：\n- 群体思维（Groupthink）：强调“unity”、“OneAFPOnePhilippines”、“shared commitment”，强烈的内部一致性压力可能抑制批判性思维、异议表达和对替代方案的探索。\n- 变革抗拒：主题“Strength in Continuity”和频繁的传统仪式（退休、新年传统）显示对连续性和稳定的高度重视，心智上可能抗拒快速变革、结构调整或颠覆性创新。\n- 适应性局限：认知框架固定在现有等级制度、伙伴关系和宣传模式上，面对非传统威胁、信息战或快速变化的战略环境时，心智灵活性可能不足。\n- 乐观偏差（Optimism Bias）：宣传内容100%正面，可能反映或强化一种集体乐观心态，低估失败风险、外部威胁或内部问题，导致准备不足或反应迟缓。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "强化内部凝聚力与合法性；提升公众形象与政治支持；展示正常化与专业化以获取资源；谨慎拓展国际联系",
+      "detail": "基于样本分析：\n- 内部合法性巩固：通过频繁的晋升、退休仪式和领导层互动，强化指挥链权威、奖励忠诚、管理人事过渡，旨在维持内部秩序和士气。\n- 外部合法性与资源获取：通过正面宣传（信任、专业、服务）、展示与政府高层的联系（总统）、报告行政合规（投标委员会）、接受捐赠，旨在塑造可信、专业、值得支持的公共形象，以稳固政治支持和获取预算资源。\n- 正常化与专业化叙事：在南海等地缘政治敏感区域，通过报道日常行政、培训（PAFOCS新班级）、民事合作（PAFCEA）、法律成就，意图展示一个正常运转、专业化、专注于国内事务的军队，可能旨在降低外部威胁感知或对冲激进形象。\n- 国际联系试探与展示：与澳大利亚武官的互动被报道，可能意图展示国际交往能力、试探或维持与特定伙伴的关系，同时通过公开性控制叙事，避免显得过于隐秘。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心：内部人事与行政管理、仪式与传统、领导力活动、伙伴关系与协作。次要：国际交往、民事-军事关系、专业成就（如法律）、装备与后勤。",
+      "detail": "基于样本分析的高频话题：\n1.  人事管理与晋升：新晋升上校/将军、退休高级军官、职位交接（Chief of Office变更）。\n2.  仪式与传统活动：新年团拜（New Year's Call）、晋升仪式、退休告别仪式、接待仪式（如对新班级）。\n3.  领导力活动：Commanding General (CG, PAF) 参与的各种礼节性拜访、会议、致辞。\n4.  伙伴关系与协作：与PAFCEA（文职人员赋能）、PAF ROTC校友会、投标委员会、移民局等的互动。\n5.  国际交往：澳大利亚国防武官的拜访。\n6.  民事-军事关系：接受医疗设备捐赠、庆祝军人通过法律考试。\n7.  培训与教育：PAFOCS（可能指军官候选人学校）迎新。\n8.  宣传与信任建设：反复使用#FocusPAF, #GuardiansOfOurPreciousSkies, #PAFYouCanTrust等标签。\n关联领域：国防政策、军事外交、公共事务、人力资源、后勤支援。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      2,
+      0,
+      4
+    ],
+    [
+      3,
+      0,
+      5
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      2,
+      1,
+      4
+    ],
+    [
+      3,
+      1,
+      5
+    ],
+    [
+      0,
+      2,
+      5
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      3,
+      2,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 13:00:57 +0000 2026",
+      "text": "PAF NEWS | KUDOS! THREE SUNS UNLOCKED BY 31 NEWLY PROMOTED COLONELS!\n\nSee full article 👇🏻\nhttps://t.co/EN5pYCO9pM https://t.co/peM0G0IzGc",
+      "translation": "PAF新闻 | 祝贺！31名新晋升上校解锁三颗太阳！查看完整文章👇🏻 https://t.co/EN5pYCO9pM https://t.co/peM0G0IzGc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 10:08:55 +0000 2026",
+      "text": "PAF NEWS | PAF BIDS AND AWARDS COMMITTEES 1 AND 2 ENGAGE WITH CG, PAF\n\nSee Original Post: https://t.co/LvsOyIO7UY\n\n#FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/vohMtDTyYs",
+      "translation": "PAF新闻 | PAF招标与授标委员会1和2与PAF指挥官会面 查看原文：https://t.co/LvsOyIO7UY #FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/vohMtDTyYs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 06:52:18 +0000 2026",
+      "text": "PAF NEWS | IMMIGRATION COMMISSIONER PAYS COURTESY CALL ON CG PAF\n\nSee full story:\nhttps://t.co/zIbXyfhE5Z\n\n#FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/VPbiy9HAKM",
+      "translation": "PAF新闻 | 移民局长礼节性拜访PAF指挥官 查看完整故事：https://t.co/zIbXyfhE5Z #FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/VPbiy9HAKM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 06:29:18 +0000 2026",
+      "text": "PAF NEWS | A SALUTE TO SERVICE: SENIOR PAF OFFICERS RENDER RETIREMENT CALL ON THE VICE COMMANDER, PHILIPPINE AIR FORCE\n\nSee full post: https://t.co/o1YHJjAdw5 https://t.co/OcUjOJn8CR",
+      "translation": "PAF新闻 | 致敬服务：PAF高级军官向菲律宾空军副司令进行退休拜访 查看完整帖子：https://t.co/o1YHJjAdw5 https://t.co/OcUjOJn8CR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 12:49:13 +0000 2026",
+      "text": "PAF NEWS | PRESIDENT MARCOS JR ADMINISTERS OATH TO NEWLY PROMOTED AFP GENERALS AND FLAG OFFICERS\n\nSee full story:\nhttps://t.co/C2tVNSGwsI\n\n#FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust https://t.co/gNYNTkgB3r",
+      "translation": "PAF新闻 | 马科斯总统为新晋升的AFP将军和旗级军官主持宣誓就职 查看完整故事：https://t.co/C2tVNSGwsI #FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust https://t.co/gNYNTkgB3r",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 10:55:33 +0000 2026",
+      "text": "PAF NEWS | AUSTRALIAN DEFENSE ATTACHÉS PAY JOINT FAREWELL AND INTRODUCTORY CALL ON CG PAF\n\nSee original post: https://t.co/YqZ8bwEbie https://t.co/1WTq3wkr4C",
+      "translation": "PAF新闻 | 澳大利亚国防武官联合向PAF指挥官进行告别和介绍性拜访 查看原文：https://t.co/YqZ8bwEbie https://t.co/1WTq3wkr4C",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 10:04:27 +0000 2026",
+      "text": "PAF NEWS | PAFOCS WELCOMES CLASS 2026 WITH RECEPTION RITES\n\nSee full story:\nhttps://t.co/9r3diaIUKY\n\n#FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/KCNikirfod",
+      "translation": "PAF新闻 | PAFOCS以接待仪式欢迎2026届学员 查看完整故事：https://t.co/9r3diaIUKY #FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/KCNikirfod",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 02:53:39 +0000 2026",
+      "text": "PAF NEWS | PAFCEA AND PAF LEADERSHIP STRENGTHEN PARTNERSHIP FOR CIVILIAN EMPOWERMENT\n\nSee Original post: https://t.co/GP6DqQik9X\n\n#FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/ToKNP7Rr3Z",
+      "translation": "PAF新闻 | PAFCEA与PAF领导层加强伙伴关系以赋能文职人员 查看原文：https://t.co/GP6DqQik9X #FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/ToKNP7Rr3Z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 09:11:48 +0000 2026",
+      "text": "PAF NEWS | DEPUTY CHIEF OF STAFF FOR EDUCATION, TRAINING AND DOCTRINE, J8, RENDERS RETIREMENT CALL ON CG, PAF\n\nRead more: https://t.co/GbhFtDLn44\n\n#FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust https://t.co/syfhoIhcnA",
+      "translation": "PAF新闻 | 教育、训练与条令副参谋长J8向PAF指挥官进行退休拜访 阅读更多：https://t.co/GbhFtDLn44 #FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust https://t.co/syfhoIhcnA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 09:05:26 +0000 2026",
+      "text": "PAF NEWS | AFRC DEPUTY COMMANDER RENDERS RETIREMENT CALL ON CG, PAF\n\nSee full article 👇🏻\nhttps://t.co/CzmJETQNCF https://t.co/hsDE1g8mBE",
+      "translation": "PAF新闻 | AFRC副司令向PAF指挥官进行退休拜访 查看完整文章👇🏻 https://t.co/CzmJETQNCF https://t.co/hsDE1g8mBE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 08:15:19 +0000 2026",
+      "text": "PAF NEWS | PAF LEADERSHIP JOINS AFP NEW YEAR’S CALL 2026\n\nSee full article 👇🏻\nhttps://t.co/BEbm5qlcpH https://t.co/YLTRES0inM",
+      "translation": "PAF新闻 | PAF领导层参加AFP 2026年新年拜访 查看完整文章👇🏻 https://t.co/BEbm5qlcpH https://t.co/YLTRES0inM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 05:09:30 +0000 2026",
+      "text": "The Philippine Air Force takes pride in the exceptional feat of our Airmen who successfully passed the 2025 Bar Examinations.\n \n#FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAFPStrongPhilippines #AFPYouCanTrust https://t.co/feDpvGccXB",
+      "translation": "菲律宾空军为我们成功通过2025年律师资格考试的空军人员取得的卓越成就感到自豪。 #FocusPAF #GuardiansofOurPreciousSkies #PAFYouCanTrust #OneAFPOnePhilippines #StrongAFPStrongPhilippines #AFPYouCanTrust https://t.co/feDpvGccXB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 10:42:04 +0000 2026",
+      "text": "Message of the Commanding General, Philippine Air Force,\nLieutenant General Arthur M Cordura PAF, on New Year’s Eve \n\nRead More: https://t.co/nkpcgbuxpV\n\n#FocusPAF #GuardiansofourPreciousSkies #PAFyoucanTrust #OneAFPOnePHILIPPINES #StrongAirForceStrongPHILIPPINES AFPyoucanTRUST https://t.co/Zrywndi2ge",
+      "translation": "菲律宾空军指挥官阿瑟·M·科杜拉中将的新年前夜致辞 阅读更多：https://t.co/nkpcgbuxpV #FocusPAF #GuardiansofourPreciousSkies #PAFyoucanTrust #OneAFPOnePHILIPPINES #StrongAirForceStrongPHILIPPINES AFPyoucanTRUST https://t.co/Zrywndi2ge",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 16:18:13 +0000 2026",
+      "text": "PAF New Year’s Call 2026 | The Philippine Air Force marked its New Year’s Call 2026 as leaders formally welcomed the year, reaffirming unity, professionalism, and a shared commitment to service, anchored on “Strength in Continuity\".\n\nWatch 👇🏻:\nhttps://t.co/JhkxARpimM",
+      "translation": "PAF 2026年新年拜访 | 菲律宾空军举行2026年新年拜访，领导层正式迎接新年，重申团结、专业精神以及基于“连续中的力量”的共同服务承诺。 观看👇🏻：https://t.co/JhkxARpimM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 07:25:44 +0000 2026",
+      "text": "PAF NEWS | PAF HOLDS NEW YEAR’S CALL 2026\n\nSee full story:\nhttps://t.co/H90HyJnZSW\n\n#FocusPAF#GuardiansofOurPreciousSkies#PAFYouCanTrust#OneAFPOnePhilippines#StrongAirForceStrongPhilippines#AFPYouCanTrust#MatatagNaSandigan https://t.co/floblR0vwX",
+      "translation": "PAF新闻 | PAF举行2026年新年拜访 查看完整故事：https://t.co/H90HyJnZSW #FocusPAF#GuardiansofOurPreciousSkies#PAFYouCanTrust#OneAFPOnePhilippines#StrongAirForceStrongPhilippines#AFPYouCanTrust#MatatagNaSandigan https://t.co/floblR0vwX",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 13:38:30 +0000 2026",
+      "text": "PAF NEWS | PAF HOLDS JOINT CHANGE OF CHIEF OF OFFICE FOR PLANS AND SAFETY\n\nSee full article 👇🏻\nhttps://t.co/TraKeDr3Wk https://t.co/K9yxkn110M",
+      "translation": "PAF新闻 | PAF举行计划与安全办公室联合主任交接仪式 查看完整文章👇🏻 https://t.co/TraKeDr3Wk https://t.co/K9yxkn110M",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 13:35:55 +0000 2026",
+      "text": "PAF NEWS | PAF HOLDS JOINT CHANGE OF CHIEF OF OFFICE FOR PLANS AND SAFETY\n\nSee full article 👇🏻\nhttps://t.co/TraKeDr3Wk https://t.co/LflmfT0zRn",
+      "translation": "PAF新闻 | PAF举行计划与安全办公室联合主任交接仪式 查看完整文章👇🏻 https://t.co/TraKeDr3Wk https://t.co/LflmfT0zRn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 08:10:36 +0000 2026",
+      "text": "PAF NEWS | PAF WELCOMES NEWLY PROMOTED PAF GENERAL OFFICERS \n\nSeefull story:\nhttps://t.co/d3sYeLDqRd\n\n#FocusPAF#GuardiansofOurPreciousSkies#PAFYouCanTrust#OneAFPOnePhilippines#StrongAirForceStrongPhilippines#AFPYouCanTrust#MatatagNaSandigan#AFP90 https://t.co/vQMWRZVdr6",
+      "translation": "PAF新闻 | PAF欢迎新晋升的PAF将级军官 查看完整故事：https://t.co/d3sYeLDqRd #FocusPAF#GuardiansofOurPreciousSkies#PAFYouCanTrust#OneAFPOnePhilippines#StrongAirForceStrongPhilippines#AFPYouCanTrust#MatatagNaSandigan#AFP90 https://t.co/vQMWRZVdr6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 08:03:10 +0000 2026",
+      "text": "PAF NEWS | PAF RECEIVES MEDICAL AND DENTAL EQUIPMENT DONATION TO ENHANCE HEALTH SERVICES\n\nSee Original Post: https://t.co/GP6DqQik9X\n\n#FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/ga4FQTEc4q",
+      "translation": "PAF新闻 | PAF接收医疗和牙科设备捐赠以提升健康服务 查看原文：https://t.co/GP6DqQik9X #FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #StrongAirForceStrongPhilippines #AFPYouCanTrust #MatatagNaSandigan #AFP90 https://t.co/ga4FQTEc4q",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 08:33:59 +0000 2026",
+      "text": "PAF NEWS | PAF ROTC ALUMNI ASSOCIATION, INC. PAYS COURTESY CALL ON PAF LEADERSHIP\n\nRead more: https://t.co/tXQYgynCel\n\n#FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #OneAFOnePHILIPPINES #StrongAirForceStrongPHILIPPINES #AFPYouCanTrust https://t.co/Q93FFfYqD2",
+      "translation": "PAF新闻 | PAF ROTC校友会公司向PAF领导层进行礼节性拜访 阅读更多：https://t.co/tXQYgynCel #FocusPAF #GuardiansOfOurPreciousSkies #PAFYouCanTrust #OneAFOnePHILIPPINES #StrongAirForceStrongPHILIPPINES #AFPYouCanTrust https://t.co/Q93FFfYqD2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    }
+  ]
+}

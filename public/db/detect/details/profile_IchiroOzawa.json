@@ -1,0 +1,313 @@
+{
+  "id": "profile_IchiroOzawa.json",
+  "_fingerprint": "4e2b1eaab8422a5c05296435f1c0ec9e",
+  "name": "IchiroOzawa",
+  "username": "ichiroozawa",
+  "category": "media",
+  "daily_count": 0.4,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高外向性、中等尽责性、中等宜人性、中等神经质",
+      "detail": "开放性高：对足球、文化、旅行等多领域有浓厚兴趣，乐于分享见解；外向性高：活跃于社交媒体，频繁互动，展现社交倾向；尽责性中等：有规律发布内容但缺乏系统性规划；宜人性中等：表达观点时较直接，但无明显攻击性；神经质中等：情绪相对稳定，偶有兴奋表达但无极端波动。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在的自我中心倾向、过度乐观、固执己见",
+      "detail": "自我中心倾向：内容以个人观点和经历为主，较少考虑多元视角；过度乐观：对足球比赛和球队前景常持积极预测，可能低估风险；固执己见：在足球分析中坚持特定判断（如球员评价），不易改变立场。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "经验驱动、情感偏好、简化归因",
+      "detail": "经验驱动：依赖个人观察和体验（如旅行、观赛）形成观点；情感偏好：对特定球队（如巴塞罗那）和球员有明显情感倾向；简化归因：将复杂结果（如比赛胜负）归因于少数因素（如球员表现、教练决策）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "社交媒体依赖、信息过载、冲动分享",
+      "detail": "社交媒体依赖：主要通过Twitter和YouTube获取和传播信息，易受平台算法影响；信息过载：频繁发布多领域内容，可能导致注意力分散和深度分析不足；冲动分享：实时发布观点，缺乏充分验证，易传播不准确信息。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "足球偏见、文化优越感、政治中立性模糊",
+      "detail": "足球偏见：对西班牙足球（尤其是巴塞罗那）有明显偏好，可能影响客观分析；文化优越感：在描述西班牙文化（如节日）时隐含优越感，可能忽视其他文化视角；政治中立性模糊：对国际事件（如美国-委内瑞拉关系）的评论表面中立，但隐含立场倾向。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "分析深度有限、跨领域整合不足、语言依赖",
+      "detail": "分析深度有限：足球评论多基于表面现象，缺乏战术或数据深度分析；跨领域整合不足：虽涉及足球、文化、政治，但连接松散，缺乏系统框架；语言依赖：主要使用日语和西班牙语，可能限制信息获取广度。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "确认偏误、情感决策、身份认同冲突",
+      "detail": "确认偏误：倾向于寻找支持已有观点（如球队优势）的信息；情感决策：观点常受个人情感（如对球员的喜好）驱动而非理性分析；身份认同冲突：作为日本人在西班牙文化环境中，可能面临身份认同模糊或过度适应压力。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "建立个人品牌、文化桥梁角色、潜在商业动机",
+      "detail": "建立个人品牌：通过专业足球分析和文化内容，提升在日语和西班牙语圈的影响力；文化桥梁角色：有意连接日本和西班牙文化，促进跨文化理解；潜在商业动机：内容可能为合作（如旅游、媒体）铺垫，隐含商业推广意图。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "足球（西班牙、日本）、西班牙文化、旅行、国际政治",
+      "detail": "足球：重点关注西班牙足球（La Liga、巴塞罗那、皇家马德里）和日本足球（J联赛、国家队）；西班牙文化：深入介绍节日（如三王节）、历史、日常生活；旅行：分享在西班牙、意大利等地的旅行经历和见闻；国际政治：简要评论国际事件（如美国-委内瑞拉关系），但非核心领域。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 40
+    },
+    {
+      "name": "同伴",
+      "value": 50
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 07 13:14:48 +0000 2026",
+      "text": "スペイン代表GK論争、どっち？J.ガルシアは選ばれるべき？U.シモンでW杯優勝できる？今晩のスーペルコパ準決勝はGK対決に注目｜SC準決勝 バル... https://t.co/oMW6YxfDfe @YouTubeより \n\n#Periodista",
+      "translation": "西班牙国家队门将之争，选谁？J.加西亚应该入选吗？用U.西蒙能赢得世界杯吗？今晚的西班牙超级杯半决赛请关注门将对决｜SC半决赛 巴... https://t.co/oMW6YxfDfe @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 57
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 17:33:41 +0000 2026",
+      "text": "スペインは1月6日が公現祭の祝日。東方の三賢者がキリストを訪れたことを祝うレジェス・マゴスでございます。\n\n肌感ではXマスより今日を楽しみにしている人が多い印象。特に子どもたちは。サンタは来ない家も多いけれど、レジェス・マゴスは必ず来てくれるからね。 https://t.co/3upPUaYzfo",
+      "translation": "西班牙1月6日是主显节假期。这是庆祝东方三贤士拜访耶稣的“三王节”。个人感觉，比起圣诞节，更多人期待今天。尤其是孩子们。很多家庭圣诞老人不来，但三王节一定会来。 https://t.co/3upPUaYzfo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 211
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 16:42:41 +0000 2026",
+      "text": "2時間半！まさかの大行列の洗礼を受ける…。ヴァチカン市国観光ではなく、カオスの行列に並びに行ったのかも？でもサン・ピエトロ大聖堂、クーポラからの... https://t.co/Zk0Te8FUbx @YouTubeより \n\n#Periodista",
+      "translation": "两个半小时！没想到遭遇大排长龙…。这到底是去梵蒂冈城国观光，还是去排混乱的队伍？但圣彼得大教堂、从穹顶看出去的... https://t.co/Zk0Te8FUbx @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 60
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 09:56:56 +0000 2025",
+      "text": "動画最後で紹介したのですが、オリンピコに向かうバスの停留所で日本からイタリア旅行に来ていた大学生2名に声をかけてもらいました。\n\n中央の彼はセリエAファン、ロマニスタ。 https://t.co/sV9hkjq7sT",
+      "translation": "视频最后介绍了，在前往奥林匹克体育场的公交车站，被两名从日本来意大利旅行的大学生搭话了。中间那位是意甲球迷，罗马队支持者。 https://t.co/sV9hkjq7sT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 41,
+        "like": 728
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 09:38:54 +0000 2025",
+      "text": "ワオッ、北川さんが動画にコメントしてくれました。これまたGrazie、北川さん！ https://t.co/bY6n1RNn9Y",
+      "translation": "哇，北川先生在视频下留言了。再次感谢，北川先生！ https://t.co/bY6n1RNn9Y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 45,
+        "like": 938
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 23:04:22 +0000 2026",
+      "text": "マドリー、撤退守備で辛勝。またエル・クラシコ決勝。低調ヴィニシウスにサウジでもブーイング。シメオネ監督の挑発はやり過ぎ。｜SC準決勝 アトレティ... https://t.co/7gku6y90X2 @YouTubeより \n\n#Periodista",
+      "translation": "马德里，靠防守反击艰难取胜。又是国家德比决赛。状态低迷的维尼修斯在沙特也遭嘘。西蒙尼教练的挑衅有些过火。｜SC半决赛 马德里竞技... https://t.co/7gku6y90X2 @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 42
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 00:17:33 +0000 2026",
+      "text": "バルサ、5得点圧勝で決勝進出！ペドリ、ラフィーニャが揃う強さ再確認。大敗アトレティックは選手がファンに謝罪。｜SC 準決勝 バルセロナ vs ア... https://t.co/pmtlOcfbRb @YouTubeより \n\n#Periodista",
+      "translation": "巴萨，5球大胜晋级决赛！佩德里、拉菲尼亚齐上阵，实力再次得到确认。惨败的毕尔巴鄂竞技球员向球迷道歉。｜SC 半决赛 巴塞罗那 vs 毕尔巴鄂竞技... https://t.co/pmtlOcfbRb @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 52
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 14:02:11 +0000 2026",
+      "text": "新年のご挨拶が遅くなりました。\n\nFeliz Año Nuevo!!\n明けましておめでとうございます！\n\n大晦日の昨晩、無事にローマ旅からスペインに戻り、Uva（ぶどう）12個を食べて年越ししました🍇 https://t.co/EN4QuSqOFu",
+      "translation": "新年问候迟到了。 Feliz Año Nuevo!! 新年快乐！ 昨晚除夕，顺利从罗马旅行回到西班牙，吃了12颗葡萄跨年🍇 https://t.co/EN4QuSqOFu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 9,
+        "like": 646
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 12:47:35 +0000 2026",
+      "text": "パンテオンと2千年の歴史に圧倒される。ローマ旅1日目。サッカーを入口に世界を旅して世界と歴史を知る。それは日本人や日本の良さを知ることでもある。... https://t.co/mcUg98tNug @YouTubeより \n\n#Periodista",
+      "translation": "被万神殿和两千年的历史所震撼。罗马旅行第一天。以足球为入口周游世界，了解世界和历史。这也是了解日本人和日本优点的过程。... https://t.co/mcUg98tNug @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 6,
+        "like": 96
+      }
+    },
+    {
+      "created_at": "Sun Jan 11 07:40:50 +0000 2026",
+      "text": "次男の4年チームは年明けから上位リーグが開幕。昨日の初戦、ホームで勝利！バモス！\n\n昨季も今季もまずは年内（10-12月）に10チームによる1回戦総当り（9試合）のリーグ戦。\n\nそこで上位に入れば、年明けから上位リーグ。（もちろん、下位リーグもあり） https://t.co/4xXPVXUYMU",
+      "translation": "次子的4年队新年伊始高级别联赛开幕。昨天的首战，主场获胜！加油！ 上赛季和本赛季都是先在年内（10-12月）进行10支球队的单循环联赛（9场比赛）。 如果排名靠前，新年开始就进入高级别联赛。（当然，也有低级别联赛） https://t.co/4xXPVXUYMU",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 96
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 18:40:15 +0000 2026",
+      "text": "ゴンサロ3得点、マドリー快勝。エンバペ不在の不安も解消。ヴィニとロドリゴのウイングシステムも機能。26年のマドリーは一味違う？｜ラ・リーガ 第1... https://t.co/WPLPPBAWLQ @YouTubeより \n\n#Periodista",
+      "translation": "贡萨洛3球，马德里轻松取胜。姆巴佩缺席的担忧也消除了。维尼和罗德里戈的边锋体系也奏效。26年的马德里会有所不同吗？｜西甲 第1... https://t.co/WPLPPBAWLQ @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 38
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 12:08:21 +0000 2026",
+      "text": "鹿島優勝の要因。柏のサッカーと優勝争いへの評価。25年J1総括。円安と税負担で厳しい外国人補強。若手を育てる半年に？26年移行シーズンのJリーグ... https://t.co/Rq8NJ3ov2T @YouTubeより \n\n#Periodista  \n@skizaki",
+      "translation": "鹿岛夺冠的原因。对柏太阳神的足球和争冠的评价。25年J1总结。日元贬值和税负使外援补强困难。培养年轻人的半年？26年过渡赛季的J联赛... https://t.co/Rq8NJ3ov2T @YouTube #Periodista @skizaki",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 61
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 23:30:17 +0000 2026",
+      "text": "バルセロナとヤマルの調子。ベストメンバーだと図抜けている。選手層の薄さをカバーするG.マルティンとE.ガルシア。限定タスクのレヴァンドフスキ｜2... https://t.co/pshNXkoRZu @YouTubeより \n\n#Periodista",
+      "translation": "巴塞罗那和亚马尔的状态。最佳阵容时实力超群。弥补阵容厚度不足的G.马丁和E.加西亚。任务受限的莱万多夫斯基｜2... https://t.co/pshNXkoRZu @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 47
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 23:52:04 +0000 2026",
+      "text": "ジョアン・ガルシア、神セーブ連発。文句なしNO.1スペイン人GK。バルサが熱いダービーを制す。フェルミンも2アシストの活躍。｜ラ・リーガ 第18... https://t.co/qa0m6IgHzf @YouTubeより \n\n#Periodista",
+      "translation": "若昂·加西亚，神扑连发。无可争议的西班牙第一门将。巴萨赢得激烈德比。费尔明也贡献2次助攻表现活跃。｜西甲 第18... https://t.co/qa0m6IgHzf @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 66
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 14:39:07 +0000 2026",
+      "text": "ベスト8への勝ち筋。W杯での日本代表展望。南野拓実の怪我の影響。アヤックス移籍、冨安健洋のメンバー入り。CB残り1枠は高井幸大。優勝国と伏兵予想... https://t.co/NMkkJcnqDK @YouTubeより \n\n#Periodista  \n@skizaki",
+      "translation": "晋级八强的取胜之道。世界杯上日本队的展望。南野拓实受伤的影响。转会阿贾克斯，富安健洋入选大名单。中后卫剩余1个名额是高井幸大。预测冠军和黑马... https://t.co/NMkkJcnqDK @YouTube #Periodista @skizaki",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 49
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 13:47:11 +0000 2026",
+      "text": "スペインのペドロ・サンチェス首相が先程、米国のベネズエラ攻撃についてXでコメント。\n\n米国への配慮は含みながらも、まずは国際法遵守の原則を強調。\n\n個人的に、日本政府の姿勢と声明が気になる。\n\n「スペイン政府はベネズエラ情勢を注視している。大使館と領事館は通常通り業務を行っている。",
+      "translation": "西班牙首相佩德罗·桑切斯刚才在X上就美国攻击委内瑞拉发表评论。 在包含对美国考虑的同时，首先强调了遵守国际法的原则。 个人而言，在意日本政府的姿态和声明。 “西班牙政府正密切关注委内瑞拉局势。大使馆和领事馆照常运作。",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 47,
+        "like": 303
+      }
+    },
+    {
+      "created_at": "Mon Nov 24 09:42:21 +0000 2025",
+      "text": "🇪🇸サッカーキング ラ・リーガ班 スペイン旅📷\n〜supported by LALIGA＆U-NEXT〜  \n\n①バルセロナ＆ラ・リーガミュージアム編 https://t.co/sS6N2FOSPJ \n\n➁レアル・ソシエダ＆アトレティック編 https://t.co/eFzbsqKsMv \n\n③アトレティコ・マドリード＆レアル・マドリード編 https://t.co/HmE8IeN0Lt",
+      "translation": "🇪🇸足球之王 西甲班 西班牙旅📷 〜由LALIGA＆U-NEXT赞助〜 ①巴塞罗那＆西甲博物馆篇 https://t.co/sS6N2FOSPJ ②皇家社会＆毕尔巴鄂竞技篇 https://t.co/eFzbsqKsMv ③马德里竞技＆皇家马德里篇 https://t.co/HmE8IeN0Lt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 9,
+        "like": 148
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 00:06:19 +0000 2026",
+      "text": "バルサ優勝！26年初タイトル！やっぱりラフィーニャ、また2得点。ヤマル復調。守備的マドリー、ヴィニの輝き、決定力不足。X.アロンソ監督の解任はな... https://t.co/OM5QWTZ2CQ @YouTubeより \n\n#Periodista",
+      "translation": "巴萨夺冠！26年首个冠军！果然还是拉菲尼亚，又进2球。亚马尔状态回升。防守型马德里，维尼的闪光，终结能力不足。X.阿隆索教练被解雇是... https://t.co/OM5QWTZ2CQ @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 5,
+        "like": 95
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 16:39:09 +0000 2026",
+      "text": "【一部公開】3-1でバルサ勝利予想。悪化するヴィニシウスは「売った方がいい」。X.アロンソ監督はタイミングを逃した。マネージメントの失敗｜26年... https://t.co/IDNSuWoKRJ @YouTubeより \n\n#Periodista",
+      "translation": "【部分公开】预测3-1巴萨获胜。状态恶化的维尼修斯“卖掉更好”。X.阿隆索教练错失了时机。管理层的失败｜26年... https://t.co/IDNSuWoKRJ @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 40
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 01:10:11 +0000 2026",
+      "text": "エンバペ怪我、3週間離脱？マドリーとシャビ・アロンソ監督、新年早々大ピンチ。バルサは精神的問題を抱えていたアラウホが練習復帰。本当に良かった... https://t.co/InE6lWIaTa @YouTubeより \n\n#Periodista",
+      "translation": "姆巴佩受伤，缺阵3周？马德里和哈维·阿隆索教练，新年伊始陷入大危机。巴萨有心理问题的阿劳霍恢复训练。真是太好了... https://t.co/InE6lWIaTa @YouTube #Periodista",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 51
+      }
+    }
+  ]
+}

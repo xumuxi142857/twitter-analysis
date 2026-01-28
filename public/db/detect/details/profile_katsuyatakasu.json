@@ -1,0 +1,313 @@
+{
+  "id": "profile_katsuyatakasu.json",
+  "_fingerprint": "7d1ee4b8e409c46cff0f4aaf3f929dcf",
+  "name": "katsuyatakasu",
+  "username": "katsuyatakasu",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "外向性高，开放性中等，宜人性中等，尽责性中等，神经质中等偏低",
+      "detail": "外向性高：频繁社交互动，积极分享个人生活与观点，使用“なう”（now）等实时表达。开放性中等：关注政治、文化等多元话题，但内容集中于个人兴趣圈。宜人性中等：展现对特定人物（如片山さつき）的支持，但对某些群体（如韩国）持批评态度。尽责性中等：有事业追求（如医疗美容），但言论随性。神经质中等偏低：面对健康挑战（癌症）时表现积极，情绪表达直接但稳定。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "自我中心倾向，易受群体认同影响，存在虚荣表现",
+      "detail": "自我中心倾向：言论频繁围绕个人成就（如书籍销售、生日祝福）、健康状态及社交活动，缺乏对广泛社会议题的深度关注。易受群体认同影响：通过转发（RT）强化特定政治或文化立场（如对越南的赞扬、对韩国的批评），寻求共鸣。虚荣表现：展示礼物（如巧克力）、书籍排名等外部认可，注重形象维护。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "情感驱动，简化叙事，确认偏误",
+      "detail": "情感驱动：决策与言论基于个人情感（如对“ダーリン”系列的热爱、对政治人物的信任）而非理性分析。简化叙事：将复杂议题（如国际关系、学术道德）简化为口号式表达（如“信じます” - I believe）。确认偏误：选择性分享符合自身立场的内容（如转发赞扬越南、批评韩国的帖子），忽略对立信息。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "冲动分享，过度依赖社交反馈，行为一致性低",
+      "detail": "冲动分享：快速发布未经深思的言论（如对大学校长的间接批评）。过度依赖社交反馈：通过点赞、转发量（如书籍排名）验证自我价值，易受外部评价影响。行为一致性低：话题跳跃大（从个人健康到政治评论），缺乏连贯策略，可能削弱可信度。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "立场极化，易受煽动，缺乏批判性思考",
+      "detail": "立场极化：对特定国家（如韩国）或群体持负面看法，可能基于片面信息。易受煽动：转发情绪化内容（如民族主义言论），强化偏见。缺乏批判性思考：接受权威人物（如财务大臣）观点而不质疑，未展示独立分析能力。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "信息处理浅层，专业知识局限，应变能力不足",
+      "detail": "信息处理浅层：分享链接（如t.co短链接）但未提供深度解读，依赖他人内容。专业知识局限：作为医疗美容专家，跨界评论政治、文化时可能缺乏依据。应变能力不足：面对健康危机（癌症）时，虽表现积极，但依赖情感支持（如书籍系列），未展示系统应对策略。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "自我认同脆弱，存在逃避现实倾向，抗压能力依赖外部支持",
+      "detail": "自我认同脆弱：通过外部成就（如书籍畅销、生日祝福）维持自我价值感，易受负面评价动摇。逃避现实倾向：用幽默或轻松内容（如“大笑い抱きつき詐欺戦術” - big laugh hugging fraud tactics）淡化严肃议题。抗压能力依赖外部支持：在健康挑战中，强调社交互动（如粉丝支持）作为心理支柱。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "寻求社会认可，维护个人品牌影响力，潜在政治倾向表达",
+      "detail": "寻求社会认可：通过分享个人成就和正面反馈，增强社会地位。维护个人品牌影响力：推广“ダーリン”系列（Darling series）及相关活动（如高須クリニック - Takasu Clinic），巩固公众形象。潜在政治倾向表达：间接支持特定政治人物（如片山さつき - Satsuki Katayama）或立场，可能旨在影响舆论或寻求联盟。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "个人健康与生活，文化娱乐，政治社会评论，医疗美容事业",
+      "detail": "个人健康与生活：频繁提及癌症治疗、日常状态（如“寒い” - cold）。文化娱乐：推广书籍（如“ダーリンは80歳” - Darling is 80 years old）、动漫相关商品。政治社会评论：涉及国际关系（如越南、韩国）、国内政治人物。医疗美容事业：关联高須クリニック（Takasu Clinic）及行业动态（如“整形ブラック” - cosmetic surgery black companies）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      1,
+      0,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Thu Jan 22 12:44:06 +0000 2026",
+      "text": "RT @botibotidayo: 高須克弥様８１歳のお誕生日おめでとうございます🎂👏👏👏✨\n\nいつも力強く松ちゃんを応援して頂いて有難うございます☺️\n高須クリニック提供の番組やダウンタウンプラスで松ちゃん、浜ちゃん、高須光聖さんと共演される事を楽しみにしています\n(*´ ˘…",
+      "translation": "转发 @botibotidayo：高须克弥先生81岁生日快乐🎂👏👏👏✨ 感谢您一直大力支持松ちゃん☺️ 期待您在由高须诊所提供的节目和《Downtown Plus》中与松ちゃん、滨ちゃん、高须光圣先生共同演出 (*´ ˘…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 18,
+        "like": 282
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:16:55 +0000 2026",
+      "text": "😃✌",
+      "translation": "😃✌",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 24,
+        "like": 329
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:16:05 +0000 2026",
+      "text": "RT @BOOKSRUHE: 『ダーリンは８０歳』　西原理恵子／著　（小学館）\n\n全身ガンを公表して、手術・治療を続ける高須院長。\nその院長に寄り添うサイバラの日々は続く。\nダーリン＆サイバラのパワフルな2人が読むアナタを元気にしてくれます！　サイン本入荷したしました。お早めに…",
+      "translation": "转发 @BOOKSRUHE：《亲爱的80岁》 西原理惠子／著 （小学馆） 公开宣布全身患癌、持续手术·治疗的高须院长。 陪伴在院长身边的西原理惠子的日常仍在继续。 亲爱的＆西原理惠子这对充满活力的两人将为您加油打气！ 签名书已到货。请尽早…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 14,
+        "like": 109
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 11:10:00 +0000 2026",
+      "text": "ダーリンシリーズ読み放題。\nよく読んでごらん。感動的だよ。 https://t.co/YasKxosqVP",
+      "translation": "《亲爱的》系列无限畅读。 好好读读看。很感人哦。 https://t.co/YasKxosqVP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 23,
+        "like": 545
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 11:07:47 +0000 2026",
+      "text": "ダーリンシリーズ読み放題。\nおすすめなう。 https://t.co/P4Oc9LpduH",
+      "translation": "《亲爱的》系列无限畅读。 现在推荐。 https://t.co/P4Oc9LpduH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 73,
+        "like": 1214
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 10:15:48 +0000 2026",
+      "text": "Great (泣)",
+      "translation": "太棒了 (哭)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 27,
+        "like": 318
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 08:03:51 +0000 2026",
+      "text": "寒い((⛄))\n持ち馬タカスタカスタカスにフトン届けてやりたいかっちゃんなう。 https://t.co/PbZxZo1Lys",
+      "translation": "好冷((⛄)) 现在想给爱马タカスタカスタカス送被子的かっちゃん。 https://t.co/PbZxZo1Lys",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 34,
+        "like": 1197
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 08:00:51 +0000 2026",
+      "text": "YES!!!整形ブラックの豊丸産業からチョコレート🍫があります。 https://t.co/HceZk1HlPE",
+      "translation": "YES!!!来自整形黑幕丰丸产业的巧克力🍫。 https://t.co/HceZk1HlPE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 23,
+        "like": 653
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 07:52:44 +0000 2026",
+      "text": "無敵の🐻",
+      "translation": "无敌的🐻",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 02:03:27 +0000 2026",
+      "text": "w https://t.co/zDS0Mvlrgk",
+      "translation": "笑 https://t.co/zDS0Mvlrgk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 11,
+        "like": 307
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:46:47 +0000 2026",
+      "text": "w\n\nhttps://t.co/EaQDFgxdJB",
+      "translation": "笑 https://t.co/EaQDFgxdJB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 13,
+        "like": 191
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 00:05:56 +0000 2026",
+      "text": "RT @UPto2Date: 「本学を卒業して、人様に顔向けできないような真似は絶対にしないでいただきたい。」\n某旧帝大の学長先生が学生たちに伝えた言葉だ。\n\nすみません、オブラートに包んだツイートをしてしまいました。\n学長が「絶対直美するな」と言いました。",
+      "translation": "转发 @UPto2Date：“希望从本校毕业的学生，绝对不要做出让人无颜以对的事情。” 这是某旧帝国大学校长对学生说的话。  抱歉，我发了条委婉的推文。 校长说了“绝对不要直美”。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 430,
+        "like": 7435
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 13:29:14 +0000 2026",
+      "text": "RT @twibuznew: ベトナムが、韓国から「最貧国」呼ばわりされた時の反論がとにかくカッコイイ。\n「我々はフランス・アメリカ・中国と戦い独立したが賠償を要求した事はない。多額の賠償金と援助でぬくぬくと成長した韓国に言われる筋合いは無い。ベトナム人と韓国人の民度と国家自尊…",
+      "translation": "转发 @twibuznew：越南被韩国称为“最贫穷国家”时的反驳简直太帅了。 “我们与法国、美国、中国作战并取得独立，但从未要求过赔偿。没有理由被依靠巨额赔偿金和援助舒舒服服发展起来的韩国这样说。越南人和韩国人的国民素质与国家自尊心…",
+      "stance": "负面",
+      "metrics": {
+        "reply": 294,
+        "retweet": 4183,
+        "like": 33527
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 12:26:35 +0000 2026",
+      "text": "RT @ryosaeba357xyz1: YES！高須クリニック！\n\nＸＹＺ・・・吉祥寺ブックスルーエにて待つ\n\n高須先生のサイン入り\n「ダーリンは80歳」\nが置いてある吉祥寺のブックスルーエには\n\nシティーハンターの謎解きキットも売っててその看板も飾ってあります\n\n高須先生あ…",
+      "translation": "转发 @ryosaeba357xyz1：YES！高须诊所！  XYZ…在吉祥寺Books Rue等待  有高须先生亲笔签名的 《亲爱的80岁》 放在吉祥寺的Books Rue里  那里也卖着《城市猎人》的解谜套件，还装饰着它的招牌  高须先生啊…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 71
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 11:23:18 +0000 2026",
+      "text": "https://t.co/6JNoF3KfCv https://t.co/b0F8zSfwc3",
+      "translation": "https://t.co/6JNoF3KfCv https://t.co/b0F8zSfwc3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 11:17:22 +0000 2026",
+      "text": "「ダーリンは80歳」善戦なう。\n\nhttps://t.co/6JNoF3KfCv 人気度ランキング: 本 の売上ランキングで、過去24時間で最も売上が伸びた商品 https://t.co/IJrPUccvuN",
+      "translation": "《亲爱的80岁》现在表现不错。 https://t.co/6JNoF3KfCv 人气度排名：在书籍销售排行榜中，过去24小时销售额增长最多的商品 https://t.co/IJrPUccvuN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 28,
+        "like": 494
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 06:18:04 +0000 2026",
+      "text": "RT @katsuyatakasu: ダーリンシリーズ読み放題。\nおすすめなう。 https://t.co/P4Oc9LpduH",
+      "translation": "转发 @katsuyatakasu：《亲爱的》系列无限畅读。 现在推荐。 https://t.co/P4Oc9LpduH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 73,
+        "like": 1214
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:16:58 +0000 2026",
+      "text": "大手術に挑戦するかっちゃん。\n富士山が美しい。なう。 https://t.co/lGvf0ctcOE",
+      "translation": "向大手术发起挑战的かっちゃん。 富士山很美。现在。 https://t.co/lGvf0ctcOE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 307,
+        "retweet": 455,
+        "like": 19766
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 01:51:54 +0000 2026",
+      "text": "大笑い抱きつき詐欺戦術",
+      "translation": "大笑抱紧欺诈战术",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 149,
+        "like": 1608
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 01:47:45 +0000 2026",
+      "text": "信じます。\nついていきます片山さつき財務大臣。",
+      "translation": "我相信。 我会跟随财务大臣片山さつき。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 89,
+        "retweet": 3899,
+        "like": 27850
+      }
+    }
+  ]
+}

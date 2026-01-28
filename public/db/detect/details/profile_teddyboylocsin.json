@@ -1,0 +1,313 @@
+{
+  "id": "profile_teddyboylocsin.json",
+  "_fingerprint": "683e2315122e21bbbdc4cf4f1b4bb31f",
+  "name": "teddyboylocsin",
+  "username": "teddyboylocsin",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高神经质、低宜人性、中等开放性、低尽责性、中等外倾性",
+      "detail": "言论表现出情绪不稳定（如对暴力、死亡的随意提及），缺乏同理心（对儿童、亚洲人的负面描述），思维跳跃但缺乏系统性（话题频繁转换），责任感弱（轻率建议），社交互动表面化（简短回应）。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "反社会倾向、自恋特征、偏执思维",
+      "detail": "表现出对暴力正常化（'shoot his foot'）、缺乏道德约束（涉及恋童癖话题）、自我中心（'Myself'优先）、怀疑他人动机（'I trust you'隐含不信任）、种族偏见（'white men'、'Asians'的刻板印象）。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "联想跳跃、具象思维、二元判断",
+      "detail": "思维从具体事件（'4 people, 30 cadavers'）直接跳至抽象话题（'pedophilia'），依赖感官经验（'Chalk for the chalkboard'、'Bee sting'），倾向于非黑即白判断（'Yes'/'No'、'good son'）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "冲动反应、社交边界模糊、行为矛盾",
+      "detail": "快速给出建议（'Take it'）但缺乏深思，混淆公私话题（从历史事件'Agincourt'跳至个人卫生'wash your hands'），言行不一致（信任表达与怀疑暗示并存）。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "种族偏见、性别刻板印象、文化优越感",
+      "detail": "对白人男性（'white men'）和亚洲人（'Asians are puzzled'）的固化看法，强化性别角色（'if you're a boy'），隐含西方中心视角（历史事件发音纠正'Azhancoor'）。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "逻辑断裂、知识碎片化、判断力不稳定",
+      "detail": "论证缺乏连贯性（从'cadavers'到'pedophilia'无过渡），知识呈现为孤立片段（'Henry V'、'glove compartment'），建议质量参差不齐（从实用到荒谬）。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "情感隔离、现实检验弱化、自我认知偏差",
+      "detail": "用幽默（'Holy cow'）或冷漠处理沉重话题（死亡、暴力），混淆想象与现实（'locked up in a tower'），夸大自我重要性（'Myself'作为独立回答）。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "寻求关注、测试边界、施加隐性控制",
+      "detail": "通过挑衅言论（暴力、禁忌话题）吸引注意，试探社会规范底线（如对儿童的负面描述），用简短肯定（'Uh huh'、'Yes'）引导对话方向。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "暴力死亡、性别种族、历史文化、日常琐事",
+      "detail": "频繁涉及暴力（射击、尸体）、性别与种族议题（白人男性、亚洲人）、历史典故（亨利五世）、生活细节（粉笔、手套箱），话题跨度大但深度浅。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      1,
+      6
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 40
+    },
+    {
+      "name": "同伴",
+      "value": 35
+    },
+    {
+      "name": "亲情",
+      "value": 25
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sat Jan 24 09:04:41 +0000 2026",
+      "text": "4 people, 30 cadavers.",
+      "translation": "4个人，30具尸体。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 09:01:06 +0000 2026",
+      "text": "Yes. Also pedophilia; a rabid partiality of white men. Asians are puzzled. Kids have no conversation and aren't the neatest creatures around.",
+      "translation": "是的。还有恋童癖；白人的狂热偏袒。亚洲人感到困惑。孩子们没有对话，也不是最整洁的生物。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:59:31 +0000 2026",
+      "text": "Eventually unless you are locked up in a tower.",
+      "translation": "最终，除非你被锁在塔里。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:58:54 +0000 2026",
+      "text": "The partner.",
+      "translation": "伴侣。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:58:37 +0000 2026",
+      "text": "Henry V's at Agincourt pronounced Azhancoor.",
+      "translation": "亨利五世在阿金库尔战役中，发音为阿让库尔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:57:51 +0000 2026",
+      "text": "Wash your hands after peeing if you're a boy.",
+      "translation": "如果你是男孩，小便后要洗手。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:56:49 +0000 2026",
+      "text": "Holy cow.",
+      "translation": "天哪。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:55:13 +0000 2026",
+      "text": "Yes. Everybody does. It is crease left by a grasping hand from birth.",
+      "translation": "是的。每个人都这样。这是出生时抓握的手留下的折痕。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:53:56 +0000 2026",
+      "text": "Myself. My parents moved house three times taking me along to each.",
+      "translation": "我自己。我父母搬了三次家，每次都带着我。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:53:00 +0000 2026",
+      "text": "Chalk for the chalkboard.",
+      "translation": "黑板用的粉笔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:51:50 +0000 2026",
+      "text": "I'll buy one. I trust you.",
+      "translation": "我会买一个。我相信你。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:50:10 +0000 2026",
+      "text": "Uh huh.",
+      "translation": "嗯哼。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:49:46 +0000 2026",
+      "text": "Glove compartment.",
+      "translation": "手套箱。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:49:16 +0000 2026",
+      "text": "A good son.",
+      "translation": "一个好儿子。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:48:56 +0000 2026",
+      "text": "Take it.",
+      "translation": "拿着它。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:48:17 +0000 2026",
+      "text": "Unless she was born them, then she is beautiful in her fashion.",
+      "translation": "除非她天生如此，那么她以自己的方式美丽。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:46:48 +0000 2026",
+      "text": "Bee sting. Never kiss one.",
+      "translation": "蜜蜂蜇伤。永远不要亲吻一只。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:45:24 +0000 2026",
+      "text": "Clothes pin.",
+      "translation": "晾衣夹。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:45:03 +0000 2026",
+      "text": "Even frogs find themselves unattractive.",
+      "translation": "甚至青蛙也觉得自己没有吸引力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:44:22 +0000 2026",
+      "text": "No but if he is taller than you shoot his foot.",
+      "translation": "不，但如果他比你高，就射他的脚。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    }
+  ]
+}

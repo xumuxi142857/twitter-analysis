@@ -1,0 +1,353 @@
+{
+  "id": "profile_AP.json",
+  "_fingerprint": "154d6e0f4ac426a64f618530df49a9fb",
+  "name": "AP",
+  "username": "AP",
+  "category": "media",
+  "daily_count": 10.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、尽责性、宜人性，中等外向性，低神经质",
+      "detail": "开放性高：广泛报道全球多元话题，从体育、娱乐到社会问题、国际政治。尽责性高：注重事实核查，使用官方信源，报道结构严谨。宜人性高：关注人道主义议题（如无家可归者、监狱改革），语气中立平衡。外向性中等：积极传播信息但避免个人化表达。神经质低：报道危机事件时保持冷静、事实导向。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "过度制度化依赖，潜在精英主义倾向，情感疏离",
+      "detail": "过度依赖官方信源（如政府声明、机构数据），可能忽视基层视角。报道框架常反映西方主流价值观，隐含制度优越性预设。在报道苦难时保持专业距离，可能削弱共情传达。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "实证主义、制度中心主义、渐进改良主义、全球互联视角",
+      "detail": "认知倾向：实证主义（依赖可验证事实）、制度中心主义（重视政府/机构行动）、渐进改良主义（关注政策调整而非革命）、全球互联视角（连接本地与国际事件）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "信源同质化，报道节奏被动，框架预设",
+      "detail": "脆弱点：信源过度依赖官方/精英渠道（如样本中多次引用政府官员）。报道常被动响应事件而非主动设置议程。使用“BREAKING”等标签可能强化事件戏剧性而非深度。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "西方制度预设，人道主义工具化，技术治理偏向",
+      "detail": "脆弱点：默认西方民主制度为分析框架（如报道海地政治时）。人道主义议题可能被简化为“援助-受助”叙事。倾向于技术解决方案（如天气App精度讨论），淡化结构性问题。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "广度深度失衡，文化翻译局限，危机报道模式化",
+      "detail": "脆弱点：广泛覆盖导致个别话题深度不足（如中国孤独感App仅简要提及）。跨文化报道可能依赖表面现象（如巴西监狱歌唱比赛）。危机报道易落入“事件-反应”模板（如冬季风暴报道）。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "认知闭合倾向，情感调节过度，身份认同模糊",
+      "detail": "脆弱点：复杂议题常归因于明确主体（如“特朗普政府政策”），简化因果。专业主义要求可能压抑必要的情感表达。作为机构媒体，个人记者立场与组织立场界限模糊。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护西方新闻范式权威，塑造全球议程设置能力，平衡商业与公益形象",
+      "detail": "意图：通过广泛覆盖巩固其作为“世界事实记录者”的权威地位。选择性报道（如突出美国抗议、伊朗否认）塑造国际议题优先级。在硬新闻与软新闻间平衡以维持受众广度与商业可持续性。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "美国国内社会政治、全球人道环境议题、体育娱乐文化、科技生活趋势",
+      "detail": "核心领域：美国国内事件（政治抗议、灾害应对）。高频领域：全球人道/环境议题（气候变化、海洋保护）。常规领域：体育（奥运会、澳网）、娱乐（音乐纪录、电视节目）、科技生活（App现象）。地缘政治：选择性报道非西方国家事件（伊朗、海地、中国）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      1,
+      0,
+      5
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      5
+    ],
+    [
+      2,
+      0,
+      3
+    ],
+    [
+      2,
+      1,
+      3
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sun Jan 25 11:07:00 +0000 2026",
+      "text": "Chicago nonprofit provides tents and supplies as winter storm hits the US https://t.co/hTzZ9FkZjs",
+      "translation": "美国遭遇冬季风暴，芝加哥非营利组织提供帐篷和物资援助。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 63,
+        "retweet": 190,
+        "like": 1021
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 03:31:24 +0000 2026",
+      "text": "American rock climber Alex Honnold climbed the Taipei 101 skyscraper on Sunday without any ropes or protective equipment. The climb drew both excitement and concern over the ethical implications of attempting such a high-risk endeavor on live broadcast. \n\nRead more: https://t.co/XzGAjMwv03",
+      "translation": "美国攀岩运动员亚历克斯·霍诺德于周日无绳索或保护装备攀登了台北101摩天大楼。此次攀登在直播中引发了对尝试此类高风险行为伦理影响的兴奋与担忧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 80,
+        "retweet": 445,
+        "like": 2615
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 17:00:15 +0000 2026",
+      "text": "In a Rio de Janeiro prison, Brazilian women inmates showcased their talents in a singing contest. https://t.co/QuBAyTduay",
+      "translation": "在里约热内卢的一所监狱，巴西女囚犯在一场歌唱比赛中展示了她们的才华。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 18,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 16:32:17 +0000 2026",
+      "text": "BREAKING: Federal officers have shot another person in Minneapolis amid the immigration crackdown, Gov. Tim Walz says. https://t.co/wkoulwHtF9",
+      "translation": "突发：明尼苏达州州长蒂姆·沃尔兹称，联邦官员在移民打击行动中于明尼阿波利斯市再次枪击一人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1113,
+        "retweet": 1532,
+        "like": 4185
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 13:00:20 +0000 2026",
+      "text": "NCAA approves uniform patches, opening up revenue possibilities for athletic departments https://t.co/rTjf2l4IFm",
+      "translation": "NCAA批准统一补丁，为体育部门开辟了收入可能性。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21,
+        "retweet": 36,
+        "like": 42
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 05:30:11 +0000 2026",
+      "text": "Massive sewage spill flowing into Potomac River upstream from Washington https://t.co/YzaJDFsXde",
+      "translation": "大量污水泄漏流入华盛顿上游的波托马克河。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 50,
+        "retweet": 74,
+        "like": 128
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 04:45:10 +0000 2026",
+      "text": "Play was suspended on outside courts and briefly halted on undercover arenas in the mid-afternoon Saturday under the extreme heat rules at the Australian Open. https://t.co/JrLGmrRzXn",
+      "translation": "周六下午，在澳大利亚网球公开赛极端高温规则下，室外球场比赛暂停，有顶棚的场馆比赛也短暂中断。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 22,
+        "retweet": 28,
+        "like": 70
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:11:01 +0000 2026",
+      "text": "Despite a severe blast of Arctic air, thousands turned out for a large protest in downtown Minneapolis against the Trump administration's immigration crackdown Friday. https://t.co/4FQr6QObNo",
+      "translation": "尽管遭遇强烈的北极寒流，周五仍有数千人在明尼阿波利斯市中心举行大规模抗议，反对特朗普政府的移民打击行动。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 300,
+        "retweet": 444,
+        "like": 1767
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 00:20:19 +0000 2026",
+      "text": "As bone-chilling temperatures hit Detroit, the Pope Francis Center opened its doors to people experiencing homelessness, offering warm shelter and cots to those seeking refuge from the cold. https://t.co/OhfGvXTbDt",
+      "translation": "随着刺骨低温袭击底特律，教皇方济各中心向无家可归者敞开大门，为寻求避寒的人们提供温暖的庇护所和简易床铺。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 103,
+        "like": 467
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 21:44:07 +0000 2026",
+      "text": "That snowflake icon on your smartphone app might be quick and handy — it just might not be as accurate as a human when the weather gets rough. https://t.co/xntl5DZdRC",
+      "translation": "你智能手机应用上的那个雪花图标可能快捷方便——但在天气恶劣时，它可能不如人类预报准确。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 20,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 21:21:30 +0000 2026",
+      "text": "The rising popularity of an app called “Are You Dead?” is shedding light on growing loneliness in China. https://t.co/iL3d7vwTf7",
+      "translation": "一款名为“你死了吗？”的应用程序日益流行，揭示了中国日益严重的孤独问题。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 24,
+        "retweet": 36,
+        "like": 109
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:59:47 +0000 2026",
+      "text": "Follow AP's David Keyton for the highlights of the World Economic Forum in Davos as it wraps up its annual program Friday. https://t.co/ywchnMFeMu",
+      "translation": "关注美联社记者大卫·凯顿，获取周五结束的达沃斯世界经济论坛年度议程的亮点报道。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 27,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:19:47 +0000 2026",
+      "text": "A massive winter storm is bringing dangerous cold, snow and ice to much of the U.S., with more than 170 million people threatened. https://t.co/DzHBYt181w",
+      "translation": "一场巨大的冬季风暴正给美国大部分地区带来危险的寒冷、大雪和冰雨，超过1.7亿人受到威胁。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 56,
+        "like": 154
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:07:23 +0000 2026",
+      "text": "A majority of the presidential council that rules Haiti has voted to oust the prime minister as political chaos deepens. https://t.co/ZFzRYEGv7P",
+      "translation": "随着政治混乱加剧，统治海地的总统委员会多数成员投票罢免了总理。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 65,
+        "like": 137
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:02:23 +0000 2026",
+      "text": "After a big snowstorm, many people head straight to the hardware store for salt. But the way you clear snow and ice can have real impacts on your pets, plants and pavement. https://t.co/BNoTTh2Uxg",
+      "translation": "大雪过后，许多人直奔五金店购买融雪盐。但你清除冰雪的方式可能对你的宠物、植物和人行道产生实际影响。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 101,
+        "like": 433
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 18:00:23 +0000 2026",
+      "text": "Scotland has designated 37% of its waters as marine protected areas, but destructive fishing methods like bottom trawling continue in most of these zones. https://t.co/LhsocM5FP2",
+      "translation": "苏格兰已将其37%的水域指定为海洋保护区，但破坏性的捕捞方法（如底拖网捕捞）仍在这些区域的大部分地方继续。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 35,
+        "like": 98
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 16:00:30 +0000 2026",
+      "text": "The countdown is on for the 2026 Winter Olympics in Italy. Here's all you need to know. https://t.co/AyqeVoZMyz",
+      "translation": "2026年意大利冬季奥运会倒计时已经开始。以下是您需要了解的全部信息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 23,
+        "like": 52
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 13:00:25 +0000 2026",
+      "text": "The Eagles' 'Greatest Hits' is the first album in US history to sell over 40M units https://t.co/Ewp9wiW5fg",
+      "translation": "老鹰乐队的《Greatest Hits》成为美国历史上首张销量超过4000万张的专辑。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 136,
+        "like": 649
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 09:46:29 +0000 2026",
+      "text": "BREAKING: Iran’s top prosecutor denied a claim by U.S. President Donald Trump that his intervention halted the execution of 800 people detained in nationwide protests, calling his comments “completely false.” https://t.co/GBnuZmr2Us",
+      "translation": "突发：伊朗最高检察官否认了美国总统唐纳德·特朗普关于其干预阻止了在全国性抗议中被拘留的800人被执行死刑的说法，称其言论“完全错误”。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 581,
+        "retweet": 2087,
+        "like": 4733
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 04:30:12 +0000 2026",
+      "text": "A TV show about the NYPD is now a legal drama starring the city and Dr. Phil’s son https://t.co/9NMZWuvspV",
+      "translation": "一部关于纽约警察局的电视剧现在成了一部由该市和菲尔博士的儿子主演的法律剧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 21,
+        "like": 39
+      }
+    }
+  ]
+}

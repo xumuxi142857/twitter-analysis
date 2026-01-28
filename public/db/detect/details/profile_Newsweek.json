@@ -1,0 +1,313 @@
+{
+  "id": "profile_Newsweek.json",
+  "_fingerprint": "2cfc28cfa56e84674cdc5e81de754445",
+  "name": "Newsweek",
+  "username": "Newsweek",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、中等尽责性、中等外向性、中等宜人性、中等神经质",
+      "detail": "开放性高：广泛报道政治、体育、经济、社会等多领域话题，展现对多元议题的兴趣和包容性。尽责性中等：在报道中既有事实陈述，也包含观点性内容，平衡了客观性和立场表达。外向性中等：通过社交媒体积极传播内容，但主要作为信息发布平台而非深度互动。宜人性中等：报道中既有对某些群体的批评（如指责右翼为“职业受害者”），也有中立的事实报道。神经质中等：对争议性话题（如政治冲突、社会问题）保持关注但未表现出极端情绪化反应。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的立场偏见、对争议话题的倾向性报道、可能存在的议程设置",
+      "detail": "在政治报道中显示出对某些立场的偏好，如将右翼描述为“职业受害者”（professional victims），暗示批评态度。在涉及特朗普、共和党等话题时，报道角度可能隐含负面倾向（如“特朗普的U型转弯”、“共和党支持被低估”）。通过选择特定话题（如ICE争议、政治人物批评）可能引导读者关注特定议程。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "多元话题覆盖但政治报道存在立场倾向，注重争议性和时效性",
+      "detail": "认知广度较广：覆盖政治、体育、经济、天气、社会事件等多领域。政治报道中倾向于关注冲突和争议（如政治对立、执法机构争议）。经济报道注重数据和趋势（如美元指数变化）。社会话题关注热点事件（如校园手机禁令、安全担忧）。认知深度中等：多数报道为新闻摘要，缺乏深度分析，但部分政治话题有观点性内容。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对社交媒体传播的依赖、对争议话题的快速报道可能影响准确性、读者互动可能强化偏见",
+      "detail": "高度依赖Twitter等社交媒体进行内容传播和读者互动（如读者选择奖投票），可能受平台算法和用户反馈影响。对政治争议话题的快速报道（如特朗普表态、ICE事件）可能导致信息核实不足。通过“读者选择奖”等互动形式可能强化特定受众的偏好，形成信息茧房。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "政治报道中隐含自由派倾向，对保守派和特朗普政府持批评态度，可能影响报道平衡性",
+      "detail": "在政治话题中多次显示对右翼/保守派的批评立场（如“右翼成为‘觉醒’的”、“保守派继续支持ICE”）。对特朗普及相关人物的报道多持负面或质疑角度（如“特朗普的U型转弯”、“诺姆成为负担”）。在执法机构争议（如ICE、FBI）中倾向于关注批评声音和自由派观点。可能因此失去保守派读者信任，或加剧政治两极化的报道环境。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "多领域报道可能导致专业深度不足，政治报道的立场性可能削弱客观性，对复杂话题简化处理",
+      "detail": "作为综合媒体，覆盖领域过广（政治、体育、经济、娱乐等），可能缺乏各领域的深度专业知识。政治报道中立场倾向可能影响事实核查和平衡呈现（如对共和党支持率的报道强调“历史性低估”）。对复杂话题（如社会保障危机、地缘政治影响）的报道较为简略，缺乏深度分析。依赖外部专家和记者观点（如Taylor Lorenz、Jordan Schultz），可能受其偏见影响。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "对冲突和争议话题的偏好可能强化负面叙事，通过情感化语言影响读者情绪，可能缺乏建设性视角",
+      "detail": "倾向于报道政治冲突、社会对立、争议事件（如政治指责、执法争议、安全担忧），可能强化社会分裂感。使用情感化或价值判断语言（如“职业受害者”、“道德恐慌”），可能激发读者情绪而非理性思考。在争议话题中多呈现问题和批评，缺乏解决方案或建设性讨论（如社会保障危机只提问题未提对策）。可能因此助长读者的焦虑或愤世嫉俗心态。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造自由派/进步派媒体形象，影响公众对政治和社会议题的认知，通过争议报道维持读者关注和互动",
+      "detail": "通过批评右翼和特朗普政府，巩固其作为自由派/进步派声音的媒体定位。在执法、移民等争议话题中强调自由派观点，可能旨在影响公众对这些议题的态度。报道政治冲突和社会对立，可能旨在维持读者参与度和社交媒体互动。通过“读者选择奖”等互动形式，增强读者忠诚度和品牌认同。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "政治（美国国内政治、特朗普、两党冲突）、社会争议（执法、移民、枪支）、体育、经济、娱乐、天气、读者互动",
+      "detail": "政治：美国国内政治（特朗普、共和党/民主党、选举）、政治人物（如JD Vance、Tim Walz）、政治争议（如ICE、FBI调查）。社会争议：执法机构（ICE、FBI）、移民、枪支暴力（如Rittenhouse事件）、社会保障。体育：NFL（如Shedeur Sanders）、MLB（如洛杉矶道奇队）。经济：金融市场（美元指数）、经济政策（社会保障）。娱乐/文化：名人观点（如Taylor Lorenz）、读者互动（读者选择奖）。其他：天气、国际事件（如英国在阿富汗角色、FIFA）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 20:00:00 +0000 2026",
+      "text": "\"The right has been professional victims for over a decade.\"\n\nWatch The 1600 with @carlo_versano where @TaylorLorenz describes how the right has become \"woke.\" https://t.co/F1lCjU7qtY https://t.co/LrEAEdLxSs",
+      "translation": "右翼在过去十多年里一直扮演着专业受害者的角色。观看《1600》节目，@carlo_versano 主持，@TaylorLorenz 描述右翼如何变得'觉醒'。https://t.co/F1lCjU7qtY https://t.co/LrEAEdLxSs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:40:45 +0000 2026",
+      "text": "Cleveland Browns quarterback Shedeur Sanders has earned a spot on the Pro Bowl roster, according to NFL insider Jordan Schultz. https://t.co/G51azjUxlK",
+      "translation": "据NFL内部人士乔丹·舒尔茨报道，克利夫兰布朗队四分卫谢德尔·桑德斯已入选职业碗阵容。https://t.co/G51azjUxlK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:18:43 +0000 2026",
+      "text": "The chart shows the U.S. dollar’s value from January 20 to January 25, with the index falling from around 99.10 to 97.14. https://t.co/wy431izV8C",
+      "translation": "图表显示美元价值从1月20日至1月25日的变化，指数从约99.10跌至97.14。https://t.co/wy431izV8C",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:07:28 +0000 2026",
+      "text": "The Los Angeles Dodgers have been aggressive this offseason, but they could still look to add players at the trade deadline. https://t.co/6ODs88WWeq",
+      "translation": "洛杉矶道奇队在这个休赛期表现积极，但他们仍可能在交易截止日前寻求增加球员。https://t.co/6ODs88WWeq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:55:45 +0000 2026",
+      "text": "Former FIFA president Sepp Blatter is urging fans to think twice about traveling amid growing security concerns. https://t.co/Ce0A8hWYEY",
+      "translation": "前国际足联主席塞普·布拉特敦促球迷在日益增长的安全担忧中三思而后行。https://t.co/Ce0A8hWYEY",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 137,
+        "like": 398
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:50:10 +0000 2026",
+      "text": "However, polls have historically underestimated support for the Republican. https://t.co/NwRrGlQ69c",
+      "translation": "然而，民调在历史上一直低估了对共和党人的支持。https://t.co/NwRrGlQ69c",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:50:09 +0000 2026",
+      "text": "Minnesota Gov. Tim Walz told President Trump the state already honors ICE detainers and has no documented cases of inmates released without federal notice. https://t.co/wDBgWv1g31",
+      "translation": "明尼苏达州州长蒂姆·沃尔兹告诉特朗普总统，该州已遵守ICE拘留令，且没有记录显示有囚犯在未获联邦通知的情况下被释放。https://t.co/wDBgWv1g31",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:39:06 +0000 2026",
+      "text": "More Democrats have signed on in the wake of U.S. citizen Alex Pretti being killed by federal agents in Minneapolis. https://t.co/ov2SrAcgbT",
+      "translation": "在美国公民亚历克斯·普雷蒂在明尼阿波利斯被联邦特工杀害后，更多民主党人签署了相关文件。https://t.co/ov2SrAcgbT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:27:40 +0000 2026",
+      "text": "The Social Security Administration has been facing an impending insolvency crisis. https://t.co/x7I3bUtdnB",
+      "translation": "社会保障管理局一直面临即将到来的偿付能力危机。https://t.co/x7I3bUtdnB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:22:22 +0000 2026",
+      "text": "More snow will hit at least 14 states, many of which already saw between 12 and 18 inches of snowfall over the weekend. https://t.co/wvy92jAyNG",
+      "translation": "更多降雪将袭击至少14个州，其中许多州上周末已出现12至18英寸的降雪。https://t.co/wvy92jAyNG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:17:11 +0000 2026",
+      "text": "Donald Trump's U-turn on Britain's role in Afghanistan came after King Charles III's concerns were raised with the President. https://t.co/JcsiJTkdn0",
+      "translation": "唐纳德·特朗普对英国在阿富汗角色的态度转变，是在查尔斯三世国王向总统提出关切之后发生的。https://t.co/JcsiJTkdn0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:02:18 +0000 2026",
+      "text": "The exchange came as federal authorities expanded operations in Minnesota following a series of high-profile fraud investigations. https://t.co/4X5OjK7EuF",
+      "translation": "这次交流发生在联邦当局在明尼苏达州扩大行动之后，此前进行了一系列备受瞩目的欺诈调查。https://t.co/4X5OjK7EuF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:00:01 +0000 2026",
+      "text": "Tech journalist Taylor Lorenz rejects the \"moral panic\" behind bell-to-bell phone bans at public schools.\n\nWatch the full conversation on The 1600 with @carlo_versano now: https://t.co/F1lCjU7Yjw https://t.co/W87nLlN9HV",
+      "translation": "科技记者泰勒·洛伦茨驳斥了公立学校全天禁止使用手机背后的'道德恐慌'。立即观看《1600》节目与@carlo_versano的完整对话：https://t.co/F1lCjU7Yjw https://t.co/W87nLlN9HV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:54:33 +0000 2026",
+      "text": "A Democratic lawmaker has drawn comparisons between Rittenhouse's 2020 Wisconsin shooting and Alex Pretti's killing in Minnesota. https://t.co/nvqOoDGX8T",
+      "translation": "一位民主党议员将里滕豪斯2020年在威斯康星州的枪击事件与亚历克斯·普雷蒂在明尼苏达州的被杀事件进行了比较。https://t.co/nvqOoDGX8T",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 1,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:47:07 +0000 2026",
+      "text": "The president's remarks and actions have upset the geopolitical status quo, and worked up an appetite for \"safe haven\" assets. https://t.co/ma5pyCJzj5",
+      "translation": "总统的言论和行动扰乱了地缘政治现状，并激发了人们对'避险'资产的兴趣。https://t.co/ma5pyCJzj5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 4,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:41:56 +0000 2026",
+      "text": "Time is running out to vote in @Newsweek’s Readers’ Choice Awards for Best Storage &amp; Moving. Help decide which moving and storage companies stand out nationwide. Voting closes soon. One vote per category, each day.\n\nVote Now - https://t.co/YHm1OG1iv9\n\n#newsweekreaderschoice https://t.co/TIpjRbuCrh",
+      "translation": "投票参加《新闻周刊》读者选择奖最佳存储与搬家类别的评选时间即将截止。帮助决定哪些搬家和存储公司在全国脱颖而出。投票即将结束。每个类别每天一票。立即投票 - https://t.co/YHm1OG1iv9 #newsweekreaderschoice https://t.co/TIpjRbuCrh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:32:58 +0000 2026",
+      "text": "Many conservatives continue to back ICE even as the agency faces heightened scrutiny over its tactics. https://t.co/Tf6XMc9tst",
+      "translation": "尽管ICE面临对其策略的严格审查，许多保守派人士仍继续支持该机构。https://t.co/Tf6XMc9tst",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:23:35 +0000 2026",
+      "text": "JD Vance suggested that federal agents have “absolute immunity” from prosecution. Legal experts dispute this claim. https://t.co/3eXUxWy36T",
+      "translation": "JD·万斯暗示联邦特工享有'绝对豁免权'，免受起诉。法律专家对此说法提出异议。https://t.co/3eXUxWy36T",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 13,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:14:07 +0000 2026",
+      "text": "FBI Director Kash Patel says investigators have identified funders behind left-wing groups tied to anti-ICE protests in Minnesota. https://t.co/tfNQrPbN3l",
+      "translation": "FBI局长卡什·帕特尔表示，调查人员已查明与明尼苏达州反ICE抗议活动相关的左翼团体背后的资助者。https://t.co/tfNQrPbN3l",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:07:02 +0000 2026",
+      "text": "Perspective: For Trump, Noem is now less a political asset, and more a liability - her days look numbered. https://t.co/7ONivBhlu4",
+      "translation": "观点：对特朗普来说，诺姆现在更像是一个政治负担，而非资产——她的日子似乎屈指可数。https://t.co/7ONivBhlu4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 6,
+        "like": 5
+      }
+    }
+  ]
+}

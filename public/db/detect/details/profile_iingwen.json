@@ -1,0 +1,313 @@
+{
+  "id": "profile_iingwen.json",
+  "_fingerprint": "b64b5397602ec277b730e557e537a71a",
+  "name": "iingwen",
+  "username": "iingwen",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁公开演讲、国际交流，展现社交活跃度与领导气质。尽责性强：强调民主制度、供应链韧性等系统性价值，体现责任感与规划性。开放性高：积极接触多元文化（日本、英国、立陶宛等），适应国际环境变化。宜人性中等：展现合作姿态但立场坚定，在民主议题上态度明确。神经质低：言论中强调“韧性”“稳定”，面对压力时表现出情绪稳定性与抗压能力。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在理想主义倾向、身份认同强化依赖、外部认可需求",
+      "detail": "理想主义倾向：将民主价值观绝对化，可能忽视现实政治复杂性。身份认同强化依赖：频繁使用“台湾”自称并强调“国家”属性，依赖国际承认构建自我认同。外部认可需求：通过访问国际机构、政要、母校（LSE、剑桥）获取合法性背书，显示对国际认可的重视。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "民主价值中心化、对抗性叙事、国际联结导向",
+      "detail": "民主价值中心化：将台湾地区定位为“民主典范”，以民主话语构建叙事核心。对抗性叙事：将中国大陆暗示为“威胁”或“挑战”，塑造“捍卫民主”的对抗框架。国际联结导向：积极寻求与美、欧、日等“民主伙伴”结盟，强化国际存在感。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "国际舞台依赖、符号化行为、回应性策略",
+      "detail": "国际舞台依赖：高度依赖国际演讲、访问、峰会等场合发声，若国际空间受限则影响力减弱。符号化行为：通过服饰（如台湾云豹图案）、校友关系等符号强化身份，易被解读为表面化操作。回应性策略：言论多回应“威胁”或“挑战”，缺乏主导性议程设置能力。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "两岸关系回避、民主价值单维化、国际法理模糊性",
+      "detail": "两岸关系回避：未直接提及“一个中国”或两岸对话，侧重国际宣传而非两岸互动。民主价值单维化：将复杂政治简化为“民主vs.威权”二元对立，忽视经济、历史等多元因素。国际法理模糊性：以“国家”自称但依赖非官方外交，法律地位存在争议性。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "软实力依赖、经济叙事工具化、危机应对单一化",
+      "detail": "软实力依赖：侧重民主、文化等软实力宣传，硬实力（军事、经济自主性）提及较少。经济叙事工具化：将台湾地区经济角色（如供应链）政治化为“民主贡献”，可能削弱经济客观性。危机应对单一化：面对“威胁”时主要诉诸民主韧性话语，缺乏多元策略储备。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "身份焦虑、理想与现实落差敏感、外部评价内化",
+      "detail": "身份焦虑：通过反复强调“台湾”身份和国际认可，反映潜在的身份不安全感。理想与现实落差敏感：高调宣扬民主成就，但对国际政治现实（如大国博弈）处理谨慎。外部评价内化：将国际政要、机构的支持内化为自我价值依据，易受外部态度波动影响。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "国际合法性构建、民主联盟牵引、身份正常化推进",
+      "detail": "国际合法性构建：通过民主话语和国际访问，塑造台湾地区的“国家”形象，寻求事实承认。民主联盟牵引：以“民主伙伴”概念拉拢美欧日等，嵌入西方价值联盟以制衡中国大陆。身份正常化推进：淡化两岸历史联结，突出“台湾”作为独立政治实体的叙事。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "民主价值、国际参与、经济角色、文化展示、两岸回避",
+      "detail": "民主价值：核心话题，强调台湾地区的民主韧性、全球民主贡献。国际参与：频繁涉及与国际政要、议会、学术机构互动，拓展非官方外交。经济角色：突出台湾地区在供应链、科技领域的全球关键性。文化展示：通过服饰、学生交流等展示台湾地区文化独特性。两岸回避：避免直接讨论两岸关系实质议题，侧重国际侧翼操作。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      1,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed May 14 05:18:31 +0000 2025",
+      "text": "After addressing the Copenhagen Democracy Summit several times virtually, I was delighted to be here in person &amp; to be welcomed by former PM @AndersFoghR Rasmussen. In my speech, I emphasized the importance of resilience in safeguarding democracy in #Taiwan &amp; around the world. https://t.co/hrAUmK7P0G",
+      "translation": "在多次线上参与哥本哈根民主峰会后，我很高兴能亲自到场，并受到前首相@AndersFoghR Rasmussen的欢迎。在我的演讲中，我强调了韧性在保护#台湾及全球民主方面的重要性。https://t.co/hrAUmK7P0G",
+      "stance": "负面",
+      "metrics": {
+        "reply": 184,
+        "retweet": 499,
+        "like": 3365
+      }
+    },
+    {
+      "created_at": "Tue May 13 14:48:13 +0000 2025",
+      "text": "Today I had the opportunity to visit the #Danish parliament &amp; thank its members, including our long-time friend @Pia_Kjaersgaard, for supporting #Taiwan &amp; our international participation. With all the progress we have made in recent years, I am confident that the partnership https://t.co/V8hRytKwxj",
+      "translation": "今天我有机会访问#丹麦议会，并感谢其成员，包括我们的老朋友@Pia_Kjaersgaard，感谢他们支持#台湾及我们的国际参与。凭借我们近年来取得的所有进展，我对伙伴关系充满信心。https://t.co/V8hRytKwxj",
+      "stance": "负面",
+      "metrics": {
+        "reply": 114,
+        "retweet": 287,
+        "like": 2581
+      }
+    },
+    {
+      "created_at": "Tue Jun 24 10:39:18 +0000 2025",
+      "text": "With resilient people &amp; a steadfast commitment to democratic values, Taiwan has shown that democracy can survive &amp; thrive, even in the face of constant threats. We will continue to work with our friends in the international community to ensure that democracy endures.\n🎥 https://t.co/EB6uuU4wiZ",
+      "translation": "凭借坚韧的人民和对民主价值观的坚定承诺，台湾已证明民主即使在持续威胁下也能生存并蓬勃发展。我们将继续与国际社会的朋友们合作，确保民主长存。🎥 https://t.co/EB6uuU4wiZ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 414,
+        "retweet": 779,
+        "like": 5326
+      }
+    },
+    {
+      "created_at": "Tue Jul 22 04:33:51 +0000 2025",
+      "text": "Despite increasing security challenges, #Taiwan has worked to maintain peace &amp; stability in the region, while safeguarding our democracy &amp; strengthening resilience. No matter the threats we face, Taiwan will continue to contribute to the world &amp; stand up for democracy. https://t.co/eQ56O0FFrw",
+      "translation": "尽管安全挑战日益增加，#台湾仍努力维护该地区的和平与稳定，同时保护我们的民主并增强韧性。无论面临何种威胁，台湾将继续为世界做出贡献并捍卫民主。https://t.co/eQ56O0FFrw",
+      "stance": "负面",
+      "metrics": {
+        "reply": 737,
+        "retweet": 410,
+        "like": 3187
+      }
+    },
+    {
+      "created_at": "Tue Apr 15 08:49:00 +0000 2025",
+      "text": "Former US Deputy Secretary of State Richard Armitage was a man of principle and a true friend of Taiwan. While he will be greatly missed, he will also be remembered for his commitment to democracy and for building bridges between democratic partners around the world. https://t.co/mk81JJVOpy",
+      "translation": "美国前副国务卿理查德·阿米蒂奇是一位有原则的人，也是台湾真正的朋友。虽然我们将深深怀念他，但他对民主的承诺以及在全球民主伙伴间搭建桥梁的努力将被铭记。https://t.co/mk81JJVOpy",
+      "stance": "负面",
+      "metrics": {
+        "reply": 336,
+        "retweet": 396,
+        "like": 3411
+      }
+    },
+    {
+      "created_at": "Thu May 15 14:54:03 +0000 2025",
+      "text": "An honour to visit the House of Lords &amp; meet with steadfast friends of #Taiwan from the British parliament. I'm so pleased to be in the #UK celebrating the partnership between our countries - a genuine expression of our shared democratic values. https://t.co/Pcv6DtcPSy",
+      "translation": "很荣幸访问上议院并与英国议会中#台湾的坚定朋友们会面。我非常高兴能在#英国庆祝我们两国之间的伙伴关系——这是我们共同民主价值观的真实体现。https://t.co/Pcv6DtcPSy",
+      "stance": "负面",
+      "metrics": {
+        "reply": 183,
+        "retweet": 456,
+        "like": 3378
+      }
+    },
+    {
+      "created_at": "Sun May 18 18:24:37 +0000 2025",
+      "text": "Going back to my alma mater LSE was a very special moment for me. It was a privilege to address students &amp; faculty about changing international dynamics, especially in trade, &amp; how democratic #Taiwan remains globally indispensable in these times of uncertainty. https://t.co/4uIRf1sop9",
+      "translation": "回到我的母校伦敦政治经济学院对我来说是一个非常特殊的时刻。我很荣幸能向学生和教职员工讲述不断变化的国际动态，特别是在贸易方面，以及民主的#台湾在这些不确定时期如何在全球保持不可或缺的地位。https://t.co/4uIRf1sop9",
+      "stance": "负面",
+      "metrics": {
+        "reply": 377,
+        "retweet": 376,
+        "like": 3371
+      }
+    },
+    {
+      "created_at": "Sun May 11 06:15:09 +0000 2025",
+      "text": "Wonderful to be here in Vilnius sharing a meal &amp; excellent conversation with firm friends &amp; supporters of #Taiwan from the #Lithuanian parliament. I’m deeply grateful to you all for standing with Taiwan &amp; standing with democracy. https://t.co/eWdIYUWxji",
+      "translation": "很高兴能在维尔纽斯与来自#立陶宛议会的#台湾坚定朋友和支持者共进晚餐并进行精彩对话。我深深感谢你们所有人支持台湾并支持民主。https://t.co/eWdIYUWxji",
+      "stance": "负面",
+      "metrics": {
+        "reply": 141,
+        "retweet": 336,
+        "like": 2956
+      }
+    },
+    {
+      "created_at": "Sun Jun 08 01:10:16 +0000 2025",
+      "text": "Grateful to @FAPA_HQ for bringing this year's cohort of emerging leaders to #Taiwan to experience our country first hand. It was a pleasure to engage with such an impressive group of young people on pressing global issues &amp; the importance of safeguarding democracy. https://t.co/BoQyzmUkeK",
+      "translation": "感谢@FAPA_HQ将今年的新兴领袖团队带到#台湾，让他们亲身体验我们的国家。很高兴能与这样一群杰出的年轻人就紧迫的全球问题以及保护民主的重要性进行交流。https://t.co/BoQyzmUkeK",
+      "stance": "负面",
+      "metrics": {
+        "reply": 196,
+        "retweet": 239,
+        "like": 2420
+      }
+    },
+    {
+      "created_at": "Sun Jul 13 13:45:33 +0000 2025",
+      "text": "Returning to my alma mater LSE, I spoke about how #Taiwan has contributed to secure supply chains &amp; continually enhanced its competitiveness, in spite of the challenges in its way. Today, Taiwan is a critical link in the global economy &amp; a key factor in technological advancement. https://t.co/jXZQDnkgOn",
+      "translation": "回到我的母校伦敦政治经济学院，我谈到#台湾如何为安全的供应链做出贡献，并在面临挑战的情况下不断增强其竞争力。如今，台湾是全球经济的关键环节，也是技术进步的关键因素。https://t.co/jXZQDnkgOn",
+      "stance": "负面",
+      "metrics": {
+        "reply": 192,
+        "retweet": 484,
+        "like": 3681
+      }
+    },
+    {
+      "created_at": "Sat May 17 06:44:54 +0000 2025",
+      "text": "Speaking at the University of Cambridge, I shared my thoughts on the challenges facing the world &amp; what #Taiwan is doing to strengthen its resilience &amp; safeguard its democracy. I thoroughly enjoyed engaging with students &amp; faculty on these important topics. https://t.co/aM9hxIj9E3",
+      "translation": "在剑桥大学演讲时，我分享了我对世界面临挑战的看法以及#台湾正在做什么来增强其韧性并保护其民主。我非常享受与学生和教职员工就这些重要话题进行交流。https://t.co/aM9hxIj9E3",
+      "stance": "负面",
+      "metrics": {
+        "reply": 178,
+        "retweet": 406,
+        "like": 2963
+      }
+    },
+    {
+      "created_at": "Sat Apr 19 08:44:46 +0000 2025",
+      "text": "Taiwan's own Nymphia Wind @66wind99, looking incredible as always. I love seeing you share #Taiwan with the world, this time with some of our most emblematic wildlife like the Mikado pheasant and clouded leopard on your dress.\nhttps://t.co/T6xHmKJn36",
+      "translation": "台湾自己的Nymphia Wind @66wind99，一如既往地惊艳。我很高兴看到你将#台湾分享给世界，这次你的裙子上有我们最具代表性的野生动物，如帝雉和云豹。https://t.co/T6xHmKJn36",
+      "stance": "负面",
+      "metrics": {
+        "reply": 66,
+        "retweet": 100,
+        "like": 558
+      }
+    },
+    {
+      "created_at": "Mon May 12 15:05:22 +0000 2025",
+      "text": "At Vilnius University, I spoke to former Lithuanian President Dalia @Grybauskaite_LT as well as students &amp; faculty. My message: that democracies, big &amp; small, should stand together to defend our values &amp; hard-earned freedoms. https://t.co/nCxsheDgDG",
+      "translation": "在维尔纽斯大学，我与立陶宛前总统达利娅·格里包斯凯特@Grybauskaite_LT以及学生和教职员工进行了交谈。我的信息是：民主国家，无论大小，都应该团结起来捍卫我们的价值观和来之不易的自由。https://t.co/nCxsheDgDG",
+      "stance": "负面",
+      "metrics": {
+        "reply": 136,
+        "retweet": 315,
+        "like": 2658
+      }
+    },
+    {
+      "created_at": "Mon May 12 09:02:26 +0000 2025",
+      "text": "These past two days, I've had the privilege of seeing the sights &amp; learning about the history of Lithuania. I also had the chance to meet with Taiwanese students in Vilnius &amp; bring them a taste of home. Being here to witness the #Taiwan-#Lithuania friendship has been inspiring. https://t.co/kaygbH0ktC",
+      "translation": "过去两天，我有幸参观了立陶宛的景点并了解了其历史。我也有机会与在维尔纽斯的台湾学生见面，并给他们带去家乡的味道。在这里见证#台湾-#立陶宛友谊令人鼓舞。https://t.co/kaygbH0ktC",
+      "stance": "负面",
+      "metrics": {
+        "reply": 144,
+        "retweet": 418,
+        "like": 3741
+      }
+    },
+    {
+      "created_at": "Mon Apr 21 12:34:49 +0000 2025",
+      "text": "I extend my heartfelt condolences to the Catholic communities in Taiwan and around the world on the loss of Pope Francis. His profound messages of peace and universal love resonated deeply with me and will live on through us all.",
+      "translation": "我向台湾及全球的天主教社区对教皇方济各的逝世表示诚挚的哀悼。他关于和平与普世之爱的深刻信息深深触动了我，并将通过我们所有人继续流传。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 209,
+        "retweet": 254,
+        "like": 2468
+      }
+    },
+    {
+      "created_at": "Fri May 16 12:58:30 +0000 2025",
+      "text": "A pleasure to meet with Speaker of the House of Commons @LindsayHoyle_MP. Thank you for inviting me to the @CommonsSpeaker's residence &amp; for being a firm friend to #Taiwan. https://t.co/8xRkOIGE4k",
+      "translation": "很高兴与下议院议长@LindsayHoyle_MP会面。感谢您邀请我到@CommonsSpeaker的官邸，并成为#台湾的坚定朋友。https://t.co/8xRkOIGE4k",
+      "stance": "负面",
+      "metrics": {
+        "reply": 114,
+        "retweet": 390,
+        "like": 3124
+      }
+    },
+    {
+      "created_at": "Fri May 09 14:58:08 +0000 2025",
+      "text": "Today I am heading to #Lithuania &amp; #Denmark to meet with friends of #Taiwan &amp; reaffirm our shared commitment to democratic values. During this trip, I hope to strengthen Taiwan’s relationships in Europe &amp; encourage a deeper understanding of Taiwan globally. https://t.co/kYOy0jlzgG",
+      "translation": "今天我前往#立陶宛和#丹麦，与#台湾的朋友们会面，并重申我们对民主价值观的共同承诺。在此次行程中，我希望加强台湾在欧洲的关系，并促进全球对台湾的更深入了解。https://t.co/kYOy0jlzgG",
+      "stance": "负面",
+      "metrics": {
+        "reply": 253,
+        "retweet": 719,
+        "like": 6938
+      }
+    },
+    {
+      "created_at": "Fri Mar 28 13:38:57 +0000 2025",
+      "text": "My heart goes out to everyone affected by the earthquake that struck Myanmar and Thailand today. I sincerely hope that the rescue and recovery efforts can help all those in need.",
+      "translation": "我的心与今天受缅甸和泰国地震影响的所有人同在。我真诚希望救援和恢复工作能够帮助所有需要帮助的人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 345,
+        "retweet": 958,
+        "like": 5729
+      }
+    },
+    {
+      "created_at": "Fri Jun 27 04:06:20 +0000 2025",
+      "text": "小林鷹之先生@kobahawkと再会でき、大変嬉しく思います。\n議論における真摯な姿勢と確固たる信念に触れ、まさに「有志有途」を体現する政治家だと改めておもいました。\nまた有意義な意見交換ができる日を楽しみにしています。今後の更なるご活躍を期待しています！ https://t.co/zRaWNZFW3f",
+      "translation": "能再次见到小林鹰之先生@kobahawk，我感到非常高兴。接触到他讨论中真诚的态度和坚定的信念，我再次认为他是一位真正体现“有志有途”的政治家。我期待着未来能再次进行有意义的意见交流。期待他未来取得更大的成就！https://t.co/zRaWNZFW3f",
+      "stance": "负面",
+      "metrics": {
+        "reply": 311,
+        "retweet": 671,
+        "like": 5448
+      }
+    },
+    {
+      "created_at": "Fri Jun 13 01:53:26 +0000 2025",
+      "text": "In this time of global change &amp; uncertainty, one thing remains clear: democracy &amp; resilience are the foundation of a better tomorrow. #Taiwan is proof of this, &amp; we remain unwavering in our commitment to democracy, despite the challenges we face.\n🎥 Copenhagen Democracy Summit https://t.co/9JZ1YdFHd4",
+      "translation": "在这个全球变化与不确定的时期，有一件事依然清晰：民主与韧性是更美好明天的基石。#台湾证明了这一点，尽管面临挑战，我们仍坚定不移地致力于民主。🎥 哥本哈根民主峰会 https://t.co/9JZ1YdFHd4",
+      "stance": "负面",
+      "metrics": {
+        "reply": 400,
+        "retweet": 703,
+        "like": 4770
+      }
+    }
+  ]
+}

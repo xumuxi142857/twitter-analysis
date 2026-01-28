@@ -1,0 +1,313 @@
+{
+  "id": "profile_indaysara.json",
+  "_fingerprint": "83a89118e57362baf431be6f0adbbc00",
+  "name": "indaysara",
+  "username": "indaysara",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、宜人性、尽责性；中等开放性；低神经质",
+      "detail": "基于言论样本分析：高外向性体现在频繁参与公共活动、社交互动和媒体曝光；高宜人性表现为关注弱势群体、宗教活动和社区服务；高尽责性反映在官方职责履行、机构访问和项目跟进；中等开放性显示对传统和宗教事务的重视，但缺乏创新性言论；低神经质表现为情绪稳定，即使在面对指控时也保持官方回应。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在的表演性倾向、过度依赖传统框架、对批评敏感",
+      "detail": "分析显示：1. 表演性倾向：大量公开活动记录可能暗示对公众形象的过度关注；2. 传统框架依赖：言论多围绕宗教、传统节日和既定仪式，缺乏突破性思维；3. 批评敏感：样本17显示对指控的正式回应，表明对负面评价的防御性反应。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "务实主义、传统导向、机构忠诚、社区中心",
+      "detail": "认知模式分析：1. 务实主义：关注具体项目如“Magnegosyo ta 'day”（让我们做生意吧）和实地访问；2. 传统导向：频繁参与宗教活动（如黑拿撒勒人节、弥撒）；3. 机构忠诚：强调与副总统办公室（OVP）、军队（AFP）等机构的联系；4. 社区中心：重点放在地方社区、受害者和小企业主。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "公开日程可预测、过度仪式化行为、媒体依赖",
+      "detail": "脆弱点识别：1. 可预测性：活动模式规律（节日、访问、仪式），易于预测；2. 仪式化行为：大量宗教和传统活动可能限制适应性；3. 媒体依赖：所有样本均附链接，显示对社交媒体平台的依赖，易受信息操控。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "亲机构立场、宗教保守主义、地方主义倾向",
+      "detail": "立场分析：1. 亲机构立场：与政府、军队、外国使馆（如英国大使）的紧密联系可能限制独立性；2. 宗教保守主义：深度参与天主教活动可能影响对多元议题的接纳；3. 地方主义倾向：焦点集中在菲律宾特定地区（如宿务、阿尔拜、拉瑙德尔苏尔），可能缺乏全局视野。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "执行能力依赖现有体系、创新不足、危机管理程式化",
+      "detail": "能力评估：1. 体系依赖：项目如“OVP–WMSO”和“MTD grantees”显示对现有官僚结构的依赖；2. 创新不足：缺乏突破性政策或倡议的言论；3. 危机管理程式化：对滑坡受害者（样本1）和指控（样本17）的回应显得标准化，可能缺乏灵活性。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "传统思维固化、公众形象焦虑、防御性心态",
+      "detail": "心智模式弱点：1. 思维固化：言论强调传统价值观和仪式，可能抵制变革；2. 形象焦虑：大量公开活动暗示对公众认可的需求；3. 防御性心态：样本17的官方声明显示对批评的敏感和正式辩护倾向。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "政治资本积累、传统价值观推广、地方影响力巩固",
+      "detail": "潜在意图推断：1. 政治资本积累：通过社区服务和机构访问增强政治基础；2. 传统价值观推广：利用宗教和节日活动维护保守议程；3. 地方影响力巩固：重点在特定地区（如阿尔拜、宿务）可能旨在强化地方支持网络。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "灾害响应、宗教活动、小企业支持、外交互动、军事联系、社区服务",
+      "detail": "主要话题领域：1. 灾害响应：如样本1的滑坡受害者访问；2. 宗教活动：如黑拿撒勒人节（Itim na Nazareno）、弥撒；3. 小企业支持：如“Magnegosyo ta 'day”（让我们做生意吧）项目；4. 外交互动：如英国大使的礼节性拜访；5. 军事联系：如AFP感恩活动；6. 社区服务：如植树、供应商互动。所有话题均以菲律宾本地语境为中心，未显露出国际或对华特定立场。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      2,
+      5
+    ],
+    [
+      0,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 07 01:58:07 +0000 2026",
+      "text": "PAGBISITA SA MAGNEGOSYO TA ‘DAY BENEFICIARY\nDaraga, Albay\n\nPlease see more here:\nhttps://t.co/NToooLLUnS",
+      "translation": "访问达拉加市（阿尔拜省）的'Magnegosyo Ta 'Day'项目受益者。详情请见：https://t.co/NToooLLUnS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 04:03:00 +0000 2025",
+      "text": "NEW YEAR’S DAY\nDecember 31, 2025\n\nPlease see more here:\nhttps://t.co/0NE7ycd2Lw",
+      "translation": "2025年12月31日，新年。详情请见：https://t.co/0NE7ycd2Lw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 04:09:44 +0000 2025",
+      "text": "MALIGAYANG PASKO\nDecember 24, 2025 \n\nPlease see more here:\nhttps://t.co/bhdzTUdvnx",
+      "translation": "2025年12月24日，圣诞快乐。详情请见：https://t.co/bhdzTUdvnx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 05:25:37 +0000 2026",
+      "text": "OVP–WMSO, MULING BINISITA ANG MTD GRANTEES SA ILIGAN CITY \n\nPlease see more here:\nhttps://t.co/1kdqlukqGQ",
+      "translation": "副总统办公室-西棉兰老岛办事处再次访问伊利甘市的MTD受助者。详情请见：https://t.co/1kdqlukqGQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 00:02:19 +0000 2025",
+      "text": "RIZAL DAY\nDecember 30, 2025\n\nPlease see more here:\nhttps://t.co/4yZ9B9GliE",
+      "translation": "2025年12月30日，黎刹日。详情请见：https://t.co/4yZ9B9GliE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 3,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 09:43:28 +0000 2025",
+      "text": "TOUR OF LABORATORIES\nUniversidad de Zamboanga\nZamboanga City\n\nPlease see more here:\nhttps://t.co/SphTcOK7bk",
+      "translation": "参观三宝颜市三宝颜大学的实验室。详情请见：https://t.co/SphTcOK7bk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 02:05:08 +0000 2026",
+      "text": "PAGBISITA SA RELIGIOUS SHOP NI ROSANA\nSto. Cristo, Daraga, Albay\n\nPlease see more here:\nhttps://t.co/PFtAVJda3r",
+      "translation": "访问达拉加市（阿尔拜省）圣克里斯托区罗莎娜的宗教用品店。详情请见：https://t.co/PFtAVJda3r",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 03:00:30 +0000 2025",
+      "text": "MASS AT OUR LADY OF ROSARY OF MANAOAG\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/9p24B0SeCP",
+      "translation": "在邦阿西楠省马纳奥阿市的圣母玫瑰堂举行弥撒。详情请见：https://t.co/9p24B0SeCP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 10:18:44 +0000 2025",
+      "text": "AFP SECURITY AND PROTECTION GROUP YEAR-END THANKSGIVING\nCamp General Emilio Aguinaldo\nQuezon City\n\nPlease see more here:\nhttps://t.co/6wyOtUmwPG",
+      "translation": "菲律宾武装部队安全与保护组年终感恩活动，奎松市埃米利奥·阿奎纳尔多将军营。详情请见：https://t.co/6wyOtUmwPG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 08:23:58 +0000 2026",
+      "text": "PAGBISITA SA MGA BIKTIMA NG \nBINALIW LANDFILL LANDSLIDE SA CEBU CITY\nVisayasMed Hospital\nCebu City\n\nPlease see more here:\nhttps://t.co/F3ToWXL1os",
+      "translation": "访问宿务市比纳利乌垃圾填埋场滑坡事件的受害者，维萨亚斯医疗医院，宿务市。详情请见：https://t.co/F3ToWXL1os",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 07:30:38 +0000 2026",
+      "text": "OVP–BARMM SO THANKSGIVING ACTIVITY SA LANAO DEL SUR\n\nPlease see more here:\nhttps://t.co/e8E7PJDhdQ",
+      "translation": "副总统办公室-邦萨摩洛自治区特别办公室在拉瑙德尔苏尔省的感恩活动。详情请见：https://t.co/e8E7PJDhdQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Sat Dec 27 03:47:02 +0000 2025",
+      "text": "KAMUSTAHAN SA MGA VENDORS\nOur Lady of Rosary of Manaoag Church\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/YvgQTQx1jZ",
+      "translation": "与马纳奥阿市圣母玫瑰堂教堂的摊贩们交流。详情请见：https://t.co/YvgQTQx1jZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sat Dec 20 00:12:58 +0000 2025",
+      "text": "NORTHVIEW COVERED GYM\nCebu City\n\nPlease see more here:\nhttps://t.co/LhUsvCn5Mc",
+      "translation": "宿务市北景有顶体育馆。详情请见：https://t.co/LhUsvCn5Mc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 09:34:34 +0000 2026",
+      "text": "COURTESY CALL OF H.E. SARAH HULTON, OBE\nAmbassador of the United Kingdom of Great Britain and Northern Ireland to the Philippines\nOffice of the Vice President\nMandaluyong City\n\nPlease see more here:\nhttps://t.co/5KXoEUoloy",
+      "translation": "大不列颠及北爱尔兰联合王国驻菲律宾大使莎拉·赫尔顿（OBE）阁下礼节性拜访副总统办公室，曼达卢永市。详情请见：https://t.co/5KXoEUoloy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 03:37:52 +0000 2025",
+      "text": "ALMUSAL KASAMA ANG OFFICE OF THE VICE PRESIDENT PERSONNEL\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/1wruOMnEza",
+      "translation": "与副总统办公室工作人员共进早餐，马纳奥阿市，邦阿西楠省。详情请见：https://t.co/1wruOMnEza",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 1,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:01:46 +0000 2025",
+      "text": "OFFICIAL STATEMENT ON THE FALSE ACCUSATIONS OF A CERTAIN RAMIL MADRIAGA\nDecember 22, 2025\n\nPlease see more here:\nhttps://t.co/xJyfLEOSW5",
+      "translation": "关于某位拉米尔·马德里亚加虚假指控的官方声明，2025年12月22日。详情请见：https://t.co/xJyfLEOSW5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 00:02:14 +0000 2026",
+      "text": "MENSAHE PARA SA KAPISTAHAN NG ITIM NA NAZARENO\nJanuary 09, 2026\n\nPlease see more here:\nhttps://t.co/ax63lFesUo",
+      "translation": "为2026年1月9日黑拿撒勒人节致辞。详情请见：https://t.co/ax63lFesUo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 02:14:53 +0000 2026",
+      "text": "TREE PLANTING\nDaraga, Albay\n\nPlease see more here:\nhttps://t.co/uGS6X7pxye",
+      "translation": "植树活动，达拉加市，阿尔拜省。详情请见：https://t.co/uGS6X7pxye",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 01:36:29 +0000 2025",
+      "text": "MAG NEGOSYO TA 'DAY SA EASTERN VISAYAS\n\nPlease see more here:\nhttps://t.co/iZ7QR1YkGQ",
+      "translation": "在东维萨亚斯地区开展'Mag Negosyo Ta 'Day'活动。详情请见：https://t.co/iZ7QR1YkGQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 00:34:21 +0000 2025",
+      "text": "BRGY. BACAYAN GYMNASIUM\nCebu City\n\nPlease see more here:\nhttps://t.co/bRxT9nAW5f",
+      "translation": "宿务市巴卡扬村体育馆。详情请见：https://t.co/bRxT9nAW5f",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 14
+      }
+    }
+  ]
+}

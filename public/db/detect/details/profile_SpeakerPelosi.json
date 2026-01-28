@@ -1,0 +1,313 @@
+{
+  "id": "profile_SpeakerPelosi.json",
+  "_fingerprint": "3140582cfa9114d0ea58e3cbd95d6be1",
+  "name": "SpeakerPelosi",
+  "username": "SpeakerPelosi",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性：表现出强烈的社交参与和政治领导力，频繁公开演讲和媒体互动。尽责性：高度关注政策细节、立法程序和公共责任，强调工作伦理和制度规范。开放性：展现对多元文化、社会进步议题（如LGBTQ+权利、气候变化）的接纳和支持。宜人性：在政治对抗中表现出强硬立场，但在个人和节日问候中展现关怀。神经质：情绪稳定，在危机和批评中保持冷静和专业。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的固执、党派性强、道德优越感",
+      "detail": "固执：长期坚持特定政治立场（如反对特朗普政策、支持民主党议程），可能难以妥协。党派性强：言论中频繁批评共和党，强化党派对立。道德优越感：使用“道德声音”、“不道德”等词汇，暗示道德高地，可能引发对立或疏远不同观点者。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "进步主义、制度主义、道德驱动",
+      "detail": "进步主义：倾向支持社会平等、环境保护和多元文化主义（如婚姻平等、气候行动）。制度主义：强调法律、立法程序和民主制度的重要性（如呼吁投票、尊重婚姻法案）。道德驱动：基于道德和价值观（如正义、服务、家庭）框架政策立场，可能优先情感诉求而非纯粹实用主义。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖传统政治策略、易受党派叙事影响",
+      "detail": "过度依赖传统策略：专注于立法投票、媒体宣传和节日问候，可能缺乏创新应对新挑战（如社交媒体虚假信息）。易受党派叙事影响：言论紧密跟随民主党议程，可能忽视跨党派合作机会，导致僵化回应。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "对经济议题简化、外交立场矛盾",
+      "detail": "经济议题简化：将经济问题归因于政党（如指责特朗普关税导致失业），可能忽略复杂全球经济因素。外交立场矛盾：批评委内瑞拉政权但质疑军事干预，显示在干预主义与克制之间的摇摆，可能削弱政策连贯性。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "技术治理短板、危机管理依赖传统渠道",
+      "detail": "技术治理短板：转发停电和紧急通知，显示对基础设施问题的反应性而非主动性，可能缺乏深度技术政策见解。危机管理依赖传统渠道：依赖官方通报和媒体，在快速变化危机中可能响应迟缓。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "情感驱动决策、历史包袱",
+      "detail": "情感驱动决策：强烈情感表达（如对枪击事件、反犹太主义的悲痛），可能影响理性政策权衡。历史包袱：长期从政经历（近四十年）可能固化思维模式，难以适应政治新动态。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治遗产、影响后任、维护民主党团结",
+      "detail": "巩固政治遗产：强调服务、道德和进步价值观，旨在塑造历史形象。影响后任：通过公开呼吁（如敦促议长约翰逊投票）延续政策影响力。维护民主党团结：攻击共和党并倡导民主党议题，以强化党内凝聚力。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国内政策、社会正义、外交谨慎、地方事务",
+      "detail": "国内政策：聚焦医疗（ACA税收抵免）、经济（就业、关税）、气候。社会正义：涉及婚姻平等、反歧视、枪支暴力、反犹太主义。外交谨慎：对委内瑞拉等议题表达克制，避免激进干预。地方事务：关注旧金山事件（停电、市长纪念）、社区问候。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      1,
+      0,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 20:22:11 +0000 2025",
+      "text": "At this holy time of year, my heart is full of gratitude for San Francisco — its people, its spirit, and its goodness. \n\nAs I prepare for my final year representing this extraordinary city, I share a message of thanks, hope, and faith. Read my letter:\nhttps://t.co/gYfxRa7mCi",
+      "translation": "在这神圣的时节，我的心中充满对旧金山——它的人民、精神和美好——的感激之情。在我准备代表这座非凡城市度过最后一年之际，我分享一份感谢、希望与信念的信息。阅读我的信函：https://t.co/gYfxRa7mCi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 792,
+        "retweet": 166,
+        "like": 1061
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 16:11:55 +0000 2025",
+      "text": "A majority of the House of Representatives supports extending ACA tax credits.\n\n@SpeakerJohnson should not leave for the holidays without bringing this bill to a vote.\n\nWorking families cannot afford to start the new year paying the price for the Republican health care crisis. https://t.co/spswzvZYGx",
+      "translation": "众议院多数议员支持延长《平价医疗法案》税收抵免。@SpeakerJohnson不应在未将此法案付诸表决的情况下就休假过节。工薪家庭无法承受在新的一年里为共和党的医疗危机付出代价。https://t.co/spswzvZYGx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1891,
+        "retweet": 699,
+        "like": 2160
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:17:47 +0000 2025",
+      "text": "RT @cspan: .@DemWomenCaucus News Conference on Women's Health Care – LIVE online here: https://t.co/n2XvE3jQp5",
+      "translation": "RT @cspan：@DemWomenCaucus关于女性医疗保健的新闻发布会——此处在线直播：https://t.co/n2XvE3jQp5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 43,
+        "retweet": 25,
+        "like": 77
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 14:18:45 +0000 2025",
+      "text": "RT @DemWomenCaucus: Remember that in 2025, Trump and Republicans stole from the poor to give to the rich.\n\nIt’s immoral. https://t.co/NfhiQ…",
+      "translation": "RT @DemWomenCaucus：记住，2025年，特朗普和共和党人劫贫济富。这是不道德的。https://t.co/NfhiQ…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 161,
+        "retweet": 72,
+        "like": 211
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 23:16:29 +0000 2025",
+      "text": "Two straight months of job losses and rising unemployment. This is the cost of Trump and Republicans’ reckless tariffs and their Big, Ugly Bill.\n\nThey broke the economy and left working families to pay the price.",
+      "translation": "连续两个月的就业岗位流失和失业率上升。这是特朗普和共和党人鲁莽的关税政策及其《庞大丑陋法案》的代价。他们破坏了经济，却让工薪家庭承担后果。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4123,
+        "retweet": 951,
+        "like": 4483
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 17:00:42 +0000 2026",
+      "text": "From my family to yours, best wishes for a healthy and happy New Year full of peace, love and joy!",
+      "translation": "从我的家人到您的家人，祝愿新年健康快乐，充满和平、爱与喜悦！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 860,
+        "retweet": 205,
+        "like": 2498
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 14:57:39 +0000 2025",
+      "text": "May this season of joy bring you peace and cherished time with loved ones.\n\nFrom my family to yours, wishing you a Merry Christmas filled with faith, hope and charity!",
+      "translation": "愿这个欢乐的季节带给您平安，以及与亲人共度的珍贵时光。从我的家人到您的家人，祝您圣诞快乐，充满信念、希望与仁爱！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 626,
+        "retweet": 176,
+        "like": 1648
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 16:25:33 +0000 2025",
+      "text": "RT @ThisWeekABC: As she prepares to retire from Congress after nearly four-decades in Washington, Speaker Emerita Nancy Pelosi sits down wi…",
+      "translation": "RT @ThisWeekABC：在准备从国会退休、结束近四十年的华盛顿生涯之际，众议院荣誉议长南希·佩洛西接受专访…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 361,
+        "retweet": 119,
+        "like": 440
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 03:20:34 +0000 2025",
+      "text": "RT @SF_emergency: A large power outage is impacting San Francisco - only call 9-1-1 for life safety emergencies, avoid non-essential travel…",
+      "translation": "RT @SF_emergency：旧金山正受大面积停电影响——仅因生命安全紧急情况拨打911，避免非必要出行…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 133,
+        "retweet": 328,
+        "like": 1115
+      }
+    },
+    {
+      "created_at": "Sun Dec 14 22:09:42 +0000 2025",
+      "text": "Happy Hanukkah to all who celebrate in San Francisco and around the world.\n\nAs we mark what should be a time of joy for communities, our thoughts are with the victims of the antisemitic terrorist attack in Australia. \n\nAs Jewish families light candles, we all must confront the",
+      "translation": "祝旧金山及世界各地庆祝光明节的人们节日快乐。在我们纪念本应是社区欢乐时刻之际，我们的思绪与澳大利亚反犹恐怖袭击的受害者同在。当犹太家庭点燃蜡烛时，我们都必须面对…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 116,
+        "retweet": 100,
+        "like": 594
+      }
+    },
+    {
+      "created_at": "Sun Dec 14 18:55:14 +0000 2025",
+      "text": "On this solemn anniversary of the Sandy Hook Elementary School massacre, we remember the 26 beautiful souls taken in an act of unimaginable violence.\n\nYesterday’s shooting at Brown University is a painful reminder that this grief is not confined to history.\n\nThirteen years later,",
+      "translation": "在桑迪胡克小学枪击案这一沉痛周年纪念日，我们缅怀在那场难以想象的暴力中被夺走的26个美丽生命。昨天布朗大学的枪击事件痛苦地提醒我们，这份悲伤并未局限于历史。十三年后，",
+      "stance": "无关",
+      "metrics": {
+        "reply": 258,
+        "retweet": 131,
+        "like": 795
+      }
+    },
+    {
+      "created_at": "Sun Dec 14 14:12:33 +0000 2025",
+      "text": "RT @USATODAY: Exit interview: After four decades, the most powerful woman in the history of the United States heads home. Nancy Pelosi is s…",
+      "translation": "RT @USATODAY：离职访谈：四十年后，美国历史上最具权势的女性即将归家。南希·佩洛西即将…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 181,
+        "retweet": 138,
+        "like": 674
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 16:38:14 +0000 2026",
+      "text": "Venezuela is ruled by an illegitimate regime, but the Administration has not made the case that an urgent threat to America’s national security existed to justify the use of U.S. military force. \n\nPresident Trump has made no secret of his intentions to effectively abolish the",
+      "translation": "委内瑞拉由一个非法政权统治，但政府未能证明存在对美国国家安全的紧迫威胁，以证明使用美国军事力量的合理性。特朗普总统毫不掩饰其意图，即实质上废除…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9191,
+        "retweet": 5127,
+        "like": 19975
+      }
+    },
+    {
+      "created_at": "Sat Dec 13 16:47:04 +0000 2025",
+      "text": "The Respect for Marriage Act affirmed a simple truth: love deserves respect and families deserve protection.\n \nAs we mark three years since Democrats enacted it, we deepen our resolve to push back on forces of discrimination and advance equal justice for every American. https://t.co/BkOITxAjym",
+      "translation": "《尊重婚姻法案》确认了一个简单的真理：爱值得尊重，家庭值得保护。在民主党颁布该法案三周年之际，我们深化决心，抵制歧视势力，为每位美国人推进平等正义。https://t.co/BkOITxAjym",
+      "stance": "无关",
+      "metrics": {
+        "reply": 335,
+        "retweet": 240,
+        "like": 1091
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 20:05:31 +0000 2025",
+      "text": "The Bay Area and America lost one of our great moral voices. Betty Reid Soskin helped America tell its story honestly—including the chapters too often left out.\n\nAt 104, she leaves behind a legacy of courage, clarity and service that will endure for generations to come. May she",
+      "translation": "湾区与美国失去了一位伟大的道德之声。贝蒂·里德·索斯金帮助美国诚实地讲述其故事——包括那些常被遗漏的篇章。在104岁高龄，她留下了勇气、清晰与服务的遗产，将世代流传。愿她",
+      "stance": "无关",
+      "metrics": {
+        "reply": 188,
+        "retweet": 279,
+        "like": 1494
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 03:28:52 +0000 2025",
+      "text": "RT @DanielLurie: PG&amp;E has informed us that they expect full power to be restored by 2pm tomorrow. If your power is still out and you need h…",
+      "translation": "RT @DanielLurie：太平洋燃气电力公司已通知我们，预计明天下午2点前全面恢复供电。如果您仍停电且需要帮助…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 121,
+        "retweet": 82,
+        "like": 267
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 20:45:03 +0000 2025",
+      "text": "On Friday, San Francisco honored our beloved Mayor Ed Lee—a public servant who never forgot who he was fighting for.\n\nIt is fitting that his legacy now stands where a symbol of discrimination once did, reflecting the progress and values he worked his life to advance. https://t.co/X4gVaGdn7z",
+      "translation": "周五，旧金山向我们敬爱的市长李孟贤致敬——他是一位从未忘记为谁而战的公仆。他的遗产如今矗立在一个曾象征歧视的地方，这恰如其分地反映了他毕生致力于推进的进步与价值观。https://t.co/X4gVaGdn7z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 123,
+        "retweet": 62,
+        "like": 341
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 04:30:50 +0000 2025",
+      "text": "The news of a deadly assault on Rob and Michelle Reiner in their home is devastating. It’s hard to think of anyone more remarkable and excellent in every field and endeavor they pursued. Rob was creative, funny, and beloved. And in all of their endeavors, Michelle was his",
+      "translation": "罗布和米歇尔·赖纳在家中遭致命袭击的消息令人心碎。很难想象有谁在他们涉足的每个领域和事业中更为杰出和卓越。罗布富有创造力、风趣且受人爱戴。而在他们所有的事业中，米歇尔是他的",
+      "stance": "无关",
+      "metrics": {
+        "reply": 545,
+        "retweet": 1322,
+        "like": 12563
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 20:08:44 +0000 2025",
+      "text": "RT @baltimoresun: Nancy Pelosi didn’t initially aspire to a political career. But she grew up in Little Italy watching her father serve in…",
+      "translation": "RT @baltimoresun：南希·佩洛西最初并未立志从政。但她在小意大利长大，目睹父亲在地方政府服务…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 480,
+        "retweet": 196,
+        "like": 797
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 15:21:29 +0000 2025",
+      "text": "A decade after the world agreed in Paris to confront the climate crisis, the stakes couldn’t be higher—especially as the President calls it a “con job.”\n\nIn reality, he’s the con job. With or without him, we’ll keep fighting for a sustainable future and to protect God's creation.",
+      "translation": "在世界于巴黎达成共识应对气候危机十年后，风险从未如此之高——尤其是当总统称其为“骗局”之际。实际上，他才是骗局。无论有无他，我们都将继续为可持续的未来和保护上帝的创造而奋斗。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2490,
+        "retweet": 247,
+        "like": 990
+      }
+    }
+  ]
+}

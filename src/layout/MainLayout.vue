@@ -6,7 +6,7 @@
           <div class="logo-icon">
             <el-icon><Monitor /></el-icon>
           </div>
-          <span class="logo-text">舆情情报分析系统</span>
+          <span class="logo-text">社交媒体分析系统</span>
         </div>
 
         <el-menu

@@ -1,0 +1,313 @@
+{
+  "id": "profile_MAC_Taiwan.json",
+  "_fingerprint": "f882d1627d8c67f0c3be67a46664dcf0",
+  "name": "MAC_Taiwan",
+  "username": "MAC_Taiwan",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁进行外交活动，积极与多国代表会面，展现社交活跃度。尽责性高：系统性地推进国际支持网络建设，持续跟进各类访问与会议。开放性高：广泛接触不同国家、党派和智库，乐于探讨多元议题。宜人性中等：在合作中保持友好姿态，但对特定立场（如反对一个中国原则）表现出坚定态度。神经质低：言论中情绪稳定，以理性论述为主，较少表现出焦虑或情绪波动。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在过度依赖外部认可、理想主义倾向及选择性认知",
+      "detail": "过度依赖外部认可：频繁强调国际支持（如“感谢支持”“坚定支持”），将外部认可作为合法性的重要来源。理想主义倾向：强调“民主”“自由”“价值观”等抽象概念，可能忽视现实政治复杂性。选择性认知：倾向于放大支持台湾的国际声音，对反对或中立立场关注较少，可能形成信息茧房。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "亲西方民主阵营、多边主义、价值导向、对抗性叙事",
+      "detail": "亲西方民主阵营：主要与欧美、G7、欧盟等国家及组织互动，视其为天然盟友。多边主义：积极构建跨国家、跨党派的国际支持网络，强调“民主团结”。价值导向：以“民主、自由、人权”为论述核心，将两岸议题塑造为价值观冲突。对抗性叙事：将中国大陆（CCP）描绘为“威胁”“外国干涉”“认知战”来源，强化“捍卫”姿态。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度公开外交活动易暴露网络、依赖象征性支持、行动模式可预测",
+      "detail": "过度公开外交活动：在社交媒体高调宣传会面细节，使国际支持网络及议程透明化，易被监控或反制。依赖象征性支持：重视议会决议、友谊小组、联合声明等象征性成果，可能高估其实际政策影响力。行动模式可预测：遵循“会面-感谢支持-强调共同价值-呼吁合作”的固定流程，缺乏战略隐蔽性。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "国际支持存在条件性与波动性、误判“民主团结”的牢固性、对“现状”定义片面",
+      "detail": "国际支持条件性：支持常与大国博弈（如美中竞争）挂钩，可能随国际局势变化而动摇。误判“民主团结”：假定“民主国家”在台湾议题上立场一致，忽略其内部分歧及经济利益考量。片面定义“现状”：将“维持现状”等同于台湾现行政治架构的永久化，忽视中国大陆对“一个中国”原则的坚持及反“台独”红线。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "战略执行依赖有限资源、过度分散议题、应对突发危机能力未经验证",
+      "detail": "资源依赖：国际游说与公关需持续投入外交、经济资源，长期可持续性存疑。议题分散：同时推进政治、安全、经济、文化、国际参与等多议题，可能稀释核心焦点，影响深度。危机应对未验：言论样本未显示应对重大突发事件（如军事危机、断交潮）的具体策略，抗压能力不明。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "存在认知失调风险、情感绑定影响理性判断、群体极化倾向",
+      "detail": "认知失调风险：当国际支持未达预期（如WHA参与受阻）时，可能强化“受迫害”叙事而非调整策略。情感绑定：对“民主价值”的情感投入可能妨碍务实评估利益交换与妥协空间。群体极化：在“志同道合”圈子内互动，易强化固有观点，降低对对立信息的接受度。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "推动台湾问题国际化、塑造“民主前沿”身份、渐进式寻求法理“台独”空间",
+      "detail": "推动国际化：通过多国议会、智库、媒体介入，将两岸议题从双边问题转化为“国际关切”，牵制中国大陆。塑造“民主前沿”：将台湾定位为“抵御威权扩张”的前线，争取民主阵营的意识形态与安全支持。渐进式法理空间：通过否定联合国大会第2758号决议（UNGA Resolution 2758）的适用性、挑战“一个中国原则”，为未来法理“台独”积累话语基础。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国际支持与参与、两岸关系与区域安全、民主价值联盟、经济科技合作",
+      "detail": "国际支持与参与：聚焦争取各国议会、政府、国际组织对台湾的支持，特别是世界卫生组织（WHO）等参与。两岸关系与区域安全：强调台湾海峡和平稳定，将中国大陆描绘为威胁，讨论美中动态、印太安全。民主价值联盟：以“民主、自由、人权”为纽带，构建与欧美、G7、欧盟等的价值观同盟。经济科技合作：提及保护关键技术、促进繁荣，隐含在高科技领域减少对中国大陆依赖的意图。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jun 18 01:48:50 +0000 2025",
+      "text": "Dep. Min. Shen welcomed scholars from MERICS and many European think tanks to Taiwan. He thanks them for their concern over peace in Taiwan Strait. They had in-depth exchanges💬 on cross-Strait situation, regional security🌏, EU-China policy📝, and protecting key technologies💻. https://t.co/IioBQ0mTQr",
+      "translation": "沈副部长欢迎来自MERICS及多家欧洲智库的学者访问台湾。他感谢他们对台海和平的关注。双方就两岸局势、区域安全、欧盟对华政策及保护关键技术进行了深入交流。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Wed Jun 04 03:27:02 +0000 2025",
+      "text": "RT @ChingteLai: Authoritarian regimes erase history; democracies have a duty to preserve it. Today, we remember those who marched for freed…",
+      "translation": "转推 @ChingteLai：威权政权抹除历史；民主政体有责任保存历史。今天，我们纪念那些为自由而游行的人们……",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1164,
+        "retweet": 2490,
+        "like": 12889
+      }
+    },
+    {
+      "created_at": "Wed Feb 19 09:28:13 +0000 2025",
+      "text": "Minister Chiu met with the TUPP delegation of GMF, exchanging thoughts on cross-Strait relations. This is the 7th visit of the TUPP. Minister provided a comprehensive introduction on cross-Strait relations and extended appreciation to the GMF on their support for Taiwan. https://t.co/UZGgD1k9Qv",
+      "translation": "邱部长会见了GMF的TUPP代表团，就两岸关系交换了意见。这是TUPP第七次访问。邱部长全面介绍了两岸关系，并对GMF支持台湾表示感谢。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 2,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Wed Feb 05 09:37:50 +0000 2025",
+      "text": "Min. Chiu attended the 2025 Taiwanese Businesspeople in Mainland LNY Event, stressing that Taiwanese businesspeople play a crucial role in fostering goodwill across the Strait. Min. Chiu extends gratitude for their support of gov policies and contributions to related efforts. https://t.co/C7lnUOFpvg",
+      "translation": "邱部长出席了2025年大陆台商春节活动，强调台商在促进两岸善意方面发挥着关键作用。邱部长感谢他们对政府政策的支持及相关努力的贡献。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 0,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Wed Apr 30 08:22:31 +0000 2025",
+      "text": "Dep. Min. Shen welcomed the International Symposium for Young Diplomats to democratic Taiwan🇹🇼. They exchanged views on current global situation &amp; Taiwan Strait, expressing hope for deeper cooperation to jointly become a positive force in the international community. 🌏🌟 #ISYD https://t.co/B8sKQzPiYF",
+      "translation": "沈副部长欢迎国际青年外交官研讨会来到民主台湾。他们就当前全球局势及台海问题交换了意见，表达了深化合作、共同成为国际社会积极力量的希望。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Mar 25 02:03:32 +0000 2025",
+      "text": "#G7ForeignMinisters reiterated the importance of peace in the Taiwan Strait, supported Taiwan’s intl participation, and notably dropped the “One-China policies” reference in their Mar. 14 joint statement. Taiwan stands w/ like-minded countries to advance regional security. https://t.co/VG4a7egI9l",
+      "translation": "#G7外长会议重申了台海和平的重要性，支持台湾参与国际事务，并在3月14日的联合声明中显著删除了“一个中国政策”的提法。台湾与志同道合的国家站在一起，共同推进区域安全。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 29,
+        "retweet": 9,
+        "like": 37
+      }
+    },
+    {
+      "created_at": "Tue Jun 17 02:35:33 +0000 2025",
+      "text": "Min. Chiu and EETO Head @LutzGuellner met, reaffirming that peace and stability in the Taiwan Strait are the shared interests of both Taiwan🇹🇼 and EU🇪🇺. We appreciate EU's support and spare no efforts maintaining the status quo &amp; promoting prosperity in the Indo-Pacific. 🌏 https://t.co/SsHElHchvf",
+      "translation": "邱部长与EETO负责人@LutzGuellner会面，重申台海和平稳定是台湾与欧盟的共同利益。我们感谢欧盟的支持，并不遗余力地维持现状，促进印太地区的繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Jun 03 05:45:44 +0000 2025",
+      "text": "Dep. Min. Shen welcomed Berlin Security Conference founder R. Uwe Proll &amp; Chair Reinhard Wolski, and congratulated Mr. Proll on receiving an honorary law doctorate from Taiwan’s National Defense University. They had fruitful discussions on cross-Strait &amp; global issues. #BSC🌏🇩🇪🇹🇼 https://t.co/ZL75GxmVAK",
+      "translation": "沈副部长欢迎柏林安全会议创始人R. Uwe Proll及主席Reinhard Wolski，并祝贺Proll先生获得台湾国防大学荣誉法学博士学位。双方就两岸及全球议题进行了富有成果的讨论。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Feb 25 03:27:26 +0000 2025",
+      "text": "🇹🇼🤝🇺🇸 Taiwan thanks the #USCongress for introducing a resolution exposing CCP’s weaponizing #UNGA Resolution 2758 and rejecting the CCP’s false “One China Principle.” We appreciate U.S.' efforts to set the record straight &amp; support for democratic TW’s global participation.🌏",
+      "translation": "台湾感谢#美国国会提出决议，揭露中共将#联大2758号决议武器化，并拒绝中共虚假的“一个中国原则”。我们感谢美国为澄清事实及支持民主台湾全球参与所做的努力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 61,
+        "retweet": 37,
+        "like": 188
+      }
+    },
+    {
+      "created_at": "Tue Apr 08 08:09:50 +0000 2025",
+      "text": "🇹🇼🇱🇺Secretary-General Hu welcomed the Delegation of Luxembourg's MPs, thanking Lux Parliament for passing pro-Taiwan motions in 2024. They had a fruitful exchange on the current cross-Strait situation. MAC hopes the MPs continue to voice support for democratic Taiwan. #Luxembourg https://t.co/Mv9aoHl5Xx",
+      "translation": "胡秘书长欢迎卢森堡国会议员代表团，感谢卢森堡议会在2024年通过亲台动议。双方就当前两岸局势进行了富有成果的交流。陆委会希望议员们继续为民主台湾发声支持。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 9,
+        "like": 67
+      }
+    },
+    {
+      "created_at": "Thu May 29 08:29:58 +0000 2025",
+      "text": "Deputy Minister Shen met with visiting Members of the EU Parliament🇪🇺 to exchange views on cross-Strait and regional developments. He also expressed appreciation for the Parliament’s steadfast support for Taiwan🇹🇼 through resolutions, inquiries, and plenary debates. #Taiwan #EU https://t.co/Ww5dXYkLTy",
+      "translation": "沈副部长会见了来访的欧洲议会议员，就两岸及区域发展交换了意见。他还对议会通过决议、质询及全会辩论等方式坚定支持台湾表示感谢。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 1,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Thu May 22 09:06:08 +0000 2025",
+      "text": "Right on point! Grateful to our friends at #WHA78 for advocating for #Taiwan🇹🇼 and making it crystal clear: #UNGA Resolution No. 2758 surely does not involve Taiwan or block our meaningful participation in @WHO &amp; all other international organizations. #HealthForAll #TaiwanCanHelp",
+      "translation": "说得对！感谢#WHA78的朋友们为#台湾发声并明确指出：#联大2758号决议绝不涉及台湾，也不阻碍我们有意义地参与@WHO及所有其他国际组织。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Thu Jun 12 02:47:11 +0000 2025",
+      "text": "🇹🇼🤝🇫🇷 Min. Chiu welcomed Chair Marie-Noëlle Battistel and the French National Assembly Taiwan Friendship Group for in-depth exchanges on regional security, foreign interference, and cognitive warfare.\nWe thank our French friends for their enduring and firm support for Taiwan. https://t.co/9se7b1mdk2",
+      "translation": "邱部长欢迎主席Marie-Noëlle Battistel及法国国民议会台湾友好小组，就区域安全、外国干预及认知战进行了深入交流。我们感谢法国朋友对台湾持久坚定的支持。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Thu Jun 05 01:54:14 +0000 2025",
+      "text": "Min. Chiu welcomed Representative Ruth Bradley-Jones of @UKinTaiwan for fruitful exchanges on cross-Strait affairs &amp; regional security. We appreciate the UK’s continued support for peace &amp; stability across the Taiwan Strait and look forward to deeper cooperation. 🤝🌏 #Taiwan #UK https://t.co/XtgSLDqYIV",
+      "translation": "邱部长欢迎@英国在台代表Ruth Bradley-Jones，就两岸事务及区域安全进行了富有成果的交流。我们感谢英国持续支持台海和平稳定，并期待深化合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Thu Jul 10 06:37:04 +0000 2025",
+      "text": "🇹🇼🇱🇹Min. Chiu met Dr. Baranovas, Chair of TW Friendship Group of LT's Seimas, and 7 cross-party MPs. They held fruitful discussions on cross-Strait &amp; Indo-Pacific dynamics. He thanked our LT friends for their firm support, stressing democracies must unite to defend shared values. https://t.co/EUATQzB1OH",
+      "translation": "邱部长会见了立陶宛议会台湾友好小组主席Baranovas博士及7位跨党派议员。双方就两岸及印太动态进行了富有成果的讨论。他感谢立陶宛朋友坚定支持，强调民主国家必须团结捍卫共同价值观。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 28,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Thu Feb 27 07:34:46 +0000 2025",
+      "text": "🇹🇼🤝🇪🇺 Dep. Min. Shen welcomed a bipartisan delegation of European Parliament, exchanging views on recent cross-Strait relations &amp; regional situations. We appreciate EP for adopting resolutions supporting Taiwan, and hope to deepen our cooperation. \n#EuropeanParliarment #EU 🌍🔗 https://t.co/8d2l6yXEDf",
+      "translation": "沈副部长欢迎欧洲议会跨党派代表团，就近期两岸关系及区域局势交换了意见。我们感谢欧洲议会通过支持台湾的决议，并希望深化合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 52,
+        "retweet": 1,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jul 21 07:24:26 +0000 2025",
+      "text": "Min. Chiu welcomed 🇬🇹Congress Pres. Nery Ramos &amp; the cross-party delegation visiting TW and stressed TW's frontline role facing CCP's threats. Mr. Ramos understands the political reality TW faces &amp; said that he is representing the will of 100% Guatemalan to convey support for TW. https://t.co/yZBLowWhVE",
+      "translation": "邱部长欢迎危地马拉国会主席Nery Ramos及跨党派代表团访问台湾，并强调台湾在面临中共威胁的前线角色。Ramos先生理解台湾面临的政治现实，并表示他代表100%危地马拉人的意愿传达对台湾的支持。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 28,
+        "retweet": 0,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Fri May 09 07:53:57 +0000 2025",
+      "text": "RT @TaiwanPresSPOX: News Release: President Lai attends reception commemorating 80th anniversary of Victory in Europe Day\nhttps://t.co/uQCH…",
+      "translation": "转推 @台湾总统府发言人：新闻稿：赖总统出席纪念欧洲胜利日80周年招待会",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 16,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Fri May 02 06:33:43 +0000 2025",
+      "text": "🇹🇼🇩🇪 Dep. Min. Shen welcomed the interdisciplinary delegation from Germany’s SWP. They exchanged views on cross-Strait relations &amp; US-China dynamics. Shen thanked German gov’t &amp; parliament for their longstanding support &amp; looks forward to stronger Taiwan-German cooperation. #SWP https://t.co/Yp24Yt71B7",
+      "translation": "沈副部长欢迎德国SWP跨学科代表团。双方就两岸关系及美中动态交换了意见。沈感谢德国政府及议会的长期支持，并期待加强台德合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 2,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Fri Apr 18 01:47:25 +0000 2025",
+      "text": "Min. Chiu had a wonderful meeting with New Zealand’s All-Party Parliamentary Taiwan Friendship Group, thanking them for their long-standing support. MPs sang the Māori song “Te Aroha” (Love, Faith &amp; Peace) and showed the resolve to safeguard peace &amp; democracy in the Indo-Pacific. https://t.co/yPat5cwtgP",
+      "translation": "邱部长与新西兰跨党派议会台湾友好小组进行了愉快的会面，感谢他们的长期支持。议员们演唱了毛利歌曲“Te Aroha”（爱、信念与和平），并展示了捍卫印太地区和平与民主的决心。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 0,
+        "like": 6
+      }
+    }
+  ]
+}

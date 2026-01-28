@@ -1,0 +1,353 @@
+{
+  "id": "profile_USAToday.json",
+  "_fingerprint": "c522c494420cdc5e404d2190a49bda4c",
+  "name": "USAToday",
+  "username": "USATODAY",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质",
+      "detail": "外向性高：频繁报道娱乐、体育、时尚等大众话题，积极与受众互动。开放性高：内容涵盖政治、文化、科技、生活等多领域，对新事物接受度高。尽责性中等：注重事实报道但偶有娱乐化倾向。宜人性中等：整体中立但包含争议性观点。神经质中等：对突发事件反应迅速但保持专业克制。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "浅层化倾向、注意力分散、商业驱动明显",
+      "detail": "内容广度优先于深度，话题切换频繁（如从政治新闻直接转向娱乐）。注意力易受热点事件牵引，缺乏长期连贯性分析。商业合作内容（如品牌推广、产品推荐）与新闻内容界限模糊。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "实用主义、事件驱动、美国中心视角",
+      "detail": "强调信息实用性（如天气预警、生活指南）。以具体事件而非抽象理念为报道切入点。默认美国国内事务为优先关注点，国际新闻多与美国利益相关。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "热点依赖、格式固化、互动浅层",
+      "detail": "过度依赖社交媒体热点和突发新闻，可能导致深度调查不足。内容呈现模式化（标题+链接+简短描述），易形成思维定式。与受众互动限于点赞、分享等表层行为，缺乏深度反馈机制。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "隐性意识形态、商业利益影响、精英视角局限",
+      "detail": "虽标榜中立，但选题和措辞隐含主流美国价值观倾向。广告和赞助内容可能影响报道客观性。内容多反映都市、中产阶级视角，对边缘群体关注有限。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "领域广度稀释专业深度、实时性牺牲准确性、技术依赖",
+      "detail": "覆盖领域过广可能导致单一领域专业知识不足。追求新闻时效性可能影响事实核查的严谨性。过度依赖社交媒体平台算法分发，可能削弱内容自主策划能力。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "信息过载耐受性低、批判性思维间歇性、情感驱动决策",
+      "detail": "面对海量信息流时，倾向于简化或回避复杂议题。深度分析仅出现于特定栏目（如评论版），非全平台常态。灾难、名人新闻等易引发情绪共鸣的内容获得优先推送。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "商业品牌强化、意识形态渗透、用户数据积累",
+      "detail": "通过生活方式内容塑造品牌亲和力，间接促进广告收益。在娱乐、体育报道中潜移默化传递美国文化价值观。利用用户点击、分享行为优化内容推荐和商业策略。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "美国国内事务、娱乐体育、生活消费、有限国际政治",
+      "detail": "核心领域：美国国内新闻、天气、体育（如超级碗）、娱乐、汽车、消费指南。次要领域：国际事务（仅当涉及美国利益或名人时，如特朗普相关新闻）。回避领域：深度地缘政治分析、高度专业技术议题、非英语文化深度报道。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      0,
+      3,
+      5
+    ],
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      6
+    ],
+    [
+      2,
+      0,
+      2
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      3
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 21:01:35 +0000 2026",
+      "text": "Ahead of Super Bowl LX, shop the new Bad Bunny x NFL gear collection https://t.co/bfzVIfDrkn",
+      "translation": "在超级碗LX之前，购买新的Bad Bunny x NFL装备系列 https://t.co/bfzVIfDrkn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 5,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:45:12 +0000 2026",
+      "text": "15 vehicles on scenic winter road trips https://t.co/NAlzL3uEu5",
+      "translation": "15辆适合冬季风景公路旅行的车辆 https://t.co/NAlzL3uEu5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 6,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:30:30 +0000 2026",
+      "text": "See snow totals across the US, including NYC, Boston https://t.co/KmoEN4vLCs",
+      "translation": "查看美国各地的降雪总量，包括纽约市和波士顿 https://t.co/KmoEN4vLCs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 9,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:15:12 +0000 2026",
+      "text": "See Rachel McAdams battle a killer boar in exclusive 'Send Help' scene https://t.co/vHRBLR5ZSP",
+      "translation": "观看瑞秋·麦克亚当斯在独家《Send Help》场景中与杀人野猪搏斗 https://t.co/vHRBLR5ZSP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 5,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:00:58 +0000 2026",
+      "text": "Paris Haute Couture Fashion Week 2026 – Teyana Taylor, Rihanna, more https://t.co/JLOyIArFJn",
+      "translation": "2026年巴黎高级定制时装周——特亚娜·泰勒、蕾哈娜等 https://t.co/JLOyIArFJn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:59:03 +0000 2026",
+      "text": "Traces of Denmark’s 250-year imperial reign are still visible on St. Thomas, St. Croix, St. John and the smattering of tiny islets that today make up the U.S. Virgin Islands.  \n\nAs President Donald Trump negotiates a \"framework of a future deal\" with Denmark for access to https://t.co/odqZHCodMD",
+      "translation": "丹麦250年帝国统治的痕迹在圣托马斯、圣克罗伊、圣约翰以及今天构成美属维尔京群岛的零星小岛上仍然可见。随着唐纳德·特朗普总统与丹麦谈判“未来交易的框架”以获取 https://t.co/odqZHCodMD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 11,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:50:14 +0000 2026",
+      "text": "'The Blind Side' star Quinton Aaron reportedly on life support after fall https://t.co/gKaYPb8NEH",
+      "translation": "据报道，《弱点》主演昆顿·亚伦在摔倒后靠生命维持系统维持生命 https://t.co/gKaYPb8NEH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:40:16 +0000 2026",
+      "text": "Is it legal for motorcycles to weave in and out of traffic? https://t.co/NORK7D5jKM",
+      "translation": "摩托车在车流中穿梭是否合法？ https://t.co/NORK7D5jKM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 5,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:20:22 +0000 2026",
+      "text": "How to play Super Bowl squares and download your own template https://t.co/27eRk0BWME",
+      "translation": "如何玩超级碗方块游戏并下载自己的模板 https://t.co/27eRk0BWME",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 7,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:10:21 +0000 2026",
+      "text": "Inside Ram’s rebound: Hemi returns, TRX roars and new models multiply https://t.co/24y56LNgbc",
+      "translation": "Ram的反弹内幕：Hemi回归，TRX咆哮，新车型激增 https://t.co/24y56LNgbc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 5,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:01:24 +0000 2026",
+      "text": "Deadly winter storm to be followed by widespread extreme cold: Updates https://t.co/uPqPj5QvKW",
+      "translation": "致命冬季风暴后将迎来大范围极端寒冷：最新消息 https://t.co/uPqPj5QvKW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 10,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:40:25 +0000 2026",
+      "text": "The best drivetrain for snow isn’t the one most drivers think https://t.co/ITFQqPM96y",
+      "translation": "最适合雪地行驶的传动系统并非大多数司机所想的那种 https://t.co/ITFQqPM96y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:20:16 +0000 2026",
+      "text": "Opinion: Alex Jones vs. Candace Owens feud foretells MAGA's demise | Opinion https://t.co/97Nu5KmbWj",
+      "translation": "观点：亚历克斯·琼斯与坎迪斯·欧文斯的争执预示了MAGA的衰落 | 观点 https://t.co/97Nu5KmbWj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:01:25 +0000 2026",
+      "text": "Thousands in Tennessee are without power after winter storm. See map. https://t.co/VbXE1Gtl2p",
+      "translation": "冬季风暴后田纳西州数千人断电。查看地图。 https://t.co/VbXE1Gtl2p",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 5,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:40:17 +0000 2026",
+      "text": "See Flash's new job in 'Zootopia 2' exclusive deleted scene https://t.co/epnvohKcLE",
+      "translation": "观看《疯狂动物城2》独家删除场景中闪电的新工作 https://t.co/epnvohKcLE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:20:16 +0000 2026",
+      "text": "'Melania' documentary movie poster shot by this fashion photographer https://t.co/HVAzknp65Z",
+      "translation": "《梅拉尼娅》纪录片电影海报由这位时尚摄影师拍摄 https://t.co/HVAzknp65Z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:04:10 +0000 2026",
+      "text": "BREAKING: Seven people are dead and one person was seriously injured after a private jet crashed while taking off from an airport in northern Maine. https://t.co/mi34TzItPQ",
+      "translation": "突发新闻：一架私人飞机从缅因州北部机场起飞时坠毁，造成七人死亡，一人重伤。 https://t.co/mi34TzItPQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 11,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:01:11 +0000 2026",
+      "text": "Savannah Guthrie returns to 'Today' after vocal cord surgery hiatus https://t.co/6NsAuuRdq0",
+      "translation": "萨凡纳·格思里在声带手术后休假后重返《今日秀》 https://t.co/6NsAuuRdq0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 7,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 16:40:19 +0000 2026",
+      "text": "Israel retrieves last hostage body from Gaza in boost for Trump plan https://t.co/oVdiRVkjgz",
+      "translation": "以色列从加沙取回最后一名人质遗体，为特朗普计划提供助力 https://t.co/oVdiRVkjgz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 6,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 16:20:11 +0000 2026",
+      "text": "See the winter storm's aftermath from the sky https://t.co/A82N3kfZLw",
+      "translation": "从空中观看冬季风暴的后果 https://t.co/A82N3kfZLw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 7,
+        "like": 8
+      }
+    }
+  ]
+}

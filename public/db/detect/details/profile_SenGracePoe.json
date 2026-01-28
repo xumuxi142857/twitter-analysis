@@ -1,0 +1,236 @@
+{
+  "id": "profile_SenGracePoe.json",
+  "_fingerprint": "1a6d3dc9df06f28fdb91b5bfd3f0c5cc",
+  "name": "SenGracePoe",
+  "username": "SenGracePOE",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、宜人性，中等开放性，低神经质",
+      "detail": "外向性高：频繁公开互动，使用社交媒体与公众沟通，参与听证会和公共讨论。尽责性高：关注系统性问题和解决方案（如机场安全、交通卡短缺），强调责任追究和制度建设。宜人性高：表达对弱势群体的关怀（老年人、乘客），使用团结性语言（“magtulungan tayo”），庆祝他人成就。开放性中等：支持混合工作等非传统工作模式，但未表现出强烈的艺术或抽象思维倾向。神经质低：在危机事件（机场故障、台风）中保持冷静、解决问题的态度，情绪稳定。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的自我中心倾向和形象维护需求",
+      "detail": "可能存在轻微的自我中心倾向：在提及被他人祝福（“Na-Tulfo ako!”）时表现出对个人关注的享受。形象维护需求：通过展示对公共事务的参与和对弱势群体的关怀来塑造负责任的领导者形象，这可能隐含对公众认可的需求。缺乏对复杂矛盾的直接批判：在批评系统问题时（如机场故障），更侧重于程序性调查而非强烈谴责个人或机构，可能回避直接冲突。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "务实、程序导向、集体主义",
+      "detail": "务实倾向：关注具体、可操作的问题（如机场安全解决方案、交通卡短缺、短信诈骗）。程序导向：依赖听证会、调查和立法程序来解决问题（如Sim Card Registration bill听证会）。集体主义思维：强调团结（“magtulungan tayo”）、国家荣誉（庆祝女足胜利）和社会关怀（老年人福利）。风险规避：在危机中（如台风）优先考虑安全警告和预防措施。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖程序性解决方案，可能忽视即时行动",
+      "detail": "在应对危机时（如机场故障），倾向于启动调查和听证会，这可能延迟即时补救措施。对制度流程的信任可能使其低估官僚惰性或执行阻力。公开承诺（如听证会）若未能产生明显成果，可能损害公信力。社交媒体上的活跃互动使其易受公众情绪波动影响，需持续维护形象。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "在技术治理和社会福利间平衡，易受利益集团影响",
+      "detail": "同时关注技术性治理（机场交通控制、SIM卡注册）和社会福利（老年人养老金），可能在不同利益集团（如技术官僚vs.社会倡导者）间面临压力。对政府机构（如DOTR、CAAP）的批评较为温和，可能回避与执政党的直接冲突。支持混合工作等进步政策，但需平衡传统经济部门的关切。未明确表达外交或安全立场，可能缺乏相关领域深度认知。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "专业知识广度足够但深度可能不足，依赖团队执行",
+      "detail": "话题覆盖广泛（交通、电信、社会福利、灾难管理、体育），但可能缺乏任一领域的深度专业知识，依赖专家团队或听证会获取信息。在技术性问题上（如空中交通控制故障）可能难以独立评估根本原因。立法推动能力取决于政治联盟，个人影响力可能受党派动态制约。危机管理依赖机构响应，个人直接行动能力有限。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "高公众期望下的压力，理想主义与现实约束的冲突",
+      "detail": "作为公众人物，持续面临解决复杂社会问题的压力，易产生疲劳或挫败感。理想主义倾向（如提升老年人尊严）可能遭遇预算或行政现实约束。对程序正义的坚持可能在紧急情况下被视为低效。情感上对弱势群体的关怀可能使其在政策决策中过度情感化。需要维持跨党派合作形象，可能抑制激进立场。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固公众形象为务实、关怀的领导者，潜在政治晋升野心",
+      "detail": "通过关注民生问题（交通、老年人福利）和危机响应（机场、台风）塑造可靠、有能力的公共管理者形象。庆祝国家成就（女足胜利）和尊重前任领袖（FVR）以强化爱国和跨代团结形象。支持混合工作等现代政策吸引年轻、城市选民。潜在意图可能包括提升个人政治资本，为更高职位（如行政领导）做准备，或扩大在立法机构的影响力。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "交通基础设施、社会福利、电信安全、灾难管理、国家荣誉",
+      "detail": "交通基础设施：机场运营（NAIA, MIAA, CAAP）、空中交通控制、地铁（MRT）问题。社会福利：老年人养老金、弱势群体支持。电信安全：SIM卡注册、短信诈骗。灾难管理：台风预警和公共安全。国家荣誉：体育成就（菲律宾女子国家足球队）、文化节日（Eid Al-Adha）。工作模式：混合工作和远程办公的未来。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 07 10:20:47 +0000 2022",
+      "text": "Nakakatanggap ba kayo ng text scams? Paano at saan kaya nila nakukuha ang ating personal na impormasyon? Pag-usapan natin ang napakahalagang isyung ito.\n\nSamahan ninyo kami sa Huwebes, 1:30 ng hapon para sa ating pagdinig ukol sa Sim Card Registration bill.\n\n#SimCardRegistration https://t.co/f0v3PH7SsW",
+      "translation": "你们是否收到过短信诈骗？他们是如何以及从哪里获取我们的个人信息？让我们讨论这个非常重要的问题。请于周四下午1:30加入我们，参加关于SIM卡注册法案的听证会。#SimCardRegistration",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 2,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Aug 17 10:15:32 +0000 2022",
+      "text": "Pabor ka ba sa hybrid work set-up?\n\n#WorkfromHome #HybridWork https://t.co/MlY8NHB2qN",
+      "translation": "你支持混合工作模式吗？#WorkfromHome #HybridWork",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 12,
+        "like": 144
+      }
+    },
+    {
+      "created_at": "Tue Aug 16 23:16:30 +0000 2022",
+      "text": "Hybrid is the future of work. We need to think outside the box or the cubicle.\n\nKung magagawa naman ang trabaho sa labas ng opisina, bakit hindi natin hayaan ito?\n\n#WorkFromHome #HybridWork #FutureofWork https://t.co/yHfD4aNTgb",
+      "translation": "混合模式是工作的未来。我们需要跳出框架或隔间思考。如果工作可以在办公室外完成，为什么不允许呢？#WorkFromHome #HybridWork #FutureofWork",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 7,
+        "like": 77
+      }
+    },
+    {
+      "created_at": "Tue Aug 02 06:20:00 +0000 2022",
+      "text": "Good news!\n\nBatas na ang pagtataas ng pensyon ng mga indigent senior citizens! Habang tumatanda ang ating mga lolo at lola, dapat mas tulungan natin silang mabuhay ng komportable at may dignidad.\n\n#SeniorCitizen #Pension #BatasNa https://t.co/GK29ym2Aqa",
+      "translation": "好消息！提高贫困老年公民养老金的法案已成为法律！随着我们的祖父母年龄增长，我们应该更多地帮助他们舒适、有尊严地生活。#SeniorCitizen #Pension #BatasNa",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 2,
+        "like": 73
+      }
+    },
+    {
+      "created_at": "Sun Sep 25 07:16:59 +0000 2022",
+      "text": "Ilang mga paaala upang sabay-sabay nating ligtas na malampasan ang hagupit na dala ng Super Typhoon #KardingPH. Mag-ingat po tayong lahat! https://t.co/dPsBhjO3AG",
+      "translation": "一些提醒，让我们一起安全度过超级台风#KardingPH带来的冲击。请大家小心！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Sun Aug 21 02:08:13 +0000 2022",
+      "text": "Habang tumatanda ang ating mga lolo at lola, mas lalong kailangan nila ng suporta at kalinga. Malaking tulong ang dagdag pensyon sa mga mahihirap na senior citizens natin!\n\nHappy World Senior Citizens Day po sa ating mga lolo at lola!\n\n#SeniorCitizensDay #Lolo #Lola https://t.co/H4BcD3RJQo",
+      "translation": "随着我们的祖父母年龄增长，他们更需要支持和关怀。增加贫困老年公民的养老金对他们有很大帮助！祝我们的祖父母世界老年公民日快乐！#SeniorCitizensDay #Lolo #Lola",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 1,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Sat Jul 09 01:43:23 +0000 2022",
+      "text": "May Allah accept your sacrifice and grant your prayers. Eid Mubarak to all our Muslim brothers and sisters 🙏\n\n#EidAlAdha #EidulAdha https://t.co/Puux9CtoR5",
+      "translation": "愿真主接受你的牺牲并应允你的祈祷。祝我们所有的穆斯林兄弟姐妹开斋节快乐🙏#EidAlAdha #EidulAdha",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Sat Aug 06 04:24:44 +0000 2022",
+      "text": "Mahalagang karakter ng isang lider ng bansa ang pagiging disiplinado at organisado. Yan ang dalawang bagay na hindi matatawaran kay President FVR. \n\nIsang karangalan ang makilala at magabayan ng isang lider na tulad mo. Maraming salamat sa iyong ehemplo at serbisyo sa ating bayan https://t.co/fOWQdICyGC",
+      "translation": "一个国家领导人的重要特质是纪律性和组织性。这是费德尔·V·拉莫斯总统无可争议的两点。认识并受您这样的领导人指导是一种荣幸。感谢您为我们国家树立的榜样和服务。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 39
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 07:57:06 +0000 2022",
+      "text": "Na-Tulfo ako! Thank you for your birthday gift, Sen. Raffy! 💐 https://t.co/06IEk2U3V0",
+      "translation": "我被Tulfo了！谢谢你的生日礼物，拉菲参议员！💐",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 3,
+        "like": 110
+      }
+    },
+    {
+      "created_at": "Mon Jul 18 01:58:32 +0000 2022",
+      "text": "Congratulations sa ating Philippine Women's National Football Team sa paguuwi ng kauna-unahang kampyeonato ng bansa sa AFF Women's Championship 2022! Iba talaga ang galing ng mga Filipina! 🇵🇭👏🏼\n\n#LabanFilipinas #ParaSaBayan #WinTheMoment #AFFWomens2022 #RisingTogether https://t.co/G9Yu0v8GHe",
+      "translation": "祝贺我们的菲律宾女子国家足球队为国家赢得首个AFF女子锦标赛2022冠军！菲律宾女性的才华确实非凡！🇵🇭👏🏼#LabanFilipinas #ParaSaBayan #WinTheMoment #AFFWomens2022 #RisingTogether",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 2,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Mon Jan 09 03:52:31 +0000 2023",
+      "text": "The new year's day airport trouble did not just happen overnight. We hope to finally get answers and concrete solutions to ensure the safety of passengers at our hearing on Thursday.\n\n#NAIA #MIAA #CAAP #Airport #AirportIssues #AirTrafficControl #Philippines https://t.co/JkCRG6rXRC",
+      "translation": "新年当天的机场问题并非一夜之间发生。我们希望最终能在周四的听证会上得到答案和具体解决方案，以确保乘客的安全。#NAIA #MIAA #CAAP #Airport #AirportIssues #AirTrafficControl #Philippines",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 6,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Mon Jan 02 04:23:17 +0000 2023",
+      "text": "What a way to welcome the new year at our country's airports. We will conduct an inquiry to find out who is liable and how we can avoid this from happening again.\n\n#NAIA #AirTrafficControl #Airport #MIAA https://t.co/M5HthZo0Y6",
+      "translation": "这是我们国家机场迎接新年的方式。我们将进行调查，找出责任方以及如何避免此类事件再次发生。#NAIA #AirTrafficControl #Airport #MIAA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 155,
+        "retweet": 38,
+        "like": 276
+      }
+    },
+    {
+      "created_at": "Fri Sep 30 10:04:14 +0000 2022",
+      "text": "Sana ay bago pa natin maramdaman ang kakulangan ng beep cards ay agad na itong ma solusyonan ng DOTR. Magtulungan tayo upang mapadali ang pagbyahe ng taumbayan.\n\n#MRT #DOTR #2023Budget https://t.co/uuf8zKI6VP",
+      "translation": "希望在我们感受到beep卡短缺之前，交通部能立即解决这个问题。让我们共同努力，方便民众出行。#MRT #DOTR #2023Budget",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 2,
+        "like": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "profile_kyodo_official.json",
+  "_fingerprint": "ad7d13c78a00e87ff0836ad30043e101",
+  "name": "kyodo_official",
+  "username": "kyodo_official",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、低外向性、中等宜人性、中等神经质",
+      "detail": "基于言论样本分析，目标表现出高尽责性，体现在对新闻事实的严谨报道和结构化呈现；中等开放性，关注多样话题但偏向传统新闻框架；低外向性，内容以信息传递为主，缺乏个人情感表达；中等宜人性，报道中立但涉及社会问题时保持距离；中等神经质，对负面新闻敏感但情绪稳定。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "情感疏离、过度结构化、风险规避",
+      "detail": "目标在报道中表现出情感疏离，即使涉及悲剧事件也保持客观距离；过度结构化，内容遵循固定新闻格式，可能限制深度分析；风险规避，倾向于报道已核实事件，避免争议性评论或预测。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实导向、系统性思维、保守评估",
+      "detail": "认知以事实和数据为基础，强调事件的可验证性；采用系统性思维，将新闻按类别组织；保守评估，对未确定信息持谨慎态度，偏好官方来源。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "信息过载依赖、格式僵化、反应延迟",
+      "detail": "依赖大量信息输入，可能忽视背景或深层原因；新闻格式僵化，可能导致报道模式化；对突发事件的反应可能延迟，因需核实信息。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "中立性压力、机构依赖、文化偏见",
+      "detail": "为保持中立，可能回避立场鲜明的话题；过度依赖机构信息，如政府或企业数据；潜在文化偏见，如对西方事件的关注度可能高于其他地区。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "分析深度有限、创新不足、技术依赖",
+      "detail": "分析多停留在表面事实，缺乏深度解读；内容创新不足，重复类似报道模式；高度依赖技术平台传播，可能受算法或平台规则影响。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "情感压抑、认知固化、压力敏感",
+      "detail": "压抑个人情感以维持客观，可能影响同理心；认知模式固化，难以适应非传统新闻叙事；对公众或机构压力敏感，可能调整报道重点。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造公信力、扩大影响力、维护机构利益",
+      "detail": "通过客观报道塑造媒体公信力；扩大社会影响力，巩固受众信任；隐含维护所属机构或行业利益的意图，如避免损害媒体形象。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国内社会事件、国际政治经济、科技环境、文化历史",
+      "detail": "主要关注日本国内社会事件（如犯罪、事故）、国际政治经济（如美俄关系、贸易）、科技与环境（如电脑销售、气候变化）、文化历史（如战争传承、奥运会）。话题广泛但以新闻价值为导向。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 80
+    },
+    {
+      "name": "同伴",
+      "value": 15
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 27 01:53:06 +0000 2026",
+      "text": "強盗疑い新たに高校生逮捕 － 静岡・長泉、5人目\nhttps://t.co/1EVsApYiHb",
+      "translation": "抢劫嫌疑新增高中生被捕 - 静冈·长泉，第5人 https://t.co/1EVsApYiHb",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:52:30 +0000 2026",
+      "text": "【あなたのニュース知識に「＋α」を。】\n \n📖📖 #陸自性暴力事件📖📖\n \nいま話題のニュース用語を約２００文字で解説します。\n意味だけでなく、これまでの経緯なども盛り込んでいます。\n \nこちらのページで読むことができます🔽\nhttps://t.co/OhdkojWDbZ",
+      "translation": "【为您的新闻知识增添“+α”】📖📖 #陆自性暴力事件📖📖 现在热门新闻术语用约200字解说。不仅包含含义，还涵盖至今的经过。可在此页面阅读🔽 https://t.co/OhdkojWDbZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:44:47 +0000 2026",
+      "text": "４万匹のシラス描き表現した「命の重み」戦争テーマに絵画制作　「怖い」がブレーキに―被爆、空襲体験の伝承に取り組む【語り継ぐ―戦争を知らなくても】 #47NEWS https://t.co/Ja4s376vpv @47news_officialより",
+      "translation": "以4万只沙丁鱼描绘表现“生命的重量”战争主题绘画制作 “恐惧”成为刹车—致力于传承原子弹爆炸、空袭体验【传承—即使不了解战争】 #47NEWS https://t.co/Ja4s376vpv @47news_official",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:41:39 +0000 2026",
+      "text": "25年のパソコン出荷43％増 － 国内1095万台、買い替えで\nhttps://t.co/axY75P4CPI",
+      "translation": "25年电脑出货量增43% - 国内1095万台，因更换需求 https://t.co/axY75P4CPI",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:17:54 +0000 2026",
+      "text": "プルデンシャルに立ち入り検査へ － 金融庁、31億円不正問題で\nhttps://t.co/RnPuejo0vx",
+      "translation": "将对保诚进行现场检查 - 金融厅，因31亿日元不正当问题 https://t.co/RnPuejo0vx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 11,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:17:06 +0000 2026",
+      "text": "共和候補、ミネソタ州知事選撤退 － 抗議活動中の男性射殺事件に反発\nhttps://t.co/SZQyZDwIAu",
+      "translation": "共和党候选人退出明尼苏达州州长选举 - 抗议活动中男性射杀事件引发反对 https://t.co/SZQyZDwIAu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:09:09 +0000 2026",
+      "text": "東京円、154円台前半\nhttps://t.co/bTpOh32LU2",
+      "translation": "东京日元，154日元区间前半 https://t.co/bTpOh32LU2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:58:50 +0000 2026",
+      "text": "国民審査告示、最高裁2判事対象 － 期日前投票は2月1日から\nhttps://t.co/l0YbEzn9Wq",
+      "translation": "国民审查公告，最高法院2法官对象 - 提前投票从2月1日开始 https://t.co/l0YbEzn9Wq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 10,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:53:38 +0000 2026",
+      "text": "雪下ろし中に転落、死亡 － 札幌、92歳男性\nhttps://t.co/Vq21eLVw5Z",
+      "translation": "除雪作业中坠落死亡 - 札幌，92岁男性 https://t.co/Vq21eLVw5Z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:27:35 +0000 2026",
+      "text": "賃上げ5％以上へ、春闘開始 － 経団連、連合トップが面談\nhttps://t.co/hnBONzcOxS",
+      "translation": "为实现5%以上加薪，春季劳资谈判开始 - 经团联、联合工会高层会面 https://t.co/hnBONzcOxS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:25:42 +0000 2026",
+      "text": "米大統領が政治犯釈放評価 － ベネズエラ側に「感謝」\nhttps://t.co/GxtNcoVeS9",
+      "translation": "美国总统评价政治犯释放 - 对委内瑞拉方表示“感谢” https://t.co/GxtNcoVeS9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:15:16 +0000 2026",
+      "text": "15歳未満のSNS禁止支持 － 仏下院、9月施行目指す\nhttps://t.co/CnCwsqG6Sp",
+      "translation": "支持禁止15岁以下使用SNS - 法国下议院，目标9月施行 https://t.co/CnCwsqG6Sp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 12,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:57:08 +0000 2026",
+      "text": "軽乗用車が河川敷に転落 － 10代女性死亡、定員超過か\nhttps://t.co/8NjgsWEdMp",
+      "translation": "轻型乘用车坠落河滩 - 十几岁女性死亡，可能超载 https://t.co/8NjgsWEdMp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:56:07 +0000 2026",
+      "text": "米、パリ協定から正式離脱へ － 国際的な温暖化対策に打撃\nhttps://t.co/kD4Hk2oBbe",
+      "translation": "美国将正式退出巴黎协定 - 对国际性全球变暖对策造成打击 https://t.co/kD4Hk2oBbe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 15,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:47:39 +0000 2026",
+      "text": "ロシアに無人機攻撃82万回命中 － 昨年、ウクライナ軍\nhttps://t.co/i3ARoiRNJ8",
+      "translation": "对俄罗斯无人机攻击82万次命中 - 去年，乌克兰军队 https://t.co/i3ARoiRNJ8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:42:37 +0000 2026",
+      "text": "伊北東部、コルティナに聖火到着 － 70年ぶり冬季五輪開催地\nhttps://t.co/DTO1uUIAPR",
+      "translation": "意大利东北部，圣火抵达科尔蒂纳 - 时隔70年冬季奥运会举办地 https://t.co/DTO1uUIAPR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:42:13 +0000 2026",
+      "text": "ブラジル大統領3月訪米か － ベネズエラ情勢で首脳電話\nhttps://t.co/YCDPOfJ2LP",
+      "translation": "巴西总统3月访美？ - 因委内瑞拉局势首脑电话 https://t.co/YCDPOfJ2LP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:49:21 +0000 2026",
+      "text": "NY円、154円台前半\nhttps://t.co/w5USNj7Moj",
+      "translation": "纽约日元，154日元区间前半 https://t.co/w5USNj7Moj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:49:21 +0000 2026",
+      "text": "対韓関税25％に引き上げへ － トランプ氏、車や「相互」\nhttps://t.co/T0v4q1sbz4",
+      "translation": "将对韩国关税提高至25% - 特朗普，汽车及“相互” https://t.co/T0v4q1sbz4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 14,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:26:40 +0000 2026",
+      "text": "北海洋上風力ネット化 － ロ依存脱却へ欧州10カ国\nhttps://t.co/zLgm4VNYBM",
+      "translation": "北海海上风力发电网络化 - 为摆脱对俄依赖欧洲10国 https://t.co/zLgm4VNYBM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 9
+      }
+    }
+  ]
+}

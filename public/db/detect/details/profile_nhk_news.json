@@ -1,0 +1,353 @@
+{
+  "id": "profile_nhk_news.json",
+  "_fingerprint": "b1f1c5f3b130dc248aa1c1c982ae9bef",
+  "name": "nhk_news",
+  "username": "nhk_news",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等外向性、中等开放性、低神经质、中等宜人性",
+      "detail": "基于言论样本分析，目标对象表现出高度尽责性（严谨报道选举、天气、事故等各类新闻，提供详细链接和资源），中等外向性（积极传播信息，使用社交媒体标签互动），中等开放性（报道国际事务、技术发展、文化事件等多元话题），低神经质（情绪稳定，报道风格冷静客观），中等宜人性（关注公共安全提醒，但保持中立报道立场）。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "无明显人格缺陷，但存在机构性局限",
+      "detail": "作为公共媒体机构，目标对象受制于组织规范、编辑方针和日本广播法约束，可能缺乏独立批判视角；在敏感话题（如政治立场、国际关系）上倾向官方或主流叙述，表现出谨慎保守倾向；依赖权威信源（如政府、联合国），可能忽略边缘化观点。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实导向、结构化、风险意识、权威依赖",
+      "detail": "认知倾向于：1）事实和数据驱动（报道选举支持率、事故伤亡、天气数据）；2）结构化框架（按政治、社会、国际等类别组织新闻）；3）风险预警（提醒大雪事故注意、报道国际法危机）；4）依赖权威信源（引用联合国、政府、法院等官方信息）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "议程设置依赖、反应式报道、格式约束",
+      "detail": "脆弱点包括：1）议程受外部事件驱动（选举公示、事故突发），缺乏长期深度策划；2）报道格式标准化（推文+链接），可能简化复杂议题；3）实时更新压力可能导致事实核查不充分；4）社交媒体算法可能放大某些话题而忽略其他。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "体制内平衡压力、国际报道选择性、国内政治中立约束",
+      "detail": "脆弱点包括：1）需平衡政府关系（报道高市首相会晤）与公共监督角色；2）国际报道侧重日本相关或西方视角（乌克兰、联合国），对非西方议题覆盖有限；3）国内政治报道受“政治公平”原则约束，可能回避尖锐批评；4）历史问题报道可能受民族主义情绪影响。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "资源分配不均、技术依赖、专家网络局限",
+      "detail": "脆弱点包括：1）资源集中于大都市和主流议题，地方或小众话题覆盖不足；2）依赖数字平台传播，易受技术故障或网络攻击影响；3）专家网络可能偏向学术或政府背景，缺乏草根或异议视角；4）多语言报道能力有限，主要服务日语受众。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "集体决策惯性、危机应对模式化、创新阻力",
+      "detail": "脆弱点包括：1）机构心智强调共识和程序，可能抑制创新或批判性报道；2）危机报道（大雪、火灾）遵循固定模板，可能忽略深层原因；3）对新技术（如数字地址）报道侧重推广而非批判分析；4）面临信任危机时（如政治偏见指控）防御性强，反思不足。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护公共媒体权威、塑造国家形象、促进社会整合",
+      "detail": "隐藏意图可能包括：1）通过全面、中立报道强化NHK作为可信赖公共机构的形象；2）在国际报道中塑造日本负责任、法治国家的形象；3）通过选举、文化等报道促进社会共识和公民参与；4）间接支持政治稳定和经济发展议程。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "政治选举、国内社会、国际事务、经济劳动、文化事件",
+      "detail": "主要领域话题：1）政治选举（众议院选举、内阁支持率、国民审查）；2）国内社会（事故、天气、犯罪、地方政治）；3）国际事务（联合国、乌克兰、中日熊猫交流）；4）经济劳动（春斗、数字地址）；5）文化事件（歌舞伎、熊猫）。话题分布反映日本中心视角和公共事务优先。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      8
+    ],
+    [
+      1,
+      0,
+      4
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      6
+    ],
+    [
+      2,
+      0,
+      3
+    ],
+    [
+      2,
+      1,
+      3
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      2,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 22:01:14 +0000 2026",
+      "text": "おはようございます。副島萌生です。\nきょうは #衆院選 の公示日。\n\nNHKでは来月8日の投開票日に向けて\n各番組で選挙関連のニュースを伝えていますが、\n特設サイト「衆議院選挙2026」でも確認することができます。\n \n1票をどう投じるか考えるのに、ぜひご活用ください！\nhttps://t.co/8nwfIUi4Xr https://t.co/JIWZCwfqWq",
+      "translation": "早上好。我是副岛萌生。今天是众议院选举的公告日。NHK为下月8日的投票日，在各节目中报道选举相关新闻，也可在特设网站“众议院选举2026”上查看。请务必利用它来思考如何投下您的一票！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 49,
+        "like": 140
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:49:04 +0000 2026",
+      "text": "国連事務総長 世界各地の国際法違反横行に強い危機感\nhttps://t.co/wJwZDgQhmE #nhk_news",
+      "translation": "联合国秘书长对世界各地国际法违规行为泛滥表示强烈危机感",
+      "stance": "无关",
+      "metrics": {
+        "reply": 40,
+        "retweet": 292,
+        "like": 577
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:43:04 +0000 2026",
+      "text": "7ケタ英数字「デジタルアドレス」普及へ 新団体が発足\nhttps://t.co/vNdJy3N0nd #nhk_news",
+      "translation": "7位英数字“数字地址”推广，新团体成立",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 44,
+        "like": 80
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:39:04 +0000 2026",
+      "text": "ことしの春闘 きょう事実上スタート 勢い継続できるか焦点\nhttps://t.co/MmhSXCbFWm #nhk_news",
+      "translation": "今年春季劳资谈判今天实质上启动，能否持续势头成为焦点",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 24,
+        "like": 38
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:28:03 +0000 2026",
+      "text": "上野動物園の双子のパンダ きょう中国へ\nhttps://t.co/OMqMZg3z9e #nhk_news",
+      "translation": "上野动物园的双胞胎熊猫今天前往中国",
+      "stance": "中立",
+      "metrics": {
+        "reply": 39,
+        "retweet": 268,
+        "like": 814
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:42:04 +0000 2026",
+      "text": "日本海側中心に平年大幅に上回る積雪 除雪中の事故に注意\nhttps://t.co/c6bjNJYEC6 #nhk_news",
+      "translation": "日本海沿岸积雪大幅超过往年，注意除雪中的事故",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 66,
+        "like": 131
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:30:05 +0000 2026",
+      "text": "ゼレンスキー大統領「軍事面の重要な諸問題 幅広く議論した」\nhttps://t.co/tsNkesAGEG #nhk_news",
+      "translation": "泽连斯基总统：“广泛讨论了军事方面的重要问题”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 15,
+        "like": 40
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:26:03 +0000 2026",
+      "text": "最高裁裁判官の「国民審査」告示 2人の裁判官が対象\nhttps://t.co/gYpz8RuUPx #nhk_news",
+      "translation": "最高法院法官“国民审查”公告，两名法官成为对象",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 55,
+        "like": 77
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:24:04 +0000 2026",
+      "text": "衆議院選挙 きょう公示 12日間の選挙戦へ\nhttps://t.co/XmP0oRvR9a #nhk_news",
+      "translation": "众议院选举今天公告，进入12天的选举战",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 38,
+        "like": 56
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:43:04 +0000 2026",
+      "text": "松山で住宅火災 焼け跡から2人の遺体\nhttps://t.co/1kpiAMIP5J #nhk_news",
+      "translation": "松山发生住宅火灾，从烧毁现场发现两具遗体",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 7,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 15:35:05 +0000 2026",
+      "text": "高市首相 英スターマー首相と31日に首脳会談へ\nhttps://t.co/vLhbLtwZGA #nhk_news",
+      "translation": "高市首相将于31日与英国斯塔默首相举行首脑会谈",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 122,
+        "like": 527
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:00:05 +0000 2026",
+      "text": "愛知 妊娠中女性の死亡事故 検察は過失運転傷害罪の適用見送る\nhttps://t.co/rxsXaR3brA #nhk_news",
+      "translation": "爱知县孕妇死亡事故，检方暂不适用过失驾驶伤害罪",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 26,
+        "like": 50
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 13:52:03 +0000 2026",
+      "text": "北海道 大雪 JRの960本余の列車が運休 約14万人に影響\nhttps://t.co/L6jBrmNKLa #nhk_news",
+      "translation": "北海道大雪，JR约960多班列车停运，影响约14万人",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 164,
+        "like": 349
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 13:35:04 +0000 2026",
+      "text": "四国こんぴら歌舞伎大芝居 出演俳優が会見 「鷺娘」も上演へ\nhttps://t.co/AX2UfGdI18 #nhk_news",
+      "translation": "四国金毗罗歌舞伎大戏，出演演员举行记者会，“鹭娘”也将上演",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 62,
+        "like": 136
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 13:29:04 +0000 2026",
+      "text": "横浜 店舗に乗用車が突っ込む 3人がけが\nhttps://t.co/p7k8tQI5b6 #nhk_news",
+      "translation": "横滨店铺遭轿车冲入，3人受伤",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 77,
+        "like": 139
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 13:22:03 +0000 2026",
+      "text": "違法スカウトグループ「ナチュラル」トップの容疑者を逮捕\nhttps://t.co/FaGe1VvZNA #nhk_news",
+      "translation": "逮捕非法招募团体“Natural”的头号嫌疑人",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 266,
+        "like": 524
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 12:48:04 +0000 2026",
+      "text": "福井県知事当選の石田氏 “単一民族国家”発言「訂正したい」\nhttps://t.co/5HZM260Tx7 #nhk_news",
+      "translation": "当选福井县知事的石田氏对“单一民族国家”发言表示“想更正”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 133,
+        "retweet": 172,
+        "like": 415
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 12:42:04 +0000 2026",
+      "text": "菅元首相 “当たり前のことを実現する政治を目指してほしい”\nhttps://t.co/zZSmhNyXYN #nhk_news",
+      "translation": "前首相菅义伟：“希望以实现理所当然之事的政治为目标”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 70,
+        "retweet": 176,
+        "like": 1186
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 12:25:08 +0000 2026",
+      "text": "RT @nhk_election: #NHK選挙報道 2026年1月\n【各党の支持率】\n自民党は35.9%\n日本維新の会は3.3%\n野党各党は\n中道改革連合 7.9%\n国民民主党 4.4%などとなっています\n↓詳しい結果は #NHK選挙WEB\nhttps://t.co/jFRZ…",
+      "translation": "RT @nhk_election: #NHK选举报道 2026年1月 【各党支持率】 自民党35.9% 日本维新会3.3% 在野各党 中道改革联盟7.9% 国民民主党4.4%等 ↓详细结果见 #NHK选举WEB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 166,
+        "retweet": 555,
+        "like": 1265
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 12:24:29 +0000 2026",
+      "text": "RT @nhk_election: 2026年1月 #NHK選挙報道\n\n衆議院選挙前の世論調査で\n高市内閣の支持率59%\n不支持率26%\n最新の政党支持率なども掲載\n\n↓詳しくは #NHK選挙WEB\nhttps://t.co/jFRZBy3tGY",
+      "translation": "RT @nhk_election: 2026年1月 #NHK选举报道 众议院选举前舆论调查显示 高市内阁支持率59% 不支持率26% 也刊登最新政党支持率等 ↓详情见 #NHK选举WEB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32,
+        "retweet": 66,
+        "like": 114
+      }
+    }
+  ]
+}

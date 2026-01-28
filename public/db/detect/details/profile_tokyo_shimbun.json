@@ -1,0 +1,313 @@
+{
+  "id": "profile_tokyo_shimbun.json",
+  "_fingerprint": "0999bdf1ee055aa8e9babca4dd852f4f",
+  "name": "tokyo_shimbun",
+  "username": "tokyo_shimbun",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "尽责性高、开放性中等、宜人性中等、外倾性中等、神经质中等",
+      "detail": "尽责性高：对政治选举、社会议题报道严谨系统，注重流程细节（如选举准备、投票说明）。开放性中等：关注气候变化、社会多样性等议题，但内容以本地/国内为主。宜人性中等：体现对弱势群体（如发育障碍者）的关注，但政治报道保持客观距离。外倾性中等：通过社交媒体互动（如征集评论），但以信息传播为主而非深度社交。神经质中等：对负面社会问题（如物价上涨、生态威胁）有报道，但未表现出过度焦虑或情绪化。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在缺陷包括过度制度化思维、地域局限性、温和回避冲突倾向",
+      "detail": "过度制度化思维：高度聚焦选举程序、政治机制（如众议院与参议院区别），可能忽视非制度性社会动态。地域局限性：内容以东京及周边地区（如群马、栃木、茨城）为中心，全国/国际视野相对有限。温和回避冲突倾向：在争议话题（如政治辩论）中强调“国民生活重建”“审慎判断”等中性框架，避免极端立场。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "系统化、程序导向、社会服务导向、风险意识",
+      "detail": "系统化：偏好结构化信息（如选举步骤解释、事件时间线）。程序导向：重视流程合规性（如选举委员会演练、防火训练）。社会服务导向：关注公共福祉议题（物价、医疗、生态）。风险意识：对气候变化、选举不确定性等潜在风险保持警觉。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "对制度化流程的依赖、地域中心主义、互动模式单一",
+      "detail": "对制度化流程的依赖：可能低估非正式社会运动或突发公共事件的影响。地域中心主义：过度关注本地新闻可能限制对全局趋势的把握。互动模式单一：主要通过征集评论与读者互动，缺乏多元参与机制。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "政治中立性压力、社会议题温和化、国际视角不足",
+      "detail": "政治中立性压力：在选举报道中需平衡各方，可能导致关键议题深度分析不足。社会议题温和化：将敏感话题（如发育障碍）转化为支持性叙事，可能回避结构性批判。国际视角不足：样本中未涉及国际关系或跨国议题，视野可能受限。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "跨领域整合能力有限、技术性议题深度不足、创新表达方式欠缺",
+      "detail": "跨领域整合能力有限：生态（如ナラ枯れ/Nara blight）、政治、文化等议题报道相对割裂。技术性议题深度不足：对气候变化等复杂问题依赖外部信源（如Weather News），缺乏独立分析。创新表达方式欠缺：内容以传统新闻格式为主，新媒体互动形式较常规。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "渐进主义思维、风险规避倾向、身份认同模糊",
+      "detail": "渐进主义思维：强调逐步改进（如“支援发育障碍特性”），可能缺乏变革性愿景。风险规避倾向：在政治报道中聚焦程序安全，避免激进预测或倡议。身份认同模糊：作为地方媒体（东京新闻/Tokyo Shimbun），在地方服务与全国议题间存在张力。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "强化地方媒体权威性、促进公民政治参与、维护社会稳定叙事",
+      "detail": "强化地方媒体权威性：通过详尽选举报道确立在区域政治信息中的主导地位。促进公民政治参与：通过投票指南、评论征集鼓励公众介入政治进程。维护社会稳定叙事：在报道社会问题时（如物价、生态）强调制度性应对，避免引发动荡。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国内政治选举、地方社会文化、环境与公共福祉",
+      "detail": "国内政治选举：众议院选举（衆院選/House of Representatives election）为核心焦点，涵盖程序、政策、政党动态。地方社会文化：东京及周边地区事件（如梅花节、艺术展览）、人物故事。环境与公共福祉：气候变化影响（如ナラ枯れ/Nara blight）、医疗社会议题（如发育障害/developmental disorders）。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 27 01:11:06 +0000 2026",
+      "text": "RT @f_norida: ナラ枯れが北海道に拡大　温暖化で原因虫が越冬可能に!?　生態系への影響懸念 - ウェザーニュース https://t.co/BCegOjPQwZ\n\n\"「このまま温暖化が進めば、積雪量がどのように変化するのかにもよりますが道内でカシナガの越冬可能な場所…",
+      "translation": "转发 @f_norida：橡树枯萎病蔓延至北海道！全球变暖使害虫得以越冬？担忧对生态系统的影响 - Weather News https://t.co/BCegOjPQwZ \"如果全球变暖持续下去，积雪量如何变化将影响北海道内害虫越冬的可能性...\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:11:01 +0000 2026",
+      "text": "RT @tokyochunta: 【東京すくすく】俳優 坂口涼太郎さん　ちゃぶ台の上で踊る3歳ごろの私の写真　ずっと財布に入れてくれていた両親 https://t.co/bOcCTkDKWQ",
+      "translation": "转发 @tokyochunta：【东京成长记】演员坂口凉太郎 在矮桌上跳舞的3岁照片 父母一直放在钱包里 https://t.co/bOcCTkDKWQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:11:00 +0000 2026",
+      "text": "RT @tokyoseijibu: #衆院選 が始まりました。\n\n#物価高 に苦しむ国民のくらしを、どう立て直すのかに注目した報道を、#東京新聞 は続けていきます。\n\n衆院選が公示　高市早苗政権では初の国政選挙、国民の審判は？　2月8日投開票まで戦後最短の短期決戦：東京新聞デジ…",
+      "translation": "转发 @tokyoseijibu：#众议院选举 开始了。#东京新闻 将持续关注报道如何重建受 #物价高涨 困扰的国民生活。众议院选举公告发布 高市早苗政权首次国政选举，国民将如何审判？2月8日投票，战后最短的速决战：东京新闻数字版...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 11,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:10:51 +0000 2026",
+      "text": "RT @ogawashinichi: 衆院選が公示されました。2月8日に投開票があります。東京新聞ではコメントを募っています。会員限定ですが、政治への思いを書いてください。\n\n〈コメント募集〉与野党トップ7人の党首討論を終えて…どう見ました？【記者と選挙の話をしませんか？】：東…",
+      "translation": "转发 @ogawashinichi：众议院选举已公告。2月8日进行投票。东京新闻正在征集评论。仅限会员，请写下对政治的想法。〈评论征集〉看完七大政党党首辩论后...您怎么看？【想和记者聊聊选举吗？】：东京...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:10:48 +0000 2026",
+      "text": "RT @tokyoseijibu: #衆院選 目前の # 日本記者クラブ討論会 。\n\n高市首相は「自民と維新で過半数取れなければ #即刻退陣 」\n\n高市首相の進退かけた衆院選、きょう公示　党首討論で「自民と維新で過半数取れなければ即刻退陣」ときっぱり：東京新聞デジタル http…",
+      "translation": "转发 @tokyoseijibu：#众议院选举 前夕的 #日本记者俱乐部辩论会。高市首相表示“如果自民党和维新会未能获得过半数席位，#即刻辞职”。高市首相进退攸关的众议院选举今日公告，党首辩论中明确表示“若自民党和维新会未获过半数则即刻辞职”：东京新闻数字版 http...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 16,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:10:11 +0000 2026",
+      "text": "衆議院と参議院はどう違う？　衆院選のほとんどは「解散」から始まって　〈イチから分かる衆院選〉\nhttps://t.co/AGGSMJLjba",
+      "translation": "众议院和参议院有何不同？众议院选举大多从“解散”开始〈从零了解众议院选举〉 https://t.co/AGGSMJLjba",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:10:01 +0000 2026",
+      "text": "【せたがや梅まつり】春の訪れを告げる梅の花を愛で、北欧カフェと老舗洋菓子店を巡る\nhttps://t.co/L4KtNo1xCH",
+      "translation": "【世田谷梅祭】欣赏宣告春天来临的梅花，探访北欧咖啡馆和老牌西点店 https://t.co/L4KtNo1xCH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:00:02 +0000 2026",
+      "text": "発達障害の診断増　特性生かす支援を　認知度高まり受診広がる　信大こどものこころの発達医学教室・本田秀夫教授に聞く\nhttps://t.co/vZlTYa4wzc",
+      "translation": "发育障碍诊断增加 需提供发挥特性的支持 认知度提高就诊范围扩大 采访信州大学儿童心理发展医学教室·本田秀夫教授 https://t.co/vZlTYa4wzc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:53 +0000 2026",
+      "text": "衆院選が公示　高市早苗政権では初の国政選挙、国民の審判は？　2月8日投開票まで戦後最短の短期決戦\nhttps://t.co/nn5xtEDMaY",
+      "translation": "众议院选举公告 高市早苗政权首次国政选举，国民将如何审判？2月8日投票，战后最短的速决战 https://t.co/nn5xtEDMaY",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:42 +0000 2026",
+      "text": "投票用紙は3枚　「比例代表」には何を書けばいいの？　〈イチから分かる衆院選〉\nhttps://t.co/SlyC6A8b5B",
+      "translation": "选票共3张 “比例代表”该写什么？〈从零了解众议院选举〉 https://t.co/SlyC6A8b5B",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:32 +0000 2026",
+      "text": "心の豊かさ育む絵本　高崎シティギャラリーで来月3日まで原画展　多彩な250点展示\nhttps://t.co/kcx6AzSpy8",
+      "translation": "培育心灵丰富的绘本 高崎城市画廊原画展持续至下月3日 展示多样化的250件作品 https://t.co/kcx6AzSpy8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:22 +0000 2026",
+      "text": "＜衆院選群馬＞きょう公示　各党こう戦う\nhttps://t.co/liyvHyIhCU",
+      "translation": "＜众议院选举群马＞今日公告 各党这样应战 https://t.co/liyvHyIhCU",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:11 +0000 2026",
+      "text": "＜衆院選群馬＞万全な体制目指して選管が入念リハーサル\nhttps://t.co/LTQ3a4iGTx",
+      "translation": "＜众议院选举群马＞为完善体制 选举委员会进行周密排练 https://t.co/LTQ3a4iGTx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:40:01 +0000 2026",
+      "text": "桐生の梅田湖畔でロウバイ見頃\nhttps://t.co/bS0X7vUMnQ",
+      "translation": "桐生梅田湖畔蜡梅正值观赏期 https://t.co/bS0X7vUMnQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:30:12 +0000 2026",
+      "text": "＜衆院選栃木＞きょう公示　各党こう戦う\nhttps://t.co/pSsM2kMH7V",
+      "translation": "＜众议院选举栃木＞今日公告 各党这样应战 https://t.co/pSsM2kMH7V",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:30:01 +0000 2026",
+      "text": "田中正造の資料収蔵　佐野市郷土博物館で防火訓練\nhttps://t.co/3FSHTUBxww",
+      "translation": "收藏田中正造资料 佐野市乡土博物馆进行防火训练 https://t.co/3FSHTUBxww",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:53 +0000 2026",
+      "text": "＜衆院選茨城＞戦後最短決戦 きょう公示　選管、準備「綱渡りの状況」　2週連続の自治体も　人員確保など課題山積\nhttps://t.co/RcQmh93BkT",
+      "translation": "＜众议院选举茨城＞战后最短决战 今日公告 选举委员会准备“如履薄冰” 连续两周的自治体 人员确保等课题堆积如山 https://t.co/RcQmh93BkT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:43 +0000 2026",
+      "text": "＜衆院選茨城＞届け出の受け付けリハーサル\nhttps://t.co/7hXTcObPyW",
+      "translation": "＜众议院选举茨城＞受理申报的排练 https://t.co/7hXTcObPyW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:32 +0000 2026",
+      "text": "高市首相の一日　1月26日（月）\nhttps://t.co/kOFXyTViym",
+      "translation": "高市首相的一天 1月26日（周一） https://t.co/kOFXyTViym",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:22 +0000 2026",
+      "text": "＜社説＞衆院選きょう公示　「白紙委任」には抗って\nhttps://t.co/3eELf1LxhT",
+      "translation": "＜社论＞众议院选举今日公告 应抵制“空白委任” https://t.co/3eELf1LxhT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 13,
+        "like": 27
+      }
+    }
+  ]
+}

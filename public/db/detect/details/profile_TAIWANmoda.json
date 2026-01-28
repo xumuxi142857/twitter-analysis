@@ -1,0 +1,313 @@
+{
+  "id": "profile_TAIWANmoda.json",
+  "_fingerprint": "360e2bf516804356f5cc0858a88425bf",
+  "name": "TAIWANmoda",
+  "username": "TAIWANmoda",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁参与公共活动、国际合作与社交媒体互动，展现高度社交活跃度。尽责性高：强调标准、治理、安全与可持续发展，体现系统性规划能力。开放性高：积极拥抱AI、数字身份、绿色科技等前沿技术，追求创新。宜人性中等：注重合作但强调台湾主体性，在主权议题上立场明确。神经质低：言论基调积极乐观，聚焦解决方案而非问题，情绪稳定性强。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的自负、过度理想化、对外部认可依赖",
+      "detail": "自负倾向：频繁使用“里程碑”、“革命性”、“引领”等词汇，可能高估自身影响力。过度理想化：对数字治理、AI应用、全球合作描绘高度乐观前景，可能低估实际挑战。外部认可依赖：强调“全球标准”、“国际专家”、“民主国家合作”，显示对国际承认的重视，可能成为心理脆弱点。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "技术乐观主义、全球整合导向、实用主义",
+      "detail": "技术乐观主义：坚信技术（如AI、5G、数字身份）能解决社会、经济、环境问题。全球整合导向：寻求通过数字标准、国际合作将台湾嵌入全球体系，视此为提升地位的关键。实用主义：关注具体应用（如反诈骗、医疗服务、餐厅管理），强调解决方案而非意识形态。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖数字解决方案、活动密集可能稀释重点、国际合作中的不对称依赖",
+      "detail": "数字依赖风险：假设数字服务（如MyData）能完全替代线下政务，忽视数字鸿沟或故障风险。活动过载：同时推进AI、网络安全、绿色数字、公民科技等多领域，可能导致资源分散，深度不足。合作不对称：与AMD、Google、微软等巨头合作时，可能处于技术接受方，自主创新能力受制约。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "将数字治理与主权诉求绑定、对“民主国家”圈子的依赖、潜在的两岸数字竞争视角",
+      "detail": "主权绑定：将数字成就（如加入OpenPeppol、举办国际论坛）表述为“台湾”的里程碑，隐含主权主张，易引发政治敏感。圈子依赖：强调与美、法、爱沙尼亚等“民主国家”合作，形成排他性叙事，限制与更广泛经济体的互动。竞争视角：提及“保持荣耀在台湾”、“团队台湾”，隐含与大陆的零和竞争心态，可能阻碍区域协作。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "技术实施与治理能力的不匹配、中小企业数字转型的可持续性挑战、危机通信的实战检验不足",
+      "detail": "治理滞后：快速推进AI、数字身份等技术，但治理框架（如AI治理、数据主权）仍处研讨阶段，可能产生监管漏洞。中小企业支持：虽推广AI for SMEs，但中小企业资源有限，长期依赖可能难持续。危机通信：虽演示卫星与5G应急通信，但未经历大规模真实灾难检验，可靠性存疑。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "身份焦虑驱动的过度表现、对国际孤立的恐惧、技术赋权背后的政治安全化",
+      "detail": "身份焦虑：通过数字成就（如“台湾数字部”）频繁寻求国际可见度，反映对身份不被承认的深层不安。孤立恐惧：强调“全球伙伴”、“跨国合作”，透露出对被边缘化的担忧，可能使其在国际压力下妥协。安全化倾向：将数字基础设施（如通信网络、网络安全）与“主权”、“韧性”紧密联系，可能过度政治化技术议题，增加误判风险。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "通过数字外交提升台湾国际实质存在、构建以台湾为中心的区域技术生态、将数字成功转化为政治资本",
+      "detail": "数字外交：利用数字合作（如与爱沙尼亚、韩国论坛）建立双边或多边关系，规避传统政治障碍，实质拓展国际空间。技术生态主导：通过APICTA竞赛、开发者社区、AI联盟等，塑造台湾作为区域创新枢纽的形象，吸引人才与投资。政治资本积累：将数字治理成果（如反诈骗平台、绿色数字蓝图）宣传为政府效能证明，强化内部合法性并争取民意支持。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "人工智能与数字经济、数字治理与网络安全、绿色科技与可持续发展、国际数字合作、公民科技与数字包容",
+      "detail": "人工智能与数字经济：聚焦AI在餐饮、零售、医疗等产业应用，及高性能计算、AI生态系统建设。数字治理与网络安全：涵盖数字身份、反诈骗、数据主权、应急通信，强调安全与信任。绿色科技与可持续发展：推动绿色数字服务蓝图、气候解决方案，结合ESG目标。国际数字合作：与OpenPeppol、各国专家、跨国企业合作，强调标准对齐与民主国家协作。公民科技与数字包容：通过黑客松、数字素养活动、在线政务，促进公众参与与数字公平。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 06:58:08 +0000 2025",
+      "text": "#DevDaysAsia2025 is all about empowering our developer community. 🧑‍💻By partnering with @Microsoft, we provide a vital space for local talent to connect, learn from global experts, and lead the charge in #AI innovation. 💡🤖 #moda #adi #DeveloperCommunity #DigitalTaiwan https://t.co/HWQOtTP98E",
+      "translation": "#DevDaysAsia2025 旨在赋能我们的开发者社区。🧑‍💻通过与 @Microsoft 合作，我们为本地人才提供了一个重要空间，让他们能够连接、向全球专家学习，并在 #AI 创新中引领潮流。💡🤖 #moda #adi #DeveloperCommunity #DigitalTaiwan https://t.co/HWQOtTP98E",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 09:23:37 +0000 2025",
+      "text": "Thrilled to host the #SovereignAI and Sustainable Development International Expert Symposium today !\n\nExperts from Korea 🇰🇷 &amp; Taiwan 🇹🇼 tackled key issues like #AIgovernance, #DataSovereignty, and global cooperation. 🤝\n\nBig thanks to all speakers for advancing #TrustworthyAI!🌐 https://t.co/MckrWgy40B",
+      "translation": "今天很高兴主办 #SovereignAI 与可持续发展国际专家研讨会！来自韩国 🇰🇷 和台湾 🇹🇼 的专家们探讨了 #AI治理、#数据主权 和全球合作等关键议题。🤝 衷心感谢所有演讲者为推进 #可信赖AI 所做的贡献！🌐 https://t.co/MckrWgy40B",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 08:21:30 +0000 2025",
+      "text": "VP @bikhim 🇹🇼 encouraged 20 teams at the 2025 #PresidentialHackathon workshop today!\nSelected from 178 proposals, teams are using data, tech, &amp; AI to tackle Dual Transformation for #GreenGrowth🌿, finding innovative solutions for Taiwan's climate &amp; sustainability challenges. https://t.co/KNG8Z0wZwJ",
+      "translation": "副总统 @bikhim 🇹🇼 今天在 2025 年 #总统黑客松 工作坊上鼓励了 20 支团队！这些团队从 178 份提案中脱颖而出，正利用数据、技术和 AI 应对 #绿色增长 🌿 的双重转型，为台湾的气候与可持续发展挑战寻找创新解决方案。 https://t.co/KNG8Z0wZwJ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 10:10:15 +0000 2025",
+      "text": "🎉We had a blast at the Tianzhong Marathon!\n\nFrom Game Rating booth to the Cyber Security Challenge and an anti-fraud quiz, we made digital literacy fun!\n\n🏃‍♀️Run safe, play safe, stay safe online! 🛡️\n\nNext stop: Kaohsiung for the 2025 finale #DigitalFunfair ! https://t.co/vfy07r77Kx",
+      "translation": "🎉我们在田中马拉松玩得太开心了！从游戏评级摊位到网络安全挑战和反诈骗问答，我们让数字素养变得有趣！🏃‍♀️安全奔跑，安全玩耍，安全上网！🛡️ 下一站：高雄，参加 2025 年最终场 #数字嘉年华！ https://t.co/vfy07r77Kx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 09:05:23 +0000 2025",
+      "text": "RT @RadioTaiwan_Eng: #Taiwan’s Digital Ministry @TAIWANmoda announced on Wednesday that its online scam reporting platform has successfully…",
+      "translation": "RT @RadioTaiwan_Eng: #台湾 的数字发展部 @TAIWANmoda 周三宣布，其在线诈骗举报平台已成功...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Oct 28 08:36:36 +0000 2025",
+      "text": "Building digital trust together!🤝The #moda hosted the 2025 Digital Identity Wallet Forum 💳, welcoming experts from the US 🇺🇸, France 🇫🇷, &amp; New Zealand 🇳🇿 to discuss secure, interoperable digital futures &amp; personal data autonomy. ✨ #Taiwan #DigitalIdentity #DigitalWallet #TWDIW https://t.co/kr0iR0Di4E",
+      "translation": "共同构建数字信任！🤝 #moda 主办了 2025 年数字身份钱包论坛 💳，欢迎来自美国 🇺🇸、法国 🇫🇷 和新西兰 🇳🇿 的专家，讨论安全、可互操作的数字未来及个人数据自主权。✨ #Taiwan #DigitalIdentity #DigitalWallet #TWDIW https://t.co/kr0iR0Di4E",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Tue Oct 14 06:16:52 +0000 2025",
+      "text": "#Taiwan is charting a course for a sustainable digital future! 🌱🇹🇼\n\nThe #moda gathered experts👥to shape the Green Digital Service Blueprint📝, driving #DigitalTransformation &amp; aligning with global sustainability goals. 🌍\n\n#GreenDigital #GreenTech #ESG #DigitalSustainability https://t.co/OUmN8vmewK",
+      "translation": "#台湾 正在规划可持续的数字未来之路！🌱🇹🇼 #moda 召集专家 👥 制定绿色数字服务蓝图 📝，推动 #数字化转型 并与全球可持续发展目标保持一致。🌍 #GreenDigital #GreenTech #ESG #DigitalSustainability https://t.co/OUmN8vmewK",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Thu Oct 16 09:46:58 +0000 2025",
+      "text": "From #Taipei to the world! 🌏 #Taiwan's Digital Ministry is uniting restaurants and tech innovators to build the future of dining with #AI !🤖🇹🇼 \nThe future of food is #digital. \n\n#moda #SmartDining",
+      "translation": "从 #台北 走向世界！🌏 #台湾 的数字发展部正联合餐厅和科技创新者，用 #AI 构建未来的餐饮体验！🤖🇹🇼 食物的未来是 #数字化的。#moda #SmartDining",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Thu Oct 16 08:34:54 +0000 2025",
+      "text": "What a fantastic day at🎪#DigitalFunfair in Tainan!🌳Everyone learned crucial tips for spotting phishing emails &amp; fake links in messages. Huge thanks to everyone who joined our anti-scam challenge to become a #CyberSafety warrior! 🛡️\nWhere to next ?🤔Stay tuned!\n#DigitalLiteracy https://t.co/nn29f1YBqk",
+      "translation": "在台南的 🎪#数字嘉年华 度过了多么美好的一天！🌳 每个人都学到了识别钓鱼邮件和虚假链接的关键技巧。衷心感谢所有参加我们反诈骗挑战、成为 #网络安全 战士的人！🛡️ 下一站是哪里？🤔 敬请关注！ #DigitalLiteracy https://t.co/nn29f1YBqk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Thu Oct 02 09:19:08 +0000 2025",
+      "text": "💡AI isn't just for big corporations. Our \"UNBOX AI\" event connected small retail businesses 🛍️with real solutions for their top challenges in staffing, inventory, and customer relations.\nWith support from #moda &amp; #adi, we're making AI accessible for every #SME. 📈\n#AIforSMEs https://t.co/f18x2kFgoA",
+      "translation": "💡AI 不仅仅属于大公司。我们的“UNBOX AI”活动将小型零售企业 🛍️ 与其在人员配置、库存和客户关系方面面临的主要挑战的实际解决方案连接起来。在 #moda 和 #adi 的支持下，我们正让 AI 惠及每一个 #中小企业。📈 #AIforSMEs https://t.co/f18x2kFgoA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Thu Nov 20 09:54:27 +0000 2025",
+      "text": "RT @ChingteLai: Proud to witness the launch of @Google's AI Infrastructure Engineering Center today. The opening of this new R&amp;D center in…",
+      "translation": "RT @ChingteLai: 今天很自豪地见证了 @Google AI 基础设施工程中心的启用。这个新的研发中心在...开幕。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 255,
+        "retweet": 305,
+        "like": 2789
+      }
+    },
+    {
+      "created_at": "Thu Nov 13 06:55:12 +0000 2025",
+      "text": "Stop waiting in line for government services. 🛑\n\nWith MyData, you can renew passports, apply for housing, and more—100% online &amp; paper-free.\n\n⚡️ BONUS: The MyData Challenge is on!Win NT$888 vouchers just by using the service. https://t.co/RoWFi9cgsc",
+      "translation": "别再排队办理政府服务了。🛑 使用 MyData，您可以更新护照、申请住房等——100% 在线且无纸化。⚡️ 额外福利：MyData 挑战赛正在进行中！只需使用该服务就有机会赢取 888 元新台币代金券。 https://t.co/RoWFi9cgsc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Mon Sep 22 03:50:34 +0000 2025",
+      "text": "🇹🇼 Keeping #Taiwan connected during a crisis. At the National Disaster Prevention Day Drill, #moda demonstrated our resilient communication network, deploying low-orbit satellites 🛰️ &amp; 5G O-RAN mobile stations 🚚📶 to ensure reliable emergency comms. #Satellite #Resilience https://t.co/sap1dHlHMY",
+      "translation": "🇹🇼 在危机中保持 #台湾 的连通性。在国家防灾日演习中，#moda 展示了我们具有韧性的通信网络，部署了低轨道卫星 🛰️ 和 5G O-RAN 移动基站 🚚📶，以确保可靠的应急通信。#Satellite #Resilience https://t.co/sap0dHlHMY",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Mon Oct 13 06:51:09 +0000 2025",
+      "text": "Building a smarter, safer digital future together! 🇹🇼🤝🇪🇪\nOur delegation, led by DM Yeh Ning, had a fantastic meeting in #Estonia with @kristovaga. We explored innovative digital services, cybersecurity, &amp; citizen data protection. Great things happen when democracies collaborate! https://t.co/TrZbtFfPae",
+      "translation": "共同构建更智能、更安全的数字未来！🇹🇼🤝🇪🇪 由叶宁部长率领的代表团在 #爱沙尼亚 与 @kristovaga 进行了精彩的会晤。我们探讨了创新的数字服务、网络安全和公民数据保护。民主国家合作时，伟大的事情就会发生！ https://t.co/TrZbtFfPae",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Dec 08 10:26:37 +0000 2025",
+      "text": "A major milestone for Taiwan’s #digitalinfrastructure!\nModa signed a bilateral cooperation agreement w/ #OpenPeppol. By aligning w/ #globalstandards, we're enhancing cross-border interoperability &amp; strengthening digital ties w/ global partners. A big step for #digitalgovernance! https://t.co/cYl4HQc1Oq",
+      "translation": "台湾 #数字基础设施 的一个重要里程碑！Moda 与 #OpenPeppol 签署了双边合作协议。通过与 #全球标准 保持一致，我们正在增强跨境互操作性，并加强与全球合作伙伴的数字联系。这是 #数字治理 的一大步！ https://t.co/cYl4HQc1Oq",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Fri Sep 19 07:47:45 +0000 2025",
+      "text": "That's a wrap on #FacingTheOcean 🌊! The multinational civic tech event brought together innovators from #Taiwan🇹🇼, Japan🇯🇵, and South Korea🇰🇷 to build digital solutions for the public good. The future of public-private partnership🤝is bright! #CivicTech #moda #Innovation https://t.co/UfiNN9Yu2K",
+      "translation": "#FacingTheOcean 🌊 圆满结束！这个多国民间科技活动汇集了来自 #台湾 🇹🇼、日本 🇯🇵 和韩国 🇰🇷 的创新者，共同为公共利益构建数字解决方案。公私合作的未来 🤝 一片光明！#CivicTech #moda #Innovation https://t.co/UfiNN9Yu2K",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Fri Oct 31 07:00:18 +0000 2025",
+      "text": "Moda &amp; @AMD are building #Taiwan's AI ecosystem!🇹🇼\n\nJoined with #ITRI &amp; developers, we explored High-Performance Computing, open platforms, &amp; enterprise AI deployment. This collab is all about fostering talent &amp; accelerating our journey to a smart economy.💡\n\nTogether we advance. https://t.co/ApRqYGVOLy",
+      "translation": "Moda 和 @AMD 正在构建 #台湾 的 AI 生态系统！🇹🇼 联合 #工研院 和开发者，我们探讨了高性能计算、开放平台和企业 AI 部署。此次合作旨在培养人才，加速我们迈向智能经济的进程。💡 我们共同前进。 https://t.co/ApRqYGVOLy",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Fri Oct 31 06:38:39 +0000 2025",
+      "text": "🇹🇼Team Taiwan is READY for the #APICTA2025!\n40 companies + 8 student teams have been chosen! This December, they'll compete for glory on the stage. 🏆After the official flag-off ceremony by the #moda, we're sending our best to the world.\nGo for gold, keep the glory in Taiwan! 🥇 https://t.co/JCXL5zjRnu",
+      "translation": "🇹🇼 台湾队已准备好参加 #APICTA2025！40 家公司 + 8 支学生团队已被选中！今年十二月，他们将在舞台上角逐荣耀。🏆 在 #moda 举行官方授旗仪式后，我们将派出最优秀的队伍走向世界。去夺金吧，将荣耀留在台湾！🥇 https://t.co/JCXL5zjRnu",
+      "stance": "负面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Fri Oct 17 09:33:00 +0000 2025",
+      "text": "Revolutionizing the restaurant industry with #AI! ✨🤖Our recent #UnboxAI event showcased game-changing tech for F&amp;B businesses:\n🧠Predict stock needs to reduce waste\n🔒Monitor food safety 24/7\n🎯Launch precise marketing to boost sales\n\nThe future of dining is smart!💡\n#SME #moda https://t.co/TP1xdNmIDF",
+      "translation": "用 #AI 革新餐饮业！✨🤖 我们最近的 #UnboxAI 活动展示了为餐饮企业带来变革的科技：🧠 预测库存需求以减少浪费 🔒 24/7 监控食品安全 🎯 发起精准营销以提升销售额 餐饮的未来是智能的！💡 #SME #moda https://t.co/TP1xdNmIDF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Fri Oct 17 06:09:24 +0000 2025",
+      "text": "From #AI-powered drones 🚁 delivering medicine 💊 during a typhoon🌀to advanced #5Gnetworks, tech is a force for good. \nVisit our #ResilienceEmpowerment pavilion at the #TaiwanInnotechExpo🇹🇼 to see how we're turning cutting-edge innovation into real-world solutions.\n\n#Tie #moda https://t.co/io6sKqgNWu",
+      "translation": "从台风 🌀 期间用 #AI 驱动的无人机 🚁 运送药品 💊，到先进的 #5G网络，科技是一股向善的力量。参观我们在 #台湾创新技术博览会 🇹🇼 的 #韧性赋能 展馆，看看我们如何将尖端创新转化为现实世界的解决方案。#Tie #moda https://t.co/io6sKqgNWu",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 8
+      }
+    }
+  ]
+}

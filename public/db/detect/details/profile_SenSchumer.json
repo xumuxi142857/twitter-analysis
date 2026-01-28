@@ -1,0 +1,313 @@
+{
+  "id": "profile_SenSchumer.json",
+  "_fingerprint": "4e551e8b01d9624556dff8838dbb23cc",
+  "name": "SenSchumer",
+  "username": "SenSchumer",
+  "category": "media",
+  "daily_count": 2.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁公开演讲、社交媒体活跃、领导角色明显。尽责性高：强调立法成就（如CHIPS法案）、政策跟进、系统性工作。开放性高：支持创新政策（半导体、住房）、包容多元文化。宜人性中等：合作时展现（两党支持），对抗时强硬（批评共和党）。神经质低：情绪稳定，压力下保持坚定立场。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在傲慢、党派偏见、自我中心倾向",
+      "detail": "傲慢：暗示对手“脱离群众”（如批评亿万富翁内阁），自我标榜成就（如“我交付了”）。党派偏见：频繁将问题归咎于共和党/特朗普（如“共和党人说不行”），强化党派对立。自我中心：强调个人角色（如“我花了多年时间”），可能忽视集体贡献。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "进步主义、制度主义、对抗性叙事",
+      "detail": "进步主义：优先社会公平（住房、医疗）、民权（马丁·路德·金日）、经济干预。制度主义：信任政府机构（FCC、国会权威）、立法解决方案（如SEPSIS法案）。对抗性叙事：常使用“斗争”、“滥用权力”、“专制欺凌”等词汇，塑造民主党与共和党/特朗普的二元对立。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖党派框架、易受政策失败影响、社交媒体依赖",
+      "detail": "党派框架依赖：可能简化复杂问题为党派斗争（如将经济问题归咎于特朗普），降低跨党派合作弹性。政策失败脆弱性：若CHIPS法案等旗舰项目未达预期（就业、转型），公信力易受损。社交媒体依赖：言论易被断章取义或引发争议（如批评特朗普的激烈措辞）。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "民主党意识形态绑定、反特朗普焦点、经济承诺压力",
+      "detail": "意识形态绑定：立场紧密贴合民主党议程（如住房、医疗），灵活性受限，易被对手攻击为“激进”。反特朗普焦点：过度聚焦特朗普（样本中多次提及），若特朗普政治影响力变化，叙事可能失效。经济承诺压力：强调“降低成本”、“创造就业”，若经济指标恶化（通胀、失业），支持度易受冲击。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "立法执行风险、复杂经济管理挑战、危机应对压力",
+      "detail": "立法执行风险：CHIPS法案等大型项目依赖外部因素（企业投资、供应链），执行延迟或失败可能暴露规划不足。经济管理挑战：承诺解决住房、医疗成本，但这些问题受多重宏观因素影响，可能显得力不从心。危机应对压力：对突发事件（如Verizon中断）要求即时政策反应，若处理不当易被批“空谈”。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "理想主义与现实落差、身份政治疲劳、信息过载",
+      "detail": "理想主义落差：倡导“正义平等”（如马丁·路德·金日引用），但政治现实可能阻碍实现，导致公众失望。身份政治疲劳：强调群体权益（如韩国裔美国人日），若过度可能疏远中间选民。信息过载：活跃于多元议题（半导体、医疗、住房、民权），注意力分散，深度政策细节可能不足。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固民主党领导地位、塑造国家政策遗产、削弱共和党对手",
+      "detail": "巩固领导地位：通过高调立法（CHIPS法案）和党派叙事，提升党内影响力，可能瞄准更高职位（如参议院领导）。塑造政策遗产：推动转型项目（如纽约芯片厂），旨在留下长期经济印记。削弱共和党对手：持续批评特朗普和共和党，旨在削弱其选举前景，强化民主党议程。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "经济与就业、医疗保健、住房、科技与创新、民权与司法、党派政治",
+      "detail": "经济与就业：强调降低成本、创造就业（如Micron项目）、反对关税。医疗保健：推动ACA税收抵免、SEPSIS法案改善治疗。住房：关注可负担性危机，推出住房议程。科技与创新：支持半导体产业（CHIPS法案）、基础设施投资。民权与司法：倡导平等（马丁·路德·金日）、反对权力滥用（如ICE、DOJ）。党派政治：频繁对比民主党与共和党，强化党派立场。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      1,
+      0,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 20:54:39 +0000 2026",
+      "text": "Americans are worried about costs and Trump’s policies are only making things worse. https://t.co/1FtmxzJqzM",
+      "translation": "美国人担心生活成本，而特朗普的政策只会让情况变得更糟。https://t.co/1FtmxzJqzM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1468,
+        "retweet": 101,
+        "like": 315
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 20:42:51 +0000 2026",
+      "text": "I just brought legislation to the Senate floor to restore ACA tax credits for 3 years. This legislation passed the House with bipartisan support.\n\nSenate Republicans said NO, ensuring health care costs continue to spike for millions of Americans.\n\nWe're not going to stop fighting https://t.co/X0Inp0aOm8",
+      "translation": "我刚刚向参议院提交了恢复ACA税收抵免三年的立法。这项立法在众议院获得两党支持通过。参议院共和党人表示反对，确保数百万美国人的医疗保健费用继续飙升。我们不会停止斗争。https://t.co/X0Inp0aOm8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2719,
+        "retweet": 288,
+        "like": 855
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 18:53:36 +0000 2026",
+      "text": "Whether it’s costs or Epstein or ending forever wars, the pattern is the same:\n\nDonald Trump talks a big game but never actually follows through.",
+      "translation": "无论是成本、爱泼斯坦还是结束永久战争，模式都一样：唐纳德·特朗普夸夸其谈，但从未真正兑现。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 678,
+        "retweet": 133,
+        "like": 754
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 17:50:40 +0000 2026",
+      "text": "Donald Trump once again tried to gaslight the American people about the affordability crisis.\n\nIn a rambling speech attempting to show he cares about the struggles of ordinary Americans, he called it a FAKE.\n\nTell that to anyone who actually has to work for a living.",
+      "translation": "唐纳德·特朗普再次试图用煤气灯效应欺骗美国人民关于负担能力危机。在一场试图表明他关心普通美国人困境的冗长演讲中，他称之为“假的”。去告诉任何真正需要为生计工作的人吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 604,
+        "retweet": 146,
+        "like": 619
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 16:54:10 +0000 2026",
+      "text": "Trump’s naked political attack against Jerome Powell and the Fed is so dangerous that even Republicans are whispering in the hallways about their concerns—but actions speak louder than words.\n\nRepublicans should step up and use their oversight powers to bring the DOJ to heel.",
+      "translation": "特朗普对杰罗姆·鲍威尔和美联储的赤裸裸政治攻击如此危险，以至于连共和党人都在走廊里低声表达担忧——但行动胜于雄辩。共和党人应该站出来，利用他们的监督权力来约束司法部。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 297,
+        "retweet": 156,
+        "like": 647
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 16:50:59 +0000 2026",
+      "text": "RT @SenatorSlotkin: Last week, the U.S. Attorney for D.C. asked to interview me because of a 90-second video that President Trump didn't li…",
+      "translation": "转发 @SenatorSlotkin：上周，华盛顿特区美国检察官要求采访我，因为特朗普总统不喜欢一段90秒的视频……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14417,
+        "retweet": 8163,
+        "like": 26437
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 16:43:50 +0000 2026",
+      "text": "BREAKING: I'm headed to the Senate floor to move to pass legislation passed by the House last week to extend the ACA premium tax credits for three years.\n\nThe American people need relief, and today we have a chance to deliver it.",
+      "translation": "突发：我正前往参议院，推动通过众议院上周通过的立法，将ACA保费税收抵免延长三年。美国人民需要救济，今天我们有这个机会来提供它。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 865,
+        "retweet": 328,
+        "like": 1902
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 01:32:05 +0000 2026",
+      "text": "Happy Korean American Day! \n\nNew York is home to one of the largest and most vibrant Korean American communities in the nation. For 123 years, Korean Americans have shaped our culture, businesses, and neighborhoods, enriching the fabric of our state and country. \n\nToday we",
+      "translation": "韩国裔美国人日快乐！纽约拥有全国最大、最活跃的韩国裔美国人社区之一。123年来，韩国裔美国人塑造了我们的文化、企业和社区，丰富了我们州和国家的结构。今天，我们",
+      "stance": "无关",
+      "metrics": {
+        "reply": 167,
+        "retweet": 32,
+        "like": 136
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 21:05:31 +0000 2026",
+      "text": ".@SecScottBessent seems to think Americans are looking to retire with 12 homes. Why not 15? Or 20?!\n\nShocking to nobody: an administration filled with billionaires is out of touch with the needs of everyday people. Democrats will continue to offer policies that allow ALL",
+      "translation": ".@SecScottBessent似乎认为美国人希望退休时拥有12套房子。为什么不是15套？或者20套？！对任何人来说都不奇怪：一个充满亿万富翁的政府与普通人的需求脱节。民主党将继续提供允许所有人",
+      "stance": "无关",
+      "metrics": {
+        "reply": 249,
+        "retweet": 95,
+        "like": 334
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 20:47:55 +0000 2026",
+      "text": "Trump’s politicization of the DOJ will not deter Mayor Frey, Governor Walz, and AG Ellison from doing their jobs to protect the people of Minnesota.\n\nI stand with them against these blatant abuses of power—whether it’s lawless ICE agents terrorizing their communities or political",
+      "translation": "特朗普对司法部的政治化不会阻止弗雷市长、沃尔兹州长和埃里森总检察长履行职责保护明尼苏达州人民。我与他们站在一起，反对这些公然的权力滥用——无论是无法无天的ICE特工恐吓他们的社区，还是政治",
+      "stance": "无关",
+      "metrics": {
+        "reply": 714,
+        "retweet": 91,
+        "like": 314
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 20:56:56 +0000 2026",
+      "text": "NEWS—The SEPSIS Act was just introduced in the House.\n\nI introduced this bill in the Senate alongside my friends Ciaran &amp; Orlaith Staunton, who turned their suffering into action after losing their son, Rory, to sepsis.\n\nI won’t stop fighting to improve sepsis treatment and help",
+      "translation": "新闻——《SEPSIS法案》刚刚在众议院提出。我在参议院与我的朋友Ciaran和Orlaith Staunton一起提出了这项法案，他们在失去儿子Rory后，将痛苦转化为行动。我不会停止努力改善败血症治疗并帮助",
+      "stance": "无关",
+      "metrics": {
+        "reply": 220,
+        "retweet": 67,
+        "like": 222
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 17:56:51 +0000 2026",
+      "text": "Democrats are unveiling a new housing agenda to tackle the housing affordability crisis:\n\n—The median price of a home has increased 55% since COVID\n—Rent prices are up more than 30%\n—The median age of a 1st-time homebuyer is 40\n—America is short millions of homes—increasing costs",
+      "translation": "民主党人正在公布一项新的住房议程，以解决住房负担能力危机：——自COVID以来，房屋中位价上涨了55%——租金价格上涨超过30%——首次购房者的中位年龄为40岁——美国短缺数百万套住房——增加了成本",
+      "stance": "无关",
+      "metrics": {
+        "reply": 894,
+        "retweet": 88,
+        "like": 334
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 17:27:27 +0000 2026",
+      "text": "A major Verizon outage yesterday affected 100,000+ Verizon users.\n\nAt a time of high costs, consumers must always be automatically compensated for service disruptions, fully and completely—not just a courtesy or suggestion—and the FCC has a responsibility to require just that.",
+      "translation": "昨天Verizon的一次重大中断影响了超过10万用户。在高成本时期，消费者必须始终自动获得服务中断的完全补偿——不仅仅是礼貌或建议——FCC有责任要求做到这一点。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 262,
+        "retweet": 41,
+        "like": 202
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 01:36:33 +0000 2026",
+      "text": "First it was Tish James and James Comey. Now it’s Senators, Governors, and the Fed Chair. In Donald Trump’s America you get a bogus investigation for doing your job.\n\nAmericans reject this kind of totalitarian bullying. Where are Republicans? Hiding. https://t.co/SoQlofkiu0",
+      "translation": "先是Tish James和James Comey。现在是参议员、州长和美联储主席。在唐纳德·特朗普的美国，你履行职责就会受到虚假调查。美国人拒绝这种极权主义的欺凌。共和党人在哪里？躲起来了。https://t.co/SoQlofkiu0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3034,
+        "retweet": 526,
+        "like": 1274
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 15:19:50 +0000 2026",
+      "text": "Martin Luther King Jr. Day reminds us that we can’t ever give up on his dream.\n\nHis resilience and commitment to civil rights continues to be a message to our country today:\n\nWe must never give up in the fight for justice and equality for all.",
+      "translation": "马丁·路德·金纪念日提醒我们，我们永远不能放弃他的梦想。他对民权的韧性和承诺今天继续向我们国家传递信息：我们必须永远不放弃为所有人的正义和平等而战。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 578,
+        "retweet": 81,
+        "like": 394
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 23:50:33 +0000 2026",
+      "text": "The Senate has already voted four times on a bipartisan basis to reject Trump's illegal trade war. \n\nNo blank checks for Donald Trump’s endless trade wars. \n\nNo blank checks for senseless tariffs.",
+      "translation": "参议院已经四次以两党合作的方式投票拒绝特朗普的非法贸易战。不给唐纳德·特朗普无休止的贸易战开空白支票。不给无意义的关税开空白支票。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 609,
+        "retweet": 162,
+        "like": 764
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 23:28:19 +0000 2026",
+      "text": "Trump’s tariffs are an illegal theft of Congress’ authority over trade and tax—the Supreme Court should strike these harmful and senseless tariffs down.",
+      "translation": "特朗普的关税是对国会贸易和税收权力的非法窃取——最高法院应该推翻这些有害且无意义的关税。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 815,
+        "retweet": 165,
+        "like": 770
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:41:09 +0000 2026",
+      "text": "Micron and 50,000 good paying jobs are coming to Central New York! https://t.co/7VRHzzrv1k",
+      "translation": "美光公司和5万个高薪工作即将来到纽约中部！https://t.co/7VRHzzrv1k",
+      "stance": "无关",
+      "metrics": {
+        "reply": 496,
+        "retweet": 57,
+        "like": 380
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:35:16 +0000 2026",
+      "text": "NEWS: Groundbreaking has officially begun on a massive, $100 billion chipmaking plant that will transform Central NY and supercharge I-90 as a semiconductor superhighway. \n \nI was proud to deliver the CHIPS + Science Act of 2022 which paved the way for this facility. https://t.co/e8VkFGN5aP",
+      "translation": "新闻：一个耗资1000亿美元的巨型芯片制造厂已正式破土动工，这将改变纽约中部，并将I-90打造成半导体超级高速公路。我很自豪地推动了2022年《CHIPS+科学法案》，为该设施铺平了道路。https://t.co/e8VkFGN5aP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 718,
+        "retweet": 130,
+        "like": 438
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 15:35:39 +0000 2026",
+      "text": "I spent years working to bring Micron to Upstate NY, and with the passage of my CHIPS &amp; Science Law, I delivered billions to make it happen. I’m proud to announce Micron’s groundbreaking at its new manufacturing site in Clay, New York!\n\nThis will be a transformative $100 BILLION https://t.co/zmZRtpC5O4",
+      "translation": "我花了数年时间努力将美光带到纽约州北部，随着我的《CHIPS与科学法》通过，我提供了数十亿美元来实现它。我很自豪地宣布美光在纽约州克莱市的新制造基地破土动工！这将是一个变革性的1000亿美元项目。https://t.co/zmZRtpC5O4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 402,
+        "retweet": 68,
+        "like": 282
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "id": "profile_CBSNews.json",
+  "_fingerprint": "f6b0f0a6c3d92950710b69e9e79c1e91",
+  "name": "CBSNews",
+  "username": "CBSNews",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等外向性、中等开放性、中等宜人性、中等神经质",
+      "detail": "尽责性高：报道严谨，注重时效性和事实核查，如对政府停摆、枪击事件的持续追踪。外向性中等：积极报道社会事件，但保持专业距离。开放性中等：涵盖体育、科技、天气等多元话题，但未深入边缘议题。宜人性中等：报道中体现对受害者同情，但保持客观立场。神经质中等：对危机事件反应迅速，但情绪表达克制。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在权威依赖、事件驱动倾向、表层报道偏好",
+      "detail": "权威依赖：频繁引用政府官员、执法部门等权威信源（如白宫发言人、警察局长）。事件驱动：报道多围绕突发新闻（枪击、风暴），可能缺乏深度背景分析。表层报道偏好：话题广泛但深度有限，如科技诉讼、税收等报道较为简略。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实优先、机构中心、危机敏感、美国本土聚焦",
+      "detail": "事实优先：强调具体事件、数据（如降雪量11.4英寸）。机构中心：关注政府、执法机构、企业（如谷歌）的行动和声明。危机敏感：对枪击、风暴、政治冲突等危机事件反应迅速。美国本土聚焦：报道以美国国内事件为主，国际新闻较少（如阿富汗拘留事件为例外）。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "信源单一化、报道碎片化、反应模式化",
+      "detail": "信源单一化：过度依赖官方和机构信源，可能忽略草根视角。报道碎片化：推文式报道可能导致事件背景断裂，如枪击事件的多条推文缺乏连贯分析。反应模式化：对类似事件（如枪击）采用相似报道框架，可能缺乏创新视角。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "建制派倾向、执法视角偏重、两党平衡压力",
+      "detail": "建制派倾向：报道隐含对现有政府机构和流程的尊重，如关注国会谈判、官方调查。执法视角偏重：枪击报道中强调执法部门观点，可能弱化社区声音。两党平衡压力：在政治议题上试图平衡两党立场，如报道民主党反对拨款的同时提及特朗普政府官员声明。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "深度分析有限、国际视野不足、长线追踪乏力",
+      "detail": "深度分析有限：报道多为事件描述，缺乏系统性分析（如枪击事件的社会根源）。国际视野不足：除个别事件外，较少涉及全球议题。长线追踪乏力：话题切换频繁，可能缺乏对单一议题的持续深度追踪。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "风险规避心态、主流叙事依附、创新疲劳",
+      "detail": "风险规避心态：偏好报道安全、主流话题，避免高度争议性内容。主流叙事依附：报道框架与美国主流媒体叙事一致，如聚焦两党冲突、执法事件。创新疲劳：内容模式相对固定，较少突破传统新闻范式。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护媒体权威、塑造公共议程、平衡商业与公益",
+      "detail": "维护媒体权威：通过快速、准确的突发新闻报道巩固公信力。塑造公共议程：重点报道特定事件（如明尼阿波利斯枪击）以影响公众关注点。平衡商业与公益：在吸引流量（如风暴、体育新闻）和履行社会责任（如枪击调查）间寻求平衡。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国内政治、执法与安全、天气与灾害、体育、科技、社会事件",
+      "detail": "国内政治：政府停摆、税收政策。执法与安全：边境巡逻队枪击事件、执法部门动态。天气与灾害：冬季风暴、公共健康警告。体育：奥运会阵容、前奥运选手涉毒。科技：谷歌诉讼、宇宙研究。社会事件：名人道歉、教师学生重逢。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      1,
+      4
+    ],
+    [
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      3,
+      7
+    ],
+    [
+      1,
+      0,
+      5
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      5
+    ],
+    [
+      2,
+      0,
+      5
+    ],
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      2,
+      2,
+      5
+    ],
+    [
+      2,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 23:30:00 +0000 2026",
+      "text": "Team USA names Winter Olympics roster, ranging in age from 15-year-old Abby Winterberger to 54-year-old Rich Ruohonen. https://t.co/FHNtankkUG",
+      "translation": "美国队公布冬奥会阵容，年龄跨度从15岁的Abby Winterberger到54岁的Rich Ruohonen。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:37 +0000 2026",
+      "text": "The threat of a partial government shutdown looms large this week as Senate Democrats vow to oppose a funding package that includes DHS funding, following two deadly shootings by federal immigration agents in Minneapolis this month.\n\nSen. Chris Murphy (D-CT) says that if the https://t.co/LKgHbjPqJw",
+      "translation": "本周政府部分停摆的威胁迫在眉睫，此前本月明尼阿波利斯发生两起联邦移民官员致命枪击事件，参议院民主党人誓言反对包含国土安全部资金的拨款方案。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30,
+        "retweet": 14,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:15:29 +0000 2026",
+      "text": "The Hudson River is full of ice after a dangerous winter storm hit the New York City area Sunday, causing heavy snow and sleet.\n\nCentral Park saw 11.4 inches of snow in Sunday’s storm, the most ever recorded. New York City and the Tri-State Area are cleaning up Monday from the https://t.co/2WuSAkcfZA",
+      "translation": "周日危险冬季风暴袭击纽约市地区后，哈德逊河结满冰，带来大量降雪和雨夹雪。中央公园在周日风暴中积雪达11.4英寸，创历史纪录。纽约市及三州地区周一正在进行清理工作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 26,
+        "like": 99
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:14:46 +0000 2026",
+      "text": "“I thought for sure we were going to completely lose control of the city at this point,” Minneapolis Police Chief Brian O’Hara tells CBS News’ @CBSMATTGUTMAN, describing the moment he learned of another shooting involving federal law enforcement over the weekend in Minnesota. https://t.co/8enKZcblm1",
+      "translation": "明尼阿波利斯警察局长Brian O'Hara告诉CBS新闻记者，描述他得知周末明尼苏达州又发生一起涉及联邦执法人员的枪击事件时的感受：“我当时确信城市将完全失控。”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 46,
+        "like": 178
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:02:19 +0000 2026",
+      "text": "“It's great news,” Minnesota state Rep. Zack Stephenson says as Border Patrol commander Gregory Bovino and some of his agents are expected to soon leave the Minneapolis area, according to three sources familiar with the move.\n\n“Greg Bovino has no credibility here in Minnesota,” https://t.co/8cz8lGtWuq",
+      "translation": "明尼苏达州众议员Zack Stephenson表示：“这是好消息。”据三位知情人士透露，边境巡逻队指挥官Gregory Bovino及其部分特工预计将很快离开明尼阿波利斯地区。“Greg Bovino在明尼苏达州毫无信誉。”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 24,
+        "like": 80
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:00:43 +0000 2026",
+      "text": "After the second deadly shooting this month by federal immigration agents in Minneapolis, Rodney Harrison, former commissioner of the Suffolk County Police Department in New York, and a CBS News law enforcement contributor, joins CBS News’ Major Garrett on “The Takeout” to https://t.co/FMX7lnGzVj",
+      "translation": "本月明尼阿波利斯发生第二起联邦移民官员致命枪击事件后，纽约萨福克县警察局前局长、CBS新闻执法分析员Rodney Harrison加入CBS新闻Major Garrett的“The Takeout”节目。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 8,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:00:00 +0000 2026",
+      "text": "In wake of another shooting in Minneapolis, senators continue to press for answers over death of Renee Good. https://t.co/mvlZCjuh5I",
+      "translation": "明尼阿波利斯再次发生枪击事件后，参议员们继续就Renee Good之死追问答案。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 43,
+        "retweet": 12,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:34:20 +0000 2026",
+      "text": "Outspoken Border Patrol commander Gregory Bovino and some of his green-uniformed agents are expected to soon leave the Minneapolis area, three sources familiar with the move tell CBS News.\n\nThe development comes following intense backlash over how top federal officials, including https://t.co/bIiWAVMYZ0",
+      "translation": "三位知情人士告诉CBS新闻，直言不讳的边境巡逻队指挥官Gregory Bovino及其部分身着绿色制服的探员预计将很快离开明尼阿波利斯地区。这一进展源于包括高层联邦官员在内的处理方式引发的强烈反弹。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 121,
+        "retweet": 60,
+        "like": 160
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:30:00 +0000 2026",
+      "text": "Ex-Olympian Ryan Wedding pleads not guilty to federal charges that he operated a Mexican drug cartel. https://t.co/JNQMV09Olj",
+      "translation": "前奥运选手Ryan Wedding对联邦指控表示不认罪，指控其运营墨西哥贩毒集团。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:26:11 +0000 2026",
+      "text": "Google has agreed to pay $68 million to settle a class-action lawsuit that alleged the technology giant's voice assistant had illegally recorded users and then shared their private conversations with advertisers.\n\nThe settlement stems from a lawsuit filed by several Google device https://t.co/4hHIvRX56P",
+      "translation": "谷歌同意支付6800万美元和解集体诉讼，该诉讼指控这家科技巨头的语音助手非法录制用户对话并与广告商分享。和解源于数名谷歌设备用户提起的诉讼。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 51,
+        "like": 113
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:00:00 +0000 2026",
+      "text": "As large parts of the U.S. dig out from a major winter storm, health officials are renewing warnings about the serious and potentially deadly risks of shoveling snow, which has been linked to heart attacks. \n\n https://t.co/xNBIjfXHoS",
+      "translation": "美国大部分地区正从重大冬季风暴中恢复，卫生官员再次警告铲雪带来的严重且可能致命的风险，这与心脏病发作有关。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 8,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:58:14 +0000 2026",
+      "text": "BREAKING: Border Patrol commander Greg Bovino and some of his agents are expected to leave Minneapolis soon, sources say. https://t.co/ANVubybl4a",
+      "translation": "突发：消息人士称，边境巡逻队指挥官Greg Bovino及其部分探员预计将很快离开明尼阿波利斯。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 36,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:55:50 +0000 2026",
+      "text": "Soon after 37-year old Alex Pretti was shot and killed by a U.S. Border Patrol agent, top Trump administration officials, including Department of Homeland Security Secretary Kristi Noem, made sweeping statements about the deadly shooting before a full investigation had begun. https://t.co/yLybItNKby",
+      "translation": "37岁的Alex Pretti被美国边境巡逻队探员枪杀后不久，包括国土安全部部长Kristi Noem在内的特朗普政府高层官员在全面调查开始前，就这起致命枪击事件发表了全面声明。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 127,
+        "retweet": 47,
+        "like": 123
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:40:00 +0000 2026",
+      "text": "Tax season is officially underway. Here's when you'll get your refund in 2026.\n https://t.co/oN3za9BTng",
+      "translation": "报税季正式开始。以下是2026年您将收到退税的时间。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 4,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:20:00 +0000 2026",
+      "text": "Bettors seeking to cash in on the weekend's snowstorm flocked to prediction markets to wager millions on how much snow would ultimately accumulate across the U.S., with more than $6 million bet on New York City's totals alone. \n\n https://t.co/rp72COn0Ih",
+      "translation": "试图从周末暴风雪中获利的赌徒涌入预测市场，押注数百万美元赌美国最终积雪量，仅纽约市的总赌注就超过600万美元。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:00:00 +0000 2026",
+      "text": "Ye, the artist formerly known as Kanye West, apologized for antisemitic remarks he made in the past and said a brain injury he suffered in a car accident 25 years ago led to his bipolar disorder diagnosis.\n\n https://t.co/F99N46Up0E",
+      "translation": "艺术家Ye（原名Kanye West）为过去发表的反犹太言论道歉，并表示25年前车祸导致的脑损伤是其被诊断为双相情感障碍的原因。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:40:00 +0000 2026",
+      "text": "Years after an Atlanta-area teacher helped a student seek help for his depression, the two reunite as he helps to make a difference in others' lives.\n https://t.co/hZgmGMr4L9",
+      "translation": "亚特兰大地区一名教师多年前帮助学生寻求抑郁症治疗，如今两人重逢，学生正在帮助改变他人生活。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:20:00 +0000 2026",
+      "text": "American Dennis Coyle marks 1 year of detention in Afghanistan\n https://t.co/ziga3sUM4S",
+      "translation": "美国人Dennis Coyle在阿富汗被拘留满一周年。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 11,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:05:00 +0000 2026",
+      "text": "A new high-resolution map of distant galaxies may help scientists understand a mysterious invisible substance that helps hold the universe together.\n\n https://t.co/nlqqWAeV9J",
+      "translation": "一张新的遥远星系高分辨率地图可能帮助科学家理解一种神秘的无形物质，这种物质有助于维持宇宙结构。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:42:04 +0000 2026",
+      "text": "White House press secretary Karoline Leavitt addressed the deadly shooting of 37-year-old Alex Pretti by Border Patrol in Minneapolis on Saturday morning, including sweeping, categorical statements made by top Trump administration officials before a full investigation had begun. https://t.co/4UzCQn465Q",
+      "translation": "白宫新闻秘书Karoline Leavitt就周六早上边境巡逻队在明尼阿波利斯枪杀37岁Alex Pretti事件发表讲话，包括特朗普政府高层官员在全面调查开始前发表的全面、绝对声明。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 96,
+        "retweet": 31,
+        "like": 90
+      }
+    }
+  ]
+}

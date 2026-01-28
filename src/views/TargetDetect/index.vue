@@ -73,9 +73,10 @@
                       >
                         <template #content>
                           <div class="tooltip-content">
-                            <p><b>X轴 (立场):</b> 0=反华/负面, 1=中立, 2=亲华/正面</p>
-                            <p><b>Y轴 (领域):</b> 0=政治, 1=军事, 2=经济, 3=文化</p>
-                            <p><b>气泡大小:</b> 代表活跃度与强度 (0-10)</p>
+                             <b>X轴 (横向):</b> 代表立场倾向 (反华 ↔ 亲华)
+                            <p><b>Y轴 (纵向):</b> 代表用户关注的话题领域  (政治 / 军事 / 经济 / 文化)</p>
+                            <p><b>颜色浓度 (0-10):</b> 代表表达强度。<br/>
+                            <span style="color:#0284c7; font-weight:bold;">深蓝色</span> 表示该用户在该领域的观点输出非常密集且强烈。</p>
                           </div>
                         </template>
                         <el-icon class="help-icon"><QuestionFilled /></el-icon>
@@ -164,11 +165,10 @@
                     <div v-for="(tweet, idx) in filteredTweets" :key="idx" class="tweet-card-enhanced">
                       
                       <div class="te-header">
-                        <!--div class="te-date">{{ formatDate(tweet.created_at) }}</div-->
-                        <div class="te-stance" :class="getStanceClass(tweet.stance)">
-                          {{ tweet.stance || '未研判' }}
-                        </div>
-                      </div>
+  <div class="te-stance" :class="getStanceClass(tweet.stance)">
+    {{ formatStanceLabel(tweet.stance) }}
+  </div>
+</div>
 
                       <div class="te-body">
                         <div class="te-trans" v-if="tweet.translation">
@@ -234,12 +234,37 @@ const listLoading = ref(false);
 const detailLoading = ref(false);
 const selectedTarget = ref<TargetDetail | null>(null);
 const dbList = ref<Record<string, { targets: TargetSummary[] }>>({});
-const activeCollapseNames = ref([0, 8]); 
+const activeCollapseNames = ref([]); 
 
 const currentList = computed(() => {
   if (!dbList.value || !dbList.value[activeTab.value]) return [];
   return dbList.value[activeTab.value].targets || [];
 });
+
+const formatStanceLabel = (stance?: string) => {
+  if (!stance) return '未研判';
+  const s = stance.toLowerCase();
+  
+  // 映射逻辑
+  if (s.includes('positive') || s.includes('正面')) return '亲华';
+  if (s.includes('negative') || s.includes('负面')) return '反华';
+  if (s.includes('neutral') || s.includes('中立')) return '中立';
+  if (s.includes('irrelevant') || s.includes('无关')) return '无明显立场';
+  
+  return stance; //其他的原样返回
+};
+
+// 3. 【修改】根据转换后的中文标签返回颜色 Class
+const getStanceClass = (stance?: string) => {
+  const label = formatStanceLabel(stance); // 先获取转换后的标签
+  
+  if (label === '亲华') return 'stance-positive';
+  if (label === '反华') return 'stance-negative';
+  if (label === '中立') return 'stance-neutral';
+  if (label === '无明显立场') return 'stance-irrelevant'; // 新增无关样式
+  
+  return 'stance-neutral';
+};
 
 const filteredTargets = computed(() => currentList.value);
 const filteredTweets = computed(() => selectedTarget.value?.all_tweets || []);
@@ -274,12 +299,7 @@ const formatDetailText = (text: string) => {
 };
 
 // 获取立场颜色样式
-const getStanceClass = (stance?: string) => {
-  if (!stance) return 'stance-neutral';
-  if (stance.includes('正面') || stance.includes('Positive')) return 'stance-positive';
-  if (stance.includes('负面') || stance.includes('Negative')) return 'stance-negative';
-  return 'stance-neutral';
-};
+
 
 const formatDate = (str: string) => dayjs(str).isValid() ? dayjs(str).format('YYYY-MM-DD HH:mm') : str;
 
@@ -296,7 +316,7 @@ const fetchList = async () => {
 const handleSelect = async (summary: TargetSummary) => {
   // @ts-ignore
   selectedTarget.value = summary; 
-  activeCollapseNames.value = [0, 8]; 
+  activeCollapseNames.value = []; 
   setTimeout(() => {
     const el = document.querySelector('.dossier-container');
     if(el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -372,6 +392,7 @@ onMounted(() => fetchList());
       &.stance-positive { background: #ecfdf5; color: #059669; }
       &.stance-negative { background: #fef2f2; color: #dc2626; }
       &.stance-neutral { background: #f3f4f6; color: #4b5563; }
+      &.stance-irrelevant { background: #54bb40; color: #eceef5;}
     }
   }
   

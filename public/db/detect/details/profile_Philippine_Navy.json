@@ -1,0 +1,353 @@
+{
+  "id": "profile_Philippine_Navy.json",
+  "_fingerprint": "1c4cf23544df9a4a9f2496c974360eb5",
+  "name": "Philippine_Navy",
+  "username": "Philippine_Navy",
+  "category": "media",
+  "daily_count": 5.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高度尽责性、外向性、开放性，中等宜人性，低神经质",
+      "detail": "尽责性：通过频繁的晋升仪式、训练项目、纪律强调（如海军陆战队教官作为纪律和卓越的标杆）体现高度组织性和责任感。外向性：通过公开活动（如抵达仪式、社交媒体参与、社区活动）展示社交性和公众参与度。开放性：通过采用新技术（如网络战部队）、多领域行动（陆地、海洋、天空）和现代化（如新巡逻舰）体现对新体验和创新的接受度。宜人性：通过人道主义行动（如救援任务）、社区支持（如文化传统保障）和青年发展项目展示合作性，但军事行动（如执法）可能降低宜人性。神经质：低情绪不稳定性，表现为稳定行动（如例行巡逻、仪式）和应对挑战（如解决技术问题）的能力。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的自负、僵化、过度依赖传统",
+      "detail": "自负：通过高级官员频繁主持仪式（如Vice Admiral Jose Ma Ambrosio Q Ezpeleta在多个事件中）和强调领导力（如领导力语录）可能暗示精英主义或自我重要性。僵化：依赖传统仪式（如授衔、握手）和结构化训练（如海军陆战队新兵培训）可能限制适应性。过度依赖传统：强调历史传统（如文化宗教活动保障）和既定程序（如无线电操作员维护系统）可能阻碍变革。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "务实、制度化、渐进主义",
+      "detail": "务实：关注实际成果，如执法（查获未申报香烟）、救援行动和资产部署（如巡逻舰），而非抽象理念。制度化：通过正式仪式（如授衔、宣誓）、结构化项目（如工作沉浸计划）和等级制度（如高级军官晋升）强调组织和程序。渐进主义：通过逐步现代化（如新增巡逻舰）、能力发展（如人员培训）和区域稳定促进体现渐进改进而非激进变革。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度仪式化、资源分散、反应性行动",
+      "detail": "过度仪式化：频繁举行仪式（如授衔、抵达仪式）可能分散对核心任务的注意力，消耗时间和资源。资源分散：参与多样化活动（如环境意识、青年发展、文化支持）可能削弱对主要军事和安全任务的专注。反应性行动：行动多为响应事件（如救援、执法巡逻），而非主动战略规划，可能暴露计划不足。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "区域主义、依赖外部伙伴、内部整合压力",
+      "detail": "区域主义：强调区域稳定（如促进区域稳定）可能优先本地利益，导致与更广泛国际动态脱节。依赖外部伙伴：从韩国获取新巡逻舰（未来BRP Rajah Sulayman）显示对外部技术的依赖，可能影响自主性。内部整合压力：需要平衡海军和海军陆战队（如海军陆战队训练、海军行动），可能导致协调挑战和资源竞争。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "技术依赖、培训瓶颈、资产有限",
+      "detail": "技术依赖：依赖无线电通信系统和网络战部队，技术故障可能破坏行动（如无线电操作员解决技术问题）。培训瓶颈：培训项目（如新兵培训、特殊征召人员）可能无法快速满足现代化需求，导致技能缺口。资产有限：尽管新增巡逻舰，资产可能仍不足以覆盖广阔海域（如西部棉兰老岛海军司令部救援），影响响应能力。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "保守思维、过度乐观、身份冲突",
+      "detail": "保守思维：强调纪律和传统（如海军陆战队教官作为标杆）可能抵制创新和快速适应。过度乐观：通过口号（如保护海洋、保障未来）和积极叙事（如日落照片）可能低估威胁或挑战。身份冲突：平衡军事角色与社区参与（如环境活动、文化支持）可能导致身份模糊和优先级混淆。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "增强区域影响力、现代化推动、国内合法性巩固",
+      "detail": "增强区域影响力：通过行动如促进区域稳定和海上安全，旨在提升菲律宾海军在东南亚的地位。现代化推动：新增巡逻舰和网络战部队发展暗示意图缩小与地区对手的技术差距。国内合法性巩固：通过公共服务（如救援、执法）、社区参与和青年项目，加强公众支持和政府背书。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "海上安全、现代化、区域合作、国内稳定",
+      "detail": "海上安全：核心焦点，包括执法（如查获走私）、救援行动和资产部署（如巡逻舰）。现代化：涉及技术升级（如网络战）、新装备（如巡逻舰）和培训（如人员能力发展）。区域合作：隐含在促进区域稳定和多领域行动中，可能涉及与盟友的协作。国内稳定：通过社区支持（如文化传统）、青年发展和环境活动，维护内部凝聚力。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      6
+    ],
+    [
+      1,
+      0,
+      5
+    ],
+    [
+      2,
+      0,
+      4
+    ],
+    [
+      3,
+      0,
+      7
+    ],
+    [
+      0,
+      1,
+      3
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      2,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      6
+    ],
+    [
+      0,
+      2,
+      5
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      2,
+      2,
+      3
+    ],
+    [
+      3,
+      2,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 11:25:32 +0000 2026",
+      "text": "WARRIOR WEDNESDAYS | The Philippine Marine Corps’ Drill Instructors\n\nPhilippine Marine Corps’ drill instructors are the standard-bearers of discipline and excellence, tasked with transforming recruits into capable and battle-ready Philippine Marines. Recognizable by their https://t.co/2b0juQbIIv",
+      "translation": "战士星期三 | 菲律宾海军陆战队教官 菲律宾海军陆战队的教官是纪律与卓越的标杆，负责将新兵转变为有能力且做好战斗准备的菲律宾海军陆战队员。他们可通过 https://t.co/2b0juQbIIv 识别。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 22:00:22 +0000 2026",
+      "text": "A CALL FOR GREATER RESPONSIBILITY | The Marine Battalion Landing Team 9 held the incorporation ceremony for the newly reported privates, who underwent training and orientation to prepare them for their roles as marines. The unit welcomed them with a traditional handshake, https://t.co/T12U8LI1Wv",
+      "translation": "呼吁更大责任 | 海军陆战队第9登陆营为新报到列兵举行了入队仪式，这些列兵接受了培训和指导，为担任陆战队员角色做准备。单位以传统握手方式欢迎他们，https://t.co/T12U8LI1Wv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 10:00:00 +0000 2026",
+      "text": "TRAINING TUESDAYS | Meet the Radioman of the Philippine Navy\n\nThe Radiomen of the Philippine Navy are responsible for operating and maintaining radio communication systems, ensuring that all equipment remains functional and quickly addressing any technical issues that may arise. https://t.co/8g7xfm1Dbu",
+      "translation": "训练星期二 | 认识菲律宾海军无线电员 菲律宾海军的无线电员负责操作和维护无线电通信系统，确保所有设备保持功能正常，并迅速解决可能出现的任何技术问题。https://t.co/8g7xfm1Dbu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 07:02:59 +0000 2026",
+      "text": "DONNING OF RANKS | The Philippine Navy conducted a Donning of Ranks Ceremony for newly promoted Flag Rank and Senior Officers on January 19, 2026, at the Navy Headquarters, Manila.\n\nThe ceremony was presided over by the Flag Officer In Command, Philippine Navy, Vice Admiral Jose https://t.co/6QDHHompbF",
+      "translation": "授衔仪式 | 菲律宾海军于2026年1月19日在马尼拉海军总部为新晋升的将官和高级军官举行了授衔仪式。仪式由菲律宾海军司令、海军中将 Jose 主持，https://t.co/6QDHHompbF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 04:54:28 +0000 2026",
+      "text": "MARITIME LAW ENFORCEMENT | Naval Forces Eastern Mindanao (NFEM) apprehended a motor boat carrying Php44 million worth of undocumented cigarettes during a routine maritime patrol on January 15, 2026 in Pantukan, Davao de Oro. The vessel, later identified as M/B QAISAR with 13 https://t.co/5a4SXzwEuR",
+      "translation": "海上执法 | 东棉兰老岛海军部队于2026年1月15日在达沃德奥罗省潘图坎例行海上巡逻时，截获一艘载有价值4400万比索未申报香烟的摩托艇。该船后来被确认为M/B QAISAR，载有13人，https://t.co/5a4SXzwEuR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:48:50 +0000 2026",
+      "text": "SUPPORTING CULTURAL AND RELIGIOUS TRADITIONS | Naval Forces Central ensured the safe and orderly conduct of the Sinulog 2026 Fluvial Procession by deploying naval assets to provide maritime security and escort the official galleon of the Señor Sto. Niño along the Mactan–Cebu https://t.co/HLC4TdLvuD",
+      "translation": "支持文化和宗教传统 | 中菲律宾海军部队通过部署海军资产提供海上安保，并护送圣婴节官方大帆船沿麦克坦-宿务航线航行，确保了2026年圣婴节水上巡游的安全有序进行，https://t.co/HLC4TdLvuD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 07:00:00 +0000 2026",
+      "text": "DONNING OF RANKS | The Philippine Navy conducted a Donning of Ranks Ceremony for 53 newly promoted Senior Officers to the rank of Captain/Colonel, presided over by the Flag Officer In Command, Philippine Navy, Vice Admiral Jose Ma Ambrosio Q Ezpeleta PN, on January 21, 2026, at https://t.co/Zz6lNIyZh3",
+      "translation": "授衔仪式 | 菲律宾海军于2026年1月21日为53名新晋升为海军上校/陆军上校的高级军官举行了授衔仪式，仪式由菲律宾海军司令、海军中将 Jose Ma Ambrosio Q Ezpeleta PN 主持，https://t.co/Zz6lNIyZh3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 04:00:01 +0000 2026",
+      "text": "IN PHOTOS | PH Navy holds Arrival Ceremony for future BRP Rajah Sulayman\n\nThe Philippine Navy welcomed its newest offshore patrol vessel, the future BRP Rajah Sulayman (PS20), during an Arrival Ceremony  with Vice Admiral Jose Ma Ambrosio Q Ezpeleta PN, Flag Officer In Command, https://t.co/ZonM2cPNVs",
+      "translation": "图集 | 菲律宾海军为未来BRP Rajah Sulayman举行抵达仪式 菲律宾海军在其最新近海巡逻舰——未来BRP Rajah Sulayman（PS20）抵达时举行了欢迎仪式，菲律宾海军司令、海军中将 Jose Ma Ambrosio Q Ezpeleta PN 出席，https://t.co/ZonM2cPNVs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 10,
+        "like": 88
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 02:00:34 +0000 2026",
+      "text": "WATCH | Land ✅\nSea ✅\nSky ✅\nAllegiance 🟰 🇵🇭\n\nAFP x Fate of Ophelia\n\nPhilippine Navy: Addressing Challenges, Promoting Regional Stability, and Strengthening Maritime Security\n\n#ProtectingtheSeasSecuringOurFuture\n#ModernMultiDomainSelfReliantCrediblePartner\n#OneAFPOnePhilippines https://t.co/DPq3gnXeE9",
+      "translation": "观看 | 陆地 ✅ 海洋 ✅ 天空 ✅ 忠诚 🟰 🇵🇭 菲律宾武装部队 x 奥菲莉亚的命运 菲律宾海军：应对挑战，促进地区稳定，加强海上安全 #保护海洋保障我们的未来 #现代化多领域自力更生可信赖伙伴 #一个菲律宾武装部队一个菲律宾 https://t.co/DPq3gnXeE9",
+      "stance": "中立",
+      "metrics": {
+        "reply": 2,
+        "retweet": 27,
+        "like": 119
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 22:00:01 +0000 2026",
+      "text": "READ | The Philippine Navy's Leadership Quote for the Week.\n\n“While we must accept that life isn't always fair, true leaders strive to create as much fairness and equity as possible that is felt both during their time in leadership and endures long after they leave their post.” https://t.co/fnXUqYkks0",
+      "translation": "阅读 | 菲律宾海军本周领导力语录。 “虽然我们必须接受生活并不总是公平的，但真正的领导者努力创造尽可能多的公平与公正，这种公平公正不仅在他们领导期间能被感受到，而且在他们离任后仍能长久持续。” https://t.co/fnXUqYkks0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 10:00:00 +0000 2026",
+      "text": "OUT AND ABOUT | \"The most extraordinary people in the world today don't have a career. They have a mission.\" – Vishen Lakhiani \n\nNon-Line-of-Sight (NLOS) FIRING \nHappy Sunday!\n\n❤️🫡⚓\n\n🎵 ©️: Cinematic Trailer Background Music  Outbreak by Arctic Fox Music\n\nPhilippine Navy: https://t.co/9I6WjlCf4c",
+      "translation": "动态 | “当今世界上最非凡的人没有职业。他们有使命。” – Vishen Lakhiani 非视距（NLOS）射击 周日快乐！ ❤️🫡⚓ 🎵 ©️: 电影预告片背景音乐 Outbreak by Arctic Fox Music 菲律宾海军：https://t.co/9I6WjlCf4c",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 37
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 10:00:00 +0000 2026",
+      "text": "SUNSET SATURDAYS 🌅\n\n“To watch a sunset is to connect with the Divine.” – Gina De Gorna\n\n📸: Kaito Zen\n\n❗️❗️❗️Want the Philippine Navy to feature your sunset photo? Submit your entries to navy.speak@gmail.com, preferably with a 3:4 ratio, and indicate your name so we can give you https://t.co/RRE71bPIus",
+      "translation": "日落星期六 🌅 “观看日落是与神圣连接。” – Gina De Gorna 📸: Kaito Zen ❗️❗️❗️想让菲律宾海军展示你的日落照片吗？请将作品提交至 navy.speak@gmail.com，最好为3:4比例，并注明你的姓名以便我们标注出处，https://t.co/RRE71bPIus",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 06:56:19 +0000 2026",
+      "text": "STRENGTHENING YOUTH DEVELOPMENT | The Naval Forces Central (NFC) concluded the Work Immersion Program of 16 Lo-ok Senior High School students at Naval Base Rafael Ramos, Lapu-Lapu City on January 16, 2026, providing students with hands-on and course-based experience through https://t.co/cknX2kZ1MV",
+      "translation": "加强青年发展 | 中菲律宾海军部队于2026年1月16日在拉普拉普市拉斐尔·拉莫斯海军基地结束了16名洛奥克高中学生的职场沉浸项目，通过 https://t.co/cknX2kZ1MV 为学生提供了实践和基于课程的经验。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 03:55:51 +0000 2026",
+      "text": "IN THE NEWS | Philippine Navy rescues 30 passengers from stranded vessel off Tawi-Tawi\n\nThe Philippine Navy conducted the successful rescue of 30 passengers from a wooden-hulled vessel that was left stranded off the waters of Turtle Islands, Tawi-Tawi on January 17, 2026.",
+      "translation": "新闻 | 菲律宾海军在塔威塔威附近救出30名搁浅船只乘客 菲律宾海军于2026年1月17日成功从一艘在塔威塔威省龟岛水域搁浅的木壳船上救出30名乘客。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 10,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:27:29 +0000 2026",
+      "text": "PROMOTING ENVIRONMENTAL AWARENESS | The Marine Battalion Landing Team-8 (MBLT-8), together with partner government agencies, participated in a Sunrise Plogging activity initiated by the Dalumpinas Oeste Eco Rangers (DOERs) on January 17, 2026 at the Laoag City Sand Dunes, Ilocos https://t.co/xkMikfKEPd",
+      "translation": "提升环保意识 | 海军陆战队第8登陆营与合作伙伴政府机构一起，于2026年1月17日在伊罗戈斯省拉瓦格市沙丘参加了由Dalumpinas Oeste生态游骑兵发起的日出拾荒慢跑活动，https://t.co/xkMikfKEPd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 22:00:11 +0000 2026",
+      "text": "DEVELOPING PERSONNEL CAPABILITIES | The Philippine Fleet held an oath-taking and reception ceremony for the 5th batch of Fleet Operations Shipboard Rating (FOSR) special enlistees at Naval Base Heracleo Alano, Sangley Point, Cavite City, on January 13, 2026, formally welcoming 52 https://t.co/DKaeReCPlT",
+      "translation": "发展人员能力 | 菲律宾舰队于2026年1月13日在甲米地市桑利角赫拉克利奥·阿拉诺海军基地为第5批舰队操作舰船等级特殊征召人员举行了宣誓就职和欢迎仪式，正式欢迎52人，https://t.co/DKaeReCPlT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 09:55:23 +0000 2026",
+      "text": "LOOK | PH Navy welcomes newest patrol vessel, future BRP Rajah Sulayman (PS20)\n\nThe Philippine Navy’s newest offshore patrol vessel, the future BRP Rajah Sulayman (PS20), has arrived in the country from South Korea, which marks another significant addition to the Navy’s growing https://t.co/fiwoC1YidL",
+      "translation": "看 | 菲律宾海军欢迎最新巡逻舰，未来BRP Rajah Sulayman（PS20） 菲律宾海军最新的近海巡逻舰——未来BRP Rajah Sulayman（PS20）已从韩国抵达该国，这标志着海军不断增长的舰队又增加了一个重要成员，https://t.co/fiwoC1YidL",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 75,
+        "like": 420
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 07:02:16 +0000 2026",
+      "text": "SAFEGUARDING LIVES AT SEA | The Philippine Navy’s Western Mindanao Naval Command (WMNC), through BRP Juan Magluyan (PC392), successfully rescued thirty (30) passengers from a distressed Filipino motor launch in Taganak, Tawi-Tawi on January 16, 2026.\n\nPhilippine Navy: Addressing https://t.co/3GM1soFMX0",
+      "translation": "保障海上生命安全 | 菲律宾海军西棉兰老岛海军司令部通过BRP Juan Magluyan（PC392），于2026年1月16日在塔威塔威省塔加纳克成功从一艘遇险的菲律宾摩托艇上救出三十（30）名乘客。菲律宾海军：应对 https://t.co/3GM1soFMX0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 04:53:31 +0000 2026",
+      "text": "DEVELOPING MISSION-READY MARINES | The Philippine Marine Corps conducted the induction and oath-taking ceremony for 390 new aspirants on January 16, 2026, at Fort Bonifacio, marking their formal entry into Marine training and reaffirming the Corps’ commitment to developing https://t.co/86wtJ69IWr",
+      "translation": "培养任务就绪的海军陆战队员 | 菲律宾海军陆战队于2026年1月16日在博尼法西奥堡为390名新学员举行了入队和宣誓仪式，标志着他们正式进入海军陆战队训练，并重申了陆战队致力于培养 https://t.co/86wtJ69IWr",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 01:33:02 +0000 2026",
+      "text": "THE ADMIRAL’S HELM | Vice Admiral Jose Ma Ambrosio Q Ezpeleta PN, Flag Officer In Command, Philippine Navy, underscores the growing strategic importance of the Cyber Warfare Force in naval operations during the 29th Founding Anniversary of the Naval Cyber Warfare Force on January https://t.co/xXdXMWZFYc",
+      "translation": "海军上将的舵轮 | 菲律宾海军司令、海军中将 Jose Ma Ambrosio Q Ezpeleta PN 在2026年1月海军网络战部队成立29周年纪念活动上，强调了网络战部队在海军行动中日益增长的战略重要性，https://t.co/xXdXMWZFYc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 17
+      }
+    }
+  ]
+}

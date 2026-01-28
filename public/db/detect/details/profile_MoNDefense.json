@@ -1,0 +1,313 @@
+{
+  "id": "profile_MoNDefense.json",
+  "_fingerprint": "aa536f73c432d87917fae146afdaf217",
+  "name": "MoNDefense",
+  "username": "MoNDefense",
+  "category": "media",
+  "daily_count": 1.4,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等外向性、中等神经质、低宜人性、中等开放性",
+      "detail": "尽责性高：每日发布军事监测数据，强调监控与应对，体现高度组织性和责任感。外向性中等：通过社交媒体公开信息，但内容以事实陈述为主，缺乏情感表达。神经质中等：面对军事压力时保持冷静回应，但频繁发布监测数据显示潜在焦虑。宜人性低：立场强硬，使用‘主权’‘捍卫’等对抗性词汇，缺乏合作姿态。开放性中等：信息发布模式固定，但偶尔包含鼓舞性内容，显示一定灵活性。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "僵化思维、防御性姿态、潜在焦虑、对抗性倾向",
+      "detail": "僵化思维：信息发布高度格式化，缺乏创新或变通。防御性姿态：频繁强调‘监控与应对’，显示被动反应模式。潜在焦虑：每日监测数据发布可能反映对安全威胁的持续担忧。对抗性倾向：使用‘主权’‘捍卫’等词汇，暗示对抗而非对话立场。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "威胁导向、二元对立、重复强化、事实优先",
+      "detail": "威胁导向：关注PLA/PLAN活动，视为主要安全威胁。二元对立：将‘ROCArmedForces’与‘PLA/PLAN’置于对立面。重复强化：每日发布类似格式信息，强化特定叙事。事实优先：侧重数据（架次、舰船数量）而非分析或情感诉求。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "反应模式固定、信息发布可预测、依赖标准化回应",
+      "detail": "反应模式固定：对军事活动一律采用‘监测与应对’表述，缺乏策略变化。信息发布可预测：每日6点（UTC+8）发布数据，模式易被掌握。依赖标准化回应：使用模板化语言（如‘We have monitored the situation and responded’），可能掩盖实际应对能力的局限。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "单一主权主张、依赖外部认同、内部凝聚力压力",
+      "detail": "单一主权主张：坚持‘Republic of China’主权，与国际普遍认知存在冲突。依赖外部认同：使用英文发布，可能旨在寻求国际关注与支持。内部凝聚力压力：通过强调‘捍卫民主自由’来维持内部团结，可能反映身份认同的脆弱性。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "监测依赖性强、应对表述模糊、资源分配压力",
+      "detail": "监测依赖性强：信息高度依赖监测数据，可能暗示主动行动能力有限。应对表述模糊：使用‘responded’但未具体说明措施，可能掩盖实际能力不足。资源分配压力：同时处理军事监测、F-16事故救援等，显示资源紧张。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "压力下的决策疲劳、身份认同焦虑、叙事维持负担",
+      "detail": "压力下的决策疲劳：持续应对军事活动可能导致决策质量下降。身份认同焦虑：频繁强调‘ROC’身份，反映深层的不安全感。叙事维持负担：需同时维护‘正常生活’叙事与‘威胁应对’叙事，可能产生认知失调。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "国际舆论塑造、内部士气维持、威慑信号传递",
+      "detail": "国际舆论塑造：通过英文发布军事活动数据，旨在影响国际观感，塑造‘受威胁但坚守’形象。内部士气维持：强调‘捍卫民主自由’和‘永不放弃希望’，旨在提升内部凝聚力与公众信心。威慑信号传递：公开监测细节可能意在向对手展示能力，但实际效果可能有限。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "军事安全、主权宣示、内部团结、日常叙事",
+      "detail": "军事安全：核心话题，包括PLA/PLAN活动监测、F-16训练与事故。主权宣示：反复强调‘Republic of China’主权与捍卫立场。内部团结：通过鼓舞性内容（如‘Rough seas may lie... but don’t worry’）维持公众信心。日常叙事：试图平衡威胁通报与‘正常生活’宣传，如‘享受自由民主的日常生活’。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      9
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 01:00:01 +0000 2026",
+      "text": "20 sorties of PLA aircraft and 9 PLAN vessels operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 17 out of 20 sorties crossed the median line and entered Taiwan’s northern, southwestern and eastern ADIZ. We have monitored the situation and responded. https://t.co/0YlbATvr3p",
+      "translation": "截至今日上午6时（北京时间），侦测到20架次解放军军机及9艘解放军海军舰艇在台湾周边活动。其中17架次越过海峡中线，进入台湾北部、西南部及东部防空识别区。我方已监控局势并作出应对。https://t.co/0YlbATvr3p",
+      "stance": "负面",
+      "metrics": {
+        "reply": 37,
+        "retweet": 100,
+        "like": 317
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 01:00:01 +0000 2026",
+      "text": "11 sorties of PLA aircraft, 6 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 9 out of 11 sorties crossed the median line and entered Taiwan’s northern and southwestern ADIZ. We have monitored the situation and responded. https://t.co/PmuANSAERI",
+      "translation": "截至今日上午6时（北京时间），侦测到11架次解放军军机、6艘解放军海军舰艇及1艘公务船在台湾周边活动。其中9架次越过海峡中线，进入台湾北部及西南部防空识别区。我方已监控局势并作出应对。https://t.co/PmuANSAERI",
+      "stance": "负面",
+      "metrics": {
+        "reply": 65,
+        "retweet": 122,
+        "like": 328
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 13:29:20 +0000 2025",
+      "text": "Guided by prudent threat assessment, the #ROCArmedForces have completed force adjustments and maintain appropriate response mechanisms.\n\nWe will continue to respond calmly and in a controlled manner, firmly safeguarding sovereignty, democracy, freedom, and our people’s safety.",
+      "translation": "基于审慎的威胁评估，#中华民国国军已完成兵力调整并维持适当的应对机制。我们将继续冷静、克制地应对，坚定捍卫主权、民主、自由及人民安全。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 50,
+        "retweet": 50,
+        "like": 291
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 08:09:01 +0000 2025",
+      "text": "Living in the Republic of China means enjoying the everyday life in freedom, democracy, and peace.\nPreserving the public’s sense of normalcy is the principle we will not compromise.\nSafeguarding daily \"lives\" is the mission of the #ROCArmedForces. https://t.co/73Xzi4bym8",
+      "translation": "生活在中华民国意味着享受自由、民主与和平的日常生活。维护公众的正常感是我们绝不妥协的原则。守护日常“生活”是#中华民国国军的使命。https://t.co/73Xzi4bym8",
+      "stance": "负面",
+      "metrics": {
+        "reply": 173,
+        "retweet": 267,
+        "like": 1795
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 01:00:01 +0000 2025",
+      "text": "77 PLA aircraft, 17 PLAN vessels and 8 official ships operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 35 out of 77 sorties crossed the median line and entered Taiwan’s northern, central and southwestern ADIZ. We have monitored the situation and responded. https://t.co/g22WMEC2uf",
+      "translation": "截至今日上午6时（北京时间），侦测到77架次解放军军机、17艘解放军海军舰艇及8艘公务船在台湾周边活动。其中35架次越过海峡中线，进入台湾北部、中部及西南部防空识别区。我方已监控局势并作出应对。https://t.co/g22WMEC2uf",
+      "stance": "负面",
+      "metrics": {
+        "reply": 89,
+        "retweet": 208,
+        "like": 681
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 01:00:01 +0000 2026",
+      "text": "10 sorties of PLA aircraft and 5 PLAN vessels operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 3 out of 10 sorties crossed the median line and entered Taiwan’s northern and southwestern ADIZ. We have monitored the situation and responded. https://t.co/MdyO5XBULK",
+      "translation": "截至今日上午6时（北京时间），侦测到10架次解放军军机及5艘解放军海军舰艇在台湾周边活动。其中3架次越过海峡中线，进入台湾北部及西南部防空识别区。我方已监控局势并作出应对。https://t.co/MdyO5XBULK",
+      "stance": "负面",
+      "metrics": {
+        "reply": 42,
+        "retweet": 88,
+        "like": 303
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 01:00:00 +0000 2026",
+      "text": "8 sorties of PLA aircraft and 7 PLAN vessels operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 2 out of 8 sorties crossed the median line and entered Taiwan’s southwestern and eastern ADIZ. We have monitored the situation and responded. https://t.co/gHHJW88LZA",
+      "translation": "截至今日上午6时（北京时间），侦测到8架次解放军军机及7艘解放军海军舰艇在台湾周边活动。其中2架次越过海峡中线，进入台湾西南部及东部防空识别区。我方已监控局势并作出应对。https://t.co/gHHJW88LZA",
+      "stance": "负面",
+      "metrics": {
+        "reply": 31,
+        "retweet": 107,
+        "like": 332
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 01:00:00 +0000 2026",
+      "text": "9 sorties of PLA aircraft, 5 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 9 out of 9 sorties crossed the median line and entered Taiwan’s northern and southwestern ADIZ. We have monitored the situation and responded. https://t.co/nrnG219g4f",
+      "translation": "截至今日上午6时（北京时间），侦测到9架次解放军军机、5艘解放军海军舰艇及1艘公务船在台湾周边活动。其中9架次全部越过海峡中线，进入台湾北部及西南部防空识别区。我方已监控局势并作出应对。https://t.co/nrnG219g4f",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 96,
+        "like": 265
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 09:00:02 +0000 2026",
+      "text": "Challenges are part of everyday life.\nRough seas may lie along our routes.\n\nBut don’t worry.\nThe #ROCArmedForces are always here. https://t.co/lsanPJvIU5",
+      "translation": "挑战是日常生活的一部分。我们的航路上可能有惊涛骇浪。但请放心。#中华民国国军始终在此。https://t.co/lsanPJvIU5",
+      "stance": "负面",
+      "metrics": {
+        "reply": 82,
+        "retweet": 77,
+        "like": 411
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 01:00:03 +0000 2026",
+      "text": "(U) 3 sorties of PLA aircraft, 17 PLAN vessels and 8 official ships operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 1 out of 3 sorties crossed the median line and entered Taiwan’s southwestern ADIZ. We have monitored the situation and responded. https://t.co/DkbmvyChZl",
+      "translation": "（未确认）截至今日上午6时（北京时间），侦测到3架次解放军军机、17艘解放军海军舰艇及8艘公务船在台湾周边活动。其中1架次越过海峡中线，进入台湾西南部防空识别区。我方已监控局势并作出应对。https://t.co/DkbmvyChZl",
+      "stance": "负面",
+      "metrics": {
+        "reply": 47,
+        "retweet": 123,
+        "like": 384
+      }
+    },
+    {
+      "created_at": "Sun Jan 11 01:00:01 +0000 2026",
+      "text": "4 PLA aircraft, 6 PLAN ships and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 1 out of 4 sorties crossed the median line and entered Taiwan’s northern ADIZ. We have monitored the situation and responded https://t.co/FCiEFK40za",
+      "translation": "截至今日上午6时（北京时间），侦测到4架解放军军机、6艘解放军海军舰艇及1艘公务船在台湾周边活动。其中1架次越过海峡中线，进入台湾北部防空识别区。我方已监控局势并作出应对。https://t.co/FCiEFK40za",
+      "stance": "负面",
+      "metrics": {
+        "reply": 45,
+        "retweet": 90,
+        "like": 255
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 01:00:31 +0000 2026",
+      "text": "(U) 5 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 1 PRC balloon were detected during this timeframe. #ROCArmedForces have monitored the situation and responded. https://t.co/bTUnVHPXCf",
+      "translation": "（未确认）截至今日上午6时（北京时间），侦测到5艘解放军海军舰艇及1艘公务船在台湾周边活动。在此期间侦测到1个中国大陆气球。#中华民国国军已监控局势并作出应对。https://t.co/bTUnVHPXCf",
+      "stance": "负面",
+      "metrics": {
+        "reply": 35,
+        "retweet": 122,
+        "like": 399
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 01:00:00 +0000 2026",
+      "text": "3 sorties of PLA aircraft and 6 PLAN vessels operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 1 out of 3 sorties crossed the median line and entered Taiwan’s southwestern ADIZ. We have monitored the situation and responded. https://t.co/rh4dOq4C9R",
+      "translation": "截至今日上午6时（北京时间），侦测到3架次解放军军机及6艘解放军海军舰艇在台湾周边活动。其中1架次越过海峡中线，进入台湾西南部防空识别区。我方已监控局势并作出应对。https://t.co/rh4dOq4C9R",
+      "stance": "负面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 73,
+        "like": 238
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 01:00:00 +0000 2026",
+      "text": "(U) 4 sorties of PLA aircraft, 6 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 1 out of 4 sorties crossed the median line and entered Taiwan’s central ADIZ. We have monitored the situation and responded. https://t.co/IRxT4elEmA",
+      "translation": "（未确认）截至今日上午6时（北京时间），侦测到4架次解放军军机、6艘解放军海军舰艇及1艘公务船在台湾周边活动。其中1架次越过海峡中线，进入台湾中部防空识别区。我方已监控局势并作出应对。https://t.co/IRxT4elEmA",
+      "stance": "负面",
+      "metrics": {
+        "reply": 39,
+        "retweet": 93,
+        "like": 308
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 10:06:09 +0000 2026",
+      "text": "Special inspections of F-16 aircraft have been completed, and flight training resumed today.\n#ROCAF https://t.co/UQJTXPlQG7",
+      "translation": "F-16战机的特别检查已完成，飞行训练于今日恢复。#中华民国空军 https://t.co/UQJTXPlQG7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 55,
+        "like": 422
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 01:01:42 +0000 2026",
+      "text": "5 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 4 PRC balloons were detected during this timeframe. #ROCArmedForces have monitored the situation and responded. https://t.co/ir8hC2RbM4",
+      "translation": "截至今日上午6时（北京时间），侦测到5艘解放军海军舰艇及1艘公务船在台湾周边活动。在此期间侦测到4个中国大陆气球。#中华民国国军已监控局势并作出应对。https://t.co/ir8hC2RbM4",
+      "stance": "负面",
+      "metrics": {
+        "reply": 33,
+        "retweet": 93,
+        "like": 238
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 02:20:20 +0000 2026",
+      "text": "(U) 3 sorties of PLA aircraft, 8 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 3 out of 3 sorties crossed the median line and entered Taiwan’s southwestern ADIZ. We have monitored the situation and responded. https://t.co/v3JcxVuHp4",
+      "translation": "（未确认）截至今日上午6时（北京时间），侦测到3架次解放军军机、8艘解放军海军舰艇及1艘公务船在台湾周边活动。其中3架次全部越过海峡中线，进入台湾西南部防空识别区。我方已监控局势并作出应对。https://t.co/v3JcxVuHp4",
+      "stance": "负面",
+      "metrics": {
+        "reply": 45,
+        "retweet": 113,
+        "like": 344
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 12:43:16 +0000 2026",
+      "text": "Minister of National Defense Wellington Koo, on behalf of President @ChingteLai, visited Hualien today to review search and rescue efforts for a missing F-16V pilot and conveyed care and support to the pilot’s family.\n#ROCArmedForces #NeverGiveUpHope https://t.co/C1iTFQCRwO",
+      "translation": "国防部长顾立雄今日代表赖清德总统视察花莲，检视失踪F-16V飞行员的搜救工作，并向飞行员家属传达关怀与支持。#中华民国国军 #永不放弃希望 https://t.co/C1iTFQCRwO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 36,
+        "like": 179
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 01:01:01 +0000 2026",
+      "text": "23 PLA aircraft, 6 PLAN ships and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 19 out of 23 sorties crossed the median line and entered Taiwan’s northern, central, southwestern and eastern ADIZ. We have monitored the situation and responded https://t.co/0mk3Q23oIR",
+      "translation": "截至今日上午6时（北京时间），侦测到23架次解放军军机、6艘解放军海军舰艇及1艘公务船在台湾周边活动。其中19架次越过海峡中线，进入台湾北部、中部、西南部及东部防空识别区。我方已监控局势并作出应对。https://t.co/0mk3Q23oIR",
+      "stance": "负面",
+      "metrics": {
+        "reply": 34,
+        "retweet": 112,
+        "like": 285
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 01:00:00 +0000 2026",
+      "text": "6 PLAN vessels and 1 official ship operating around Taiwan were detected up until 6 a.m. (UTC+8) today. 2 PRC balloons were detected during this timeframe. #ROCArmedForces have monitored the situation and responded. https://t.co/zPRqsyLwpO",
+      "translation": "截至今日上午6时（北京时间），侦测到6艘解放军海军舰艇及1艘公务船在台湾周边活动。在此期间侦测到2个中国大陆气球。#中华民国国军已监控局势并作出应对。https://t.co/zPRqsyLwpO",
+      "stance": "负面",
+      "metrics": {
+        "reply": 30,
+        "retweet": 112,
+        "like": 352
+      }
+    }
+  ]
+}

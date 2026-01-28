@@ -7,16 +7,16 @@ import { ref, onMounted, watch } from 'vue';
 import * as echarts from 'echarts';
 // import type { StanceMatrixItem } from '@/types'; 
 
-interface StanceMatrixItem {
-    [key: string]: any; 
-}
+//interface StanceMatrixItem {
+//    [key: string]: any; 
+//}
 
 const props = defineProps<{ data: any[] }>();
 const chartRef = ref<HTMLElement | null>(null);
 let myChart: echarts.ECharts | null = null;
 
-const hours = ['政治', '军事', '经济 ', '文化']; // Y轴
-const days = ['负面/反华', '中立', '正面/亲华']; // X轴
+const hours = ['政治', '军事', '经济', '文化']; // Y轴
+const days = ['反华', '中立', '亲华']; // X轴
 
 const initChart = () => {
   if (!chartRef.value) return;
@@ -31,7 +31,7 @@ const updateChart = () => {
   const maxVal = props.data.length > 0 
     ? Math.max(...props.data.map((item: any) => item[2])) 
     : 10;
-  const visualMax = maxVal < 5 ? 5 : maxVal;
+  const visualMax = 10;;
 
   const option = {
     tooltip: {

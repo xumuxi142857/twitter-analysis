@@ -1,0 +1,313 @@
+{
+  "id": "profile_marcorubio.json",
+  "_fingerprint": "47cd2526a4bdeb8d803f2f52d129d2c4",
+  "name": "marcorubio",
+  "username": "marcorubio",
+  "category": "media",
+  "daily_count": 1.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、尽责性、开放性，中等宜人性，低神经质",
+      "detail": "外向性高：频繁公开演讲、社交媒体活跃、政治活动参与度高。尽责性强：政策执行坚决、外交立场明确、纪律性强。开放性中等：接受传统保守价值观但有一定政策灵活性。宜人性中等：展现合作姿态但立场强硬。神经质低：情绪稳定，压力下表现冷静。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "意识形态僵化、过度自信、缺乏同理心",
+      "detail": "意识形态僵化：坚守“美国优先”理念，难以接受多元观点。过度自信：高估美国单边行动效果，低估国际复杂性。缺乏同理心：对军事行动人道后果关注不足，强调战略利益。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "现实主义导向、二元对立思维、结果主义",
+      "detail": "现实主义导向：以国家利益为核心，权力政治思维明显。二元对立思维：将国际关系简化为“盟友-对手”框架。结果主义：重视行动成效，过程合法性关注度较低。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖军事手段、社交媒体依赖、团队忠诚压力",
+      "detail": "过度依赖军事手段：优先考虑军事解决方案（如尼日利亚空袭）。社交媒体依赖：通过推特塑造形象，易受舆论波动影响。团队忠诚压力：需展现对特朗普团队的绝对忠诚，限制政策灵活性。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "意识形态绑定、联盟关系依赖、国内政治压力",
+      "detail": "意识形态绑定：与“美国优先”政策深度绑定，调整空间有限。联盟关系依赖：过度依赖以色列等特定盟友。国内政治压力：需迎合保守派选民，外交政策受国内政治制约。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "多线处理能力不足、长期战略缺失、文化理解有限",
+      "detail": "多线处理能力不足：同时处理中东、乌克兰等多区域议题时协调困难。长期战略缺失：关注短期政治收益，缺乏可持续外交规划。文化理解有限：对非西方文化背景国家理解表面化。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "认知闭合度高、批判性思维不足、情感决策倾向",
+      "detail": "认知闭合度高：对新信息接受度低，偏好既定框架。批判性思维不足：对官方叙事质疑有限。情感决策倾向：受“爱国主义”情感驱动，理性分析减弱。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治地位、塑造强硬形象、政策遗产建设",
+      "detail": "巩固政治地位：通过外交行动积累政治资本，为未来政治生涯铺垫。塑造强硬形象：展现“果断领导者”形象以提升公众支持。政策遗产建设：推动“美国优先”政策制度化，确保长期影响力。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国家安全、中东政策、中美关系、国内工业、国际组织",
+      "detail": "国家安全：反恐、军事行动、边境安全。中东政策：以色列关系、也门冲突、伊朗遏制。中美关系：战略竞争、台湾问题、技术封锁。国内工业：制造业回流、经济民族主义。国际组织：批评ICC（国际刑事法院）、改革联合国。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 31 18:47:22 +0000 2025",
+      "text": "RT @StateDept: 2025: The year America First foreign policy DELIVERED. 🇺🇸 https://t.co/YXndFHm75l",
+      "translation": "转发 @StateDept：2025年：美国优先外交政策兑现之年。🇺🇸 https://t.co/YXndFHm75l",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1208,
+        "retweet": 2183,
+        "like": 10436
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 23:03:03 +0000 2025",
+      "text": "RT @WhiteHouse: President of Peace. Results for America. 🇺🇸\n\n🕊️ Ended 8 wars\n💰 NATO 5% spending\n❌ USAID reformed\n🤝 Historic agreements to s…",
+      "translation": "转发 @WhiteHouse：和平总统。为美国带来成果。🇺🇸 🕊️ 结束了8场战争 💰 北约5%军费开支 ❌ 改革了美国国际开发署 🤝 达成历史性协议以...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4830,
+        "retweet": 7798,
+        "like": 37104
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 01:10:15 +0000 2025",
+      "text": "It is obvious to most people that Vanity Fair deliberately manipulated pictures and reported statements without context to try and make the WH team look bad \n\nAnd there is nobody more loyal or committed to President Trump’s mission than Susie Wiles. She is one of the main reasons",
+      "translation": "对大多数人来说显而易见的是，《名利场》故意操纵图片并断章取义地报道声明，试图让白宫团队显得糟糕。没有人比苏西·怀尔斯更忠诚或更致力于特朗普总统的使命。她是主要原因之一。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4832,
+        "retweet": 2879,
+        "like": 24470
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 00:34:10 +0000 2025",
+      "text": "RT @StateDept: .@SecRubio: “This is American industrial power returning … the ability to make things again in our country has been critical…",
+      "translation": "转发 @StateDept：.@SecRubio：“这是美国工业实力的回归……在我们国家重新制造东西的能力至关重要...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 373,
+        "retweet": 1234,
+        "like": 6133
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:54:31 +0000 2025",
+      "text": "RT @FrozenFrequency: Merry Christmas! https://t.co/A7wxAo4qao",
+      "translation": "转发 @FrozenFrequency：圣诞快乐！https://t.co/A7wxAo4qao",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 66,
+        "like": 563
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:36:48 +0000 2025",
+      "text": "RT @PeteHegseth: https://t.co/24ZsEQ6mqt",
+      "translation": "转发 @PeteHegseth：https://t.co/24ZsEQ6mqt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6383,
+        "retweet": 21925,
+        "like": 139224
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 01:54:57 +0000 2025",
+      "text": "RT @GBNEWS: ‘To censor Americans in America is a deal breaker.’\n\nUS Under Secretary of State for Public Diplomacy, Sarah Rogers, blasts the…",
+      "translation": "转发 @GBNEWS：“在美国审查美国人是不可接受的。” 美国负责公共外交的副国务卿莎拉·罗杰斯猛烈抨击...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 253,
+        "retweet": 870,
+        "like": 4571
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 17:17:57 +0000 2025",
+      "text": "RT @SecRubio: Today, the Trump Administration is sanctioning two International Criminal Court judges directly engaged in politicized and il…",
+      "translation": "转发 @SecRubio：今天，特朗普政府正在制裁两名直接参与政治化和非法起诉美国人员的国际刑事法院法官...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6881,
+        "retweet": 5031,
+        "like": 27006
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 03:22:47 +0000 2025",
+      "text": "#NewProfilePic https://t.co/EEhMfxNUB6",
+      "translation": "#新头像 https://t.co/EEhMfxNUB6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7183,
+        "retweet": 3794,
+        "like": 76570
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 18:42:48 +0000 2026",
+      "text": "RT @RapidResponse47: .@SecRubio: \"It is not easy to land a helicopter in the middle of the largest military base... kick down his door, gra…",
+      "translation": "转发 @RapidResponse47：.@SecRubio：“在最大的军事基地中间降落直升机并不容易……踢开他的门，抓住...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1637,
+        "retweet": 7090,
+        "like": 36613
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 20:40:07 +0000 2026",
+      "text": "RT @SecRubio: I hope people now understand. The President of the United States is not a game player. When he tells you he's going to do som…",
+      "translation": "转发 @SecRubio：我希望人们现在能理解。美国总统不是游戏玩家。当他告诉你他要做某事时，他是认真的。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30123,
+        "retweet": 40111,
+        "like": 245498
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 10:53:24 +0000 2026",
+      "text": "https://t.co/4e153jBOA3",
+      "translation": "https://t.co/4e153jBOA3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23922,
+        "retweet": 63945,
+        "like": 286383
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 09:42:08 +0000 2026",
+      "text": "RT @PressSec: STATEMENT FROM PRESIDENT DONALD J. TRUMP https://t.co/nHDqtsqRFh",
+      "translation": "转发 @PressSec：唐纳德·J·特朗普总统声明 https://t.co/nHDqtsqRFh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12378,
+        "retweet": 28908,
+        "like": 143971
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 20:54:34 +0000 2025",
+      "text": "RT @SecRubio: Met with @IsraeliPM Netanyahu to discuss regional security, energy cooperation, and our shared commitment to combatting antis…",
+      "translation": "转发 @SecRubio：与@IsraeliPM 内塔尼亚胡会面，讨论地区安全、能源合作以及我们共同打击反犹太主义的承诺...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3385,
+        "retweet": 1575,
+        "like": 12558
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 20:54:20 +0000 2025",
+      "text": "RT @SecRubio: The United States remains the most generous nation in the world for lifesaving humanitarian assistance—but under @POTUS’s lea…",
+      "translation": "转发 @SecRubio：美国仍然是世界上提供拯救生命人道主义援助最慷慨的国家——但在@POTUS的领导下...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4166,
+        "retweet": 4543,
+        "like": 24438
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:08:37 +0000 2025",
+      "text": "RT @SEPeaceMissions: Over the last two days in Florida, the Russian Special Envoy Kirill Dmitriev held productive and constructive meetings…",
+      "translation": "转发 @SEPeaceMissions：过去两天在佛罗里达，俄罗斯特使基里尔·德米特里耶夫与美国代表举行了富有成效和建设性的会议...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2907,
+        "retweet": 1294,
+        "like": 6406
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:05:57 +0000 2025",
+      "text": "RT @SEPeaceMissions: Over the last three days in Florida, the Ukrainian delegation held a series of productive and constructive meetings wi…",
+      "translation": "转发 @SEPeaceMissions：过去三天在佛罗里达，乌克兰代表团与美国代表举行了一系列富有成效和建设性的会议...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 689,
+        "retweet": 704,
+        "like": 3894
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 22:04:37 +0000 2025",
+      "text": "RT @SecRubio: The United States is concerned by recent events in southeastern Yemen. We urge restraint and continued diplomacy, with a view…",
+      "translation": "转发 @SecRubio：美国对也门东南部最近发生的事件表示关切。我们敦促克制并继续外交努力，以期...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1166,
+        "retweet": 1743,
+        "like": 10939
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 00:43:17 +0000 2025",
+      "text": "RT @FoxNews: BREAKING: President Trump says the U.S. launched airstrikes in Nigeria on Christmas night targeting ISIS militants he accused…",
+      "translation": "转发 @FoxNews：突发：特朗普总统表示，美国在圣诞节夜间对尼日利亚发动了空袭，目标是据称策划了...的ISIS武装分子。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1086,
+        "retweet": 4985,
+        "like": 21305
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 00:42:33 +0000 2025",
+      "text": "RT @WhiteHouse: \"Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terro…",
+      "translation": "转发 @WhiteHouse：“今晚，根据我作为总司令的指示，美国对ISIS恐怖分子发动了强大而致命的打击...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6278,
+        "retweet": 16811,
+        "like": 76056
+      }
+    }
+  ]
+}

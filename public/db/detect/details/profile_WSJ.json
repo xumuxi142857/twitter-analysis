@@ -1,0 +1,313 @@
+{
+  "id": "profile_WSJ.json",
+  "_fingerprint": "515e0a887201667e508d6610bf0b8f7c",
+  "name": "WSJ",
+  "username": "WSJ",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等外倾性、中等宜人性、中等神经质",
+      "detail": "基于言论样本分析，WSJ表现出高度尽责性，体现在对政策细节、法律程序、商业数据的精确报道；中等开放性，既报道传统政治经济话题，也涉及文化、科技等多元领域；中等外倾性，通过社交媒体积极传播信息但保持专业距离；中等宜人性，在报道中平衡多方观点但时有尖锐批评；中等神经质，对危机事件反应迅速但情绪表达克制。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "精英主义倾向、机构权威依赖、美国中心视角",
+      "detail": "样本显示：1）精英主义倾向，常引用华尔街、政府官员、学术机构观点，较少直接呈现普通民众视角；2）机构权威依赖，偏好引用官方声明、研究报告、法律文件作为信息源；3）美国中心视角，国际报道多从美国利益出发，如贸易争端、军事部署等话题。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "事实驱动、制度框架分析、风险敏感",
+      "detail": "认知模式特征：1）事实驱动，注重数据、时间、地点等具体信息；2）制度框架分析，习惯通过法律、政策、经济制度等结构性因素解释事件；3）风险敏感，特别关注政策变化对市场、政治稳定的潜在影响，如医疗保险费率、关税调整等报道。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖官方信源、社交媒体传播压力、商业利益关联",
+      "detail": "行为脆弱性：1）信源依赖，样本中大量引用政府声明、企业报告，可能忽略非官方信息；2）传播压力，需在社交媒体快速发布，可能导致深度分析不足；3）商业关联，作为商业媒体需关注读者兴趣和广告主关切，可能影响选题平衡。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "亲建制倾向、市场自由主义偏好、两党政治框架局限",
+      "detail": "立场脆弱性：1）亲建制倾向，倾向于维护现有政治经济制度；2）市场自由主义偏好，常从商业效率角度评价政策；3）两党框架，将复杂议题简化为共和党-民主党对立，如移民、医疗改革报道。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "跨文化理解局限、科技议题深度不足、长期趋势分析薄弱",
+      "detail": "能力局限性：1）跨文化理解，国际报道如中国、韩国话题缺乏当地视角深度；2）科技议题，社交媒体影响等报道停留在表面现象；3）趋势分析，注重即时事件报道，对结构性变化分析不足。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "确定性偏好、线性因果思维、危机叙事强化",
+      "detail": "心智模式弱点：1）确定性偏好，追求明确结论，可能简化复杂问题；2）线性思维，常呈现单一因果解释；3）危机叙事，倾向使用“冲突”“危机”“分裂”等强化性语言。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护商业媒体权威、影响政策辩论、塑造精英共识",
+      "detail": "潜在意图分析：1）权威维护，通过独家报道、深度分析巩固媒体地位；2）政策影响，通过报道框架引导公众对医疗、贸易、移民等政策的理解；3）共识塑造，在精英读者中建立共同认知基础。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "美国内政、国际经济、商业金融、社会文化",
+      "detail": "核心报道领域：1）美国内政，包括医疗政策、移民执法、政治斗争；2）国际经济，关注贸易争端、市场反应；3）商业金融，报道企业动态、股市影响；4）社会文化，涉及科技影响、文化事件等。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      2,
+      0,
+      5
+    ],
+    [
+      3,
+      1,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 23:00:04 +0000 2026",
+      "text": "The Trump administration is proposing to hold steady the rates that Medicare pays health insurers, falling far short of what the companies and Wall Street were looking for. https://t.co/VHb31gaukD",
+      "translation": "特朗普政府提议维持医疗保险支付给健康保险公司的费率不变，远低于这些公司和华尔街的预期。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 14,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:53:03 +0000 2026",
+      "text": "The U.S. will increase tariffs on South Korea from 15% to 25%, President Trump posted on Monday, saying Seoul had not moved fast enough to implement a trade pact that the two nations arrived at last year. https://t.co/5CwLDtoSl4",
+      "translation": "美国总统特朗普周一发帖称，美国将对韩国的关税从15%提高到25%，并表示首尔在实施两国去年达成的贸易协定方面行动不够迅速。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 22,
+        "retweet": 19,
+        "like": 40
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:41:40 +0000 2026",
+      "text": "An exhibition at the University of Oxford’s Weston Library uses a wealth of personal possessions, manuscripts and more to examine the writer’s career and the line of autobiography that ran through his work. https://t.co/dE9YHhJXCY",
+      "translation": "牛津大学韦斯顿图书馆的一个展览利用大量个人物品、手稿等，审视了这位作家的职业生涯及其作品中贯穿的自传线索。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:37:39 +0000 2026",
+      "text": "The 10-CD set ‘Classic V-Disc Big Band Jazz Sessions’ collects more than 200 tracks recorded for American soldiers during the war by nearly every major ensemble of the era, including those of Glenn Miller, Stan Kenton and Count Basie. https://t.co/Y0zhEczbKb",
+      "translation": "10张CD套装《经典V-Disc大乐队爵士乐录音集》收录了200多首为战时美国士兵录制的曲目，由那个时代几乎所有的主要乐团演奏，包括格伦·米勒、斯坦·肯顿和康特·贝西的乐团。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 4,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:18:17 +0000 2026",
+      "text": "From @WSJopinion: California wealth tax backers ignore Proposition 13 lessons. Faced with an onerous levy on assets, taxpayers will vote against it at the ballot box or with their feet, write Jon Hartley and Arthur Laffer.\nhttps://t.co/yberhQckf4",
+      "translation": "来自@WSJopinion：加州财富税支持者忽视了第13号提案的教训。面对繁重的资产征税，纳税人将在投票箱或用脚投票来反对它，乔恩·哈特利和阿瑟·拉弗写道。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 4,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:00:30 +0000 2026",
+      "text": "The formula for WD-40 is such a well-kept secret, even the CEO has to sign an NDA https://t.co/zxtb3bx3Ph",
+      "translation": "WD-40的配方是一个严守的秘密，甚至连首席执行官都必须签署保密协议。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 4,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:44:32 +0000 2026",
+      "text": "The aircraft carrier USS Abraham Lincoln and its accompanying warships have entered the Middle East, U.S. officials said, giving President Trump additional offensive and defense capabilities should he choose to move forward with an attack on Iran https://t.co/1TD1xKulPY",
+      "translation": "美国官员称，航空母舰亚伯拉罕·林肯号及其伴随的军舰已进入中东，为特朗普总统提供了额外的进攻和防御能力，以备他选择对伊朗发动攻击。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 54,
+        "retweet": 79,
+        "like": 296
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:33:33 +0000 2026",
+      "text": "Breaking: Border Patrol Commander Gregory Bovino will imminently leave Minnesota along with some of his agents. https://t.co/SQ3VHJE0yc",
+      "translation": "突发：边境巡逻队指挥官格雷戈里·博维诺将立即离开明尼苏达州，并带走部分下属。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 34,
+        "retweet": 41,
+        "like": 123
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:22:38 +0000 2026",
+      "text": "A Los Angeles jury is poised to consider a central question in the debate over social media and teenage welfare: Are platforms such as Instagram and TikTok causing mental-health disorders? https://t.co/VhQ1s6fLhl",
+      "translation": "洛杉矶的一个陪审团即将考虑社交媒体与青少年福祉辩论中的一个核心问题：Instagram和TikTok等平台是否正在导致心理健康问题？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 5,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:06:11 +0000 2026",
+      "text": "The proposal for a .09% average rate increase is less than what Wall Street expected and will probably hurt health-insurer stocks. https://t.co/5bHhHW8kAh",
+      "translation": "平均费率上调0.09%的提议低于华尔街的预期，并可能损害健康保险公司的股票。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 6,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:45:49 +0000 2026",
+      "text": "Brian Niccol plowed millions of dollars into improving customers’ Starbucks experience in his first year as CEO with a focus on barista training, and he isn’t done yet https://t.co/uj1VkfKGEf",
+      "translation": "布莱恩·尼科尔在担任星巴克首席执行官的第一年投入数百万美元改善顾客体验，重点是咖啡师培训，而且他尚未停止。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 3,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:31:08 +0000 2026",
+      "text": "More than half of House Democrats have now signed onto an effort to impeach Department of Homeland Security Secretary Kristi Noem, as fallout grows from the shooting in Minneapolis. \n\nFollow our live updates. https://t.co/JVEPaT9XFy",
+      "translation": "超过半数的众议院民主党人现已签署一项弹劾国土安全部部长克里斯蒂·诺姆的努力，明尼阿波利斯枪击事件的余波正在扩大。关注我们的实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 55,
+        "retweet": 41,
+        "like": 124
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:15:06 +0000 2026",
+      "text": "President Trump said he had a \"very good call\" with Minnesota Gov. Tim Walz, a change in tone as the White House seeks to de-escalate turmoil in the state.\n\nFollow our live updates. https://t.co/bIZWT4gA0a",
+      "translation": "特朗普总统表示，他与明尼苏达州州长蒂姆·沃尔兹进行了一次“非常好的通话”，随着白宫寻求缓和该州的动荡局势，语气有所改变。关注我们的实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 10,
+        "like": 38
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:02:01 +0000 2026",
+      "text": "From @WSJopinion: Delcy Rodríguez is evil and manipulative and so is her brother Jorge Rodríguez, president of the regime-controlled National Assembly. To frame her as a U.S. ally is foolish. She can’t be allowed to stick around, writes @MaryAnastasiaOG.\nhttps://t.co/XWtFqjNq5K",
+      "translation": "来自@WSJopinion：德尔西·罗德里格斯邪恶且善于操纵，她的兄弟豪尔赫·罗德里格斯，即政权控制的国民议会议长，也是如此。将她描绘成美国的盟友是愚蠢的。不能允许她继续存在，@MaryAnastasiaOG写道。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 79,
+        "retweet": 530,
+        "like": 1189
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:47:39 +0000 2026",
+      "text": "Heard on the Street: Falling resale values show that even the makers of the world’s most popular luxury goods are feeling a slowdown. 🔗 https://t.co/YquJ7MwYgc https://t.co/ypZspwnuva",
+      "translation": "街头听闻：转售价值下降表明，即使是世界上最受欢迎的奢侈品的制造商也感受到了经济放缓。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 18,
+        "like": 63
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:32:43 +0000 2026",
+      "text": "From @WSJopinion: The shooting of Alex Pretti, as he lay on the ground surrounded by ICE agents, is the worst incident to date in what is becoming a moral and political debacle for the Trump Presidency\nhttps://t.co/l5E3cYtxwU",
+      "translation": "来自@WSJopinion：亚历克斯·普雷蒂躺在地上被ICE特工包围时遭枪击，这是迄今为止最严重的事件，正成为特朗普总统任期内的一个道德和政治灾难。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 83,
+        "retweet": 40,
+        "like": 168
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:17:41 +0000 2026",
+      "text": "Small businesses along Minneapolis’s iconic Eat Street are struggling to recover after the fatal shooting of Alex Pretti this weekend https://t.co/73FJXnJLmF",
+      "translation": "明尼阿波利斯标志性的“美食街”沿线的小企业在本周末亚历克斯·普雷蒂被枪击身亡后，正艰难地恢复。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 22,
+        "retweet": 9,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:58:35 +0000 2026",
+      "text": "From @WSJopinion: The Trump administration’s assault on Minnesota long ago stopped being a matter of immigration enforcement. It is a campaign of organized brutality against the people of our state, writes @GovTimWalz.\nhttps://t.co/OgMLOxgGpw",
+      "translation": "来自@WSJopinion：特朗普政府对明尼苏达州的攻击早已不再是移民执法问题。这是对我们州人民的有组织的暴行运动，@GovTimWalz写道。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 117,
+        "retweet": 56,
+        "like": 158
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:40:27 +0000 2026",
+      "text": "China’s senior-most general is accused of leaking information about the country’s nuclear-weapons program to the U.S. and accepting bribes for official acts.  🔗: https://t.co/wCZHxoPIqz https://t.co/NvmxPWhJf1",
+      "translation": "中国最高级别的将军被指控向美国泄露该国核武器计划的信息，并因公务行为收受贿赂。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 59,
+        "retweet": 88,
+        "like": 301
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:25:10 +0000 2026",
+      "text": "Republican unity over President Trump’s immigration tactics has started to splinter. And Trump himself is even starting to hedge.\n\nBut two of his top advisers have dug in, writes WSJ’s Damian Paletta. 🔗: https://t.co/7Kj12ggml9 https://t.co/oJ9FlHGtvX",
+      "translation": "共和党在特朗普总统移民策略上的团结已开始破裂。特朗普本人甚至开始有所保留。但他的两位高级顾问却坚持己见，《华尔街日报》的达米安·帕莱塔写道。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 105,
+        "retweet": 117,
+        "like": 360
+      }
+    }
+  ]
+}

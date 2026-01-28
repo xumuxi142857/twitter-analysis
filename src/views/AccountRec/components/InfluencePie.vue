@@ -21,7 +21,7 @@ const updateChart = () => {
   if (!myChart || !props.data) return;
 
   const option = {
-    tooltip: { trigger: 'item' },
+    tooltip: { trigger: 'item', formatter: '{b}: {d}%'},
     legend: { bottom: '0%', left: 'center' },
     color: ['#f87171', '#fbbf24', '#60a5fa'], // 红(亲情), 黄(同伴), 蓝(权威)
     series: [
@@ -37,7 +37,7 @@ const updateChart = () => {
         },
         label: { show: false, position: 'center' },
         emphasis: {
-          label: { show: true, fontSize: 20, fontWeight: 'bold' }
+          label: { show: true, fontSize: 20, fontWeight: 'bold',formatter: '{d}%' }
         },
         labelLine: { show: false },
         data: props.data

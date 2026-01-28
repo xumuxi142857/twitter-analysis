@@ -1,0 +1,313 @@
+{
+  "id": "profile_TrillanesSonny.json",
+  "_fingerprint": "551beb45c91bfe5a5cba7c43037879b8",
+  "name": "TrillanesSonny",
+  "username": "TrillanesSonny",
+  "category": "media",
+  "daily_count": 0.3,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质",
+      "detail": "外向性高：频繁公开演讲、媒体露面、社交媒体活跃，表现出强烈的表达欲和社交需求。尽责性高：持续关注腐败、司法等议题，表现出强烈的责任感和系统性行动。开放性中等：关注政治法律议题但未表现出广泛的文化或创新兴趣。宜人性低：言论对抗性强，频繁指责政治对手，缺乏合作姿态。神经质中等：情绪表达强烈但未失控，在压力下仍能保持行动力。"
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "对抗性人格倾向、自我正义感过强、缺乏政治妥协意愿",
+      "detail": "对抗性人格：言论中频繁使用指责性语言（如“pag-lolokohin”欺骗我们），将政治对手妖魔化。自我正义感：以“正义代言人”自居，缺乏对复杂政治现实的多角度理解。缺乏妥协：言论显示非黑即白的思维模式，难以接受中间立场或协商解决。"
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "阴谋论倾向、二元对立思维、受害者叙事",
+      "detail": "阴谋论倾向：倾向于将政治事件解释为有组织的腐败或阴谋（如家族商业与政府项目关联）。二元对立思维：将政治格局简化为“正义vs腐败”、“反对派vs当权派”的对立框架。受害者叙事：强调反对派受压迫，将自己和盟友塑造为体制受害者。"
+    },
+    {
+      "dimension": "4. 行为层面认知脆弱点",
+      "summary": "过度依赖公开对抗、社交媒体依赖、证据链不完整",
+      "detail": "公开对抗依赖：倾向于通过公开指控而非幕后协商解决问题，易引发法律风险。社交媒体依赖：大量使用社交媒体传播信息，易受虚假信息影响且缺乏深度分析。证据链问题：指控常基于关联性而非直接证据（如家族商业与政府项目），法律基础薄弱。"
+    },
+    {
+      "dimension": "5. 立场层面认知脆弱点",
+      "summary": "反杜特尔特阵营固化、司法国际化依赖、地方政治基础薄弱",
+      "detail": "反杜特尔特固化：身份与反杜特尔特阵营深度绑定，难以适应政治格局变化。ICC依赖：将国际刑事法院（ICC）视为主要追责渠道，忽视国内司法路径。地方基础弱：虽关注地方议题（如Caloocan洪水项目），但缺乏持续的地方政治深耕。"
+    },
+    {
+      "dimension": "6. 能力层面认知脆弱点",
+      "summary": "法律执行能力不足、联盟构建有限、资源动员依赖外部",
+      "detail": "法律执行弱：虽提出多项指控（如掠夺投诉），但缺乏推动司法程序的实际能力。联盟有限：合作对象主要为媒体人和少数政治家，未建立广泛政治联盟。资源依赖：依赖媒体曝光和国际机构支持，缺乏独立政治资源。"
+    },
+    {
+      "dimension": "7. 心智层面认知脆弱点",
+      "summary": "情绪驱动决策、长期战略缺失、挫折承受力不确定",
+      "detail": "情绪驱动：言论充满道德义愤，决策可能受情绪而非理性分析影响。战略缺失：行动表现为反应性而非系统性战略，如针对具体事件而非长期规划。挫折承受：若ICC等国际努力失败，可能面临心理崩溃或激进转向。"
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "政治复兴企图、道德权威建立、国际舞台定位",
+      "detail": "政治复兴：通过反腐败叙事重建个人政治影响力，可能瞄准更高职位。道德权威：塑造“正义斗士”形象，积累道德资本而非政策成就。国际定位：利用国际议题（如ICC）提升国际知名度，规避国内政治限制。"
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "反腐败、司法问责、地方治理、政治对抗",
+      "detail": "反腐败：核心议题，聚焦杜特尔特阵营、Bong Go等的腐败指控。司法问责：强调ICC和国内司法机构对前官员的追责。地方治理：偶尔涉及地方项目（如Caloocan洪水控制），但非主要焦点。政治对抗：持续攻击政治对手，维护反对派立场。"
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      1,
+      0,
+      2
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 60
+    },
+    {
+      "name": "同伴",
+      "value": 35
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Oct 29 01:03:12 +0000 2025",
+      "text": "👇\nhttps://t.co/SmpIvVFM77",
+      "translation": "👇 https://t.co/SmpIvVFM77",
+      "stance": "无关",
+      "metrics": {
+        "reply": 38,
+        "retweet": 59,
+        "like": 297
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 03:52:31 +0000 2025",
+      "text": "Panoorin po ninyo ang aming kwentuhan ni\nByahe ni Koy TV ukol sa iba’t ibang isyu na hinaharap ng ating bansa:\n\nhttps://t.co/O9QVR3VYaC",
+      "translation": "请观看我与Byahe ni Koy TV关于我们国家面临的各种问题的讨论：https://t.co/O9QVR3VYaC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 30,
+        "like": 212
+      }
+    },
+    {
+      "created_at": "Wed Oct 08 00:41:55 +0000 2025",
+      "text": "👇",
+      "translation": "👇",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 350,
+        "like": 1697
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 23:24:53 +0000 2025",
+      "text": "Ang mga sumusunod na retired/active na PNP officers ay sangkot sa ICC case:\n- Albayalde\n- Caramat\n- Matta\n- Leonardo\n\nSi Garma naman ay tinanggap na bilang testigo ng ICC kaya tanggal na sya sa kaso.",
+      "translation": "以下退休/在职的菲律宾国家警察官员涉及国际刑事法院案件：- Albayalde - Caramat - Matta - Leonardo。Garma已被国际刑事法院接受为证人，因此已从案件中移除。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 58,
+        "retweet": 322,
+        "like": 1791
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 02:42:55 +0000 2025",
+      "text": "Usapang destab, ICC interim release decision with @IanEsguerra 👇 \n\nhttps://t.co/BhPBo7S0OS",
+      "translation": "与@IanEsguerra讨论破坏稳定、国际刑事法院临时释放决定👇 https://t.co/BhPBo7S0OS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 37,
+        "like": 209
+      }
+    },
+    {
+      "created_at": "Tue Oct 21 04:50:53 +0000 2025",
+      "text": "Ngayong araw na ito, ako po ay nagsampa ng kasong plunder sa Ombudsman laban kina duterte at Bong Go dahil sa maanomalyang Php7 bilyong infrastructure projects na inaward sa CLTG at Alfrego Builders na pagmamay-ari ng tatay at kapatid ni Bong Go. Ilan sa mga kontratang ito ay https://t.co/adAMem0EYj",
+      "translation": "今天，我已向监察专员提交了针对杜特尔特和邦戈的掠夺案，原因是涉及70亿比索基础设施项目的异常情况，这些项目授予了CLTG和Alfrego Builders，这两家公司由邦戈的父亲和兄弟所有。其中一些合同是 https://t.co/adAMem0EYj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 395,
+        "retweet": 736,
+        "like": 4463
+      }
+    },
+    {
+      "created_at": "Thu Oct 30 02:43:09 +0000 2025",
+      "text": "Insiders Podcast w/ Sec. @dawende and Cong. @barrygutierrez3. Please watch here 👇\nhttps://t.co/rNreRFr8Ao",
+      "translation": "Insiders Podcast与Sec. @dawende和Cong. @barrygutierrez3。请在此观看👇 https://t.co/rNreRFr8Ao",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30,
+        "retweet": 38,
+        "like": 224
+      }
+    },
+    {
+      "created_at": "Thu Oct 16 07:12:22 +0000 2025",
+      "text": "Sabi ni Bong Go, wala raw syang kinalaman sa mga negosyo ng pamilya nya. Alam mo, hindi makakakuha ng P7B na proyekto ang tatay at kapatid mo kung hindi dahil sa impluwensya ninyo ni duterte. Wag mo nga kaming paglolokohin!",
+      "translation": "邦戈说，他与家族生意无关。你知道，如果不是因为你和杜特尔特的影响力，你的父亲和兄弟不可能获得70亿比索的项目。别骗我们了！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 243,
+        "retweet": 998,
+        "like": 5424
+      }
+    },
+    {
+      "created_at": "Thu Oct 16 06:47:35 +0000 2025",
+      "text": "Usapang destab with @IanEsguerra. Please watch here: https://t.co/L6LTS8i0FK",
+      "translation": "与@IanEsguerra讨论破坏稳定。请在此观看：https://t.co/L6LTS8i0FK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 32,
+        "like": 171
+      }
+    },
+    {
+      "created_at": "Thu Oct 09 11:20:30 +0000 2025",
+      "text": "👇\n\nhttps://t.co/n8OURZSHPu",
+      "translation": "👇 https://t.co/n8OURZSHPu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 20,
+        "like": 161
+      }
+    },
+    {
+      "created_at": "Sat Oct 25 08:51:24 +0000 2025",
+      "text": "👇\n\nhttps://t.co/1YxWIcDZF2",
+      "translation": "👇 https://t.co/1YxWIcDZF2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 37,
+        "retweet": 46,
+        "like": 216
+      }
+    },
+    {
+      "created_at": "Sat Nov 29 02:21:02 +0000 2025",
+      "text": "Salamat, ICC! https://t.co/yFPP6Ayd7k",
+      "translation": "谢谢，国际刑事法院！https://t.co/yFPP6Ayd7k",
+      "stance": "无关",
+      "metrics": {
+        "reply": 136,
+        "retweet": 416,
+        "like": 3615
+      }
+    },
+    {
+      "created_at": "Mon Oct 20 10:09:54 +0000 2025",
+      "text": "After 5 terms as mayor ng mga Malapitan, congratulations at ginawa ninyong opisyal na pinakamahirap na lungsod ang Caloocan. Tuloy lang ang ligaya! https://t.co/XytvBlnDoV",
+      "translation": "在Malapitan家族担任市长五届后，恭喜你们正式将Caloocan市定为最贫困的城市。继续享受快乐吧！https://t.co/XytvBlnDoV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 313,
+        "retweet": 563,
+        "like": 3724
+      }
+    },
+    {
+      "created_at": "Mon Oct 13 10:51:24 +0000 2025",
+      "text": "Sa mga taga Caloocan, kami po ay nagka-conduct ng investigation ukol sa mga ghost flood control projects sa ating lungsod. Kaya naman pala sobra ang baha satin. Anyway, balitaan ko na lang kayo pag nafile ko na sa Ombudsman.",
+      "translation": "致Caloocan的居民，我们已对城市中的幽灵防洪项目进行了调查。难怪我们这里洪水如此严重。无论如何，等我向监察专员提交后，我会通知你们。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 185,
+        "retweet": 357,
+        "like": 2741
+      }
+    },
+    {
+      "created_at": "Fri Oct 24 07:22:54 +0000 2025",
+      "text": "Ngayong araw, nabigyan ko  na ang ICI ng kopya ng aking plunder complaint laban kay Bong Go. Hiniling ko rin sa ICI na ipatawag at imbestigahan si Bong Go kasama ang tatay at kapatid nya. https://t.co/kfhKoaXC1x",
+      "translation": "今天，我已向国际刑事法院提交了我针对邦戈的掠夺投诉副本。我还请求国际刑事法院传唤并调查邦戈及其父亲和兄弟。https://t.co/kfhKoaXC1x",
+      "stance": "无关",
+      "metrics": {
+        "reply": 242,
+        "retweet": 487,
+        "like": 2738
+      }
+    },
+    {
+      "created_at": "Fri Oct 17 14:21:16 +0000 2025",
+      "text": "6 years nyong ginamit ang justice system para ipitin ang oposisyon. Ngayon pa lang naitutuwid ang mga binaluktot nyo. Kaya tahan na Pulong at asikasuhin mo na lang yung mga sabit mo sa 51 bilyon pesos na projects sa distrito mo.",
+      "translation": "你们六年来利用司法系统打压反对派。现在才开始纠正你们扭曲的事情。所以，Pulong，别哭了，还是处理你涉及510亿比索项目的麻烦吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 217,
+        "retweet": 657,
+        "like": 3610
+      }
+    },
+    {
+      "created_at": "Fri Oct 17 05:08:31 +0000 2025",
+      "text": "👇\nhttps://t.co/vhkUaxukDl",
+      "translation": "👇 https://t.co/vhkUaxukDl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 62,
+        "like": 220
+      }
+    },
+    {
+      "created_at": "Fri Oct 10 11:19:06 +0000 2025",
+      "text": "Ngayon na tuluyang nareject na ang interim release ni duterte, mapapanatag na ang loob ng mga pamilya ng mga EJK victims at lahat ng mga naghahangad na mapanagot sya sa kanyang mga krimen.",
+      "translation": "现在杜特尔特的临时释放已被彻底拒绝，法外处决受害者的家属以及所有希望他为其罪行负责的人可以安心了。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 229,
+        "retweet": 630,
+        "like": 4626
+      }
+    },
+    {
+      "created_at": "Fri Oct 03 09:15:53 +0000 2025",
+      "text": "Next na sina Bato at Bong Go sa ICC!\n\nPlease watch: \nhttps://t.co/OxBGCzyM52",
+      "translation": "接下来是Bato和邦戈在国际刑事法院！请观看：https://t.co/OxBGCzyM52",
+      "stance": "无关",
+      "metrics": {
+        "reply": 191,
+        "retweet": 379,
+        "like": 2395
+      }
+    },
+    {
+      "created_at": "Fri Nov 28 10:33:43 +0000 2025",
+      "text": "Ngayon na natuldukan na yang interim release na yan, sana ay wag nang magpaasa ang leaders ng duterte camp sa mga supporters nila. Di na makakalaya si duterte bilang kabayaran sa libu-libong Pilipinong pinapatay nya.",
+      "translation": "既然那个临时释放问题已经了结，希望杜特尔特阵营的领导人不要再给他们的支持者虚假希望。杜特尔特无法获释，这是为他杀害数千菲律宾人付出的代价。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 245,
+        "retweet": 911,
+        "like": 5334
+      }
+    }
+  ]
+}

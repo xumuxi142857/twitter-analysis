@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ================= 配置区域 =================
 # 📅 指定日期
-TARGET_DATE = "2026-01-25"
+TARGET_DATE = "2026-01-21"
 
 API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
@@ -108,7 +108,7 @@ def analyze_user_profile(username, raw_tweets):
         return (item.get('retweet_count', 0)*2) + item.get('reply_count', 0) + (item.get('favorite_count', 0)*0.5)
     
     sorted_tweets = sorted(raw_tweets, key=calculate_impact, reverse=True)
-    top_tweets = sorted_tweets[:15]
+    top_tweets = sorted_tweets[:10]
     
     # 2. 构建输入
     input_list = []
@@ -128,13 +128,17 @@ def analyze_user_profile(username, raw_tweets):
     任务：
     1. 【画像生成】
        - info: 极其精简的情报简述，控制在20字以内，不要换行。
-       - stance_matrix: 对中立场矩阵 [[x(立场0-2), y(维度0-3), value(0-10)]...]。
+       - stance_matrix: 立场热力图数据，格式为 [[x, y, value], ...] 的二维数组。
+         **坐标定义严格遵守以下标准，不要搞错：**
+         * x轴 (立场): 0=反华(Negative), 1=中立(Neutral), 2=亲华(Positive)
+         * y轴 (领域): 0=政治(Political), 1=军事(Military), 2=经济(Economic), 3=文化(Cultural)
+         * value (强度): 0-10 的整数
        - influence_type: 亲情/同伴/权威 三类占比。
     
     2. 【推文研判】
        - 对每一条推文进行针对中国大陆的立场判断（如果是反华则为negative） (positive/neutral/negative)。
        - **必须**提供该推文的中文翻译 (translation)。
-       - 如果用户发布色情内容，将该用户移除列表
+       - 安全审查：如果用户发布色情内容，或者数据无法分析，请务必将 info 字段设置为字符串 "INVALID_USER"，不要输出其他解释。
     
     输出 JSON 格式（严禁Markdown）：
     {{
@@ -161,6 +165,25 @@ def analyze_user_profile(username, raw_tweets):
             content = content.replace('```json', '').replace('```', '').strip()
             res_json = json.loads(content)
             
+            info_text = res_json.get("info", "")
+            
+            # 1. 检查 Prompt 约定的特定标识
+            if "INVALID_USER" in info_text:
+                print(f"🛑 拦截无效用户 [{username}]: LLM 判定为无效/违规")
+                return None
+            
+            # 2. 关键词兜底（防止 LLM 不听话，没输出 INVALID_USER 而是输出了人话）
+            block_keywords = ["色情", "无法生成", "移除", "adult", "porn","数据异常","异常"]
+            if any(k in info_text for k in block_keywords):
+                 print(f"🛑 拦截敏感用户 [{username}]: 触发关键词过滤")
+                 return None
+                 
+            # 3. 检查矩阵数据是否为空
+            if not res_json.get("stance_matrix"):
+                print(f"⚠️ 拦截空数据用户 [{username}]: 矩阵数据缺失")
+                return None
+            # =======================================================
+            
             # 3. 数据回填 (包含翻译)
             enriched_tweets = []
             analysis_map = {item['id']: item for item in res_json.get('tweet_analysis', [])}
@@ -168,7 +191,7 @@ def analyze_user_profile(username, raw_tweets):
             for idx, tweet in enumerate(top_tweets):
                 analysis = analysis_map.get(idx, {})
                 stance = analysis.get('stance', 'neutral')
-                trans = analysis.get('translation', '暂无翻译') # 获取翻译
+                trans = analysis.get('translation', '暂无翻译') 
                 
                 enriched_tweets.append({
                     "text": tweet.get('full_text', ''),
@@ -184,7 +207,7 @@ def analyze_user_profile(username, raw_tweets):
                 })
             
             return {
-                "info": res_json.get("info"),
+                "info": info_text,
                 "stance_matrix": res_json.get("stance_matrix"),
                 "influence_type": res_json.get("influence_type"),
                 "tweets": enriched_tweets

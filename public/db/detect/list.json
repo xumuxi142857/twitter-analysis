@@ -49,20 +49,268 @@
         "category": "politician",
         "daily_count": 0.2,
         "preview": "尽责性高、外向性中等、开放性中等、宜人性中等、神经质低"
+      },
+      {
+        "id": "profile_FNN_News.json",
+        "name": "FNN_News",
+        "username": "FNN_News",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等外向性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_jijicom.json",
+        "name": "jijicom",
+        "username": "jijicom",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等外向性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_kyodo_official.json",
+        "name": "kyodo_official",
+        "username": "kyodo_official",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等开放性、低外向性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_moteging.json",
+        "name": "moteging",
+        "username": "moteging",
+        "category": "media",
+        "daily_count": 3.3,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，情绪稳定性良好"
+      },
+      {
+        "id": "profile_nhk_news.json",
+        "name": "nhk_news",
+        "username": "nhk_news",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等外向性、中等开放性、低神经质、中等宜人性"
+      },
+      {
+        "id": "profile_nikkei.json",
+        "name": "nikkei",
+        "username": "nikkei",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等开放性、中等外向性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_Sankei_news.json",
+        "name": "Sankei_news",
+        "username": "Sankei_news",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高外向性、中等尽责性、低宜人性、中等情绪稳定性、中等开放性"
+      },
+      {
+        "id": "profile_takaichi_sanae.json",
+        "name": "takaichi_sanae",
+        "username": "takaichi_sanae",
+        "category": "media",
+        "daily_count": 1.5,
+        "preview": "高尽责性、中等外向性、中等宜人性、低神经质、中等开放性"
+      },
+      {
+        "id": "profile_tokyo_shimbun.json",
+        "name": "tokyo_shimbun",
+        "username": "tokyo_shimbun",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "尽责性高、开放性中等、宜人性中等、外倾性中等、神经质中等"
+      },
+      {
+        "id": "profile_Yomiuri_Online.json",
+        "name": "Yomiuri_Online",
+        "username": "Yomiuri_Online",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等开放性、中等外倾性、低神经质、中等宜人性"
+      },
+      {
+        "id": "profile_baba_ishin.json",
+        "name": "baba_ishin",
+        "username": "baba_ishin",
+        "category": "media",
+        "daily_count": 0.4,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_Hashimoto_Lo.json",
+        "name": "Hashimoto_Lo",
+        "username": "hashimoto_lo",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_hatoyamayukio.json",
+        "name": "hatoyamayukio",
+        "username": "hatoyamayukio",
+        "category": "media",
+        "daily_count": 0.5,
+        "preview": "高开放性、高宜人性、中等尽责性、中等神经质、中等外倾性"
+      },
+      {
+        "id": "profile_Hosono_54.json",
+        "name": "Hosono_54",
+        "username": "hosono_54",
+        "category": "media",
+        "daily_count": 0.6,
+        "preview": "高尽责性、中等外向性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_IchiroOzawa.json",
+        "name": "IchiroOzawa",
+        "username": "ichiroozawa",
+        "category": "media",
+        "daily_count": 0.4,
+        "preview": "高开放性、高外向性、中等尽责性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_ichita_y.json",
+        "name": "ichita_y",
+        "username": "ichita_y",
+        "category": "media",
+        "daily_count": 2.5,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_jcp_cc.json",
+        "name": "jcp_cc",
+        "username": "jcp_cc",
+        "category": "media",
+        "daily_count": 18.0,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、低神经质"
+      },
+      {
+        "id": "profile_katsuyatakasu.json",
+        "name": "katsuyatakasu",
+        "username": "katsuyatakasu",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "外向性高，开放性中等，宜人性中等，尽责性中等，神经质中等偏低"
+      },
+      {
+        "id": "profile_Komei_Koho.json",
+        "name": "Komei_Koho",
+        "username": "komei_koho",
+        "category": "media",
+        "daily_count": 3.3,
+        "preview": "高尽责性、高宜人性、中等外向性、中等开放性、低神经质"
+      },
+      {
+        "id": "profile_Matsu_Bouzu.json",
+        "name": "Matsu_Bouzu",
+        "username": "matsu_bouzu",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高神经质、中等外向性、中等开放性、中等宜人性、中等尽责性"
+      },
+      {
+        "id": "profile_miosugita.json",
+        "name": "miosugita",
+        "username": "miosugita",
+        "category": "media",
+        "daily_count": 1.7,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_MizuhoFukushima.json",
+        "name": "MizuhoFukushima",
+        "username": "mizuhofukushima",
+        "category": "media",
+        "daily_count": 4.0,
+        "preview": "高外向性、高尽责性、中等宜人性、中等情绪稳定性、中等开放性"
+      },
+      {
+        "id": "profile_nagashima21.json",
+        "name": "nagashima21",
+        "username": "nagashima21",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高外向性、高尽责性、中等宜人性、中等情绪稳定性、中等开放性"
+      },
+      {
+        "id": "profile_onoda_kimi.json",
+        "name": "onoda_kimi",
+        "username": "onoda_kimi",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "尽责性高、外向性中等、宜人性中等、神经质中等、开放性中等"
+      },
+      {
+        "id": "profile_renho_sha.json",
+        "name": "renho_sha",
+        "username": "renho_sha",
+        "category": "media",
+        "daily_count": 4.0,
+        "preview": "高开放性、高尽责性、中等宜人性、中等外倾性、中等神经质"
+      },
+      {
+        "id": "profile_RyukyuShimpo.json",
+        "name": "RyukyuShimpo",
+        "username": "ryukyushimpo",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高开放性、高尽责性、中等宜人性、中等外倾性、中等神经质"
+      },
+      {
+        "id": "profile_SatoMasahisa.json",
+        "name": "SatoMasahisa",
+        "username": "SatoMasahisa",
+        "category": "media",
+        "daily_count": 6.7,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_TamakiDenny.json",
+        "name": "TamakiDenny",
+        "username": "tamakidenny",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、高尽责性、中等宜人性、中等情绪稳定性、中等开放性"
+      },
+      {
+        "id": "profile_tamakiyuichiro.json",
+        "name": "tamakiyuichiro",
+        "username": "tamakiyuichiro",
+        "category": "media",
+        "daily_count": 17.0,
+        "preview": "高外向性、尽责性、宜人性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_wadamasamune.json",
+        "name": "wadamasamune",
+        "username": "wadamasamune",
+        "category": "media",
+        "daily_count": 0.8,
+        "preview": "高外向性、尽责性、宜人性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_YamamotoTaro0.json",
+        "name": "YamamotoTaro0",
+        "username": "yamamototaro0",
+        "category": "media",
+        "daily_count": 0.4,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、低神经质"
+      },
+      {
+        "id": "profile_YoichiTakahashi.json",
+        "name": "YoichiTakahashi",
+        "username": "YoichiTakahashi",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "高外向性、中等尽责性、中等开放性、低宜人性、中等神经质"
       }
     ]
   },
   "US": {
     "region": "US",
     "targets": [
-      {
-        "id": "profile_CNN.json",
-        "name": "CNN",
-        "username": "CNN",
-        "category": "media",
-        "daily_count": 5.5,
-        "preview": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质"
-      },
       {
         "id": "profile_ElonMusk.json",
         "name": "ElonMusk",
@@ -110,6 +358,520 @@
         "category": "politician",
         "daily_count": 0.9,
         "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_ABC.json",
+        "name": "ABC",
+        "username": "ABC",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高外向性、中等尽责性、中等宜人性、低神经质、中等开放性"
+      },
+      {
+        "id": "profile_AP.json",
+        "name": "AP",
+        "username": "AP",
+        "category": "media",
+        "daily_count": 10.0,
+        "preview": "高开放性、尽责性、宜人性，中等外向性，低神经质"
+      },
+      {
+        "id": "profile_CBSNews.json",
+        "name": "CBSNews",
+        "username": "CBSNews",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等外向性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_JakeSullivan46.json",
+        "name": "JakeSullivan46",
+        "username": "JakeSullivan46",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、低神经质"
+      },
+      {
+        "id": "profile_marcorubio.json",
+        "name": "marcorubio",
+        "username": "marcorubio",
+        "category": "media",
+        "daily_count": 1.1,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_NBCNews.json",
+        "name": "NBCNews",
+        "username": "NBCNews",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高开放性、尽责性、外倾性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_Newsweek.json",
+        "name": "Newsweek",
+        "username": "Newsweek",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高开放性、中等尽责性、中等外向性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_realDonaldTrump.json",
+        "name": "realDonaldTrump",
+        "username": "realDonaldTrump",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "外向性高，开放性中等，宜人性低，尽责性中等，神经质中等偏高"
+      },
+      {
+        "id": "profile_reidhoffman.json",
+        "name": "reidhoffman",
+        "username": "reidhoffman",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高开放性、尽责性、外向性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_Reuters.json",
+        "name": "Reuters",
+        "username": "Reuters",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高开放性、尽责性、中等外向性、低神经质、中等宜人性"
+      },
+      {
+        "id": "profile_SenatorHagerty.json",
+        "name": "SenatorHagerty",
+        "username": "SenatorHagerty",
+        "category": "media",
+        "daily_count": 1.8,
+        "preview": "高尽责性、外向性、宜人性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_SenSchumer.json",
+        "name": "SenSchumer",
+        "username": "SenSchumer",
+        "category": "media",
+        "daily_count": 2.9,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_SpeakerPelosi.json",
+        "name": "SpeakerPelosi",
+        "username": "SpeakerPelosi",
+        "category": "media",
+        "daily_count": 0.9,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_tim_cook.json",
+        "name": "tim_cook",
+        "username": "tim_cook",
+        "category": "media",
+        "daily_count": 0.6,
+        "preview": "高外向性、尽责性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_USAToday.json",
+        "name": "USAToday",
+        "username": "USATODAY",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_WSJ.json",
+        "name": "WSJ",
+        "username": "WSJ",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等开放性、中等外倾性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_CNN.json",
+        "name": "CNN",
+        "username": "CNN",
+        "category": "media",
+        "daily_count": 5.5,
+        "preview": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质"
+      }
+    ]
+  },
+  "Philippines": {
+    "region": "Philippines",
+    "targets": [
+      {
+        "id": "profile_bongbongmarcos.json",
+        "name": "bongbongmarcos",
+        "username": "bongbongmarcos",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、尽责性、宜人性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_Chinaembmanila.json",
+        "name": "Chinaembmanila",
+        "username": "Chinaembmanila",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "高尽责性、高外向性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_coastguardph.json",
+        "name": "coastguardph",
+        "username": "coastguardph",
+        "category": "media",
+        "daily_count": 10.0,
+        "preview": "高度尽责性、中等外向性、低神经质、中等开放性、中等宜人性"
+      },
+      {
+        "id": "profile_DFAPHL.json",
+        "name": "DFAPHL",
+        "username": "DFAPHL",
+        "category": "media",
+        "daily_count": 0.9,
+        "preview": "高度尽责性、外向性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_dndphl.json",
+        "name": "dndphl",
+        "username": "dndphl",
+        "category": "media",
+        "daily_count": 0.8,
+        "preview": "尽责性、外向性、宜人性较高，神经质较低，开放性中等"
+      },
+      {
+        "id": "profile_govph.json",
+        "name": "govph",
+        "username": "govph",
+        "category": "media",
+        "daily_count": 0.9,
+        "preview": "高尽责性、中等外向性、中等宜人性、中等开放性、中等神经质"
+      },
+      {
+        "id": "profile_indaysara.json",
+        "name": "indaysara",
+        "username": "indaysara",
+        "category": "media",
+        "daily_count": 0.9,
+        "preview": "高外向性、宜人性、尽责性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_jaytaryela.json",
+        "name": "jaytaryela",
+        "username": "jaytaryela",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_opgovph.json",
+        "name": "opgovph",
+        "username": "opgovph",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_pcogovph.json",
+        "name": "pcogovph",
+        "username": "pcogovph",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高尽责性、高宜人性、中等外向性、中等开放性、低神经质"
+      },
+      {
+        "id": "profile_PhilAirForce.json",
+        "name": "PhilAirForce",
+        "username": "PhilAirForce",
+        "category": "media",
+        "daily_count": 1.5,
+        "preview": "高度尽责性、外向性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_Philippine_Navy.json",
+        "name": "Philippine_Navy",
+        "username": "Philippine_Navy",
+        "category": "media",
+        "daily_count": 5.0,
+        "preview": "高度尽责性、外向性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_TeamAFP.json",
+        "name": "TeamAFP",
+        "username": "TeamAFP",
+        "category": "media",
+        "daily_count": 1.0,
+        "preview": "高度尽责性、外向性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_yourphilarmy.json",
+        "name": "yourphilarmy",
+        "username": "yourphilarmy",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "高度尽责性、外向性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_ChelDiokno.json",
+        "name": "ChelDiokno",
+        "username": "ChelDiokno",
+        "category": "media",
+        "daily_count": 0.9,
+        "preview": "高外向性、尽责性、宜人性；中等开放性；低神经质"
+      },
+      {
+        "id": "profile_GaryAlejano.json",
+        "name": "GaryAlejano",
+        "username": "GaryAlejano",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_JVejercito.json",
+        "name": "JVejercito",
+        "username": "jvejercito",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "高外向性、尽责性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_ManilaBulletin.json",
+        "name": "ManilaBulletin",
+        "username": "manilabulletin",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高尽责性、中等外向性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_migzzubiri.json",
+        "name": "migzzubiri",
+        "username": "migzzubiri",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "高外向性、尽责性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_risahontiveros.json",
+        "name": "risahontiveros",
+        "username": "risahontiveros",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、高尽责性、中等宜人性、中等开放性、低神经质"
+      },
+      {
+        "id": "profile_SenGracePoe.json",
+        "name": "SenGracePoe",
+        "username": "SenGracePOE",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、尽责性、宜人性，中等开放性，低神经质"
+      },
+      {
+        "id": "profile_teddyboylocsin.json",
+        "name": "teddyboylocsin",
+        "username": "teddyboylocsin",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高神经质、低宜人性、中等开放性、低尽责性、中等外倾性"
+      },
+      {
+        "id": "profile_TrillanesSonny.json",
+        "name": "TrillanesSonny",
+        "username": "TrillanesSonny",
+        "category": "media",
+        "daily_count": 0.3,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_WinGatchalian74.json",
+        "name": "WinGatchalian74",
+        "username": "WinGatchalian74",
+        "category": "media",
+        "daily_count": 0.0,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、低神经质"
+      }
+    ]
+  },
+  "Taiwan": {
+    "region": "Taiwan",
+    "targets": [
+      {
+        "id": "profile_bikhim.json",
+        "name": "bikhim",
+        "username": "bikhim",
+        "category": "media",
+        "daily_count": 0.3,
+        "preview": "高外向性、高尽责性、中等宜人性、中等神经质、中等开放性"
+      },
+      {
+        "id": "profile_chia_lung.json",
+        "name": "chia_lung",
+        "username": "chia_lung",
+        "category": "media",
+        "daily_count": 0.7,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_ChineseEmbinUS.json",
+        "name": "ChineseEmbinUS",
+        "username": "ChineseEmbinUS",
+        "category": "media",
+        "daily_count": 4.0,
+        "preview": "高尽责性、高外向性、中等开放性、低宜人性、低神经质"
+      },
+      {
+        "id": "profile_ChingteLai.json",
+        "name": "ChingteLai",
+        "username": "ChingteLai",
+        "category": "media",
+        "daily_count": 0.6,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_iingwen.json",
+        "name": "iingwen",
+        "username": "iingwen",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_INDOPACOM.json",
+        "name": "INDOPACOM",
+        "username": "INDOPACOM",
+        "category": "media",
+        "daily_count": 2.9,
+        "preview": "高度外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_josephwutw.json",
+        "name": "josephwutw",
+        "username": "josephwutw",
+        "category": "media",
+        "daily_count": 1.1,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_KP_Taiwan.json",
+        "name": "KP_Taiwan",
+        "username": "KP_Taiwan",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、高尽责性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_MAC_Taiwan.json",
+        "name": "MAC_Taiwan",
+        "username": "MAC_Taiwan",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_MFA_China.json",
+        "name": "MFA_China",
+        "username": "MFA_China",
+        "category": "media",
+        "daily_count": 10.0,
+        "preview": "高度尽责性、外向性、宜人性，情绪稳定性中等，开放性中等偏低"
+      },
+      {
+        "id": "profile_MofaJapan_en.json",
+        "name": "MofaJapan_en",
+        "username": "MofaJapan_en",
+        "category": "media",
+        "daily_count": 6.7,
+        "preview": "高尽责性、中等外向性、中等宜人性、低神经质、中等开放性"
+      },
+      {
+        "id": "profile_MOFA_Taiwan.json",
+        "name": "MOFA_Taiwan",
+        "username": "MOFA_Taiwan",
+        "category": "media",
+        "daily_count": 1.1,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_MoNDefense.json",
+        "name": "MoNDefense",
+        "username": "MoNDefense",
+        "category": "media",
+        "daily_count": 1.4,
+        "preview": "高尽责性、中等外向性、中等神经质、低宜人性、中等开放性"
+      },
+      {
+        "id": "profile_StateDept.json",
+        "name": "StateDept",
+        "username": "StateDept",
+        "category": "media",
+        "daily_count": 20.0,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质"
+      },
+      {
+        "id": "profile_TAIWANmoda.json",
+        "name": "TAIWANmoda",
+        "username": "TAIWANmoda",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "高外向性、尽责性、开放性，中等宜人性，低神经质"
+      },
+      {
+        "id": "profile_TaiwanPresSPOX.json",
+        "name": "TaiwanPresSPOX",
+        "username": "TaiwanPresSPOX",
+        "category": "media",
+        "daily_count": 0.7,
+        "preview": "外向性高，尽责性高，开放性中等，宜人性中等，神经质中等偏低"
+      },
+      {
+        "id": "profile_Taiwan_CDC.json",
+        "name": "Taiwan_CDC",
+        "username": "Taiwan_CDC",
+        "category": "media",
+        "daily_count": 0.4,
+        "preview": "尽责性高、宜人性中等、开放性中等、神经质低、外向性中等"
+      },
+      {
+        "id": "profile_FreddyLim.json",
+        "name": "FreddyLim",
+        "username": "FreddyLim",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "外向性、尽责性、开放性较高，宜人性中等，神经质较低"
+      },
+      {
+        "id": "profile_HouYuIh.json",
+        "name": "HouYuIh",
+        "username": "houyuih",
+        "category": "media",
+        "daily_count": 0.2,
+        "preview": "外向性高，尽责性高，开放性中等，宜人性中等，神经质低"
+      },
+      {
+        "id": "profile_KMT_Official.json",
+        "name": "KMT_Official",
+        "username": "KMT_Official",
+        "category": "media",
+        "daily_count": 0.6,
+        "preview": "外向性高，亲和性中等，尽责性中等偏低，神经质中等，开放性中等"
+      },
+      {
+        "id": "profile_MaYingjeou.json",
+        "name": "MaYingjeou",
+        "username": "mayingjeou",
+        "category": "media",
+        "daily_count": 0.4,
+        "preview": "高尽责性、中等外向性、中等宜人性、中等情绪稳定性、中等开放性"
+      },
+      {
+        "id": "profile_MiaoPoya.json",
+        "name": "MiaoPoya",
+        "username": "miaopoya",
+        "category": "media",
+        "daily_count": 0.1,
+        "preview": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质"
       }
     ]
   }
