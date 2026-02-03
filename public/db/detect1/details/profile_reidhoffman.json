@@ -1,0 +1,438 @@
+{
+  "id": "profile_reidhoffman.json",
+  "_fingerprint": "dedfe37eba29cef12033a24bd9fd5d76",
+  "name": "reidhoffman",
+  "username": "reidhoffman",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "积极关注并分享人工智能、生物科技、创业哲学等前沿领域的最新动态和深度思考，展现出对新思想、新技术和复杂系统的高度接纳与探索欲。"
+        },
+        {
+          "term": "尽责性较高",
+          "analysis": "言论体现出对系统性框架、决策逻辑和长期社会影响的关注，例如分享具体的决策框架，并讨论AI在医疗等关键领域的审慎应用，显示出对秩序、责任和长远规划的倾向。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "会转发或评论涉及尖锐社会、政治分歧的内容，不回避冲突性话题，但在表达自身观点时多采用理性探讨而非纯粹情绪化攻击的方式。"
+        },
+        {
+          "term": "外向性中等",
+          "analysis": "通过社交媒体积极传播观点、转发他人言论并参与公共议题讨论，显示出一定的社交参与度和影响力寻求，但核心内容聚焦于思想与行业洞察，而非纯粹的个人生活展示。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在精英主义倾向、过度技术乐观主义及潜在的救世主情结。",
+      "sub_items": [
+        {
+          "term": "技术精英主义",
+          "analysis": "言论高度聚焦于由科技精英和企业家驱动的创新与变革，强调前沿技术对解决社会问题的决定性作用，可能隐含对传统路径或非技术领域解决方案的轻视。"
+        },
+        {
+          "term": "过度技术乐观主义",
+          "analysis": "对人工智能等技术的积极潜力（如加速药物研发、辅助医疗、赋予残疾人新能力）表现出强烈信念和宣传热情，可能低估或较少讨论其伴随的伦理风险、社会颠覆性及潜在负面影响。"
+        },
+        {
+          "term": "救世主情结雏形",
+          "analysis": "通过支持或宣传那些旨在用技术‘拯救’或‘重塑’关键领域（如医疗、就业、国家竞争力）的项目与理念，显示出一种通过技术方案担当重大社会问题解决者的自我定位倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、框架效应及可得性启发式等认知倾向。",
+      "sub_items": [
+        {
+          "term": "确认偏误（科技向善）",
+          "analysis": "倾向于寻找、分享和认可那些证明人工智能等尖端技术具有积极社会效益的案例与言论，强化自身关于技术发展利大于弊的先验信念。"
+        },
+        {
+          "term": "框架效应（美国中心与竞争叙事）",
+          "analysis": "习惯将AI发展置于‘美国赢得AI竞赛’、‘美国商业与劳工伙伴关系’等国家竞争和特定制度优势的框架下进行讨论，影响其对技术全球化与合作潜力的客观评估。"
+        },
+        {
+          "term": "可得性启发式（基于可见成功案例）",
+          "analysis": "对AI潜力的判断很大程度上依赖于身边或媒体报道的突出成功案例（如AI辅助盲人、初创公司突破），可能高估技术普及的容易程度和速度，忽视广泛落地面临的障碍。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开言论涉猎广泛易引争议，过度关联个人品牌与所投技术，转发行为存在风险。",
+      "sub_items": [
+        {
+          "term": "言论涉猎过广",
+          "analysis": "活跃评论科技、经济、政治、社会事件等多个领域，增加了因对非核心专业领域理解深度不足而发表有瑕疵或易被断章取义言论的风险。"
+        },
+        {
+          "term": "品牌与技术绑定过深",
+          "analysis": "个人公众形象与‘AI’、‘创业’、‘LinkedIn’等标签高度绑定，一旦这些领域出现重大伦理丑闻、技术失败或经济泡沫破裂，其个人信誉将直接受到连带冲击。"
+        },
+        {
+          "term": "转发内容不可控",
+          "analysis": "转发行为使其间接为原推文的全部内容（包括可能隐含的极端观点或未经证实的信息）承担了部分传播责任，易被对手利用，制造‘认同关联’的舆论攻击。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "其鲜明的亲科技、亲美产业立场在政治极化与全球化争议中易受攻击。",
+      "sub_items": [
+        {
+          "term": "科技至上立场",
+          "analysis": "在技术发展与监管、就业、平等可能产生冲突的议题上，其明显倾向于技术优先的立场，容易在相关社会辩论中被批评为漠视人文关怀或劳工权益。"
+        },
+        {
+          "term": "鲜明的国内政治经济立场",
+          "analysis": "涉及美国产业政策、美联储独立性、特定政治人物评价等国内敏感议题的言论，使其容易卷入政治党派斗争，成为对立阵营的攻击目标。"
+        },
+        {
+          "term": "全球化与竞争叙事矛盾",
+          "analysis": "一方面推崇基于美国竞争力的技术民族主义叙事，另一方面又受益于全球化的科技人才与市场，这种立场在逆全球化浪潮中可能面临‘言行不一’的指责。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "作为投资者与思想者，其判断依赖于特定信息网络与理论框架，存在盲区。",
+      "sub_items": [
+        {
+          "term": "信息源依赖风险",
+          "analysis": "其见解和判断高度依赖于硅谷精英圈、特定智库和媒体提供的信息网络，可能导致对世界其他地区、不同社会阶层实际情况的认知存在偏差或滞后。"
+        },
+        {
+          "term": "框架依赖局限",
+          "analysis": "擅长的创业、投资、网络效应等分析框架，在应对气候变化、地缘政治冲突、深层社会撕裂等更宏大、更非理性的复杂系统问题时，可能显得工具单一或力有不逮。"
+        },
+        {
+          "term": "预测能力公共考验",
+          "analysis": "其对AI发展速度、经济影响（如对‘白领血洗’的审慎预测）等领域的公开预测，将长期暴露于公众审视之下，任何重大误判都会损害其作为思想领袖的可信度。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "对自身认知与影响力可能存在的过度自信，以及对负面反馈的潜在防御心态。",
+      "sub_items": [
+        {
+          "term": "认知自信可能过高",
+          "analysis": "长期处于成功与受推崇的环境，可能强化其对自身判断（尤其是在科技与商业趋势方面）正确性的无条件信心，降低了对相反证据的敏感度和自我修正意愿。"
+        },
+        {
+          "term": "影响力焦虑或执着",
+          "analysis": "持续通过言论试图塑造科技伦理、产业政策、公共讨论的议程，反映出对维持和扩大其思想影响力的深切关注，这可能使其决策有时优先考虑影响力而非纯粹事实。"
+        },
+        {
+          "term": "对批评的潜在易感性",
+          "analysis": "其构建的‘理性、前瞻’的公众形象，使其在面对‘不理性’、‘情绪化’或来自其轻视群体的尖锐批评时，可能产生强烈的挫败感或采取居高临下的反驳方式，反而激化矛盾。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "超越商业成功的层面，意图塑造科技发展的伦理范式、国家政策并巩固个人思想遗产。",
+      "sub_items": [
+        {
+          "term": "塑造技术伦理与治理话语权",
+          "analysis": "通过有选择地宣传‘值得讲述的AI故事’（如助残、医疗）和参与相关讨论，旨在引导公众和监管机构形成对其有利的、偏向创新友好的技术伦理观和治理框架。"
+        },
+        {
+          "term": "影响国家战略与资源配置",
+          "analysis": "通过强调‘美国赢得AI竞赛’、批评特定政策、支持特定产业路线，试图将公共讨论和政策资源导向与其投资理念和商业利益相符的科技发展领域。"
+        },
+        {
+          "term": "构建并传播个人方法论品牌",
+          "analysis": "允许并乐见其独特的决策框架、投资哲学被他人引用和传播，旨在超越具体商业成就，将自身塑造为可被后世追随和研究的创业与投资思想学派创始人。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题紧密围绕人工智能及其应用、美国竞争力与创新生态、创业投资哲学。",
+      "sub_items": [
+        {
+          "term": "人工智能的应用与影响",
+          "analysis": "最核心话题，涵盖AI在医疗、就业、辅助生活、药物研发等各领域的应用案例、伦理讨论（如审查回路）及其对社会经济的颠覆性预测。"
+        },
+        {
+          "term": "美国创新生态与国家竞争力",
+          "analysis": "频繁讨论美国在AI等关键领域的竞争地位、产业政策（如芯片出口）、商业与劳工关系、创业环境，强调维持美国科技领导力的重要性。"
+        },
+        {
+          "term": "创业、投资与决策框架",
+          "analysis": "分享和传播特定的创业思维、投资逻辑和决策方法论，关注如何识别机会、建立网络、创造价值，并关注LinkedIn所代表的就业市场动态。"
+        },
+        {
+          "term": "科技相关的社会政治议题",
+          "analysis": "会涉足与科技发展交织的社会政治辩论，如科技巨头的权力、特定政治人物政策对科技行业的影响、科技时代的伦理选择等。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      2,
+      2,
+      8
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 15:45:03 +0000 2026",
+      "text": "RT @jansramek: 1/ For 250 years, America has been forged by partnerships of American business and labor. 🇺🇸\n\nToday, business and labor have…",
+      "translation": "RT @jansramek: 1/ 250年来，美国一直由美国企业与劳工的伙伴关系塑造。🇺🇸 今天，企业与劳工...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 157,
+        "retweet": 159,
+        "like": 1548
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 05:01:37 +0000 2026",
+      "text": "OpenAI's work here is proof that America can win the AI race and invest in the communities that house the infrastructure to make American AI exceptional.",
+      "translation": "OpenAI的工作证明美国能赢得AI竞赛，并投资于承载基础设施的社区，使美国AI卓越。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 22,
+        "retweet": 11,
+        "like": 180
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 20:11:27 +0000 2026",
+      "text": "I thought you loved Russia?",
+      "translation": "我以为你喜欢俄罗斯？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 92,
+        "retweet": 34,
+        "like": 770
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 18:17:46 +0000 2026",
+      "text": "Interesting argument for putting AI in the review loop.",
+      "translation": "关于将AI纳入审查循环的有趣论点。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 6,
+        "like": 24
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 15:47:33 +0000 2026",
+      "text": "https://t.co/1k7ErSukK1",
+      "translation": "https://t.co/1k7ErSukK1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 13,
+        "like": 73
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 19:52:46 +0000 2026",
+      "text": "RT @StartupArchive_: Keith Rabois shares the decision-making framework he learned from Reid Hoffman\n\n“Reid has a very specific view of how…",
+      "translation": "RT @StartupArchive_: Keith Rabois分享他从Reid Hoffman学到的决策框架：“Reid对如何...有非常具体的看法”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 36,
+        "retweet": 99,
+        "like": 1042
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:43:29 +0000 2026",
+      "text": "Where the winners are 🏆",
+      "translation": "赢家在哪里 🏆",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 6,
+        "like": 42
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 16:47:54 +0000 2026",
+      "text": "RT @disclosetv: NOW - Dario Amodei, co-founder and CEO of Anthropic, calls out Trump's policy allowing Nvidia to sell high-speed chips to C…",
+      "translation": "RT @disclosetv: 现在 - Anthropic联合创始人兼CEO Dario Amodei批评特朗普政策允许英伟达向中国出售高速芯片。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 132,
+        "retweet": 247,
+        "like": 2116
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 16:37:55 +0000 2026",
+      "text": "RT @nodefnd: https://t.co/EHvsa9e1QM",
+      "translation": "RT @nodefnd: https://t.co/EHvsa9e1QM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 96,
+        "like": 735
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 16:17:48 +0000 2026",
+      "text": "This woman, who is blind, uses Meta glasses and AI to navigate the world and interact with her surroundings in real time –– giving her a new sense of independence. \n\nThese are the AI stories that need to be told. https://t.co/nwZsWsHjR9",
+      "translation": "这位盲人女性使用Meta眼镜和AI实时导航世界并与周围环境互动——赋予她新的独立感。这些是需要讲述的AI故事。https://t.co/nwZsWsHjR9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 26,
+        "retweet": 40,
+        "like": 292
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 18:54:44 +0000 2026",
+      "text": "RT @RoKhanna: This is a defining issue of our time.\n\nDo you stand with the Epstein class or survivors?\n\nAre you protecting girls or pedophi…",
+      "translation": "RT @RoKhanna: 这是我们时代的决定性议题。你站在爱泼斯坦阶层还是幸存者一边？你在保护女孩还是恋童癖者？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 183,
+        "retweet": 478,
+        "like": 2320
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 18:30:54 +0000 2026",
+      "text": "Really good.",
+      "translation": "真的很好。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 22,
+        "like": 531
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 17:59:48 +0000 2026",
+      "text": "I want my doctor to use AI to double-check their work. \n\nWhen AI proves to make fewer mistakes than human doctors, will it be considered a \"mistake\" if the doctor doesn't have AI in the review loop? \n\ni.e., will not using AI be seen the same as not sending a patient to an MRI?",
+      "translation": "我希望我的医生用AI双重检查他们的工作。当AI被证明比人类医生犯错更少时，如果医生没有AI在审查循环中，这会被视为“错误”吗？即，不使用AI会被视为与不送患者做MRI一样吗？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 93,
+        "retweet": 16,
+        "like": 273
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 17:42:08 +0000 2026",
+      "text": "RT @PabloTorre: Anyway I don't expect to change anyone's mind. I just want to be on record somewhere saying that killing this woman — and t…",
+      "translation": "RT @PabloTorre: 无论如何，我不指望改变任何人的想法。我只想记录在案，说杀死这个女人——以及...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 215,
+        "retweet": 4058,
+        "like": 30422
+      }
+    },
+    {
+      "created_at": "Mon Jan 27 16:30:06 +0000 2025",
+      "text": "Today, I launched Manas AI –– a full stack AI company setting out to shift drug discovery from a decade-long process to one that takes a few years; bringing life-saving treatments to patients faster than ever.\nhttps://t.co/CWZDbuYdzW",
+      "translation": "今天，我推出了Manas AI——一家全栈AI公司，旨在将药物发现从十年过程缩短到几年；比以往更快地为患者带来救生治疗。https://t.co/CWZDbuYdzW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 917,
+        "retweet": 464,
+        "like": 4293
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 23:16:37 +0000 2026",
+      "text": "Not sure what the number is now, but a year or so ago, the stat was that every minute, seven people are hired via LinkedIn, a rate that equates to 3.67 million people a year.\n\nThere's more work to do. America needs more jobs that pay more.",
+      "translation": "不确定现在数字是多少，但大约一年前，统计显示每分钟有七人通过LinkedIn被雇佣，相当于每年367万人。还有更多工作要做。美国需要更多高薪工作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 38,
+        "retweet": 9,
+        "like": 99
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 15:40:46 +0000 2026",
+      "text": "\" Everyone has domain knowledge in their head that is not monetized yet.\"\n\n@amasad of @Replit on the explosion of niche, decentralized entrepreneurs: https://t.co/Fd5FhtZSOG",
+      "translation": "“每个人头脑中都有尚未货币化的领域知识。”@Replit的@amasad谈小众、去中心化企业家的爆发：https://t.co/Fd5FhtZSOG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 36,
+        "like": 241
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 05:23:59 +0000 2026",
+      "text": "Intriguing",
+      "translation": "有趣",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30,
+        "retweet": 29,
+        "like": 221
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 05:20:14 +0000 2026",
+      "text": "Question to all those who said Trump would be better for the economy: is attacking the Fed’s independence what you had in mind?",
+      "translation": "问所有那些说特朗普对经济更好的人：攻击美联储的独立性是你们所想的吗？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1086,
+        "retweet": 309,
+        "like": 3214
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 20:47:27 +0000 2026",
+      "text": "RT @ForwardFuture: Is 2026 the year Dario Amodei's white-collar bloodbath prediction comes true? \n\n@reidhoffman offers a more measured pers…",
+      "translation": "RT @ForwardFuture: 2026年是Dario Amodei的白领大屠杀预测成真之年吗？@reidhoffman提供了更审慎的观点...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 44,
+        "like": 181
+      }
+    }
+  ]
+}

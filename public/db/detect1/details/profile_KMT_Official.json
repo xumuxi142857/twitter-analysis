@@ -1,0 +1,470 @@
+{
+  "id": "profile_KMT_Official.json",
+  "_fingerprint": "52b07f5ccb622f0c26086befbdabae3d",
+  "name": "KMT_Official",
+  "username": "KMT_Official",
+  "category": "media",
+  "daily_count": 0.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高宜人性、中等尽责性、中等神经质、中等开放性。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与社交媒体互动，主动发起话题并回复他人，表现出强烈的社交需求和活跃度。"
+        },
+        {
+          "term": "高宜人性",
+          "analysis": "言论中充满对偶像团体的喜爱和支持，积极回应粉丝社群，展现出合作、友善和乐于助人的特质。"
+        },
+        {
+          "term": "中等尽责性",
+          "analysis": "能够组织粉丝活动并转发相关呼吁，但在个人日程管理上表现出随意性，如提及忘记课程时间。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "情绪表达直接且丰富，从兴奋支持到对社群冷清的轻微抱怨，情绪有一定波动但未表现出极端不稳定。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "兴趣集中于特定偶像文化圈，偶尔转发科普或生活类趣味知识，对新体验的探索局限于熟悉领域。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在从众倾向、注意力分散及一定的依赖性。",
+      "sub_items": [
+        {
+          "term": "从众倾向",
+          "analysis": "大量参与并推动粉丝社群的集体行动，如呼吁演唱会地点变更，容易受群体情绪和活动影响。"
+        },
+        {
+          "term": "注意力分散",
+          "analysis": "言论内容在粉丝活动、偶像互动、个人琐事和随机转发间快速切换，缺乏持续聚焦的主题。"
+        },
+        {
+          "term": "情感依赖",
+          "analysis": "对偶像团体及其相关社群表现出强烈的情感寄托，通过频繁互动寻求归属感和情感满足。"
+        },
+        {
+          "term": "冲动表达",
+          "analysis": "经常发布即时的、未经深度思考的感叹、提问或支持性言论，决策和发言显得较为随性。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出群体极化、确认偏误和可得性启发。",
+      "sub_items": [
+        {
+          "term": "群体极化",
+          "analysis": "在粉丝社群议题上，通过集体转发和标签使用，强化了将演唱会移至特定地点的共同主张。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "主要关注和传播支持其偶像及粉丝社群观点的信息，忽略或未探讨可能存在的反对或不同方案。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "判断和言论高度依赖于社交媒体上即时、可见的粉丝互动和偶像动态，而非系统信息。"
+        },
+        {
+          "term": "情感启发",
+          "analysis": "对偶像的喜爱和对社群活动的热情直接驱动其言论内容和转发行为，理性分析成分较少。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "线上行为高度公开、模式化且易受社群驱动。",
+      "sub_items": [
+        {
+          "term": "公开行为轨迹",
+          "analysis": "在社交媒体上详细分享个人日程、情感反应和社群活动参与，数字足迹清晰且丰富。"
+        },
+        {
+          "term": "模式化互动",
+          "analysis": "与偶像和粉丝的互动遵循固定的模式，如使用特定标签、@特定账号、进行呼吁式转发，行为可预测。"
+        },
+        {
+          "term": "社群压力响应",
+          "analysis": "积极参与并推动粉丝社群的集体倡议，容易在群体压力下保持一致言行，缺乏独立立场。"
+        },
+        {
+          "term": "多任务干扰",
+          "analysis": "社交媒体活动与个人学习生活交织，提及因上课需暂时离线，显示线上行为可能干扰现实责任。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度集中于特定粉丝文化圈，对外部议题缺乏稳定或深度立场。",
+      "sub_items": [
+        {
+          "term": "议题单一性",
+          "analysis": "公开表达的立场几乎全部围绕偶像团体JKT48及其相关活动，其他领域立场模糊或仅为随意转发。"
+        },
+        {
+          "term": "立场流动性",
+          "analysis": "在非核心兴趣领域，立场易受所转发内容影响，缺乏一贯的、经过深思熟虑的价值判断体系。"
+        },
+        {
+          "term": "群体立场依附",
+          "analysis": "在核心兴趣领域，其立场与粉丝社群的集体立场高度绑定，个人独立观点难以辨识。"
+        },
+        {
+          "term": "缺乏深度论证",
+          "analysis": "立场表达多为简短的支持、呼吁或感叹，未见提供详细理由、数据或逻辑论证来支撑其观点。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在信息甄别、深度分析和跨领域整合方面存在不足。",
+      "sub_items": [
+        {
+          "term": "信息筛选能力局限",
+          "analysis": "转发内容混杂粉丝活动、趣味科普和个人琐事，缺乏对信息源权威性和相关性的有效甄别标准。"
+        },
+        {
+          "term": "分析深度不足",
+          "analysis": "言论停留在表面互动和情绪表达，未展现出对复杂问题进行分析、综合或提出解决方案的能力。"
+        },
+        {
+          "term": "跨领域知识整合弱",
+          "analysis": "兴趣和知识表现出明显的圈层化，未能将不同领域的信息或观点进行有效连接或批判性思考。"
+        },
+        {
+          "term": "策略性规划缺失",
+          "analysis": "行动表现为对即时社群动态的反应，缺乏长远的、战略性的个人或社群目标规划与执行路径。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "心智资源被大量情感投入和碎片化信息占据，影响深度思考。",
+      "sub_items": [
+        {
+          "term": "情感投入过载",
+          "analysis": "对偶像和粉丝社群的情感投入占据了大量心智空间，可能削弱了对其他重要事务的注意力与理性判断资源。"
+        },
+        {
+          "term": "信息处理碎片化",
+          "analysis": "习惯于接收和传播简短的、情绪化的社交媒体内容，不利于培养持续、深入的思考习惯和认知耐力。"
+        },
+        {
+          "term": "延迟满足能力弱",
+          "analysis": "追求即时的互动反馈和情感满足，对于需要长期努力或延迟回报的事务表现出较少的耐心和关注。"
+        },
+        {
+          "term": "现实与虚拟边界模糊",
+          "analysis": "社交媒体上的互动、情感和社群活动与现实生活日程、责任紧密交织，可能导致身份认知和优先级混乱。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "核心意图在于寻求社群归属、情感满足及有限的社群影响力构建。",
+      "sub_items": [
+        {
+          "term": "强化社群归属感",
+          "analysis": "通过积极参与和推动粉丝共同目标，旨在巩固自身在JKT48粉丝社群中的成员身份和认同感。"
+        },
+        {
+          "term": "获取情感价值与认可",
+          "analysis": "与偶像互动、获得其他粉丝回应是其重要情感来源，行为旨在持续获取这种关注和情感反馈。"
+        },
+        {
+          "term": "构建圈层内影响力",
+          "analysis": "通过发起话题、转发呼吁和@关键账号，试图在特定的粉丝网络内提升能见度和话语权。"
+        },
+        {
+          "term": "逃避现实压力",
+          "analysis": "沉浸于粉丝文化的互动和情感世界中，可能作为应对现实学业或个人生活压力的一种方式。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "话题高度集中于印尼偶像文化、粉丝社群活动及有限的个人生活与泛知识。",
+      "sub_items": [
+        {
+          "term": "JKT48偶像团体动态",
+          "analysis": "核心话题，涵盖演唱会信息、成员互动、日程询问及对成员个人的喜爱表达。"
+        },
+        {
+          "term": "粉丝社群组织与倡议",
+          "analysis": "重要话题，包括呼吁演唱会地点变更、组织粉丝加入群组、活跃社群氛围等集体行动。"
+        },
+        {
+          "term": "个人生活碎片",
+          "analysis": "穿插提及上课、生日祝福等个人日常生活片段，与粉丝身份交织。"
+        },
+        {
+          "term": "趣味科普与泛知识",
+          "analysis": "偶尔转发关于词语起源、动物特性、情感观点等轻松泛知识类内容，深度有限。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      2
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      2
+    ],
+    [
+      1,
+      3,
+      3
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 10
+    },
+    {
+      "name": "同伴",
+      "value": 85
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 02:35:42 +0000 2014",
+      "text": "RT @FaktaGoogle: Sayap seekor Lalat mengandung racun dan penawar sekaligus. Jika semua sayapnya tercelup ke dalam minuman, maka minuman ter…",
+      "translation": "转发 @FaktaGoogle：苍蝇的翅膀同时含有毒药和解药。如果所有翅膀都浸入饮料中，饮料就会...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 41,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Sep 23 05:54:40 +0000 2014",
+      "text": "RT @FaktaGoogle: Nama 'Yogyakarta' terambil dari dua kata, yaitu 'Ayogya' yang berarti 'Kedamaian', dan 'Karta' yang berarti 'Baik'.",
+      "translation": "转发 @FaktaGoogle：'日惹'这个名字取自两个词，'Ayogya'意为'和平'，'Karta'意为'美好'。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 67,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Sep 23 05:52:15 +0000 2014",
+      "text": "RT @FaktaGoogle: Menurut survei, cinta dimulai ketika orang tidak membutuhkannya dan berakhir ketika mereka membutuhkannya.",
+      "translation": "转发 @FaktaGoogle：根据调查，爱情始于人们不需要它时，终于他们需要它时。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 105,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:51:47 +0000 2014",
+      "text": "Ehh udah jam masuk kuliah lagi. Min off dlu yah. \nSun manja dari @Naomi_JKT48 dulu http://t.co/MSJYNH9o31",
+      "translation": "呃，又到上课时间了。我先下线啦。先看看 @Naomi_JKT48 的撒娇照片 http://t.co/MSJYNH9o31",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:47:00 +0000 2014",
+      "text": "Heh @Viny_JKT48 . senyum nya biasa dong. Melting nih http://t.co/yfxUXhC3Y4",
+      "translation": "嘿 @Viny_JKT48，笑容正常点嘛。我快融化了 http://t.co/yfxUXhC3Y4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:44:05 +0000 2014",
+      "text": "Eh kamu yg disana. Iya kamu. Heeh kamu lho. \nCc: @achanJKT48 @Achanation_INA http://t.co/jrJx7XANaP",
+      "translation": "嘿，那边的你。对，就是你。嘿嘿，就是你啦。抄送：@achanJKT48 @Achanation_INA http://t.co/jrJx7XANaP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:42:49 +0000 2014",
+      "text": "Eh kamu kok kalo diliat2 cantik sih @Lidya_JKT48 http://t.co/5ilfFF9CMi",
+      "translation": "嘿，你怎么越看越漂亮啊 @Lidya_JKT48 http://t.co/5ilfFF9CMi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:41:30 +0000 2014",
+      "text": "Si @C_MileniaJKT48 pipinya gak nahan broh. Kek bolong cc:@Mileniaction http://t.co/DTnVD1mwV6",
+      "translation": "这位 @C_MileniaJKT48 的脸颊真让人受不了啊，像有洞一样。抄送：@Mileniaction http://t.co/DTnVD1mwV6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 18 05:39:57 +0000 2014",
+      "text": "Udah lama nih gak ada yg nongol di grup ini.oke kita ramaikan dengan pict2",
+      "translation": "好久没人出现在这个群里了。好吧，我们用照片来活跃气氛吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Oct 11 07:53:38 +0000 2014",
+      "text": "Grup sepi .bedebu . sapuin dong",
+      "translation": "群组冷清，积灰了。打扫一下吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Sep 29 23:11:01 +0000 2014",
+      "text": "Selamat ulang tahun kepada crew kami @Hibahgigih .Semoga otaknya makin waras kuliah diperlancar begitu dengan isi dompet nya semoga makin ++",
+      "translation": "祝我们的工作人员 @Hibahgigih 生日快乐。愿你头脑更清醒，学业顺利，钱包也越来越鼓。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Mon Sep 22 00:48:02 +0000 2014",
+      "text": "RT @SBYudhoyono: Presiden SBY persiapkan kegiatan di New York, AS, dgn para anggota delegasi RI, Minggu, jam 8 pagi waktu setempat. http://…",
+      "translation": "转发 @SBYudhoyono：苏西洛总统在纽约与美国当地代表团成员准备活动，周日，当地时间上午8点。http://...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 55,
+        "retweet": 190,
+        "like": 111
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:39:05 +0000 2014",
+      "text": "RT @JDA_Print: @officialJKT48 Walau ntr ada Jakarta kapan nih bekasi konsernya,? Bogor udah, bekasi kapan nih?  #JKT48SamudraKarawangPindah…",
+      "translation": "转发 @JDA_Print：@officialJKT48 虽然之后雅加达有活动，但勿加泗的演唱会呢？茂物已经有了，勿加泗什么时候有？#JKT48SamudraKarawangPindah...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:36:22 +0000 2014",
+      "text": "Yg orang bekasi mari up yuk #JKT48SamudraKarawangPindahBekasi :) #JKT48ForBekasi #JKT48MoveBekasi",
+      "translation": "勿加泗的朋友们，一起来顶帖吧 #JKT48SamudraKarawangPindahBekasi :) #JKT48ForBekasi #JKT48MoveBekasi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:32:15 +0000 2014",
+      "text": "Min konser kerawang kenapa mundur? Mending pindahin ke bekasi aja,  @TRIMSINDONESIA  #JKT48SamudraKarawangPindahBekasi :)",
+      "translation": "管理员，卡拉旺的演唱会为什么推迟了？不如直接搬到勿加泗吧，@TRIMSINDONESIA #JKT48SamudraKarawangPindahBekasi :)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:26:21 +0000 2014",
+      "text": "Up up up  #JKT48SamudraKarawangPindahBekasi :)",
+      "translation": "顶帖顶帖顶帖 #JKT48SamudraKarawangPindahBekasi :)",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:23:39 +0000 2014",
+      "text": "RT @Hibahgigih: @ID_FansJK48_ @JKT48FanBaseBKS Bantu UP #JKT48ForBekasi ke @TRIMSINDONESIA @officialJKT48 dong agar konser kerawang pindah …",
+      "translation": "转发 @Hibahgigih：@ID_FansJK48_ @JKT48FanBaseBKS 帮忙顶帖 #JKT48ForBekasi 给 @TRIMSINDONESIA @officialJKT48，让卡拉旺演唱会搬到勿加泗吧...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 12:23:11 +0000 2014",
+      "text": "RT @Hibahgigih: @I @JKT48FanBaseBKS @JKT48_Bekasi @BKS48_Cikarang @BKS48toKINAL @BKS48_TeamDhike @Veloved48_BKS Ayo up #JKT48SamudraKarawan…",
+      "translation": "转发 @Hibahgigih：@I @JKT48FanBaseBKS @JKT48_Bekasi @BKS48_Cikarang @BKS48toKINAL @BKS48_TeamDhike @Veloved48_BKS 快来顶帖 #JKT48SamudraKarawan...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Mon Oct 20 06:06:23 +0000 2014",
+      "text": "Min @officialJKT48 , minggu ada teaterkah? Kok jadwal blm keluar? Apa kandang kosong?",
+      "translation": "管理员 @officialJKT48，周日有剧场演出吗？为什么日程还没出来？是空场吗？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Sep 26 23:47:56 +0000 2014",
+      "text": "RT @Hibahgigih: Min tlg retweet ini @osis_smkn3 ¦ Bagi anak SMKN3 yg ngaku sbg FansJKT48 mention dong ke @KMT_Official mau kita masukin gru…",
+      "translation": "转发 @Hibahgigih：管理员请转发这个 @osis_smkn3 ¦ SMKN3学校自称JKT48粉丝的学生们，请@KMT_Official，我们想加入群组...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 0
+      }
+    }
+  ]
+}

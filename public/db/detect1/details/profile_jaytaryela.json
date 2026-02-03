@@ -1,0 +1,474 @@
+{
+  "id": "profile_jaytaryela.json",
+  "_fingerprint": "bbf02f5023b54690d15d721b582e15a8",
+  "name": "jaytaryela",
+  "username": "jaytaryela",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、低宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "表现出强烈的责任感和原则性，在涉及国家主权和海洋权益问题上立场坚定，引用官方声明和法律依据，展现出对规则和职责的重视。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "在社交媒体上活跃，直接与外交官、媒体账号互动，公开表达观点并参与辩论，显示出社交自信和表达欲。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "主要关注地缘政治和国际法议题，观点集中在菲律宾国家利益和主权叙事上，对新信息或对立视角的接纳度有限，思维有一定边界。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "在辩论中表现出对抗性，直接反驳对方观点，使用“非法”、“侵略”、“宣传”等强硬词汇，缺乏妥协或共情对方立场的倾向。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "言论中透露出对国家安全的担忧和对主权受侵的愤怒，但情绪表达相对克制，主要通过事实陈述和逻辑论证来支撑情绪，而非纯粹的情绪宣泄。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出对抗性固执、道德优越感和潜在的身份焦虑。",
+      "sub_items": [
+        {
+          "term": "对抗性固执",
+          "analysis": "在争议性话题上难以接受不同立场，倾向于将辩论视为零和博弈，反复强调己方观点的正确性，缺乏灵活调整或寻求中间立场的意愿。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "常以“真相”、“正义”、“主权”的捍卫者自居，将己方立场道德化，同时将对立方的行为描述为“非法”、“欺骗”或“侵略”，构建道德高地。"
+        },
+        {
+          "term": "身份焦虑",
+          "analysis": "言论中透露出对菲律宾国家身份和国际地位的强烈关注，通过强调外部威胁（如中国行动）来强化内部团结和民族自豪感，可能反映出对国力相对弱势的补偿心理。"
+        },
+        {
+          "term": "二元思维倾向",
+          "analysis": "倾向于将复杂的地缘政治简化为“主权捍卫者”与“侵略者”的对立，忽略多边关系和利益交织的灰色地带，可能导致策略僵化。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏爱和基本归因错误。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注和传播支持菲律宾主权立场的信息（如海岸警卫队行动、国际支持），同时淡化或质疑对立信息（如中国的人道主义援助被视为“宣传”）。"
+        },
+        {
+          "term": "群体内偏爱",
+          "analysis": "强烈认同菲律宾国家利益，赞扬国内政治人物和国际盟友的支持，将群体（菲律宾及盟友）行动正当化，对外部群体（中国）持怀疑或负面评价。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "倾向于将中国在南海的行为归因于内在恶意（如“侵略性”、“欺骗性”），而将菲律宾及盟友的行为归因于外部情境（如捍卫主权、国际法），忽略结构性或历史因素。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "频繁引用近期事件（如渔船骚扰、军事部署）来强化威胁感知，可能高估事件发生的频率或影响，影响对长期趋势的客观判断。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开对抗易引发外交摩擦，情绪化言论可能削弱可信度，依赖社交媒体放大争议。",
+      "sub_items": [
+        {
+          "term": "公开对抗风险",
+          "analysis": "直接点名批评中国外交官和媒体，在公开平台进行高强度辩论，可能激化矛盾，引发外交抗议或反制，不利于私下沟通或危机管理。"
+        },
+        {
+          "term": "情绪化表达削弱理性",
+          "analysis": "在强调主权时使用强烈情感词汇（如“自豪”、“愤怒”），可能被对手利用，塑造为情绪驱动而非事实驱动的形象，降低其在理性辩论中的说服力。"
+        },
+        {
+          "term": "社交媒体依赖",
+          "analysis": "主要通过社交媒体平台发声，言论受平台算法和即时反馈影响，可能追求关注度而非深度分析，易陷入碎片化争论，缺乏系统性策略输出。"
+        },
+        {
+          "term": "回应驱动行为",
+          "analysis": "言论常是对中国官员或媒体帖文的直接回应，显示出被动反应模式，可能被对手通过挑衅性言论引导议程，消耗其注意力资源。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度依赖民族主义叙事，易受国内政治变动影响，对盟友支持存在过度期待。",
+      "sub_items": [
+        {
+          "term": "民族主义绑定",
+          "analysis": "将个人立场与菲律宾民族主义紧密捆绑，任何对立场的调整都可能被视为对国家忠诚度的质疑，导致灵活性受限，难以在谈判中妥协。"
+        },
+        {
+          "term": "国内政治依赖性",
+          "analysis": "频繁引用和赞扬特定政治人物（如议员、部长），立场可能随国内政治联盟或领导层更迭而波动，缺乏跨党派的稳定性。"
+        },
+        {
+          "term": "盟友过度理想化",
+          "analysis": "高度评价美国、日本等盟友的支持，可能低估盟友自身利益优先的倾向，一旦盟友政策调整（如减少介入），其立场的基础可能被动摇。"
+        },
+        {
+          "term": "国际法工具化",
+          "analysis": "强调国际法（如专属经济区）但主要应用于针对中国的争议，对法律条文的解释可能选择性服务于政治目标，若遇法律模糊地带易陷入被动。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "领域专长局限在南海议题，缺乏经济文化维度分析，信息源依赖官方和西方媒体。",
+      "sub_items": [
+        {
+          "term": "领域狭窄性",
+          "analysis": "言论高度集中于南海主权和军事安全议题，对中菲关系的经济合作、文化交流等积极面提及极少，分析维度单一，可能影响全面决策能力。"
+        },
+        {
+          "term": "信息源同质化",
+          "analysis": "主要依赖菲律宾官方声明、海岸警卫队报告及西方盟友媒体，缺乏对中国官方立场或学术研究的直接引用，信息生态圈封闭，易产生认知盲点。"
+        },
+        {
+          "term": "战略深度不足",
+          "analysis": "言论多为事件反应和道德谴责，缺乏对长期地缘战略（如区域平衡、经济发展权衡）的系统性阐述，可能局限于战术层面而非战略规划。"
+        },
+        {
+          "term": "跨文化理解欠缺",
+          "analysis": "对中国行为多从负面意图解读，忽略文化、历史或国内政治因素，可能误判对方动机，导致沟通失效或冲突升级。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在主权受侵的焦虑感，身份认同强化需求，以及对国际认可的渴望。",
+      "sub_items": [
+        {
+          "term": "主权焦虑",
+          "analysis": "反复强调菲律宾主权受威胁，透露出深层的不安全感和对国力不对称的忧虑，这种焦虑可能驱动过度防御或对抗行为，影响理性评估。"
+        },
+        {
+          "term": "身份强化需求",
+          "analysis": "通过强调民族自豪（如体育胜利）和外部支持来巩固菲律宾国家身份，可能将外部冲突作为内部团结的工具，导致议题情绪化。"
+        },
+        {
+          "term": "国际认可渴求",
+          "analysis": "积极展示国际盟友（如美、日、德大使）的支持，反映出对国际社会认可其立场的强烈需求，这种依赖可能使其易受外部舆论压力影响。"
+        },
+        {
+          "term": "道德使命驱动",
+          "analysis": "将自身角色定位为“真相捍卫者”，带有使命感，可能忽视实际利益权衡，陷入道德绝对主义，降低在复杂谈判中的灵活性。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "可能旨在塑造国内民族主义舆论，争取国际支持以制衡中国，并提升个人在安全议题上的影响力。",
+      "sub_items": [
+        {
+          "term": "国内舆论塑造",
+          "analysis": "通过强调主权威胁和外部支持，可能意在强化菲律宾公众的民族主义情绪，为强硬政策营造民意基础，影响国内政治议程。"
+        },
+        {
+          "term": "国际联盟构建",
+          "analysis": "公开感谢外国大使和支持，可能旨在鼓励更多国际行为体介入南海议题，形成对中国的多边压力，服务于菲律宾的地缘战略制衡。"
+        },
+        {
+          "term": "个人影响力提升",
+          "analysis": "通过活跃于高争议性议题并直接对抗中国官员，可能寻求建立个人作为主权捍卫者的公众形象，提升在国家安全或外交领域的话语权。"
+        },
+        {
+          "term": "政策推动导向",
+          "analysis": "言论与菲律宾官方立场高度一致，可能意在推动或支持现有强硬政策（如加强海岸警卫队部署、深化盟友合作），而非提出独立替代方案。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题为南海主权与安全，延伸至国际法、盟友关系及国内政治认同。",
+      "sub_items": [
+        {
+          "term": "南海主权争议",
+          "analysis": "聚焦西菲律宾海（南海）的专属经济区权利，频繁讨论中国船只的“非法存在”和菲律宾海岸警卫队的干预行动，强调主权不容侵犯。"
+        },
+        {
+          "term": "国际法与规则",
+          "analysis": "援引国际法（如联合国海洋法公约）论证菲律宾立场，批评中国行为违反规则，并呼吁基于规则的国际秩序。"
+        },
+        {
+          "term": "盟友与多边支持",
+          "analysis": "积极展示美国、日本、德国等国的外交支持，强调盟友在维护地区稳定和规则方面的作用，构建反制中国的国际阵线。"
+        },
+        {
+          "term": "国内政治动员",
+          "analysis": "通过赞扬特定政治人物（如议员、部长）和机构（如国家海事委员会），将南海议题与国内政治忠诚和民族自豪感绑定，促进内部团结。"
+        },
+        {
+          "term": "信息与宣传战",
+          "analysis": "参与对华舆论斗争，直接反驳中国官方叙事（如指责“宣传”），并利用社交媒体传播菲律宾视角的事件报道，争夺话语权。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      10
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 40
+    },
+    {
+      "name": "同伴",
+      "value": 50
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 12:19:47 +0000 2026",
+      "text": "Maraming Salamat, Congresswoman @manayleila, sa pagtindig laban sa mga maling pahayag ng @Chinaembmanila! Mabuhay po kayo! https://t.co/eyhoPCtrae",
+      "translation": "非常感谢，国会议员@manayleila，您挺身而出反对@Chinaembmanila的错误言论！祝您健康长寿！https://t.co/eyhoPCtrae",
+      "stance": "负面",
+      "metrics": {
+        "reply": 29,
+        "retweet": 172,
+        "like": 794
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 11:34:58 +0000 2025",
+      "text": "The Department of National Defense is deeply concerned by China's military and coast guard actions around Taiwan that undermine regional peace and stability, further creating cracks in an already fragile geopolitical environment.\n\nThis heightened scale of coercion has",
+      "translation": "国防部对中国在台湾周边的军事和海警行动深感关切，这些行动破坏了地区和平与稳定，进一步加剧了本已脆弱的地缘政治环境的裂痕。这种升级的胁迫行为已经...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 28,
+        "retweet": 68,
+        "like": 305
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 00:06:37 +0000 2025",
+      "text": "Senator Robin Padilla's statement that confrontation with China yields no benefits for the Philippines and that continued contestation over the WPS is futile. Such position undermines the plight of Filipino fishermen who, just weeks ago, were injured and had their boats damaged https://t.co/orr3vikJGh",
+      "translation": "参议员罗宾·帕迪拉声称与中国对抗对菲律宾无益，并认为继续在西菲律宾海（WPS）进行争夺是徒劳的。这种立场损害了菲律宾渔民的困境，就在几周前，他们受伤且船只受损。https://t.co/orr3vikJGh",
+      "stance": "负面",
+      "metrics": {
+        "reply": 696,
+        "retweet": 536,
+        "like": 2142
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 03:13:04 +0000 2026",
+      "text": "The Philippine Coast Guard swiftly intervened Monday to protect a Filipino fishing vessel harassed by Chinese ships in the West Philippine Sea, providing critical assistance and documenting the encounter.\n\nThe incident occurred around noon on January 12, 2026, as the fishing boat https://t.co/YYiiww3iLt",
+      "translation": "菲律宾海岸警卫队周一迅速介入，保护一艘在西菲律宾海受中国船只骚扰的菲律宾渔船，提供关键援助并记录此次遭遇。事件发生在2026年1月12日中午左右，当时渔船...https://t.co/YYiiww3iLt",
+      "stance": "负面",
+      "metrics": {
+        "reply": 58,
+        "retweet": 361,
+        "like": 1311
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 15:33:58 +0000 2025",
+      "text": "PCG Challenges Chinese Research Vessel Operating Near Cagayan Waters\n\nThe Philippine Coast Guard (PCG), utilizing the Canada’s Dark Vessel Detection program, detected the Chinese Research Vessel (CRV) Tan Suo Er Hao approaching within approximately 19 nautical miles off the coast https://t.co/8xUl9aZla6",
+      "translation": "菲律宾海岸警卫队（PCG）利用加拿大的“暗船探测”项目，发现中国科考船“探索二号”接近卡加延水域约19海里范围内。https://t.co/8xUl9aZla6",
+      "stance": "负面",
+      "metrics": {
+        "reply": 58,
+        "retweet": 185,
+        "like": 454
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 05:58:53 +0000 2025",
+      "text": "I definitely agree on this @globaltimesnews. The photo speaks louder than your propaganda 😅 https://t.co/XnvRbPOyDJ",
+      "translation": "我完全同意@globaltimesnews。照片比你们的宣传更有说服力😅 https://t.co/XnvRbPOyDJ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 25,
+        "retweet": 140,
+        "like": 667
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 05:16:00 +0000 2025",
+      "text": "Despite the United States being the Philippines' oldest treaty ally, it never interfered in the maritime disputes in the South China Sea. The US calling out the People's Republic of China's barbaric, illegal, coercive, aggressive, and deceptive actions in the West Philippine Sea https://t.co/XLYISw89Ii",
+      "translation": "尽管美国是菲律宾最古老的条约盟友，但它从未干涉南海的海事争端。美国谴责中华人民共和国在西菲律宾海的野蛮、非法、胁迫、侵略和欺骗行为...https://t.co/XLYISw89Ii",
+      "stance": "负面",
+      "metrics": {
+        "reply": 114,
+        "retweet": 363,
+        "like": 1409
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 05:12:05 +0000 2025",
+      "text": "Despite the United States being the Philippines' oldest treaty ally, it never interfered in the maritime disputes in the South China Sea. The US calling out the People's Republic of China's barbaric, illegal, coercive, aggressive, and deceptive actions in the West Philippine Sea https://t.co/bC0slPUs7h",
+      "translation": "尽管美国是菲律宾最古老的条约盟友，但它从未干涉南海的海事争端。美国谴责中华人民共和国在西菲律宾海的野蛮、非法、胁迫、侵略和欺骗行为...https://t.co/bC0slPUs7h",
+      "stance": "负面",
+      "metrics": {
+        "reply": 69,
+        "retweet": 228,
+        "like": 889
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 04:29:34 +0000 2026",
+      "text": "Mr. Guo Wei, I am beginning to think you are enjoying to use the social media platforms here in the Philippines because you do not have such freedom in your country. \n\nAnyway, what is clear is that the Philippine government's steadfast transparency initiatives in the West https://t.co/VI96GfJkOQ",
+      "translation": "郭伟先生，我开始认为您喜欢使用菲律宾的社交媒体平台，因为您在贵国没有这样的自由。无论如何，清楚的是，菲律宾政府在西菲律宾海的坚定透明倡议...https://t.co/VI96GfJkOQ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 100,
+        "retweet": 453,
+        "like": 1856
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 01:10:47 +0000 2026",
+      "text": "I have always wondered why we Filipinos rally so passionately around our victories in beauty pageants and international sports—cheering as one nation, claiming every crown or medal as a shared triumph that fills us with collective pride. \n\nYet when it comes to the issue of the https://t.co/0r9hsuG8Vz",
+      "translation": "我一直想知道为什么我们菲律宾人对我们在选美比赛和国际体育赛事中的胜利如此热情地团结一致——作为一个国家欢呼，将每一个桂冠或奖牌视为共同的胜利，让我们充满集体自豪感。然而，当涉及到...https://t.co/0r9hsuG8Vz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 148,
+        "retweet": 1155,
+        "like": 3481
+      }
+    },
+    {
+      "created_at": "Sun Jun 22 09:45:50 +0000 2025",
+      "text": "We must not be afraid to speak for the truth, particularly when that truth has the power to dispel the lies that threaten our nation’s sovereignty. https://t.co/ZNrzNvUC2q",
+      "translation": "我们绝不能害怕为真相发声，尤其是当真相有能力驱散威胁我们国家主权的谎言时。https://t.co/ZNrzNvUC2q",
+      "stance": "无关",
+      "metrics": {
+        "reply": 189,
+        "retweet": 367,
+        "like": 1589
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 23:41:33 +0000 2025",
+      "text": "The Chinese government can complain all it wants about how we perceive this obvious PR stunt, but it still cannot explain—under international law—why a PLA Navy warship was operating deep inside the Philippines' Exclusive Economic Zone without authority/permission from the https://t.co/i8stXca9HN",
+      "translation": "中国政府可以随心所欲地抱怨我们如何看待这场明显的公关噱头，但它仍然无法根据国际法解释——为什么一艘中国人民解放军海军军舰未经菲律宾授权/许可，在菲律宾专属经济区内深处活动...https://t.co/i8stXca9HN",
+      "stance": "负面",
+      "metrics": {
+        "reply": 41,
+        "retweet": 103,
+        "like": 368
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 09:46:20 +0000 2026",
+      "text": "Mr. Guo Wei, once again you seek to divert attention from the central issue: the illegal and unauthorized presence of Chinese naval and coast guard vessels within the Philippines’ Exclusive Economic Zone in the West Philippine Sea.\n\nFirst, there are no overlapping EEZ claims in https://t.co/5WyxRKUU80",
+      "translation": "郭伟先生，您再次试图转移对核心问题的注意力：中国海军和海警船只在菲律宾西菲律宾海专属经济区内的非法和未经授权的存在。首先，在...https://t.co/5WyxRKUU80",
+      "stance": "负面",
+      "metrics": {
+        "reply": 62,
+        "retweet": 290,
+        "like": 935
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 10:41:49 +0000 2026",
+      "text": "Salamat Senator @kikopangilinan sa pagtindig para sa ating karapatan sa West Philippine Sea. Sana ay dumami pa ang katulad mo sa ating lehislatura. 🇵🇭 https://t.co/qI6VUOYpGL",
+      "translation": "感谢参议员@kikopangilinan为我们西菲律宾海的权利挺身而出。希望我们立法机构中能有更多像您这样的人。🇵🇭 https://t.co/qI6VUOYpGL",
+      "stance": "负面",
+      "metrics": {
+        "reply": 46,
+        "retweet": 458,
+        "like": 2646
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 22:20:50 +0000 2026",
+      "text": "STATEMENT OF THE NATIONAL MARITIME COUNCIL ON THE RECENT REMARKS BY THE CHINESE EMBASSY ON THE SITUATION IN THE WEST PHILIPPINE SEA\n\nManila, Philippines | January 12, 2026\n \nThe National Maritime Council (NMC) reaffirms the Philippines’ consistent and principled position on the https://t.co/rgWDJtF6tx",
+      "translation": "国家海事委员会关于中国大使馆近期就西菲律宾海局势言论的声明 马尼拉，菲律宾 | 2026年1月12日 国家海事委员会（NMC）重申菲律宾在西菲律宾海问题上的一贯和原则立场...https://t.co/rgWDJtF6tx",
+      "stance": "负面",
+      "metrics": {
+        "reply": 38,
+        "retweet": 157,
+        "like": 460
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 23:51:23 +0000 2025",
+      "text": "Thank you very much, Ambassador Andreas Pfaffernoschke, for standing with the Philippines in protecting the rules-based international!",
+      "translation": "非常感谢安德烈亚斯·普法费尔诺施克大使，您与菲律宾站在一起，保护基于规则的国际秩序！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23,
+        "retweet": 57,
+        "like": 308
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 11:09:10 +0000 2025",
+      "text": "Thank you, Ambassador Endo Kazuya, for expressing your concern regarding China's aggression towards Filipino fishermen in Escoda Shoal.🇯🇵🇵🇭",
+      "translation": "感谢远藤和也大使，您对中国在埃斯科达浅滩对菲律宾渔民的侵略行为表示关切。🇯🇵🇵🇭",
+      "stance": "负面",
+      "metrics": {
+        "reply": 21,
+        "retweet": 202,
+        "like": 1026
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 10:38:37 +0000 2026",
+      "text": "PCG Continues SAR Operation for Missing Fisherman Amid Illegal Presence of PRC Maritime Forces off Zambales’ Coast\n\nThe Philippine Coast Guard (PCG) has been actively conducting a search and rescue (SAR) operation since January 8, 2026, to locate a fisherman reported missing from https://t.co/NfxconAPIs",
+      "translation": "菲律宾海岸警卫队（PCG）继续在赞巴勒斯海岸附近进行搜救行动，尽管中国海上力量非法存在。自2026年1月8日起，菲律宾海岸警卫队一直在积极进行搜救（SAR）行动，以寻找一名据报失踪的渔民...https://t.co/NfxconAPIs",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 118,
+        "like": 516
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 07:14:40 +0000 2026",
+      "text": "Since Deputy Spokesperson Guo Wei has chosen to directly address me on social media, allow me to respond accordingly.\n\nFirst, I never claimed that your Chinese research vessel \"trespassed.\" As clearly stated in our press release and posts, the Philippine Coast Guard deployed an",
+      "translation": "既然副发言人郭伟选择在社交媒体上直接与我对话，请允许我相应回应。首先，我从未声称您的中国科考船“侵入”。正如我们的新闻稿和帖子中明确指出的，菲律宾海岸警卫队部署了一艘...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 59,
+        "retweet": 280,
+        "like": 1111
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 05:30:32 +0000 2025",
+      "text": "While we acknowledge and appreciate the humanitarian gesture of the People's Liberation Army Navy Luyang III-class guided-missile destroyer with bow number 174 in providing a bottle of water and three packs of biscuits to distressed Filipino fisherman off the coast of Zambales—a https://t.co/ia71c0W8iW",
+      "translation": "虽然我们承认并感谢中国人民解放军海军舷号174的旅洋III级导弹驱逐舰在赞巴勒斯海岸附近向遇困的菲律宾渔民提供一瓶水和三包饼干的人道主义姿态——这一...https://t.co/ia71c0W8iW",
+      "stance": "中立",
+      "metrics": {
+        "reply": 31,
+        "retweet": 107,
+        "like": 422
+      }
+    }
+  ]
+}

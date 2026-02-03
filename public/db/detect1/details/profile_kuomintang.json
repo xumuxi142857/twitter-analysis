@@ -1,0 +1,474 @@
+{
+  "id": "profile_kuomintang.json",
+  "_fingerprint": "8eefc00d8cd037fbf4bdeb56c1da4741",
+  "name": "kuomintang",
+  "username": "kuomintang",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行国际交往与公开活动，积极建立和维护与多国政要、机构及代表的联系，展现出强烈的社交倾向和对外部世界的关注。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "强调对政府预算的监督职责、反对浪费纳税人金钱、承诺跟进具体民生议题，表现出强烈的责任感和对规则、职责的重视。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "关注国际事务与跨领域合作，但在核心政治立场上表现出较强的路径依赖和传统框架，对新范式或根本性变革的接受度有限。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在表达哀悼、祝贺及对受灾地区的同情时展现出合作与友善姿态，但在与政治对手的互动中则表现出明显的对抗性和指责性。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "言论整体保持稳定、正式的外交或政策语调，但在批评对手和强调自身立场时，情绪强度会有所上升，显示出一定的情境性情绪波动。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在对抗性归因、外部依赖倾向和一定的自我正义感。",
+      "sub_items": [
+        {
+          "term": "对抗性归因",
+          "analysis": "倾向于将社会问题或政策困境归咎于政治对手的恶意操纵或失职，而非从更复杂的系统性角度分析，简化了矛盾根源。"
+        },
+        {
+          "term": "外部依赖倾向",
+          "analysis": "将地区安全、国际地位及民主价值的维系，高度寄托于与特定外部力量（尤其是美国及其盟友）的深度合作与支持上。"
+        },
+        {
+          "term": "自我正义感",
+          "analysis": "在批评对手时，常以“负责任政党”、“捍卫民主法治”自居，构建自身行为的道德正当性，可能削弱对自身政策盲点的反思。"
+        },
+        {
+          "term": "二元对立思维",
+          "analysis": "在意识形态表述上，习惯将自身立场与“民主、自由、人权”直接绑定，而将对手与“操纵、扭曲、浪费”等负面标签关联，构建非此即彼的叙事。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏爱和现状偏误。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "主要选择与西方民主国家、保守派智库及国际友台团体互动并发布相关信息，强化了自身国际路线正确性的认知，可能忽略或低估相反信息。"
+        },
+        {
+          "term": "群体内偏爱",
+          "analysis": "对意识形态相近的国际政治力量（如美国共和党关联智库、德国基民盟等）表现出高度赞赏与期待，关系亲疏判断带有明显的价值观滤镜。"
+        },
+        {
+          "term": "现状偏误",
+          "analysis": "在涉及两岸关系的根本定位上，其策略（如“2D战略”）和对外交往模式，实质是寻求维持并强化当前分离现状的国际认可与保障。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "频繁使用国旗符号、友谊、团结等情感化表述来包装政治与安全合作，试图将复杂的战略利益关系转化为易于公众接受的情感联结。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "对外部认可依赖度高，内部政治斗争消耗大，行动受制于国际格局变动。",
+      "sub_items": [
+        {
+          "term": "外部认可依赖",
+          "analysis": "其政治合法性与安全感高度依赖美国及其盟友的公开支持与互动。一旦主要支持方的政策发生摇摆或战略优先级改变，其行动空间将急剧收窄。"
+        },
+        {
+          "term": "内耗性对抗",
+          "analysis": "与主要政治对手陷入持续的相互指责与政治缠斗（如围绕预算、罢免等议题），消耗大量政治资源，可能影响其聚焦长远发展与民生议题的能力。"
+        },
+        {
+          "term": "象征性行动偏好",
+          "analysis": "大量行为集中于外交礼节性活动、声明祝贺与哀悼，虽然有助于维持国际能见度，但相较于解决实质性的内部发展挑战，其直接效用有限。"
+        },
+        {
+          "term": "路径锁定",
+          "analysis": "其“亲美抗中”的基本行为模式已相对固化，在面对区域格局重大变化或新的和解机遇时，可能因路径依赖而缺乏灵活调整的意愿与能力。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在核心主权问题上立场模糊且自相矛盾，经济民生主张缺乏独特性。",
+      "sub_items": [
+        {
+          "term": "主权立场模糊性",
+          "analysis": "一方面使用象征“国家”的旗帜符号并寻求“国际空间”，另一方面在对抗性言论中又避免直接挑战一个中国原则的红线，这种模糊性使其在两岸及国际上面临双重压力。"
+        },
+        {
+          "term": "价值主张同质化",
+          "analysis": "其高举的“民主、自由、人权”旗帜与主要政治对手及西方盟友的宣传高度同质化，缺乏能显著区分自身、且更契合本地社会文化特质的核心价值叙事。"
+        },
+        {
+          "term": "经济民生立场依附性",
+          "analysis": "在能源、AI、长照等关键民生经济议题上的主张，多表现为对执政党的监督与批评，而非提出一套具有自身鲜明特色和系统性的替代方案，易被对手指责为“为反对而反对”。"
+        },
+        {
+          "term": "历史论述困境",
+          "analysis": "在反对“扭曲历史”的同时，自身对涉及中国近现代史，尤其是与自身渊源相关的历史叙事也面临如何平衡“本土化”论述与历史事实的挑战，容易陷入论述矛盾。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "战略自主能力受限，资源动员能力面临挑战，政策创新能力不足。",
+      "sub_items": [
+        {
+          "term": "战略自主能力受限",
+          "analysis": "其安全与对外战略严重依赖外部联盟体系，自身缺乏独立保障安全与拓展国际空间的有效手段与资源，在关键决策上易受掣肘。"
+        },
+        {
+          "term": "资源动员与分配挑战",
+          "analysis": "虽强调预算监督与反对浪费，但在经济增长放缓、财政压力增大的背景下，如何平衡“国防安全”、“社会福利”和“经济发展”的预算分配，是其面临的现实治理难题。"
+        },
+        {
+          "term": "政策创新能力不足",
+          "analysis": "在应对人口老化、能源转型、科技竞争等跨区域共性挑战上，提出的方案多局限于监督与批评，未见引领性的、具有本地化创新特色的政策蓝图。"
+        },
+        {
+          "term": "青年吸引力薄弱",
+          "analysis": "其传统官僚化、注重国际礼仪与内部程序的政治风格，与当下青年世代关注的议题和表达方式存在隔阂，在吸引和培养新生代政治人才方面显露出短板。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在一定的焦虑感与不安全感，认知框架受意识形态束缚。",
+      "sub_items": [
+        {
+          "term": "生存焦虑与不安全感",
+          "analysis": "反复强调“捍卫民主自由”、“保障安全”，显示出对现状可能被改变的深层焦虑。这种焦虑驱动其不断寻求外部安全承诺，但也可能导致反应过度或战略误判。"
+        },
+        {
+          "term": "意识形态框架束缚",
+          "analysis": "其认知世界和制定策略的框架被“民主 vs. 威权”的二元对立叙事所主导，这可能使其难以客观评估复杂国际行为体的多元动机，或错过基于务实利益的合作机会。"
+        },
+        {
+          "term": "历史包袱与身份困惑",
+          "analysis": "作为具有特殊历史背景的政治力量，在处理与大陆的历史连结和当前定位时，存在内在的身份认同张力，这种困惑会影响其政策的一致性与长远规划。"
+        },
+        {
+          "term": "群体极化风险",
+          "analysis": "在激烈的内部政治竞争和简化的“敌我”叙事下，其支持者群体可能趋向情绪化和立场极端化，反过来绑架决策层的理性空间，增加非理性对抗的风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在通过国际化与价值联盟，巩固分离现状并重塑内部政治主导权。",
+      "sub_items": [
+        {
+          "term": "现状国际化与合法化",
+          "analysis": "核心意图是通过与西方民主国家建立多层次、高调的合作关系，将当前的政治分离现状塑造为受到“国际社会”认可和保护的“常态”，从而对抗统一的压力。"
+        },
+        {
+          "term": "价值联盟构建者",
+          "analysis": "试图将自身定位为所谓“民主阵营”在东亚前沿的坚定成员，通过共享价值观来绑定与美日欧等国的战略利益，换取政治与安全支持，提升自身战略价值。"
+        },
+        {
+          "term": "内部政治重塑",
+          "analysis": "通过突出“负责任监督”、“捍卫纳税人利益”的形象，并指责对手“浪费”、“操纵”，意图扭转内部政治力量对比，重塑自身作为“稳健执政力量”的公共认知。"
+        },
+        {
+          "term": "危机叙事利用",
+          "analysis": "有意识地将能源、医疗、长照等民生系统挑战，以及预算争议，建构为执政党失能导致的“危机”，从而为自身强化监督角色、甚至寻求重新执政提供理由。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦于国际关系与安全、内部政治斗争、民生监督及价值观宣导。",
+      "sub_items": [
+        {
+          "term": "国际关系与安全合作",
+          "analysis": "这是最核心的话题领域，涵盖与美国、日本、英国、欧盟及其成员国的各类互动，重点推进安全对话、防务合作及价值观同盟，旨在拓展国际生存空间。"
+        },
+        {
+          "term": "内部政治攻防与监督",
+          "analysis": "持续批评主要政治对手在施政、预算运用及政治操作上的问题，强调自身作为立法监督者的角色，这是维持内部政治影响力和动员支持者的关键战场。"
+        },
+        {
+          "term": "选择性民生议题",
+          "analysis": "有选择地关注能源政策、人工智能发展、长期照护等具有科技前沿性或社会痛点的民生议题，但论述多集中于监督与批评，而非系统性的政策输出。"
+        },
+        {
+          "term": "意识形态与价值观宣导",
+          "analysis": "反复申明对民主、自由、人权、法治的承诺，并反对纳粹主义、法西斯主义等，以此划清意识形态界限，塑造自身道德形象并攻击对手。"
+        },
+        {
+          "term": "礼仪性与人道关怀表达",
+          "analysis": "包括对国家元首生日、宗教领袖更迭的祝贺，以及对自然灾害、重要人物逝世的人道关怀与哀悼。这类话题用于维持国际礼仪形象和展现“普世关怀”。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Feb 26 14:01:20 +0000 2025",
+      "text": "We urge the @DPPonline Government to face the challenge of 🇹🇼’s medical system instead of organizing massive recalls against the opposition. The KMT will stand with our people and oversee the government to return the tax revenue to every taxpayer. https://t.co/ThuB62LQpk",
+      "translation": "我们敦促民进党政府面对台湾医疗体系的挑战，而不是组织大规模罢免反对党。国民党将与人民站在一起，监督政府将税收返还给每一位纳税人。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 156,
+        "retweet": 12,
+        "like": 131
+      }
+    },
+    {
+      "created_at": "Wed Apr 16 08:51:57 +0000 2025",
+      "text": "The KMT firmly opposes all forms of Nazism, Fascism &amp; totalitarianism and reaffirms our commitment to democracy, human rights, and the rule of law. On the other hand, we also oppose @DPPonline's manipulation of public opinion &amp; distortion of history. https://t.co/kgdqNleDl5",
+      "translation": "国民党坚决反对一切形式的纳粹主义、法西斯主义和极权主义，并重申我们对民主、人权和法治的承诺。另一方面，我们也反对民进党操纵舆论和歪曲历史。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 163,
+        "retweet": 28,
+        "like": 210
+      }
+    },
+    {
+      "created_at": "Tue Jan 21 07:11:55 +0000 2025",
+      "text": "Oversight of the budget is the duty of the legislature! On issues like energy and corruption, the KMT will not shy away—what needs to be cut will be cut, and what needs to be frozen will be frozen. Every dollar is taxpayers’ hard-earned money, and we won’t allow any waste! https://t.co/IeUxllGayT",
+      "translation": "监督预算是立法机构的职责！在能源和腐败等问题上，国民党不会回避——该削减的削减，该冻结的冻结。每一分钱都是纳税人的血汗钱，我们绝不允许任何浪费！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 287,
+        "retweet": 30,
+        "like": 353
+      }
+    },
+    {
+      "created_at": "Tue Jan 21 07:06:54 +0000 2025",
+      "text": "The KMT fully supports budgets for critical infrastructure, national security, and public welfare. Freezing budgets isn’t deleting them—agencies are required to provide detailed and responsible reports to justify spending. Let’s ensure taxpayer money is used where it matters! https://t.co/Nh9TmkuLZy",
+      "translation": "国民党全力支持关键基础设施、国家安全和公共福利的预算。冻结预算不是删除预算——要求机构提供详细且负责任的报告来证明支出的合理性。让我们确保纳税人的钱用在刀刃上！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 145,
+        "retweet": 12,
+        "like": 108
+      }
+    },
+    {
+      "created_at": "Tue Feb 18 08:13:10 +0000 2025",
+      "text": "Glad to meet with @GMFAsia #TUPP delegation led by @BonnieGlaser and our old friends from @RANDCorporation &amp; @CSIS. Looking forward to future exchanges! 🇹🇼🤝🇺🇸 https://t.co/qUNcXgV3dV",
+      "translation": "很高兴与由Bonnie Glaser率领的德国马歇尔基金会亚洲项目#TUPP代表团以及来自兰德公司和战略与国际研究中心的我们的老朋友会面。期待未来的交流！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 70,
+        "retweet": 7,
+        "like": 67
+      }
+    },
+    {
+      "created_at": "Tue Aug 12 09:20:01 +0000 2025",
+      "text": "Chairman @eric_chu0607 met with the @BrookingsInst  delegation, underscoring the 2D Strategy, #Defense &amp; #Dialogue, as key to safeguarding regional peace and protecting Taiwan’s democracy and freedom. We look forward to deeper 🇹🇼🤝🇺🇸 security cooperation. https://t.co/UYjQzxnbXF",
+      "translation": "朱立伦主席会见了布鲁金斯学会代表团，强调“2D战略”——防御与对话，是维护地区和平、保护台湾民主与自由的关键。我们期待深化台美安全合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 454,
+        "retweet": 4,
+        "like": 82
+      }
+    },
+    {
+      "created_at": "Tue Apr 29 10:53:12 +0000 2025",
+      "text": "Chairman @eric_chu0607  attended tonight’s King's Day and farewell reception for Rep. #GuidoTielman. We sincerely thank him for his five years of dedication to 🇹🇼🤝🇳🇱 relations. We believes our friendship will keep growing stronger💪 Wishing him great success ahead! https://t.co/K4R22Nr6mL",
+      "translation": "朱立伦主席出席了今晚的国王日暨为Guido Tielman代表举行的欢送招待会。我们衷心感谢他五年来为台荷关系所做的贡献。我们相信我们的友谊将不断加深。祝愿他未来取得巨大成功！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 152,
+        "retweet": 9,
+        "like": 69
+      }
+    },
+    {
+      "created_at": "Thu May 22 07:18:33 +0000 2025",
+      "text": "We are saddened to learn of the passing of Representative @GerryConnolly, a true friend of the 🇹🇼 people.\nHis valiant efforts and role in advancing US-Taiwan relations through the US Congressional Taiwan Caucus will not be forgotten.\nMay he rest in peace.",
+      "translation": "我们悲痛地获悉Gerry Connolly代表去世的消息，他是台湾人民的真正朋友。他通过美国国会台湾连线在推动美台关系方面的英勇努力和作用将不会被遗忘。愿他安息。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 175,
+        "retweet": 3,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Thu May 08 17:40:14 +0000 2025",
+      "text": "We warmly congratulate His Holiness Pope Leo XIV on his election as the 267th Pontiff. As the first American pope, his leadership symbolizes hope, dialogue, and faith across nations. We look forward to continued friendship with the Holy See. https://t.co/k7UFqRbjdQ",
+      "translation": "我们热烈祝贺教宗利奥十四世当选第267任教宗。作为首位美国籍教宗，他的领导象征着跨越国界的希望、对话与信仰。我们期待与教廷继续保持友谊。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 143,
+        "retweet": 16,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Thu Jan 16 02:50:11 +0000 2025",
+      "text": "Vice Chairman Andrew Hsia is delighted to attend the #EUinTaiwan New Year Reception. It also marks the 100th day since the Representative @LutzGuellner took office. Looking forward to stronger 🇹🇼🇪🇺 ties in the future! https://t.co/3jEcrK980z",
+      "translation": "夏立言副主席很高兴出席欧盟驻台办事处的新年招待会。这也标志着Lutz Guellner代表上任第100天。期待未来台欧关系更加紧密！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 67,
+        "retweet": 10,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Thu Jan 16 02:05:44 +0000 2025",
+      "text": "We urge the @dpponline Government to support Speaker #HanKuoYu’s visit to  🇺🇸 @realDonaldTrump’s Presidential Inauguration. Our best wishes to Speaker Han &amp; the delegation! 🇹🇼🤝🇺🇸",
+      "translation": "我们敦促民进党政府支持韩国瑜议长访问美国参加特朗普总统的就职典礼。我们向韩议长及代表团致以最美好的祝愿！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 55,
+        "retweet": 8,
+        "like": 64
+      }
+    },
+    {
+      "created_at": "Thu Feb 27 03:50:02 +0000 2025",
+      "text": "Chairman @eric_chu0607 attended Japan’s Reception to Celebrate the Birthday of His Majesty the Emperor on behalf of the KMT. We extend our best wishes and look forward to stronger Taiwan-Japan ties. 🇹🇼🇯🇵 https://t.co/rrYOAqGdDD",
+      "translation": "朱立伦主席代表国民党出席了日本庆祝天皇陛下生日的招待会。我们致以最美好的祝愿，并期待台日关系更加紧密。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 228,
+        "retweet": 15,
+        "like": 99
+      }
+    },
+    {
+      "created_at": "Thu Feb 13 06:44:36 +0000 2025",
+      "text": "We urge President/@DPPonline  Chairman @ChingteLai to end the massive recall &amp; restore Taiwan’s harmony. As a responsible political party, the KMT will closely follow issues such as #AI, #energy, and #long_term_care for the general public of 🇹🇼. https://t.co/XafnUjyKYy",
+      "translation": "我们敦促总统/民进党主席赖清德停止大规模罢免，恢复台湾的和谐。作为一个负责任的政策，国民党将密切关注人工智能、能源和长期照护等关乎台湾大众的议题。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 110,
+        "retweet": 12,
+        "like": 88
+      }
+    },
+    {
+      "created_at": "Sat Jul 19 16:15:06 +0000 2025",
+      "text": "Chairman Eric Chu extends his sincere condolences on the passing of Dr. Ed Feulner, founder of @Heritage. A steadfast friend of Taiwan and the KMT, his lifelong commitment to freedom and democracy will be remembered with deep respect. 🇹🇼🇺🇸",
+      "translation": "朱立伦主席对传统基金会创始人Ed Feulner博士的逝世表示诚挚的哀悼。他是台湾和国民党的坚定朋友，他对自由和民主的毕生奉献将受到深深的尊敬。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 193,
+        "retweet": 6,
+        "like": 69
+      }
+    },
+    {
+      "created_at": "Mon Feb 24 09:14:59 +0000 2025",
+      "text": "Congratulations to our @idualliance partner, the @CDU , on returning to power as the largest party in the German Bundestag! The KMT firmly believes that under @_FriedrichMerz leadership, Taiwan–Germany relations will grow even closer. 🇹🇼🇩🇪",
+      "translation": "祝贺我们的国际民主联盟伙伴基民盟作为德国联邦议院最大党重新执政！国民党坚信在Friedrich Merz的领导下，台德关系将变得更加紧密。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 41,
+        "retweet": 5,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Mon Apr 21 09:08:45 +0000 2025",
+      "text": "We would like to express our deepest condolences &amp; sympathies on the passing of His Holiness Pope Francis. His Holiness was a beacon of compassion, tolerance, and unity, profoundly impacting Catholics and communities of all faiths in 🇹🇼 and around the globe. May he rest in peace.",
+      "translation": "我们对教宗方济各的逝世表示最深切的哀悼与同情。教宗陛下是同情、宽容与团结的灯塔，深刻影响了台湾及全球各地的天主教徒和所有信仰的社群。愿他安息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 120,
+        "retweet": 16,
+        "like": 126
+      }
+    },
+    {
+      "created_at": "Fri Mar 28 09:10:18 +0000 2025",
+      "text": "We’re deeply saddened by the 7.7-magnitude earthquake that struck #Myanmar and affected neighboring #Thailand. The KMT stands with all those impacted—our thoughts and prayers are with you during this difficult time. 🙏",
+      "translation": "我们对袭击缅甸并影响邻国泰国的7.7级地震深感悲痛。国民党与所有受影响的人们站在一起——在这艰难时刻，我们的思念与祈祷与你们同在。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 124,
+        "retweet": 12,
+        "like": 82
+      }
+    },
+    {
+      "created_at": "Fri Jun 20 03:04:38 +0000 2025",
+      "text": "Delighted to celebrate the birthday of #KingCharlesIII with @UKinTaiwan Rep. Ruth Bradley-Jones. The KMT cherishes the friendship and looks forward to deepening the collaboration between 🇹🇼&amp;🇬🇧. Long live the King! https://t.co/jUZ4Luffv7",
+      "translation": "很高兴与英国驻台代表Ruth Bradley-Jones一起庆祝查尔斯三世国王的生日。国民党珍视这份友谊，并期待深化台英之间的合作。国王万岁！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 290,
+        "retweet": 11,
+        "like": 98
+      }
+    },
+    {
+      "created_at": "Fri Jan 10 08:44:18 +0000 2025",
+      "text": "Our thoughts are with everyone affected by the devastating wildfires in California. The KMT stands in solidarity with the people of the U.S. during this difficult time and hopes for a swift recovery. Our appreciation goes to all the first responders and please stay safe. 🇹🇼🤝🇺🇸",
+      "translation": "我们的心与加州毁灭性野火的所有受影响者同在。在这艰难时刻，国民党与美国人民团结一致，并希望迅速恢复。我们感谢所有急救人员，请注意安全。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 80,
+        "retweet": 12,
+        "like": 78
+      }
+    },
+    {
+      "created_at": "Fri Feb 21 03:01:38 +0000 2025",
+      "text": "Great to meet with @UKinTaiwan Rep. Ruth Bradley-Jones MBE! 🇹🇼 &amp; 🇬🇧 Committed to strengthening collaboration in energy, education, and cyber security. Looking forward to working together! https://t.co/uayKc3GfGN",
+      "translation": "很高兴与英国驻台代表Ruth Bradley-Jones MBE会面！台英致力于在能源、教育和网络安全领域加强合作。期待共同努力！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 62,
+        "retweet": 13,
+        "like": 69
+      }
+    }
+  ]
+}

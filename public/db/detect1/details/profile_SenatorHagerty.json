@@ -1,0 +1,438 @@
+{
+  "id": "profile_SenatorHagerty.json",
+  "_fingerprint": "956a2836b78d466b4c647f6e917a9509",
+  "name": "SenatorHagerty",
+  "username": "SenatorHagerty",
+  "category": "media",
+  "daily_count": 1.8,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "表现出强烈的责任感和组织纪律性，专注于立法工作、政策执行和机构监督，强调规则、法律和程序的重要性，在多个领域推动具体成果。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开演讲、媒体露面、社交互动和关系建立，积极展示领导力和公众形象，享受在政治舞台上的活跃角色和影响力。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在合作与联盟中表现出策略性，能够赞扬盟友和行政部门，但在意识形态和政策争议上立场坚定，不回避对抗性议题。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "对新技术的应用（如核能、加密货币）持务实开放态度，但在社会文化议题上倾向于维护传统价值观和既有制度框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在党派忠诚过度、精英主义倾向和表演性人格特征",
+      "sub_items": [
+        {
+          "term": "党派忠诚过度",
+          "analysis": "言论高度与当前执政党及总统议程保持一致，可能削弱独立批判性，在政策评估中优先考虑政治联盟而非纯粹事实或跨党派利益。"
+        },
+        {
+          "term": "精英主义倾向",
+          "analysis": "频繁与政商界高层、外国官员、机构领袖互动，强调自上而下的决策和领导力，可能疏远基层或普通民众的日常关切。"
+        },
+        {
+          "term": "表演性人格",
+          "analysis": "公共形象经过精心塑造，善于利用媒体平台、象征性事件（如名人生日、纪念日）和情感语言来增强亲和力与政治叙事。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、内群体偏袒和权威偏见",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于引用和支持符合其政治立场及行政当局成就的信息，忽略或淡化相反证据，在经济、能源、安全等领域突出积极叙事。"
+        },
+        {
+          "term": "内群体偏袒",
+          "analysis": "明显偏好本党同僚、意识形态盟友及特定利益集团（如金融、能源、国防），在评价和合作中给予他们更多正面关注和资源支持。"
+        },
+        {
+          "term": "权威偏见",
+          "analysis": "高度信赖行政领导、委员会主席、机构负责人和传统权力结构的决策，倾向于维护现有权威体系而非挑战或改革。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "过度依赖媒体曝光、联盟政治和象征性行动",
+      "sub_items": [
+        {
+          "term": "媒体依赖症",
+          "analysis": "公共沟通严重依赖社交媒体转发、电视访谈和新闻稿，可能简化复杂议题，追求即时反响而非深度政策讨论，易受舆论周期影响。"
+        },
+        {
+          "term": "联盟脆弱性",
+          "analysis": "政治资本紧密绑定于特定行政当局和党内派系，一旦政治风向或联盟关系变化，其影响力和议程推进能力可能迅速衰减。"
+        },
+        {
+          "term": "象征性行动偏好",
+          "analysis": "倾向于参与庆典、祝贺、纪念活动等低风险高能见度行为，而在实质性立法攻坚或争议调解中可能采取更谨慎或跟随策略。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在移民、社会文化、财政政策上立场极化，易引发对立",
+      "sub_items": [
+        {
+          "term": "移民政策强硬",
+          "analysis": "公开支持限制性移民执法，反对庇护城市，将移民议题框架为法律与资源问题，可能激化族群矛盾并疏远多元选民。"
+        },
+        {
+          "term": "文化保守主义",
+          "analysis": "在性别、体育等社会议题上捍卫传统定义，可能被视为排斥进步价值观，与年轻世代或城市选民产生隔阂。"
+        },
+        {
+          "term": "财政优先矛盾",
+          "analysis": "同时倡导减税、反对财政浪费，又支持大规模联邦救灾拨款和能源投资，在财政保守与实用主义间存在叙事张力。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "专业知识集中于特定领域，跨领域协调与创新不足",
+      "sub_items": [
+        {
+          "term": "领域局限性",
+          "analysis": "专长显现在能源、金融、国家安全等传统政策领域，但在科技伦理、气候变化、公共卫生等新兴跨学科议题上缺乏深度论述或创新提案。"
+        },
+        {
+          "term": "协调能力依赖",
+          "analysis": "立法成果高度依赖委员会主席、白宫协调和党内共识，独立推动复杂法案或打破僵局的能力尚未得到充分验证。"
+        },
+        {
+          "term": "应变创新不足",
+          "analysis": "政策思路多延续现有行政框架和传统共和党议程，面对突发危机或范式转变时，可能缺乏快速调整和新解决方案的展现。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在认知刚性、情感绑定和风险规避倾向",
+      "sub_items": [
+        {
+          "term": "认知刚性",
+          "analysis": "在核心意识形态如有限政府、传统价值观、强势国防上立场固化，难以接受根本性质疑或妥协，可能阻碍适应性学习。"
+        },
+        {
+          "term": "情感绑定",
+          "analysis": "对田纳西州、特定历史人物、制度传统有强烈情感依附，决策时可能掺杂地方主义或怀旧情绪，影响客观权衡。"
+        },
+        {
+          "term": "风险规避",
+          "analysis": "偏好稳妥的政治行动，如赞扬现有成就、跟随领导层、聚焦两党共识议题，在高压或高争议情境下可能回避激进改革或对抗。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在巩固政治基础、提升全国影响力、为更高职位铺路",
+      "sub_items": [
+        {
+          "term": "权力积累",
+          "analysis": "通过紧跟行政议程、扩大媒体曝光、构建政商网络，系统性积累政治资本和全国知名度，为未来党内领导角色或行政职位做准备。"
+        },
+        {
+          "term": "意识形态塑造",
+          "analysis": "试图将田纳西州的经济能源成功案例推广为全国模范，强化特定政策品牌，影响党内政策方向乃至国家长期战略。"
+        },
+        {
+          "term": "遗产建构",
+          "analysis": "有意识地关联自身与历史人物、州内标志性文化符号，塑造兼具地方根基与国家视野的政治形象，提升个人历史定位。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注能源与经济、国家安全、金融监管、社会文化",
+      "sub_items": [
+        {
+          "term": "能源与经济领导力",
+          "analysis": "频繁强调核能复兴、能源主导地位、地方投资与就业，将经济政策与国家安全、技术领先捆绑，作为核心政绩叙事。"
+        },
+        {
+          "term": "国家安全与联盟",
+          "analysis": "重视美日同盟等国际伙伴关系，关注边境安全、国防投入，将经济安全与军事安全视为一体，主张强势外交。"
+        },
+        {
+          "term": "金融与市场监管",
+          "analysis": "参与加密货币立法，批评代理顾问，关注金融市场规则与 taxpayer 利益，体现对金融秩序和资本影响力的重视。"
+        },
+        {
+          "term": "社会文化价值观",
+          "analysis": "通过纪念马丁·路德·金、执法致敬日、体育公平等话题，宣扬传统美国价值观、法律秩序与社会团结，巩固保守派基础。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      0,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 22:29:44 +0000 2026",
+      "text": "It was an honor to host my good friend, Japanese Defense Minister Koizumi Shinjiro @shinjirokoiz, in the Senate once again. \n\nAs the United States and Japan mark 75 years of Alliance, our nations continue to strengthen our economic security and national security and to champion a https://t.co/CVMGe0GQPF",
+      "translation": "再次在参议院接待我的好朋友、日本防卫大臣小泉进次郎@shinjirokoiz是我的荣幸。在美国和日本庆祝同盟关系75周年之际，我们两国继续加强经济安全和国家安全，并倡导一个...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 29,
+        "retweet": 18,
+        "like": 104
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 19:53:54 +0000 2026",
+      "text": "RT @USIEducation: USIEA met with U.S. Senators today in Washington, D.C.\n\nOur mission is to educate America’s lawmakers on the strategic, m…",
+      "translation": "RT @USIEducation: 美国国际教育协会今天在华盛顿特区会见了美国参议员。我们的使命是教育美国的立法者关于战略、军事...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 6,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 14:43:31 +0000 2026",
+      "text": "One year into @POTUS’s second term and the results are clear: stronger economy, stronger security, and strong results for Tennesseans. I’m proud to stand with this Administration delivering real wins for our state and nation. 🧵",
+      "translation": "@POTUS第二任期一年，结果显而易见：经济更强劲、安全更稳固，田纳西州人民获得实实在在的成果。我很自豪能与本届政府站在一起，为我们的州和国家带来真正的胜利。🧵",
+      "stance": "无关",
+      "metrics": {
+        "reply": 134,
+        "retweet": 19,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 22:39:19 +0000 2026",
+      "text": "This is a big win for the American taxpayer and the rule of law. It is a waste of resources and an affront to the duly enacted laws of the United States of America to send taxpayer money to sanctuary cities. I am heartened by @POTUS’s leadership to stop it.\n \nIn June, I led my",
+      "translation": "这是美国纳税人和法治的重大胜利。将纳税人的钱送往庇护城市是资源浪费，也是对美利坚合众国正当颁布法律的侮辱。我对@POTUS领导制止此事的行动感到鼓舞。六月，我领导了我的...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 20,
+        "like": 121
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 17:07:00 +0000 2026",
+      "text": "The Supreme Court is currently hearing oral arguments in two incredibly important cases about protecting women and girls in sports. \n\nI have cosponsored @SenKatieBritt, @SenTuberville’s legislation that preserves Title IX protections for female athletes, ensuring that only",
+      "translation": "最高法院目前正在审理两起关于保护妇女和女孩参与体育运动的极其重要的案件的口头辩论。我已共同发起@SenKatieBritt、@SenTuberville的立法，该立法保留第九条对女性运动员的保护，确保只有...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 29,
+        "like": 166
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 16:03:22 +0000 2026",
+      "text": "Congratulations to Mitch Graves, Jeff Hagood, Art Graham, and Randy Jones on officially joining the TVA Board of Directors. Their combined experience and leadership come at a pivotal time as TVA addresses growing energy demand and helps shape America’s energy future. \n\nI look",
+      "translation": "祝贺米奇·格雷夫斯、杰夫·哈古德、阿特·格雷厄姆和兰迪·琼斯正式加入田纳西河谷管理局董事会。他们的综合经验和领导力正值关键时刻，因为TVA正在应对不断增长的能源需求，并帮助塑造美国的能源未来。我期待...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 13,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 15:17:54 +0000 2026",
+      "text": "I applaud Chairman @SenatorTimScott for his leadership, as well as @SenLummis and the White House, for working day and night with all the members of the Banking Committee on the crypto market structure legislation. I am confident we will get to a consensus product in short order.",
+      "translation": "我赞扬主席@SenatorTimScott的领导，以及@SenLummis和白宫，他们与银行委员会所有成员日以继夜地就加密货币市场结构立法进行工作。我相信我们很快就能达成共识性成果。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 226,
+        "retweet": 117,
+        "like": 778
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 19:12:50 +0000 2026",
+      "text": "East Tennessee is at the center of America’s nuclear resurgence. TVA’s $3 million investment in UT Knoxville’s Nuclear Engineering Department supports workforce development, research, and long-term economic growth across the region.\n\nThis is how Tennessee leads!",
+      "translation": "东田纳西州处于美国核能复兴的中心。TVA向田纳西大学诺克斯维尔分校核工程系投资300万美元，支持劳动力发展、研究和该地区的长期经济增长。这就是田纳西州的领导方式！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 7,
+        "like": 45
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 18:14:36 +0000 2026",
+      "text": "From Memphis to stages around the world, Elvis Presley left an indelible mark on American music and culture. On his birthday, we celebrate a Tennessee icon whose legacy still inspires generations of artists and fans alike.",
+      "translation": "从孟菲斯到世界各地的舞台，埃尔维斯·普雷斯利在美国音乐和文化上留下了不可磨灭的印记。在他的生日之际，我们庆祝这位田纳西州的偶像，他的遗产至今仍激励着一代又一代的艺术家和粉丝。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 3,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 15:57:24 +0000 2026",
+      "text": "Very encouraged by @jpmorgan CEO Jamie Dimon’s leadership. Wall Street should follow suit and stop using proxy advisors. \n\nPolicymakers, regulators, and market participants all should recognize the need to terminate the proxy advisors’ biased and irresponsible influence on",
+      "translation": "对@jpmorgan首席执行官杰米·戴蒙的领导力感到非常鼓舞。华尔街应该效仿，停止使用代理顾问。政策制定者、监管机构和市场参与者都应认识到，有必要终止代理顾问对...的偏见和不负责任的影响。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 11,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 17:14:03 +0000 2026",
+      "text": "RT @SundayFutures: Today, exclusively on @SundayFutures with @MariaBartiromo, Tennessee Senator Bill Hagerty @BillHagertyTN spoke about Pre…",
+      "translation": "RT @SundayFutures: 今天，在@SundayFutures与@MariaBartiromo的独家节目中，田纳西州参议员比尔·哈格蒂@BillHagertyTN谈到了总统...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 38,
+        "retweet": 13,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 16:11:30 +0000 2026",
+      "text": "RT @RapidResponse47: \"The contrast couldn't be more stark,\" says @SenatorHagerty on the difference in response to ICE's operations in Memph…",
+      "translation": "RT @RapidResponse47: \"对比再鲜明不过了，\"@SenatorHagerty谈到对ICE在孟菲斯行动的不同反应时说...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 74,
+        "retweet": 780,
+        "like": 3519
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 15:00:00 +0000 2026",
+      "text": "Happy Birthday to Tennessee legend and American icon Dolly Parton! From her music to her philanthropy, she represents the heart, talent, and generosity of our great state. https://t.co/5cGecP9Nzj",
+      "translation": "田纳西州传奇人物和美国偶像多莉·帕顿生日快乐！从她的音乐到她的慈善事业，她代表了我们伟大州的心灵、才华和慷慨。https://t.co/5cGecP9Nzj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 65,
+        "retweet": 17,
+        "like": 94
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 12:00:00 +0000 2026",
+      "text": "Dr. Martin Luther King Jr.’s vision of justice, equality, and unity continues to inspire our nation. Today, we reflect on his legacy and recommit ourselves to building a country where opportunity and dignity are extended to all Americans. https://t.co/5QEpUnTnvg",
+      "translation": "马丁·路德·金博士关于正义、平等和团结的愿景继续激励着我们的国家。今天，我们反思他的遗产，并重新致力于建设一个机会和尊严惠及所有美国人的国家。https://t.co/5QEpUnTnvg",
+      "stance": "无关",
+      "metrics": {
+        "reply": 46,
+        "retweet": 10,
+        "like": 46
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 19:41:08 +0000 2026",
+      "text": "I applaud @POTUS and @KristiNoem’s leadership in ensuring that Tennesseans have the federal resources they need to recover from the devastation caused by Hurricane Helene and previous storms. \n\nI appreciate them working with me to announce the release and approval of $9 million",
+      "translation": "我赞扬@POTUS和@KristiNoem的领导，确保田纳西州人民拥有从飓风海伦娜和先前风暴造成的破坏中恢复所需的联邦资源。感谢他们与我合作，宣布发放和批准900万美元...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32,
+        "retweet": 11,
+        "like": 53
+      }
+    },
+    {
+      "created_at": "Mon Jan 12 15:27:52 +0000 2026",
+      "text": "Enjoyed meeting with leaders from the Tennessee Hospital Association last week in Washington.\n\nWe had a great conversation about rural health access and quality. https://t.co/LPlVlqUr5y",
+      "translation": "上周在华盛顿与田纳西州医院协会的领导人会面很愉快。我们就农村医疗可及性和质量进行了很好的交谈。https://t.co/LPlVlqUr5y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 6,
+        "like": 44
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 20:42:31 +0000 2026",
+      "text": "Tennessee is at the forefront of the Golden Age of nuclear energy. \n\nUnder @POTUS, America is becoming energy dominant.",
+      "translation": "田纳西州处于核能黄金时代的前沿。在@POTUS领导下，美国正变得能源主导。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 83,
+        "retweet": 15,
+        "like": 73
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 20:21:19 +0000 2026",
+      "text": "Congratulations to @RepTimBurchett! There is no one better suited for the job.",
+      "translation": "祝贺@RepTimBurchett！没有人比他更适合这份工作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 80,
+        "retweet": 101,
+        "like": 1174
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 16:35:12 +0000 2026",
+      "text": "On Law Enforcement Appreciation Day, we thank the men and women in blue across Tennessee and the nation for their courage, integrity, and commitment to public safety. We appreciate your service and protecting our communities. https://t.co/nXnjSC8cRp",
+      "translation": "在执法感谢日，我们感谢田纳西州和全国各地的蓝衣男女，感谢他们的勇气、正直和对公共安全的承诺。我们感谢你们的服务和保护我们的社区。https://t.co/nXnjSC8cRp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 35,
+        "retweet": 20,
+        "like": 113
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 12:09:58 +0000 2026",
+      "text": "Coming up on @SquawkCNBC. Tune in!",
+      "translation": "即将在@SquawkCNBC播出。敬请收看！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 16
+      }
+    }
+  ]
+}

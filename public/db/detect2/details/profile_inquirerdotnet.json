@@ -1,0 +1,454 @@
+{
+  "id": "profile_inquirerdotnet.json",
+  "_fingerprint": "0e7dcd113f1d45ee641dc2e2d3105a55",
+  "name": "inquirerdotnet",
+  "username": "inquirerdotnet",
+  "category": "politician",
+  "daily_count": 94.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "内容发布高度结构化、规律性强，涵盖新闻、体育、生活提醒等多个固定板块，表现出强烈的责任感和组织性，致力于提供全面、及时的信息服务。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "积极与多个子账号（如INQUIRERSports）互动并大量转发其内容，热衷于报道体育赛事、公众活动等充满社交能量和公众参与感的事件，展现出外向的传播特性。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "内容覆盖自然灾害、政治、体育、娱乐、社会事件、国际事务等多个领域，显示出一定的信息广度，但报道风格和角度偏向主流、常规，创新性或深度批判性内容较少。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在报道争议性政治或社会事件时（如宪章修改、官员言论、名人事件），通常采用转述官方或当事人声明的中立口吻，避免直接、激烈的冲突性言论，但也缺乏明显的调和或共情表达。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "会发布灾害预警、交通管制、假新闻警示等涉及公共安全与秩序的内容，显示出对混乱和风险的关注，但整体情绪基调稳定，以事实陈述为主，未见极端情绪化表达。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在一定的从众倾向和回避深度冲突的倾向。",
+      "sub_items": [
+        {
+          "term": "规避深度冲突",
+          "analysis": "在面对政治敏感话题或社会争议时，倾向于直接引用官方声明、机构报告或当事人表态，自身避免做出明确的立场判断或深入的价值讨论，可能反映出对引发对立风险的回避。"
+        },
+        {
+          "term": "信息广度优先于深度",
+          "analysis": "追求覆盖新闻的广泛性，从体育赛事实时更新到突发社会事件均有涉猎，但多数内容为事件快讯或转述，缺乏持续的深度调查、背景分析或独家观点，可能影响其在复杂议题上的权威性。"
+        },
+        {
+          "term": "对主流叙事依赖",
+          "analysis": "内容来源高度依赖官方机构（如Phivolcs、PNP、Palace）、知名体育联盟（PBA）及自身媒体矩阵，对于非主流、边缘或批判性信源的采纳和报道明显不足，信息结构较为单一。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威偏见和可得性启发。",
+      "sub_items": [
+        {
+          "term": "权威偏见",
+          "analysis": "在信息选择和呈现上，显著偏好并信赖官方机构、政府声明、知名体育组织等权威信源发布的信息，并以此作为报道的主要依据和框架。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "发布内容高度集中于当下正在发生的、易于获取和验证的热点事件，如实时体育比赛、刚发生的逮捕事件、最新政策宣布等，对历史背景、长期趋势或潜在结构性问题的探讨很少。"
+        },
+        {
+          "term": "中性框架效应",
+          "analysis": "习惯于使用“据...报道”、“...表示”、“READ MORE”等转述性、引导性句式来构建新闻，将自身定位为信息传递渠道而非观点发起者，这种框架可能影响受众对事件复杂性的认知。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "信息源单一、实时更新压力大、易受虚假信息牵连。",
+      "sub_items": [
+        {
+          "term": "信源过度集中风险",
+          "analysis": "对官方和主流机构信源的严重依赖，一旦这些信源发布延迟、错误或经过筛选的信息，会直接导致其报道内容的偏差或失误，且自身缺乏有效的交叉验证机制。"
+        },
+        {
+          "term": "实时内容生产压力",
+          "analysis": "特别是在体育赛事报道上，追求“WATCH”、“JUST IN”、“LIVE updates”等实时性，这种高压、快节奏的内容生产模式容易导致信息核查不充分、报道碎片化或关键细节遗漏。"
+        },
+        {
+          "term": "品牌被冒用与假新闻防御",
+          "analysis": "需要公开发布声明警示公众注意假冒其名义传播的虚假故事，这表明其品牌和公信力正面临被恶意利用的风险，防御和澄清此类事件需要持续投入精力并可能效果有限。"
+        },
+        {
+          "term": "互动模式单一",
+          "analysis": "行为模式以发布和转发为主，与核心信源（子账号、官方机构）的互动是单向的强化，与更广泛受众的深度、批判性互动（如回应质疑、引导讨论）未见显著体现。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治和社会议题上采取谨慎中立姿态，易受官方叙事牵引。",
+      "sub_items": [
+        {
+          "term": "政治议题的谨慎平衡",
+          "analysis": "报道涉及高层政治人物言论、政策变动时，严格采用转述模式，不附加明显评论。这种“不表态”的中立，在高度政治化的议题中可能被各方解读为缺乏立场或暗中默许主流叙事，从而遭受来自不同阵营的压力。"
+        },
+        {
+          "term": "对官方叙事的路径依赖",
+          "analysis": "在报道外交事务（如中日签证问题）、国内政策（如DILG命令）时，叙事起点和主要框架均来源于官方声明，缺乏独立、多元的视角补充，其立场实质上与官方立场高度绑定。"
+        },
+        {
+          "term": "文化民族主义与软性宣传",
+          "analysis": "会主动报道菲律宾运动员在国际赛事中的成就、选美获奖等体现“国家荣耀”的内容，这种文化民族主义立场虽然正面，但若过度或模式化，可能削弱其国际报道的客观性，或被视为一种软性宣传。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "深度分析能力未凸显，跨领域专业知识整合能力有限。",
+      "sub_items": [
+        {
+          "term": "调查性新闻能力隐匿",
+          "analysis": "样本内容以信息播报和转述为主，未展示出深入的调查、取证、访谈或数据分析能力。在涉及腐败指控、争议事件时，仅提供事件表面或当事人单方面说法的链接，深度挖掘能力存疑。"
+        },
+        {
+          "term": "专业领域知识深度不足",
+          "analysis": "虽然覆盖体育、政治、环境、法律等多领域，但内容停留在赛事结果、政策摘要、事件通报层面。缺乏像专业体育分析师、政策评论员或科学记者那样提供背景解读、趋势预测或技术分析的能力。"
+        },
+        {
+          "term": "事实核查与溯源能力压力",
+          "analysis": "在假新闻泛滥的环境下，其作为主流媒体，事实核查能力面临严峻挑战。样本中需专门辟谣，表明其信息生态系统已受污染，维持内容纯净度需要强大的实时核查与溯源能力，这是一大能力考验。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在维持公信力的焦虑和对信息环境失控的潜在担忧。",
+      "sub_items": [
+        {
+          "term": "公信力维护焦虑",
+          "analysis": "发布专门声明打击假冒其品牌的假新闻，这直接反映出其对自身公信力受损存在强烈担忧和焦虑。这种心态可能导致其在报道争议事件时更加保守，以避免任何可能引发质疑的风险。"
+        },
+        {
+          "term": "对信息混乱的抵触",
+          "analysis": "内容高度强调秩序、规则和官方确认，如交通管制、机场安检审计、火灾警报。这种对清晰、有序信息的偏好，反衬出其心智对信息混乱、不可预测的社会事件的潜在不适或担忧。"
+        },
+        {
+          "term": "成就驱动与认可需求",
+          "analysis": "频繁使用“PINOY PRIDE”、“YOU MADE US PROUD”等词汇报道本国成就，并通过展示粉丝热情、比赛盛况来烘托氛围，显示出其内容生产部分受到营造集体认同感和获取公众认可的心理需求驱动。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在巩固主流媒体地位，塑造国家叙事参与者形象，并实现商业流量稳定增长。",
+      "sub_items": [
+        {
+          "term": "巩固主流信息枢纽地位",
+          "analysis": "通过全面覆盖从硬新闻到软新闻、从国家大事到市民生活提醒的所有领域，意图将自己打造为菲律宾公众不可或缺的日常信息主要来源，强化其媒体市场的中心地位。"
+        },
+        {
+          "term": "参与塑造国家与民族叙事",
+          "analysis": "有选择地报道体育荣耀、文化成就、应对灾害、政策执行等正面或体现国家凝聚力的事件，隐含了参与构建积极、有序、有活力的菲律宾国家形象和社会叙事的意图。"
+        },
+        {
+          "term": "实现商业模式的稳定化",
+          "analysis": "体育内容（尤其是PBA）占比极高且更新极快，这不仅能吸引稳定且庞大的体育迷流量，还能通过赛事关联广告、赞助商内容获得商业收益。将严肃新闻与高流量体育内容捆绑，是一种商业上的平衡策略。"
+        },
+        {
+          "term": "规避政治风险，寻求安全运营",
+          "analysis": "在政治报道上极度谨慎，隐藏的意图可能是在复杂的政治环境中寻求生存和发展空间，避免因立场问题而遭到政治压力或制裁，确保媒体机构的长期稳定运营。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题为菲律宾国内体育赛事，并广泛覆盖国内政治、社会事件、灾害安全及部分国际文化事务。",
+      "sub_items": [
+        {
+          "term": "菲律宾职业体育（核心）",
+          "analysis": "菲律宾篮球协会（PBA）赛事是绝对的内容重心，包括赛前分析、实时战报、球员动态、赛后总结等全链条报道。此外也覆盖排球（Spikers’ Turf）、网球（菲律宾女子公开赛）等赛事。"
+        },
+        {
+          "term": "国内政治与治理",
+          "analysis": "关注政府高层言论、政策颁布、法律案件、官员任免及腐败指控等，是硬新闻的主要组成部分，但报道方式以信息传递为主。"
+        },
+        {
+          "term": "社会公共安全与事件",
+          "analysis": "涵盖自然灾害、事故、犯罪事件、公共设施建设、交通提醒、公共卫生等与民众日常生活和安全密切相关的信息。"
+        },
+        {
+          "term": "娱乐文化与民族成就",
+          "analysis": "报道娱乐明星动态、选美比赛获奖、国际体育赛事中菲律宾籍选手的表现等，侧重于能够引发民族自豪感和公众兴趣的软性内容。"
+        },
+        {
+          "term": "国际与外交事务",
+          "analysis": "涉及有限，主要关注与菲律宾直接相关的国际事务，如菲律宾人赴日签证问题、涉及中国的外交表态等，视角通常从菲律宾国内出发。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Fri Jan 30 13:08:45 +0000 2026",
+      "text": "Phivolcs: Grassfire strikes at slope of Taal Volcano Island https://t.co/Y9pNVQ6zXO",
+      "translation": "菲律宾火山地震研究所：塔尔火山岛山坡发生草地火灾 https://t.co/Y9pNVQ6zXO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 13:08:21 +0000 2026",
+      "text": "RT @INQUIRERSports: Hong Kong’s Eudice Chong and Chinese Taipei’s Liang En-Shuo rule the Philippine Women’s Open doubles.\n\nChong and Liang…",
+      "translation": "转发 @INQUIRERSports：香港选手Eudice Chong与中国台北选手梁恩硕在菲律宾女子网球公开赛双打项目中夺冠。Chong和梁...",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 13:05:10 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: Concerns rise for San Miguel Beer as June Mar Fajardo gingerly walks to the bench after a scary fall involving h…",
+      "translation": "转发 @INQUIRERSports：观看：圣米格尔啤酒队担忧加剧，June Mar Fajardo在涉及他的可怕摔倒后小心翼翼地走向替补席...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 13:00:37 +0000 2026",
+      "text": "HEADS UP, MOTORISTS! ⚠️\n\nSome roads along North Edsa to West Avenue will be temporarily closed from February to May due to the installation of the Metro Rail Transit Line 7 (MRT-7) turnback steel box girder.\n\nREAD MORE: https://t.co/1biLqwHAsE https://t.co/Lc8HnnVLLA",
+      "translation": "司机注意！⚠️ 由于安装地铁7号线（MRT-7）折返钢箱梁，北艾德萨至西大道沿线部分道路将于2月至5月临时封闭。 阅读更多：https://t.co/1biLqwHAsE https://t.co/Lc8HnnVLLA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:57:54 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: Things getting competitive or heated between Rey Nambatac and Chris Ross. #PBAFinals | @jonasterradoINQ \n\n•⁠ Fol…",
+      "translation": "转发 @INQUIRERSports：观看：Rey Nambatac和Chris Ross之间的竞争变得激烈或升温。#PBAFinals | @jonasterradoINQ   •⁠ 关注...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:52:36 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: Marcio Lassiter strikes in the third quarter and San Miguel is now ahead in Game 5. #PBAFinals | @jonasterradoIN…",
+      "translation": "转发 @INQUIRERSports：观看：Marcio Lassiter在第三节得分，圣米格尔队在第五场比赛中领先。#PBAFinals | @jonasterradoINQ...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:45:42 +0000 2026",
+      "text": "BEWARE. https://t.co/EDjVS4ZpUM warns the public of fake stories circulating online, falsely claiming to be posted by our site. We categorically deny producing these fabricated content. https://t.co/ZEcnO1VTcE",
+      "translation": "警惕。https://t.co/EDjVS4ZpUM 警告公众注意网上流传的虚假故事，这些故事谎称由我网站发布。我们明确否认制作了这些捏造的内容。https://t.co/ZEcnO1VTcE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:30:22 +0000 2026",
+      "text": "Senate President Vicente Sotto III said he will support any effort for Charter change following the Supreme Court’s decision to uphold the unconstitutionality of the articles of impeachment against Vice President Sara Duterte. \n\nREAD MORE: https://t.co/G9kYI3Tyuf https://t.co/Tv9mClhB5O",
+      "translation": "参议院议长Vicente Sotto III表示，在最高法院裁定维持针对副总统Sara Duterte的弹劾条款违宪后，他将支持任何修宪努力。 阅读更多：https://t.co/G9kYI3Tyuf https://t.co/Tv9mClhB5O",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:28:16 +0000 2026",
+      "text": "Leviste claims admin allies asked him to travel, stop releasing docs https://t.co/8iDwqsidFg",
+      "translation": "Leviste声称行政盟友要求他旅行，停止发布文件 https://t.co/8iDwqsidFg",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:22:50 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: Team owner Manny Pangilinan appears for the first time in the PBA Philippine Cup Finals to root for TNT. #PBAFin…",
+      "translation": "转发 @INQUIRERSports：观看：球队老板Manny Pangilinan首次出现在PBA菲律宾杯总决赛中为TNT加油。#PBAFinals...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:09:04 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: San Miguel and its fans couldn’t hide their frustration over the early struggles and the officiating. #PBAFinals…",
+      "translation": "转发 @INQUIRERSports：观看：圣米格尔队及其球迷无法掩饰对早期困境和裁判判罚的沮丧。#PBAFinals...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:09:01 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: Another big first quarter for the Tropang 5G. #PBAFinals | @jonasterradoINQ \n\n•⁠ Follow our PBA live updates her…",
+      "translation": "转发 @INQUIRERSports：观看：Tropang 5G队又一个强势的第一节。#PBAFinals | @jonasterradoINQ   •⁠ 在此关注我们的PBA实时更新...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:03:30 +0000 2026",
+      "text": "LOOK: A grassfire broke out in the southeast slopes of Taal Volcano Island on Friday night, January 30, according to Phivolcs.\n\nAlert Level 1 remains raised over Taal Volcano. | 📷: Phivolcs/Facebook https://t.co/2Q1IysIyx4",
+      "translation": "看：据菲律宾火山地震研究所称，1月30日周五晚，塔尔火山岛东南坡发生草地火灾。 塔尔火山仍维持1级警报。| 📷：Phivolcs/Facebook https://t.co/2Q1IysIyx4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 12:00:26 +0000 2026",
+      "text": "‘HOPEFULLY LUMABAS ‘YUNG TOTOO REGARDING THIS MATTER’\n\nThe camp of Michelle Dee and Rhian Ramos appealed to the public to let the investigation run its course and keep away from making prejudgments about the actresses.\n\nREAD MORE: https://t.co/dZngHt3lgY https://t.co/ZZMGyJ6eQG",
+      "translation": "‘希望此事真相大白’ Michelle Dee和Rhian Ramos的团队呼吁公众让调查自然进行，避免对女演员们做出预判。 阅读更多：https://t.co/dZngHt3lgY https://t.co/ZZMGyJ6eQG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:52:28 +0000 2026",
+      "text": "BOC nabs passenger with P43-M cocaine at NAIA 3 https://t.co/i49PHqYDwN",
+      "translation": "海关局在尼诺·阿基诺国际机场3号航站楼查获乘客携带价值4300万比索的可卡因 https://t.co/i49PHqYDwN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:34:50 +0000 2026",
+      "text": "RT @INQUIRERSports: WATCH: RR Pogoy is out for Game 5. #PBAFinals | @jonasterradoINQ \n\n•⁠ Follow our PBA live updates here: https://t.co/na…",
+      "translation": "转发 @INQUIRERSports：观看：RR Pogoy缺席第五场比赛。#PBAFinals | @jonasterradoINQ   •⁠ 在此关注我们的PBA实时更新：https://t.co/na...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:33:27 +0000 2026",
+      "text": "RT @INQUIRERSports: STARTERS FOR GAME 5. #PBAFinals\n\nTNT - Rey Nambatac, Jordan Heading, Brandon Ganuelas-Rosser, Calvin Oftana, Kelly Will…",
+      "translation": "转发 @INQUIRERSports：第五场比赛首发阵容。#PBAFinals  TNT - Rey Nambatac, Jordan Heading, Brandon Ganuelas-Rosser, Calvin Oftana, Kelly Will...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:31:36 +0000 2026",
+      "text": "'VISA APPLICATIONS FROM FILIPINOS TO VISIT JAPAN HAVE INCREASED TO UNPRECEDENTED LEVELS'\n\n#ICYMI: The Japanese Embassy in Manila attributed to the “unprecedented levels” of visa applications among Filipinos the shortage of appointment slots in securing a Japanese visa, especially",
+      "translation": "‘菲律宾人申请访问日本的签证数量已达到前所未有的水平’ #ICYMI：日本驻马尼拉大使馆将菲律宾人申请日本签证预约名额短缺归因于签证申请量达到“前所未有的水平”，尤其是",
+      "stance": "中立",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:27:30 +0000 2026",
+      "text": "La Mesa Ecopark celebrates landmark environmental feats in 2025 https://t.co/ba4a8tMHNS",
+      "translation": "拉梅萨生态公园庆祝2025年里程碑式的环境成就 https://t.co/ba4a8tMHNS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:21:38 +0000 2026",
+      "text": "INQToday: Marcos rejects calls to declare Chinese envoy persona non grata – Palace https://t.co/T2w01uVFiv",
+      "translation": "INQ今日新闻：马拉坎南宫表示，马科斯拒绝宣布中国使节为不受欢迎人物的呼吁 https://t.co/T2w01uVFiv",
+      "stance": "中立",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    }
+  ]
+}

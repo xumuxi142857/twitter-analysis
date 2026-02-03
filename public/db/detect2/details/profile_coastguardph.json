@@ -1,0 +1,474 @@
+{
+  "id": "profile_coastguardph.json",
+  "_fingerprint": "2b4c8f64e5eeff761f42ca75ba08dce5",
+  "name": "coastguardph",
+  "username": "coastguardph",
+  "category": "politician",
+  "daily_count": 4.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论高度聚焦于组织职责履行，包括搜救行动、海事安全监控、港口运营等，表现出强烈的责任感和纪律性，所有内容均围绕官方职能展开，格式规范统一。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公共沟通和形象展示，包括领导活动报道、国际交流、媒体声明等，积极塑造组织公开透明的形象，通过社交媒体广泛传播信息。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "在传统海事职责范围内接受新任务（如火山警报响应、垃圾填埋场搜救），但创新性表达有限，内容框架遵循标准官方通报模式，未展现突破性思维。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "言论以服务公众和安全为导向，体现合作倾向（如与其他机构协调），但立场坚定且程序化，在涉及主权或安全事务时可能表现出刚性。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在危机事件（如人员失踪、自然灾害）中保持冷静专业的通报语气，情绪稳定性较高，但频繁发布安全警告可能反映对风险的高度警觉。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在官僚主义倾向、形象管理过度、灵活性不足等潜在缺陷",
+      "sub_items": [
+        {
+          "term": "官僚主义倾向",
+          "analysis": "言论高度层级化和仪式化，如强调领导活动、礼节性访问、正式仪式等，可能影响应急响应的效率和基层自主性。"
+        },
+        {
+          "term": "形象管理过度",
+          "analysis": "大量内容用于展示组织成就、国际认可和正面事件（如通过律师考试、成功救援），可能淡化问题或挑战，存在宣传优先的倾向。"
+        },
+        {
+          "term": "灵活性不足",
+          "analysis": "沟通风格和内容框架高度统一，缺乏个性化或适应性表达，在快速变化的情境中可能显得僵化，依赖标准操作程序。"
+        },
+        {
+          "term": "风险规避倾向",
+          "analysis": "频繁发布详细的安全警告和监控报告，反映对潜在责任的过度关注，可能导致决策保守，避免创新或冒险行动。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威偏见、确认偏见、乐观偏见和群体思维倾向",
+      "sub_items": [
+        {
+          "term": "权威偏见",
+          "analysis": "言论高度依赖上级机构和领导指示，如频繁提及交通部标签、报告指挥链活动，可能忽视基层反馈或替代方案。"
+        },
+        {
+          "term": "确认偏见",
+          "analysis": "选择性强调成功案例（如救援幸存者、找到失踪人员）和正面成果，可能低估失败或未解决问题，强化组织能力认知。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "在通报中倾向于展望积极结果（如准备活动、部署完成），可能淡化长期挑战或系统性风险，如海事安全中的持续漏洞。"
+        },
+        {
+          "term": "群体思维倾向",
+          "analysis": "内容高度符合政府叙事和部门协作框架（如与空军、外国代表团互动），缺乏批判性观点或独立立场，易受组织共识影响。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "在信息透明度、响应速度、公共信任和资源分配方面存在脆弱点",
+      "sub_items": [
+        {
+          "term": "信息透明度局限",
+          "analysis": "言论多为总结性通报或宣传内容，缺乏原始数据、详细评估或失败分析，公众可能质疑其完整性和客观性，影响信任建立。"
+        },
+        {
+          "term": "响应速度依赖程序",
+          "analysis": "行动报道显示遵循标准流程（如定期监控、正式部署），在突发或复杂事件中可能因官僚步骤而延迟，降低应急效率。"
+        },
+        {
+          "term": "公共信任易受事件影响",
+          "analysis": "高度依赖成功案例维持形象，单一重大失败（如救援不力、安全事故）可能迅速削弱公众信心，导致声誉危机。"
+        },
+        {
+          "term": "资源分配偏向可见活动",
+          "analysis": "强调高曝光行动（如国际论坛、领导活动），可能忽视日常维护或低可见性任务，导致长期能力不平衡。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在主权议题、国际关系、国内政治和公众沟通中立场可能僵化",
+      "sub_items": [
+        {
+          "term": "主权议题敏感性",
+          "analysis": "在涉及海域监测、外国代表团互动等事务中立场坚定，易引发国际摩擦或误解，特别是在争议区域行动时缺乏灵活性。"
+        },
+        {
+          "term": "国际关系依赖上级",
+          "analysis": "对外交流（如与美国、日本、德国互动）明显遵循政府外交政策，自主调整空间小，在政策变化时可能被动适应。"
+        },
+        {
+          "term": "国内政治对齐过度",
+          "analysis": "言论与当前政府议程高度一致（如使用部门标签、支持官方活动），政治环境变动可能使其立场显得过时或不受欢迎。"
+        },
+        {
+          "term": "公众沟通单向性",
+          "analysis": "信息流主要为发布而非互动，缺乏公众反馈整合，在危机或争议中可能显得脱离民意，加剧社会分歧。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在技术依赖、跨部门协调、危机管理和人员素质方面存在能力缺口",
+      "sub_items": [
+        {
+          "term": "技术依赖与漏洞",
+          "analysis": "行动依赖监控系统、船舶设备和通信技术，技术故障或网络攻击可能瘫痪关键功能，且言论未显示备用方案或创新技术应用。"
+        },
+        {
+          "term": "跨部门协调效率问题",
+          "analysis": "虽报道与其他机构合作（如空军、地方政府），但流程可能繁琐，在复杂事件（如热带气旋、火山警报）中协调延迟影响整体响应。"
+        },
+        {
+          "term": "危机管理经验局限",
+          "analysis": "处理事件多为常规搜救或监控，缺乏大规模灾难或混合威胁（如海上冲突、环境危机）的公开应对经验，能力未经极端测试。"
+        },
+        {
+          "term": "人员素质不均衡",
+          "analysis": "强调个别成就（如律师考试通过），但未系统展示培训或基层能力，可能存在技能差距或士气问题，影响任务执行。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "在压力应对、决策自主性、学习适应性和批判思维上存在心智弱点",
+      "sub_items": [
+        {
+          "term": "高压情境应对僵化",
+          "analysis": "在紧急事件（如人员失踪、自然灾害）中依赖标准协议，可能缺乏创造性解决方案或快速判断能力，导致应对效果不足。"
+        },
+        {
+          "term": "决策自主性受限",
+          "analysis": "心智框架高度服从上级和程序，在需要独立决策或道德判断的情境中可能犹豫或回避责任，影响领导效能。"
+        },
+        {
+          "term": "学习适应性缓慢",
+          "analysis": "言论显示重复性任务和传统方法，未明显纳入新教训或技术改进，在环境变化中可能落后，如海事安全威胁演变。"
+        },
+        {
+          "term": "批判思维缺乏",
+          "analysis": "内容以宣传和报告为主，避免自我批评或问题分析，可能忽视内部弱点或外部挑战，阻碍组织成长。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "潜在意图包括提升机构地位、争取资源、影响政策和塑造民族主义叙事",
+      "sub_items": [
+        {
+          "term": "机构地位提升",
+          "analysis": "通过展示国际参与、领导活动和成功行动，旨在强化海岸警卫队在国内安全架构中的重要性，争取更多政治和财政支持。"
+        },
+        {
+          "term": "资源与预算竞争",
+          "analysis": "强调广泛职责（从搜救到外交），暗示需要更多装备、人员和资金，潜在意图是在政府分配中优先于其他部门。"
+        },
+        {
+          "term": "政策影响力扩展",
+          "analysis": "参与国防论坛、接待外国官员等活动，显示意图影响海事安全政策和国际合作议程，提升在区域事务中的话语权。"
+        },
+        {
+          "term": "民族主义叙事塑造",
+          "analysis": "在主权相关事件（如火箭残骸回收）和国内活动（如传统节日安保）中，潜在意图是培养公众爱国情感和对机构的忠诚。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题包括海事安全、搜救行动、机构形象、国际合作和国内事务",
+      "sub_items": [
+        {
+          "term": "海事安全与监控",
+          "analysis": "频繁发布安全警告、港口状态和事件报告，核心是维护海域秩序、预防事故和确保航行安全，反映对日常职责的重视。"
+        },
+        {
+          "term": "搜救与应急响应",
+          "analysis": "重点报道人员失踪、自然灾害响应和事故处理，强调生命拯救和危机管理能力，塑造人道主义和专业形象。"
+        },
+        {
+          "term": "机构形象与领导活动",
+          "analysis": "大量内容涉及指挥官员活动、仪式、成就表彰，旨在提升组织声誉、展示纪律性和争取公众信任。"
+        },
+        {
+          "term": "国际合作与外交",
+          "analysis": "包括与外国代表团互动、国际论坛参与，话题聚焦区域安全合作、能力建设和外交对齐，扩展机构国际角色。"
+        },
+        {
+          "term": "国内事务与公共活动",
+          "analysis": "涉及国内节日安保、火山警报响应等，显示对国内稳定和公共服务的承诺，整合机构于国家社会框架中。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      1,
+      1,
+      7
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 13:37:16 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 4PM to 8PM today, January 14, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/3iItb8hwXh\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks https://t.co/CtCYGO0Ahb",
+      "translation": "海事安全通告：2026年1月14日下午4点至8点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/3iItb8hwXh #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/CtCYGO0Ahb",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 08:00:59 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG continues to conduct Maritime Patrol (MARPAT) and Search and Rescue Operations (SAROPS) for a missing fisherman in the vicinity waters off Subic, Zambales, on January 13, 2026.\n\n✍️https://t.co/5pByFRGujv\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/mWhZWyqIrj",
+      "translation": "关注：2026年1月13日，菲律宾海岸警卫队（PCG）继续在苏比克、三描礼士附近水域进行海上巡逻（MARPAT）和搜救行动（SAROPS），寻找一名失踪渔民。✍️https://t.co/5pByFRGujv #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/mWhZWyqIrj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 14:12:44 +0000 2026",
+      "text": "𝐓𝐈𝐍𝐆𝐍𝐀𝐍: Aktibong nakibahagi ang PCG sa send-off ceremony ng mga puwersa ng seguridad at kaligtasan para sa Traslacion 2026 na ginanap sa Quirino Grandstand, Maynila ngayong araw, ika-7 ng Enero 2026.\n\n✍️https://t.co/fNxpV7KzTz\n\n#DOTrPH🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/DW1aMori5J",
+      "translation": "关注：菲律宾海岸警卫队（PCG）积极参与了2026年1月7日在马尼拉奎里诺看台举行的2026年Traslacion活动安全与安保力量的送行仪式。✍️https://t.co/fNxpV7KzTz #DOTrPH🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/DW1aMori5J",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 02:26:07 +0000 2026",
+      "text": "𝐏𝐂𝐆 𝐏𝐑𝐄𝐒𝐒 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓\n07 January 2026\n\n### https://t.co/ypnTmxLp1v",
+      "translation": "菲律宾海岸警卫队（PCG）新闻声明 2026年1月7日 ### https://t.co/ypnTmxLp1v",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 07:22:46 +0000 2026",
+      "text": "𝐏𝐀𝐀𝐋𝐀𝐋𝐀 𝐒𝐀 𝐌𝐆𝐀 𝐀𝐏𝐋𝐈𝐊𝐀𝐍𝐓𝐄!\n\n✍️https://t.co/e6r6QtU4tM\n\n#DOTrPH 📷\n#CoastGuardPH\n#MaritimeSectorWorks",
+      "translation": "对申请者的提醒！✍️https://t.co/e6r6QtU4tM #DOTrPH 📷 #CoastGuardPH #MaritimeSectorWorks",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 06:16:38 +0000 2026",
+      "text": "𝐇𝐄𝐀𝐃𝐒 𝐔𝐏, 𝐀𝐒𝐏𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐀𝐒𝐓 𝐆𝐔𝐀𝐑𝐃𝐈𝐀𝐍𝐒!\n\n✍️https://t.co/Pfc9TYAA1a \n\n#DOTrPH🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks",
+      "translation": "注意了，有抱负的海岸警卫员们！✍️https://t.co/Pfc9TYAA1a #DOTrPH🇵🇭 #CoastGuardPH #MaritimeSectorWorks",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 05:03:57 +0000 2026",
+      "text": "𝐏𝐂𝐆 𝐒𝐄𝐀𝐑𝐂𝐇𝐄𝐒 𝐌𝐈𝐒𝐒𝐈𝐍𝐆 𝐌𝐁𝐂𝐀 𝐀𝐌𝐄𝐉𝐀𝐑𝐀 𝐈𝐍 𝐃𝐀𝐕𝐀𝐎 𝐑𝐄𝐆𝐈𝐎𝐍; 𝐑𝐄𝐒𝐂𝐔𝐄𝐒 𝐎𝐍𝐄 𝐒𝐔𝐑𝐕𝐈𝐕𝐎𝐑\n\n✍️https://t.co/zAJJoI4QVK\n\n#DOTrPH📷\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/6GtzSDcHP7",
+      "translation": "菲律宾海岸警卫队（PCG）在达沃地区搜寻失踪的MBCA AMEJARA；救出一名幸存者 ✍️https://t.co/zAJJoI4QVK #DOTrPH📷 #CoastGuardPH #MaritimeSectorWorks https://t.co/6GtzSDcHP7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 11:16:29 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG welcomed Chargé d’Affaires Ms. Joy Sakurai of the U.S. Mission to the ASEAN, along with her delegation, at the PCG Headquarters on January 12, 2026.\n\n✍️https://t.co/4HNkA8oNnC\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/emn9sl7i60",
+      "translation": "关注：2026年1月12日，菲律宾海岸警卫队（PCG）在PCG总部欢迎美国驻东盟代表团临时代办Joy Sakurai女士及其代表团。✍️https://t.co/4HNkA8oNnC #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/emn9sl7i60",
+      "stance": "中立",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 10:02:07 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: PCG Commandant, Admiral Ronnie Gil L. Gavan PCG, addressed international defense and security leaders at the Honolulu Defense Forum in Honolulu, Hawaii, on January 12, 2026.\n\n✍️https://t.co/ZCL2LFA27x\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/Dw8J2Ce7i9",
+      "translation": "关注：2026年1月12日，菲律宾海岸警卫队（PCG）司令罗尼·吉尔·L·加万海军上将在夏威夷檀香山举行的檀香山防务论坛上向国际防务与安全领导人发表讲话。✍️https://t.co/ZCL2LFA27x #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/Dw8J2Ce7i9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 09:12:11 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG has placed all concerned units on full alert, following the raising of Mayon Volcano to Alert Level 3, indicating an increased tendency toward a hazardous eruption.\n\n✍️https://t.co/KNbOiTxgeE\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/00oiZrvoug",
+      "translation": "关注：在马荣火山警戒级别提升至3级（表明有发生危险喷发的趋势增加）后，菲律宾海岸警卫队（PCG）已命令所有相关单位进入全面戒备状态。✍️https://t.co/KNbOiTxgeE #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/00oiZrvoug",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 07:40:12 +0000 2026",
+      "text": "𝐓𝐈𝐍𝐆𝐍𝐀𝐍: Nakahanda ang Philippine Coast Guard (PCG) sa pagtataguyod ng ligtas at maayos na Traslacion 2026 na gaganapin sa Maynila sa darating na Biyernes, ika-9 ng Enero 2026.\n\n✍️https://t.co/v78WR7vMNa\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/64E2WV9WA2",
+      "translation": "关注：菲律宾海岸警卫队（PCG）已准备好确保将于2026年1月9日星期五在马尼拉举行的2026年Traslacion活动安全有序进行。✍️https://t.co/v78WR7vMNa #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/64E2WV9WA2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 04:24:16 +0000 2026",
+      "text": "𝐏𝐂𝐆 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐏𝐄𝐑𝐒𝐎𝐍𝐍𝐄𝐋 𝐅𝐎𝐑 𝐓𝐑𝐀𝐒𝐋𝐀𝐂𝐈𝐎𝐍 𝟐𝟎𝟐𝟔  \n\n✍️https://t.co/BFwUsfR03E \n\n### https://t.co/eQsmhn43YR",
+      "translation": "菲律宾海岸警卫队（PCG）将为2026年Traslacion活动部署人员 ✍️https://t.co/BFwUsfR03E ### https://t.co/eQsmhn43YR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 23:22:42 +0000 2026",
+      "text": "⁨𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12MN to 4AM today, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/qwVNYZISXL\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/95x6wCuaaV",
+      "translation": "海事安全通告：2026年1月16日凌晨12点至4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/qwVNYZISXL #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks⁩ https://t.co/95x6wCuaaV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 22:46:31 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 8PM to 12MN, January 16, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/lFGm6jtbXD\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks⁩ https://t.co/aZcUQOomg5",
+      "translation": "海事安全通告：2026年1月16日晚上8点至凌晨12点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/lFGm6jtbXD #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks⁩ https://t.co/aZcUQOomg5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 10:34:53 +0000 2026",
+      "text": "𝐅𝐎𝐔𝐑 𝐂𝐎𝐀𝐒𝐓𝐆𝐔𝐀𝐑𝐃𝐈𝐀𝐍𝐒 𝐀𝐓𝐓𝐄𝐍𝐃 𝐌𝐑𝐂𝐂 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐀𝐍𝐃 𝐒𝐀𝐑 𝐂𝐎𝐔𝐑𝐒𝐄 𝐈𝐍 𝐂𝐇𝐄𝐍𝐍𝐀𝐈, 𝐈𝐍𝐃𝐈𝐀\n\n✍️https://t.co/5IiUvYqSYq\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/oijwplSt9b",
+      "translation": "四名海岸警卫员参加印度钦奈的MRCC行动和搜救课程 ✍️https://t.co/5IiUvYqSYq #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/oijwplSt9b",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 09:34:04 +0000 2026",
+      "text": "𝐃𝐀𝐓𝐈𝐍𝐆 𝐊𝐀𝐑𝐏𝐄𝐍𝐓𝐄𝐑𝐎, 𝐍𝐆𝐀𝐘𝐎’𝐘 𝐍𝐀𝐆𝐒𝐄𝐒𝐄𝐑𝐁𝐈𝐒𝐘𝐎 𝐒𝐀 𝐁𝐀𝐘𝐀𝐍\n\n✍️https://t.co/qm1Ar1NZ3m\n\n#DOTrPH 🇵🇭\n#CoastGuardPH\n#MaritimeSectorWorks https://t.co/ck0qjLA2MW",
+      "translation": "木匠已到，现在开始为国家服务 ✍️https://t.co/qm1Ar1NZ3m #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/ck0qjLA2MW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 08:41:34 +0000 2026",
+      "text": "𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: From 12NN to 4PM today, January 15, 2026, the Philippine Coast Guard (PCG) monitored the following:\n\n✍️https://t.co/9iRfnsGbcb\n\n#DOTrPH 🇵🇭\n#CoastGuardPH \n#MaritimeSectorWorks https://t.co/obm1INQMc5",
+      "translation": "海事安全通告：2026年1月15日中午12点至下午4点，菲律宾海岸警卫队（PCG）监测到以下情况：✍️https://t.co/9iRfnsGbcb #DOTrPH 🇵🇭 #CoastGuardPH #MaritimeSectorWorks https://t.co/obm1INQMc5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 04:39:41 +0000 2026",
+      "text": "⁨The PCG monitored 14 ports affected with 3,961 passengers, 1,344 rolling cargoes and 15 vessels were STRANDED, while 10 vessels were TAKING SHELTER due to Tropical Depression #AdaPH from 8AM to 12NN Jan 2026.\n\n✍️⁩https://t.co/F8nTZWsjva\n\n### https://t.co/yPyRo9kjCt",
+      "translation": "2026年1月上午8点至中午12点，由于热带低压#AdaPH，菲律宾海岸警卫队（PCG）监测到14个港口受影响，有3,961名乘客、1,344辆滚动货物和15艘船只滞留，同时有10艘船只正在避风。✍️https://t.co/F8nTZWsjva ### https://t.co/yPyRo9kjCt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 01:44:27 +0000 2026",
+      "text": "⁨⁨𝐌𝐀𝐑𝐈𝐓𝐈𝐌𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐀𝐃𝐕𝐈𝐒𝐎𝐑𝐘: The PCG monitored 16 ports affected with 1,788 passengers, 573 rolling cargoes and 11 vessels were STRANDED, while 11 vessels were TAKING SHELTER due to TD #AdaPH from 4AM to 8AM Jan 15, 2026.\n\n✍️https://t.co/D7I4FSjcmv\n\n###⁩ https://t.co/6RONWOg6zG",
+      "translation": "海事安全通告：2026年1月15日凌晨4点至上午8点，由于热带低压#AdaPH，菲律宾海岸警卫队（PCG）监测到16个港口受影响，有1,788名乘客、573辆滚动货物和11艘船只滞留，同时有11艘船只正在避风。✍️https://t.co/D7I4FSjcmv ###⁩ https://t.co/6RONWOg6zG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 13:24:34 +0000 2026",
+      "text": "𝐋𝐎𝐎𝐊: The PCG Commandant, Admiral Ronnie Gil L. Gavan PCG, presided over the Courtesy Visit and Send-Off Dinner for the Ambassador-Designate to the Federal Republic of Germany, Her Excellency Maria Teresa Almojuela at NHQ-PCG on Jan. 7, 2026.\n\n✍️https://t.co/0SaD6Wm9D7\n\n###⁩ https://t.co/oXjSJlfTHJ",
+      "translation": "关注：2026年1月7日，菲律宾海岸警卫队（PCG）司令罗尼·吉尔·L·加万海军上将在PCG总部主持了为即将赴任的德意志联邦共和国大使玛丽亚·特蕾莎·阿尔莫胡埃拉阁下举行的礼节性访问和送行晚宴。✍️https://t.co/0SaD6Wm9D7 ###⁩ https://t.co/oXjSJlfTHJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 5
+      }
+    }
+  ]
+}

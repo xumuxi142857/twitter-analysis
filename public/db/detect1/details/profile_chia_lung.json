@@ -1,0 +1,474 @@
+{
+  "id": "profile_chia_lung.json",
+  "_fingerprint": "4b4e61e62aab59c740d57fcb2872e073",
+  "name": "chia_lung",
+  "username": "chia_lung",
+  "category": "media",
+  "daily_count": 0.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与公开外交活动，积极与多国政要、机构代表会面，乐于在社交媒体上分享行程与成果，表现出强烈的社交倾向和寻求外部认可的欲望。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "言论中反复强调“深化合作”、“建立伙伴关系”、“推进具体项目”，显示出对建立系统性、可执行的外交议程和成果的高度关注与责任感。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "主要关注点集中于既定的外交、民主、安全议题，对新奇或颠覆性思想的探索有限，思维框架相对稳定，围绕“民主伙伴”、“规则秩序”等核心概念展开。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "对所谓的“民主伙伴”表现出高度合作与友好姿态，但在涉及特定大国时，言辞直接且带有对抗性，显示出基于阵营立场的选择性亲和。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "整体言论基调积极、目标导向，但在面对外部压力时，会迅速表达“拒绝”、“谴责”等情绪化立场，显示出一定的情境性情绪波动和防御心态。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在明显的对抗性认同依赖与理想化投射倾向。",
+      "sub_items": [
+        {
+          "term": "外部认同依赖",
+          "analysis": "自我价值与合法性高度依赖于外部“民主伙伴”的承认与支持，频繁引用他国政要、法案、战略文件作为自身地位的背书，缺乏内在独立的权威构建。"
+        },
+        {
+          "term": "对抗性身份构建",
+          "analysis": "有意识地将自身定位为所谓“民主阵营”在区域的前沿，通过强调与特定大国的对立来凝聚内部认同和获取外部关注，身份建构具有鲜明的对抗色彩。"
+        },
+        {
+          "term": "救世主情结投射",
+          "analysis": "在与发展中小国的合作中，常以“支持”、“分享”、“帮助发展”的姿态自居，将自身塑造为先进技术与理念的提供者，隐含一种居高临下的拯救者心态。"
+        },
+        {
+          "term": "选择性叙事",
+          "analysis": "在描述国际互动时，倾向于只呈现合作与支持的画面，回避或淡化可能存在的分歧与挑战，构建一种片面乐观、一切尽在掌握的外部形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出强烈的“我方-他方”群体偏见与确认偏误。",
+      "sub_items": [
+        {
+          "term": "群体内偏爱",
+          "analysis": "明确将世界划分为“民主伙伴”与“威权压力”两大阵营，对前者无条件赞美与合作，对后者则一概视为威胁与打压，缺乏对具体议题的辩证分析。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "只关注和传播那些能证明“民主伙伴支持”和“外部威胁存在”的信息，对于可能削弱此叙事的事实或观点采取忽视或反驳态度。"
+        },
+        {
+          "term": "零和博弈思维",
+          "analysis": "在区域事务认知上，倾向于将自身的发展与国际空间的拓展视为一种零和游戏，将外部正常的军事演练或外交表态直接解读为对自身的“胁迫”与“威胁”。"
+        },
+        {
+          "term": "过度乐观控制幻觉",
+          "analysis": "对通过外交活动和小型合作项目就能“深化全球伙伴关系”、“维护区域和平”抱有过高期望，低估了结构性国际政治现实的制约力量。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "行为模式高度公开化、仪式化，且依赖特定外部反馈循环。",
+      "sub_items": [
+        {
+          "term": "公开行程依赖",
+          "analysis": "外交活动高度透明且依赖媒体报道与社交平台传播，行程、会晤、签约仪式均需公开以证明“存在感”与“有效性”，隐蔽行动或静默外交能力存疑。"
+        },
+        {
+          "term": "仪式化互动",
+          "analysis": "与伙伴的互动多停留在签署备忘录、举办花园派对、发表联合声明等仪式性层面，对于合作项目的长期落地、风险管控等深层执行细节披露有限。"
+        },
+        {
+          "term": "反馈循环成瘾",
+          "analysis": "其行为动力严重依赖来自特定国家（如美国）的政治声援、法案通过等“正面反馈”，一旦此类反馈减弱或中断，其行为效能和公众形象可能迅速受损。"
+        },
+        {
+          "term": "议题跟随者",
+          "analysis": "主动设置的议程较少，更多是跟随主要“伙伴国”关注的议题（如供应链安全、印太战略）进行呼应和配合，缺乏独立、引领性的战略议题创设能力。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场建立在脆弱的外部承认与对抗性叙事之上。",
+      "sub_items": [
+        {
+          "term": "合法性外部依赖",
+          "analysis": "其核心政治立场（如所谓“国际参与权”）的合法性完全系于少数国家的政治承认与支持，国际普遍共识的缺失是其根本性、结构性的脆弱点。"
+        },
+        {
+          "term": "叙事内在矛盾",
+          "analysis": "一方面宣称“维护区域和平”，另一方面又将特定大国正常的国防行为一概斥为“威胁和平”，这种叙事在逻辑上难以自洽，易被质疑为双重标准。"
+        },
+        {
+          "term": "伙伴关系功利性",
+          "analysis": "与太平洋岛国等小国的“深厚伙伴关系”明显带有争取国际承认、突破外交孤立的目的，这种功利性基础使得关系稳定性受第三方影响大。"
+        },
+        {
+          "term": "价值工具化",
+          "analysis": "将“民主”、“人权”等价值观主要用作区分阵营、争取外部支持的工具，而非纯粹的内在信仰追求，当工具效用下降时，相关立场的感召力也会减弱。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "能力发挥受限于极不对称的外部环境与资源约束。",
+      "sub_items": [
+        {
+          "term": "战略自主性缺失",
+          "analysis": "在关键的安全、经济议题上缺乏独立决策空间，高度依赖和迎合主要支持国的战略方向，自身更像是一个战略执行者而非制定者。"
+        },
+        {
+          "term": "资源投射极限",
+          "analysis": "所能提供的“合作”与“支持”多集中于医疗、旅游、绿色能源等中小型项目，在需要大规模投入或面临重大危机时，其资源投射能力将面临严峻考验。"
+        },
+        {
+          "term": "危机应对单一",
+          "analysis": "面对外部压力时，应对手段似乎仅限于公开谴责、呼吁“民主伙伴”声援、展示外部支持法案等政治外交动作，缺乏多元、灵活、有层次的危机管理工具箱。"
+        },
+        {
+          "term": "人才与知识依赖",
+          "analysis": "在科技、高端制造等其宣称要“分享”的领域，其人才储备与知识创新体系同样存在对外部的深度依赖，可持续的领先优势并不牢固。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑驱动的过度补偿与认知闭合倾向。",
+      "sub_items": [
+        {
+          "term": "存在性焦虑",
+          "analysis": "言论中透露出对国际空间被压缩、被孤立的深层焦虑，频繁的外交活动可视为对这种焦虑的过度补偿，试图用“忙碌”和“成果”来证明“存在”。"
+        },
+        {
+          "term": "认知闭合需求高",
+          "analysis": "倾向于用简单的“民主vs威权”二元框架解释复杂的国际关系，拒绝接受模糊和矛盾的信息，以满足对世界确定性和自身角色清晰化的心理需求。"
+        },
+        {
+          "term": "自尊的外源化",
+          "analysis": "个人与集体的自尊心高度绑定于能否获得大国政要的接见、能否被国际组织邀请等外部符号，内心容易因外部评价的波动而产生剧烈起伏。"
+        },
+        {
+          "term": "未来叙事脆弱",
+          "analysis": "所描绘的“深化全球伙伴关系”的未来愿景，严重依赖于一个恒定不变的外部支持环境，对国际格局可能发生的重大变动缺乏心理预案和叙事备份。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "核心意图是突破现状，实现国际地位“正常化”与安全绑定。",
+      "sub_items": [
+        {
+          "term": "地位正常化攻坚",
+          "analysis": "所有外交活动的深层目标是系统性突破当前国际交往的限制，以“国家”名义参与各类国际组织和活动，实现所谓“国际地位正常化”，样本中的WHO、ICN参与诉求是典型体现。"
+        },
+        {
+          "term": "安全绑定外部化",
+          "analysis": "意图通过高频次、高调的安全议题互动（如讨论印太安全、感谢美国安保法案），将自身安全与特定军事同盟体系进行深度绑定，以换取实质性的安全承诺。"
+        },
+        {
+          "term": "经济脱钩铺垫",
+          "analysis": "推动与美、日、菲等国的经济走廊与合作，深层意图是在关键产业链上减少对特定经济体的依赖，为可能的经济与技术“脱钩”进行布局和铺垫。"
+        },
+        {
+          "term": "塑造“民主灯塔”叙事",
+          "analysis": "通过强调自身“民主成就”并与全球民主议题绑定，意图在西方话语体系中塑造一个“亚洲民主灯塔”的形象，以此获取长期的道义支持与意识形态庇护。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题围绕“国际参与”、“民主同盟”、“对抗叙事”与“务实合作”展开。",
+      "sub_items": [
+        {
+          "term": "国际参与与正名",
+          "analysis": "最核心的话题，贯穿所有样本，包括争取参与WHO、ICN等国际组织，以及通过双边互动寻求事实上的“国家”承认与平等交往地位。"
+        },
+        {
+          "term": "民主价值同盟",
+          "analysis": "高频话题，不断强调与“民主伙伴”（尤其是美国）的团结，将双边关系置于共同的民主价值观框架下，以此强化关系的“特殊性”与“正当性”。"
+        },
+        {
+          "term": "安全威胁与抵抗",
+          "analysis": "关键煽动性话题，将特定大国的军事活动定性为“胁迫”、“威胁和平”，并以此呼吁“民主伙伴”站队支持，构建共同抵御“威胁”的叙事。"
+        },
+        {
+          "term": "务实合作与援助",
+          "analysis": "面向中小型伙伴国的主要话题，聚焦于医疗、旅游、绿色能源、农业等具体领域的项目合作，以“务实成果”展示其“国际贡献者”形象并拓展关系。"
+        },
+        {
+          "term": "经济供应链角色",
+          "analysis": "重要但相对隐含的话题，通过强调自身在全球供应链中的关键角色，意图凸显其不可或缺的经济战略价值，从而提升在主要伙伴国战略考量中的分量。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 31 16:00:43 +0000 2025",
+      "text": "Wishing a Happy New Year to all our democratic friends around the world.\nIn the year ahead, I hope Taiwan will continue to build momentum and deepen global partnerships.\nMay you and your loved ones enjoy peace, health and prosperity in 2026. https://t.co/93wQKSBy8i",
+      "translation": "向全世界所有民主朋友致以新年祝福。在新的一年里，我希望台湾能继续积累势头，深化全球伙伴关系。愿您和您的亲人在2026年享受和平、健康与繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 30,
+        "retweet": 83,
+        "like": 620
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 13:31:20 +0000 2025",
+      "text": "RT @MOFA_Taiwan: ✈️ 2025 Wrapped｜In a challenging year, Taiwan kept moving forward—boosting tech, industry &amp; cultural ties with partners. M…",
+      "translation": "转发 @MOFA_Taiwan：✈️ 2025年回顾｜在充满挑战的一年里，台湾持续前进——加强与伙伴在科技、产业及文化方面的联系。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 22,
+        "retweet": 96,
+        "like": 405
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 13:02:36 +0000 2025",
+      "text": "On #HumanRightsDay, we honor those who advanced #Taiwan’s democracy. Through human rights diplomacy, we promote gender equality, health, and dignity, standing with global partners to defend freedom and democracy against authoritarian pressure. https://t.co/qmsvUzrl38",
+      "translation": "在#人权日，我们向推动#台湾民主进程的人们致敬。通过人权外交，我们促进性别平等、健康与尊严，与全球伙伴站在一起，捍卫自由与民主，对抗威权压力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 31,
+        "like": 116
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 09:11:59 +0000 2025",
+      "text": "Glad to meet Philippine Representative Corazon Padiernos. We reviewed progress from recent trade visits &amp; reaffirmed Taiwan’s commitment to the #Taiwan–#Philippine Economic Corridor. We look forward to deepening cooperation in trade, talent cultivation &amp; smart agriculture. https://t.co/S9WcSRxVFC",
+      "translation": "很高兴会见菲律宾代表Corazon Padiernos。我们回顾了近期贸易访问的进展，并重申台湾对#台湾-#菲律宾经济走廊的承诺。我们期待在贸易、人才培养及智慧农业方面深化合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 34,
+        "like": 172
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 01:57:27 +0000 2025",
+      "text": "Honored to join #AIT’s tea celebrating 85 years of IVLP. Since 1940, IVLP has connected 190 countries &amp; 230k leaders, including 1,300 from# Taiwan. Grateful for AIT’s partnership as Taiwan continues strengthening cooperation with the #US and democratic partners. https://t.co/sGF7Xk9L2x",
+      "translation": "荣幸参加#AIT庆祝IVLP成立85周年的茶会。自1940年以来，IVLP已连接190个国家及23万领导人，包括来自#台湾的1300人。感谢AIT的伙伴关系，台湾将继续加强与#美国及民主伙伴的合作。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 9,
+        "retweet": 38,
+        "like": 168
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 05:59:58 +0000 2025",
+      "text": "Grateful to President Trump for signing the Taiwan Assurance Implementation Act into law, &amp; to the U.S. Congress for passing it unanimously. This reaffirms the rock-solid #Taiwan–#US partnership. We will continue working with our American friends to advance our shared security &amp; https://t.co/qdEDzdDiam",
+      "translation": "感谢特朗普总统签署《台湾保证实施法案》成为法律，并感谢美国国会一致通过该法案。这重申了坚如磐石的#台湾-#美国伙伴关系。我们将继续与美国朋友合作，推进共同安全。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 101,
+        "retweet": 564,
+        "like": 2590
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 01:22:04 +0000 2025",
+      "text": "Warm congratulations to Prime Minister Philip J. Pierre on his reelection. #Taiwan and #SaintLucia share a solid and enduring partnership, and we treasure the bond. We look forward to deepening our cooperation for the benefit of both our peoples.",
+      "translation": "热烈祝贺Philip J. Pierre总理连任。#台湾与#圣卢西亚拥有坚实持久的伙伴关系，我们珍视这一纽带。我们期待深化合作，造福两国人民。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 38,
+        "like": 177
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 12:49:41 +0000 2025",
+      "text": "China’s drills and live fire around Taiwan raise tensions, threaten peace, and endanger air and maritime safety. Taiwan rejects coercion and intimidation. We thank democratic partners for speaking out and standing with Taiwan to uphold regional peace and a rules based order. https://t.co/grUwDck9FB",
+      "translation": "中国在台湾周边的演习和实弹射击加剧紧张局势，威胁和平，危及空中和海上安全。台湾拒绝胁迫和恐吓。我们感谢民主伙伴发声并与台湾站在一起，维护地区和平及基于规则的国际秩序。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 286,
+        "retweet": 297,
+        "like": 1587
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 07:16:04 +0000 2025",
+      "text": "Returning to beautiful #Palau, leading enterprises from the tourism, sustainability, and healthcare sectors to deepen the Taiwan–Palau partnership and build shared prosperity. https://t.co/51dl2xOq1k",
+      "translation": "重返美丽的#帕劳，带领旅游、可持续发展和医疗保健领域的企业深化台湾-帕劳伙伴关系，共创共同繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 36,
+        "like": 316
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 11:35:19 +0000 2025",
+      "text": "Witnessed a landmark MOU as a Taiwanese firm partners with Palau’s Melekeok State to develop an international-standard golf course near the Presidential Office—advancing sustainable tourism, diversifying Palau’s economy, and deepening #Taiwan–#Palau partnership built on trust. https://t.co/3NwBRWQaLP",
+      "translation": "见证了一项里程碑式的谅解备忘录，一家台湾企业与帕劳的梅莱凯奥克州合作，在总统府附近开发符合国际标准的高尔夫球场——推进可持续旅游，多元化帕劳经济，并深化基于信任的#台湾-#帕劳伙伴关系。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 34,
+        "like": 190
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 07:08:40 +0000 2025",
+      "text": "As a Pacific partner, #Taiwan stands ready to support #Palau’s hosting of the 2026 PIF. Guided by the Pacific Way, we’re sharing Taiwan’s strengths through practical cooperation—from green transport to digital, energy, health, and resilience—turning partnership into real results. https://t.co/sfWeoc0JdD",
+      "translation": "作为太平洋伙伴，#台湾随时准备支持#帕劳主办2026年太平洋岛国论坛。遵循太平洋方式，我们通过务实合作分享台湾的优势——从绿色交通到数字、能源、健康和韧性——将伙伴关系转化为实际成果。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 9,
+        "retweet": 36,
+        "like": 243
+      }
+    },
+    {
+      "created_at": "Sun Dec 14 16:21:36 +0000 2025",
+      "text": "RT @MOFA_Taiwan: #Taiwan🇹🇼 strongly condemns the antisemitic terrorist attack in #Australia🇦🇺 targeting a Hanukkah celebration. We mourn th…",
+      "translation": "转发 @MOFA_Taiwan：#台湾🇹🇼强烈谴责#澳大利亚🇦🇺针对光明节庆祝活动的反犹太恐怖袭击。我们哀悼受害者，并向受影响者表示慰问。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 235,
+        "like": 1585
+      }
+    },
+    {
+      "created_at": "Sun Dec 07 11:12:56 +0000 2025",
+      "text": "Honored to host the Taiwan-US Committee Garden Party at Taipei Guest House. Welcomed #AIT Director Raymond Greene &amp; AIT Class principal Michael Graham. We celebrated #Taiwan–#US friendship and shared festive joy while deepening ties in education, tech, and democracy. https://t.co/Msmg0csgw6",
+      "translation": "荣幸在台北宾馆主持台美委员会花园派对。欢迎#AIT处长Raymond Greene及AIT学校校长Michael Graham。我们庆祝#台湾-#美国友谊，分享节日喜悦，同时深化教育、科技和民主方面的联系。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 53,
+        "like": 244
+      }
+    },
+    {
+      "created_at": "Sun Dec 07 09:46:30 +0000 2025",
+      "text": "Appreciate the new U.S. National Security Strategy highlighting Taiwan’s vital role in global supply chains and #IndoPacific security. We thank President Trump for his steadfast support for #Taiwan and our shared commitment to safeguarding regional peace and stability.",
+      "translation": "感谢美国新的国家安全战略强调台湾在全球供应链和#印太安全中的关键作用。我们感谢特朗普总统对#台湾的坚定支持，以及我们共同维护地区和平与稳定的承诺。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 19,
+        "retweet": 47,
+        "like": 217
+      }
+    },
+    {
+      "created_at": "Sat Dec 06 04:34:18 +0000 2025",
+      "text": "Joined President @ChingteLai in welcoming Ambassador Elliott &amp; the @NATLCOMMITTEE delegation. We discussed cross-strait issues, Indo-Pacific security, and #Taiwan-#US economic ties. Taiwan will keep bolstering defense resilience and deepening our partnership with the US. https://t.co/Z3wMi8rx09",
+      "translation": "与@ChingteLai总统一起欢迎Elliott大使及@NATLCOMMITTEE代表团。我们讨论了海峡两岸问题、印太安全及#台湾-#美国经济关系。台湾将继续加强防御韧性，深化与美国的伙伴关系。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 38,
+        "like": 183
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 12:33:55 +0000 2025",
+      "text": "Met President @Surangeljr at Palau’s One Stop Shop, a symbol of #Taiwan–#Palau partnership. We reviewed ongoing cooperation and discussed Palau’s hosting of the 2026 PIF, showcasing joint efforts in renewable energy and sustainable development toward shared prosperity. https://t.co/Cp8tMuJwBs",
+      "translation": "在帕劳的一站式服务中心会见@Surangeljr总统，这是#台湾-#帕劳伙伴关系的象征。我们回顾了正在进行的合作，并讨论了帕劳主办2026年太平洋岛国论坛的事宜，展示了在可再生能源和可持续发展方面的共同努力，以实现共同繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 12,
+        "retweet": 33,
+        "like": 188
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 08:35:34 +0000 2025",
+      "text": "Safely arrived in #Palau. Grateful to President @Surangeljr &amp; the First Lady for their warm hospitality, &amp; to Minister Gustav Aitaro for the gracious welcome. With partners from tourism, healthcare, and green energy, we aim to deepen Taiwan–Palau cooperation &amp; shared prosperity. https://t.co/BHihXWTZpW",
+      "translation": "安全抵达#帕劳。感谢@Surangeljr总统及第一夫人的热情款待，以及Gustav Aitaro部长的亲切欢迎。我们与旅游、医疗保健和绿色能源领域的伙伴一起，旨在深化台湾-帕劳合作及共同繁荣。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 36,
+        "like": 202
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 02:53:37 +0000 2025",
+      "text": "Honored to welcome Knesset Indo-Pacific Chair @MKOhadTal back to Taiwan. We discussed strengthening ties in public health, digital economy, disaster resilience &amp; high-tech talent. #Taiwan &amp; #Israel will continue working together as democratic partners.",
+      "translation": "荣幸欢迎以色列议会印太委员会主席@MKOhadTal再次访问台湾。我们讨论了加强公共卫生、数字经济、灾害韧性和高科技人才方面的联系。#台湾与#以色列将继续作为民主伙伴共同努力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 10,
+        "retweet": 49,
+        "like": 267
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 07:46:02 +0000 2025",
+      "text": "Honored to meet @medwma President Dr. Kitulu, Chair Dr. Resneck &amp; Sec.-Gen. Dr. Kloiber. I thanked WMA for steadfast support for #Taiwan’s participation in the WHO. Taiwan will keep working with global partners to advance medical diplomacy &amp; strengthen global health. https://t.co/mdVpuEBWdb",
+      "translation": "荣幸会见@medwma主席Kitulu博士、Resneck主席及秘书长Kloiber博士。我感谢世界医学协会对#台湾参与世界卫生组织的坚定支持。台湾将继续与全球伙伴合作，推进医疗外交，加强全球健康。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 26,
+        "like": 134
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 06:21:45 +0000 2025",
+      "text": "Taiwan is honored to host the 2027 ICN Congress. I met with ICN CEO Howard Catton &amp; Italo Goyzueta and asked MOFA to fully support TWNA on visas, logistics &amp; reception. We look forward to welcoming nursing professionals from around the world with Taiwan’s warm hospitality. https://t.co/l9eQVnSGzS",
+      "translation": "台湾荣幸主办2027年国际护士理事会大会。我会见了ICN首席执行官Howard Catton及Italo Goyzueta，并要求外交部全力支持台湾护理学会在签证、后勤和接待方面的工作。我们期待以台湾的热情好客欢迎来自世界各地的护理专业人士。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 49,
+        "like": 211
+      }
+    }
+  ]
+}

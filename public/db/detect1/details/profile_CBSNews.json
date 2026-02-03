@@ -1,0 +1,446 @@
+{
+  "id": "profile_CBSNews.json",
+  "_fingerprint": "f6b0f0a6c3d92950710b69e9e79c1e91",
+  "name": "CBSNews",
+  "username": "CBSNews",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等外倾性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "报道内容严格遵守新闻规范，注重事实核查与信息源引用，对政府运作、法律程序等制度性事务表现出系统性关注，体现了对专业职责的恪守。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "报道题材覆盖体育、天气、科技、社会事件、政治等多个领域，显示出对广泛议题的接纳，但报道视角和叙事框架相对传统，遵循主流新闻机构的常规模式。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "积极追踪和报道突发新闻、政治动态及社会热点事件，表现出对外部世界的关注和连接，但主要通过官方渠道和专家信源获取信息，互动模式较为正式。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "报道中会呈现冲突双方或多方的观点，如政府官员与地方议员、执法部门与社区反应，但在涉及政府行为争议时，报道框架倾向于强调问责与调查的必要性。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "对危机事件（如枪击、政府停摆风险、极端天气）能保持报道的连续性和跟进，情绪基调以事实陈述为主，但在报道负面社会事件时，会隐含对秩序失控或程序失当的担忧。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在制度依赖倾向与潜在的精英视角局限。",
+      "sub_items": [
+        {
+          "term": "制度权威依赖",
+          "analysis": "在报道执法冲突、政治争端时，高度依赖官方声明、政府官员、立法机构成员及前执法官员作为核心信源，可能不自觉地强化体制内视角，削弱对草根或非主流叙事的挖掘。"
+        },
+        {
+          "term": "危机叙事程式化",
+          "analysis": "报道突发负面事件时，倾向于快速套用“事件概述-官方反应-政治影响-公众安全提醒”的标准化叙事链条，可能导致报道深度不足，对结构性根源的探讨流于表面。"
+        },
+        {
+          "term": "精英信源偏好",
+          "analysis": "信息获取明显偏向政府机构、国会、执法部门高层、企业官方声明及知名人士，对普通当事人、社区组织或基层工作人员的持续追踪和深度访谈相对欠缺。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误与现状偏误，框架受主流政治和机构叙事影响。",
+      "sub_items": [
+        {
+          "term": "官方叙事确认倾向",
+          "analysis": "在报道联邦执法部门卷入的枪击事件时，迅速引入国会质询、内部调查、人事调动等官方应对流程作为核心叙事线，倾向于通过体制内反应来定义事件的“解决”或“进展”。"
+        },
+        {
+          "term": "事件孤立化处理",
+          "analysis": "倾向于将单个热点事件（如枪击、风暴、诉讼和解）作为独立新闻点进行报道，虽然会提及背景，但较少主动、系统性地连接不同事件以揭示更广泛的社会或政治模式。"
+        },
+        {
+          "term": "程序正义框架",
+          "analysis": "在争议性事件中，强调调查程序、法律问责、官方回应是否合乎规范，这种框架可能将复杂的政治社会矛盾简化为流程或管理问题。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "报道节奏易受突发事件驱动，信源结构单一，存在反应式报道模式。",
+      "sub_items": [
+        {
+          "term": "热点驱动型议程",
+          "analysis": "报道内容明显集中于突发新闻和短期政治社会热点，如枪击案、政府停摆风险、重大天气事件、知名企业诉讼等，对需要长期跟进的深层议题的持续投入可能不足。"
+        },
+        {
+          "term": "信源多样性不足",
+          "analysis": "核心报道严重依赖体制内官员、机构声明和少数签约专家，缺乏来自学术界、社区活动家、受影响平民等多元背景的深度信源，影响报道视角的平衡与创新。"
+        },
+        {
+          "term": "反应式报道模式",
+          "analysis": "许多报道是对已发生事件或官方声明的回应与转述，而非主动设定议程、进行深度调查或预测性分析，这使其在新闻周期中常处于跟随而非引领地位。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在涉及国内政治冲突、政府问责时立场显化，易被卷入党派叙事。",
+      "sub_items": [
+        {
+          "term": "对政府问责的强调",
+          "analysis": "在报道联邦执法部门事件时，反复突出“在调查未完成前发表定性言论”、“面临国会质询”、“因 backlash 而调离”等角度，构建了强烈的对政府行为进行监督与问责的叙事立场。"
+        },
+        {
+          "term": "嵌入两党政治框架",
+          "analysis": "报道政府预算争端时，明确引用民主党议员的反对立场，并将此与具体事件（枪击案）关联，使报道自然融入美国国内两党政治斗争的语境中，立场偏向于对当前行政举措的质疑方。"
+        },
+        {
+          "term": "制度化解决方案偏好",
+          "analysis": "面对社会危机，报道隐含的立场是呼吁或期待通过现有政治法律程序（国会行动、内部调查、司法诉讼、人事调整）来解决问题，对体制外或激进变革方案持忽略或谨慎态度。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "深度调查与跨领域分析能力未充分展现，数据叙事运用有限。",
+      "sub_items": [
+        {
+          "term": "深度调查能力隐匿",
+          "analysis": "报道中虽引用“多个信源”，但内容多为事件动态和官方反应，未展示出对复杂事件背后利益链条、历史脉络或系统性失灵的独立、长篇调查成果，能力更多体现在信息整合而非挖掘上。"
+        },
+        {
+          "term": "跨领域连接能力弱",
+          "analysis": "报道议题虽广，但各话题间几乎无交叉分析。例如，未将极端天气、公共健康警告（雪天心脏病）、甚至体育赌博与更广泛的社会经济政策或气候议题进行有机关联，分析呈碎片化。"
+        },
+        {
+          "term": "数据叙事运用浅层",
+          "analysis": "在报道天气、诉讼金额、投注额时使用了具体数据，但仅作事实陈述，未进一步利用数据进行趋势分析、对比解读或可视化深度报道，数据运用停留在基础层面。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在维护社会现有秩序稳定的潜在焦虑，对体制效能存在矛盾心态。",
+      "sub_items": [
+        {
+          "term": "秩序焦虑",
+          "analysis": "通过引用警方负责人“以为会完全失控”的描述，以及报道社区对联邦执法人员撤离的积极反应，透露出对执法冲突可能升级为社会失序的深层担忧，心智聚焦于社会稳定性的维护。"
+        },
+        {
+          "term": "对体制效能的矛盾心态",
+          "analysis": "一方面持续报道政府运作僵局、执法争议等体现体制失灵的事件，另一方面又不断追踪和呈现体制内的纠正机制（调查、质询、调职、和解），显示出既批判又依赖现有体制的心智模式。"
+        },
+        {
+          "term": "风险规避导向",
+          "analysis": "在报道中穿插公共服务提醒（雪天健康风险）、实用信息（退税时间），反映出其心智中具有强烈的风险预警和实用主义导向，倾向于提供可管理风险的信息，而非鼓励冒险或激进变革。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在巩固其作为主流权威信源的地位，并通过监督叙事塑造公共议程。",
+      "sub_items": [
+        {
+          "term": "塑造权威监督者形象",
+          "analysis": "通过持续、重点报道政府机构（特别是执法和国土安全部门）的争议行为及其面临的问责，意图强化自身作为公共监督者和权力制衡者的角色，提升在政治新闻报道领域的权威性与公信力。"
+        },
+        {
+          "term": "维护主流媒体议程设置权",
+          "analysis": "报道内容紧密围绕华盛顿政治、全国性突发事件、大企业动态等传统主流媒体核心议程，意图在信息碎片化时代，重申和巩固自身在定义何为“重要新闻”方面的主导地位。"
+        },
+        {
+          "term": "平衡商业与公共价值",
+          "analysis": "在报道严肃政治社会新闻的同时，混合以体育、天气、科技、娱乐等受众面广、互动性强的“软新闻”，隐藏意图在于维持收视率与用户参与度，实现公共事务报道与媒体商业诉求之间的平衡。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦国内政治与执法、突发事件，兼顾体育、科技、天气等广泛议题。",
+      "sub_items": [
+        {
+          "term": "国内政治与政府问责",
+          "analysis": "最核心领域，涉及联邦执法行动争议、国会与行政分支冲突、政府预算危机、官员言行问责等，叙事充满张力和持续性。"
+        },
+        {
+          "term": "公共安全与突发事件",
+          "analysis": "包括致命枪击案、极端冬季风暴及其引发的公共健康风险、重大事故等，报道突出即时性、影响范围与官方应对。"
+        },
+        {
+          "term": "体育与娱乐",
+          "analysis": "覆盖奥运会代表团组建、前奥运选手涉毒案、知名艺人新闻等，提供大众化内容，调节媒体节奏。"
+        },
+        {
+          "term": "科技与企业动态",
+          "analysis": "关注大型科技公司的法律诉讼（如隐私侵权和解）、前沿科学研究发现，体现对科技社会影响力的关注。"
+        },
+        {
+          "term": "社会生活与人文",
+          "analysis": "零星涉及税务季节、感人的师生重逢故事、公民海外被拘等，展现对社会日常与个体命运的关注，但深度和频率不及前几类。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      2
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 23:30:00 +0000 2026",
+      "text": "Team USA names Winter Olympics roster, ranging in age from 15-year-old Abby Winterberger to 54-year-old Rich Ruohonen. https://t.co/FHNtankkUG",
+      "translation": "美国队公布冬奥会参赛名单，年龄跨度从15岁的Abby Winterberger到54岁的Rich Ruohonen。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:20:37 +0000 2026",
+      "text": "The threat of a partial government shutdown looms large this week as Senate Democrats vow to oppose a funding package that includes DHS funding, following two deadly shootings by federal immigration agents in Minneapolis this month.\n\nSen. Chris Murphy (D-CT) says that if the https://t.co/LKgHbjPqJw",
+      "translation": "本周，由于参议院民主党人誓言反对包含国土安全部资金的拨款方案，部分政府停摆的威胁迫在眉睫。此前，本月在明尼阿波利斯发生了两起联邦移民官员的致命枪击事件。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30,
+        "retweet": 14,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:15:29 +0000 2026",
+      "text": "The Hudson River is full of ice after a dangerous winter storm hit the New York City area Sunday, causing heavy snow and sleet.\n\nCentral Park saw 11.4 inches of snow in Sunday’s storm, the most ever recorded. New York City and the Tri-State Area are cleaning up Monday from the https://t.co/2WuSAkcfZA",
+      "translation": "周日一场危险的冬季风暴袭击纽约市地区后，哈德逊河结满了冰，带来了大量降雪和雨夹雪。中央公园在周日的风暴中录得11.4英寸的降雪，创下历史记录。纽约市和三州地区周一正在进行清理工作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 26,
+        "like": 99
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:14:46 +0000 2026",
+      "text": "“I thought for sure we were going to completely lose control of the city at this point,” Minneapolis Police Chief Brian O’Hara tells CBS News’ @CBSMATTGUTMAN, describing the moment he learned of another shooting involving federal law enforcement over the weekend in Minnesota. https://t.co/8enKZcblm1",
+      "translation": "明尼阿波利斯警察局长Brian O'Hara告诉CBS新闻的@CBSMATTGUTMAN，'我当时确信我们会在那一刻完全失去对城市的控制'，他描述了得知周末在明尼苏达州又发生一起涉及联邦执法人员的枪击事件时的感受。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 46,
+        "like": 178
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:02:19 +0000 2026",
+      "text": "“It's great news,” Minnesota state Rep. Zack Stephenson says as Border Patrol commander Gregory Bovino and some of his agents are expected to soon leave the Minneapolis area, according to three sources familiar with the move.\n\n“Greg Bovino has no credibility here in Minnesota,” https://t.co/8cz8lGtWuq",
+      "translation": "明尼苏达州众议员Zack Stephenson表示，'这是个好消息'，据三位知情人士透露，边境巡逻队指挥官Gregory Bovino及其部分特工预计将很快离开明尼阿波利斯地区。'Greg Bovino在明尼苏达州毫无信誉可言'。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 24,
+        "like": 80
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:00:43 +0000 2026",
+      "text": "After the second deadly shooting this month by federal immigration agents in Minneapolis, Rodney Harrison, former commissioner of the Suffolk County Police Department in New York, and a CBS News law enforcement contributor, joins CBS News’ Major Garrett on “The Takeout” to https://t.co/FMX7lnGzVj",
+      "translation": "在本月明尼阿波利斯发生第二起联邦移民官员致命枪击事件后，纽约萨福克县警察局前局长、CBS新闻执法事务撰稿人Rodney Harrison，将加入CBS新闻Major Garrett的节目'The Takeout'进行讨论。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 8,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 23:00:00 +0000 2026",
+      "text": "In wake of another shooting in Minneapolis, senators continue to press for answers over death of Renee Good. https://t.co/mvlZCjuh5I",
+      "translation": "在明尼阿波利斯又发生一起枪击事件后，参议员们继续就Renee Good的死亡寻求答案。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 43,
+        "retweet": 12,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:34:20 +0000 2026",
+      "text": "Outspoken Border Patrol commander Gregory Bovino and some of his green-uniformed agents are expected to soon leave the Minneapolis area, three sources familiar with the move tell CBS News.\n\nThe development comes following intense backlash over how top federal officials, including https://t.co/bIiWAVMYZ0",
+      "translation": "据三位知情人士向CBS新闻透露，直言不讳的边境巡逻队指挥官Gregory Bovino及其部分身着绿色制服的队员预计将很快离开明尼阿波利斯地区。这一进展是在包括高层联邦官员在内的处理方式引发强烈反弹后出现的。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 121,
+        "retweet": 60,
+        "like": 160
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:30:00 +0000 2026",
+      "text": "Ex-Olympian Ryan Wedding pleads not guilty to federal charges that he operated a Mexican drug cartel. https://t.co/JNQMV09Olj",
+      "translation": "前奥运选手Ryan Wedding对联邦指控表示不认罪，指控称他运营了一个墨西哥贩毒集团。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:26:11 +0000 2026",
+      "text": "Google has agreed to pay $68 million to settle a class-action lawsuit that alleged the technology giant's voice assistant had illegally recorded users and then shared their private conversations with advertisers.\n\nThe settlement stems from a lawsuit filed by several Google device https://t.co/4hHIvRX56P",
+      "translation": "谷歌已同意支付6800万美元，以和解一项集体诉讼。该诉讼指控这家科技巨头的语音助手非法录制用户对话，并将私人对话分享给广告商。该和解源于几起针对谷歌设备的诉讼。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 51,
+        "like": 113
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:00:00 +0000 2026",
+      "text": "As large parts of the U.S. dig out from a major winter storm, health officials are renewing warnings about the serious and potentially deadly risks of shoveling snow, which has been linked to heart attacks. \n\n https://t.co/xNBIjfXHoS",
+      "translation": "在美国大部分地区正从一场重大冬季风暴中恢复之际，卫生官员再次发出警告，提醒人们注意铲雪带来的严重且可能致命的风险，这与心脏病发作有关。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 8,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:58:14 +0000 2026",
+      "text": "BREAKING: Border Patrol commander Greg Bovino and some of his agents are expected to leave Minneapolis soon, sources say. https://t.co/ANVubybl4a",
+      "translation": "突发新闻：消息人士称，边境巡逻队指挥官Greg Bovino及其部分队员预计将很快离开明尼阿波利斯。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 36,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:55:50 +0000 2026",
+      "text": "Soon after 37-year old Alex Pretti was shot and killed by a U.S. Border Patrol agent, top Trump administration officials, including Department of Homeland Security Secretary Kristi Noem, made sweeping statements about the deadly shooting before a full investigation had begun. https://t.co/yLybItNKby",
+      "translation": "在37岁的Alex Pretti被一名美国边境巡逻队特工枪杀后不久，包括国土安全部部长Kristi Noem在内的特朗普政府高层官员，在全面调查开始前就对这起致命枪击事件发表了全面定性的声明。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 127,
+        "retweet": 47,
+        "like": 123
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:40:00 +0000 2026",
+      "text": "Tax season is officially underway. Here's when you'll get your refund in 2026.\n https://t.co/oN3za9BTng",
+      "translation": "报税季正式开始。以下是您将在2026年收到退税的时间。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 4,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:20:00 +0000 2026",
+      "text": "Bettors seeking to cash in on the weekend's snowstorm flocked to prediction markets to wager millions on how much snow would ultimately accumulate across the U.S., with more than $6 million bet on New York City's totals alone. \n\n https://t.co/rp72COn0Ih",
+      "translation": "希望从周末暴风雪中获利的赌徒们涌向预测市场，押注数百万美元赌美国各地的最终积雪量，仅纽约市的降雪量就吸引了超过600万美元的投注。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:00:00 +0000 2026",
+      "text": "Ye, the artist formerly known as Kanye West, apologized for antisemitic remarks he made in the past and said a brain injury he suffered in a car accident 25 years ago led to his bipolar disorder diagnosis.\n\n https://t.co/F99N46Up0E",
+      "translation": "艺术家Ye，即此前名为Kanye West的人，为他过去发表的反犹太言论道歉，并表示25年前一场车祸导致的脑损伤是他被诊断为双相情感障碍的原因。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:40:00 +0000 2026",
+      "text": "Years after an Atlanta-area teacher helped a student seek help for his depression, the two reunite as he helps to make a difference in others' lives.\n https://t.co/hZgmGMr4L9",
+      "translation": "多年前，亚特兰大地区的一位老师帮助一名学生寻求抑郁症治疗，如今两人重逢，这名学生正在帮助改变他人的生活。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:20:00 +0000 2026",
+      "text": "American Dennis Coyle marks 1 year of detention in Afghanistan\n https://t.co/ziga3sUM4S",
+      "translation": "美国人Dennis Coyle在阿富汗被拘留满一周年。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 11,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:05:00 +0000 2026",
+      "text": "A new high-resolution map of distant galaxies may help scientists understand a mysterious invisible substance that helps hold the universe together.\n\n https://t.co/nlqqWAeV9J",
+      "translation": "一张新的遥远星系高分辨率地图，可能帮助科学家理解一种神秘的、帮助维系宇宙的无形物质。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:42:04 +0000 2026",
+      "text": "White House press secretary Karoline Leavitt addressed the deadly shooting of 37-year-old Alex Pretti by Border Patrol in Minneapolis on Saturday morning, including sweeping, categorical statements made by top Trump administration officials before a full investigation had begun. https://t.co/4UzCQn465Q",
+      "translation": "白宫新闻秘书Karoline Leavitt就周六早上边境巡逻队在明尼阿波利斯枪杀37岁的Alex Pretti一事发表讲话，包括特朗普政府高层官员在全面调查开始前发表的全面、绝对的声明。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 96,
+        "retweet": 31,
+        "like": 90
+      }
+    }
+  ]
+}

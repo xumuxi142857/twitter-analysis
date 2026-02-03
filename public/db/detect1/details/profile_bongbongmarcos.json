@@ -1,0 +1,474 @@
+{
+  "id": "profile_bongbongmarcos.json",
+  "_fingerprint": "c9504c193253838c6be690d7612fb8ef",
+  "name": "bongbongmarcos",
+  "username": "bongbongmarcos",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等宜人性、中等情绪稳定性、中等开放性。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁通过视频博客和社交媒体与公众直接沟通，积极参与竞选活动和公共事务讨论，表现出强烈的社交倾向和领导展示欲。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "在灾害应对、外交事务和公共服务中强调政府责任、系统规划和承诺履行，展现出对职责和承诺的高度重视。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在表达同情和支持时表现出合作与关怀，但在政治立场和外交表态中保持明确的国家利益导向，不回避潜在分歧。"
+        },
+        {
+          "term": "中等情绪稳定性",
+          "analysis": "在危机和挑战面前保持冷静和控制的公开形象，但言论中透露出对国内灾害和国际局势的持续关注与压力感。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "支持科技创新和进步愿景，但在政治和外交议题上倾向于遵循传统联盟框架和国家叙事，对新异思想的接纳有限。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在表演型倾向、过度乐观主义、权威依赖和叙事控制需求。",
+      "sub_items": [
+        {
+          "term": "表演型倾向",
+          "analysis": "通过精心制作的视频博客和仪式性语言塑造亲民形象，注重公众场合的形象管理和情感渲染，可能削弱政策实质的深度讨论。"
+        },
+        {
+          "term": "过度乐观主义",
+          "analysis": "在灾害恢复和国家愿景中频繁使用鼓舞性语言，承诺快速解决方案，可能低估长期结构性挑战的复杂性。"
+        },
+        {
+          "term": "权威依赖",
+          "analysis": "强调政府控制和领导作用，在危机中反复保证政府掌控力，可能反映出对集中决策和自上而下管理模式的偏好。"
+        },
+        {
+          "term": "叙事控制需求",
+          "analysis": "积极构建“新菲律宾”等国家叙事，统一公共话语，可能抑制多元观点和批判性讨论的空间。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏袒、乐观偏误和权威偏误。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于引用和支持符合其政治联盟和国家愿景的信息，如强调菲美联盟的持久性和国内政策的成功案例。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "强烈认同菲律宾国家和民族利益，在海外菲律宾人福祉和国际事务中优先考虑本国公民和立场。"
+        },
+        {
+          "term": "乐观偏误",
+          "analysis": "高估灾害恢复、外交成果和国家转型的速度与效果，可能忽视潜在阻力和意外因素。"
+        },
+        {
+          "term": "权威偏误",
+          "analysis": "依赖政府机构和传统外交渠道作为主要信息与行动来源，对非官方或基层倡议的重视相对不足。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "过度依赖媒体形象、危机管理压力、外交平衡挑战和公众期望管理困难。",
+      "sub_items": [
+        {
+          "term": "媒体形象依赖",
+          "analysis": "公众沟通高度依赖视频博客和社交媒体，若遭遇媒体故障或负面曝光，可能迅速影响公众信任和形象稳定性。"
+        },
+        {
+          "term": "危机管理压力",
+          "analysis": "在连续自然灾害中需要同时协调救援、恢复和公众安抚，资源与人员 stretched 可能导致决策疲劳和响应延迟。"
+        },
+        {
+          "term": "外交平衡挑战",
+          "analysis": "在强化菲美联盟的同时需处理与其他大国关系，表态支持乌克兰等议题可能增加国际关系复杂性和国内政治压力。"
+        },
+        {
+          "term": "公众期望管理",
+          "analysis": "通过高调承诺塑造公众对快速变革的期望，若政策效果滞后或不及预期，易引发失望和信任危机。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "亲美联盟依赖、国内政治对立、灾害应对质疑和国际立场矛盾。",
+      "sub_items": [
+        {
+          "term": "亲美联盟依赖",
+          "analysis": "公开祝贺美国领导人并强调菲美联盟持久性，若美国政策变动或双边关系波动，可能削弱其外交基础和国际影响力。"
+        },
+        {
+          "term": "国内政治对立",
+          "analysis": "作为政治人物，其政策和言论可能持续面临国内反对派和公众的审查与挑战，尤其在灾害管理和经济议题上。"
+        },
+        {
+          "term": "灾害应对质疑",
+          "analysis": "在频繁自然灾害背景下，政府应对效果和资源分配可能成为公众和媒体持续批评的焦点，影响执政合法性。"
+        },
+        {
+          "term": "国际立场矛盾",
+          "analysis": "支持乌克兰主权等表态可能与传统合作伙伴或国内不同意见产生摩擦，需谨慎平衡价值观外交与现实利益。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "多任务处理压力、资源分配局限、外交斡旋复杂性和技术创新落实挑战。",
+      "sub_items": [
+        {
+          "term": "多任务处理压力",
+          "analysis": "同时处理灾害恢复、外交谈判、国内政策推行和公众沟通，可能分散注意力，降低关键议题的决策质量。"
+        },
+        {
+          "term": "资源分配局限",
+          "analysis": "在灾害响应中承认资源紧张，长期可能暴露基础设施和财政能力的不足，影响公共服务和经济稳定。"
+        },
+        {
+          "term": "外交斡旋复杂性",
+          "analysis": "成功营救海外公民显示外交能力，但类似案件依赖长期谈判和国际合作，未来可能面临更复杂的地缘政治障碍。"
+        },
+        {
+          "term": "技术创新落实",
+          "analysis": "倡导科技创新和STEM发展，但实际推动需要持续投资、教育变革和产业支持，可能遭遇执行瓶颈。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "控制欲焦虑、认同维持压力、决策孤立风险和愿景疲劳。",
+      "sub_items": [
+        {
+          "term": "控制欲焦虑",
+          "analysis": "在危机中反复强调政府控制和命令执行，反映出对局势失控的深层焦虑，可能导致 micromanagement 和团队依赖降低。"
+        },
+        {
+          "term": "认同维持压力",
+          "analysis": "需持续维护“新菲律宾”和国家团结的叙事，面对灾害、经济困难或政治分歧时，心理压力可能影响判断力和韧性。"
+        },
+        {
+          "term": "决策孤立风险",
+          "analysis": "依赖权威和传统渠道可能限制信息多样性，在复杂决策中陷入群体思维，忽视预警信号或替代方案。"
+        },
+        {
+          "term": "愿景疲劳",
+          "analysis": "长期推行转型愿景并应对连续危机，可能导致心理倦怠和乐观情绪衰减，影响公众动员和领导持续性。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治遗产、提升国际地位、转移国内批评和塑造民族认同。",
+      "sub_items": [
+        {
+          "term": "巩固政治遗产",
+          "analysis": "通过“新菲律宾”愿景和灾害应对表现，旨在建立持久政治影响和历史定位，超越短期执政目标。"
+        },
+        {
+          "term": "提升国际地位",
+          "analysis": "积极介入国际事务和外交救援，寻求将菲律宾塑造为有影响力的区域角色，增强全球话语权和联盟价值。"
+        },
+        {
+          "term": "转移国内批评",
+          "analysis": "高调宣传外交成功和灾害响应，可能意在缓解国内对经济、治理或其他敏感议题的不满与压力。"
+        },
+        {
+          "term": "塑造民族认同",
+          "analysis": "强调国家团结、民族自豪和共同使命，深层意图是统一公众思想，减少政治分裂，强化执政基础。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国内治理、外交关系、灾害管理、民族叙事和科技创新。",
+      "sub_items": [
+        {
+          "term": "国内治理",
+          "analysis": "聚焦公共服务、医疗可及性、交通福利和政府效能，核心是提升执政合法性和公众支持。"
+        },
+        {
+          "term": "外交关系",
+          "analysis": "突出菲美联盟、国际救援、主权支持和领导人互动，旨在平衡传统盟友与新兴国际参与。"
+        },
+        {
+          "term": "灾害管理",
+          "analysis": "频繁讨论台风应对、救援行动和恢复承诺，反映对国家脆弱性和政府责任的关键关注。"
+        },
+        {
+          "term": "民族叙事",
+          "analysis": "推动“新菲律宾”愿景、民族自豪和团结话语，用于凝聚公众认同和引导社会变革方向。"
+        },
+        {
+          "term": "科技创新",
+          "analysis": "倡导STEM发展和创新驱动进步，作为经济转型和未来竞争力的战略支柱。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 20 00:30:58 +0000 2024",
+      "text": "𝗠𝗮𝗿𝘆 𝗝𝗮𝗻𝗲 𝗩𝗲𝗹𝗼𝘀𝗼 𝗶𝘀 𝗰𝗼𝗺𝗶𝗻𝗴 𝙝𝙤𝙢𝙚.\n\nArrested in 2010 on drug trafficking charges and sentenced to 𝗱𝗲𝗮𝘁𝗵, Mary Jane’s case has been a long and difficult journey.\n\nAfter over a decade of diplomacy and consultations with the Indonesian government, we https://t.co/orVwyxeLDr",
+      "translation": "玛丽·简·维洛索即将回家。2010年因贩毒指控被捕并被判处死刑，玛丽·简的案件经历了一段漫长而艰难的历程。经过十多年与印度尼西亚政府的外交和磋商，我们...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 322,
+        "retweet": 153,
+        "like": 771
+      }
+    },
+    {
+      "created_at": "Wed Nov 06 09:55:27 +0000 2024",
+      "text": "President Trump has won, and the American people have triumphed. I congratulate them on their victory in an exercise that showed the world the strength of American values.\n\nWe look forward to working with President Trump on a wide range of issues that will yield mutual benefits https://t.co/uaQShypkm8",
+      "translation": "特朗普总统获胜，美国人民取得了胜利。我祝贺他们在这次展示美国价值观力量的选举中获胜。我们期待与特朗普总统在广泛问题上合作，这将带来互利...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 334,
+        "retweet": 371,
+        "like": 2162
+      }
+    },
+    {
+      "created_at": "Wed Nov 06 09:37:34 +0000 2024",
+      "text": "Salubungin natin ang bagyong Marce na may ibayong paghahanda, sa abot ng ating makakaya, alinsunod sa mga matagal ng nailatag na mga patnubay sa ganitong hamon.\n\nSa mga ahensya ng pamahalaan, you all know the drill. I am placing you all in high alert.\n\nSimulan natin sa pagkasa ng https://t.co/IbKpNvWm8Y",
+      "translation": "让我们以最大限度的准备迎接台风马尔斯，尽我们所能，遵循长期制定的应对此类挑战的指导方针。对于政府机构，你们都清楚程序。我已将你们全部置于高度警戒状态。让我们从...开始",
+      "stance": "无关",
+      "metrics": {
+        "reply": 127,
+        "retweet": 73,
+        "like": 415
+      }
+    },
+    {
+      "created_at": "Wed Jan 22 17:58:20 +0000 2025",
+      "text": "It is with utmost joy that, after more than a year of captivity in Yemen, I announce the safe release of all seventeen [ 17 ] Filipino seafarers, together with the rest of the crewmembers of M/V Galaxy Leader. Our Filipino seafarers are now in the care of our Philippine Embassy https://t.co/EYKVOVFkFo",
+      "translation": "怀着无比喜悦的心情，在也门被扣押一年多后，我宣布所有十七名菲律宾海员以及M/V银河领袖号的其他船员已安全获释。我们的菲律宾海员现由菲律宾大使馆照料...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 320,
+        "retweet": 118,
+        "like": 632
+      }
+    },
+    {
+      "created_at": "Wed Dec 18 02:22:52 +0000 2024",
+      "text": "We take this opportunity to extend our gratitude to the Indonesian government and to all who have extended assistance for the welfare of Ms. Mary Jane Veloso.  We are pleased to announce that she was turned over into the custody of Philippine officials in the evening of 17 https://t.co/1hxJn58Hy8",
+      "translation": "我们借此机会向印度尼西亚政府以及所有为玛丽·简·维洛索女士的福祉提供援助的人表示感谢。我们很高兴地宣布，她已于17日晚间移交给菲律宾官员监护...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 125,
+        "retweet": 90,
+        "like": 471
+      }
+    },
+    {
+      "created_at": "Tue Nov 19 22:11:02 +0000 2024",
+      "text": "Yesterday marked the 1,000th day since the war in Ukraine began. In my meeting with President @ZelenskyyUa on June 3rd, I reiterated the PH's unwavering support for Ukraine's sovereignty, independence, unity and territorial integrity. \n\nIt is our hope that we will see",
+      "translation": "昨天是乌克兰战争爆发第1000天。在6月3日与泽连斯基总统的会晤中，我重申了菲律宾对乌克兰主权、独立、统一和领土完整的坚定支持。我们希望看到...",
+      "stance": "中立",
+      "metrics": {
+        "reply": 201,
+        "retweet": 66,
+        "like": 280
+      }
+    },
+    {
+      "created_at": "Tue Jan 21 04:49:39 +0000 2025",
+      "text": "Congratulations to POTUS @realdonaldtrump and to the American people on another peaceful transfer of power in their Nation’s nearly 250-year history. I look forward to working closely with you and your Administration. \n\nThe strong and lasting PH-US alliance will continue to",
+      "translation": "祝贺特朗普总统和美国人民在他们国家近250年历史上又一次和平的权力交接。我期待与您和您的政府密切合作。强大而持久的菲美联盟将继续...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 285,
+        "retweet": 136,
+        "like": 982
+      }
+    },
+    {
+      "created_at": "Thu Oct 31 06:31:47 +0000 2024",
+      "text": "I assure the Filipino people that the government is ably handling all disaster management efforts. We remain in full control. \n\nOur resources and personnel may be stretched due to the impact of typhoons on multiple fronts. \n\nNevertheless, we have sufficient assets to mitigate the https://t.co/nPqUPyAUYG",
+      "translation": "我向菲律宾人民保证，政府正在妥善处理所有灾害管理工作。我们仍然完全掌控局势。由于台风在多条战线的影响，我们的资源和人员可能紧张。尽管如此，我们有足够的资源来减轻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 175,
+        "retweet": 105,
+        "like": 525
+      }
+    },
+    {
+      "created_at": "Thu Oct 24 14:04:33 +0000 2024",
+      "text": "We have been tirelessly and urgently working towards the immediate deployment of relief, recovery, and rehabilitation amidst the severe devastation caused by Typhoon Kristine (Trami) in the Bicol Region.\n\nLahat ng mapagkukunan ng inyong pambansang pamahalaan ay inilalaan upang https://t.co/U97yDFYSSm",
+      "translation": "在台风克里斯汀（特拉米）给比科尔地区造成严重破坏后，我们一直在不懈且紧急地努力，立即部署救灾、恢复和重建工作。你们国家政府的所有资源都被分配用于...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 305,
+        "retweet": 171,
+        "like": 821
+      }
+    },
+    {
+      "created_at": "Thu Dec 19 09:00:20 +0000 2024",
+      "text": "Ikinagagalak kong ipabatid sa ating mga mananakay na libre ang sakay sa LRT-1, LRT-2, at MRT-3 bukas, Disyembre 20, 2024.\n\nTinatayang aabot sa 1.1 milyong pasahero ang sasakay sa mga linyang ito—ang pinakamataas na ridership na naitala ngayong taon.\n\nAng inisyatibong ito ay isang https://t.co/2xTyO5oefU",
+      "translation": "我很高兴地通知我们的乘客，明天，2024年12月20日，LRT-1、LRT-2和MRT-3将免费乘坐。预计这些线路的乘客量将达到110万人次——这是今年记录的最高客流量。这项倡议是...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 145,
+        "retweet": 96,
+        "like": 423
+      }
+    },
+    {
+      "created_at": "Sun Sep 29 08:17:01 +0000 2024",
+      "text": "BBM VLOG 264: Ang Galing ng Pinoy! Filipino Excellence in S.T.E.M\n\nProud of our Filipino innovators at the forefront of STEM. With Filipinnovation driving our vision, we're making science and technology the heart of progress in 𝘽𝙖𝙜𝙤𝙣𝙜 𝙋𝙞𝙡𝙞𝙥𝙞𝙣𝙖𝙨.\n\nWe are shaping a https://t.co/0tnf7k4SL7",
+      "translation": "BBM VLOG 264：菲律宾人真棒！菲律宾在STEM领域的卓越表现。为我们处于STEM前沿的菲律宾创新者感到自豪。在菲律宾创新的推动下，我们正使科学技术成为新菲律宾进步的核心。我们正在塑造一个...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 207,
+        "retweet": 80,
+        "like": 415
+      }
+    },
+    {
+      "created_at": "Sun Sep 22 10:08:55 +0000 2024",
+      "text": "BBM VLOG 263: PBBM Reacts : Greetings from Healthcare Workers &amp; Patients\n\nMaraming salamat sa inyong mainit na pagbati!\n\nPatuloy nating isusulong ang mas malawak at mas abot-kamay na serbisyong medikal para sa bawat Pilipino. \n\nSa Bagong Pilipinas, 𝘉𝘢𝘸𝘢𝘵 𝘉𝘶𝘩𝘢𝘺 𝘢𝘺 https://t.co/MsC3ctVLdh",
+      "translation": "BBM VLOG 263：PBBM回应：来自医护人员和患者的问候。非常感谢你们的热烈祝福！我们将继续为每个菲律宾人推进更广泛、更可及的医疗服务。在新菲律宾，每个生命都...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 178,
+        "retweet": 126,
+        "like": 628
+      }
+    },
+    {
+      "created_at": "Sun Mar 02 10:54:01 +0000 2025",
+      "text": "BBM VLOG 267: Campaign Season Umpisa Na!\n\nAng pinakamahalagang alyansa ay ang Alyansa ng sambayanang Pilipino—isang matibay na paniniwala na may gobyernong tunay na kakampi, maaasahan at laging nandiyan sa oras ng pangangailangan. https://t.co/sP2YkOudKL",
+      "translation": "BBM VLOG 267：竞选季节开始了！最重要的联盟是菲律宾人民的联盟——一个坚定的信念，即有一个真正站在人民一边、值得信赖且总是在需要时出现的政府。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 519,
+        "retweet": 76,
+        "like": 397
+      }
+    },
+    {
+      "created_at": "Sun Jan 12 08:34:26 +0000 2025",
+      "text": "BBM VLOG 266: Bagong Taon, Bagong Pilipino!\n\nNgayong taon, sikapin nating maging bagong Pilipino para sa mas maunlad na Bagong Pilipinas! 🇵🇭 https://t.co/dbwHp3DIqK",
+      "translation": "BBM VLOG 266：新年，新菲律宾人！今年，让我们努力成为新菲律宾人，为了更繁荣的新菲律宾！🇵🇭",
+      "stance": "无关",
+      "metrics": {
+        "reply": 363,
+        "retweet": 93,
+        "like": 610
+      }
+    },
+    {
+      "created_at": "Sun Jan 12 05:55:07 +0000 2025",
+      "text": "On behalf of the Filipino people, I extend my deepest sympathies to all who have been affected by the devastating wildfires in 𝘚𝘰𝘶𝘵𝘩𝘦𝘳𝘯 𝘊𝘢𝘭𝘪𝘧𝘰𝘳𝘯𝘪𝘢, 𝘜𝘚𝘈 — a place that many of our 𝘬𝘢𝘣𝘢𝘣𝘢𝘺𝘢𝘯𝘴 call 𝗵𝗼𝗺𝗲.\n\nMay the community’s road to recovery begin https://t.co/ICY4XAXWjj",
+      "translation": "我代表菲律宾人民，向所有受到美国南加州毁灭性野火影响的人表示最深切的同情——那里是我们许多同胞称之为家的地方。愿社区的恢复之路开始...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 157,
+        "retweet": 100,
+        "like": 435
+      }
+    },
+    {
+      "created_at": "Mon Feb 24 05:19:25 +0000 2025",
+      "text": "Nakakalungkot na marinig ang malubhang karamdaman ni Pope Francis. Sa mga sandaling ito, kaisa tayo ng buong mundo sa panalangin para sa kanyang kalakasan at paggaling. \n\nNawa’y patuloy siyang patnubayan at palakasin ng Panginoon upang magpatuloy sa kanyang misyon ng https://t.co/sOARFxsaJJ",
+      "translation": "听到教皇方济各身患重病令人难过。在此刻，我们与全世界一同祈祷他获得力量和康复。愿主继续引导并加强他，使他能继续履行...的使命",
+      "stance": "无关",
+      "metrics": {
+        "reply": 203,
+        "retweet": 82,
+        "like": 591
+      }
+    },
+    {
+      "created_at": "Mon Dec 30 04:59:58 +0000 2024",
+      "text": "Jimmy Carter, former president of the United States was a humanitarian who practiced what he preached : 𝗛𝗼𝘂𝘀𝗲𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗵𝗼𝗺𝗲𝗹𝗲𝘀𝘀 𝗮𝗻𝗱 𝗵𝘂𝗺𝗮𝗻 𝗿𝗶𝗴𝗵𝘁𝘀 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗼𝗽𝗽𝗿𝗲𝘀𝘀𝗲𝗱.\n\nGuided by his faith, he was a servant leader who pursued peace in https://t.co/5be4HQWo0U",
+      "translation": "美国前总统吉米·卡特是一位践行其信念的人道主义者：为无家可归者提供住房，为受压迫者争取人权。在信仰的指引下，他是一位追求和平的仆人式领袖...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 176,
+        "retweet": 54,
+        "like": 326
+      }
+    },
+    {
+      "created_at": "Fri Oct 25 02:31:34 +0000 2024",
+      "text": "Yesterday we started sending aid and commenced rescue operations in the areas affected by STS Kristine. Today, we will continue sending our help and aid.\n\nI make this pledge to our people: Help is on the way. It will come by land, air, and, even by sea.\n\nI have ordered the full https://t.co/q4tjuZVLtI",
+      "translation": "昨天我们开始向受强热带风暴克里斯汀影响的地区派遣援助并展开救援行动。今天，我们将继续提供帮助和援助。我向人民承诺：援助正在路上。它将通过陆路、空中，甚至海路到来。我已下令全面...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 201,
+        "retweet": 129,
+        "like": 576
+      }
+    },
+    {
+      "created_at": "Fri Nov 08 04:49:16 +0000 2024",
+      "text": "Amidst our ongoing recovery from Typhoons Kristine and Leon, we commemorate the 11th anniversary of Typhoon Yolanda.\n\nOur ongoing crucibles remind us that the powerful lessons brought by the strongest typhoon in history should not be lost with the passage of time.\n\nHeeding these https://t.co/uUy4MRmRIe",
+      "translation": "在我们从台风克里斯汀和莱昂的持续恢复中，我们纪念台风海燕11周年。我们正在经历的考验提醒我们，历史上最强台风带来的深刻教训不应随时间流逝而被遗忘。遵循这些...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 180,
+        "retweet": 78,
+        "like": 363
+      }
+    },
+    {
+      "created_at": "Fri Nov 01 07:48:05 +0000 2024",
+      "text": "BBM VLOG 265: Disaster Resilience\n\nAs we remember those we've loved and lost, let’s also hold in our hearts the countless Filipinos striving to rebuild after Severe Tropical Storm Kristine. We are with you, committed to reaching every family, restoring every home and standing https://t.co/K0EdXw3A4b",
+      "translation": "BBM VLOG 265：灾害韧性。当我们纪念我们所爱和失去的人时，也让我们心中挂念无数在强热带风暴克里斯汀后努力重建的菲律宾人。我们与你们同在，致力于到达每个家庭，恢复每个家园，并支持...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 171,
+        "retweet": 108,
+        "like": 525
+      }
+    }
+  ]
+}

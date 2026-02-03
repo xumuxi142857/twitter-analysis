@@ -1,0 +1,470 @@
+{
+  "id": "profile_DoubleDownNews.json",
+  "_fingerprint": "ce4065afe531143da90ddbfe668aacf1",
+  "name": "DoubleDownNews",
+  "username": "DoubleDownNews",
+  "category": "media",
+  "daily_count": 0.5,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高神经质、低宜人性、尽责性中等、外倾性中等。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛关注并传播涉及政治、社会、国际关系的非主流或批判性观点，内容跨越多个争议性话题，表现出对非常规信息和叙事的高度接纳与推广意愿。"
+        },
+        {
+          "term": "神经质较高",
+          "analysis": "言论样本充满紧迫感、危机感和道德义愤，频繁使用“EXPOSED”、“BREAKING”、“DARKEST SECRET”、“Dying”等强烈情感词汇，情绪基调偏向焦虑、愤怒与控诉。"
+        },
+        {
+          "term": "宜人性较低",
+          "analysis": "内容具有强烈的对抗性和指控性，直接点名批评特定国家（以色列）、政治人物（特朗普、斯塔默、布莱尔）、机构（IDF）和精英阶层，不避讳制造对立和冲突。"
+        },
+        {
+          "term": "尽责性中等",
+          "analysis": "持续聚焦于巴以冲突、英美政治内幕等特定议题，表现出一定的议题坚持和资料整理（如重复推送相似主题），但内容来源和叙事方式偏向单一立场，缺乏多元平衡。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "主要通过转发和推广特定意见领袖（如Lowkey, Norman Finkelstein, PulaRJS）的内容来发声，自身原创性内容占比不明显，属于活跃的信息传播节点而非纯粹的原创者。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出阴谋论倾向、救世主情结、二元对立思维和对抗性沟通风格。",
+      "sub_items": [
+        {
+          "term": "阴谋论倾向",
+          "analysis": "倾向于将复杂国际政治事件解读为少数精英（如“以色列的Favourite Billionaire”、特朗普与摩萨德关联）的隐秘操纵和“黑暗秘密”，简化因果并赋予其戏剧性阴谋色彩。"
+        },
+        {
+          "term": "道德优越与救世主情结",
+          "analysis": "以揭露“真相”、为“被压迫者”（如巴勒斯坦、饥饿罢工者）发声自居，将自身或所推广内容定位为对抗“政府掩盖”和“媒体沉默”的道德灯塔，带有强烈的使命感。"
+        },
+        {
+          "term": "二元对立思维",
+          "analysis": "叙事框架高度简化，常塑造“受害者（巴勒斯坦/活动家）vs 加害者（以色列/英美政府/精英）”的绝对对立，缺乏对冲突历史复杂性和多方利益的 nuanced 分析。"
+        },
+        {
+          "term": "对抗性沟通",
+          "analysis": "惯用“EXPOSED”、“SECRET”、“SINISTER”等煽动性标题，以及直接指控（如“斯塔默的秘密政治犯”、“布莱尔的 sinister 关系”），旨在激起受众的愤怒和反抗情绪，而非促进理性对话。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、框架效应、情感启发式和群体内偏袒。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性传播和放大所有支持其反以色列、反西方政府（特别是英美）、反精英立场的言论和信息，忽视或排斥与之相悖的证据和观点，构建自我强化的信息茧房。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "通过极具情感冲击力的词汇（如“种族灭绝”、“死亡”、“饥饿罢工者濒死”）来框架议题，引导受众从道德危机和人道灾难的角度理解事件，压制其他解释框架（如地缘政治、安全考量）。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "判断和传播信息高度依赖情感共鸣（特别是对苦难的同情和对不公的愤怒），而非对事实证据的冷静评估。内容旨在首先激发强烈情绪反应，以此作为可信度和重要性的主要依据。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "明确将巴勒斯坦事业及其支持者（如特定活动家、学者）视为“我们”的群体，而将以色列、某些西方政府及媒体视为“他们”。这种划分导致对“我方”行为（如激进口号）的合理化，和对“敌方”动机的恶意揣测。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖单一信源、内容同质化、易受情绪驱动、存在法律风险。",
+      "sub_items": [
+        {
+          "term": "信源依赖单一",
+          "analysis": "大量内容集中转发自少数几个高度意识形态化的账号（如 @lowkey0nline, @normfinkelstein, @pularjs），缺乏多元信源交叉验证，一旦核心信源出现事实错误或信誉危机，其整个叙事体系将受到严重冲击。"
+        },
+        {
+          "term": "内容高度同质化",
+          "analysis": "言论几乎全部围绕巴以冲突及相关的英美政治批判，话题范围极其狭窄。这种同质化使其容易因议题热度下降或受众疲劳而影响力衰减，也限制了其吸引更广泛受众的能力。"
+        },
+        {
+          "term": "情绪驱动传播",
+          "analysis": "发布节奏和内容选择明显受当下事件引发的情绪浪潮驱动（如饥饿罢工新闻），可能导致信息未经充分核实便急于传播，增加传播不实信息或过度简化事实的风险。"
+        },
+        {
+          "term": "潜在法律与平台风险",
+          "analysis": "传播内容包含对特定国家和个人的严厉指控（如“种族灭绝”、“秘密政治犯”），可能触及诽谤、煽动仇恨或平台内容政策的红线，面临法律诉讼或社交媒体平台封禁的风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场极端化、缺乏建设性方案、易被标签化、国际观狭隘。",
+      "sub_items": [
+        {
+          "term": "立场极端化与孤立",
+          "analysis": "采取毫不妥协的激进批判立场，几乎完全否定以色列及关联西方政府的任何行为动机。这种极端化使其难以与主流政治光谱对话或建立联盟，容易被边缘化为“极端声音”。"
+        },
+        {
+          "term": "批判多于建构",
+          "analysis": "专注于揭露“问题”和指控“罪行”，但样本中未见提出具体、可行、具有广泛共识的解决方案或替代政策。这种纯批判立场在推动实际改变方面效力有限，易被指责为“破坏性”而非“建设性”。"
+        },
+        {
+          "term": "易被对手标签化",
+          "analysis": "其将反犹太复国主义与反犹太主义议题直接关联的言论（如样本15），以及支持包含“死亡”口号的活动，极易被对手贴上“反犹”或“支持恐怖主义”的标签，从而在公共舆论中遭受污名化打击。"
+        },
+        {
+          "term": "国际视野单一",
+          "analysis": "国际关注点几乎完全被巴以冲突所垄断，对世界其他地区的重大冲突、发展议题或中国角色缺乏关注和论述。这种单一性削弱了其作为“国际新闻”或“分析”平台的公信力，显得议程设置高度偏颇。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "原创分析能力弱、事实核查能力存疑、叙事技巧单一、跨议题能力不足。",
+      "sub_items": [
+        {
+          "term": "原创分析与深度挖掘能力弱",
+          "analysis": "行为模式以转发和推广他人内容为主，缺乏原创的深度调查报告、独家访谈或数据驱动的分析。这表明其核心能力在于内容策展和情绪动员，而非独立的一手信息生产或复杂分析。"
+        },
+        {
+          "term": "事实核查与证据呈现能力存疑",
+          "analysis": "传播的内容多依赖情绪化标题和结论性指控，样本中未见对复杂事件背景、多方说法的平衡呈现，或对引用信息源的可靠性进行说明。这使其内容在事实准确性层面容易受到专业质疑。"
+        },
+        {
+          "term": "叙事手法单一",
+          "analysis": "几乎全部采用“揭露黑幕-控诉不公-呼吁关注”的单一叙事模板，缺乏多角度、多层次的故事讲述能力。长期使用同一种煽情模式可能导致受众脱敏，削弱传播效果。"
+        },
+        {
+          "term": "跨领域议题驾驭能力不足",
+          "analysis": "言论样本显示其能力范围高度集中在特定地缘政治和意识形态批判领域。对于经济、科技、环境等其他全球性重要议题，未见任何涉猎或分析能力展示，限制了其影响力的广度。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在偏执猜疑、道德绝对主义、情感耗竭风险和身份认同捆绑。",
+      "sub_items": [
+        {
+          "term": "偏执与系统性猜疑",
+          "analysis": "认知模式倾向于认为主流政府、媒体和精英阶层在系统性掩盖“真相”、迫害“正义之士”。这种根深蒂固的不信任感可能导致其拒绝任何来自官方或主流渠道的信息，陷入自我封闭的认知循环。"
+        },
+        {
+          "term": "道德绝对主义",
+          "analysis": "以非黑即白的道德标准划分世界，将自身立场等同于绝对正义，将对立面等同于绝对邪恶。这种心态缺乏政治妥协和现实主义的空间，容易在复杂现实中产生强烈的挫败感和更极端的反应。"
+        },
+        {
+          "term": "情感依附与耗竭风险",
+          "analysis": "其影响力与特定群体的苦难叙事深度绑定，持续沉浸于悲剧性和冲突性内容可能导致情感耗竭（compassion fatigue）或为了维持关注度而不断寻求更极端的情感刺激，陷入恶性循环。"
+        },
+        {
+          "term": "身份认同与事业过度捆绑",
+          "analysis": "个人或品牌价值似乎完全建立在为巴勒斯坦等特定事业发声上。一旦该议题的国际关注度发生变化，或内部出现策略分歧，其存在的核心意义和受众凝聚力可能面临严峻挑战。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图塑造反建制叙事领袖形象、动员特定行动、挑战西方主流话语权、可能服务更广泛的地缘政治叙事。",
+      "sub_items": [
+        {
+          "term": "塑造反建制意识形态领袖",
+          "analysis": "通过持续聚焦于揭露西方（特别是英美）政府与以色列的“勾结”与“罪行”，意图将自己定位为挑战现有权力结构和主流叙事的意识形态先锋，吸引对现行体制不满的受众。"
+        },
+        {
+          "term": "动员线下行动与施加压力",
+          "analysis": "内容不仅限于信息传播，还明显旨在煽动道德义愤并转化为行动压力，如呼吁关注“饥饿罢工者”（暗示政府应让步）、推广可能引发法律后果的抗议口号，意图影响现实政治决策。"
+        },
+        {
+          "term": "解构西方自由民主叙事",
+          "analysis": "通过展示西方民主国家（英、美）在国内压制言论（“不允许谈论”）、庇护“战争罪行”，意图削弱其道德权威和“自由民主”叙事的可信度，为替代性的全球叙事争取空间。"
+        },
+        {
+          "term": "潜在服务更广泛的反西方/反霸权叙事",
+          "analysis": "其单一且猛烈地抨击美国盟友（以色列）及英美政府，同时忽略其他地区的类似冲突，其议程设置可能并非纯粹出于人道主义，而是有意或无意地服务于旨在削弱西方联盟和全球影响力的更广泛地缘政治叙事框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心领域为巴以冲突、英美国内政治批判、反精英/反建制叙事、活动家动员。",
+      "sub_items": [
+        {
+          "term": "巴以冲突与反犹太复国主义",
+          "analysis": "绝对核心话题。持续传播指控以色列在加沙实施“种族灭绝”、揭露其“黑暗秘密”的内容，并支持巴勒斯坦权利活动家，将反犹太复国主义作为主要意识形态旗帜。"
+        },
+        {
+          "term": "英美国内政治批判",
+          "analysis": "重点批判对象为英国工党领袖斯塔默政府和前首相布莱尔，以及美国前总统特朗普，指控他们与以色列利益勾结、压制国内反战声音、制造“政治犯”。将巴以议题与西方国内政治深度绑定。"
+        },
+        {
+          "term": "反精英与阴谋论叙事",
+          "analysis": "频繁涉及“精英的黑暗秘密”、“以色列最喜欢的亿万富翁”等主题，构建一个全球精英（政治、经济）与以色列及情报机构（摩萨德）共谋操控政治、压迫人民的叙事框架。"
+        },
+        {
+          "term": "活动家与抗议运动动员",
+          "analysis": "积极推广和支持如“Palestine Action”饥饿罢工、音乐人Lowkey的创作、以及相关抗议活动，将文化表达（音乐、视频）与直接行动抗议相结合，旨在维持运动热度和施加社会压力。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      2
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 25
+    },
+    {
+      "name": "同伴",
+      "value": 70
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 18:19:00 +0000 2026",
+      "text": "The Video Trump Doesn't Want You To See @kennardmatt https://t.co/xpIlZUGAp8",
+      "translation": "特朗普不想让你看到的视频 @kennardmatt https://t.co/xpIlZUGAp8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 155,
+        "retweet": 2573,
+        "like": 4439
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 18:46:57 +0000 2025",
+      "text": "BREAKING: Charges against Bob Vylan for chanting \"death, death to the IDF\" at Glastonbury to be dropped @lowkey0nline https://t.co/y3Y5TzSqm2",
+      "translation": "突发：鲍勃·维兰在格拉斯顿伯里高喊“死亡，以色列国防军去死”的指控将被撤销 @lowkey0nline https://t.co/y3Y5TzSqm2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 50,
+        "retweet": 899,
+        "like": 2089
+      }
+    },
+    {
+      "created_at": "Tue Dec 09 09:33:04 +0000 2025",
+      "text": "RT @PulaRJS: \"How Tony Blair is Helping Israel’s Favourite Billionaire To your data\"\n\nFascinating from @maybulman @DoubleDownNews \nhttps://…",
+      "translation": "转发 @PulaRJS：“托尼·布莱尔如何帮助以色列最喜爱的亿万富翁获取你的数据” @maybulman @DoubleDownNews 的精彩报道 https://…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 97,
+        "like": 157
+      }
+    },
+    {
+      "created_at": "Tue Dec 09 08:19:32 +0000 2025",
+      "text": "EXPOSED: Tony Blair’s SINISTER Relationship with Israel’s Favourite Billionaire @maybulman\nhttps://t.co/h6SikY6e0x",
+      "translation": "曝光：托尼·布莱尔与以色列最喜爱的亿万富翁之间的邪恶关系 @maybulman https://t.co/h6SikY6e0x",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32,
+        "retweet": 1026,
+        "like": 1734
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 23:24:06 +0000 2025",
+      "text": "RT @FranceskAlbs: 🇬🇧 Perhaps the UK gov has not enough on its conscience that can let Anti-Genocide activists die??\nI trust the UK people w…",
+      "translation": "转发 @FranceskAlbs：🇬🇧 也许英国政府良心上的负担还不够重，以至于可以任由反种族灭绝活动人士死去？？我相信英国人民会…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 886,
+        "retweet": 5040,
+        "like": 9803
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 22:58:15 +0000 2025",
+      "text": "RT @Jonathan_K_Cook: Investigative journalist Richard Sanders on how Starmer's government is more worried about protecting Israel's genocid…",
+      "translation": "转发 @Jonathan_K_Cook：调查记者理查德·桑德斯谈斯塔默政府如何更担心保护以色列在加沙的种族灭绝，而不是…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 416,
+        "like": 701
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 20:35:47 +0000 2025",
+      "text": "RT @PulaRJS: ALERT - Palestine Action hunger strikers could die in the next few weeks, if not days, and government and media appear to be c…",
+      "translation": "转发 @PulaRJS：警报 - 巴勒斯坦行动绝食抗议者可能在接下来几周，甚至几天内死亡，而政府和媒体似乎对此漠不关心…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 498,
+        "retweet": 1094,
+        "like": 1426
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 12:36:41 +0000 2025",
+      "text": "Hunger Strikers are Dying for Gaza &amp; no one’s allowed to talk about It @pularjs\n\nhttps://t.co/SapqdWY1qu",
+      "translation": "绝食抗议者为加沙而死，却无人被允许谈论此事 @pularjs https://t.co/SapqdWY1qu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 256,
+        "retweet": 1166,
+        "like": 1756
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 11:31:39 +0000 2025",
+      "text": "Sharing This Video Could Save Lives @pularjs\n\nhttps://t.co/bO8SQ7cERv",
+      "translation": "分享这个视频可能拯救生命 @pularjs https://t.co/bO8SQ1cERv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 334,
+        "like": 408
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 08:51:35 +0000 2025",
+      "text": "EXPOSED: Starmer's Secret Political Prisoners @pularjs\n\nhttps://t.co/g2pY9PCH7O",
+      "translation": "曝光：斯塔默的秘密政治犯 @pularjs https://t.co/g2pY9PCH7O",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 226,
+        "like": 306
+      }
+    },
+    {
+      "created_at": "Thu Dec 11 10:28:02 +0000 2025",
+      "text": "EXPOSED: Tony Blair &amp; Israel’s Favourite Billionaire @maybulman @LHreports https://t.co/Odwuut8STw",
+      "translation": "曝光：托尼·布莱尔与以色列最喜爱的亿万富翁 @maybulman @LHreports https://t.co/Odwuut8STw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 247,
+        "retweet": 5372,
+        "like": 9150
+      }
+    },
+    {
+      "created_at": "Thu Dec 11 09:38:34 +0000 2025",
+      "text": "RT @declassifiedUK: 📽️ 🛩️  MAJOR NEW FILM COMING TODAY AT 4PM UK TIME\n\nWill this documentary put Keir Starmer behind bars❓\n\nWatch the Trail…",
+      "translation": "转发 @declassifiedUK：📽️ 🛩️ 今日英国时间下午4点将发布重要新影片 这部纪录片会让基尔·斯塔默入狱吗❓ 观看预告片…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 59,
+        "retweet": 1761,
+        "like": 2548
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 10:54:00 +0000 2025",
+      "text": "Norman Finkelstein EXPOSES Israel’s DARKEST SECRET @normfinkelstein https://t.co/WU7Hir98ve",
+      "translation": "诺曼·芬克尔斯坦揭露以色列最黑暗的秘密 @normfinkelstein https://t.co/WU7Hir98ve",
+      "stance": "无关",
+      "metrics": {
+        "reply": 87,
+        "retweet": 1016,
+        "like": 1741
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 11:40:24 +0000 2025",
+      "text": "\"The main cause of antisemitism in the world today is the fact that the Israeli state claims to represent all Jews and is committing a genocide in Gaza, in the name of all Jews.\n\nIsrael has the Star of David on its tanks and planes whilst it is killing women and children in Gaza, https://t.co/yvF2hjrRx8",
+      "translation": "“当今世界反犹太主义的主要原因是，以色列国声称代表所有犹太人，并以所有犹太人的名义在加沙实施种族灭绝。以色列的坦克和飞机上印有大卫之星，同时却在加沙杀害妇女和儿童，https://t.co/yvF2hjrRx8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 180,
+        "retweet": 2372,
+        "like": 4399
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 13:20:42 +0000 2025",
+      "text": "LOWKEY's New Song for Palestine @Lowkey0nline \n\nhttps://t.co/vtOHQuZS5z",
+      "translation": "LOWKEY为巴勒斯坦创作的新歌 @Lowkey0nline https://t.co/vtOHQuZS5z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 178,
+        "like": 334
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 12:24:47 +0000 2025",
+      "text": "LOWKEY - The Best of Us (Official Music Video) @Lowkey0nline \nhttps://t.co/D38wDyuuni",
+      "translation": "LOWKEY - 我们中的佼佼者（官方音乐视频） @Lowkey0nline https://t.co/D38wDyuuni",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 211,
+        "like": 415
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 23:19:31 +0000 2025",
+      "text": "Epstein EXPOSED: Trump, Mossad &amp; The Elite’s Dark Secrets @pularjs https://t.co/N4sbuREV0b",
+      "translation": "爱泼斯坦曝光：特朗普、摩萨德与精英的黑暗秘密 @pularjs https://t.co/N4sbuREV0b",
+      "stance": "无关",
+      "metrics": {
+        "reply": 66,
+        "retweet": 2674,
+        "like": 4466
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 12:44:48 +0000 2025",
+      "text": "RT @PulaRJS: Some of the Palestine Action hunger strikers could be within days of death. \n\nThey have been found guilty of no crime. They ar…",
+      "translation": "转发 @PulaRJS：一些巴勒斯坦行动绝食抗议者可能离死亡只有几天时间。他们没有被判任何罪行。他们是…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 76,
+        "retweet": 922,
+        "like": 1469
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 10:08:14 +0000 2025",
+      "text": "Hunger Strikers are Dying for Gaza &amp; no one’s allowed to talk about It @pularjs https://t.co/rsiuuxwFNq",
+      "translation": "绝食抗议者为加沙而死，却无人被允许谈论此事 @pularjs https://t.co/rsiuuxwFNq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 70,
+        "retweet": 1287,
+        "like": 1687
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 11:05:35 +0000 2025",
+      "text": "Norman Finkelstein EXPOSES Israel’s DARKEST SECRET @normfinkelstein \n\nhttps://t.co/yu4B8qGIVn",
+      "translation": "诺曼·芬克尔斯坦揭露以色列最黑暗的秘密 @normfinkelstein https://t.co/yu4B8qGIVn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 570,
+        "like": 1128
+      }
+    }
+  ]
+}

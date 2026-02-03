@@ -1,0 +1,470 @@
+{
+  "id": "profile_bongbongmarcos.json",
+  "_fingerprint": "b19d6e00d5f28db120604e933cf14e4d",
+  "name": "bongbongmarcos",
+  "username": "bongbongmarcos",
+  "category": "politician",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等宜人性、中等开放性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁通过视频博客与公众互动，积极表达情感，庆祝国家成就，展现强烈的社交倾向和公众形象塑造意愿。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "强调政府责任、救灾承诺、经济管理成果和外交事务跟进，表现出对职责的严肃态度和系统性工作导向。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在表达同情和支持时展现合作性，但在涉及国家主权和司法腐败时采取强硬立场，平衡了亲和与坚定。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "支持科技创新和进步愿景，但言论框架相对传统，围绕国家建设、民族自豪和既定政策展开，创新表达有限。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在危机和挑战面前保持冷静和控制的公开形象，情绪表达以稳定、鼓舞为主，但偶有对威胁的强烈反应。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在权威依赖、形象维护过度和二元对立倾向。",
+      "sub_items": [
+        {
+          "term": "权威依赖",
+          "analysis": "频繁强调政府控制、领导决策和机构能力，可能过度依赖体制权威来建立公众信任，削弱对多元声音的包容。"
+        },
+        {
+          "term": "形象维护过度",
+          "analysis": "积极塑造亲民、果断、爱国形象，通过视频博客、庆祝活动和正面宣传强化个人与国家绑定，可能忽略实质性批评。"
+        },
+        {
+          "term": "二元对立倾向",
+          "analysis": "在领土问题和司法腐败上使用绝对化语言，如“我们的领土将永远属于我们”和“严惩不贷”，简化复杂议题。"
+        },
+        {
+          "term": "情感操纵倾向",
+          "analysis": "利用民族自豪、家庭情感和危机同情来凝聚支持，可能将政策宣传与情感绑定，影响理性讨论。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出乐观偏见、内群体偏爱和确认偏误。",
+      "sub_items": [
+        {
+          "term": "乐观偏见",
+          "analysis": "强调经济进步、国家复兴和问题解决，如通胀下降和信用评级提升，倾向于展示积极成果，淡化持续挑战。"
+        },
+        {
+          "term": "内群体偏爱",
+          "analysis": "频繁使用“我们菲律宾人”“我们的国家”等词汇，强化民族认同，可能边缘化不同意见或外部视角。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性地宣传政府成就和外交成功，如海员释放和援助部署，巩固现有政策立场，避免公开质疑。"
+        },
+        {
+          "term": "控制错觉",
+          "analysis": "在灾害管理中反复强调政府完全掌控和资源充足，可能高估应对能力，低估不可预测风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "过度依赖宣传、危机反应模式化和外交立场摇摆。",
+      "sub_items": [
+        {
+          "term": "宣传依赖",
+          "analysis": "大量使用视频博客和社交媒体进行政策宣传，可能削弱实质政策沟通，导致公众疲劳或信任稀释。"
+        },
+        {
+          "term": "危机反应模式化",
+          "analysis": "在台风和灾害响应中重复使用“援助在路上”“全力控制”等短语，可能被视为脚本化回应，缺乏适应性。"
+        },
+        {
+          "term": "外交立场摇摆",
+          "analysis": "对美国不同总统表达祝贺和支持，从特朗普到拜登，显示实用主义外交，但可能被视为机会主义，影响立场一致性。"
+        },
+        {
+          "term": "司法强硬姿态风险",
+          "analysis": "在腐败案件中使用“严惩不贷”等激烈言辞，可能被解读为干预司法独立或煽动公众情绪，引发反弹。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "民族主义可能引发冲突、亲美倾向明显和国内政策平衡压力。",
+      "sub_items": [
+        {
+          "term": "民族主义冲突风险",
+          "analysis": "在南海问题上采取强硬主权主张，如“西菲律宾海是我们的”，可能加剧区域紧张，限制外交灵活性。"
+        },
+        {
+          "term": "亲美倾向明显",
+          "analysis": "多次祝贺美国领导人，强调菲美联盟，显示紧密依赖，可能削弱多元外交，受美国政策变动影响。"
+        },
+        {
+          "term": "国内政策平衡压力",
+          "analysis": "推动“新菲律宾”愿景和经济改革，但需平衡通胀、灾害恢复等民生问题，承诺过高可能带来兑现压力。"
+        },
+        {
+          "term": "反华言论潜在空间",
+          "analysis": "在领土问题上立场坚定，若区域争端升级，可能转向更公开的反华言论，影响双边关系。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "灾害管理压力、经济承诺挑战和外交协调复杂性。",
+      "sub_items": [
+        {
+          "term": "灾害管理压力",
+          "analysis": "频繁应对台风和自然灾害，资源调配和长期恢复能力面临考验，任何失败可能直接削弱公众信任。"
+        },
+        {
+          "term": "经济承诺挑战",
+          "analysis": "宣传通胀下降和信用评级提升，但维持经济增长、降低贫困仍需实质政策，成果可持续性存疑。"
+        },
+        {
+          "term": "外交协调复杂性",
+          "analysis": "处理海员释放、印尼外交等事务显示能力，但平衡美国、中国、区域伙伴等多方利益需高超技巧，易出错。"
+        },
+        {
+          "term": "技术推广局限",
+          "analysis": "倡导科技创新和STEM，但实际投入和成效需时间验证，可能被视为表面宣传而非实质推动。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "控制欲强、情感绑定过深和危机焦虑。",
+      "sub_items": [
+        {
+          "term": "控制欲强",
+          "analysis": "强调政府完全掌控和命令执行，反映对秩序和权威的执着，在复杂情境下可能导致僵化或过度干预。"
+        },
+        {
+          "term": "情感绑定过深",
+          "analysis": "将个人形象与国家命运紧密联系，如“新菲律宾”愿景，情感投入可能影响理性决策，加剧压力。"
+        },
+        {
+          "term": "危机焦虑",
+          "analysis": "频繁关注灾害、疫情和外交危机，公开表达担忧和行动承诺，显示潜在焦虑，可能影响长期战略冷静。"
+        },
+        {
+          "term": "形象脆弱性",
+          "analysis": "高度维护公众形象，任何政策失败或个人争议都可能被放大，导致防御性反应或过度补偿。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治遗产、提升国际地位和转移国内焦点。",
+      "sub_items": [
+        {
+          "term": "巩固政治遗产",
+          "analysis": "通过“新菲律宾”叙事和家族视频博客，塑造国家复兴领导者形象，旨在建立长期政治影响和历史地位。"
+        },
+        {
+          "term": "提升国际地位",
+          "analysis": "积极介入乌克兰支持、美国联盟和区域外交，寻求将菲律宾定位为全球事务参与者，增强国际话语权。"
+        },
+        {
+          "term": "转移国内焦点",
+          "analysis": "强调外部威胁如领土争端和腐败案件，可能用以凝聚国内支持，分散对经济或社会问题的注意力。"
+        },
+        {
+          "term": "家族利益维护",
+          "analysis": "在公开言论中融入家庭元素和传统价值观，暗示对家族政治遗产的维护，平衡公众与私人利益。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "国家建设、灾害管理、外交关系和民族认同。",
+      "sub_items": [
+        {
+          "term": "国家建设",
+          "analysis": "核心话题，包括经济改革、科技创新、基础设施和“新菲律宾”愿景，旨在推动国家发展和民族自豪。"
+        },
+        {
+          "term": "灾害管理",
+          "analysis": "频繁涉及台风响应、救灾部署和恢复计划，反映对气候脆弱性和民生保障的关注。"
+        },
+        {
+          "term": "外交关系",
+          "analysis": "涵盖美国联盟、区域合作、海员救援和领土主权，显示积极外交参与和多边协调努力。"
+        },
+        {
+          "term": "民族认同",
+          "analysis": "通过文化庆祝、语言使用和历史纪念，强化菲律宾民族身份和集体归属感。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 20 00:30:58 +0000 2024",
+      "text": "𝗠𝗮𝗿𝘆 𝗝𝗮𝗻𝗲 𝗩𝗲𝗹𝗼𝘀𝗼 𝗶𝘀 𝗰𝗼𝗺𝗶𝗻𝗴 𝙝𝙤𝙢𝙚.\n\nArrested in 2010 on drug trafficking charges and sentenced to 𝗱𝗲𝗮𝘁𝗵, Mary Jane’s case has been a long and difficult journey.\n\nAfter over a decade of diplomacy and consultations with the Indonesian government, we https://t.co/orVwyxeLDr",
+      "translation": "玛丽·简·维洛索即将回家。2010年因贩毒指控被捕并被判处死刑，玛丽·简的案件经历了一段漫长而艰难的历程。经过十多年与印度尼西亚政府的外交和磋商，我们...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 322,
+        "retweet": 152,
+        "like": 770
+      }
+    },
+    {
+      "created_at": "Wed Nov 06 09:55:27 +0000 2024",
+      "text": "President Trump has won, and the American people have triumphed. I congratulate them on their victory in an exercise that showed the world the strength of American values.\n\nWe look forward to working with President Trump on a wide range of issues that will yield mutual benefits https://t.co/uaQShypkm8",
+      "translation": "特朗普总统获胜，美国人民取得了胜利。我祝贺他们在这次向世界展示美国价值观力量的选举中获胜。我们期待与特朗普总统在广泛议题上合作，这将带来互利共赢...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 334,
+        "retweet": 372,
+        "like": 2161
+      }
+    },
+    {
+      "created_at": "Wed Nov 06 09:37:34 +0000 2024",
+      "text": "Salubungin natin ang bagyong Marce na may ibayong paghahanda, sa abot ng ating makakaya, alinsunod sa mga matagal ng nailatag na mga patnubay sa ganitong hamon.\n\nSa mga ahensya ng pamahalaan, you all know the drill. I am placing you all in high alert.\n\nSimulan natin sa pagkasa ng https://t.co/IbKpNvWm8Y",
+      "translation": "让我们以最大程度的准备迎接台风“马尔斯”，尽我们所能，遵循长期制定的应对此类挑战的指导方针。各政府机构，你们都清楚流程。我宣布你们全部进入高度戒备状态。让我们从...开始",
+      "stance": "无关",
+      "metrics": {
+        "reply": 127,
+        "retweet": 73,
+        "like": 416
+      }
+    },
+    {
+      "created_at": "Wed Jul 24 00:42:37 +0000 2024",
+      "text": "Over the last week, we provided Php 43.15M in assistance to over 770,000 individuals affected by the Southwest Monsoon in Visayas and Mindanao.\n\nToday, we have Php 2.88B worth of prepositioned aid and close to 4,500 personnel on standby for search, rescue, and retrieval",
+      "translation": "过去一周，我们向受西南季风影响的维萨亚斯和棉兰老岛超过77万人提供了4315万比索的援助。今天，我们已预先部署了价值28.8亿比索的援助物资，并有近4500名人员待命，准备进行搜救和打捞工作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 201,
+        "retweet": 85,
+        "like": 521
+      }
+    },
+    {
+      "created_at": "Wed Jan 22 17:58:20 +0000 2025",
+      "text": "It is with utmost joy that, after more than a year of captivity in Yemen, I announce the safe release of all seventeen [ 17 ] Filipino seafarers, together with the rest of the crewmembers of M/V Galaxy Leader. Our Filipino seafarers are now in the care of our Philippine Embassy https://t.co/EYKVOVFkFo",
+      "translation": "怀着无比喜悦的心情，我宣布在也门被扣押一年多后，所有17名菲律宾海员以及M/V银河领袖号的其他船员均已安全获释。我们的菲律宾海员现由菲律宾大使馆照料...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 320,
+        "retweet": 118,
+        "like": 632
+      }
+    },
+    {
+      "created_at": "Wed Dec 18 02:22:52 +0000 2024",
+      "text": "We take this opportunity to extend our gratitude to the Indonesian government and to all who have extended assistance for the welfare of Ms. Mary Jane Veloso.  We are pleased to announce that she was turned over into the custody of Philippine officials in the evening of 17 https://t.co/1hxJn58Hy8",
+      "translation": "我们借此机会向印度尼西亚政府以及所有为玛丽·简·维洛索女士的福祉提供帮助的人士表示感谢。我们很高兴地宣布，她已于17日晚间移交给菲律宾官员监护...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 125,
+        "retweet": 90,
+        "like": 471
+      }
+    },
+    {
+      "created_at": "Tue Sep 03 12:15:13 +0000 2024",
+      "text": "As Tropical Storm Enteng continues to affect several regions, I assure you that the government is fully mobilized to manage the situation.\n\nInitially, over ₱16 million worth of assistance from the DSWD has already been deployed to support those who have been hit the hardest. https://t.co/zsqSPutB2f",
+      "translation": "随着热带风暴“恩廷”持续影响多个地区，我向你们保证，政府已全面动员以应对局势。初步而言，社会福利与发展部已部署了价值超过1600万比索的援助，以支持受灾最严重的群体。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 152,
+        "retweet": 107,
+        "like": 579
+      }
+    },
+    {
+      "created_at": "Tue Nov 19 22:11:02 +0000 2024",
+      "text": "Yesterday marked the 1,000th day since the war in Ukraine began. In my meeting with President @ZelenskyyUa on June 3rd, I reiterated the PH's unwavering support for Ukraine's sovereignty, independence, unity and territorial integrity. \n\nIt is our hope that we will see",
+      "translation": "昨天是乌克兰战争爆发第1000天。在6月3日与泽连斯基总统的会晤中，我重申了菲律宾对乌克兰主权、独立、统一和领土完整的坚定支持。我们希望...",
+      "stance": "中立",
+      "metrics": {
+        "reply": 201,
+        "retweet": 66,
+        "like": 280
+      }
+    },
+    {
+      "created_at": "Tue May 21 00:27:46 +0000 2024",
+      "text": "I extend my support to the new Senate President, Chiz Escudero. His legislative record and commitment to public service have distinguished him as a dedicated leader.\n\nSenator Chiz steps into this role following the commendable tenure of Senator Migz Zubiri, and I am confident",
+      "translation": "我支持新任参议院议长奇兹·埃斯库德罗。他的立法记录和对公共服务的承诺使他成为一位杰出的敬业领袖。奇兹参议员在米格斯·祖比里参议员值得称赞的任期后接任此职，我充满信心...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 152,
+        "retweet": 77,
+        "like": 520
+      }
+    },
+    {
+      "created_at": "Tue Jul 09 13:40:01 +0000 2024",
+      "text": "I am proud to announce that the Philippines has been elected to host the Loss and Damage Fund Board, out of seven other contenders. We are also honored to have a seat on the Board itself, ensuring that the Philippines will be a formidable voice in promoting and advancing global",
+      "translation": "我很自豪地宣布，菲律宾在与其他七个竞争者中脱颖而出，当选为损失与损害基金董事会的主办国。我们也荣幸地在董事会中获得一席之地，确保菲律宾将成为推动和促进全球...的强大声音。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 148,
+        "retweet": 87,
+        "like": 633
+      }
+    },
+    {
+      "created_at": "Tue Jan 21 04:49:39 +0000 2025",
+      "text": "Congratulations to POTUS @realdonaldtrump and to the American people on another peaceful transfer of power in their Nation’s nearly 250-year history. I look forward to working closely with you and your Administration. \n\nThe strong and lasting PH-US alliance will continue to",
+      "translation": "祝贺特朗普总统和美国人民在其国家近250年历史上又一次和平的权力交接。我期待与您和您的政府密切合作。强大而持久的菲美联盟将继续...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 285,
+        "retweet": 137,
+        "like": 982
+      }
+    },
+    {
+      "created_at": "Tue Aug 20 21:02:32 +0000 2024",
+      "text": "The departure of 𝗔𝗹𝗶𝗰𝗲 𝗚𝘂𝗼 has laid bare the corruption that undermines our justice system and erodes public trust. \n\n𝗟𝗘𝗧 𝗠𝗘 𝗕𝗘 𝗖𝗟𝗘𝗔𝗥: 𝗛𝗲𝗮𝗱𝘀 𝘄𝗶𝗹𝗹 𝗿𝗼𝗹𝗹.\n\nWe will 𝗲𝘅𝗽𝗼𝘀𝗲 the culprits who have betrayed the people's trust and aided in her https://t.co/70KiZX5Zre",
+      "translation": "郭爱丽的离开暴露了损害我们司法系统并侵蚀公众信任的腐败。让我明确一点：有人将付出代价。我们将揭露那些背叛人民信任并协助她...的罪魁祸首。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 544,
+        "retweet": 564,
+        "like": 4630
+      }
+    },
+    {
+      "created_at": "Thu Sep 12 16:15:27 +0000 2024",
+      "text": "BBM VLOG 262: Happy Birthday, Dad\n\nHere's to many more memories together. We ❤️ you\n\n- Sandro, Simon and Vinny https://t.co/ZO7lHc73Yu",
+      "translation": "BBM VLOG 262: 生日快乐，爸爸。愿我们共同创造更多回忆。我们爱你 - 桑德罗、西蒙和维尼",
+      "stance": "无关",
+      "metrics": {
+        "reply": 148,
+        "retweet": 137,
+        "like": 728
+      }
+    },
+    {
+      "created_at": "Thu Sep 05 03:40:31 +0000 2024",
+      "text": "Ngayong araw, ipinagdiriwang natin ang isang tagumpay para sa bawat Pilipino. Bumagsak ang inflation sa 3.3% ngayong Agosto mula sa 4.4% noong Hulyo.\n\nBy reducing rice tariffs, we brought rice inflation down from 20.9% to 14.7%, and meat inflation also eased from 4.8% to 4.0%, na https://t.co/UzEaHE332K",
+      "translation": "今天，我们庆祝每个菲律宾人的一项胜利。通货膨胀率从7月的4.4%降至8月的3.3%。通过降低大米关税，我们将大米通胀率从20.9%降至14.7%，肉类通胀率也从4.8%放缓至4.0%，这...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 262,
+        "retweet": 123,
+        "like": 788
+      }
+    },
+    {
+      "created_at": "Thu Oct 31 06:31:47 +0000 2024",
+      "text": "I assure the Filipino people that the government is ably handling all disaster management efforts. We remain in full control. \n\nOur resources and personnel may be stretched due to the impact of typhoons on multiple fronts. \n\nNevertheless, we have sufficient assets to mitigate the https://t.co/nPqUPyAUYG",
+      "translation": "我向菲律宾人民保证，政府正在妥善处理所有灾害管理工作。我们仍然完全掌控局势。由于台风在多条战线的影响，我们的资源和人员可能捉襟见肘。尽管如此，我们有足够的资源来减轻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 175,
+        "retweet": 105,
+        "like": 525
+      }
+    },
+    {
+      "created_at": "Thu Oct 24 14:04:33 +0000 2024",
+      "text": "We have been tirelessly and urgently working towards the immediate deployment of relief, recovery, and rehabilitation amidst the severe devastation caused by Typhoon Kristine (Trami) in the Bicol Region.\n\nLahat ng mapagkukunan ng inyong pambansang pamahalaan ay inilalaan upang https://t.co/U97yDFYSSm",
+      "translation": "我们一直在不懈且紧急地努力，以在台风“克里斯汀”（塔拉米）给比科尔地区造成严重破坏后立即部署救灾、恢复和重建工作。你们国家政府的所有资源都正被用于...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 305,
+        "retweet": 171,
+        "like": 820
+      }
+    },
+    {
+      "created_at": "Thu Jun 27 08:34:26 +0000 2024",
+      "text": "Inaprubahan na ng Toll Regulatory Board na binubuo ng DOTr, DPWH, DOF, NEDA, at ng pribadong sektor ang rekomendasyon na suspendihin ang pangungulekta ng toll -- RFID at cash -- sa lahat ng bahagi ng CAVITEX simula Hulyo 1 hanggang Hulyo 30 nitong taon. \n\nNagpapasalamat tayo sa",
+      "translation": "由交通部、公共工程和公路部、财政部、国家经济发展局和私营部门组成的收费监管委员会已批准建议，从今年7月1日至7月30日，暂停在CAVITEX所有路段收取通行费——包括RFID和现金。我们感谢...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 66,
+        "retweet": 60,
+        "like": 242
+      }
+    },
+    {
+      "created_at": "Thu Jun 06 03:45:35 +0000 2024",
+      "text": "My warmest congratulations to Prime Minister @narendramodi for securing a fresh mandate from the Indian electorate.\n\nThe last decade has shown India as a sincere friend to the Philippines &amp; I look forward to the further strengthening of our bilateral and regional partnership in",
+      "translation": "我向莫迪总理致以最热烈的祝贺，祝贺他获得印度选民的新授权。过去十年表明印度是菲律宾真诚的朋友，我期待我们双边和区域伙伴关系在未来...进一步加强。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 125,
+        "retweet": 538,
+        "like": 3253
+      }
+    },
+    {
+      "created_at": "Thu Dec 19 09:00:20 +0000 2024",
+      "text": "Ikinagagalak kong ipabatid sa ating mga mananakay na libre ang sakay sa LRT-1, LRT-2, at MRT-3 bukas, Disyembre 20, 2024.\n\nTinatayang aabot sa 1.1 milyong pasahero ang sasakay sa mga linyang ito—ang pinakamataas na ridership na naitala ngayong taon.\n\nAng inisyatibong ito ay isang https://t.co/2xTyO5oefU",
+      "translation": "我很高兴地通知我们的乘客，明天，2024年12月20日，LRT-1、LRT-2和MRT-3将免费乘坐。预计这些线路的乘客量将达到110万人次——这是今年记录的最高客流量。这项举措是...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 145,
+        "retweet": 95,
+        "like": 423
+      }
+    },
+    {
+      "created_at": "Thu Aug 29 13:46:34 +0000 2024",
+      "text": "𝗧𝗼 𝗔𝗹𝗹𝗮𝗶𝗻 𝗞𝗲𝗮𝗻𝘂 𝗚𝗮𝗻𝗮𝗽𝗶𝗻, 𝗔𝗻𝗴𝗲𝗹 𝗠𝗮𝗲 𝗢𝘁𝗼𝗺, 𝗔𝗴𝘂𝘀𝘁𝗶𝗻𝗮 𝗠𝗮𝘅𝗶𝗺𝗼 𝗕𝗮𝗻𝘁𝗶𝗹𝗼𝗰, 𝗖𝗲𝗻𝗱𝘆 𝗔𝘀𝘂𝘀𝗮𝗻𝗼, 𝗘𝗿𝗻𝗶𝗲 𝗚𝗮𝘄𝗶𝗹𝗮𝗻, 𝗮𝗻𝗱 𝗝𝗲𝗿𝗿𝗼𝗹𝗱 𝗣𝗲𝘁𝗲 𝗠𝗮𝗻𝗴𝗹𝗶𝘄𝗮𝗻 :\n\nAs you represent the Philippines in the 𝟮𝟬𝟮𝟰 https://t.co/3DbNj2rBYE",
+      "translation": "致阿莱恩·基阿努·加纳平、安吉尔·梅·奥托姆、奥古斯蒂娜·马克西莫·班蒂洛克、森迪·阿苏萨诺、厄尼·加维兰和杰罗尔德·皮特·曼格利万：当你们代表菲律宾参加2024年...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 71,
+        "retweet": 70,
+        "like": 427
+      }
+    }
+  ]
+}

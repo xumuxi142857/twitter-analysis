@@ -1,0 +1,474 @@
+{
+  "id": "profile_AP.json",
+  "_fingerprint": "154d6e0f4ac426a64f618530df49a9fb",
+  "name": "AP",
+  "username": "AP",
+  "category": "media",
+  "daily_count": 10.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "内容发布遵循严格的新闻规范和时效性，对突发新闻、官方声明和重大事件进行快速、准确的报道，体现了高度的组织性和责任感。"
+        },
+        {
+          "term": "开放性高",
+          "analysis": "报道主题广泛，涵盖全球政治、社会事件、环境问题、体育娱乐及科技文化等多个领域，展现出对新信息和多元视角的接纳与探索。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "报道内容以事实陈述为主，但在涉及社会冲突、政治争议或人道主义议题时，会通过选择报道对象（如弱势群体、抗议者）和事件性质（如负面事件）间接体现一定的社会关怀倾向，同时保持基本的客观框架。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "信息传播活跃，覆盖大量公共事件和广泛受众，但互动模式以单向信息发布为主，缺乏强烈的个人情感表达或社群互动特征。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "对危机、冲突和负面社会事件保持持续关注和报道，但情绪基调稳定，以冷静、克制的专业笔触呈现，未表现出明显的情绪波动或焦虑倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在潜在的制度依赖性与精英视角局限。",
+      "sub_items": [
+        {
+          "term": "制度中心主义",
+          "analysis": "信息源高度依赖官方机构、政府声明、大型组织（如NCAA、联邦机构）和知名人物（如政要、名人），可能忽视或弱化非体制视角和草根声音。"
+        },
+        {
+          "term": "危机叙事偏好",
+          "analysis": "内容选择明显偏向突发负面事件（如枪击、抗议、环境灾难、政治动荡）、社会问题（如移民冲突、孤独现象）和自然灾害，可能强化了世界的冲突与危机图景。"
+        },
+        {
+          "term": "宏观视角主导",
+          "analysis": "报道多聚焦于国家层面政策、大规模社会现象或国际事件，对个体深度故事或地方性、社区性议题的持续挖掘相对有限，可能产生距离感。"
+        },
+        {
+          "term": "价值判断隐蔽性",
+          "analysis": "在看似客观的报道中，通过选题（如报道抗议而非对立观点）、措辞（如使用“BREAKING”、“危险”、“混乱”等词）和信源选择，隐含了特定的价值立场和问题框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出负面偏见、可得性启发和框架效应。",
+      "sub_items": [
+        {
+          "term": "负面偏见",
+          "analysis": "在信息筛选上，显著倾向于报道冲突、灾难、事故、政治对立和社会问题，使得负面事件的认知可得性和显著性远高于中性或积极事件。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "报道内容紧密跟随近期发生的、易于引起公众注意的焦点事件（如冬季风暴、大型抗议、体育赛事中断、名人争议），依赖这些高曝光度事件来构建每日的信息议程。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "常将复杂事件置于“官方vs.民众”、“危机与应对”、“争议与伦理”等预设框架内进行叙述，引导受众从特定角度理解事件，如将移民问题框架为“政府行动引发抗议”。"
+        },
+        {
+          "term": "权威偏向",
+          "analysis": "在事实陈述和争议事件中，倾向于优先引用和呈现政府官员、机构发言人、知名专家或国际组织的说法，赋予其更高的初始可信度权重。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "信息发布模式存在反应性、碎片化和信源单一风险。",
+      "sub_items": [
+        {
+          "term": "事件驱动被动性",
+          "analysis": "发布节奏和内容高度受外部突发事件驱动，表现出强烈的反应性特征，可能缺乏对长期趋势或潜伏性议题的主动、系统性挖掘与引领。"
+        },
+        {
+          "term": "信息碎片化",
+          "analysis": "以短讯、快报形式为主，提供事件概览但缺乏深度背景、多方观点整合和后续跟踪，可能导致受众对复杂议题的理解停留在表面。"
+        },
+        {
+          "term": "信源集中风险",
+          "analysis": "对官方和机构信源的依赖度过高，一旦这些信源提供不实信息或进行选择性披露，将直接导致报道失准或视角缺失，且易受信息操控。"
+        },
+        {
+          "term": "全球覆盖的稀释效应",
+          "analysis": "试图覆盖全球众多事件，可能导致对任一特定地区或议题的报道深度不足，资源分散，难以建立持久的专业权威或深入的地方洞察。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治与社会议题上隐含自由主义倾向，易受意识形态批评。",
+      "sub_items": [
+        {
+          "term": "社会议题进步倾向",
+          "analysis": "在报道移民政策抗议、关注无家可归者、非营利组织行动、监狱人文活动等议题时，隐含了对社会公平、弱势群体权益和人性化治理的关注，可能被保守立场批评为带有倾向性。"
+        },
+        {
+          "term": "对权威的监督姿态",
+          "analysis": "对政府行动（如移民执法中的枪击）、环境监管失效（污水泄漏）、制度争议（破坏性捕鱼持续）等进行报道，体现了媒体监督功能，但可能引发被监督方（尤其是当权政府）的反感和抵制。"
+        },
+        {
+          "term": "国际报道的西方中心视角",
+          "analysis": "报道国际事件（如海地政治、伊朗声明、中国社会现象）时，其问题框架、关注点和解释逻辑可能不自觉地带入西方价值观和利益视角，易在非西方受众中引发“偏见”或“误解”的指控。"
+        },
+        {
+          "term": "文化报道的浅层化",
+          "analysis": "对文化、娱乐、体育事件的报道多停留在事件本身或商业层面（如专辑销量、奥运筹备、电视节目纠纷），较少深入探讨其背后的文化意义、社会影响或价值冲突，立场显得模糊或商业化。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在深度分析、事实核查与新兴领域存在能力短板。",
+      "sub_items": [
+        {
+          "term": "深度分析与解释力不足",
+          "analysis": "擅长快速事实报道，但缺乏对事件深层原因、历史脉络、多维影响和复杂关联的深入剖析与解释，难以满足对深度理解有需求的受众。"
+        },
+        {
+          "term": "实时核查压力",
+          "analysis": "在抢发“突发新闻”的压力下，可能面临事实核实不充分的风险，尤其是当依赖单一信源或身处信息混乱的现场时，易传播不准确或未经全面证实的信息。"
+        },
+        {
+          "term": "技术与社会趋势洞察滞后",
+          "analysis": "对科技（如天气App准确性）和社会新现象（如反映孤独感的App）的报道多为现象描述或引入外部观点，缺乏独立、前瞻的技术批判或社会学洞察能力。"
+        },
+        {
+          "term": "数据可视化与叙事创新有限",
+          "analysis": "信息呈现以文本摘要和链接为主，在利用数据可视化、交互式叙事、多媒体深度报道等现代新闻手段方面未见突出表现，可能影响信息传播的吸引力和效果。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "面临职业倦怠、意义感危机与认知固化的潜在风险。",
+      "sub_items": [
+        {
+          "term": "持续负面暴露的消耗",
+          "analysis": "长期聚焦于全球冲突、灾难和社会负面新闻，可能对信息处理者的心理造成隐性消耗，导致共情疲劳、职业倦怠或对苦难的麻木感，影响报道的敏感性与温度。"
+        },
+        {
+          "term": "工具理性压倒价值理性",
+          "analysis": "在追求时效、流量和广泛覆盖的过程中，新闻工作的核心价值（如推动社会进步、深刻揭示真理）可能被操作性的发布目标所挤压，引发内在的意义感危机。"
+        },
+        {
+          "term": "认知框架僵化",
+          "analysis": "长期使用固定的新闻价值判断标准（冲突性、显著性、时效性等）和报道框架，可能导致思维模式固化，难以识别和适应新的叙事方式、新兴议题或颠覆性变化。"
+        },
+        {
+          "term": "宏大叙事下的个体疏离",
+          "analysis": "习惯于从国家、国际层面叙事，可能逐渐削弱与普通个体命运共情和连接的能力，报道中的人物容易沦为说明宏观事件的符号，而非有血有肉的个体。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在塑造全球议程设置能力、维护机构权威并拓展商业影响力。",
+      "sub_items": [
+        {
+          "term": "议程设置与舆论引导",
+          "analysis": "通过选择报道什么、如何报道以及报道的优先级，潜移默化地影响全球受众对重要议题的认知和讨论焦点，旨在成为国际事务的关键定义者之一。"
+        },
+        {
+          "term": "机构品牌与权威建构",
+          "analysis": "持续提供广泛、快速、看似客观的全球新闻，旨在巩固和提升其作为权威国际新闻机构的品牌形象、公信力与市场地位，抵御新兴媒体和社交平台的冲击。"
+        },
+        {
+          "term": "商业模式与市场拓展",
+          "analysis": "报道内容覆盖体育、娱乐、经济、生活等多元领域，并提及商业机会（如NCAA收入可能），反映出在坚守新闻核心的同时，积极适应市场、吸引广泛受众以维持运营和发展的意图。"
+        },
+        {
+          "term": "价值观的全球投射",
+          "analysis": "在报道中隐含对透明治理、社会关怀、个体权利（尽管以中立形式包装）的关注，实质上是将其所代表的特定新闻专业主义价值观和部分社会价值观向全球受众进行推广和强化。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心覆盖领域为美国国内政治社会、全球突发新闻、环境气候、体育娱乐。",
+      "sub_items": [
+        {
+          "term": "美国国内政治与社会动态",
+          "analysis": "高度关注美国境内的政治事件、政策争议、社会抗议、司法执法及国内灾害，是其报道的绝对重心，体现了其立足点和核心受众关切。"
+        },
+        {
+          "term": "全球突发新闻与冲突",
+          "analysis": "对世界各地的政治动荡、自然灾害、重大事故、国际争议进行快速报道，旨在建立全球信息网络的节点地位和第一手信源权威。"
+        },
+        {
+          "term": "环境、气候与公共安全",
+          "analysis": "持续追踪极端天气事件、环境灾难（污染、破坏性捕捞）及其社会影响，反映出对气候变化、生态保护及公共安全议题的稳定关注。"
+        },
+        {
+          "term": "体育、娱乐与文化现象",
+          "analysis": "报道重大体育赛事、文化娱乐里程碑事件及流行社会现象，旨在吸引更广泛的受众，丰富报道面，并连接大众日常生活。"
+        },
+        {
+          "term": "经济与科技相关议题",
+          "analysis": "涉及宏观经济活动、商业决策及科技社会应用，但报道深度和频率相对有限，更多作为整体信息拼图的一部分而非主导领域。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sun Jan 25 11:07:00 +0000 2026",
+      "text": "Chicago nonprofit provides tents and supplies as winter storm hits the US https://t.co/hTzZ9FkZjs",
+      "translation": "美国遭遇冬季风暴，芝加哥非营利组织提供帐篷和物资援助。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 63,
+        "retweet": 190,
+        "like": 1021
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 03:31:24 +0000 2026",
+      "text": "American rock climber Alex Honnold climbed the Taipei 101 skyscraper on Sunday without any ropes or protective equipment. The climb drew both excitement and concern over the ethical implications of attempting such a high-risk endeavor on live broadcast. \n\nRead more: https://t.co/XzGAjMwv03",
+      "translation": "美国攀岩运动员亚历克斯·霍诺德周日徒手无保护攀登台北101摩天大楼。此次直播攀登在引发兴奋的同时，也引发了对尝试此类高风险行为的伦理担忧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 80,
+        "retweet": 445,
+        "like": 2615
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 17:00:15 +0000 2026",
+      "text": "In a Rio de Janeiro prison, Brazilian women inmates showcased their talents in a singing contest. https://t.co/QuBAyTduay",
+      "translation": "在里约热内卢的一所监狱，巴西女囚犯在一场歌唱比赛中展示了她们的才华。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 18,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 16:32:17 +0000 2026",
+      "text": "BREAKING: Federal officers have shot another person in Minneapolis amid the immigration crackdown, Gov. Tim Walz says. https://t.co/wkoulwHtF9",
+      "translation": "突发：明尼苏达州州长蒂姆·沃尔兹称，联邦官员在移民打击行动中于明尼阿波利斯再次开枪击伤一人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1113,
+        "retweet": 1532,
+        "like": 4185
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 13:00:20 +0000 2026",
+      "text": "NCAA approves uniform patches, opening up revenue possibilities for athletic departments https://t.co/rTjf2l4IFm",
+      "translation": "NCAA批准在运动服上使用统一补丁，为体育部门开辟了新的收入可能性。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21,
+        "retweet": 36,
+        "like": 42
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 05:30:11 +0000 2026",
+      "text": "Massive sewage spill flowing into Potomac River upstream from Washington https://t.co/YzaJDFsXde",
+      "translation": "大量污水泄漏流入华盛顿上游的波托马克河。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 50,
+        "retweet": 74,
+        "like": 128
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 04:45:10 +0000 2026",
+      "text": "Play was suspended on outside courts and briefly halted on undercover arenas in the mid-afternoon Saturday under the extreme heat rules at the Australian Open. https://t.co/JrLGmrRzXn",
+      "translation": "周六下午，在澳大利亚网球公开赛上，由于极端高温规则，室外球场暂停比赛，有顶棚的球场也短暂中断。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 22,
+        "retweet": 28,
+        "like": 70
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:11:01 +0000 2026",
+      "text": "Despite a severe blast of Arctic air, thousands turned out for a large protest in downtown Minneapolis against the Trump administration's immigration crackdown Friday. https://t.co/4FQr6QObNo",
+      "translation": "尽管遭遇强烈的北极寒流袭击，周五仍有数千人在明尼阿波利斯市中心举行大规模抗议，反对特朗普政府的移民打击行动。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 300,
+        "retweet": 444,
+        "like": 1767
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 00:20:19 +0000 2026",
+      "text": "As bone-chilling temperatures hit Detroit, the Pope Francis Center opened its doors to people experiencing homelessness, offering warm shelter and cots to those seeking refuge from the cold. https://t.co/OhfGvXTbDt",
+      "translation": "当刺骨严寒袭击底特律时，教皇方济各中心向无家可归者敞开大门，为寻求避寒的人们提供温暖的庇护所和床铺。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 103,
+        "like": 467
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 21:44:07 +0000 2026",
+      "text": "That snowflake icon on your smartphone app might be quick and handy — it just might not be as accurate as a human when the weather gets rough. https://t.co/xntl5DZdRC",
+      "translation": "你智能手机应用上的那个雪花图标可能快捷方便——但在天气变得恶劣时，它可能不如人类预报员准确。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 20,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 21:21:30 +0000 2026",
+      "text": "The rising popularity of an app called “Are You Dead?” is shedding light on growing loneliness in China. https://t.co/iL3d7vwTf7",
+      "translation": "一款名为'你死了吗？'的应用程序日益流行，揭示了中国日益严重的孤独问题。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 24,
+        "retweet": 36,
+        "like": 109
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:59:47 +0000 2026",
+      "text": "Follow AP's David Keyton for the highlights of the World Economic Forum in Davos as it wraps up its annual program Friday. https://t.co/ywchnMFeMu",
+      "translation": "关注美联社记者大卫·凯顿，获取周五结束的达沃斯世界经济论坛年度议程的亮点报道。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 27,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:19:47 +0000 2026",
+      "text": "A massive winter storm is bringing dangerous cold, snow and ice to much of the U.S., with more than 170 million people threatened. https://t.co/DzHBYt181w",
+      "translation": "一场大规模的冬季风暴正给美国大部分地区带来危险的严寒、大雪和冰雨，超过1.7亿人受到威胁。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 56,
+        "like": 154
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:07:23 +0000 2026",
+      "text": "A majority of the presidential council that rules Haiti has voted to oust the prime minister as political chaos deepens. https://t.co/ZFzRYEGv7P",
+      "translation": "随着政治混乱加剧，统治海地的总统委员会多数成员投票决定罢免总理。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 65,
+        "like": 137
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:02:23 +0000 2026",
+      "text": "After a big snowstorm, many people head straight to the hardware store for salt. But the way you clear snow and ice can have real impacts on your pets, plants and pavement. https://t.co/BNoTTh2Uxg",
+      "translation": "大雪过后，许多人直奔五金店购买融雪盐。但你清理冰雪的方式可能对你的宠物、植物和人行道产生实际影响。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27,
+        "retweet": 101,
+        "like": 433
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 18:00:23 +0000 2026",
+      "text": "Scotland has designated 37% of its waters as marine protected areas, but destructive fishing methods like bottom trawling continue in most of these zones. https://t.co/LhsocM5FP2",
+      "translation": "苏格兰已将其37%的水域指定为海洋保护区，但破坏性的捕捞方法（如底拖网捕捞）仍在这些区域的大部分地方继续。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 35,
+        "like": 98
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 16:00:30 +0000 2026",
+      "text": "The countdown is on for the 2026 Winter Olympics in Italy. Here's all you need to know. https://t.co/AyqeVoZMyz",
+      "translation": "2026年意大利冬季奥运会倒计时已经开始。以下是您需要了解的全部信息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 23,
+        "like": 52
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 13:00:25 +0000 2026",
+      "text": "The Eagles' 'Greatest Hits' is the first album in US history to sell over 40M units https://t.co/Ewp9wiW5fg",
+      "translation": "老鹰乐队的《Greatest Hits》成为美国历史上第一张销量超过4000万张的专辑。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 136,
+        "like": 649
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 09:46:29 +0000 2026",
+      "text": "BREAKING: Iran’s top prosecutor denied a claim by U.S. President Donald Trump that his intervention halted the execution of 800 people detained in nationwide protests, calling his comments “completely false.” https://t.co/GBnuZmr2Us",
+      "translation": "突发：伊朗最高检察官否认了美国总统唐纳德·特朗普关于其干预阻止了在全国性抗议中被拘留的800人被处决的说法，称其言论'完全错误'。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 581,
+        "retweet": 2087,
+        "like": 4733
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 04:30:12 +0000 2026",
+      "text": "A TV show about the NYPD is now a legal drama starring the city and Dr. Phil’s son https://t.co/9NMZWuvspV",
+      "translation": "一部关于纽约警察局的电视剧现在成了一部由该市和菲尔博士的儿子主演的法律剧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 21,
+        "like": 39
+      }
+    }
+  ]
+}

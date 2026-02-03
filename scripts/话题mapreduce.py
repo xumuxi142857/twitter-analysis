@@ -12,7 +12,7 @@ from datetime import datetime
 if len(sys.argv) > 1:
     TARGET_DATE = sys.argv[1]
 else:
-    TARGET_DATE = "2026-01-21"
+    TARGET_DATE = "2026-01-31"
 
 # ⚠️ 1. 批处理大小：保持 15-20
 BATCH_SIZE = 20

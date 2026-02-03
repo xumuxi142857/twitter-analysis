@@ -1,0 +1,316 @@
+{
+  "Japan": {
+    "region": "Japan",
+    "targets": [
+      {
+        "id": "profile_baba_ishin.json",
+        "name": "baba_ishin",
+        "username": "baba_ishin",
+        "category": "politician",
+        "daily_count": 0.4,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_Hashimoto_Lo.json",
+        "name": "Hashimoto_Lo",
+        "username": "hashimoto_lo",
+        "category": "politician",
+        "daily_count": 0.4,
+        "preview": "高开放性、高尽责性、低宜人性、中等外向性、中等神经质"
+      },
+      {
+        "id": "profile_hatoyamayukio.json",
+        "name": "hatoyamayukio",
+        "username": "hatoyamayukio",
+        "category": "politician",
+        "daily_count": 0.4,
+        "preview": "高开放性、高尽责性、中等宜人性、中等神经质、中等外倾性。"
+      },
+      {
+        "id": "profile_Hosono_54.json",
+        "name": "Hosono_54",
+        "username": "hosono_54",
+        "category": "politician",
+        "daily_count": 0.5,
+        "preview": "高尽责性、中等开放性、中等外倾性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_IchiroOzawa.json",
+        "name": "IchiroOzawa",
+        "username": "ichiroozawa",
+        "category": "politician",
+        "daily_count": 1.8,
+        "preview": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_ichita_y.json",
+        "name": "ichita_y",
+        "username": "ichita_y",
+        "category": "politician",
+        "daily_count": 1.7,
+        "preview": "高尽责性、高外向性、中等开放性、低宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_jcp_cc.json",
+        "name": "jcp_cc",
+        "username": "jcp_cc",
+        "category": "politician",
+        "daily_count": 79.0,
+        "preview": "高尽责性、高开放性、中等宜人性、中等外倾性、低神经质"
+      },
+      {
+        "id": "profile_kantei.json",
+        "name": "kantei",
+        "username": "kantei",
+        "category": "politician",
+        "daily_count": 4.8,
+        "preview": "高尽责性、高宜人性、中等开放性、中等外倾性、低神经质。"
+      },
+      {
+        "id": "profile_katsuyatakasu.json",
+        "name": "katsuyatakasu",
+        "username": "katsuyatakasu",
+        "category": "politician",
+        "daily_count": 9.1,
+        "preview": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_kihara_minoru.json",
+        "name": "kihara_minoru",
+        "username": "kihara_minoru",
+        "category": "politician",
+        "daily_count": 1.8,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_Komei_Koho.json",
+        "name": "Komei_Koho",
+        "username": "komei_koho",
+        "category": "politician",
+        "daily_count": 3.3,
+        "preview": "高尽责性、高宜人性、中等开放性、中等外倾性、低神经质。"
+      },
+      {
+        "id": "profile_Matsu_Bouzu.json",
+        "name": "Matsu_Bouzu",
+        "username": "matsu_bouzu",
+        "category": "politician",
+        "daily_count": 0.2,
+        "preview": "高神经质、中等尽责性、中等宜人性、中等开放性、中等外倾性。"
+      },
+      {
+        "id": "profile_miosugita.json",
+        "name": "miosugita",
+        "username": "miosugita",
+        "category": "politician",
+        "daily_count": 1.6,
+        "preview": "高尽责性、中等开放性、中等外倾性、低宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_MizuhoFukushima.json",
+        "name": "MizuhoFukushima",
+        "username": "mizuhofukushima",
+        "category": "politician",
+        "daily_count": 9.8,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_ModJapan_jp.json",
+        "name": "ModJapan_jp",
+        "username": "ModJapan_jp",
+        "category": "politician",
+        "daily_count": 5.2,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、低神经质。"
+      },
+      {
+        "id": "profile_MofaJapan_jp.json",
+        "name": "MofaJapan_jp",
+        "username": "MofaJapan_jp",
+        "category": "politician",
+        "daily_count": 1.3,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_moteging.json",
+        "name": "moteging",
+        "username": "moteging",
+        "category": "politician",
+        "daily_count": 1.5,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_nagashima21.json",
+        "name": "nagashima21",
+        "username": "nagashima21",
+        "category": "politician",
+        "daily_count": 12.7,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_onoda_kimi.json",
+        "name": "onoda_kimi",
+        "username": "onoda_kimi",
+        "category": "politician",
+        "daily_count": 0.0,
+        "preview": "尽责性高、宜人性中等、开放性中等、神经质中等、外倾性中等"
+      },
+      {
+        "id": "profile_RyukyuShimpo.json",
+        "name": "RyukyuShimpo",
+        "username": "ryukyushimpo",
+        "category": "politician",
+        "daily_count": 98.0,
+        "preview": "高开放性、高尽责性、中等宜人性、中等外倾性、中等神经质。"
+      },
+      {
+        "id": "profile_SatoMasahisa.json",
+        "name": "SatoMasahisa",
+        "username": "SatoMasahisa",
+        "category": "politician",
+        "daily_count": 2.8,
+        "preview": "高尽责性、高开放性、中等神经质、低宜人性、中等外倾性。"
+      },
+      {
+        "id": "profile_shinjirokoiz.json",
+        "name": "shinjirokoiz",
+        "username": "shinjirokoiz",
+        "category": "politician",
+        "daily_count": 24.0,
+        "preview": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_takaichi_sanae.json",
+        "name": "takaichi_sanae",
+        "username": "takaichi_sanae",
+        "category": "politician",
+        "daily_count": 1.6,
+        "preview": "高尽责性、中等开放性、中等外向性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_TamakiDenny.json",
+        "name": "TamakiDenny",
+        "username": "tamakidenny",
+        "category": "politician",
+        "daily_count": 0.3,
+        "preview": "高尽责性、高开放性、中等宜人性、中等外倾性、中等神经质。"
+      },
+      {
+        "id": "profile_tamakiyuichiro.json",
+        "name": "tamakiyuichiro",
+        "username": "tamakiyuichiro",
+        "category": "politician",
+        "daily_count": 7.6,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_wadamasamune.json",
+        "name": "wadamasamune",
+        "username": "wadamasamune",
+        "category": "politician",
+        "daily_count": 0.9,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_YamamotoTaro0.json",
+        "name": "YamamotoTaro0",
+        "username": "yamamototaro0",
+        "category": "politician",
+        "daily_count": 0.8,
+        "preview": "高尽责性、高外向性、低宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_YoichiTakahashi.json",
+        "name": "YoichiTakahashi",
+        "username": "YoichiTakahashi",
+        "category": "politician",
+        "daily_count": 0.1,
+        "preview": "高开放性、高尽责性、中等外倾性、低宜人性、中等神经质。"
+      }
+    ]
+  },
+  "Philippines": {
+    "region": "Philippines",
+    "targets": [
+      {
+        "id": "profile_bongbongmarcos.json",
+        "name": "bongbongmarcos",
+        "username": "bongbongmarcos",
+        "category": "politician",
+        "daily_count": 0.2,
+        "preview": "高外向性、高尽责性、中等宜人性、中等开放性、中等神经质。"
+      },
+      {
+        "id": "profile_coastguardph.json",
+        "name": "coastguardph",
+        "username": "coastguardph",
+        "category": "politician",
+        "daily_count": 4.2,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质"
+      },
+      {
+        "id": "profile_DFAPHL.json",
+        "name": "DFAPHL",
+        "username": "DFAPHL",
+        "category": "politician",
+        "daily_count": 0.8,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_dndphl.json",
+        "name": "dndphl",
+        "username": "dndphl",
+        "category": "politician",
+        "daily_count": 0.8,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_gmanews.json",
+        "name": "gmanews",
+        "username": "gmanews",
+        "category": "politician",
+        "daily_count": 78.0,
+        "preview": "高尽责性、中等开放性、中等宜人性、中等神经质、中等外倾性。"
+      },
+      {
+        "id": "profile_indaysara.json",
+        "name": "indaysara",
+        "username": "indaysara",
+        "category": "politician",
+        "daily_count": 1.1,
+        "preview": "高尽责性、高外向性、高宜人性，中等开放性，情绪稳定性未知。"
+      },
+      {
+        "id": "profile_inquirerdotnet.json",
+        "name": "inquirerdotnet",
+        "username": "inquirerdotnet",
+        "category": "politician",
+        "daily_count": 94.0,
+        "preview": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。"
+      },
+      {
+        "id": "profile_jaytaryela.json",
+        "name": "jaytaryela",
+        "username": "jaytaryela",
+        "category": "politician",
+        "daily_count": 0.3,
+        "preview": "高开放性、高尽责性、低宜人性、中等外向性、中等神经质。"
+      },
+      {
+        "id": "profile_JVejercito.json",
+        "name": "JVejercito",
+        "username": "jvejercito",
+        "category": "politician",
+        "daily_count": 0.1,
+        "preview": "高尽责性、高外向性、中等开放性、中等神经质、中等宜人性。"
+      },
+      {
+        "id": "profile_ManilaBulletin.json",
+        "name": "ManilaBulletin",
+        "username": "manilabulletin",
+        "category": "politician",
+        "daily_count": 100.0,
+        "preview": "高尽责性、中等开放性、中等宜人性、中等外倾性、中等神经质。"
+      }
+    ]
+  }
+}

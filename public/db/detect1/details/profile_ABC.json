@@ -1,0 +1,470 @@
+{
+  "id": "profile_ABC.json",
+  "_fingerprint": "2ccaecdf70162abba4ec4a0891f38b92",
+  "name": "ABC",
+  "username": "ABC",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等外倾性、低宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "作为总统，表现出强烈的责任感和对政府事务的持续关注，如处理冬季风暴危机、移民执法行动和政府预算问题，显示出对职责的重视。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "在政策执行上表现出一定的灵活性，如与州长合作寻求解决方案，但在意识形态上可能较为固定，尤其在移民问题上坚持强硬立场。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "通过社交媒体和公开声明积极沟通，如宣布派遣官员、评论电话通话，显示出外向的沟通风格，但互动可能集中于特定议题。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "在争议性议题如移民执法上采取强硬立场，可能忽视公众反对意见，如继续推进ICE行动，显示出低合作性和同理心。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在压力情境下如政府停摆和抗议活动中保持一定稳定性，但可能因负面舆论而做出反应性决策，如派遣官员处理危机。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出自大、缺乏同理心和固执己见等缺陷。",
+      "sub_items": [
+        {
+          "term": "自大倾向",
+          "analysis": "在沟通中强调个人成就和掌控力，如描述与州长的通话为“非常良好”并暗示进展，可能过度自信于自身决策。"
+        },
+        {
+          "term": "缺乏同理心",
+          "analysis": "在移民执法导致死亡事件中，未表现出对受害者家属的公开关怀，更关注政策执行和舆论管理，忽视人道影响。"
+        },
+        {
+          "term": "固执己见",
+          "analysis": "尽管公众舆论和司法挑战反对ICE行动，仍坚持推进强硬移民政策，显示出不愿妥协或调整立场的倾向。"
+        },
+        {
+          "term": "反应性决策",
+          "analysis": "在危机事件如枪击案后迅速派遣官员，可能基于政治压力而非深思熟虑，导致决策缺乏长期规划。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "倾向于确认偏误、过度简化和群体内偏袒。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "可能选择性关注支持其移民政策的证据，如强调与州长的合作进展，而忽略公众调查显示的大多数反对意见。"
+        },
+        {
+          "term": "过度简化",
+          "analysis": "将复杂议题如移民执法简化为“进步”或“解决方案”，忽视执法行动的社会、法律和人道层面复杂性。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "倾向于支持行政团队和联邦机构如ICE的行动，即使面临外部批评，显示出对内部群体的忠诚和维护。"
+        },
+        {
+          "term": "乐观偏误",
+          "analysis": "在沟通中过度强调积极成果，如描述通话和进展，可能低估潜在风险如政府停摆或公众抗议的严重性。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "易受舆论压力、决策冲动和沟通失误影响。",
+      "sub_items": [
+        {
+          "term": "舆论敏感性",
+          "analysis": "在负面事件如枪击案后迅速采取行动派遣官员，显示出对公众和媒体反应的过度关注，可能导致政策摇摆。"
+        },
+        {
+          "term": "决策冲动",
+          "analysis": "危机响应如处理冬季风暴和移民冲突时，可能基于即时信息而非全面评估，增加决策错误风险。"
+        },
+        {
+          "term": "沟通失误",
+          "analysis": "通过社交媒体发布信息，可能缺乏精准性，如重复声明或未澄清细节，易引发误解或争议。"
+        },
+        {
+          "term": "依赖权威",
+          "analysis": "过度依赖行政命令和联邦机构执行政策，可能忽视地方合作和司法制衡，导致执行阻力。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在移民、政府运作和公众信任方面立场脆弱。",
+      "sub_items": [
+        {
+          "term": "移民政策孤立",
+          "analysis": "强硬移民立场与多数公众意见和部分地方政府对立，如调查显示美国人认为ICE行动不当，削弱政策合法性。"
+        },
+        {
+          "term": "政府运作风险",
+          "analysis": "移民争议加剧两党分歧，导致政府预算谈判陷入僵局，可能引发政府停摆，威胁行政稳定性。"
+        },
+        {
+          "term": "公众信任赤字",
+          "analysis": "执法行动导致死亡事件和公众抗议，如芝加哥示威，侵蚀公众对联邦机构的信任，增加治理难度。"
+        },
+        {
+          "term": "司法挑战",
+          "analysis": "面临州政府请求法院阻止移民行动，显示法律层面脆弱性，可能被迫调整或中止政策执行。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在危机管理、协调能力和长期规划方面存在不足。",
+      "sub_items": [
+        {
+          "term": "危机管理局限",
+          "analysis": "同时处理自然灾害如冬季风暴和人为危机如枪击案，可能分散资源，导致响应效率降低或失误。"
+        },
+        {
+          "term": "协调能力不足",
+          "analysis": "在联邦与州合作中，如与明尼苏达州长互动，可能缺乏有效协调机制，影响政策实施效果。"
+        },
+        {
+          "term": "长期规划缺失",
+          "analysis": "聚焦短期危机响应，如派遣官员处理即时事件，可能忽视移民政策的长期社会整合和法治框架建设。"
+        },
+        {
+          "term": "资源分配问题",
+          "analysis": "在多重压力下，如政府预算谈判和执法行动，可能无法优化资源分配，导致优先级冲突或浪费。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "易受压力、认知僵化和情绪波动影响。",
+      "sub_items": [
+        {
+          "term": "压力耐受性低",
+          "analysis": "在高压情境如公众抗议和司法挑战下，可能做出仓促决策，反映出应对复杂压力能力有限。"
+        },
+        {
+          "term": "认知僵化",
+          "analysis": "坚持既定移民政策框架，即使证据显示负面后果，可能阻碍适应性学习和政策调整。"
+        },
+        {
+          "term": "情绪波动",
+          "analysis": "沟通中混合乐观声明和强硬立场，可能反映情绪驱动行为，如过度反应于批评或急于展示控制力。"
+        },
+        {
+          "term": "注意力分散",
+          "analysis": "同时关注多样议题如天气事件、纪念活动和国际事务，可能降低对核心危机如移民冲突的专注度。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "可能旨在强化行政权威、转移舆论焦点和巩固政治基础。",
+      "sub_items": [
+        {
+          "term": "权威强化",
+          "analysis": "通过强硬移民执法和危机响应，展示联邦权力和控制力，旨在巩固行政权威和威慑反对者。"
+        },
+        {
+          "term": "舆论转移",
+          "analysis": "在负面事件如枪击案后，迅速行动并强调进展，可能意图转移公众注意力，减少对执法过当的批评。"
+        },
+        {
+          "term": "政治基础巩固",
+          "analysis": "坚持争议性政策如ICE行动，可能旨在迎合核心支持群体，强化政治联盟，即使牺牲 broader公众支持。"
+        },
+        {
+          "term": "遗产塑造",
+          "analysis": "积极处理高能见度危机，可能意图塑造果断领导者形象，为政治遗产或未来议程铺垫。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题包括移民执法、自然灾害响应、政府运作和国际事务。",
+      "sub_items": [
+        {
+          "term": "移民执法",
+          "analysis": "聚焦ICE行动、边境管控和相关法律挑战，如法院听证和公众抗议，显示此议题的中心地位。"
+        },
+        {
+          "term": "自然灾害响应",
+          "analysis": "关注冬季风暴影响、死亡统计和应急管理，反映出对国内危机和公共安全议题的参与。"
+        },
+        {
+          "term": "政府运作",
+          "analysis": "涉及政府预算谈判、潜在停摆和两党分歧，凸显行政稳定性和政治协调的重要性。"
+        },
+        {
+          "term": "国际事务",
+          "analysis": "提及中东冲突如加沙人质事件，显示对全球议题的关注，但可能作为次要话题处理。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 22:54:41 +0000 2026",
+      "text": "This weekend’s massive winter storm brought 10 to 20 inches of snow to the Plains and the Northeast and dangerous sleet and freezing rain to the South, crippling travel.\n  \nFollow along for the latest: https://t.co/hME4RhTq8X https://t.co/1jKeuAtTcL",
+      "translation": "本周末的强冬季风暴给平原地区和东北部带来了10至20英寸的降雪，给南部地区带来了危险的雨夹雪和冻雨，导致交通瘫痪。请关注最新动态：https://t.co/hME4RhTq8X https://t.co/1jKeuAtTcL",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 9,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:49:11 +0000 2026",
+      "text": "President Trump said that he had a \"very good\" phone call with Minneapolis Mayor Jacob Frey.\n \n\"Lots of progress is being made!\" Trump said in a post on social media. https://t.co/0odURzfwDc",
+      "translation": "特朗普总统表示，他与明尼阿波利斯市长雅各布·弗雷进行了一次“非常好”的电话通话。特朗普在社交媒体上发帖称：“取得了很大进展！” https://t.co/0odURzfwDc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:35:21 +0000 2026",
+      "text": "Anti-ICE protesters took to the snowy streets of Chicago on Sunday — one day after the fatal shooting of Alex Pretti in Minneapolis — with timelapse footage showing a stream of demonstrators marching downtown. https://t.co/0dI8qzLoco https://t.co/j266jg8eRR",
+      "translation": "周日，反ICE抗议者走上芝加哥积雪的街头——这是在明尼阿波利斯市亚历克斯·普雷蒂被枪击身亡一天后——延时摄影显示示威者队伍在市中心游行。https://t.co/0dI8qzLoco https://t.co/j266jg8eRR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 92,
+        "retweet": 123,
+        "like": 451
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 22:18:09 +0000 2026",
+      "text": "WINTER STORM LATEST: At least 26 deaths have been attributed to the storm nationwide, according to the Associated Press.\n \nFollow live updates: https://t.co/vy2qaM8bYa",
+      "translation": "冬季风暴最新消息：据美联社报道，全国范围内至少有26人死亡与这场风暴有关。请关注实时更新：https://t.co/vy2qaM8bYa",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 11,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:55:07 +0000 2026",
+      "text": "IN MEMORIAM: Remembering NBA legend Kobe Bryant, who died on this day in 2020. https://t.co/Wr46x8MFJc https://t.co/wa1RtvU8Xh",
+      "translation": "纪念：缅怀NBA传奇人物科比·布莱恩特，他于2020年的今天去世。https://t.co/Wr46x8MFJc https://t.co/wa1RtvU8Xh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 107,
+        "retweet": 1085,
+        "like": 6962
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:48:52 +0000 2026",
+      "text": "Greg Bovino, Border Patrol's commander at large for Minneapolis, is expected to leave the city on Tuesday, according to multiple sources. https://t.co/F2lEU4VfGj https://t.co/1hDxeCUhIA",
+      "translation": "据多方消息来源称，边境巡逻队在明尼阿波利斯的指挥官格雷格·博维诺预计将于周二离开该市。https://t.co/F2lEU4VfGj https://t.co/1hDxeCUhIA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 134,
+        "retweet": 59,
+        "like": 188
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:46:04 +0000 2026",
+      "text": "Surveys fielded after Minneapolis woman Renee Good was shot and killed by ICE on Jan. 7 found most Americans saying the event was an inappropriate use of force and most voters saying her killing was unjustified. https://t.co/QgnpojqmZc https://t.co/VuR0lP5Ut3",
+      "translation": "在明尼阿波利斯女子蕾妮·古德于1月7日被ICE枪杀后进行的调查发现，大多数美国人认为该事件是武力的不当使用，大多数选民认为她的被杀是不合理的。https://t.co/QgnpojqmZc https://t.co/VuR0lP5Ut3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 222,
+        "retweet": 142,
+        "like": 341
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:34:06 +0000 2026",
+      "text": "All six people on board a private jet are presumed to be dead after the plane crashed while taking off from Bangor International Airport in Maine during the winter storm, according to police. https://t.co/PCvnLw1dF9",
+      "translation": "据警方称，一架私人飞机在缅因州班戈国际机场起飞时坠毁，机上六人据推测全部遇难，事故发生在冬季风暴期间。https://t.co/PCvnLw1dF9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 6,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:13:27 +0000 2026",
+      "text": "BREAKING: Greg Bovino, Border Patrol's commander at large for Minneapolis, is expected to leave the city on Tuesday, according to multiple sources.\n \nPlans could shift given the fluid situation on the ground, however, according to sources. https://t.co/G2E2kjMrFe",
+      "translation": "突发新闻：据多方消息来源称，边境巡逻队在明尼阿波利斯的指挥官格雷格·博维诺预计将于周二离开该市。然而，消息人士称，鉴于当地局势多变，计划可能会改变。https://t.co/G2E2kjMrFe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32,
+        "retweet": 19,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 21:01:55 +0000 2026",
+      "text": "All six people on board a private jet are presumed to be dead after the plane crashed while taking off from Bangor International Airport in Maine during the Sunday winter storm, according to police.\n\nRead more: https://t.co/0GnQR9Drfe https://t.co/QJZA5YZsoh",
+      "translation": "据警方称，一架私人飞机在周日冬季风暴期间从缅因州班戈国际机场起飞时坠毁，机上六人据推测全部遇难。阅读更多：https://t.co/0GnQR9Drfe https://t.co/QJZA5YZsoh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 16,
+        "like": 48
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:57:01 +0000 2026",
+      "text": "A federal judge heard arguments Monday on the state of Minnesota's request for a temporary restraining order to halt the Trump administration's immigration enforcement operation in the state. https://t.co/obtQpwNG6R",
+      "translation": "周一，一名联邦法官听取了明尼苏达州关于请求临时限制令以阻止特朗普政府在该州实施移民执法行动的辩论。https://t.co/obtQpwNG6R",
+      "stance": "无关",
+      "metrics": {
+        "reply": 35,
+        "retweet": 11,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:56:17 +0000 2026",
+      "text": "The body of the last remaining hostage taken during the Oct. 7, 2023, attack has been retrieved from Gaza, Israeli officials said. https://t.co/gD4TtGy3XH",
+      "translation": "以色列官员表示，2023年10月7日袭击中被劫持的最后一名人质的遗体已从加沙地带找回。https://t.co/gD4TtGy3XH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 9,
+        "like": 24
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:42:05 +0000 2026",
+      "text": "Polling through the first half of January has found Americans largely at odds with the Trump administration on immigration, with just over half saying ICE enforcement actions were making cities less safe. https://t.co/lFqAnDj1Ad",
+      "translation": "一月份上半月的民意调查发现，美国人在移民问题上与特朗普政府存在很大分歧，仅略超过一半的人认为ICE的执法行动使城市更不安全。https://t.co/lFqAnDj1Ad",
+      "stance": "无关",
+      "metrics": {
+        "reply": 50,
+        "retweet": 17,
+        "like": 33
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:39:01 +0000 2026",
+      "text": "President Trump has announced that he is dispatching his border czar, Tom Homan, to Minnesota amid outrage over the fatal shooting of Alex Pretti by federal agents. https://t.co/wce9ezkGj7 https://t.co/Z383mfdyXC",
+      "translation": "特朗普总统宣布，在联邦特工致命枪击亚历克斯·普雷蒂引发众怒之际，他将派遣其边境事务主管汤姆·霍曼前往明尼苏达州。https://t.co/wce9ezkGj7 https://t.co/Z383mfdyXC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 48,
+        "retweet": 11,
+        "like": 52
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:06:04 +0000 2026",
+      "text": "With just days until a partial government shutdown, the shootings in Minneapolis have left Senate Democrats and Republicans in a standoff over how to advance a package of bills necessary to fund the government. https://t.co/6Yn4Z816zl",
+      "translation": "距离部分政府关门仅剩几天时间，明尼阿波利斯的枪击事件使参议院民主党和共和党在如何推进为政府提供资金所必需的一揽子法案问题上陷入僵局。https://t.co/6Yn4Z816zl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 17,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:57:02 +0000 2026",
+      "text": "At least 22 people have died across multiple states following the massive winter storm over the weekend. \n \nABC News’ Alex Presha reports from Reston, Virginia, a region which “is going to experience its coldest stretch since about 1979” if forecasts hold. https://t.co/JdsKaMtu1Y https://t.co/MGP7rHOcco",
+      "translation": "周末的强冬季风暴过后，多个州至少有22人死亡。美国广播公司新闻的亚历克斯·普雷沙从弗吉尼亚州雷斯顿报道，该地区如果预报准确，“将经历自1979年以来最寒冷的时期”。https://t.co/JdsKaMtu1Y https://t.co/MGP7rHOcco",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 23,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:48:21 +0000 2026",
+      "text": "The Hennepin County Medical Examiner has issued its public data form on the death of Renee Good, ruling the manner of death a homicide. https://t.co/Qn7a3FBqRw https://t.co/p1Xq4rCAzu",
+      "translation": "亨内平县法医办公室已发布关于蕾妮·古德死亡的公共数据表，裁定死亡方式为他杀。https://t.co/Qn7a3FBqRw https://t.co/p1Xq4rCAzu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 700,
+        "retweet": 2786,
+        "like": 10296
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:26:27 +0000 2026",
+      "text": "President Trump said he and Minnesota Gov. Tim Walz seem to be \"on a similar wavelength\" after the governor called him to request that the two work together to find a solution to ICE operations and the chaos in Minnesota.\n\n@SelinaWangTV has the latest: https://t.co/DA7vCWurqv https://t.co/rm0qc6QtEl",
+      "translation": "特朗普总统表示，在明尼苏达州州长蒂姆·沃尔兹致电请求双方合作寻找ICE行动和明尼苏达州混乱局面的解决方案后，他和州长似乎“想法相似”。@SelinaWangTV带来最新消息：https://t.co/DA7vCWurqv https://t.co/rm0qc6QtEl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 49,
+        "retweet": 17,
+        "like": 59
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:25:47 +0000 2026",
+      "text": "President Trump has announced that he is dispatching his border czar, Tom Homan, to Minnesota amid outrage over the fatal shooting of Alex Pretti by a federal agent. https://t.co/SeqZlhk2wf",
+      "translation": "特朗普总统宣布，在联邦特工致命枪击亚历克斯·普雷蒂引发众怒之际，他将派遣其边境事务主管汤姆·霍曼前往明尼苏达州。https://t.co/SeqZlhk2wf",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 9,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:06:48 +0000 2026",
+      "text": "ABC News' Mary Bruce asked White House press secretary Karoline Leavitt if President Trump agrees with administration officials who labeled Alex Pretti a \"domestic terrorist.\" \n \nLeavitt said she has not heard President Trump \"characterize Mr. Pretti in that way.\" https://t.co/LEGHngEsqA",
+      "translation": "美国广播公司新闻的玛丽·布鲁斯询问白宫新闻秘书卡罗琳·莱维特，特朗普总统是否同意政府官员将亚历克斯·普雷蒂称为“国内恐怖分子”。莱维特表示，她没有听到特朗普总统“以那种方式描述普雷蒂先生”。https://t.co/LEGHngEsqA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 91,
+        "retweet": 39,
+        "like": 158
+      }
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "id": "profile_JVejercito.json",
+  "_fingerprint": "64f9f1c68cf529c2b144d44c2a3000a8",
+  "name": "JVejercito",
+  "username": "jvejercito",
+  "category": "politician",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等神经质、中等宜人性。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "作为参议员，积极推动立法工作，详细报告立法进展，强调对优先项目的坚持，表现出强烈的责任感和组织性。"
+        },
+        {
+          "term": "外向性高",
+          "analysis": "频繁在社交媒体上公开表达观点，参与公共讨论，展示个人生活和兴趣（如支持篮球队），表现出社交活跃和寻求关注的特质。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "关注基础设施、医疗改革等具体政策议题，但在言论中未表现出对抽象理念或文化创新的强烈兴趣，更侧重于实际治理问题。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "在涉及国家尊严（如南海问题）和政治纷争时表现出强烈情绪反应，但在政策讨论中保持相对冷静，情绪稳定性随情境波动。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "在政治合作中表现出对反对派人士的尊重，但在面对批评或敌对立场时（如指责亲华言论）会采取强硬对抗姿态，合作性与对抗性并存。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在自我中心倾向、对抗性冲动和道德优越感。",
+      "sub_items": [
+        {
+          "term": "自我中心倾向",
+          "analysis": "频繁强调个人政治独立性和成就（如预算增长），将自身塑造为不受党派束缚的正义代表，可能过度关注个人形象和声誉。"
+        },
+        {
+          "term": "对抗性冲动",
+          "analysis": "在政治争议和外交议题上使用激烈言辞（如“叛徒”“野蛮”），容易升级冲突而非寻求缓和，显示出好斗的一面。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "宣称在利益与正义之间选择后者，暗示其他政治人物为私利而变节，将自己置于道德制高点，可能疏远潜在盟友。"
+        },
+        {
+          "term": "受害者心态",
+          "analysis": "提及被排除出政治联盟，强调自身作为“独立声音”的孤独处境，可能利用此叙事博取同情或合理化政治挫折。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出内群体偏见、情感启发式和确认偏误。",
+      "sub_items": [
+        {
+          "term": "内群体偏见",
+          "analysis": "强烈认同菲律宾国家利益，在南海问题上将中国完全置于对立面，支持本国军队和海岸警卫队，对外部批评（如亲华言论）极度敏感。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "对南海事件的反应基于强烈民族情感（如国旗受辱），而非纯粹战略分析；在政治纷争中情绪化表达希望“停止噪音”，显示决策受即时情感影响。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于转发和强调符合其反华立场及国内治理优先事项的信息（如中国“欺凌”行为、基础设施延迟问题），可能忽略或淡化相反证据。"
+        },
+        {
+          "term": "非黑即白思维",
+          "analysis": "在政治忠诚度上划分清晰界限（如“非此即彼”的联盟观），在外交上将复杂地缘政治简化为“侵略与抵抗”的二元叙事。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开言论情绪化、政治立场孤立、社交媒体依赖。",
+      "sub_items": [
+        {
+          "term": "情绪化公开言论",
+          "analysis": "在敏感议题（如南海冲突、国内政治纷争）上使用愤怒表情和激烈措辞，易被对手利用以描绘其不理性或煽动性，损害专业形象。"
+        },
+        {
+          "term": "政治孤立风险",
+          "analysis": "强调独立参选、无党派债务，并批评政治内讧，虽塑造清廉形象，但可能削弱党内联盟支持，在需要集体行动时处于弱势。"
+        },
+        {
+          "term": "社交媒体过度曝光",
+          "analysis": "大量通过推特发布政策观点、个人反应乃至生活观察，信息碎片化且公开，易被断章取义或引发不必要的争议（如对手表品牌的评论）。"
+        },
+        {
+          "term": "反应性而非战略性",
+          "analysis": "对突发新闻（如南海事件、政治任命）迅速发表评论，显示出即时反应倾向，可能缺乏长期战略规划或深思熟虑的应对。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在南海问题上立场极端，国内政治中处于微妙平衡。",
+      "sub_items": [
+        {
+          "term": "对华强硬立场固化",
+          "analysis": "公开谴责中国在南海的行动为“欺凌”“战争行为”，并攻击亲华言论，立场极其强硬，几乎没有回旋余地，可能关闭外交对话渠道。"
+        },
+        {
+          "term": "国内政治联盟脆弱",
+          "analysis": "自称独立且被主要联盟排除，依赖个人声誉而非党派机器，在需要广泛政治支持推动立法时可能面临效率低下或遭对手阻挠。"
+        },
+        {
+          "term": "政策优先性矛盾",
+          "analysis": "一方面强调聚焦国家问题、停止政治噪音，另一方面又深度卷入政治评论和争议（如批评对手），立场存在言行不一的风险。"
+        },
+        {
+          "term": "民族主义与务实治理的张力",
+          "analysis": "在南海议题上展现强烈民族主义，但在国内治理（如基础设施、医疗资金）上强调务实和效率，两者若处理不当可能引发公众预期冲突。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "影响力局限于特定领域，缺乏广泛政治协调力。",
+      "sub_items": [
+        {
+          "term": "领域专长局限",
+          "analysis": "作为全民医保法作者，在医疗政策上展现专业权威，但在其他复杂领域（如宏观经济、多边外交）的深度分析能力未充分体现，影响力可能不均衡。"
+        },
+        {
+          "term": "政治协调能力不足",
+          "analysis": "言论中透露出在参议院仅作为“一个声音”，且抱怨政治纷争影响工作，显示在构建跨党派共识或驾驭复杂政治博弈方面面临挑战。"
+        },
+        {
+          "term": "信息过载与焦点分散",
+          "analysis": "社交媒体内容涵盖立法、外交、体育、个人观察等多方面，可能分散公众对其核心政策议题的注意力，削弱信息传递的有效性。"
+        },
+        {
+          "term": "依赖个人魅力而非制度权力",
+          "analysis": "影响力很大程度上建立在个人“正直、品格、表现”的叙事上，而非担任关键委员会主席或党内领导职务，这种基础在政治风向变化时可能不稳定。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "易受民族尊严羞辱触发，存在政治疏离感。",
+      "sub_items": [
+        {
+          "term": "民族尊严敏感点",
+          "analysis": "对涉及菲律宾国旗、领土（如南海）的“侮辱”事件反应极为强烈，情绪易被此类象征性事件点燃，可能导致判断被愤怒主导。"
+        },
+        {
+          "term": "政治疏离与挫折感",
+          "analysis": "表达对政治内讧的厌倦和悲伤，自称“被赶出”联盟，显示出对政治环境的失望感，长期可能影响其政治动力或导致激进转向。"
+        },
+        {
+          "term": "需被认可与支持",
+          "analysis": "公开感谢非盟友支持者，强调“温暖人心”，显示对公众认可的情感依赖，这种需求可能使其政策立场受民意波动影响。"
+        },
+        {
+          "term": "黑白分明的正义观",
+          "analysis": "坚持在“正确”与“利益”间做选择，将政治选择道德化，这种刚性思维可能使其难以在灰色地带的现实政治中进行妥协或谈判。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在塑造超越党派的全民领袖形象，为更高政治职位铺垫。",
+      "sub_items": [
+        {
+          "term": "塑造国家利益守护者形象",
+          "analysis": "通过强调政策成果、批评政治噪音、展现对华强硬，试图将自己定位为超越党派斗争、专注于国家福祉的领袖，为未来竞选积累道德资本。"
+        },
+        {
+          "term": "建立独立政治品牌",
+          "analysis": "反复声明政治独立、不欠人情，旨在脱离传统政治家族或党派束缚，创建一个以个人诚信和绩效为核心的新政治身份，吸引厌倦旧政治的选民。"
+        },
+        {
+          "term": "平衡民族主义与务实治理",
+          "analysis": "在外交上展现强硬以巩固民族主义支持，在国内聚焦基础设施、医疗等民生议题以体现治理能力，意图覆盖更广泛的选民基础。"
+        },
+        {
+          "term": "试探公众对非传统领袖的接受度",
+          "analysis": "通过分享个人偏好（如手表）、观看体育赛事等非政治内容，以及展示对反对派人士的尊重，测试其作为“真实”、“有层次”政治人物的公众吸引力。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注国内治理、南海主权、政治独立性与医疗政策。",
+      "sub_items": [
+        {
+          "term": "国内治理与基础设施",
+          "analysis": "频繁强调优先基础设施项目、避免延误、保障外国援助项目资金，显示将经济发展和行政效率作为国内政策核心。"
+        },
+        {
+          "term": "南海主权与对华关系",
+          "analysis": "强烈关注南海事件，谴责中国行动，捍卫菲律宾主权，这是其外交和安全言论中最突出且情绪化的主题。"
+        },
+        {
+          "term": "政治独立性与反内讧",
+          "analysis": "持续强调自身独立参选者身份，批评政治联盟的排他性和国内政治纷争，呼吁聚焦国家挑战而非党派斗争。"
+        },
+        {
+          "term": "医疗政策与资金保障",
+          "analysis": "作为全民医保法作者，密切关注医保资金转移问题，坚持医疗专项资金专用，展现其在该领域的专业承诺和监管角色。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      10
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      3
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 25 09:39:53 +0000 2024",
+      "text": "RT @senatePH: @SayChiz @senatorjoelv Sen. Joseph Victor \"JV\" Ejercito sponsors Senate Bill No. 2838 (SBN 2838) or an act providing for the…",
+      "translation": "转发 @senatePH：@SayChiz @senatorjoelv 参议员约瑟夫·维克托“JV”埃赫西托提出第2838号参议院法案（SBN 2838），即一项关于...的法案。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Sep 25 08:41:19 +0000 2024",
+      "text": "RT @senatePH: Sen. Joseph Victor \"JV\" Ejercito urged government agencies to do their part in stimulating economic growth in Mindanao. He pa…",
+      "translation": "转发 @senatePH：参议员约瑟夫·维克托“JV”埃赫西托敦促政府机构在刺激棉兰老岛经济增长方面发挥作用。他...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Sep 18 08:24:26 +0000 2024",
+      "text": "RT @senatePH: @SenGracePOE @SenTolentino Sen. Joseph Victor “JV” Ejercito cited the importance of the Judiciary Development Fund in ensurin…",
+      "translation": "转发 @senatePH：@SenGracePOE @SenTolentino 参议员约瑟夫·维克托“JV”埃赫西托强调了司法发展基金在确保...方面的重要性。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Wed Oct 30 16:28:26 +0000 2024",
+      "text": "RT @Politiko_Ph: Ikinatuwa ng mga health advocates sa senado kagaya nina Senate Committee on Health Chairperson na si Sen. Christopher 'Bon…",
+      "translation": "转发 @Politiko_Ph：参议院健康委员会主席参议员克里斯托弗“邦”...等参议院健康倡导者对此感到高兴。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Oct 30 09:31:50 +0000 2024",
+      "text": "https://t.co/shn4dUipFj",
+      "translation": "https://t.co/shn4dUipFj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Oct 30 04:17:28 +0000 2024",
+      "text": "RT @dzbb: Paglilipat ng sobrang pondo ng Philippine Health Insurance Corporation (PhilHealth) sa National Treasury, hindi na dapat maulit,…",
+      "translation": "转发 @dzbb：菲律宾健康保险公司（PhilHealth）多余资金转移至国家财政部，不应再发生，...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Oct 09 21:57:06 +0000 2024",
+      "text": "RT @dzrhnews: Dagdag pondo para sa AFP modernization program, suportado ng mga senador - Sen. @jvejercito | RH 28 @RaymundDadpaas, DZRH New…",
+      "translation": "转发 @dzrhnews：增加对菲律宾武装部队现代化计划的资金，得到参议员们的支持 - 参议员 @jvejercito | RH 28 @RaymundDadpaas, DZRH 新闻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed May 22 12:02:27 +0000 2024",
+      "text": "Its still the Solid 7 that is left on the plenary session floor up to this time… https://t.co/UV3vgAOR7y",
+      "translation": "直到现在，全体会议厅里剩下的仍然是那坚定的7人... https://t.co/UV3vgAOR7y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 186,
+        "retweet": 24,
+        "like": 397
+      }
+    },
+    {
+      "created_at": "Wed May 22 10:53:51 +0000 2024",
+      "text": "RT @senatePH: @WinGatchalian74 @SenRobinhood @jinggoyestrada_ @senkokopimentel @Cynthia_Villar Sen. Joseph Victor “JV” Ejercito, principal…",
+      "translation": "转发 @senatePH：@WinGatchalian74 @SenRobinhood @jinggoyestrada_ @senkokopimentel @Cynthia_Villar 参议员约瑟夫·维克托“JV”埃赫西托，作为...的主要提案人...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Wed May 22 04:36:05 +0000 2024",
+      "text": "Followed up with the Presidential Legislative Liason Office on the certification for the Amendments to the Universal Healthcare Act which we could have passed before the Senate adjourns  Sine Diè.  \n\nWas wondering why they never replied to me.  \n\nThis is one of the priority bills",
+      "translation": "跟进总统立法联络办公室关于《全民医疗保健法》修正案的认证，我们本可在参议院无限期休会前通过。想知道他们为何从未回复我。这是优先法案之一。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 3,
+        "like": 44
+      }
+    },
+    {
+      "created_at": "Wed May 22 00:23:43 +0000 2024",
+      "text": "Between personal, vested and political interest, I choose to remain on the side of what is right.\n\nNapakadaling lumundag ng kampo kung pansariling interes at benepisyo ko lang ang aking iisipin.\n\nTumagilid man ang barko hindi tayo marunong mang iwan! https://t.co/J5vHWfTka5",
+      "translation": "在个人、既得和政治利益之间，我选择站在正确的一边。如果只考虑我的个人利益和好处，跳槽阵营是很容易的。即使船倾斜了，我们也不会抛弃！ https://t.co/J5vHWfTka5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 164,
+        "retweet": 18,
+        "like": 438
+      }
+    },
+    {
+      "created_at": "Wed Mar 20 10:26:21 +0000 2024",
+      "text": "RT @Politiko_Ph: Senate Deputy Majority Leader JV Ejercito (@jvejercito) has proposed amendments to Universal Healthcare Act, that includes…",
+      "translation": "转发 @Politiko_Ph：参议院副多数党领袖JV埃赫西托（@jvejercito）已提出对《全民医疗保健法》的修正案，其中包括...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Wed Mar 06 03:39:33 +0000 2024",
+      "text": "What a lie by China’s propaganda!",
+      "translation": "中国宣传的谎言！",
+      "stance": "负面",
+      "metrics": {
+        "reply": 80,
+        "retweet": 16,
+        "like": 87
+      }
+    },
+    {
+      "created_at": "Wed Jun 05 12:26:48 +0000 2024",
+      "text": "Talaga lang ha!!!\n\nLayas!!! https://t.co/DxrAL0iRRs",
+      "translation": "真的假的啊！！！滚开！！！ https://t.co/DxrAL0iRRs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 172,
+        "retweet": 38,
+        "like": 269
+      }
+    },
+    {
+      "created_at": "Wed Jan 31 07:34:32 +0000 2024",
+      "text": "RT @senatePH: @SenGracePOE @migzzubiri @senatorjoelv Sen. Joseph Victor \"JV\" Ejercito backed renewed proposals for the establishment of the…",
+      "translation": "转发 @senatePH：@SenGracePOE @migzzubiri @senatorjoelv 参议员约瑟夫·维克托“JV”埃赫西托支持重新提出建立...的提案。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Wed Jan 31 01:42:44 +0000 2024",
+      "text": "Sawsaw pandesal sa kape!  \n\nKinaugaliang ng mga Pinoy na simple pero hanggang ngayon napakasarap pa rin! \n\nSarap talaga matapos ang matinding ahon! https://t.co/PUMAR68hyw",
+      "translation": "面包蘸咖啡！菲律宾人简单却至今仍非常美味的习惯！爬完陡坡后真是太享受了！ https://t.co/PUMAR68hyw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 29,
+        "retweet": 2,
+        "like": 116
+      }
+    },
+    {
+      "created_at": "Wed Feb 14 10:27:23 +0000 2024",
+      "text": "RT @Politiko_Ph: Bilib kay seatmate! Enrile still very sharp, brilliant - @jvejercito\nhttps://t.co/96mjhUyVda\n#Politiko #PolitikoSnitch",
+      "translation": "转发 @Politiko_Ph：佩服我的邻座！恩里莱仍然非常敏锐、才华横溢 - @jvejercito https://t.co/96mjhUyVda #Politiko #PolitikoSnitch",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Wed Feb 14 03:48:42 +0000 2024",
+      "text": "Happy 100th Birthday to my first seatmate in the Halls of the Senate, former Senate President Juan Ponce Enrile!\n\nEven at his advanced age, he is still very sharp and brilliant, which left me in awe being his seatmate! https://t.co/tXMAFRlzaJ",
+      "translation": "祝我在参议院大厅的第一位邻座、前参议院议长胡安·庞塞·恩里莱100岁生日快乐！即使年事已高，他仍然非常敏锐和才华横溢，作为他的邻座让我感到敬畏！ https://t.co/tXMAFRlzaJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 4,
+        "like": 79
+      }
+    },
+    {
+      "created_at": "Wed Feb 05 11:45:54 +0000 2025",
+      "text": "RT @senatePH: Deputy Majority Leader Joseph Victor \"JV\" Ejercito reports that the House of Representatives has adopted the Senate's version…",
+      "translation": "转发 @senatePH：副多数党领袖约瑟夫·维克托“JV”埃赫西托报告称，众议院已采纳参议院版本的...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 26,
+        "retweet": 2,
+        "like": 13
+      }
+    },
+    {
+      "created_at": "Wed Dec 18 12:53:52 +0000 2024",
+      "text": "RT @Politiko_Ph: Bye bye Swiss watches! @jvejercito prefers Seiko made in Japan \nhttps://t.co/lzJW75Wx26 \n#Politiko #PolitikoSnitch",
+      "translation": "转发 @Politiko_Ph：再见瑞士手表！@jvejercito 更喜欢日本制造的Seiko https://t.co/lzJW75Wx26 #Politiko #PolitikoSnitch",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 9
+      }
+    }
+  ]
+}

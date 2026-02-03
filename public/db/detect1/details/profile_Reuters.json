@@ -1,0 +1,442 @@
+{
+  "id": "profile_Reuters.json",
+  "_fingerprint": "2b29a31dc0361eee49a3b2ebd13734b0",
+  "name": "Reuters",
+  "username": "Reuters",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "内容发布严谨，遵循新闻规范，注重事实核查与信源标注，表现出强烈的职业责任感与条理性。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "报道主题广泛，涵盖政治、经济、社会、文化、体育、娱乐及国际事务，对新信息、新事件和复杂议题保持高度兴趣与接纳度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "报道风格以客观陈述为主，但选题常涉及冲突、争议与负面事件，如政治斗争、犯罪、制裁等，不回避呈现对立与矛盾。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "作为机构媒体，其影响力源于广泛的信息网络与主动报道，而非个人社交互动，表现为外向的信息输出而非内向的情感表达。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "报道情绪总体稳定，聚焦事件本身，但在涉及危机、丑闻或冲突议题时，内容会自然传递紧张、担忧或批判性氛围。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在潜在的精英主义视角与制度性偏见。",
+      "sub_items": [
+        {
+          "term": "制度依赖倾向",
+          "analysis": "报道大量围绕政府机构、国际组织、大企业及知名人物的决策与动态，视角可能默认现有权力结构与制度框架为分析中心。"
+        },
+        {
+          "term": "负面偏好",
+          "analysis": "选题显著偏向政治冲突、社会问题、经济风险、犯罪与丑闻，对正面进展或普通民生常态报道相对较少，可能强化问题导向的叙事惯性。"
+        },
+        {
+          "term": "西方中心视角",
+          "analysis": "国际报道虽覆盖全球，但分析框架与价值判断常以美国及西方国家的政策、利益和关切为潜在参照系，尤其在涉及伊朗、委内瑞拉等国的议题上。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、可得性启发与框架效应。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "在政治与社会议题上，倾向于选择符合主流媒体叙事或既有政治光谱分析的案例进行报道，如强调两党对立、政策失败面或国际紧张关系。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "报道内容高度依赖即时新闻事件、官方声明、数据报告及知名信源，可能忽视更长期、更隐性或非机构化的趋势与信息。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "通过标题与摘要将复杂事件简化为冲突、危机、胜负或丑闻框架，如将政策辩论描述为“党派斗争”，将经济数据与“市场担忧”挂钩。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "对时效性与信源权威性的过度依赖可能导致盲点。",
+      "sub_items": [
+        {
+          "term": "信源单一风险",
+          "analysis": "报道严重依赖官方机构、大型企业、知名媒体或专家言论，对草根运动、非主流观点或受制裁国家非官方信源的采纳有限，易受信息操控。"
+        },
+        {
+          "term": "追逐热点惯性",
+          "analysis": "内容发布紧跟当日或当周热点事件，从政治丑闻到明星动态，可能导致报道深度不足、背景缺失或对非热点重要议题的忽视。"
+        },
+        {
+          "term": "格式标准化限制",
+          "analysis": "采用标准的新闻简报式推文格式，强调标题、链接与核心事实，可能抑制更具分析性、批判性或创新性的表达形式与叙事角度。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治与国际议题上易被视为具有建制派或自由国际主义倾向。",
+      "sub_items": [
+        {
+          "term": "国内政治中立表象下的倾向",
+          "analysis": "虽报道两党争议，但选题常聚焦于特朗普政府负面舆情、国会僵局、政府机构问题等，可能被部分受众解读为隐含对传统政治建制或特定政策的批评倾向。"
+        },
+        {
+          "term": "国际事务的干预主义叙事",
+          "analysis": "对伊朗、委内瑞拉、缅甸等国的报道强调制裁、政权行为、国际反应，框架常隐含西方政策视角或人权干预逻辑，易引发相关国家反感。"
+        },
+        {
+          "term": "经济报道的精英视角",
+          "analysis": "经济新闻集中于宏观经济指标、大企业财报、联邦政策、市场波动，较少深入报道普通劳动者、中小企业或结构性不平等议题，视角可能偏向上层。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在跨文化深度解读与长线趋势预测上可能存在局限。",
+      "sub_items": [
+        {
+          "term": "文化语境理解浅层化",
+          "analysis": "对非西方国家的报道虽事实准确，但多限于事件本身，缺乏对当地历史、社会结构或民众情感的深度融入与解释，易流于表面化。"
+        },
+        {
+          "term": "预测分析能力不足",
+          "analysis": "报道以描述已发生事件为主，对未来趋势、潜在转折或复杂系统演变的预测性、前瞻性分析较少，更多是反应式而非引领式。"
+        },
+        {
+          "term": "技术议题报道泛化",
+          "analysis": "涉及人工智能等新兴技术时，报道角度多限于政策、法律或商业应用层面，缺乏对技术伦理、社会冲击或科学细节的深入技术性剖析。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能受机构身份与市场压力影响，产生思维定式与风险规避心态。",
+      "sub_items": [
+        {
+          "term": "机构合法性维护压力",
+          "analysis": "作为老牌权威媒体，其报道需严格维护可信度与法律安全，这可能导致在争议性议题上过度谨慎、回避边缘观点或强化主流叙事以降低风险。"
+        },
+        {
+          "term": "商业流量驱动思维",
+          "analysis": "内容混合严肃政治经济与娱乐体育话题，反映出对受众注意力与点击率的追求，可能潜意识地优先选择更具冲突性、名人效应或即时热度的话题。"
+        },
+        {
+          "term": "职业倦怠与惯性",
+          "analysis": "长期遵循固定新闻生产流程与格式，可能导致创造性思维下降、对例行公事式报道的依赖，以及对颠覆性叙事方式的抗拒。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在维护全球影响力、设定议程并服务精英受众。",
+      "sub_items": [
+        {
+          "term": "全球议程设置",
+          "analysis": "通过选择性地报道特定国际事件与议题，如伊朗-缅甸交易、委内瑞拉制裁等，引导全球舆论关注点，塑造公众对特定国家或问题的认知框架。"
+        },
+        {
+          "term": "精英阶层信息服务",
+          "analysis": "内容高度聚焦政策、市场、企业动态与国际关系，实质是为政府官员、投资者、企业高管及学者等精英群体提供决策参考与情报汇总。"
+        },
+        {
+          "term": "品牌权威性巩固",
+          "analysis": "通过持续发布独家调查、引用自身报告、强调“Reuters finds”等，强化其作为可靠、深入、全球性新闻品牌的形象，以区别于社交媒体信息流。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心覆盖政治、经济、国际事务，辅以社会文化及体育娱乐。",
+      "sub_items": [
+        {
+          "term": "美国内政与政治",
+          "analysis": "密切关注美国政府政策、选举舆情、党派斗争、司法事件及联邦机构运作，如移民政策、国会拨款、官员任免等。"
+        },
+        {
+          "term": "全球经济与市场",
+          "analysis": "持续报道全球股市、货币政策、企业财报、贸易动态、能源市场及投资趋势，反映其对金融与商业领域的核心关注。"
+        },
+        {
+          "term": "国际关系与冲突",
+          "analysis": "深入追踪地缘政治热点，如美国与伊朗关系、委内瑞拉局势、缅甸内战等，侧重制裁、外交、人权及秘密行动议题。"
+        },
+        {
+          "term": "社会文化与犯罪",
+          "analysis": "报道范围延伸至社会事件、名人动向、刑事案件及体育娱乐，如枪击事件、明星倡议、奥运选手涉毒、体育赛事等，以拓宽受众面。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 27 02:16:09 +0000 2026",
+      "text": "Trump's immigration approval drops to record low, Reuters/Ipsos poll finds https://t.co/2SzvmFKA1w https://t.co/H91q4fyPIg",
+      "translation": "路透社/益普索民调显示，特朗普的移民政策支持率降至历史新低。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 6,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 02:10:11 +0000 2026",
+      "text": "Tariffs linger over earnings, even as companies get used to them https://t.co/FjbsAceKhX https://t.co/FjbsAceKhX",
+      "translation": "关税问题持续影响企业盈利，尽管公司已逐渐适应。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 02:01:04 +0000 2026",
+      "text": "Katy Perry, other celebrities urge citizen action after Minnesota shootings https://t.co/uusDckAZdv https://t.co/uusDckAZdv",
+      "translation": "凯蒂·佩里等名人呼吁民众在明尼苏达州枪击事件后采取行动。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 3,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 02:00:13 +0000 2026",
+      "text": "This couple's income split isn't 50/50, and their approach reflects that. One partner is more frugal, while the other tends to spend a bit more https://t.co/04D3CwTnKq",
+      "translation": "这对夫妻的收入分配并非五五开，他们的方式反映了这一点：一方更节俭，另一方则倾向于多花一些。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:50:19 +0000 2026",
+      "text": "Shutdown looms as ICE shootings spawn partisan fight over DHS funding in US Congress https://t.co/TrQcE7yExL https://t.co/TrQcE7yExL",
+      "translation": "美国国会因ICE枪击事件引发党派之争，政府停摆风险迫近。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 5,
+        "like": 19
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:40:19 +0000 2026",
+      "text": "US revamps FAA aiming to improve safety oversight https://t.co/gCqwulKB7O https://t.co/gCqwulKB7O",
+      "translation": "美国改革联邦航空管理局，旨在加强安全监管。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:37:51 +0000 2026",
+      "text": "Iran's covert jet fuel and urea deliveries to Myanmar's junta have powered a deadly air campaign, @Reuters finds. Spoofed locations, illicit cargo, sanctioned networks — how the scheme worked and what changed on the ground https://t.co/oENs8wrCde @specialreports https://t.co/GAqXAXlPEp",
+      "translation": "路透社调查发现，伊朗向缅甸军政府秘密输送航空燃油和尿素，支持其致命空袭行动。报道揭示了伪造位置、非法货物和受制裁网络的操作方式及其实际影响。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:35:00 +0000 2026",
+      "text": "The S&amp;P 500 and the Nasdaq advanced for a fourth consecutive session, as ​investors geared up for a slew of mega-cap earnings and a Federal Reserve update on interest rate policy later this week https://t.co/s8P83ShNGe https://t.co/ZiCz15UHM8",
+      "translation": "标普500指数和纳斯达克指数连续第四个交易日上涨，投资者为本周一系列大型公司财报和美联储利率政策更新做准备。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:30:31 +0000 2026",
+      "text": "Venezuela expects $1.4 billion investment in oil production sharing contracts, Rodriguez says https://t.co/3cCnh9fcF7 https://t.co/3cCnh9fcF7",
+      "translation": "罗德里格斯表示，委内瑞拉预计通过石油产量分成合同获得14亿美元投资。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:30:00 +0000 2026",
+      "text": "Ryan Wedding, a Canadian former Olympic snowboarder, pleaded not guilty to charges of becoming a cocaine smuggling kingpin responsible for multiple drug-related murders in a US federal court https://t.co/4Pzz1gJJIA https://t.co/DeZES7IR1q",
+      "translation": "加拿大前奥运滑雪板运动员瑞安·韦丁在美国联邦法院对成为可卡因走私头目并涉及多起毒品相关谋杀案的指控表示不认罪。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:20:22 +0000 2026",
+      "text": "Bovino removed from his role as US Border Patrol commander at large, The Atlantic reports https://t.co/hsAJsVtaZs https://t.co/hsAJsVtaZs",
+      "translation": "《大西洋月刊》报道，博维诺被免去美国边境巡逻队指挥官职务。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 16,
+        "like": 54
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:10:16 +0000 2026",
+      "text": "Report: Brazil requests to host 2029 FIFA Club World Cup https://t.co/2yI9nQeZdq https://t.co/2yI9nQeZdq",
+      "translation": "报道称，巴西申请主办2029年国际足联俱乐部世界杯。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 01:01:14 +0000 2026",
+      "text": "Super Bowl LX prices soar with Seahawks-Patriots matchup set https://t.co/Dd6Mcu22I1 https://t.co/Dd6Mcu22I1",
+      "translation": "超级碗LX票价因海鹰队对阵爱国者队的对决而飙升。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:50:20 +0000 2026",
+      "text": "Canadian ex-Olympic snowboarder pleads not guilty to US drug charges https://t.co/VD0ivEZnHj https://t.co/VD0ivEZnHj",
+      "translation": "加拿大前奥运滑雪板运动员对美国毒品指控表示不认罪。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:45:16 +0000 2026",
+      "text": "Trading houses to begin exporting Venezuelan LPG, sources and document say https://t.co/O20rcCt08V https://t.co/O20rcCt08V",
+      "translation": "消息人士和文件显示，贸易公司即将开始出口委内瑞拉液化石油气。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:40:19 +0000 2026",
+      "text": "US Official says Washington is open for business if Iran wishes to contact them https://t.co/aIPcwrMOFI https://t.co/aIPcwrMOFI",
+      "translation": "美国官员表示，如果伊朗愿意联系，华盛顿方面持开放态度。",
+      "stance": "中立",
+      "metrics": {
+        "reply": 4,
+        "retweet": 9,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:35:13 +0000 2026",
+      "text": "US judges form group to tackle pitfalls and promise of AI https://t.co/uF5PJEa80Z https://t.co/uF5PJEa80Z",
+      "translation": "美国法官组成小组，探讨人工智能的挑战与前景。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:30:25 +0000 2026",
+      "text": "Report: LSU OC Charlie Weis Jr. turns away NFL suitors https://t.co/uOv2Q0pKYR https://t.co/uOv2Q0pKYR",
+      "translation": "报道称，路易斯安那州立大学进攻协调员小查理·韦斯拒绝了NFL球队的邀请。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:25:10 +0000 2026",
+      "text": "Reports: Jags OC Grant Udinski WDs from Browns' head coach search https://t.co/urHvkGuWdi https://t.co/urHvkGuWdi",
+      "translation": "报道称，美洲虎队进攻协调员格兰特·乌丁斯基退出了布朗队主教练的选拔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 00:15:13 +0000 2026",
+      "text": "Philip Rivers removes his name from Bills' coaching search https://t.co/1nMAIrDD0N https://t.co/1nMAIrDD0N",
+      "translation": "菲利普·里弗斯宣布退出比尔队主教练的选拔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 1,
+        "like": 5
+      }
+    }
+  ]
+}

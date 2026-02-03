@@ -1,0 +1,442 @@
+{
+  "id": "profile_DanielDumbrill.json",
+  "_fingerprint": "72a7661ef82524fce2785f8f70577513",
+  "name": "DanielDumbrill",
+  "username": "DanielDumbrill",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、低宜人性、中等神经质、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛关注并分享国际政治、地缘冲突、社会议题等多元复杂话题，表现出对非主流叙事和批判性视角的强烈兴趣。"
+        },
+        {
+          "term": "尽责性较高",
+          "analysis": "言论展现出对特定政治议题（如美国外交政策、中国角色）的持续追踪和系统性关注，倾向于引用和分析具体事件与人物。"
+        },
+        {
+          "term": "宜人性较低",
+          "analysis": "频繁使用尖锐、讽刺甚至侮辱性的语言描述政治对手（如“fat orange monster”），乐于转发和参与具有强烈对抗性的政治辩论，缺乏调和立场。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "言论中透露出对国际局势（如单极世界风险、制裁后果）的忧虑和愤慨，但情绪表达通常服务于论点，未表现出个人化的情绪失控。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "通过转发和评论积极参与公共话题讨论，但个人原创内容多聚焦于观点阐述和事件分析，而非广泛的社交互动或个人生活分享。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出强烈的道德优越感、对抗性倾向和潜在的偏执怀疑。",
+      "sub_items": [
+        {
+          "term": "道德优越感与救世主情结",
+          "analysis": "在讨论国际事务时，常以揭露“真相”和批判“帝国”行为自居，将自身立场与理性、和平、反霸权等宏大价值绑定，暗示自身站在道德制高点。"
+        },
+        {
+          "term": "好斗性与蔑视倾向",
+          "analysis": "习惯使用贬损性标签和激烈言辞攻击对立政治人物及观点，将对手描绘为愚蠢、虚伪或邪恶，缺乏对复杂立场的共情或尊重。"
+        },
+        {
+          "term": "阴谋论倾向与系统性怀疑",
+          "analysis": "倾向于将国际事件（如制裁、审判、外交动作）解读为背后存在隐秘的帝国主义、霸权主义或阴谋动机，对主流叙事持深度不信任态度。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出强烈的确认偏误、敌意归因偏误和群体内偏爱。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注和传播那些能够支持其关于美国霸权衰落、西方虚伪以及中国（或特定反霸权力量）相对理性正面形象的言论和信息。"
+        },
+        {
+          "term": "敌意归因偏误",
+          "analysis": "倾向于将美国及其盟友的政策和行为（如制裁、司法案件）解释为出于恶意、贪婪（如“石油掠夺”）或打压异己的意图，而非可能存在的复杂法律或战略考量。"
+        },
+        {
+          "term": "群体内偏爱与黑白色思维",
+          "analysis": "在涉及中美或东西方叙事对抗时，明显倾向于将一方（反霸权力量）描绘为更理性、和平，而将另一方（美国及其盟友）描绘为侵略性、虚伪，简化了国际关系的灰度。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "言论具有高度对抗性和煽动性，易陷入争议，且依赖特定信息源。",
+      "sub_items": [
+        {
+          "term": "言论煽动性与法律风险感知模糊",
+          "analysis": "公开讨论外国制裁、审判等敏感议题时使用激烈措辞，可能低估其言论在特定司法管辖区下被解读为煽动或干涉内政的风险。"
+        },
+        {
+          "term": "信息源单一与回声室效应",
+          "analysis": "大量转发和依赖少数立场鲜明的评论员（如Benjamin Norton）及特定政治圈层的观点，可能导致信息茧房，削弱对多元视角的接触和判断。"
+        },
+        {
+          "term": "情绪化表达削弱说服力",
+          "analysis": "频繁使用侮辱性绰号和极端化比喻，虽然能吸引同温层共鸣，但也容易激化对立，让中立或持不同意见者产生反感，降低其观点的可接受度。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度极化且依附于反霸权叙事，易受叙事反转或事实矛盾冲击。",
+      "sub_items": [
+        {
+          "term": "叙事依附性",
+          "analysis": "其核心立场紧密依附于“美国霸权衰落/作恶”与“多极化力量崛起（如中国）”的宏大叙事。若该叙事的关键支撑事件被证伪或发生逆转，其立场体系的公信力将遭受重创。"
+        },
+        {
+          "term": "双重标准嫌疑",
+          "analysis": "强烈批判美国等西方国家的制裁、干预行为，但对于被视为反霸权一方的类似行为（如资产冻结、司法审判）则可能采取辩解或合理化态度，这种不一致性易被对手攻击为虚伪。"
+        },
+        {
+          "term": "地理与文化疏离风险",
+          "analysis": "虽然居住在中国并分享正面体验，但其激烈批判西方、相对认可中国的立场，可能使其在西方背景的社交圈或专业网络中处于孤立状态，或面临“被同化”的指责。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "分析深度依赖二手信息，原创批判有余而建设性方案不足。",
+      "sub_items": [
+        {
+          "term": "分析依赖性与原创深度局限",
+          "analysis": "核心政治分析多基于转发和总结特定评论员的观点，缺乏展示独立、一手的研究或数据挖掘能力，分析深度受限于所引信源。"
+        },
+        {
+          "term": "批判性过剩与建设性缺失",
+          "analysis": "擅长解构和批判现有国际秩序及西方政策，但言论中极少提出具体、可行、系统性的替代方案或改革路径，停留在“破”而非“立”的层面。"
+        },
+        {
+          "term": "领域广度与专业壁垒",
+          "analysis": "涉猎话题从地缘政治到社会文化非常广泛，但在金融、军事科技等高度专业化领域的讨论可能流于表面，依赖概括性叙事而非技术细节，易在专业辩论中暴露短板。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在理想主义幻灭风险和因立场固化导致的认知僵化。",
+      "sub_items": [
+        {
+          "term": "理想主义投射与幻灭风险",
+          "analysis": "将对更公平国际秩序的渴望投射到特定国家（如中国）身上，将其描述为“更理性、和平、守规则”。若该国的实际行为出现明显背离此形象的案例，可能导致强烈的认知失调或幻灭感。"
+        },
+        {
+          "term": "认知僵化与学习阻力",
+          "analysis": "强烈的预设立场和敌意归因模式可能使其难以客观吸收和整合那些与其核心叙事相悖的新信息或复杂事实，导致认知更新缓慢或停滞。"
+        },
+        {
+          "term": "道德愤慨带来的情感耗竭",
+          "analysis": "长期沉浸于对国际不公、霸权行径的批判和道德愤慨中，可能积累负面情绪，影响个人心态的平衡，甚至导致参与公共讨论的倦怠。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图塑造反霸权舆论先锋的个人品牌，并可能寻求在东西方叙事缝隙中建立影响力。",
+      "sub_items": [
+        {
+          "term": "个人品牌构建：反霸权叙事的关键节点",
+          "analysis": "通过持续聚焦和传播特定视角的地缘政治分析，旨在在特定受众（如对西方主流叙事不满者、在华外籍人士社群）中建立自己作为“真相揭露者”和“批判性思想者”的品牌形象。"
+        },
+        {
+          "term": "文化中介与身份再定位",
+          "analysis": "作为居住在中国、批判西方、部分认可中国的外籍人士，其言论可能意在扮演一个文化中介角色，重新定义自己在东西方之间的身份，并借此在跨国信息流中占据独特位置。"
+        },
+        {
+          "term": "影响力变现或平台拓展的潜在试探",
+          "analysis": "对热点政治议题的深度参与和观点输出，可能为未来拓展媒体合作、受邀演讲、或建立付费内容社群等影响力变现或平台扩展铺路。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦于批判美国霸权、关注中国角色、讨论国际制裁与司法双重标准。",
+      "sub_items": [
+        {
+          "term": "美国外交政策与霸权批判",
+          "analysis": "这是最核心的话题，频繁涉及对美国干预他国（如委内瑞拉）、实施制裁、主导单极世界行为的尖锐批评，常使用“帝国”、“掠夺”等词汇。"
+        },
+        {
+          "term": "中国在国际秩序中的角色",
+          "analysis": "多次提及中国作为“更理性、和平、守规则”大国的形象，将其视为多极化世界中潜在的平衡力量，并分享在华生活的正面体验。"
+        },
+        {
+          "term": "国际制裁、司法与双重标准",
+          "analysis": "高度关注并评论国际制裁案例（对俄、对委）、引渡与审判案件（如Jimmy Lai案），重点揭露和抨击其中存在的政治动机和双重标准。"
+        },
+        {
+          "term": "西方内部政治讽刺与批判",
+          "analysis": "经常转发或评论西方（尤其是美英）国内政治人物、媒体和政策的负面消息，使用讽刺和蔑视性语言，作为其反霸权叙事的国内佐证。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      2,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 40
+    },
+    {
+      "name": "同伴",
+      "value": 55
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 07 13:23:51 +0000 2026",
+      "text": "*More and more countries ARE beginning to realize China IS the more rational, peaceful, rules-abiding great power.",
+      "translation": "越来越多的国家开始意识到，中国是更加理性、和平、遵守规则的伟大国家。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 216,
+        "retweet": 718,
+        "like": 6050
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 04:02:25 +0000 2026",
+      "text": "RT @kwets11: Fun fact, when the world sanctioned apartheid South Africa, Switzerland continued buying the gold, then melting it down and re…",
+      "translation": "转发 @kwets11：有趣的事实，当世界制裁种族隔离的南非时，瑞士继续购买黄金，然后将其熔化并重新...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 456,
+        "retweet": 30155,
+        "like": 194850
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:37:09 +0000 2025",
+      "text": "Sounds like Liu Xin read the verdict just fine.\n\nAfter rioters killed a street cleaner &amp; lit a construction worker on fire, Lai expressed concerned over losing US/international leverage.\n\nSuggesting Lai was against the violence &amp; property destruction is naive or deceitful. https://t.co/DLzq7rhBhU",
+      "translation": "听起来刘欣很好地宣读了判决。在暴徒杀害一名街道清洁工并将一名建筑工人点燃后，赖清德表达了对失去美国/国际影响力的担忧。暗示赖清德反对暴力和财产破坏是天真的或欺骗性的。https://t.co/DLzq7rhBhU",
+      "stance": "负面",
+      "metrics": {
+        "reply": 6,
+        "retweet": 45,
+        "like": 267
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 00:53:31 +0000 2025",
+      "text": "It's astonishing how expertly British politicians have cultivated a complete immunity to shame or embarrassment.\n\nPriti will go to bat for an US asset engaging in what'd be considered treason even by her gov't, and literally hand over a reporter inconvenient to the US' reputation https://t.co/fFKaA9MVEq",
+      "translation": "令人惊讶的是，英国政治家如何巧妙地培养了对羞耻或尴尬的完全免疫力。普里蒂将为一名从事即使她的政府也会视为叛国行为的美国资产辩护，并实际上交出对美国声誉不便的记者。https://t.co/fFKaA9MVEq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 70,
+        "like": 394
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 09:50:14 +0000 2026",
+      "text": "The fat orange monster and Marco the pathetic. Stranger than fiction. \nhttps://t.co/p4YZiN1usT",
+      "translation": "肥胖的橙色怪物和可怜的马尔科。比小说还奇怪。https://t.co/p4YZiN1usT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 04:51:30 +0000 2026",
+      "text": "RT @ShaykhSulaiman: This is what humanity wants to see. https://t.co/juwGn2K8jV",
+      "translation": "转发 @ShaykhSulaiman：这就是人类想看到的。https://t.co/juwGn2K8jV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 780,
+        "retweet": 4760,
+        "like": 32520
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 04:20:56 +0000 2025",
+      "text": "Jimmy Lai was found guilty simply for engaging in journalism. Oh yeah, and lobbying the US for sanctions on China/HK, fueling xenophobia by branding mainlanders \"locusts\" in his paper, and colluding with foreign powers for hostile measures, even floating ideas like nuking China. https://t.co/dMrSklq7Vz",
+      "translation": "黎智英仅仅因为从事新闻工作就被判有罪。哦，对了，还有游说美国制裁中国/香港，在他的报纸中将大陆人称为“蝗虫”以煽动仇外情绪，以及与外国势力勾结采取敌对措施，甚至提出核攻击中国的想法。https://t.co/dMrSklq7Vz",
+      "stance": "负面",
+      "metrics": {
+        "reply": 139,
+        "retweet": 385,
+        "like": 1918
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 13:58:21 +0000 2026",
+      "text": "I sat down with @BenjaminNorton to discuss the Venezuela crisis. We summarized his key analysis on what happened, the real motives, what's next, and covered new ground.\n\nhttps://t.co/o9uIYl0lBJ",
+      "translation": "我与 @BenjaminNorton 坐下来讨论了委内瑞拉危机。我们总结了他对发生了什么、真实动机、下一步以及新领域的分析。https://t.co/o9uIYl0lBJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 5,
+        "like": 37
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 11:42:11 +0000 2026",
+      "text": "Preview: Trump's Venezuela Heist: Oil, Empire, and the Mask Slip! | Ben Norton (@BenjaminNorton) Reveals All\n\nFull video coming soon. https://t.co/weexO2pq0c",
+      "translation": "预览：特朗普的委内瑞拉抢劫：石油、帝国和面具滑落！| 本·诺顿 (@BenjaminNorton) 揭示一切 完整视频即将发布。https://t.co/weexO2pq0c",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 11,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 11:37:01 +0000 2026",
+      "text": "RT @jokieliu: This meme is so real for me right now. https://t.co/Got7ur1JtH",
+      "translation": "转发 @jokieliu：这个梗现在对我来说太真实了。https://t.co/Got7ur1JtH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1292,
+        "retweet": 7712,
+        "like": 98321
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 10:58:19 +0000 2025",
+      "text": "RT @Remroum: Drew: What do you think about Bondi? \n\nRandom guy against genocide: Totally condemn it, just awful, my heart goes out to the f…",
+      "translation": "转发 @Remroum：德鲁：你对邦迪有什么看法？ 反对种族灭绝的随机家伙：完全谴责，太可怕了，我的心与受害者同在...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 26,
+        "retweet": 541,
+        "like": 7374
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 09:34:43 +0000 2025",
+      "text": "Had Jimmy conspired to publish seditious content inciting violence &amp; lobbied unregistered for foreign sanctions in the US, he'd have violated FARA, the Logan Act &amp; anti-riot laws. Little Marco would be singing a different tune; 1800 days in prison wouldn't have been nearly enough https://t.co/mMARkSQz0A",
+      "translation": "如果黎智英密谋发布煽动暴力的煽动性内容，并在美国未注册游说外国制裁，他将违反《外国代理人登记法》、《洛根法案》和反暴乱法。小马尔科会唱不同的调子；1800天的监禁远远不够。https://t.co/mMARkSQz0A",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 61,
+        "like": 271
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 14:14:49 +0000 2026",
+      "text": "RT @EricHovagim: America has now bombed or sanctioned all major oil-containing nations who have not directly allied with the US https://t.c…",
+      "translation": "转发 @EricHovagim：美国现在已经轰炸或制裁了所有未直接与美国结盟的主要含油国家。https://t.co/...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 259,
+        "retweet": 7389,
+        "like": 29243
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 05:10:53 +0000 2025",
+      "text": "RT @morris_que14: Those mountains are clearly AI or artificially made. They can't possibly be real. Everyone knows the Chinese live in a gr…",
+      "translation": "转发 @morris_que14：那些山显然是人工智能或人工制造的。它们不可能是真实的。每个人都知道中国人生活在一个网格中...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 5,
+        "like": 66
+      }
+    },
+    {
+      "created_at": "Sat Dec 27 14:31:00 +0000 2025",
+      "text": "Found a great place in Southern Guangxi (Daxin County), close to the Vietnamese border, to take the family riding/skating. https://t.co/Vuk5QWRZCv",
+      "translation": "在广西南部（大新县）靠近越南边境的地方找到了一个带家人骑行/滑冰的好地方。https://t.co/Vuk5QWRZCv",
+      "stance": "中立",
+      "metrics": {
+        "reply": 13,
+        "retweet": 18,
+        "like": 296
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 04:53:11 +0000 2026",
+      "text": "RT @RnaudBertrand: This is so absurd it's hilarious: \"Venezuela expropriated American oil property and until recently used that stolen prop…",
+      "translation": "转发 @RnaudBertrand：这太荒谬了，简直可笑：“委内瑞拉征用了美国石油财产，直到最近还用这些偷来的财产...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 67,
+        "retweet": 527,
+        "like": 2691
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 04:44:15 +0000 2026",
+      "text": "Many of the most politically minded people I know here in China wanted Trump to win for exactly this reason.\n\nWhen Russia's foreign assets were frozen, it served as a stark wake-up call about the vulnerabilities in a U.S.-led unipolar world. This was true even for America's https://t.co/jAYAgxzXgE",
+      "translation": "我在中国认识的许多最有政治头脑的人希望特朗普获胜，正是因为这个原因。当俄罗斯的外国资产被冻结时，它尖锐地提醒了在美国主导的单极世界中的脆弱性。即使对美国来说也是如此。https://t.co/jAYAgxzXgE",
+      "stance": "中立",
+      "metrics": {
+        "reply": 34,
+        "retweet": 117,
+        "like": 693
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 00:39:30 +0000 2025",
+      "text": "RT @pretentiouswhat: The only thing OP should regret is misleading his followers with his clunky charts and sloppy, unsophisticated analysi…",
+      "translation": "转发 @pretentiouswhat：OP唯一应该后悔的是用他笨拙的图表和马虎、不成熟的分析误导了他的追随者...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 29,
+        "retweet": 125,
+        "like": 841
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 14:32:49 +0000 2025",
+      "text": "Racial dysphoria is real. https://t.co/hJXMabkDcN",
+      "translation": "种族性别不安是真实的。https://t.co/hJXMabkDcN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 54,
+        "retweet": 669,
+        "like": 10227
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 07:53:22 +0000 2025",
+      "text": "This is one of the nicest parks I've visited. I've passed through Nanning before, but never really stopped long enough in this southern Chinese city. The whole city impressed me, especially Nanhu Park. https://t.co/Uu5krjJ1jt",
+      "translation": "这是我参观过的最好的公园之一。我以前经过南宁，但从未真正在这个中国南方城市停留足够长的时间。整个城市给我留下了深刻印象，尤其是南湖公园。https://t.co/Uu5krjJ1jt",
+      "stance": "中立",
+      "metrics": {
+        "reply": 8,
+        "retweet": 41,
+        "like": 373
+      }
+    }
+  ]
+}

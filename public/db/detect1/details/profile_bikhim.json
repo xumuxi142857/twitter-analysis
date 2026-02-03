@@ -1,0 +1,474 @@
+{
+  "id": "profile_bikhim.json",
+  "_fingerprint": "dd1b0bfbc2cf75fa69d629f29c66bb89",
+  "name": "bikhim",
+  "username": "bikhim",
+  "category": "media",
+  "daily_count": 0.3,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等宜人性、中等情绪稳定性、高开放性。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开演讲、主持活动、参与国际交流，积极在社交媒体上表达观点并互动，展现出强烈的社交倾向和公众形象塑造意愿。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "多次强调对国防、经济、救灾等公共事务的承诺与具体规划，如提及国防预算占比、农业采购协议细节，显示出对职责的重视和系统性规划能力。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在表达对受灾民众的同情、感谢志愿者和国际援助时展现出亲和力，但在涉及特定政治议题时使用对抗性言辞，如指责“欺凌”行为，表现出有条件的合作倾向。"
+        },
+        {
+          "term": "中等情绪稳定性",
+          "analysis": "在灾难事件中能表达关切并呼吁团结，但在政治议题上情绪较为强烈，如使用“震惊”、“必须反对”等词汇，显示情绪受议题性质影响较大。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "积极关注并讨论国防科技、农业贸易、国际组织参与等多领域议题，乐于接受外部支持与合作，展现出对多元经验和国际视角的接纳。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在对抗性归因、外部依赖倾向和选择性叙事偏好。",
+      "sub_items": [
+        {
+          "term": "对抗性归因",
+          "analysis": "倾向于将特定国际事务中的困难归因于外部“欺凌”或“不合理排斥”，而非多边因素，这可能在复杂情境中简化因果，强化对立认知。"
+        },
+        {
+          "term": "外部依赖倾向",
+          "analysis": "高度强调并感谢美国、日本等外部力量在政治、经济、军事上的支持，可能反映出对自身独立应对能力的潜在不自信或战略依赖。"
+        },
+        {
+          "term": "选择性叙事偏好",
+          "analysis": "在描述国际互动时，突出“自由”、“和平”等价值观标签，并将经济行为赋予政治象征意义，可能忽略或淡化议题中的其他复杂维度。"
+        },
+        {
+          "term": "情绪化表述",
+          "analysis": "在部分政治声明中使用如“震惊”、“必须反对”等带有较强情绪色彩的词汇，可能削弱理性论证的力度，并易引发情绪化回应。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出群体内偏爱、确认偏误和乐观偏见。",
+      "sub_items": [
+        {
+          "term": "群体内偏爱",
+          "analysis": "频繁赞扬本地志愿者精神、对外部盟友的支持表达感激，并强调“我们的”伙伴关系，显示出强烈的群体认同和内外区分。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于引用和转发符合其现有立场的信息，如特定政治人物的言论或对其有利的国际表态，可能选择性忽略或弱化相反证据。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "在描述国防建设、贸易合作时，强调进展、承诺和积极愿景，对潜在的实施障碍或长期风险着墨较少，可能高估有利结果的概率。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "将“菠萝”等普通商品赋予“自由”的政治象征意义，利用情感联想来简化并推广复杂的地缘经济议题，影响受众的认知框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开依赖外部支持、情绪化回应争议、议程设置受外部事件驱动。",
+      "sub_items": [
+        {
+          "term": "公开依赖外部支持",
+          "analysis": "高调感谢美国议员、日本政府等外部行为体的支持，这种行为可能被对手利用，塑造其缺乏自主性的形象，并在外部支持变化时暴露脆弱性。"
+        },
+        {
+          "term": "情绪化回应争议",
+          "analysis": "对某些国际事件或政治言论做出快速、情绪化的公开评论，可能缺乏周全考量，易被解读为不够沉稳或受即时情绪驱动。"
+        },
+        {
+          "term": "议程设置受外部事件驱动",
+          "analysis": "言论内容明显受自然灾害、国际政治事件、外部访客等外部因素影响，反应性较强，可能反映出在主动、连贯设置长期议程方面存在压力或局限。"
+        },
+        {
+          "term": "符号化行为风险",
+          "analysis": "使用“自由菠萝”等高度符号化的表述来应对经济议题，虽然易于传播，但也可能将复杂问题简单化，并引发不必要的象征性对抗。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在主权议题上立场鲜明且依赖外部背书，易引发持续对立。",
+      "sub_items": [
+        {
+          "term": "主权议题的刚性立场",
+          "analysis": "在国际组织参与等涉及地位的问题上采取明确且公开的诉求，并指责他国“排斥”，这种立场缺乏转圜空间，易导致僵局并成为持续摩擦点。"
+        },
+        {
+          "term": "对外部背书的过度展示",
+          "analysis": "频繁公开引用美国等国议员或政府的支持性言论，以此作为自身立场合法性的重要依据。一旦这些外部支持出现摇摆或条件变化，其立场的基础将受到直接冲击。"
+        },
+        {
+          "term": "价值观绑定的脆弱性",
+          "analysis": "将自身定位与“自由”、“民主”等普世价值观紧密绑定，并用以对比指责他方。这种叙事在获得特定受众共鸣的同时，也使其立场易受价值观实践一致性的质疑。"
+        },
+        {
+          "term": "和平诉求与实力展示的矛盾",
+          "analysis": "一方面强调“和平是唯一选项”，另一方面高调展示增加国防预算、构建分层防御等“以实力求和平”的举措。这种矛盾可能削弱和平诉求的说服力，并被解读为备战姿态。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在自主行动、危机独立应对和复杂博弈方面存在潜在短板。",
+      "sub_items": [
+        {
+          "term": "战略自主能力存疑",
+          "analysis": "言论显示出在关键的安全与经济协议上严重依赖与美国等国的互动和认可，自主发起并主导重大跨区域战略议程的能力未见突出体现。"
+        },
+        {
+          "term": "危机应对的对外依赖",
+          "analysis": "在自然灾害应对中，迅速表达对外部搜救团队待命的感谢，虽然体现合作开放，但也可能暗示在应对特大危机时对完全依靠自身资源存在顾虑或能力预设。"
+        },
+        {
+          "term": "多边场合博弈经验不足",
+          "analysis": "主要诉求集中于加入特定国际组织，并公开批评受阻原因，但在如何通过复杂、多层次的外交谈判和利益交换来迂回推进目标方面，未见披露具体策略或成果。"
+        },
+        {
+          "term": "经济韧性的单一叙事",
+          "analysis": "强调通过大宗农产品采购来巩固贸易伙伴关系，并将特定产品销售塑造为“抵抗经济胁迫”的象征，对构建多元化、抗风险的内生经济体系的论述相对薄弱。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在认同焦虑、安全感知脆弱和需要外部认可的心理需求。",
+      "sub_items": [
+        {
+          "term": "认同焦虑与外部确认需求",
+          "analysis": "频繁、公开地寻求并感谢国际社会的政治承认与支持，反映出对自身国际地位和认同存在较强的不确定性，需要通过外部持续确认来获得心理安全感。"
+        },
+        {
+          "term": "安全感知高度脆弱",
+          "analysis": "反复强调增强防御、反对“武力改变现状”，并将民航安全议题政治化，显示出对安全环境抱有深刻的忧虑感，这种心态可能影响其对风险的低估或高估。"
+        },
+        {
+          "term": "受迫害叙事倾向",
+          "analysis": "倾向于采用“受欺凌”、“被不合理排斥”等叙事框架来描述在国际事务中遇到的阻力，这种受害者心态可能强化防御性世界观，并影响对合作机遇的客观判断。"
+        },
+        {
+          "term": "对团结符号的情感依赖",
+          "analysis": "高度赞扬灾难中的互助精神，并将其称为“精神”，显示出对内部凝聚力符号的情感依赖和价值赋予，这可能源于对潜在分裂或挑战的深层担忧。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在塑造抗压形象、深化特定国际捆绑、并实现地位议题国际化。",
+      "sub_items": [
+        {
+          "term": "塑造“坚韧民主体”形象",
+          "analysis": "通过展示在应对自然灾害、所谓“经济胁迫”时的团结与韧性，并高调进行军购和国防建设，意图向内外受众塑造一个在压力下依然坚定、能自我保卫的政体形象。"
+        },
+        {
+          "term": "推动“价值观联盟”实体化",
+          "analysis": "通过感谢特定国家在政治、军事上的支持，并将贸易往来赋予“自由”象征，意图超越单纯的利益交换，构建一个以共享价值观为纽带的、更具排他性和承诺感的国际支持网络。"
+        },
+        {
+          "term": "将地位问题持续国际化",
+          "analysis": "通过公开呼吁加入国际组织并指责受阻原因，意图并非仅解决具体参与问题，更是要将相关议题不断置于国际舆论场，吸引外部干预，使该问题保持为长期国际议题。"
+        },
+        {
+          "term": "积累“以民意为盾”的资本",
+          "analysis": "频繁展示对民众关怀、赞扬志愿者精神、庆祝本土成就，意在巩固内部认同与支持，将民众情感和认同塑造为应对内外挑战时可依赖的社会基础和政治资本。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注国防安全、对外关系、内部凝聚、经贸合作及灾害应对。",
+      "sub_items": [
+        {
+          "term": "国防安全与军事现代化",
+          "analysis": "持续关注并宣传国防预算增长、防御体系建设、军事装备发展及与美国的防务合作，这是其言论中最突出且情绪强烈的议题之一。"
+        },
+        {
+          "term": "对外关系与国际支持",
+          "analysis": "频繁涉及与美国、日本、英国等国的互动，重点在于获取政治声援、安全承诺及国际组织支持，并公开感谢相关方，将此视为重要成就和保障。"
+        },
+        {
+          "term": "内部社会凝聚与认同",
+          "analysis": "通过赞扬灾害中的互助精神、庆祝本土体育成就、强调“台湾精神”等方式，致力于塑造和强化内部团结、积极向上的社会集体认同。"
+        },
+        {
+          "term": "经贸合作与供应链",
+          "analysis": "重点关注与美国的大宗农产品采购协议，并将贸易关系表述为互利的伙伴关系，同时将特定农产品销售政治化为抵抗压力的象征。"
+        },
+        {
+          "term": "灾害应对与公共事务",
+          "analysis": "对地震、洪水等自然灾害做出及时反应，表达对灾民的关怀，感谢救援力量，展现负责任的公共形象和对民生议题的关注。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 13:27:04 +0000 2025",
+      "text": "I spent the day in Kuangfu, Hualien, where the overflow of a quake barrier lake flooded the town, causing widespread damage and loss of lives.  I thank all the rescue teams and volunteers who have helped evacuees, and pray that the missing can be founded.  🙏",
+      "translation": "我在花莲光复度过了一天，地震堰塞湖的溢流淹没了城镇，造成广泛的破坏和人员伤亡。感谢所有帮助撤离人员的救援队和志愿者，祈祷失踪者能被找到。🙏",
+      "stance": "无关",
+      "metrics": {
+        "reply": 46,
+        "retweet": 125,
+        "like": 878
+      }
+    },
+    {
+      "created_at": "Wed Sep 10 02:07:06 +0000 2025",
+      "text": "Glad to reconnect in a virtual call with Senator @SenatorHagerty  I’ve always appreciated his support for the Taiwan-US partnership. https://t.co/dcs5HRopOx",
+      "translation": "很高兴在虚拟通话中与参议员@SenatorHagerty重新联系。我一直很感激他对台美伙伴关系的支持。https://t.co/dcs5HRopOx",
+      "stance": "负面",
+      "metrics": {
+        "reply": 39,
+        "retweet": 88,
+        "like": 904
+      }
+    },
+    {
+      "created_at": "Wed Sep 03 11:23:05 +0000 2025",
+      "text": "RT @ChingteLai: On #Taiwan's #ArmedForcesDay, we look back on 80 years after the end of WWII, reminded again that aggression fails &amp; unity…",
+      "translation": "转发@ChingteLai：在#台湾#国军节，我们回顾二战结束80年后，再次提醒自己侵略失败而团结...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 997,
+        "retweet": 557,
+        "like": 4969
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 03:30:03 +0000 2025",
+      "text": "Concern and sympathies for those affected by the earthquake in the Philippines.   Our search and rescue teams stand ready to deploy if additional help is needed.  🙏❤️\nhttps://t.co/UNvsoqhxzK",
+      "translation": "对菲律宾地震受灾者表示关切和同情。如果需要额外帮助，我们的搜救队随时准备部署。🙏❤️ https://t.co/UNvsoqhxzK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 81,
+        "retweet": 73,
+        "like": 505
+      }
+    },
+    {
+      "created_at": "Tue Aug 05 09:25:08 +0000 2025",
+      "text": "Many thanks again for this message of concern, as southern Taiwan rebuilds following rain, floods, and mudslides.  Helping and assisting each other through difficult times is the spirit that brings our people closer together.",
+      "translation": "再次感谢这份关切的信息，因为台湾南部正在雨灾、洪水和泥石流后重建。在困难时期互相帮助和协助是使我们人民更紧密团结的精神。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 108,
+        "retweet": 159,
+        "like": 1366
+      }
+    },
+    {
+      "created_at": "Thu Sep 25 00:10:16 +0000 2025",
+      "text": "台湾が最も必要としているときに、常に友情と温かさを示してくださる日本政府と国民に感謝します。🙏❤️",
+      "translation": "感谢日本政府和人民，在台湾最需要的时候，总是展现出友谊和温暖。🙏❤️",
+      "stance": "负面",
+      "metrics": {
+        "reply": 77,
+        "retweet": 239,
+        "like": 1975
+      }
+    },
+    {
+      "created_at": "Thu Sep 18 23:38:19 +0000 2025",
+      "text": "Our ag trade moving! Wheat futures rebounded from a slump the prior session, following the signing of a letter of intent in which a Taiwan group pledged to buy 3.6 million tons of the grain from the US over the next three years.  \n\nhttps://t.co/C3D3yuVJ3u",
+      "translation": "我们的农业贸易在推进！小麦期货从前一交易日的低迷中反弹，此前签署了一份意向书，一个台湾团体承诺在未来三年从美国购买360万吨谷物。https://t.co/C3D3yuVJ3u",
+      "stance": "负面",
+      "metrics": {
+        "reply": 65,
+        "retweet": 64,
+        "like": 504
+      }
+    },
+    {
+      "created_at": "Thu Sep 18 03:25:24 +0000 2025",
+      "text": "A big thank-you to @SenTedCruz for leading joint efforts with @SenatorWicker &amp; @SenJeffMerkley to support Taiwan’s membership in ICAO.  China’s bullying and unreasonable exclusion of Taiwan compromises civil aviation safety for all.  https://t.co/YyXOAqfuNG",
+      "translation": "非常感谢@SenTedCruz领导与@SenatorWicker和@SenJeffMerkley的共同努力，支持台湾加入国际民航组织。中国的霸凌和不合理排斥台湾损害了所有人的民航安全。https://t.co/YyXOAqfuNG",
+      "stance": "负面",
+      "metrics": {
+        "reply": 46,
+        "retweet": 93,
+        "like": 511
+      }
+    },
+    {
+      "created_at": "Thu Sep 11 01:17:02 +0000 2025",
+      "text": "Shocked to see the news of Charlie Kirk’s assassination.  Like Americans, we also see university campuses as safe places for learning,  free speech, &amp; debate.   Different views can be argued, but violence must not be tolerated, on campus or anywhere.",
+      "translation": "震惊地看到查理·柯克被暗杀的消息。像美国人一样，我们也视大学校园为学习、言论自由和辩论的安全场所。不同观点可以争论，但暴力绝不容忍，无论是在校园还是任何地方。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 164,
+        "retweet": 263,
+        "like": 2166
+      }
+    },
+    {
+      "created_at": "Thu Oct 09 11:41:27 +0000 2025",
+      "text": "This is remarkable progress.  Congratulations to President Trump and all parties involved.  May sustainable peace prevail, in all parts of the world.   🙏",
+      "translation": "这是显著的进展。祝贺特朗普总统和所有相关方。愿可持续的和平在世界各地盛行。🙏",
+      "stance": "无关",
+      "metrics": {
+        "reply": 135,
+        "retweet": 188,
+        "like": 1657
+      }
+    },
+    {
+      "created_at": "Thu Aug 21 11:22:58 +0000 2025",
+      "text": "The defense budget proposed for next year, at a record high and 3.32% of GDP,  is a demonstration of our commitment to building defensive strength, ensuring peace, and protecting Taiwan’s freedom.",
+      "translation": "明年提出的国防预算创历史新高，占GDP的3.32%，这展示了我们建设防御力量、确保和平、保护台湾自由的承诺。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 78,
+        "retweet": 142,
+        "like": 958
+      }
+    },
+    {
+      "created_at": "Sat Aug 30 12:05:18 +0000 2025",
+      "text": "I hosted a luncheon in honor of  Chairman @SenatorWicker and @SenatorFischer of US Senate Armed Services Committee.  They reaffirmed the US  support for our defense &amp; trade partnership &amp; I highlighted our commitment to upholding peace through strength. https://t.co/hmxELPCYYM",
+      "translation": "我主持了一场午餐会，以表彰美国参议院军事委员会主席@SenatorWicker和@SenatorFischer。他们重申了美国对我们防务和贸易伙伴关系的支持，我强调了通过实力维护和平的承诺。https://t.co/hmxELPCYYM",
+      "stance": "负面",
+      "metrics": {
+        "reply": 92,
+        "retweet": 137,
+        "like": 1177
+      }
+    },
+    {
+      "created_at": "Mon Sep 15 14:01:55 +0000 2025",
+      "text": "Taiwan consumers have long enjoyed US agricultural products, including soy, corn, wheat &amp; beef, among others.  Another delegation will be in the US to BUY MORE, contributing to the robust trade partnership that benefits both.  \n\nhttps://t.co/o0kNJ8TWnH",
+      "translation": "台湾消费者长期以来一直享受美国农产品，包括大豆、玉米、小麦和牛肉等。另一个代表团将前往美国购买更多，为双方受益的强劲贸易伙伴关系做出贡献。https://t.co/o0kNJ8TWnH",
+      "stance": "负面",
+      "metrics": {
+        "reply": 159,
+        "retweet": 170,
+        "like": 1355
+      }
+    },
+    {
+      "created_at": "Mon Aug 25 13:52:16 +0000 2025",
+      "text": "RT @ChingteLai: My warmest congratulations to Tung-Yuan Little League, our @LittleLeague World Series champions! Representing the Asia-Paci…",
+      "translation": "转发@ChingteLai：我最热烈的祝贺东园少棒队，我们的@LittleLeague世界大赛冠军！代表亚太...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 214,
+        "like": 2051
+      }
+    },
+    {
+      "created_at": "Fri Sep 26 12:29:03 +0000 2025",
+      "text": "The Taiwan Railway Co shared these photos of volunteers swarming off the train, carrying tools on their way to help clean homes devastated by floods and mudslides in Hualien.   SO touched &amp; ❤️ this Taiwanese spirit of doing good and helping each other. https://t.co/3PNMh9EgFb",
+      "translation": "台湾铁路公司分享了这些照片，志愿者涌下火车，携带工具前往帮助清理花莲洪水和泥石流摧毁的家园。深受感动并❤️这种台湾人做好事和互相帮助的精神。https://t.co/3PNMh9EgFb",
+      "stance": "无关",
+      "metrics": {
+        "reply": 178,
+        "retweet": 541,
+        "like": 3297
+      }
+    },
+    {
+      "created_at": "Fri Sep 12 08:44:36 +0000 2025",
+      "text": "A big thanks to the Japanese consumers who have been buying Taiwan pineapples, especially since 2021 when farmers started to face sanctions and economic coercion from China.  Yes, we like to call them Freedom Pineapples.  🍍 🍍🍍",
+      "translation": "非常感谢日本消费者一直在购买台湾菠萝，尤其是自2021年以来，当时农民开始面临中国的制裁和经济胁迫。是的，我们喜欢称它们为自由菠萝。🍍 🍍🍍",
+      "stance": "负面",
+      "metrics": {
+        "reply": 87,
+        "retweet": 175,
+        "like": 1365
+      }
+    },
+    {
+      "created_at": "Fri Oct 10 11:36:26 +0000 2025",
+      "text": "In his National Day address,  @ChingteLai  reaffirmed defense commitments, not only in increased investments, but in tech, industry, resilience, &amp; a T-Dome vision of  layered defenses.",
+      "translation": "在他的国庆讲话中，@ChingteLai重申了防务承诺，不仅增加了投资，还包括技术、产业、韧性，以及分层防御的T-Dome愿景。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 160,
+        "retweet": 151,
+        "like": 1218
+      }
+    },
+    {
+      "created_at": "Fri Aug 29 03:05:04 +0000 2025",
+      "text": "We thank the UK and Japan for reaffirming the importance of peace and stability in the Taiwan Strait, and stressing opposition to unilateral attempts to change the status quo by force or coercion.  Peace is the only option.   https://t.co/6f9OGgGznm",
+      "translation": "我们感谢英国和日本重申台湾海峡和平与稳定的重要性，并强调反对通过武力或胁迫单方面改变现状。和平是唯一的选择。https://t.co/6f9OGgGznm",
+      "stance": "负面",
+      "metrics": {
+        "reply": 53,
+        "retweet": 75,
+        "like": 498
+      }
+    },
+    {
+      "created_at": "Fri Aug 22 09:47:15 +0000 2025",
+      "text": "RT @ChingteLai: Visiting our Navy's 168th fleet today, I announced that in addition to defense spending reaching 3.32% of GDP in 2026, we a…",
+      "translation": "转发@ChingteLai：今天访问我们海军的第168舰队，我宣布除了2026年国防支出达到GDP的3.32%外，我们...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 249,
+        "retweet": 222,
+        "like": 1457
+      }
+    },
+    {
+      "created_at": "Fri Aug 15 08:00:56 +0000 2025",
+      "text": "RT @ChingteLai: History tells us that those who unite to defend freedom against military aggression emerge victorious. Today, as we mark th…",
+      "translation": "转发@ChingteLai：历史告诉我们，那些团结起来捍卫自由对抗军事侵略的人会取得胜利。今天，当我们纪念...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 963,
+        "retweet": 569,
+        "like": 5960
+      }
+    }
+  ]
+}

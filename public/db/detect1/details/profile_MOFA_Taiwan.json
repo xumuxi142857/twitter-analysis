@@ -1,0 +1,438 @@
+{
+  "id": "profile_MOFA_Taiwan.json",
+  "_fingerprint": "7ec816d71c570b661c2fe1baf109aea7",
+  "name": "MOFA_Taiwan",
+  "username": "MOFA_Taiwan",
+  "category": "media",
+  "daily_count": 1.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行国际互动与外交活动，积极展示台湾的国际参与，通过社交媒体广泛传播信息，表现出强烈的社交倾向和对外部世界的关注。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "强调制度性合作、法律框架和国际规范，注重程序性声明和正式外交辞令，表现出对规则和责任的重视。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "在文化和技术合作方面表现出一定开放性，但在核心政治立场上保持高度一致和传统叙事，缺乏对根本性替代方案的探讨。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "对特定对象（如中国大陆）采取对抗性、指责性言论，频繁使用“威胁”“挑衅”“谴责”等词汇，表现出明显的对立姿态而非合作倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在对抗性依赖、受害者叙事倾向和外部归因偏好",
+      "sub_items": [
+        {
+          "term": "对抗性依赖",
+          "analysis": "将自身安全与发展高度绑定于外部盟友（特别是美国）的支持与认可，形成一种策略性依赖关系，缺乏独立自主的危机应对底气。"
+        },
+        {
+          "term": "受害者叙事倾向",
+          "analysis": "频繁将台湾描绘为受威胁、受压迫的一方，通过强调外部军事压力来凝聚内部认同并争取国际同情，可能削弱主动解决问题的能动性。"
+        },
+        {
+          "term": "外部归因偏好",
+          "analysis": "倾向于将区域紧张局势的责任完全归咎于外部行为体（如中国大陆），缺乏对自身角色或两岸互动复杂性的反思性论述。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏爱和乐观偏见",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注和放大支持其立场的国际声明或事件（如盟友的关切），忽视或淡化不同观点或缓和迹象，强化既有认知框架。"
+        },
+        {
+          "term": "群体内偏爱",
+          "analysis": "明确区分“盟友”“民主伙伴”“理念相近国家”与对立阵营，在叙事中赋予己方群体道德优越性和合法性，强化内外群体边界。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "对未来国际支持和经济前景表现出过度乐观的预期，如强调“新时代共同繁荣”“台湾将在世界舞台闪耀”，可能低估潜在的地缘政治风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖外部声援、言行存在矛盾、易受国际舆情波动影响",
+      "sub_items": [
+        {
+          "term": "外部声援依赖",
+          "analysis": "国际影响力的维持高度依赖于美国等关键国家的持续政治与军事支持，一旦主要盟友政策转向或支持力度减弱，其战略地位将面临直接冲击。"
+        },
+        {
+          "term": "言行矛盾风险",
+          "analysis": "一方面宣称致力于“区域和平稳定”，另一方面又高调欢迎并渲染外部军事援助（如对美军售的积极评价），这种矛盾可能削弱其和平倡议的可信度。"
+        },
+        {
+          "term": "舆情敏感脆弱",
+          "analysis": "积极利用国际突发事件（如他国恐袭、事故）表达慰问以塑造“负责任国际成员”形象，但这种形象建构依赖于持续的国际正面反馈，抗负面舆情能力存疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "国际承认基础薄弱、两岸论述僵化、价值联盟的局限性",
+      "sub_items": [
+        {
+          "term": "国际法理基础薄弱",
+          "analysis": "其寻求国际承认和参与的努力始终面临一个中国原则的普遍国际共识的制约，多数国家仅维持非官方关系，法理上的孤立是其根本性脆弱点。"
+        },
+        {
+          "term": "两岸论述缺乏弹性",
+          "analysis": "对两岸关系的表述固化在“威胁与防御”框架内，缺乏建设性对话或创造性解决方案的提议，导致在两岸互动中常处于被动反应模式。"
+        },
+        {
+          "term": "价值联盟的务实性挑战",
+          "analysis": "虽然高举“民主、自由”旗帜与所谓理念相近国家结盟，但这种联盟本质上基于战略利益，当价值诉求与盟友的现实利益冲突时，支持可能动摇。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "战略自主性有限、经济依赖性强、军事不对称明显",
+      "sub_items": [
+        {
+          "term": "战略自主性受限",
+          "analysis": "在关键的安全与外交决策上缺乏完全自主权，深受主要保护国政策取向的制约，独立应对复杂地缘战略博弈的能力不足。"
+        },
+        {
+          "term": "经济对外依存度高",
+          "analysis": "尽管强调经济增长与科技合作，但其经济深度融入区域供应链，易受主要贸易伙伴经济政策和两岸经贸关系波动的影响。"
+        },
+        {
+          "term": "军事力量严重不对称",
+          "analysis": "面对潜在的区域军事压力，其防御能力本质上依赖于外部军售和延伸威慑，自身军力存在显著的数量与质量差距，构成长期能力短板。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑驱动、认同强化需求与认知闭合倾向",
+      "sub_items": [
+        {
+          "term": "安全焦虑驱动",
+          "analysis": "对军事压力的持续关注和渲染反映出深层次的不安全感和生存焦虑，这种焦虑可能使其决策更倾向于风险规避或过度反应。"
+        },
+        {
+          "term": "认同强化需求",
+          "analysis": "通过频繁使用特定旗帜符号、强调“TeamTaiwan”和“全球利益相关者”身份，不断强化内部认同和国际存在感，显示出对身份合法性的持续渴求与维护压力。"
+        },
+        {
+          "term": "认知闭合倾向",
+          "analysis": "在核心议题上表现出非黑即白的叙事模式（如将区域问题归因于单一行为体的“野心”），对复杂、模糊的地缘政治现实容忍度较低，寻求简单明确的因果解释。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在实现国际地位正常化、构建抗中联盟、维持内部凝聚力",
+      "sub_items": [
+        {
+          "term": "推动国际地位事实正常化",
+          "analysis": "通过积极参与国际事务、签署合作协议、争取高级别互动，旨在逐步突破当前国际交往限制，塑造并巩固其作为一个“正常政治实体”的国际认知。"
+        },
+        {
+          "term": "构建并巩固抗中战略联盟",
+          "analysis": "利用区域安全关切，将自身定位为“前沿民主堡垒”，旨在串联对中国大陆有疑虑的国家，形成隐性的联合阵线，以平衡两岸力量对比。"
+        },
+        {
+          "term": "维系与强化内部社会凝聚力",
+          "analysis": "对外强硬姿态和对国际支持的宣扬，服务于内部政治目的，即凝聚民意、巩固执政合法性，并将内部社会经济挑战部分转化为外部压力叙事。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦于安全与国际关系，辅以经济合作与人道外交",
+      "sub_items": [
+        {
+          "term": "安全与防务",
+          "analysis": "最核心话题，高频提及外部军事威胁、欢迎外部安全合作与军售、强调自我防卫决心与备战，直接关联其生存焦虑与战略依赖。"
+        },
+        {
+          "term": "国际外交与结盟",
+          "analysis": "持续强调与所谓盟友及理念相近国家的关系，表达感谢、展示合作成果、呼吁共同维护基于规则的国际秩序，旨在拓展国际空间。"
+        },
+        {
+          "term": "经济与技术合作",
+          "analysis": "宣传经济增长、科技产业进步以及与伙伴的技术文化联系，旨在展示发展成就与“贡献”，塑造积极、现代化的国际形象。"
+        },
+        {
+          "term": "人道关怀与公共外交",
+          "analysis": "对国际灾难、恐袭等事件迅速表达慰问与团结，并开展文化推广活动（如烟花直播），旨在塑造富有同情心、文化软实力的“良善力量”形象。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      10
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 31 17:10:38 +0000 2025",
+      "text": "Despite the challenges 2026 may bring, MOFA will continue to focus on strengthening friendships with allies &amp; like-minded partners in the new year, towards a new era of common prosperity, in which Taiwan can shine on the world stage!\nMOFA wishes you a #HappyNewYear! https://t.co/IjzwM2R6At",
+      "translation": "尽管2026年可能带来挑战，外交部将继续专注于在新的一年加强与盟友及志同道合伙伴的友谊，迈向共同繁荣的新时代，让台湾在世界舞台上发光！外交部祝您#新年快乐！https://t.co/IjzwM2R6At",
+      "stance": "负面",
+      "metrics": {
+        "reply": 32,
+        "retweet": 94,
+        "like": 398
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 12:42:37 +0000 2025",
+      "text": "✈️ 2025 Wrapped｜In a challenging year, Taiwan kept moving forward—boosting tech, industry &amp; cultural ties with partners. Minister Lin Chia-lung shows how our shared values of democracy, peace &amp; prosperity connect Taiwan to the world. Thanks to all who stand with Taiwan. https://t.co/DxN32DfI9j",
+      "translation": "✈️ 2025年回顾｜在充满挑战的一年里，台湾持续前进——加强与伙伴在科技、产业及文化方面的联系。林佳龙部长展示了我们共同的民主、和平与繁荣价值观如何将台湾与世界连接。感谢所有与台湾站在一起的人。https://t.co/DxN32DfI9j",
+      "stance": "负面",
+      "metrics": {
+        "reply": 22,
+        "retweet": 96,
+        "like": 406
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 07:58:39 +0000 2025",
+      "text": "We thank the EU, the UK, France, Germany, Australia, New Zealand, Japan &amp; others for statements of concern on PLA provocations around #Taiwan, which threaten the status quo. As a global stakeholder, we'll work towards regional peace &amp; prosperity alongside like-minded countries. https://t.co/BxX2vYYg7Q",
+      "translation": "我们感谢欧盟、英国、法国、德国、澳大利亚、新西兰、日本及其他国家对解放军在#台湾周边挑衅行为表示关切，这些行为威胁现状。作为全球利益相关者，我们将与志同道合的国家共同努力，促进区域和平与繁荣。https://t.co/BxX2vYYg7Q",
+      "stance": "负面",
+      "metrics": {
+        "reply": 283,
+        "retweet": 1839,
+        "like": 8385
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 11:19:48 +0000 2025",
+      "text": "During his recent visit to Palau, Minister @chia_lung prepared Christmas stocking gifts for children in our ally Palau. From everyone at MOFA and #Taiwan🇹🇼, we wish our friends around the world a joyful festive season filled with warmth and peace. 🎄✨ #MerryChristmas https://t.co/LqKblfoukW",
+      "translation": "林佳龙部长近期访问帕劳期间，为我们的盟友帕劳的孩子们准备了圣诞袜礼物。来自外交部和#台湾🇹🇼的每个人，我们祝愿世界各地的朋友度过一个充满温暖与和平的欢乐节日季。🎄✨ #圣诞快乐 https://t.co/LqKblfoukW",
+      "stance": "负面",
+      "metrics": {
+        "reply": 22,
+        "retweet": 59,
+        "like": 315
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 07:55:39 +0000 2025",
+      "text": "The #PRC’s ambitions go well beyond #Taiwan🇹🇼, Deputy Minister Chen cautions in his interview with @visegrad24. The rules-based international order, free markets &amp; democratic governance itself are under threat—values Taiwan stands resolute in defending.",
+      "translation": "陈副部长在接受@visegrad24采访时警告，#中华人民共和国#的野心远不止于#台湾🇹🇼。基于规则的国际秩序、自由市场及民主治理本身正受到威胁——这些是台湾坚决捍卫的价值观。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 15,
+        "retweet": 96,
+        "like": 349
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 09:38:41 +0000 2025",
+      "text": "RT @ChingteLai: China’s military provocations along the First Island Chain severely disrupt global maritime trade, air traffic &amp; regional p…",
+      "translation": "RT @ChingteLai: 中国沿第一岛链的军事挑衅严重扰乱了全球海上贸易、空中交通及区域和平...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1392,
+        "retweet": 1082,
+        "like": 6244
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 07:18:54 +0000 2025",
+      "text": "Bien dicho, señor vicepresidente. Nosotros también creemos en la importancia de la paz y la seguridad. Agradecemos la solidaridad de nuestro país hermano, el Paraguay, y nos unimos en la condena de las amenazas de la República Popular China.",
+      "translation": "说得好，副总统先生。我们也相信和平与安全的重要性。感谢我们兄弟国家巴拉圭的团结，我们共同谴责中华人民共和国构成的威胁。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 23,
+        "like": 109
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 03:26:21 +0000 2025",
+      "text": "Thank you for your concern about the possibility of a PLA blockade and PRC coercion of Taiwan. As a responsible regional stakeholder, we are eager to work with like-minded partners, like the US, to defend regional and global peace &amp; stability.",
+      "translation": "感谢您对解放军可能封锁及中华人民共和国胁迫台湾的关注。作为负责任的区域利益相关者，我们渴望与志同道合的伙伴，如美国，共同捍卫区域及全球的和平与稳定。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 33,
+        "retweet": 52,
+        "like": 300
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 02:13:08 +0000 2025",
+      "text": "Celebramos con orgullo 91 años de sólida amistad diplomática con Guatemala. Seguimos comprometidos a fortalecer y ampliar nuestra cooperación en los años por venir.",
+      "translation": "我们自豪地庆祝与危地马拉91年坚实的外交友谊。我们承诺在未来岁月中继续加强并扩大我们的合作。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 26,
+        "retweet": 40,
+        "like": 286
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 12:30:46 +0000 2026",
+      "text": "Taiwan extends deepest condolences to the victims and families affected by the tragic explosion in Crans-Montana, Switzerland. We wish a speedy recovery to the injured and stand in solidarity with the Swiss people at this difficult time. 🇹🇼🇨🇭",
+      "translation": "台湾向瑞士克朗-蒙大拿悲剧性爆炸事件的受害者及受影响家庭致以最深切的哀悼。我们祝愿伤者早日康复，并在此艰难时刻与瑞士人民团结一致。🇹🇼🇨🇭",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 40,
+        "like": 427
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 07:18:17 +0000 2026",
+      "text": "RT @ChingteLai: In 2025, #TeamTaiwan proved what unity makes possible, from economic growth at a 15-year high to the launch of our 1st Taiw…",
+      "translation": "RT @ChingteLai: 2025年，#台湾队证明了团结所能成就之事，从经济增长达到15年新高到我们首台台湾制造卫星的发射...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 437,
+        "retweet": 535,
+        "like": 4049
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 02:21:18 +0000 2025",
+      "text": "Taiwán 🇹🇼 expresa sus más sinceras condolencias a las familias y seres queridos de las víctimas del trágico accidente de autobús en Guatemala 🇬🇹. Nuestros pensamientos están con los heridos y nos solidarizamos con el pueblo guatemalteco en este difícil momento.",
+      "translation": "台湾🇹🇼向危地马拉🇬🇹公交车悲剧事故的受害者家属及亲人致以最诚挚的哀悼。我们的心与伤者同在，并在此艰难时刻与危地马拉人民团结一致。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 30,
+        "like": 152
+      }
+    },
+    {
+      "created_at": "Sun Dec 14 15:18:59 +0000 2025",
+      "text": "#Taiwan🇹🇼 strongly condemns the antisemitic terrorist attack in #Australia🇦🇺 targeting a Hanukkah celebration. We mourn the victims &amp; extend our deepest condolences to the injured, the Jewish community &amp; the people of Australia. Hatred &amp; violence have no place in any society.",
+      "translation": "#台湾🇹🇼强烈谴责在#澳大利亚🇦🇺针对光明节庆祝活动的反犹太恐怖袭击。我们哀悼受害者，并向伤者、犹太社区及澳大利亚人民致以最深切的慰问。仇恨与暴力在任何社会都无立足之地。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 235,
+        "like": 1585
+      }
+    },
+    {
+      "created_at": "Sat Dec 20 11:44:07 +0000 2025",
+      "text": "Minister @chia_lung thanks #US🇺🇸 President @realDonaldTrump for signing the FY2026 National Defense Authorization Act, which includes multiple provisions supportive of #Taiwan🇹🇼. We will continue deepening cooperation with the US to advance regional peace, stability &amp; prosperity. https://t.co/pLabJl5Myf",
+      "translation": "林佳龙部长感谢#美国🇺🇸总统@realDonaldTrump签署2026财年《国防授权法案》，其中包含多项支持#台湾🇹🇼的条款。我们将继续深化与美国的合作，以促进区域和平、稳定与繁荣。https://t.co/pLabJl5Myf",
+      "stance": "负面",
+      "metrics": {
+        "reply": 57,
+        "retweet": 162,
+        "like": 832
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 06:48:13 +0000 2025",
+      "text": "We stand firm with the @MoNDefense &amp; all front-line members of the armed forces responding to the PLA provocations around Taiwan. We condemn the CCP's threat to regional &amp; global peace, stability &amp;  prosperity &amp; will meet it with preparedness, alongside our democratic partners.",
+      "translation": "我们坚定支持@国防部及所有应对解放军在台湾周边挑衅行为的一线武装部队成员。我们谴责中国共产党对区域及全球和平、稳定与繁荣的威胁，并将与我们的民主伙伴一起，以充分准备应对。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 66,
+        "retweet": 181,
+        "like": 828
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 03:20:18 +0000 2025",
+      "text": "Ring in 2026 with Taipei 101! 🎆\nMOFA is offering a worldwide satellite feed of the iconic fireworks display starting at 11:55 PM (Taipei time) on Dec 31. This year features a first-ever collab with Taipei Music Center on an original soundtrack. 🎶🇹🇼\nWatch https://t.co/ywNufvpxZ1 https://t.co/UTQIW0VtYM",
+      "translation": "与台北101共迎2026年！🎆 外交部将提供全球卫星信号，直播标志性的跨年烟火秀，从12月31日台北时间晚上11:55开始。今年首次与台北音乐中心合作，推出原创配乐。🎶🇹🇼 观看 https://t.co/ywNufvpxZ1 https://t.co/UTQIW0VtYM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 28,
+        "retweet": 104,
+        "like": 645
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 10:48:33 +0000 2025",
+      "text": "MOFA is seriously concerned by the PRC’s aggressive actions against Philippine vessels near the Sabina Shoal. The new tactic of cutting anchor lines endangers civilian safety &amp; regional security. We urge the PRC to exercise restraint &amp; comply with UNCLOS &amp; international law. https://t.co/KCOIVGUlHI",
+      "translation": "外交部对中华人民共和国在萨比纳浅滩附近对菲律宾船只的侵略行为表示严重关切。切断锚链的新战术危及平民安全及区域安全。我们敦促中华人民共和国保持克制，遵守《联合国海洋法公约》及国际法。https://t.co/KCOIVGUlHI",
+      "stance": "负面",
+      "metrics": {
+        "reply": 73,
+        "retweet": 256,
+        "like": 840
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 07:05:07 +0000 2026",
+      "text": "FM Lin Chia-lung welcomes U.S. 🇺🇸 concern over PRC actions, including PLA provocations around #Taiwan🇹🇼, that threaten the status quo, maritime security &amp; freedom of navigation. Taiwan stands firmly with allies &amp; partners to safeguard a free &amp; open Indo-Pacific. https://t.co/gPDn3C6Nnm",
+      "translation": "林佳龙外长欢迎美国🇺🇸对中华人民共和国行为，包括解放军在#台湾🇹🇼周边的挑衅行为表示关切，这些行为威胁现状、海上安全及航行自由。台湾坚定地与盟友及伙伴站在一起，捍卫自由开放的印太地区。https://t.co/gPDn3C6Nnm",
+      "stance": "负面",
+      "metrics": {
+        "reply": 35,
+        "retweet": 87,
+        "like": 453
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 23:40:28 +0000 2025",
+      "text": "RT @chia_lung: Met President @Surangeljr at Palau’s One Stop Shop, a symbol of #Taiwan–#Palau partnership. We reviewed ongoing cooperation…",
+      "translation": "RT @chia_lung: 在帕劳一站式服务中心会见@Surangeljr总统，这是#台湾–#帕劳伙伴关系的象征。我们回顾了在基础设施、医疗及教育方面的持续合作...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 33,
+        "like": 188
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 01:39:55 +0000 2025",
+      "text": "Minister @chia_lung welcomes approval of arms sales totaling US$11.1B to #Taiwan🇹🇼, reaffirming the #US🇺🇸 commitment to our defense under the #TaiwanRelationsAct &amp; #SixAssurances. This 2nd arms sale by @realDonaldTrump's current admin. strengthens our self-defense &amp; deterrence. https://t.co/Vg4gd5onst",
+      "translation": "林佳龙部长欢迎批准向#台湾🇹🇼总计111亿美元的军售，重申#美国🇺🇸根据《台湾关系法》及#六项保证对我们防务的承诺。这是@realDonaldTrump现任政府第二次军售，增强了我们的自卫及威慑能力。https://t.co/Vg4gd5onst",
+      "stance": "负面",
+      "metrics": {
+        "reply": 12,
+        "retweet": 64,
+        "like": 220
+      }
+    }
+  ]
+}

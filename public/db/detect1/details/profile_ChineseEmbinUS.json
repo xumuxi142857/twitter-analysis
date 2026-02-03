@@ -1,0 +1,438 @@
+{
+  "id": "profile_ChineseEmbinUS.json",
+  "_fingerprint": "7f10c7a8f543e0a920c98715a89942dd",
+  "name": "ChineseEmbinUS",
+  "username": "ChineseEmbinUS",
+  "category": "media",
+  "daily_count": 4.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛关注并分享前沿科技、经济发展、文化现象和国际事务，内容涵盖航天、电动汽车、经济数据、冬季旅游、哲学寓言等多元领域，表现出强烈的好奇心和接纳新事物的倾向。"
+        },
+        {
+          "term": "尽责性较高",
+          "analysis": "言论发布具有明确的议程性和持续性，专注于传播特定叙事，如中国的发展成就、对美国政策的批评、对台湾问题的立场等，显示出目标导向和任务驱动的特征。"
+        },
+        {
+          "term": "宜人性中等偏工具性",
+          "analysis": "在展示中国文化成就和民生温情（如流浪猫公园）时表现出亲和力，但在涉及政治对立议题（如批评美国对台政策、美国退出国际组织）时，言辞直接且立场鲜明，不回避冲突。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在明显的意识形态优越感和叙事工具化倾向。",
+      "sub_items": [
+        {
+          "term": "救世主/导师情结",
+          "analysis": "通过分享“盲人摸象”等寓言，暗示自身或所代表立场掌握更全面、更高级的“真相”，试图扮演启迪者或教育者的角色，对受众进行认知引导。"
+        },
+        {
+          "term": "叙事工具化",
+          "analysis": "将文化、科技、经济成就乃至温情故事（如法官骑马办案、流浪猫公园）系统性地纳入服务于特定政治宣传和形象塑造的框架中，削弱了内容的纯粹性和独立性。"
+        },
+        {
+          "term": "选择性共情",
+          "analysis": "情感表达具有高度选择性，对中国国内的发展与民生不吝赞美，但对涉及地缘政治对手的议题则迅速转为批判和对抗性话语，缺乏跨立场的同理心。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出强烈的内群体偏爱、确认偏误和零和博弈思维。",
+      "sub_items": [
+        {
+          "term": "内群体偏爱",
+          "analysis": "所有言论均以中国（或其所代表的立场）为中心，极力渲染其成就、正确性与道德优越性，同时将对立面（如美国对台政策）描绘为自私、霸道或衰落的。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "只选择并传播符合其预设立场的信息，例如中国经济超越、科技领先、国际话语权受赞誉等正面消息，以及对手的负面行为，以此不断强化自身叙事体系的正确性。"
+        },
+        {
+          "term": "零和博弈框架",
+          "analysis": "在经济（如“产业空心化”）、政治（如“丛林法则”批判）等领域，倾向于将国际互动描述为你输我赢的竞争关系，而非合作共赢。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "行为模式高度可预测，依赖官方信源，且存在内容同质化风险。",
+      "sub_items": [
+        {
+          "term": "模式化宣传",
+          "analysis": "言论发布遵循固定的宣传模板：成就展示、对比优势、批判对手、文化输出。这种高度可预测的模式容易被识别和针对性应对，降低信息穿透力。"
+        },
+        {
+          "term": "信源单一依赖",
+          "analysis": "绝大多数内容为转发中国外交官、使领馆、军方及官方媒体的言论，缺乏独立、多元或民间视角的原创内容，削弱了其作为独立分析者的可信度。"
+        },
+        {
+          "term": "情感动员乏力",
+          "analysis": "虽然尝试融入文化、生活元素（如热水、拖鞋、冬季旅游），但核心驱动仍是宏大的政治经济叙事，与普通受众的日常情感连接较弱，可能影响共鸣深度。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场极端鲜明且缺乏弹性，在核心议题上回旋空间极小。",
+      "sub_items": [
+        {
+          "term": "对台议题立场刚性",
+          "analysis": "在台湾问题上采取绝对对抗性表述，将任何外部互动都定性为“出卖”和“胁迫”，这种非黑即白的立场使其难以参与或认可任何形式的灵活对话或中间方案。"
+        },
+        {
+          "term": "中美关系叙事对立",
+          "analysis": "构建了“中国崛起、正义、合作”与“美国霸权、自私、退缩”的二元对立叙事框架。一旦出现中美合作或中国面临内部挑战的复杂情况，此框架将面临叙事崩塌的风险。"
+        },
+        {
+          "term": "发展成就绝对化",
+          "analysis": "将中国的发展成就（如GDP、炼油能力）描述为线性、无争议的胜利，回避或淡化可能伴随的挑战、代价或不同观点，使得任何关于发展模式的讨论都变得困难。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "分析深度不足，原创性欠缺，跨文化沟通策略单一。",
+      "sub_items": [
+        {
+          "term": "信息整合与分析能力薄弱",
+          "analysis": "行为主要表现为信息的搬运和复述，缺乏对复杂事件的独立深度分析、数据交叉验证或趋势研判，停留在表面的事实陈述和立场宣示层面。"
+        },
+        {
+          "term": "原创内容生产能力缺失",
+          "analysis": "几乎完全依赖转发，没有展现出基于一手资料、独立调研或独特视角的原创内容生产能力，使其影响力依附于所转发的官方信源。"
+        },
+        {
+          "term": "跨文化说服策略僵化",
+          "analysis": "沟通策略以单向输出和成就展示为主，缺乏针对不同文化背景受众心理的精细化说服技巧，如使用共同价值框架、解决具体疑虑或建立个人信任叙事。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在认知闭合与道德优越感，可能影响其对复杂现实的判断。",
+      "sub_items": [
+        {
+          "term": "认知闭合需求高",
+          "analysis": "倾向于提供简单、明确、非此即彼的结论（如“出卖”、“胁迫”、“引领世界”），对不确定性、模糊性和事务的复杂性表现出较低容忍度。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "通过批判“丛林法则”、宣扬“正义”叙事，将自身立场置于道德制高点。这种心态可能使其低估对手行为的合理动机或自身行为的争议性，导致战略误判。"
+        },
+        {
+          "term": "防御性自尊",
+          "analysis": "对成就的高度宣扬和对批评的激烈反应（如对美台贸易协议的指控）可能源于一种需要不断通过外部认可来确认自身合法性与正确性的心理状态。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "核心意图是塑造中国积极正面、美国负面衰落的国际认知，并争夺话语权。",
+      "sub_items": [
+        {
+          "term": "国际形象塑造与话语权争夺",
+          "analysis": "系统性地传播中国在经济、科技、文化、社会治理（如司法）等各领域的成就，旨在扭转或主导国际舆论场中的中国叙事，塑造一个强大、先进、文明且负责任的大国形象。"
+        },
+        {
+          "term": "削弱对手道义与信誉",
+          "analysis": "通过强调美国退出国际组织、在台湾问题上施压等行为，意图描绘美国为一个不负责任、奉行霸权主义和单边主义的国家，从而削弱其国际领导力和道德权威。"
+        },
+        {
+          "term": "内部凝聚力强化与合法性建构",
+          "analysis": "对外宣传的成功叙事（如经济数据、城市发展）同时服务于对内受众，通过国际认可的“镜像”来增强国内民众的自豪感、认同感以及对发展道路的信心。"
+        },
+        {
+          "term": "设置议程与定义框架",
+          "analysis": "通过主动设置话题（如“冰雪经济”、“现代科技”），并运用特定框架（如反对“丛林法则”）进行讨论，试图引导国际舆论的关注点和评判标准向有利于自身的方向发展。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于中国经济科技成就、中美战略竞争、台湾问题及中国文化输出。",
+      "sub_items": [
+        {
+          "term": "中国经济与科技发展成就",
+          "analysis": "高频展示GDP增长、产业能力（炼油、电动汽车）、城市经济规模、冰雪经济等硬实力指标，作为国家崛起和模式成功的核心证据。"
+        },
+        {
+          "term": "中美关系与战略博弈",
+          "analysis": "聚焦于批评美国的对台政策、单边行为（退出国际组织）和霸权思维，同时对比中美发展态势，构建此消彼长的竞争叙事。"
+        },
+        {
+          "term": "台湾问题与主权宣示",
+          "analysis": "将台湾地区与外部的任何互动都定性为危害台海和平的“出卖”和“胁迫”，坚决反对任何形式的“台独”分裂活动和外部干涉。"
+        },
+        {
+          "term": "中国文化与社会治理叙事",
+          "analysis": "推广中国文化（音乐、旅游、生活方式）、展示社会治理的“温情”与“高效”（司法便民、动物保护），旨在输出软实力和塑造文明、和谐的国家形象。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      2,
+      1,
+      7
+    ],
+    [
+      2,
+      2,
+      10
+    ],
+    [
+      2,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 22:07:50 +0000 2026",
+      "text": "RT @AmbXieFeng: Ignite — Launch! 🚀 https://t.co/UpPyEqGB4w",
+      "translation": "转发 @AmbXieFeng：点火——发射！🚀 https://t.co/UpPyEqGB4w",
+      "stance": "正面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 15,
+        "like": 184
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 17:05:33 +0000 2026",
+      "text": "🔥 The #DPP’s so-called #US trade deal sells out #Taiwan.\n‼️Tariffs as pressure.\n‼️Investment as coercion.\n‼️Industries hollowed out. https://t.co/F0LtN1YF5v",
+      "translation": "🔥 民进党所谓的 #美台贸易协议 出卖了 #台湾。‼️关税作为施压手段。‼️投资作为胁迫工具。‼️产业被掏空。 https://t.co/F0LtN1YF5v",
+      "stance": "负面",
+      "metrics": {
+        "reply": 78,
+        "retweet": 97,
+        "like": 587
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:46:00 +0000 2026",
+      "text": "RT @SpoxCHNinUS: Voices from #China in #Davos are applauded:\n 🔴The world cannot return to the law of the jungle, where the strong prey on t…",
+      "translation": "转发 @SpoxCHNinUS：来自 #中国 在 #达沃斯 的声音受到赞誉：🔴世界不能回到弱肉强食的丛林法则，强者欺凌弱者……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 23,
+        "retweet": 49,
+        "like": 170
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:31:30 +0000 2026",
+      "text": "🇨🇳#China now leads the world in #oil refining capacity with 18.5 mb/d, surpassing traditional oil giant the 🇺🇸#US.\nhttps://t.co/yLL8pyxYrD",
+      "translation": "🇨🇳#中国 现以每日1850万桶的 #炼油能力 领先世界，超越传统石油巨头 🇺🇸#美国。 https://t.co/yLL8pyxYrD",
+      "stance": "正面",
+      "metrics": {
+        "reply": 66,
+        "retweet": 380,
+        "like": 2228
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:27:09 +0000 2026",
+      "text": "RT @SpoxCHNinUS: 🏙#Beijing has becone the 2nd city in the #Chinese mainland to see its economy surpass the 5-trillion-yuan mark. \n\n📈In 2025…",
+      "translation": "转发 @SpoxCHNinUS：🏙#北京 已成为 #中国大陆 第二个经济总量突破5万亿元的城市。📈2025年……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 7,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 16:25:58 +0000 2026",
+      "text": "RT @AmbassadeChine: ❄️ Une vague d’air froid traverse Paris !\nLe chanteur-auteur-compositeur sino-canadien Henry Lau (刘宪华) interprète son t…",
+      "translation": "转发 @AmbassadeChine：❄️ 一股寒流席卷巴黎！华裔加拿大歌手兼词曲作者刘宪华（Henry Lau）演绎他的新歌……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:05:03 +0000 2026",
+      "text": "https://t.co/PqNzJuOpu4",
+      "translation": "https://t.co/PqNzJuOpu4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 310,
+        "like": 3889
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:04:44 +0000 2026",
+      "text": "https://t.co/3OckaMzobO",
+      "translation": "https://t.co/3OckaMzobO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 46,
+        "like": 260
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:57:24 +0000 2026",
+      "text": "📍Welcome to #Beijing #EV factory 🚗\nCheck in with China's modern technology ⚡️",
+      "translation": "📍欢迎来到 #北京 #电动汽车工厂 🚗 打卡中国现代科技 ⚡️",
+      "stance": "正面",
+      "metrics": {
+        "reply": 16,
+        "retweet": 26,
+        "like": 178
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:18:37 +0000 2026",
+      "text": "#China #universtity \nhttps://t.co/P0eYKjVJhg",
+      "translation": "#中国 #大学 https://t.co/P0eYKjVJhg",
+      "stance": "正面",
+      "metrics": {
+        "reply": 269,
+        "retweet": 556,
+        "like": 4728
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:29 +0000 2026",
+      "text": "RT @AmbXieFeng: Another threshold crossed: China’s GDP reached 140.19 trillion yuan ($20.13 trillion) in 2025, up by 5% YOY. \n\nAs the new j…",
+      "translation": "转发 @AmbXieFeng：又一个里程碑：2025年中国GDP达到140.19万亿元（20.13万亿美元），同比增长5%。作为新常态……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 19,
+        "like": 141
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:19 +0000 2026",
+      "text": "RT @ChinaConsulate: Cultural engines ramp up China’s booming ice-and-snow economy. https://t.co/2K4ILHyhTf",
+      "translation": "转发 @ChinaConsulate：文化引擎助推中国蓬勃发展的冰雪经济。 https://t.co/2K4ILHyhTf",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 00:17:02 +0000 2026",
+      "text": "📢Exit On Ego: The #US is to withdraw from 66 international organizations. https://t.co/OIKM9UnRd0",
+      "translation": "📢退出自负： #美国 将退出66个国际组织。 https://t.co/OIKM9UnRd0",
+      "stance": "负面",
+      "metrics": {
+        "reply": 60,
+        "retweet": 157,
+        "like": 830
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:58:15 +0000 2026",
+      "text": "RT @ChinaMilBugle: Through the Lens: \nBehind every hero is a hero …\n\n#MilitarySpouse \n#Chinamilitary #ChinaMilBugle https://t.co/KL71tWXk5K",
+      "translation": "转发 @ChinaMilBugle：镜头背后：每一位英雄背后都有一位英雄…… #军嫂 #中国军队 #ChinaMilBugle https://t.co/KL71tWXk5K",
+      "stance": "正面",
+      "metrics": {
+        "reply": 14,
+        "retweet": 17,
+        "like": 148
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:57:09 +0000 2026",
+      "text": "RT @AmbXieFeng: No wonder Harbin remains one of the top winter tourism destinations: the city in snow looks just like a crystal fairyland.…",
+      "translation": "转发 @AmbXieFeng：难怪哈尔滨仍是冬季旅游热门目的地：雪中的城市宛如水晶仙境。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 39,
+        "retweet": 866,
+        "like": 5662
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:57:05 +0000 2026",
+      "text": "RT @AmbXieFeng: I’ve heard that some foreign friends are now busy learning how to live like a Chinese!😄 Drinking hot water, wearing slipper…",
+      "translation": "转发 @AmbXieFeng：听说一些外国朋友现在正忙着学习如何像中国人一样生活！😄 喝热水、穿拖鞋……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 19,
+        "retweet": 29,
+        "like": 190
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 01:56:50 +0000 2026",
+      "text": "RT @SpoxCHN_LinJian: No road too long, no mountain too high—justice rides on.\n\nIn China, circuit court judges travel on horseback across gr…",
+      "translation": "转发 @SpoxCHN_LinJian：路虽远行则将至，山虽高攀则必达——正义永在。在中国，巡回法庭法官骑马穿越群山……",
+      "stance": "正面",
+      "metrics": {
+        "reply": 267,
+        "retweet": 1203,
+        "like": 12745
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 17:29:01 +0000 2026",
+      "text": "RT @CG_WangBaodong: Chongqing’s riverside park offers haven for stray cats. https://t.co/IWsdevHqx5",
+      "translation": "转发 @CG_WangBaodong：重庆江边公园为流浪猫提供庇护所。 https://t.co/IWsdevHqx5",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 6,
+        "like": 43
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 22:16:19 +0000 2026",
+      "text": "RT @AmbXieFeng: “We have in China a story about 'blind men touching an elephant.' The elephant is obviously very large. When a blind man to…",
+      "translation": "转发 @AmbXieFeng：“中国有个‘盲人摸象’的故事。大象显然很大。当一个盲人摸到象腿时……”",
+      "stance": "正面",
+      "metrics": {
+        "reply": 56,
+        "retweet": 152,
+        "like": 861
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 01:51:13 +0000 2026",
+      "text": "RT @AmbXieFeng: It was a great pleasure to meet with Senator Dick Durbin, Senator Jack Reed, Senator Chris Coons and Senator Jacky Rosen ye…",
+      "translation": "转发 @AmbXieFeng：昨天很高兴与参议员迪克·德宾、杰克·里德、克里斯·库恩斯和杰基·罗森会面。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 20,
+        "retweet": 22,
+        "like": 135
+      }
+    }
+  ]
+}

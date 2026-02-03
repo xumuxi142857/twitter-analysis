@@ -1,0 +1,584 @@
+[
+  {
+    "filename": "profile_asahi.json",
+    "name": "asahi",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_NHKnews.json",
+    "name": "NHKnews",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_mainichi.json",
+    "name": "mainichi",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_kantei.json",
+    "name": "kantei",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Kishida230.json",
+    "name": "Kishida230",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_sugawitter.json",
+    "name": "sugawitter",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_CNN.json",
+    "name": "CNN",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_FoxNews.json",
+    "name": "FoxNews",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_nytimes.json",
+    "name": "nytimes",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_POTUS.json",
+    "name": "POTUS",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_SecBlinken.json",
+    "name": "SecBlinken",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_VP.json",
+    "name": "VP",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_ElonMusk.json",
+    "name": "ElonMusk",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_FNN_News.json",
+    "name": "FNN_News",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_jijicom.json",
+    "name": "jijicom",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_kishida230.json",
+    "name": "kishida230",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_kyodo_official.json",
+    "name": "kyodo_official",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_moteging.json",
+    "name": "moteging",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_nhk_news.json",
+    "name": "nhk_news",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_nikkei.json",
+    "name": "nikkei",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Sankei_news.json",
+    "name": "Sankei_news",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_takaichi_sanae.json",
+    "name": "takaichi_sanae",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_tokyo_shimbun.json",
+    "name": "tokyo_shimbun",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Yomiuri_Online.json",
+    "name": "Yomiuri_Online",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_bongbongmarcos.json",
+    "name": "bongbongmarcos",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Chinaembmanila.json",
+    "name": "Chinaembmanila",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_coastguardph.json",
+    "name": "coastguardph",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_DFAPHL.json",
+    "name": "DFAPHL",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_dndphl.json",
+    "name": "dndphl",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_govph.json",
+    "name": "govph",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_indaysara.json",
+    "name": "indaysara",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_jaytaryela.json",
+    "name": "jaytaryela",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_opgovph.json",
+    "name": "opgovph",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_pcogovph.json",
+    "name": "pcogovph",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_PhilAirForce.json",
+    "name": "PhilAirForce",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Philippine_Navy.json",
+    "name": "Philippine_Navy",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_TeamAFP.json",
+    "name": "TeamAFP",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_yourphilarmy.json",
+    "name": "yourphilarmy",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_bikhim.json",
+    "name": "bikhim",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_chia_lung.json",
+    "name": "chia_lung",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_ChineseEmbinUS.json",
+    "name": "ChineseEmbinUS",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_ChingteLai.json",
+    "name": "ChingteLai",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_iingwen.json",
+    "name": "iingwen",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_INDOPACOM.json",
+    "name": "INDOPACOM",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_josephwutw.json",
+    "name": "josephwutw",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_KP_Taiwan.json",
+    "name": "KP_Taiwan",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_kuomintang.json",
+    "name": "kuomintang",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MAC_Taiwan.json",
+    "name": "MAC_Taiwan",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MFA_China.json",
+    "name": "MFA_China",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MofaJapan_en.json",
+    "name": "MofaJapan_en",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MOFA_Taiwan.json",
+    "name": "MOFA_Taiwan",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MoNDefense.json",
+    "name": "MoNDefense",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_StateDept.json",
+    "name": "StateDept",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_TAIWANmoda.json",
+    "name": "TAIWANmoda",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_TaiwanPresSPOX.json",
+    "name": "TaiwanPresSPOX",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Taiwan_CDC.json",
+    "name": "Taiwan_CDC",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_TPP_Taiwan.json",
+    "name": "TPP_Taiwan",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_ABC.json",
+    "name": "ABC",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_AP.json",
+    "name": "AP",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_CBSNews.json",
+    "name": "CBSNews",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_elonmusk.json",
+    "name": "elonmusk",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_JakeSullivan46.json",
+    "name": "JakeSullivan46",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_marcorubio.json",
+    "name": "marcorubio",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_NBCNews.json",
+    "name": "NBCNews",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Newsweek.json",
+    "name": "Newsweek",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_realDonaldTrump.json",
+    "name": "realDonaldTrump",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_reidhoffman.json",
+    "name": "reidhoffman",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Reuters.json",
+    "name": "Reuters",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_SenatorHagerty.json",
+    "name": "SenatorHagerty",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_SenSchumer.json",
+    "name": "SenSchumer",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_SpeakerPelosi.json",
+    "name": "SpeakerPelosi",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_tim_cook.json",
+    "name": "tim_cook",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_USAToday.json",
+    "name": "USAToday",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_WSJ.json",
+    "name": "WSJ",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_baba_ishin.json",
+    "name": "baba_ishin",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Hashimoto_Lo.json",
+    "name": "Hashimoto_Lo",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_hatoyamayukio.json",
+    "name": "hatoyamayukio",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_Hosono_54.json",
+    "name": "Hosono_54",
+    "region": "Japan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_ChelDiokno.json",
+    "name": "ChelDiokno",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_GaryAlejano.json",
+    "name": "GaryAlejano",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_JVejercito.json",
+    "name": "JVejercito",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_ManilaBulletin.json",
+    "name": "ManilaBulletin",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_migzzubiri.json",
+    "name": "migzzubiri",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_risahontiveros.json",
+    "name": "risahontiveros",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_SenGracePoe.json",
+    "name": "SenGracePoe",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_teddyboylocsin.json",
+    "name": "teddyboylocsin",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_TrillanesSonny.json",
+    "name": "TrillanesSonny",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_WinGatchalian74.json",
+    "name": "WinGatchalian74",
+    "region": "Philippines",
+    "category": "media"
+  },
+  {
+    "filename": "profile_FreddyLim.json",
+    "name": "FreddyLim",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_HouYuIh.json",
+    "name": "HouYuIh",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_KMT_Official.json",
+    "name": "KMT_Official",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_MaYingjeou.json",
+    "name": "MaYingjeou",
+    "region": "Taiwan",
+    "category": "media"
+  },
+  {
+    "filename": "profile_AmbJohnBolton.json",
+    "name": "AmbJohnBolton",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_codepink.json",
+    "name": "codepink",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_DanielDumbrill.json",
+    "name": "DanielDumbrill",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_DoubleDownNews.json",
+    "name": "DoubleDownNews",
+    "region": "US",
+    "category": "media"
+  },
+  {
+    "filename": "profile_DrJillStein.json",
+    "name": "DrJillStein",
+    "region": "US",
+    "category": "media"
+  }
+]

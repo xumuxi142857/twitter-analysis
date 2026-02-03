@@ -1,0 +1,446 @@
+{
+  "id": "profile_nytimes.json",
+  "_fingerprint": "98b66b8cecbdadbd903123d868ab067a",
+  "name": "nytimes",
+  "username": "nytimes",
+  "category": "media",
+  "daily_count": 13.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等宜人性、中等神经质、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛报道全球政治、社会、文化、体育等多元话题，从马来西亚前领导人被判刑到美国最高法院裁决，再到建筑大师去世，内容跨度极大，显示出对复杂世界的强烈好奇心和信息接纳度。"
+        },
+        {
+          "term": "尽责性较高",
+          "analysis": "内容发布具有明确的新闻专业规范，强调“Breaking News”、“NEW”等标签，注重时效性和事实陈述，体现了对信息准确性和传播责任的重视。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "在报道争议性政治事件（如移民政策、特朗普政府行动）时保持事实陈述，但通过选题本身（如揭露性报道、法律挑战）间接展现批判立场，并非完全回避冲突。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "报道内容涉及大量冲突、危机和负面事件（如军事打击、政治对抗、法律诉讼），但整体语气保持新闻客观性，未表现出明显的情绪化或焦虑倾向。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "主要通过转发和发布新闻报道与社会互动，内容聚焦公共事件而非个人生活，表现出对社会外部世界的关注多于个人情感表达。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "潜在的精英主义视角与建制派惯性。",
+      "sub_items": [
+        {
+          "term": "建制派视角依赖",
+          "analysis": "报道大量聚焦于美国联邦政府机构（白宫、最高法院、五角大楼）、国际组织（FIFA、欧盟）和传统政治进程的行动与冲突，视角往往嵌入现有权力结构和制度框架内。"
+        },
+        {
+          "term": "潜在的文化中心主义",
+          "analysis": "国际报道虽多，但衡量“进步”的框架（如引用“人类处于过去30万年最好十年”的论点）和关注焦点（如美国政策对全球的影响）常隐含西方或美国中心的价值观和叙事逻辑。"
+        },
+        {
+          "term": "对颠覆性力量的矛盾态度",
+          "analysis": "既报道特朗普政府等非传统政治力量带来的冲击和争议，又在评论版中探讨“MAGA”运动与创始人深度绑定的现象，流露出对传统政治秩序被挑战的审视与不安。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "倾向于负面信息关注、制度框架内的因果归因及宏大叙事。",
+      "sub_items": [
+        {
+          "term": "负面信息偏好",
+          "analysis": "样本中“Breaking News”绝大多数涉及冲突、犯罪、法律挑战、政治对抗、死亡等负面或危机事件，符合新闻业对异常事件的关注惯例，但也塑造了以问题为导向的世界观。"
+        },
+        {
+          "term": "制度与精英归因",
+          "analysis": "倾向于将事件根源和动态归因于政府决策、法律裁决、企业行为、领导人行动等制度性或精英层面因素，如将政策变化归因于政府计划、法律诉讼或国际组织裁决。"
+        },
+        {
+          "term": "宏大历史叙事倾向",
+          "analysis": "在评论版内容中，习惯将当下事件置于漫长的历史脉络（如300000年人类史、战后政治运动史、基督教历史）或全球性议题（如人类福祉、正义）中进行评述，寻求深层次意义。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "对权威信源的依赖、议程受外部事件驱动、在敏感议题上易引发法律或政治反弹。",
+      "sub_items": [
+        {
+          "term": "信源权威性依赖",
+          "analysis": "大量内容基于官方声明、法庭文件、内部文件、专家言论或自身记者调查，这种对权威和文档的信赖一旦遭遇信息误导或来源欺诈，会直接损害报道公信力。"
+        },
+        {
+          "term": "被动式议程设置",
+          "analysis": "新闻推送高度依赖突发外部事件（如枪击、判决、选举结果、行政命令），议程容易被危机和权力主体的行动所主导，而非主动设定长期调查议题。"
+        },
+        {
+          "term": "调查性报道的法律与政治风险",
+          "analysis": "发布涉及政府内部决策（如对委内瑞拉政策）、指控高官（如FIFA主席）、揭露敏感行动（如公民身份剥夺计划）的调查报道，容易引发来自权力方的法律诉讼、行政施压或舆论攻击。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在移民、特朗普政府、社会公平等议题上立场鲜明，易被贴上政治标签并遭遇对立阵营的攻击。",
+      "sub_items": [
+        {
+          "term": "移民与人权议题的倡导倾向",
+          "analysis": "多次报道移民家庭分离、驱逐、监控以及相关法律挑战，并提及种族正义抗议者被解雇的诉讼，显示出对移民权益和少数群体处境的关注，这在美国政治极化背景下易被保守派指控为立场偏颇。"
+        },
+        {
+          "term": "对特朗普政府政策的批判性聚焦",
+          "analysis": "大量报道涉及特朗普时代的政策争议（移民、司法、军事部署、与机构冲突）及其延续影响，这种密集的批判性审视使其容易被特朗普支持者及部分共和党人视为“敌对媒体”。"
+        },
+        {
+          "term": "对社会经济正义的持续关注",
+          "analysis": "报道学生贷款清偿、阿片类药物诉讼背后的不公，以及评论中提及“正义未获伸张”，体现了对经济不平等和制度性不公的关注，可能疏远认为其过于“进步主义”或“煽动阶级对立”的受众。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在信息过载时代保持深度与准确性的挑战，以及对新兴媒体平台规则变化的适应压力。",
+      "sub_items": [
+        {
+          "term": "信息核实与深度挖掘的平衡压力",
+          "analysis": "在追求突发新闻时效性的同时，需确保复杂调查报道（如 Epstein 文件、政府内部计划）的准确与深度，任何重大事实纠错都会严重打击其作为权威媒体的核心能力信誉。"
+        },
+        {
+          "term": "跨平台内容分发与影响力维持",
+          "analysis": "内容通过主账号、意见版（@nytopinion）、体育分支（@TheAthletic）及记者个人账号等多渠道分发，存在信息碎片化、品牌稀释或子账号言论引发争议连带主品牌的风险。"
+        },
+        {
+          "term": "应对技术平台治理变化",
+          "analysis": "报道提及欧盟对X（原Twitter）罚款、APP因政府压力被下架等事件，显示其运营环境受科技公司政策和政府监管影响。自身作为内容发布者，也需持续适应平台算法、审核规则的变化以维持可见度。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能存在的“第四权力”使命感带来的压力，以及对自身叙事影响力可能衰减的焦虑。",
+      "sub_items": [
+        {
+          "term": "“守望者”角色认同与压力",
+          "analysis": "通过揭露权力滥用、监督政府行动、报道社会不公，强化了其作为公共监督者和记录者的自我角色认同。这种使命感可能带来持续的高压工作环境，以及对未能履行此职责的内心焦虑。"
+        },
+        {
+          "term": "对公众信任度下降的潜在焦虑",
+          "analysis": "在政治极化和“假新闻”指控泛滥的媒体环境中，持续发布挑战部分受众世界观的信息（如对政府的批判报道），可能潜意识担忧自身公信力受损和受众群体分化。"
+        },
+        {
+          "term": "宏大叙事下的无力感",
+          "analysis": "尽管报道个体悲剧（如家庭分离）和系统性问题，并在评论中探讨人类历史进程与正义，但这种宏大视角与具体问题的顽固性（如移民政策僵局）可能催生一种深层的、制度性的无力感或 cynicism。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "在客观报道的表象下，隐含塑造公共议程、维护媒体机构权威、影响精英舆论的深层意图。",
+      "sub_items": [
+        {
+          "term": "设定国家及全球议事日程",
+          "analysis": "通过选择报道哪些“Breaking News”和深度调查，无形中定义了何为重要议题，引导公众和决策者关注特定政治冲突、社会问题或国际事件，旨在影响公共讨论的焦点。"
+        },
+        {
+          "term": "巩固并扩展其作为权威记录者的制度性权力",
+          "analysis": "通过持续产出被视为“历史初稿”的新闻报道，特别是基于内部文件的独家调查，旨在强化其在美国乃至全球公共话语中作为可信赖事实仲裁者和历史记录者的不可或缺的地位。"
+        },
+        {
+          "term": "影响政策辩论与精英认知",
+          "analysis": "调查性报道（如政府内部计划）和评论版观点旨在为政策制定者、学者、意见领袖提供信息和论点，试图在精英圈层中塑造对特定政策（如移民、外交）的批判性认知，间接施加影响。"
+        },
+        {
+          "term": "商业品牌与受众忠诚度的维系",
+          "analysis": "在媒体竞争激烈的环境下，通过高质量、高时效、广覆盖的新闻产品，旨在维持和扩大付费用户基础，确保其商业模式的可持续性，这驱动其对独家、深度、快速内容的不懈追求。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题聚焦美国国内政治与政策、国际事务、社会司法，并广泛覆盖文化、体育、商业。",
+      "sub_items": [
+        {
+          "term": "美国国内政治与权力斗争",
+          "analysis": "这是最核心的领域，大量涉及特朗普政府政策及遗产、最高法院裁决、国会与州政府的行动、两党政治、选举结果、联邦机构（司法部、ICE、FBI）的运作与争议。"
+        },
+        {
+          "term": "国际关系与地缘政治",
+          "analysis": "广泛报道全球事件，包括美国对外军事行动（尼日利亚）、国际冲突（乌克兰）、他国政治（马来西亚、智利、洪都拉斯）、国际组织（欧盟、FIFA）动态，体现全球视野。"
+        },
+        {
+          "term": "社会公平、司法与移民",
+          "analysis": "持续关注移民执法、种族正义、法律诉讼、公民权利、社会经济不平等议题，常通过具体案例（家庭分离、诉讼、政策变化）切入，反映对社会公正的持久兴趣。"
+        },
+        {
+          "term": "文化、体育与商业动态",
+          "analysis": "通过分支账号或转载，覆盖体育（大学橄榄球、NBA、足球）、文化（名人去世、建筑、电影）、商业（科技公司监管、酒店价格）等广泛领域，以吸引多元受众并塑造综合性媒体形象。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 21:56:32 +0000 2025",
+      "text": "Breaking News: Honduras declared Nasry Asfura the presidential winner by a razor-thin margin in a race upended by President Trump. https://t.co/YQc5sSqxMy",
+      "translation": "突发新闻：洪都拉斯宣布纳西里·阿斯富拉以微弱优势赢得总统选举，这场选举因特朗普总统而出现变局。https://t.co/YQc5sSqxMy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 121,
+        "retweet": 208,
+        "like": 635
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 21:45:03 +0000 2025",
+      "text": "In @nytopinion\n\n“Christianity has always been about far more than identity. It is universalist in its aspirations, if not always in practice,” E. J. Dionne Jr. writes. https://t.co/btCeQUUNbH",
+      "translation": "在@nytopinion中，E. J. Dionne Jr.写道：“基督教从来就不仅仅是身份认同的问题。它在理想上是普世主义的，即便在实践中并非总是如此。”https://t.co/btCeQUUNbH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 78,
+        "retweet": 40,
+        "like": 114
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 12:42:01 +0000 2025",
+      "text": "RT @boreskes: Went to the movies last night and saw Marty Supreme with @JCats2013, @NassauExec and @KathyHochul. \n\nHere is my scene report…",
+      "translation": "转发@boreskes：昨晚去看电影，和@JCats2013、@NassauExec以及@KathyHochul一起看了《马蒂至尊》。这是我的观影报告…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 41,
+        "like": 217
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 08:18:43 +0000 2025",
+      "text": "Breaking News: President Volodymyr Zelensky of Ukraine suggested a demilitarized zone in the Donetsk region as part of a possible peace deal with Russia. https://t.co/yELwv8uSUG",
+      "translation": "突发新闻：乌克兰总统弗拉基米尔·泽连斯基建议在顿涅茨克地区设立非军事区，作为与俄罗斯可能达成的和平协议的一部分。https://t.co/yELwv8uSUG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 90,
+        "retweet": 120,
+        "like": 316
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 23:32:46 +0000 2025",
+      "text": "RT @Haleaziz: SCOOP: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, according…",
+      "translation": "转发@Haleaziz：独家新闻：据知情人士透露，特朗普政府计划加大力度，剥夺部分归化美国公民的国籍…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 128,
+        "retweet": 410,
+        "like": 555
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 22:45:50 +0000 2025",
+      "text": "Breaking News: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau. https://t.co/HVeZxpiQVD",
+      "translation": "突发新闻：联邦调查局副局长丹·邦吉诺表示，他将于下个月离职，结束其在联邦调查局短暂但动荡的任期。https://t.co/HVeZxpiQVD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 53,
+        "like": 168
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 22:30:24 +0000 2025",
+      "text": "Breaking News: The Trump administration plans to ramp up efforts to strip some naturalized Americans of their citizenship, internal documents obtained by The New York Times show, marking an aggressive new phase in President Trump’s immigration crackdown. https://t.co/BDuWThi6dq",
+      "translation": "突发新闻：《纽约时报》获得的内部文件显示，特朗普政府计划加大力度，剥夺部分归化美国公民的国籍，这标志着特朗普总统在移民打击行动中进入了一个新的激进阶段。https://t.co/BDuWThi6dq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1543,
+        "retweet": 2212,
+        "like": 5901
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 20:38:23 +0000 2025",
+      "text": "Breaking News: The Senate confirmed the billionaire and private astronaut Jared Isaacman to run NASA as the space agency faces upheaval and uncertainty. https://t.co/n1Kn3K3mIx",
+      "translation": "突发新闻：参议院确认亿万富翁、私人宇航员贾里德·艾萨克曼将执掌美国国家航空航天局，该机构正面临动荡和不确定性。https://t.co/n1Kn3K3mIx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 65,
+        "like": 213
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 19:20:02 +0000 2025",
+      "text": "From @TheAthletic: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university. https://t.co/D42cwJoLVF",
+      "translation": "来自@TheAthletic：俄亥俄大学于周三以正当理由解雇了橄榄球教练布莱恩·史密斯，此前他被大学意外停职已超过两周。https://t.co/D42cwJoLVF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 15,
+        "like": 59
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:43:30 +0000 2025",
+      "text": "Breaking News: Gov. Kathy Hochul said she would sign a bill that will allow terminally ill New Yorkers to end their lives. Eleven states and several countries in Europe have passed similar laws. https://t.co/AHgkUxrcXP",
+      "translation": "突发新闻：州长凯西·霍赫尔表示，她将签署一项法案，允许身患绝症的纽约人结束自己的生命。美国已有十一个州和欧洲的几个国家通过了类似法律。https://t.co/AHgkUxrcXP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 119,
+        "retweet": 221,
+        "like": 978
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:29:14 +0000 2025",
+      "text": "Breaking News: YouTube will stream the Oscars beginning in 2029, winning the rights from ABC, which has held them since 1976. https://t.co/Ul0XXgTjLl",
+      "translation": "突发新闻：YouTube将从2029年开始直播奥斯卡颁奖典礼，从自1976年以来一直持有转播权的ABC手中赢得了转播权。https://t.co/Ul0XXgTjLl",
+      "stance": "无关",
+      "metrics": {
+        "reply": 54,
+        "retweet": 88,
+        "like": 242
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:18:30 +0000 2025",
+      "text": "Breaking News: The Senate approved a $900 billion defense policy bill, clearing legislation to authorize new weapons and technology, with measures to reassert some congressional oversight of military operations. Trump is expected to sign the bill into law. https://t.co/Y6AX9o6iXF",
+      "translation": "突发新闻：参议院批准了一项9000亿美元的国防政策法案，通过了授权新武器和技术的立法，其中包含重新确立国会对军事行动部分监督权的措施。预计特朗普将签署该法案使其成为法律。https://t.co/Y6AX9o6iXF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 51,
+        "retweet": 83,
+        "like": 196
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 18:17:03 +0000 2025",
+      "text": "From @TheAthleticFC: The prices of World Cup tickets have been dominating the headlines. FIFA is not entirely to blame for the extortionate ticket prices, but it made one big mistake, our columnist argues. https://t.co/pYHvnyWd37",
+      "translation": "来自@TheAthleticFC：世界杯门票价格一直是头条新闻。我们的专栏作家认为，国际足联并非天价门票的唯一责任方，但它犯了一个重大错误。https://t.co/pYHvnyWd37",
+      "stance": "无关",
+      "metrics": {
+        "reply": 29,
+        "retweet": 18,
+        "like": 67
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 16:42:36 +0000 2025",
+      "text": "Breaking News: An appeals court allowed National Guard troops to remain in Washington, D.C., for now. https://t.co/0wxvw3xq7Y",
+      "translation": "突发新闻：上诉法院暂时允许国民警卫队部队继续留在华盛顿特区。https://t.co/0wxvw3xq7Y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 53,
+        "retweet": 48,
+        "like": 121
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 16:22:53 +0000 2025",
+      "text": "Breaking News: Four politically vulnerable House Republicans teamed up with Democrats to force a vote in early 2026 on extending Affordable Care Act subsidies. https://t.co/nwyKgAaC62",
+      "translation": "突发新闻：四名政治处境脆弱的众议院共和党人与民主党人联手，迫使在2026年初就延长《平价医疗法案》补贴进行投票。https://t.co/nwyKgAaC62",
+      "stance": "无关",
+      "metrics": {
+        "reply": 39,
+        "retweet": 64,
+        "like": 245
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:55:03 +0000 2025",
+      "text": "From @TheAthletic: Carlos Alcaraz confirmed he has split with coach Juan Carlos Ferrero after six Grand Slam titles and seven years together. \nhttps://t.co/onpPcmsuKx",
+      "translation": "来自@TheAthletic：卡洛斯·阿尔卡拉斯确认，在赢得六个大满贯冠军并合作七年后，他已与教练胡安·卡洛斯·费雷罗分道扬镳。https://t.co/onpPcmsuKx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 28,
+        "retweet": 31,
+        "like": 129
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 15:20:04 +0000 2025",
+      "text": "From @TheAthletic: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams.\nhttps://t.co/sNqLABdCql",
+      "translation": "来自@TheAthletic：如果你是一位尚未做出决定的大学橄榄球迷，仍在寻找未来一个月可以支持的球队，让我们来帮你。这是我们的跟风指南，按球队从最不值得到最值得支持的顺序排列。https://t.co/sNqLABdCql",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 19,
+        "like": 58
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 14:24:03 +0000 2025",
+      "text": "From @TheAthletic: Tuesday night’s victory was a statement that the Knicks belong in the NBA championship discussion. New York needed something from everyone to raise its first championship banner since 1973. https://t.co/vjMu6blzmQ",
+      "translation": "来自@TheAthletic：周二晚上的胜利宣告了尼克斯队属于NBA总冠军的讨论行列。纽约需要每个人的贡献，才能自1973年以来首次升起总冠军旗帜。https://t.co/vjMu6blzmQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 10,
+        "like": 57
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 06:24:59 +0000 2025",
+      "text": "Breaking News: The surviving suspect in the Bondi Beach massacre has been charged with murder and terrorism after waking from a coma. https://t.co/HGSQin0Jk5",
+      "translation": "突发新闻：邦迪海滩大屠杀的幸存嫌疑人在从昏迷中苏醒后，被指控犯有谋杀罪和恐怖主义罪。https://t.co/HGSQin0Jk5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 77,
+        "retweet": 51,
+        "like": 203
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 04:22:43 +0000 2025",
+      "text": "RT @ewong: Trump orders US forces to stop oil tankers going to and from Venezuela that have been sanctioned by the US. This could cut into…",
+      "translation": "转发@ewong：特朗普命令美国军队拦截进出委内瑞拉的、受到美国制裁的油轮。这可能会削减…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 32,
+        "like": 76
+      }
+    }
+  ]
+}

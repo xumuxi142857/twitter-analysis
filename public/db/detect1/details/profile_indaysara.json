@@ -1,0 +1,470 @@
+{
+  "id": "profile_indaysara.json",
+  "_fingerprint": "83a89118e57362baf431be6f0adbbc00",
+  "name": "indaysara",
+  "username": "indaysara",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "表现出强烈的责任感和组织性，通过系统性的官方活动、访问和声明来履行公共职责，日程安排紧凑且涉及多方面工作。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与公开活动，包括社区访问、宗教仪式、商业支持和外交会晤，展现出乐于社交、精力充沛和寻求公众互动的特质。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在支持社区和宗教活动时表现出合作与同情，但在面对指控时会发布官方声明进行反驳，显示出一定的对抗性。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "活动范围涵盖传统宗教、社区发展、商业和外交，但内容较为常规，缺乏明显的创新或激进思想表达。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在应对突发事件如滑坡灾害时能保持稳定，但在受到公开指控时会迅速回应，显示出一定的情绪反应，但整体压力管理尚可。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在仪式主义、过度依赖公众形象、潜在的自负倾向",
+      "sub_items": [
+        {
+          "term": "仪式主义",
+          "analysis": "过度强调传统活动和宗教仪式，如黑拿撒勒人节、弥撒和植树活动，可能削弱对实质性政策问题的关注。"
+        },
+        {
+          "term": "公众形象依赖",
+          "analysis": "大量活动围绕公共展示和媒体曝光设计，如访问医院、企业和节日庆典，可能反映出对公众认可的高度需求。"
+        },
+        {
+          "term": "潜在自负",
+          "analysis": "通过频繁的官方访问和声明维护权威，在回应指控时表现出防御姿态，暗示可能对批评敏感且自我认知较高。"
+        },
+        {
+          "term": "规避风险",
+          "analysis": "活动多集中于安全、非争议性领域如社区服务和宗教参与，避免涉足高度敏感或分裂性话题，显示出谨慎倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威偏见、确认偏见和乐观偏见",
+      "sub_items": [
+        {
+          "term": "权威偏见",
+          "analysis": "倾向于依赖官方角色和传统机构如教会、军队和政府框架来指导行动和决策，可能忽视非主流观点。"
+        },
+        {
+          "term": "确认偏见",
+          "analysis": "通过支持现有社区项目和宗教活动强化既定社会结构，较少挑战或质疑现状，偏好符合传统价值观的信息。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "在商业支持和灾害响应中强调积极成果和社区韧性，可能低估系统性问题的复杂性或长期挑战。"
+        },
+        {
+          "term": "群体内偏爱",
+          "analysis": "活动明显偏向菲律宾本土社区、宗教团体和传统机构，可能缺乏对更广泛或国际化视角的整合。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开日程密集、回应模式可预测、活动地域集中",
+      "sub_items": [
+        {
+          "term": "日程过载",
+          "analysis": "高频率的公开活动可能分散精力，导致对深层政策问题或突发危机的响应效率降低，易被疲劳影响决策质量。"
+        },
+        {
+          "term": "可预测性",
+          "analysis": "行为模式高度规律，围绕节日、访问和官方声明展开，使得对手可能提前预判行动并制定应对策略。"
+        },
+        {
+          "term": "地域集中",
+          "analysis": "活动重点在特定区域如宿务、阿尔拜和拉瑙德尔苏尔，可能忽视其他地区的需求，引发区域不平衡的批评。"
+        },
+        {
+          "term": "媒体依赖",
+          "analysis": "严重依赖社交媒体和公开活动进行传播，如果媒体渠道受阻或出现负面报道，公众形象可能迅速受损。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "亲传统机构、弱国际立场、易受本土批评",
+      "sub_items": [
+        {
+          "term": "传统主义绑定",
+          "analysis": "深度关联于宗教和本地社区结构，一旦这些机构出现丑闻或分歧，其立场可能受到连带损害，灵活性受限。"
+        },
+        {
+          "term": "国际立场模糊",
+          "analysis": "除英国大使礼节性访问外，缺乏明确的国际事务立场，尤其在涉及大国关系时，易被解读为回避或立场不坚。"
+        },
+        {
+          "term": "本土批评敏感",
+          "analysis": "对本地指控如拉米尔·马德里亚加的指责反应迅速，显示立场易受国内舆论压力影响，可能过度防御而失焦。"
+        },
+        {
+          "term": "经济立场表面化",
+          "analysis": "商业支持活动如'Mag Negosyo Ta 'Day' 强调小额企业，但缺乏系统性经济政策阐述，易被批评为作秀而非实质改革。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "政策深度不足、危机管理单一、外交经验有限",
+      "sub_items": [
+        {
+          "term": "政策浅层化",
+          "analysis": "活动多集中于象征性访问和社区参与，缺乏详细政策提案或复杂问题解决方案，可能影响治理效能认知。"
+        },
+        {
+          "term": "危机响应模式化",
+          "analysis": "对灾害如滑坡的响应限于医院访问，未见长期预防或系统性恢复计划，显示危机管理能力可能停留在表面。"
+        },
+        {
+          "term": "外交能力局限",
+          "analysis": "外交互动仅见礼节性访问，缺乏多边或战略性国际参与，暗示在国际舞台上的经验和影响力有限。"
+        },
+        {
+          "term": "技术整合不足",
+          "analysis": "活动偏重传统领域如农业和宗教，未见对科技、创新或数字化议题的深入涉足，可能落后于现代治理需求。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "压力下易防御、思维趋传统、情感驱动决策",
+      "sub_items": [
+        {
+          "term": "防御性反应",
+          "analysis": "面对指控时发布官方声明反驳，而非深入调查或对话，显示在压力下可能优先保护形象而非解决问题。"
+        },
+        {
+          "term": "传统思维固化",
+          "analysis": "高度依赖宗教和社区传统框架，可能限制创新思维或适应快速社会变化的能力，导致决策僵化。"
+        },
+        {
+          "term": "情感驱动",
+          "analysis": "活动如节日庆祝和宗教仪式强调情感联结，决策可能受民众即时情绪影响，而非纯粹理性分析。"
+        },
+        {
+          "term": "认知负荷",
+          "analysis": "密集的公开日程和多方关注可能增加心理负担，影响长期战略思考，导致注意力分散或决策疲劳。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治基础、提升国内形象、规避国际风险",
+      "sub_items": [
+        {
+          "term": "政治基础强化",
+          "analysis": "通过地方访问和社区支持活动，旨在巩固在关键区域如维萨亚斯和棉兰老岛的政治支持，为未来选举或权力维护铺垫。"
+        },
+        {
+          "term": "形象工程",
+          "analysis": "频繁的媒体曝光和正面活动设计，可能意在塑造亲民、尽责的公众形象，掩盖政策短板或转移批评焦点。"
+        },
+        {
+          "term": "风险规避策略",
+          "analysis": "避免涉足高度争议的国际或国内议题，专注于安全话题，暗示意图最小化政治风险，维持稳定地位。"
+        },
+        {
+          "term": "传统联盟维护",
+          "analysis": "强调与教会、军队和地方精英的联系，可能旨在确保传统权力结构的支持，以对抗新兴政治力量或改革压力。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "聚焦社区发展、宗教活动、本地经济、灾害响应",
+      "sub_items": [
+        {
+          "term": "社区与灾害响应",
+          "analysis": "频繁参与地方访问和灾害支持，如宿务滑坡医院访问，强调基层联结和危机中的公共关怀。"
+        },
+        {
+          "term": "宗教与传统仪式",
+          "analysis": "深入参与黑拿撒勒人节、弥撒等宗教活动，显示对菲律宾天主教传统的重视和利用以凝聚民众。"
+        },
+        {
+          "term": "本地经济赋能",
+          "analysis": "通过'Mag Negosyo Ta 'Day' 等项目支持小微企业，话题集中于地方商业发展，而非国家宏观经济战略。"
+        },
+        {
+          "term": "官方与军事互动",
+          "analysis": "涉及副总统办公室活动、军队感恩聚会和外交访问，话题围绕政府运作和安全机构关系，强化官方角色。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      3
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 07 01:58:07 +0000 2026",
+      "text": "PAGBISITA SA MAGNEGOSYO TA ‘DAY BENEFICIARY\nDaraga, Albay\n\nPlease see more here:\nhttps://t.co/NToooLLUnS",
+      "translation": "访问达拉加市（阿尔拜省）的'马格内戈西奥塔'日受益人。详情请见：https://t.co/NToooLLUnS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 04:03:00 +0000 2025",
+      "text": "NEW YEAR’S DAY\nDecember 31, 2025\n\nPlease see more here:\nhttps://t.co/0NE7ycd2Lw",
+      "translation": "2025年12月31日，新年。详情请见：https://t.co/0NE7ycd2Lw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 04:09:44 +0000 2025",
+      "text": "MALIGAYANG PASKO\nDecember 24, 2025 \n\nPlease see more here:\nhttps://t.co/bhdzTUdvnx",
+      "translation": "2025年12月24日，圣诞快乐。详情请见：https://t.co/bhdzTUdvnx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 05:25:37 +0000 2026",
+      "text": "OVP–WMSO, MULING BINISITA ANG MTD GRANTEES SA ILIGAN CITY \n\nPlease see more here:\nhttps://t.co/1kdqlukqGQ",
+      "translation": "副总统办公室-西棉兰老岛办事处再次访问伊利甘市的MTD受助者。详情请见：https://t.co/1kdqlukqGQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 00:02:19 +0000 2025",
+      "text": "RIZAL DAY\nDecember 30, 2025\n\nPlease see more here:\nhttps://t.co/4yZ9B9GliE",
+      "translation": "2025年12月30日，黎刹日。详情请见：https://t.co/4yZ9B9GliE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 3,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 09:43:28 +0000 2025",
+      "text": "TOUR OF LABORATORIES\nUniversidad de Zamboanga\nZamboanga City\n\nPlease see more here:\nhttps://t.co/SphTcOK7bk",
+      "translation": "参观三宝颜市三宝颜大学的实验室。详情请见：https://t.co/SphTcOK7bk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 02:05:08 +0000 2026",
+      "text": "PAGBISITA SA RELIGIOUS SHOP NI ROSANA\nSto. Cristo, Daraga, Albay\n\nPlease see more here:\nhttps://t.co/PFtAVJda3r",
+      "translation": "访问达拉加市（阿尔拜省）圣克里斯托区罗莎娜的宗教商店。详情请见：https://t.co/PFtAVJda3r",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Sun Dec 28 03:00:30 +0000 2025",
+      "text": "MASS AT OUR LADY OF ROSARY OF MANAOAG\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/9p24B0SeCP",
+      "translation": "在邦阿西楠省马纳瓦格市的圣母玫瑰堂举行弥撒。详情请见：https://t.co/9p24B0SeCP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 10:18:44 +0000 2025",
+      "text": "AFP SECURITY AND PROTECTION GROUP YEAR-END THANKSGIVING\nCamp General Emilio Aguinaldo\nQuezon City\n\nPlease see more here:\nhttps://t.co/6wyOtUmwPG",
+      "translation": "菲律宾武装部队安全与保护组年终感恩活动，奎松市埃米利奥·阿奎纳尔多将军营。详情请见：https://t.co/6wyOtUmwPG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 08:23:58 +0000 2026",
+      "text": "PAGBISITA SA MGA BIKTIMA NG \nBINALIW LANDFILL LANDSLIDE SA CEBU CITY\nVisayasMed Hospital\nCebu City\n\nPlease see more here:\nhttps://t.co/F3ToWXL1os",
+      "translation": "访问宿务市比纳利乌垃圾填埋场滑坡的受害者，维萨亚斯医疗医院，宿务市。详情请见：https://t.co/F3ToWXL1os",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 07:30:38 +0000 2026",
+      "text": "OVP–BARMM SO THANKSGIVING ACTIVITY SA LANAO DEL SUR\n\nPlease see more here:\nhttps://t.co/e8E7PJDhdQ",
+      "translation": "副总统办公室-邦萨摩洛自治区棉兰老岛穆斯林自治区南拉瑙省感恩活动。详情请见：https://t.co/e8E7PJDhdQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Sat Dec 27 03:47:02 +0000 2025",
+      "text": "KAMUSTAHAN SA MGA VENDORS\nOur Lady of Rosary of Manaoag Church\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/YvgQTQx1jZ",
+      "translation": "与邦阿西楠省马纳瓦格市圣母玫瑰堂的摊贩交流。详情请见：https://t.co/YvgQTQx1jZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sat Dec 20 00:12:58 +0000 2025",
+      "text": "NORTHVIEW COVERED GYM\nCebu City\n\nPlease see more here:\nhttps://t.co/LhUsvCn5Mc",
+      "translation": "宿务市北景室内体育馆。详情请见：https://t.co/LhUsvCn5Mc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 09:34:34 +0000 2026",
+      "text": "COURTESY CALL OF H.E. SARAH HULTON, OBE\nAmbassador of the United Kingdom of Great Britain and Northern Ireland to the Philippines\nOffice of the Vice President\nMandaluyong City\n\nPlease see more here:\nhttps://t.co/5KXoEUoloy",
+      "translation": "大不列颠及北爱尔兰联合王国驻菲律宾大使莎拉·赫尔顿（OBE）礼节性拜访副总统办公室，曼达卢永市。详情请见：https://t.co/5KXoEUoloy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 03:37:52 +0000 2025",
+      "text": "ALMUSAL KASAMA ANG OFFICE OF THE VICE PRESIDENT PERSONNEL\nManaoag, Pangasinan\n\nPlease see more here:\nhttps://t.co/1wruOMnEza",
+      "translation": "与副总统办公室工作人员共进早餐，邦阿西楠省马纳瓦格市。详情请见：https://t.co/1wruOMnEza",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 1,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:01:46 +0000 2025",
+      "text": "OFFICIAL STATEMENT ON THE FALSE ACCUSATIONS OF A CERTAIN RAMIL MADRIAGA\nDecember 22, 2025\n\nPlease see more here:\nhttps://t.co/xJyfLEOSW5",
+      "translation": "关于某位拉米尔·马德里亚加虚假指控的官方声明，2025年12月22日。详情请见：https://t.co/xJyfLEOSW5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 00:02:14 +0000 2026",
+      "text": "MENSAHE PARA SA KAPISTAHAN NG ITIM NA NAZARENO\nJanuary 09, 2026\n\nPlease see more here:\nhttps://t.co/ax63lFesUo",
+      "translation": "为2026年1月9日黑拿撒勒人节致辞。详情请见：https://t.co/ax63lFesUo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 02:14:53 +0000 2026",
+      "text": "TREE PLANTING\nDaraga, Albay\n\nPlease see more here:\nhttps://t.co/uGS6X7pxye",
+      "translation": "植树活动，达拉加市（阿尔拜省）。详情请见：https://t.co/uGS6X7pxye",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 01:36:29 +0000 2025",
+      "text": "MAG NEGOSYO TA 'DAY SA EASTERN VISAYAS\n\nPlease see more here:\nhttps://t.co/iZ7QR1YkGQ",
+      "translation": "在东维萨亚斯地区开展'马格内戈西奥塔'日活动。详情请见：https://t.co/iZ7QR1YkGQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 00:34:21 +0000 2025",
+      "text": "BRGY. BACAYAN GYMNASIUM\nCebu City\n\nPlease see more here:\nhttps://t.co/bRxT9nAW5f",
+      "translation": "宿务市巴卡扬村体育馆。详情请见：https://t.co/bRxT9nAW5f",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 14
+      }
+    }
+  ]
+}

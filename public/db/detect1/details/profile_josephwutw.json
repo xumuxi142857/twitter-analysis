@@ -1,0 +1,474 @@
+{
+  "id": "profile_josephwutw.json",
+  "_fingerprint": "ad653f8fb6514de434ba499606c43ba0",
+  "name": "josephwutw",
+  "username": "josephwutw",
+  "category": "media",
+  "daily_count": 1.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、高开放性、低宜人性、情绪稳定性中等偏负面",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开外交活动，积极与多国政要、议员及国际组织代表会面交流，展现出强烈的社交倾向和寻求外部支持的主动性。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "言论始终围绕捍卫所谓“自由、民主、主权”的核心使命，立场坚定且目标导向明确，表现出强烈的责任感和使命感驱动。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "广泛关注并评论国际地缘政治事件，将台湾地区与其他地区的民主运动进行类比，展现出对国际事务的广泛兴趣和联系性思维。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "对特定对象使用“恶心、病态、麻烦制造者”等强烈贬损和对抗性语言，表现出低合作意愿和高对抗性，缺乏寻求共识的倾向。"
+        },
+        {
+          "term": "情绪稳定性中等偏负面",
+          "analysis": "言论基调以警觉、抗争和受害叙事为主，常表达对“胁迫、扩张主义、镇压”的愤怒与不屈服，情绪易受外部安全压力事件激发。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出明显的对抗性、受害者心态与二元对立思维",
+      "sub_items": [
+        {
+          "term": "对抗性人格倾向",
+          "analysis": "习惯于将复杂的地缘政治关系简化为“民主对抗威权”的二元叙事，主动将自己置于冲突的一方，并寻求与对立方的对抗。"
+        },
+        {
+          "term": "受害者心态",
+          "analysis": "反复强调自身是“跨国镇压”、“军事胁迫”和“信息战”的受害者，以此作为凝聚内部认同和博取国际同情的核心叙事。"
+        },
+        {
+          "term": "救世主/殉道者情结",
+          "analysis": "以“被制裁者”身份为荣，并将其标榜为“荣誉勋章”，表现出一种为“崇高理想”承受压力的自我英雄化倾向。"
+        },
+        {
+          "term": "偏执与敌意归因",
+          "analysis": "倾向于将对方的一切行动，包括军事演习、媒体发布等，均解读为具有恶意和压迫性的“扩张主义”行为，缺乏多元视角。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "analysis": "存在明显的确认偏误、群体内偏爱及基本归因错误",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注和放大任何批评或对抗中国大陆的言论与行动，将其视为对自身立场的验证和支持，忽略或弱化相反信息。"
+        },
+        {
+          "term": "群体内偏爱/外群体贬损",
+          "analysis": "将自身与“民主伙伴”、“共享价值观”的国家紧密绑定，形成“我们”的群体；同时将特定对象污名化为“威权”、“扩张主义”的“他们”。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将地区紧张局势完全归因于对方的“侵略性”和“扩张主义”等内部特质，忽视国际结构、历史经纬等外部情境因素。"
+        },
+        {
+          "term": "非黑即白思维",
+          "analysis": "认知框架高度简化，将世界划分为“自由民主”与“威权扩张”两大对立阵营，缺乏对中间地带和复杂性的认知容纳度。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖外部声援、言行易预测、存在过度曝光风险",
+      "sub_items": [
+        {
+          "term": "外部依赖脆弱性",
+          "analysis": "其安全信心和行动合法性高度依赖于持续获取美国、日本、加拿大、欧盟等外部政治和道义支持，外部政策变动会直接影响其立场稳固性。"
+        },
+        {
+          "term": "行为模式可预测性",
+          "analysis": "对特定类型的刺激（如军事演习、制裁）有固定的、强烈的抗议和寻求国际支持的回应模式，行为路径依赖性强，易被预判和应对。"
+        },
+        {
+          "term": "过度曝光与信息风险",
+          "analysis": "高度活跃于国际社交媒体，频繁披露外交行程、会议内容和政治立场，增加了信息被监控、分析和针对性反制的风险。"
+        },
+        {
+          "term": "情绪化决策诱因",
+          "analysis": "强烈的受害感和对抗情绪可能使其在危机时刻更倾向于采取象征性的强硬回应或冒险的“团结”行动，以安抚内部情绪，而非理性计算。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度意识形态化且单一，缺乏弹性与内部共识检验",
+      "sub_items": [
+        {
+          "term": "意识形态捆绑风险",
+          "analysis": "将自身存在与“对抗威权扩张”的全球意识形态叙事深度捆绑，一旦该叙事在国际舆论场失势或淡化，其立场吸引力将大幅削弱。"
+        },
+        {
+          "term": "立场单一缺乏弹性",
+          "analysis": "在所有议题上均采取鲜明对抗立场，缺乏在非核心议题上展现灵活性或进行交易的空间，使其在国际博弈中回旋余地小。"
+        },
+        {
+          "term": "内部共识脆弱性",
+          "analysis": "其强硬对抗立场主要迎合特定政治光谱，并未经过岛内全面的、跨阶层的共识检验，在面临重大代价时，内部支持可能存在裂痕。"
+        },
+        {
+          "term": "道德高地依赖性",
+          "analysis": "高度依赖占据“民主、自由、受害者”的道德高地来获得话语权。任何可能削弱其道德形象的事件（如内部治理问题）都会直接冲击其立场根基。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "战略能力局限于外交游说，缺乏实质性独立行动能力",
+      "sub_items": [
+        {
+          "term": "战略自主性缺失",
+          "analysis": "其核心战略——“联合民主伙伴以制衡”——的成功与否完全取决于外部大国的战略意愿和利益考量，自身缺乏主导或改变局面的关键能力。"
+        },
+        {
+          "term": "经济反制能力薄弱",
+          "analysis": "言论集中于政治与安全，极少提及经济议题。在面对经济领域的压力或制裁时，缺乏有效的反制工具或替代方案，脆弱性高。"
+        },
+        {
+          "term": "军事能力与威慑局限",
+          "analysis": "虽提及进行军事演习和增强防御能力，但整体叙事凸显的是“不屈从”的意志而非对等的实力，承认需要依赖外部（如美国军售）来增强能力。"
+        },
+        {
+          "term": "文化输出与叙事同质化",
+          "analysis": "文化叙事被简化为“民主自由”的政治标签，缺乏独特、深厚且具有普世吸引力的文化价值输出，叙事同质化严重，易被覆盖。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑驱动的过度警觉与身份认同危机",
+      "sub_items": [
+        {
+          "term": "生存焦虑与过度警觉",
+          "analysis": "言论中弥漫着对安全与生存的深切焦虑，导致其认知长期处于“威胁扫描”状态，对正常互动也可能产生过度防御和敌对解读。"
+        },
+        {
+          "term": "身份认同的表演性",
+          "analysis": "其“民主灯塔”、“不屈勇士”的公共身份需要通过持续对抗和获取国际认可来表演和维持，内心可能存在身份焦虑与表演压力。"
+        },
+        {
+          "term": "认知闭合需求强烈",
+          "analysis": "面对复杂局势，倾向于寻求简单、确定的解释框架（民主vs威权），对模糊性和不确定性容忍度低，这可能导致误判和决策僵化。"
+        },
+        {
+          "term": "情感耗竭风险",
+          "analysis": "长期维持高强度的对抗情绪和受害者心态，可能产生情感耗竭，导致要么反应麻木，要么在特定刺激下出现非理性的情绪爆发。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在推动台湾问题国际化，构建反华民主同盟",
+      "sub_items": [
+        {
+          "term": "推动问题国际化与常态化",
+          "analysis": "通过频繁与各国议会、政府互动，将地区议题包装成“全球民主安全”议题，意图使国际介入常态化，改变问题的原有性质。"
+        },
+        {
+          "term": "构建“价值观同盟”前线",
+          "analysis": "意图将自身定位为“第一岛链民主前线”，以此身份凝聚美日印澳及欧洲等国的支持，形成事实上的、针对特定对象的价值观同盟节点。"
+        },
+        {
+          "term": "塑造“被迫害民主典范”叙事",
+          "analysis": "通过持续宣传“制裁”、“威慑”等经历，塑造一个为民主价值受难的典范形象，旨在获取长期国际同情与支持，对冲统一压力。"
+        },
+        {
+          "term": "试探与固化外部承诺",
+          "analysis": "不断公开感谢外部支持，并呼吁更多行动，意在通过舆论抬高对方支持的成本，试探并试图固化外部势力的政治和安全承诺。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题高度集中于地缘政治对抗、民主价值与安全防御",
+      "sub_items": [
+        {
+          "term": "地缘政治对抗与联盟构建",
+          "analysis": "核心话题。持续讨论“印太”安全、第一岛链挑战，并积极描绘与加拿大、印度、欧盟、日本、菲律宾等的“团结”关系，构建对抗性联盟叙事。"
+        },
+        {
+          "term": "民主价值与威权扩张叙事",
+          "analysis": "基础叙事框架。将自身与伊朗抗议者等类比，将地区问题置于“全球民主对抗威权扩张”的宏大叙事下，以此寻求道义合法性和身份认同。"
+        },
+        {
+          "term": "军事安全与防御决心",
+          "analysis": "高频应激话题。对中国大陆的军事演习、威慑行动做出强烈反应，强调“永不屈服”、“坚决防御”，并展示军事准备和外部军购支持。"
+        },
+        {
+          "term": "信息战与跨国镇压指控",
+          "analysis": "舆论战话题。指控对方进行信息操控和利用社交平台进行“跨国镇压”，呼吁国际平台介入，旨在争夺网络空间话语权和道德制高点。"
+        },
+        {
+          "term": "节日外交与情感联结",
+          "analysis": "软性辅助话题。利用新年祝福、日常互动（如用日语发文）与特定国家（如日本）民众建立情感联结，巩固“友好”形象，服务于硬性政治目标。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      10
+    ],
+    [
+      0,
+      1,
+      9
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 31 10:22:55 +0000 2025",
+      "text": "Heartening to see #Taiwan receive support from both #Japan &amp; the #Philippines. As democratic partners in the #1stIslandChain, we face the same challenges, &amp; are bound by shared values to go through thick &amp; thin. We’re #StrongerTogether.\n\n🇹🇼🤝🇯🇵🤝🇵🇭 https://t.co/JBRFrZyjZx",
+      "translation": "令人振奋的是看到#台湾获得#日本和#菲律宾的支持。作为#第一岛链上的民主伙伴，我们面临相同的挑战，并因共同的价值观而紧密相连，共渡难关。我们#团结更强大。🇹🇼🤝🇯🇵🤝🇵🇭 https://t.co/JBRFrZyjZx",
+      "stance": "负面",
+      "metrics": {
+        "reply": 65,
+        "retweet": 236,
+        "like": 1021
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 05:33:32 +0000 2025",
+      "text": "Want to thank the #EU &amp; so many great friends around the world for voicing opposition to #China’s escalating mil threats against #Taiwan. Peace is a value we all cherish, but the #PRC is doing the opposite with expansionism &amp; militarism. We should say no to it unequivocally. https://t.co/0bC0KlMth3",
+      "translation": "感谢#欧盟和全球众多好朋友发声反对#中国对#台湾日益加剧的军事威胁。和平是我们都珍视的价值观，但#中华人民共和国却反其道而行之，推行扩张主义和军国主义。我们应明确表示反对。https://t.co/0bC0KlMth3",
+      "stance": "负面",
+      "metrics": {
+        "reply": 64,
+        "retweet": 112,
+        "like": 421
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 12:58:35 +0000 2026",
+      "text": "Wonderful to welcome #Canada’s MP delegation soon after the #PLA’s large-scale exercise. We passionately exchanged views on how to counter #China’s coercion &amp; #FIMI. We appreciate the MPs’ strong support for #Taiwan’s security, resilience, &amp; rightful role in the world.\n\n🇹🇼🤝🇨🇦 https://t.co/gg7WLbmvly",
+      "translation": "在#解放军大规模演习后不久，很高兴欢迎#加拿大的国会议员代表团。我们就如何应对#中国的胁迫和#FIMI进行了热烈的意见交流。我们感谢议员们对#台湾安全、韧性及其在世界中正当角色的坚定支持。🇹🇼🤝🇨🇦 https://t.co/gg7WLbmvly",
+      "stance": "负面",
+      "metrics": {
+        "reply": 51,
+        "retweet": 79,
+        "like": 512
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 08:30:25 +0000 2026",
+      "text": "Great to welcome the @Europarl_EN delegation led by @gahler_michael. We had a passionate discussion on the security environment in the #IndoPacific &amp; how #Taiwan &amp; #Europe can strengthen closer ties against authoritarian expansionism. \n\n🇹🇼🤝🇪🇺 https://t.co/d03rx3AnJf",
+      "translation": "很高兴欢迎由@gahler_michael率领的@Europarl_EN代表团。我们就#印太地区的安全环境以及#台湾和#欧洲如何加强更紧密的联系以对抗威权扩张主义进行了热烈的讨论。🇹🇼🤝🇪🇺 https://t.co/d03rx3AnJf",
+      "stance": "负面",
+      "metrics": {
+        "reply": 16,
+        "retweet": 48,
+        "like": 352
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 10:27:34 +0000 2025",
+      "text": "RT @ChingteLai: China’s military provocations along the First Island Chain severely disrupt global maritime trade, air traffic &amp; regional p…",
+      "translation": "RT @ChingteLai: 中国沿第一岛链的军事挑衅严重扰乱了全球海上贸易、空中交通和地区和平...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1392,
+        "retweet": 1082,
+        "like": 6242
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 10:14:18 +0000 2026",
+      "text": "President @ChingteLai spoke out against the #PRC’s sanctions and defended our officials for safeguarding our freedom and national security. As a sanctionee since 2021, I can say this clearly: we will never bow to #China’s transnational repression.",
+      "translation": "总统@ChingteLai发声反对#中华人民共和国的制裁，并为我们的官员捍卫我们的自由和国家安全进行辩护。作为自2021年以来的受制裁者，我可以明确地说：我们永远不会屈服于#中国的跨国镇压。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 20,
+        "retweet": 52,
+        "like": 197
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 11:37:29 +0000 2026",
+      "text": "At the start of the year, WE PROMISE to stand firm, protect our freedom &amp; defend our sovereignty. #Taiwan is proud &amp; brave. We’ll never bow to any military intimidation.\n\nhttps://t.co/yCmmq3ft9p",
+      "translation": "在新年伊始，我们承诺将坚定立场，保护我们的自由并捍卫我们的主权。#台湾是自豪且勇敢的。我们永远不会屈服于任何军事恐吓。https://t.co/yCmmq3ft9p",
+      "stance": "负面",
+      "metrics": {
+        "reply": 36,
+        "retweet": 59,
+        "like": 398
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 01:52:43 +0000 2026",
+      "text": "日本の友人の皆さん、新年おめでとうございます。2026年が素晴らしい一年になりますように。\n\n#台日友好\n🇹🇼❤️🇯🇵 https://t.co/f6Exebi3V6",
+      "translation": "日本的朋友们，新年快乐。愿2026年成为美好的一年。#台日友好 🇹🇼❤️🇯🇵 https://t.co/f6Exebi3V6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 435,
+        "retweet": 4616,
+        "like": 73021
+      }
+    },
+    {
+      "created_at": "Thu Jan 01 01:11:29 +0000 2026",
+      "text": "#HappyNewYear!\n\nProud to join @ChingteLai &amp; @bikhim for the ceremony. We’re united around the Flag to tell the world that #Taiwan is a vibrant democracy &amp; thriving economy, undeterred by authoritarian expansionism. 🇹🇼 https://t.co/0fEET4gtjP",
+      "translation": "#新年快乐！很自豪能与@ChingteLai和@bikhim一起参加仪式。我们团结在旗帜周围，告诉世界#台湾是一个充满活力的民主国家和蓬勃发展的经济体，不受威权扩张主义的阻挠。🇹🇼 https://t.co/0fEET4gtjP",
+      "stance": "负面",
+      "metrics": {
+        "reply": 21,
+        "retweet": 82,
+        "like": 591
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 04:41:03 +0000 2026",
+      "text": "Thankful to the gov’t of #India for expressing concern over #China’s recent military exercise that threatens #IndoPacific peace &amp; stability. The #PRC expansionism through force &amp; lawfare has victimized #Taiwan &amp; many others.\n\n🇹🇼🤝🇮🇳",
+      "translation": "感谢#印度政府对#中国最近的军事演习威胁#印太和平与稳定表示关切。#中华人民共和国通过武力和法律战的扩张主义已使#台湾和许多其他地区受害。🇹🇼🤝🇮🇳",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 54,
+        "like": 219
+      }
+    },
+    {
+      "created_at": "Sat Jan 10 02:06:46 +0000 2026",
+      "text": "The brave people of #Iran continue to rise up for freedom over tyranny. When I was young, #Taiwan also fought hard to push martial law into history &amp; established liberal democracy. Now our hearts are definitely with the #Iranian protesters.",
+      "translation": "#伊朗的勇敢人民继续为自由而非暴政而奋起。当我年轻时，#台湾也曾努力将戒严令推入历史，并建立了自由民主。现在我们的心无疑与#伊朗抗议者同在。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 203,
+        "retweet": 522,
+        "like": 1815
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 06:07:53 +0000 2026",
+      "text": "For those unaware, both @X &amp; #Facebook are banned in #China. Yet the communist regime runs official accounts just to wage information warfare against #Taiwan. I’m being modest when I describe the #CCP regime as disgusting &amp; sick.",
+      "translation": "对于那些不了解的人，@X和#Facebook在#中国都被禁止。然而，共产党政权却运营官方账户，只是为了对#台湾发动信息战。当我描述#中国共产党政权令人作呕和病态时，我是很克制的。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 86,
+        "retweet": 346,
+        "like": 2008
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 05:47:35 +0000 2026",
+      "text": "The #CCP is a sick, disgusting regime. Its state media posted @PumaShen’s private info on an official #Facebook page, an act of transnational repression that goes beyond what any society should tolerate. @Meta must take it down, &amp; the #PRC must be condemned. https://t.co/yTadyl5AG0",
+      "translation": "#中国共产党是一个病态、令人作呕的政权。其官方媒体在#Facebook官方页面上发布了@PumaShen的私人信息，这是一种跨国镇压行为，超出了任何社会应容忍的范围。@Meta必须将其删除，#中华人民共和国必须受到谴责。https://t.co/yTadyl5AG0",
+      "stance": "负面",
+      "metrics": {
+        "reply": 89,
+        "retweet": 269,
+        "like": 1466
+      }
+    },
+    {
+      "created_at": "Sat Dec 27 00:24:08 +0000 2025",
+      "text": "Congrats, @PalmerLuckey, &amp; welcome to the club of #ChiCom sanctionees. I’m sure many of your friends are just as jealous of this badge of honor as mine are. Of course, #Taiwan will continue working with you &amp; @anduriltech to strengthen our capabilities to deter #China.",
+      "translation": "恭喜@PalmerLuckey，欢迎加入#中共制裁者俱乐部。我相信你的许多朋友和我的一样，对这个荣誉徽章感到嫉妒。当然，#台湾将继续与你及@anduriltech合作，加强我们威慑#中国的能力。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 47,
+        "retweet": 130,
+        "like": 2275
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 06:16:02 +0000 2025",
+      "text": "As #China ramps up military threats against #Taiwan, our armed forces are conducting Rapid Response Exercises in response. We remain resolute &amp; unafraid. We’ll defend our sovereignty &amp; democracy at all times.\n\nhttps://t.co/y4HPIoSUQj",
+      "translation": "随着#中国加大对#台湾的军事威胁，我们的武装部队正在进行快速反应演习作为回应。我们保持坚定和无畏。我们将始终捍卫我们的主权和民主。https://t.co/y4HPIoSUQj",
+      "stance": "负面",
+      "metrics": {
+        "reply": 83,
+        "retweet": 148,
+        "like": 713
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 05:06:24 +0000 2025",
+      "text": "The #PRC is conducting a large-scale joint military exercise targeted at #Taiwan. It has also designated areas for live-fire tests. It’s an act of escalation, threatens regional peace, &amp; violates the basic principles embedded in the @UN Charter. #China is such a troublemaker. https://t.co/bmhMSlXTIk",
+      "translation": "#中华人民共和国正在进行一场针对#台湾的大规模联合军事演习。它还划定了实弹测试区域。这是一种升级行为，威胁地区和平，并违反了@联合国宪章所载的基本原则。#中国真是个麻烦制造者。https://t.co/bmhMSlXTIk",
+      "stance": "负面",
+      "metrics": {
+        "reply": 357,
+        "retweet": 579,
+        "like": 1883
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 00:49:07 +0000 2026",
+      "text": "I have always admired those who rise up against tyranny in pursuit of freedom. What’s unfolding in #Iran is a powerful lesson for other dictators, #CRINK or otherwise: people won’t tolerate oppression forever.",
+      "translation": "我一直钦佩那些为追求自由而奋起反抗暴政的人。#伊朗正在发生的事情对其他独裁者，#CRINK或其他，都是一个有力的教训：人民不会永远容忍压迫。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 86,
+        "retweet": 174,
+        "like": 707
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 14:00:02 +0000 2026",
+      "text": "RT @RepDonBacon: Recent military escalation &amp; provocations by China towards Taiwan underscores why President Trump is right to sell $11B in…",
+      "translation": "RT @RepDonBacon: 中国最近对台湾的军事升级和挑衅行为突显了为什么特朗普总统向台湾出售110亿美元武器是正确的...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 27,
+        "retweet": 50,
+        "like": 372
+      }
+    },
+    {
+      "created_at": "Fri Jan 02 01:21:30 +0000 2026",
+      "text": "#China’s military exercises toward #Taiwan &amp; others in the region were designed to intimidate &amp; coerce countries in the #IndoPacific. They’re provocative &amp; escalatory. I thank the @StateDept for issuing a statement on New Year’s Day urging restraint. https://t.co/qT15OTvOiL",
+      "translation": "#中国对#台湾及该地区其他国家的军事演习旨在恐吓和胁迫#印太地区的国家。它们是挑衅性和升级性的。我感谢@美国国务院在新年第一天发表声明敦促克制。https://t.co/qT15OTvOiL",
+      "stance": "负面",
+      "metrics": {
+        "reply": 38,
+        "retweet": 86,
+        "like": 417
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 06:30:25 +0000 2025",
+      "text": "今朝、河野太郎衆議院議員@konotarogomameをはじめとする日本の賓客の皆様と地域の安全保障について有意義な意見交換を行い、また頼清徳総統@ChingteLaiへの表敬訪問に同席でき大変嬉しく思います。国際情勢が不安定さを増す中、台湾と日本の協力はますます重要になっています。 https://t.co/JqG5kSjogo",
+      "translation": "今天早上，很高兴与以河野太郎众议院议员@konotarogomame为首的日本贵宾们就地区安全进行了有意义的意见交流，并很高兴能陪同他们礼节性拜访赖清德总统@ChingteLai。在国际局势日益不稳定的情况下，台湾与日本的合作变得越来越重要。https://t.co/JqG5kSjogo",
+      "stance": "负面",
+      "metrics": {
+        "reply": 25,
+        "retweet": 157,
+        "like": 925
+      }
+    }
+  ]
+}

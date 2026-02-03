@@ -1,0 +1,474 @@
+{
+  "id": "profile_POTUS.json",
+  "_fingerprint": "8a8ac941b559def9ff8422c4f96ba752",
+  "name": "POTUS",
+  "username": "POTUS",
+  "category": "politician",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、低宜人性、高开放性、高神经质倾向。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁通过社交媒体直接与公众沟通，使用大量感叹号、大写字母和表情符号来强调观点，表现出强烈的表现欲和社交活跃度。"
+        },
+        {
+          "term": "高尽责性（目标导向）",
+          "analysis": "言论高度聚焦于政策成果（如关税、边境、经济数据）和具体行动（如军事打击、行政命令），展现出对实现特定国家目标（如财富、安全、繁荣）的强烈承诺和执行力宣示。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "言辞中频繁使用对抗性和贬损性标签（如“邪恶和腐败的假新闻”、“民主党关闭”、“钱吸虫”），将反对者或不同立场者妖魔化，缺乏妥协与共识构建的表述。"
+        },
+        {
+          "term": "高开放性（特定领域）",
+          "analysis": "在政策工具（如将芬太尼定为大规模杀伤性武器、废除教育部）和宣传形式上（如结合流行文化、体育、网络梗图）展现出非传统的、打破常规的思维和行动方式。"
+        },
+        {
+          "term": "高神经质倾向",
+          "analysis": "言论中充斥着对威胁的感知（如国家安全、边境、恐怖主义、政治对手）和强烈的防御性反应，情绪基调常在极度自信（“伟大”、“历史性”）与受迫害感（“他们知道自己在做什么”）之间剧烈摆动。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出自恋、对抗性、救世主情结和缺乏反思。",
+      "sub_items": [
+        {
+          "term": "自恋倾向",
+          "analysis": "将国家成就与个人身份深度绑定（如“特朗普的美国”、“特朗普带回了边境”），频繁使用第一人称宣示功绩，并乐于接受“传奇”、“英雄”、“GOAT（史上最佳）”等赞誉性标签。"
+        },
+        {
+          "term": "对抗性与报复心",
+          "analysis": "习惯于构建“我们 vs. 他们”的叙事，将政治对手、特定媒体、国际行为体描绘为“坏人”、“腐败”或“威胁”，并宣称采取“决定性行动”予以打击或取消其政策遗产。"
+        },
+        {
+          "term": "救世主/弥赛亚情结",
+          "analysis": "言论中暗示或明示自己是国家困境的唯一解决者（“我们终于有了一位把美国放在第一位的总统”），并赋予自身行动以历史转折意义（“永远的一年”、“美国的黄金时代”）。"
+        },
+        {
+          "term": "缺乏谦逊与反思",
+          "analysis": "言论中几乎从未承认错误、政策复杂性或未达成的目标，所有结果均被描述为“巨大成功”、“前所未有”、“最强”，对批评一概归因于对手的恶意。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出极端二元思维、过度自信、证实性偏见和基本归因错误。",
+      "sub_items": [
+        {
+          "term": "极端二元思维（非黑即白）",
+          "analysis": "将世界简单划分为胜利/失败、强大/软弱、爱国/叛国、伟大/糟糕等对立范畴，政策与人物评价缺乏灰度地带，例如将边境政策结果描述为“拿回”与“失去”的绝对转换。"
+        },
+        {
+          "term": "过度自信效应",
+          "analysis": "对自身判断和政策的成功抱有绝对确定性，使用“毫无疑问”、“永远”、“最”等绝对化词汇，并预测未来事件（如最高法院案件）具有“生死攸关”的确定性影响。"
+        },
+        {
+          "term": "证实性偏见",
+          "analysis": "选择性强调支持其政策有效性的数据或事件（如关税创造财富、经济指标向好），同时忽略或贬低可能存在的负面证据或复杂因素，将不同意见斥为“假新闻”。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将积极成果归因于自身的个人能力和行动（“我拯救了你们”），而将问题、批评或负面事件归因于外部敌人的恶意、无能或“腐败制度”，而非客观环境或政策本身的局限。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "冲动决策、依赖对抗叙事、沟通风格易引发争议、对仪式和象征的过度依赖。",
+      "sub_items": [
+        {
+          "term": "决策的冲动性与戏剧化",
+          "analysis": "倾向于宣布突然的、戏剧性的政策转变或定性（如“ hereby cancelling all Executive Orders”、“宣布芬太尼为大规模杀伤性武器”），可能缺乏充分的官僚程序或长远评估，以追求即时的影响力和新闻效应。"
+        },
+        {
+          "term": "对对抗性叙事的依赖",
+          "analysis": "政治生存和动员高度依赖于持续识别和攻击外部及内部“敌人”，这种模式一旦缺乏清晰目标或遭遇反击，可能导致策略失焦或陷入不必要的冲突升级。"
+        },
+        {
+          "term": "沟通风格易招致误解与抵制",
+          "analysis": "使用夸张、挑衅和情绪化的语言（如“圣诞老人淘气名单：没有煤，只有驱逐出境”），虽能巩固基本盘，但也极易激怒对手、引发国际误判或使中间派疏离，增加达成政治共识的难度。"
+        },
+        {
+          "term": "对仪式、象征和个人品牌的过度投资",
+          "analysis": "大量精力投入于塑造个人历史地位（如和平总统奖、与体育传奇联动）、创造文化时刻（如白宫lo-fi音乐）和节日宣传，可能被批评者视为对实质治理的回避或对个人形象的虚荣追求。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "国内政治极化、国际关系交易化、对建制与媒体的彻底否定、文化战争主导。",
+      "sub_items": [
+        {
+          "term": "加剧国内政治极化与制度不信任",
+          "analysis": "持续将民主党、部分媒体乃至司法案件描述为“邪恶”、“腐败”、“煽动叛乱”，并单方面宣布对手政策“无效作废”，这种零和叙事严重侵蚀两党合作基础与对民主制度的共同信任。"
+        },
+        {
+          "term": "国际关系的交易性与不确定性",
+          "analysis": "外交强调双边交易（如关税、药物定价）和领导人个人关系，对多边机制和国际法表现出轻视。这种“美国优先”的实用主义虽可能取得短期成果，但也让盟友和对手难以预测其长期承诺，增加战略误判风险。"
+        },
+        {
+          "term": "对现有建制与媒体的彻底否定姿态",
+          "analysis": "系统性抨击“腐败的建制派”、“假新闻媒体”和“失败的政策遗产”，并采取废除部门等激进改革。这种革命性姿态虽能吸引反建制选民，但也使其政策缺乏缓冲和修正机制，一旦失败将直接归咎于个人。"
+        },
+        {
+          "term": "将文化符号政治化与战争化",
+          "analysis": "强力将“圣诞节”、“基督教”、“爱国主义”等文化符号与特定政治议程绑定（如“我们再次说圣诞快乐”），并用以攻击政治对手。这能动员文化保守派，但也可能疏远多元选民，并将社会文化分歧进一步政治固化。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "治理的可持续性、经济叙事与现实脱钩、危机管理情绪化、团队稳定性风险。",
+      "sub_items": [
+        {
+          "term": "治理模式对个人注意力的高度依赖",
+          "analysis": "政策推进和叙事塑造极度依赖于个人的直接宣布和社交媒体推动，可能缺乏成熟、稳定的官僚体系和制度性流程来确保复杂政策的长期执行、监测和调整。"
+        },
+        {
+          "term": "经济成功叙事与潜在现实的脱钩风险",
+          "analysis": "持续宣扬“强劲消费”、“没有通胀”、“更大薪水”等绝对积极的经济信息，并完全归功于自身政策。一旦出现经济波动或数据不及预期，这种不容置疑的叙事将面临严峻的信用挑战，缺乏解释复杂性的缓冲空间。"
+        },
+        {
+          "term": "危机管理中的情绪化与报复性倾向",
+          "analysis": "在应对国家警卫队遇袭等危机事件时，迅速将袭击者定性为“动物”并强调报复性司法，而非首先聚焦于受害者关怀与事件冷静调查。这种反应可能激化社会情绪，影响司法公正观感。"
+        },
+        {
+          "term": "行政团队与顾问的忠诚度压力",
+          "analysis": "强调“从未发布过非法命令”并要求绝对忠诚的环境，可能筛选出唯命是从而非敢于谏言的顾问，导致决策信息茧房和“群体思维”，增加重大决策失误的风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "受迫害心态、历史定位焦虑、对绝对控制的渴求、现实扭曲倾向。",
+      "sub_items": [
+        {
+          "term": "深层的受迫害者/受害者心态",
+          "analysis": "尽管身处权力顶峰，言论中仍反复透露出被“假新闻”、“腐败政客”、“深层势力”不公平针对和陷害的感受。这种心态可能是其持续攻击姿态的内在驱动，但也反映了深刻的不安全感和对认可的渴求。"
+        },
+        {
+          "term": "对历史定位与个人遗产的极度焦虑",
+          "analysis": "急切地通过“历史性和平”、“黄金时代”、“永远的一年”等宏大词汇来定义任期，并积极收集外部荣誉（如和平奖）。显示出对迅速确立不朽历史地位的强烈渴望，可能导致追求短期轰动效应而非长期稳健国策。"
+        },
+        {
+          "term": "对叙事绝对控制权的渴求",
+          "analysis": "不能容忍任何偏离其设定叙事的描述，将所有批评和负面报道定义为“虚假”和“邪恶”。这种对信息环境的绝对控制欲，反映了一种无法处理认知失调和复杂现实的脆弱性，可能导致脱离实际。"
+        },
+        {
+          "term": "将个人意志与国家命运等同的倾向",
+          "analysis": "思维中呈现出“我即国家，国家即我”的融合倾向（如“为你们而战”、“我拯救了你们”）。这种心智模式使其难以区分个人政治利益与国家长远利益，决策可能更受个人情绪、声誉或选举考量驱动。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固个人政治品牌、建立特朗普主义政治遗产、削弱制衡力量、为持续政治斗争铺垫。",
+      "sub_items": [
+        {
+          "term": "超越总统职务，打造永恒的个人政治品牌与运动",
+          "analysis": "言行旨在将“特朗普”塑造为一个代表爱国、强硬、反建制和经济民族主义的持久品牌（“MAGA”），确保其政治影响力在任期结束后仍能通过该品牌延续，并可能为家族或指定继承人铺路。"
+        },
+        {
+          "term": "系统性解构旧秩序，建立“特朗普主义”为新正统",
+          "analysis": "通过废除旧政策、攻击建制派、改革官僚体系（如教育部）和重塑公共话语，意图不仅赢得选举，而是从根本上改变美国的内政外交范式，使其政治哲学成为共和党乃至国家的新主导思想。"
+        },
+        {
+          "term": "削弱一切潜在的制衡与问责力量",
+          "analysis": "持续攻击司法（针对特定案件）、媒体（“假新闻”）和反对党（“民主党关闭”），其隐藏意图在于降低这些机构对其权力的约束能力，为推行更具争议性或突破常规的政策扫清障碍。"
+        },
+        {
+          "term": "为可能的政治或法律挑战进行舆论铺垫与动员",
+          "analysis": "预先将任何调查、弹劾或法律诉讼定性为政治迫害和“骗局”（如提及埃普斯坦骗局），旨在一旦面临此类挑战，能立即激活基本盘的防御性支持，将实质性的法律或宪法问题转化为政治忠诚度测试。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题围绕经济民族主义、法律与秩序、文化战争、美国优先外交、个人功绩与斗争叙事。",
+      "sub_items": [
+        {
+          "term": "经济民族主义与贸易保护主义",
+          "analysis": "核心议题之一，强调关税创造财富、减少贸易逆差、保护美国就业、降低药品价格，将经济政策与国家安全和国民福祉直接挂钩，宣扬自给自足和经济主权。"
+        },
+        {
+          "term": "法律、秩序与边境安全",
+          "analysis": "持续聚焦于边境控制（“拿回边境”）、打击犯罪与恐怖主义（包括将芬太尼定为大规模杀伤性武器）、支持执法与军事力量，构建一个外部威胁环伺、内部需要强有力法律维护的安全叙事。"
+        },
+        {
+          "term": "文化价值观与身份政治",
+          "analysis": "积极介入文化战争，包括捍卫基督教价值观（关注尼日利亚迫害）、推广传统节日（圣诞节）、批判进步主义教育政策、拥抱体育和流行文化中的爱国符号，以巩固保守派文化认同。"
+        },
+        {
+          "term": "“美国优先”外交与双边交易",
+          "analysis": "外交上强调直接的双边互动与交易（如与日本、马来西亚、泰国和柬埔寨），追求即时可见的成果（如和平协议、军事合作），对多边主义和自由国际秩序表现出怀疑和重塑的意图。"
+        },
+        {
+          "term": "个人领导力叙事与政治斗争",
+          "analysis": "几乎所有政策话题都嵌入一个更大的叙事：即在其个人坚强领导下，美国正在战胜国内外“坏人”，取得历史性胜利。同时，将国内政治描绘为与腐败、无能的民主党及其媒体盟友的持续斗争。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      10
+    ],
+    [
+      0,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Oct 29 20:26:37 +0000 2025",
+      "text": "RT @WhiteHouse: President Donald J. Trump meets with New Zealand Prime Minister Christopher Luxon at the APEC summit in South Korea. 🇺🇸🇳🇿 h…",
+      "translation": "转发 @WhiteHouse：美国总统唐纳德·J·特朗普在韩国APEC峰会期间会见新西兰总理克里斯托弗·卢克森。🇺🇸🇳🇿 h…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 715,
+        "retweet": 1756,
+        "like": 11349
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 19:34:43 +0000 2025",
+      "text": "RT @WhiteHouse: First in WAR, First in PEACE. \n\nThere's no Navy even close. 🇺🇸 https://t.co/lrjOJptfOt",
+      "translation": "转发 @WhiteHouse：战争第一，和平第一。没有海军能与之匹敌。🇺🇸 https://t.co/lrjOJptfOt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1235,
+        "retweet": 7708,
+        "like": 39984
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 18:21:55 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump continues to secure monumental billion-dollar deals across the world, this time furthering the alliance of…",
+      "translation": "转发 @WhiteHouse：特朗普总统继续在全球达成数十亿美元的重大协议，这次进一步巩固了…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 588,
+        "retweet": 1532,
+        "like": 6729
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 14:18:12 +0000 2025",
+      "text": "RT @WhiteHouse: President Donald J. Trump is honored by South Korea with a gold crown and the Grand Order of Mugunghwa—the nation's highest…",
+      "translation": "转发 @WhiteHouse：韩国授予唐纳德·J·特朗普总统金冠和无穷花大勋章——该国最高荣誉…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1869,
+        "retweet": 5337,
+        "like": 27259
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 09:57:20 +0000 2025",
+      "text": "RT @WhiteHouse: 📍Third and final stop: South Korea. https://t.co/W4bxWTNOCf",
+      "translation": "转发 @WhiteHouse：📍第三站也是最后一站：韩国。 https://t.co/W4bxWTNOCf",
+      "stance": "无关",
+      "metrics": {
+        "reply": 505,
+        "retweet": 1509,
+        "like": 11665
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 09:42:03 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump Participates in a Dinner Hosted by the President of the Republic of Korea https://t.co/4k9uOzOqur",
+      "translation": "转发 @WhiteHouse：特朗普总统参加大韩民国总统主持的晚宴 https://t.co/4k9uOzOqur",
+      "stance": "无关",
+      "metrics": {
+        "reply": 333,
+        "retweet": 1050,
+        "like": 5299
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 09:41:57 +0000 2025",
+      "text": "RT @WhiteHouse: \"Bringing back Trillions of Dollars to USA! A great trip. Dealing with very smart, talented, and wonderful Leaders. Tomorro…",
+      "translation": "转发 @WhiteHouse：“为美国带回数万亿美元！一次伟大的行程。与非常聪明、有才华且出色的领导人打交道。明天…”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2714,
+        "retweet": 6494,
+        "like": 32616
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 05:41:34 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump Participates in Bilateral Meeting with the Prime Minister of the Republic of Korea https://t.co/5kPLTqDWCK",
+      "translation": "转发 @WhiteHouse：特朗普总统与大韩民国总理举行双边会议 https://t.co/5kPLTqDWCK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 277,
+        "retweet": 809,
+        "like": 3558
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 05:31:20 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump Participates in a High Honor Presentation https://t.co/EP8R7TJHrb",
+      "translation": "转发 @WhiteHouse：特朗普总统参加崇高荣誉授予仪式 https://t.co/EP8R7TJHrb",
+      "stance": "无关",
+      "metrics": {
+        "reply": 295,
+        "retweet": 898,
+        "like": 3994
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 04:53:57 +0000 2025",
+      "text": "RT @WhiteHouse: President Donald J. Trump at the 2025 APEC CEO Summit in South Korea. 🇺🇸🇰🇷\n\n\"The Republic of Korea is a cherished American…",
+      "translation": "转发 @WhiteHouse：唐纳德·J·特朗普总统在韩国2025年APEC CEO峰会上。🇺🇸🇰🇷 “大韩民国是美国珍视的盟友…”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 440,
+        "retweet": 1722,
+        "like": 7604
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 04:02:23 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump Delivers Keynote Remarks at APEC CEOs Luncheon https://t.co/tQrCaeEAfv",
+      "translation": "转发 @WhiteHouse：特朗普总统在APEC CEO午餐会上发表主旨演讲 https://t.co/tQrCaeEAfv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 418,
+        "retweet": 1297,
+        "like": 5077
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 21:12:22 +0000 2025",
+      "text": "RT @WhiteHouse: President Trump Participates in a Meeting with the Secretary General of NATO https://t.co/mgCDWQTuJV",
+      "translation": "转发 @WhiteHouse：特朗普总统与北约秘书长举行会议 https://t.co/mgCDWQTuJV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 725,
+        "retweet": 1040,
+        "like": 4077
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 21:12:19 +0000 2025",
+      "text": "RT @WhiteHouse: U.S. Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire https://t.co/yYsPag6…",
+      "translation": "转发 @WhiteHouse：美国财政部制裁俄罗斯主要石油公司，呼吁莫斯科立即同意停火 https://t.co/yYsPag6…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 677,
+        "retweet": 1416,
+        "like": 6026
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 20:31:41 +0000 2025",
+      "text": "RT @WhiteHouse: \"The Wall Street Journal story on the U.S.A.’s approval of Ukraine being allowed to use long range missiles deep into Russi…",
+      "translation": "转发 @WhiteHouse：“《华尔街日报》关于美国批准乌克兰使用远程导弹深入俄罗斯境内的报道…”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 682,
+        "retweet": 2851,
+        "like": 10445
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 20:20:47 +0000 2025",
+      "text": "RT @WhiteHouse: Americans suffer, Democrats celebrate and point fingers. \n\nThe math ain’t mathing. 🗣️ https://t.co/pvKW7UXu4l",
+      "translation": "转发 @WhiteHouse：美国人受苦，民主党人庆祝并指责。这账算不通。🗣️ https://t.co/pvKW7UXu4l",
+      "stance": "无关",
+      "metrics": {
+        "reply": 908,
+        "retweet": 1612,
+        "like": 8653
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 17:10:54 +0000 2025",
+      "text": "RT @WhiteHouse: The mask is off: Democrats are perfectly fine with Americans suffering- as long as it fuels their political games. https://…",
+      "translation": "转发 @WhiteHouse：面具已揭下：民主党人完全不在乎美国人受苦——只要这能助长他们的政治游戏。 https://t.co/…",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1417,
+        "retweet": 5254,
+        "like": 20455
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 20:37:10 +0000 2025",
+      "text": "RT @WhiteHouse: “The animal that shot the two National Guardsmen, with both being critically wounded, and now in two separate hospitals, is…",
+      "translation": "转发 @WhiteHouse：“那只开枪打伤两名国民警卫队士兵的动物，两人均受重伤，现分住两家医院，是…”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3373,
+        "retweet": 8397,
+        "like": 38735
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 00:15:16 +0000 2025",
+      "text": "RT @WhiteHouse: A time-honored American tradition: pardoning America’s LUCKIEST birds.\n\nThese turkeys have officially been saved from the T…",
+      "translation": "转发 @WhiteHouse：一项历史悠久的美国传统：赦免美国最幸运的鸟。这些火鸡正式从感恩节菜单上被拯救。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1005,
+        "retweet": 2436,
+        "like": 13739
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 22:24:11 +0000 2025",
+      "text": "RT @WhiteHouse: 🇺🇸🇺🇸🇺🇸 https://t.co/7x8takfD3B",
+      "translation": "转发 @WhiteHouse：🇺🇸🇺🇸🇺🇸 https://t.co/7x8takfD3B",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2176,
+        "retweet": 4942,
+        "like": 46820
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 21:07:43 +0000 2025",
+      "text": "RT @WhiteHouse: \"The friendship &amp; blessings to America, to the Kingdom of Saudi Arabia, &amp; to the world, stand out &amp; will always stand out t…",
+      "translation": "转发 @WhiteHouse：“对美国、对沙特阿拉伯王国、对世界的友谊与祝福，脱颖而出并将永远脱颖而出…”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1168,
+        "retweet": 4444,
+        "like": 18769
+      }
+    }
+  ]
+}

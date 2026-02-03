@@ -1,0 +1,470 @@
+{
+  "id": "profile_opgovph.json",
+  "_fingerprint": "8b31c857e2dc01c00c97e700fda1ea06",
+  "name": "opgovph",
+  "username": "opgovph",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "频繁参与正式仪式、签署法案、主持政府框架发布，表现出强烈的责任感和组织纪律性，日程安排密集且高度结构化。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "积极参与公开演讲、社区会见、国际峰会和多边论坛，在国内外场合均展现出较强的公众沟通和社交互动倾向。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "关注数字治理、创新议程和可持续发展等现代议题，但活动多集中于传统政治外交框架内，对新范式的探索相对有限。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "注重与商业领袖、地方社区和国际伙伴的合作，但在安全事务、军队指挥等场合表现出较强的权威性和决策主导性。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在台风灾情等危机事件中能迅速组织应对和援助分发，情绪表现稳定，但公开行程密集可能隐含应对多重压力的潜在需求。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "仪式依赖、形象管理过度、决策集中倾向",
+      "sub_items": [
+        {
+          "term": "仪式依赖",
+          "analysis": "大量活动围绕典礼、签署、宣誓和启动仪式展开，可能过度重视形式象征而弱化实质政策落实的持续跟踪。"
+        },
+        {
+          "term": "形象管理过度",
+          "analysis": "公开行程高度媒体化，几乎所有活动均以直播或官方通报形式呈现，可能存在对公众形象控制的强烈需求，易受舆论波动影响。"
+        },
+        {
+          "term": "决策集中倾向",
+          "analysis": "频繁亲自领导或主持各类事务，从军队指挥变更到地方援助分发，显示出对中心化决策模式的偏好，可能削弱团队授权和基层自主性。"
+        },
+        {
+          "term": "外交事务优先波动",
+          "analysis": "国际行程如美国、沙特、东盟会议与国内活动交替密集进行，可能反映外交议程的响应性较强，但或导致国内长期战略的连贯性不足。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "权威偏误、可得性启发、过度自信效应",
+      "sub_items": [
+        {
+          "term": "权威偏误",
+          "analysis": "倾向于通过高层会议、国际峰会和精英对话获取信息，可能低估地方或非正式渠道的反馈价值，形成认知闭环。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "公开活动高度集中于媒体易达的仪式性场合，可能基于这些显性事件评估政策成效，忽视隐性或长期的社会经济指标。"
+        },
+        {
+          "term": "过度自信效应",
+          "analysis": "在多领域同时主导创新议程、安全指挥、灾情应对和国际外交，可能高估个人精力与专业知识的覆盖范围，导致决策盲点。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "通过会见支持性社区如海外菲律宾群体、商业领袖和党派成员，可能强化既有政策立场，减少对批判性意见的吸纳。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "行程过载、媒体依赖、仪式化行动、中心化决策",
+      "sub_items": [
+        {
+          "term": "行程过载",
+          "analysis": "高频的国内外行程与事件主持可能导致精力分散，降低对复杂议题的深度参与，并增加因疲劳引发的决策失误风险。"
+        },
+        {
+          "term": "媒体依赖",
+          "analysis": "几乎所有活动均设计为可公开传播的事件，一旦媒体环境变化或遭遇负面报道，可能影响其公众互动效能和议程设置能力。"
+        },
+        {
+          "term": "仪式化行动",
+          "analysis": "侧重典礼、签署和启动仪式的行为模式，可能掩盖政策执行阶段的挑战，导致公众期望与管理现实之间的落差。"
+        },
+        {
+          "term": "中心化决策",
+          "analysis": "个人频繁出现在操作层面如援助分发、军队指挥变更中，可能抑制官僚系统的主动性，形成决策瓶颈和单点故障风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "多边平衡压力、国内分配矛盾、创新与传统张力",
+      "sub_items": [
+        {
+          "term": "多边平衡压力",
+          "analysis": "同时参与东盟、联合国、美国及海湾国家合作框架，需在不同大国和区域集团间维持微妙平衡，立场易受国际格局变动冲击。"
+        },
+        {
+          "term": "国内分配矛盾",
+          "analysis": "推动创新议程与数字治理的同时，需应对台风灾情等基层民生问题，可能面临资源分配与政策优先级的内在冲突。"
+        },
+        {
+          "term": "创新与传统张力",
+          "analysis": "倡导2030年创新议程与可持续发展，但政治活动仍深植于党派宣誓、军队仪式等传统结构中，改革进程可能遭遇体制惯性阻力。"
+        },
+        {
+          "term": "经济开放风险",
+          "analysis": "通过美国经济简报、沙特商业会议积极吸引外资，但可能加剧国内经济对外部波动的敏感性，需平衡开放收益与自主性保护。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "执行深度不足、专业领域依赖、危机管理广度挑战",
+      "sub_items": [
+        {
+          "term": "执行深度不足",
+          "analysis": "活动多集中于政策启动与象征性签署，缺乏对后续实施成效的持续跟踪与公开评估，可能影响长期治理能力的可信度。"
+        },
+        {
+          "term": "专业领域依赖",
+          "analysis": "在创新战略、数字治理、军事安全等多领域同时发声，可能高度依赖专家团队，个人直接专业知识覆盖存在局限。"
+        },
+        {
+          "term": "危机管理广度挑战",
+          "analysis": "虽能快速响应台风灾情，但面对同时发生的多重危机如经济波动、外交摩擦、社会动荡时，资源与注意力分配可能面临严峻考验。"
+        },
+        {
+          "term": "国际议程协调能力",
+          "analysis": "频繁穿梭于不同国际论坛，需协调东盟、联合国、双边伙伴等多重承诺，对复杂外交议程的同步推进能力构成持续挑战。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "形象维持压力、决策疲劳、期望管理负担",
+      "sub_items": [
+        {
+          "term": "形象维持压力",
+          "analysis": "持续处于高度曝光的公共角色中，需长期维持积极、权威、亲民的复合形象，可能积累心理负荷并影响真实情绪管理。"
+        },
+        {
+          "term": "决策疲劳",
+          "analysis": "密集行程涉及大量即时决策，从商业会议到灾情简报，可能导致认知资源耗竭，降低复杂情境下的判断质量。"
+        },
+        {
+          "term": "期望管理负担",
+          "analysis": "通过公开承诺推动创新、就业、可持续发展等宏大议程，可能引发公众高期望，一旦进展不及预期易转化为信誉压力。"
+        },
+        {
+          "term": "多任务切换损耗",
+          "analysis": "频繁在国防安全、经济外交、国内政治、灾害应对等不同语境间切换，可能影响心智聚焦深度和战略连贯性思考。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治传承、重塑国际形象、平衡大国关系、推动技术治理",
+      "sub_items": [
+        {
+          "term": "巩固政治传承",
+          "analysis": "通过主持联邦党成员宣誓、军队指挥变更等仪式，强化党内与安全机构的忠诚度，延续家族政治影响力。"
+        },
+        {
+          "term": "重塑国际形象",
+          "analysis": "借助美国、沙特等多边外交活动，展示菲律宾作为新兴经济体和可靠伙伴的角色，提升国家在全球舞台的能见度。"
+        },
+        {
+          "term": "平衡大国关系",
+          "analysis": "在东盟框架内合作的同时，深化与美、沙等国的经济安全联系，意图在大国竞争中寻求多元对冲与利益最大化。"
+        },
+        {
+          "term": "推动技术治理",
+          "analysis": "倡导数字治理与创新议程，旨在通过技术升级提升政府效能与经济竞争力，为长期执政积累现代化政绩。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "经济创新、多边外交、国内治理、安全仪式",
+      "sub_items": [
+        {
+          "term": "经济创新",
+          "analysis": "核心议题包括国家创新议程、数字治理、可持续发展和商业合作，旨在推动经济转型并吸引国际投资。"
+        },
+        {
+          "term": "多边外交",
+          "analysis": "频繁参与东盟、联合国、美国及海湾国家论坛，强调菲律宾在国际事务中的积极参与和伙伴关系构建。"
+        },
+        {
+          "term": "国内治理",
+          "analysis": "关注就业法案签署、灾情应对、社区援助和地方论坛，展现对民生议题和基层稳定的重视。"
+        },
+        {
+          "term": "安全仪式",
+          "analysis": "涉及军队指挥变更、安全小组典礼等事务，凸显对国防机构与政治忠诚仪式的传统关注。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      2,
+      2,
+      8
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 27 06:38:27 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. leads launching of the National Innovation Agenda and Strategy Document (NIASD) 2023-2032 | September 27, 2023\n\nhttps://t.co/qfhSdAa9w6",
+      "translation": "直播：总统费迪南德·R·马科斯主持《2023-2032年国家创新议程与战略文件》启动仪式 | 2023年9月27日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Sep 27 01:44:45 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. leads the ceremonial signing of the Trabaho Para sa Bayan Act | September 27, 2023\n\nhttps://t.co/33V2rjCccv",
+      "translation": "直播：总统费迪南德·R·马科斯主持《国家就业法案》签署仪式 | 2023年9月27日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Wed Oct 18 06:00:16 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. presides over the Presidential Security Group Change of Command Ceremony | October 18, 2023\n\nhttps://t.co/B0faqn81mY",
+      "translation": "直播：总统费迪南德·R·马科斯主持总统安全部队指挥官交接仪式 | 2023年10月18日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Nov 15 20:06:24 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. delivers his keynote address at the Philippine Economic Briefing in California, USA | November 15, 2023 (CA, USA time)\n\nhttps://t.co/fJV2YIXmNR",
+      "translation": "直播：总统费迪南德·R·马科斯在美国加利福尼亚州菲律宾经济简报会上发表主旨演讲 | 2023年11月15日（美国加州时间）",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Wed Nov 15 00:46:22 +0000 2023",
+      "text": "President Ferdinand R. Marcos Jr. commences his official visit to California with a meeting with the Filipino community that has gathered in San Francisco | November 14, 2023 (CA, USA time)\n\nhttps://t.co/ChC6rn5xip",
+      "translation": "总统费迪南德·R·马科斯在旧金山会见当地菲律宾社区，开启对加利福尼亚州的正式访问 | 2023年11月14日（美国加州时间）",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Wed Nov 08 03:32:16 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. keynotes the HANDA Pilipinas Visayas Leg launch in Tacloban City| November 8, 2023\n\nhttps://t.co/QVDzzKHxMe",
+      "translation": "直播：总统费迪南德·R·马科斯在塔克洛班市主持“菲律宾准备就绪”维萨亚斯站启动仪式并发表主旨演讲 | 2023年11月8日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Tue Sep 05 03:12:57 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. joins co-ASEAN heads of state for the opening of the 43rd ASEAN Summit and Related Summits | September 5, 2023\n\nhttps://t.co/clWNyn7rYS",
+      "translation": "直播：总统费迪南德·R·马科斯与其他东盟国家元首共同出席第43届东盟峰会及相关峰会开幕式 | 2023年9月5日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18,
+        "retweet": 2,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Sep 05 02:42:48 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. joins the opening ceremony of the 43rd ASEAN Summit today, September 5, 2023\n\nhttps://t.co/YGZ2szapbw",
+      "translation": "直播：总统费迪南德·R·马科斯出席今日（2023年9月5日）第43届东盟峰会开幕式",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 2,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Tue Oct 24 06:10:39 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. leads the ceremonial signing of the United Nations Sustainable Development Cooperation Framework 2024-2028 | October 24, 2023\n\nhttps://t.co/yyl7BMpDpx",
+      "translation": "直播：总统费迪南德·R·马科斯主持《2024-2028年联合国可持续发展合作框架》签署仪式 | 2023年10月24日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Thu Oct 19 13:30:14 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. holds a roundtable meeting with business leaders in Riyadh, Saudi Arabia | October 19, 2023\n\nhttps://t.co/Jy8lEWXtry",
+      "translation": "直播：总统费迪南德·R·马科斯在沙特阿拉伯利雅得与商界领袖举行圆桌会议 | 2023年10月19日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 7,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Thu Aug 24 02:13:02 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. will lead the oath-taking ceremony for the new members of the Partido Federal ng Pilipinas.| August 24, 2023\n\nhttps://t.co/eXUtIYUbj4",
+      "translation": "直播：总统费迪南德·R·马科斯将主持菲律宾联邦党新成员宣誓就职仪式 | 2023年8月24日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 28,
+        "retweet": 4,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Sat Oct 21 07:04:35 +0000 2023",
+      "text": "President Ferdinand R. Marcos Jr. delivers his arrival statement following his participation in the ASEAN-GCC Summit held in Riyadh, Saudi Arabia | October 21, 2023\n\nhttps://t.co/VWnwXEoFYJ",
+      "translation": "总统费迪南德·R·马科斯在沙特阿拉伯利雅得参加东盟-海湾合作委员会峰会后发表抵达声明 | 2023年10月21日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 1,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Aug 14 06:04:19 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. witnesses the signing of the memorandum of understanding and launching of the Media and Information Literacy Campaign in Pasay City | August 14, 2023\n\nhttps://t.co/fxK6bEpn9e",
+      "translation": "直播：总统费迪南德·R·马科斯在帕赛市见证谅解备忘录签署及媒体与信息素养宣传活动启动仪式 | 2023年8月14日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 5,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Aug 07 07:18:37 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. takes charge of the Philippine Army Change of Command for Lieutenant General Roy Galido at Fort Bonifacio, Taguig City | August 7, 2023\n\nhttps://t.co/udEK92GF9C",
+      "translation": "直播：总统费迪南德·R·马科斯在塔吉格市博尼法西奥堡主持罗伊·加利多中将的菲律宾陆军指挥官交接仪式 | 2023年8月7日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 5,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Aug 07 03:23:28 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. heads the situation briefing in Bulacan on the damage caused by recent typhoons and persistent southwest monsoon rains | August 7, 2023\n\nhttps://t.co/aDRhkwwa7N",
+      "translation": "直播：总统费迪南德·R·马科斯在布拉干省主持灾情简报会，评估近期台风及持续西南季风降雨造成的损失 | 2023年8月7日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 15,
+        "like": 82
+      }
+    },
+    {
+      "created_at": "Mon Aug 07 03:15:40 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. oversees the distribution of assistance to typhoon-affected communities in Bulacan | August 7, 2023\n\nhttps://t.co/5RLlXuhKRQ",
+      "translation": "直播：总统费迪南德·R·马科斯监督向布拉干省台风受灾社区分发援助物资 | 2023年8月7日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 11,
+        "like": 70
+      }
+    },
+    {
+      "created_at": "Fri Oct 27 02:03:17 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. addresses the Philippine Mayors Forum in Quezon City, focusing on \"Innovation, Digital Governance, and Resiliency for the 2030 Agenda\" | October 27, 2023\n\nhttps://t.co/Y9yuJU2sRJ",
+      "translation": "直播：总统费迪南德·马科斯在奎松市菲律宾市长论坛上发表演讲，聚焦“2030议程的创新、数字治理与韧性” | 2023年10月27日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 4,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Fri Oct 20 16:03:16 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. meets the Filipino community in Riyadh, Saudi Arabia | October 20, 2023\n\nhttps://t.co/BB6VA0jidh",
+      "translation": "直播：总统费迪南德·R·马科斯在沙特阿拉伯利雅得会见当地菲律宾社区 | 2023年10月20日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 5,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Fri Oct 06 05:20:52 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. spearheads the distribution of smuggled rice confiscated by the Bureau of Customs to 4Ps beneficiaries in Binirayan, Antique | October 6, 2023\n\nhttps://t.co/4s32QV5OT3",
+      "translation": "直播：总统费迪南德·R·马科斯在安蒂克省比尼拉扬主持向“4Ps”计划受益人分发海关查获走私大米的活动 | 2023年10月6日",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 2,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Fri Nov 03 01:18:22 +0000 2023",
+      "text": "LIVE: President Ferdinand R. Marcos Jr. holds a press briefing today, November 3, 2023.\n\nhttps://t.co/nbHs0f5Ap7",
+      "translation": "直播：总统费迪南德·R·马科斯于今日（2023年11月3日）举行新闻发布会",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 8
+      }
+    }
+  ]
+}

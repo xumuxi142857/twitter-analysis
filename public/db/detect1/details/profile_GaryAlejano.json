@@ -1,0 +1,470 @@
+{
+  "id": "profile_GaryAlejano.json",
+  "_fingerprint": "fadb3cd630bb18e7cad2454ab64cb298",
+  "name": "GaryAlejano",
+  "username": "GaryAlejano",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等宜人性、中等神经质、中等外向性。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "表现出强烈的责任感和原则性，强调公民监督政府的义务，并提及个人长期服役经历，体现了对规则和职责的重视。"
+        },
+        {
+          "term": "开放性高",
+          "analysis": "广泛评论政治、经济、社会、外交等多个领域议题，展现出对复杂社会问题的关注和思考意愿。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "对特定政治人物和群体表现出批判甚至讽刺态度，但在家庭和节日祝福中又展现出温情的一面，情感表达具有情境选择性。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "言论中透露出对国家危机、主权问题、政府滥权的担忧和焦虑，情绪基调偏严肃，但未表现出极端的情绪失控。"
+        },
+        {
+          "term": "外向性中等",
+          "analysis": "通过社交媒体公开发表政治和社会评论，表现出一定的表达欲和参与公共事务的倾向，但样本未显示强烈的社交主导特征。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在理想主义、对抗性倾向和潜在的道德优越感。",
+      "sub_items": [
+        {
+          "term": "理想主义倾向",
+          "analysis": "对民主、问责、主权等原则抱有较高期待，当现实政治运作与之不符时，容易产生强烈的失望和批判情绪。"
+        },
+        {
+          "term": "对抗性姿态",
+          "analysis": "在批评政府政策或特定官员时，语言直接且带有挑衅意味，倾向于将立场分歧构建为是非对立。"
+        },
+        {
+          "term": "潜在道德标榜",
+          "analysis": "通过强调个人原则、长期服役经历或家庭价值观，间接构建自身在道德或操守上的优越立场，以支撑其批判观点。"
+        },
+        {
+          "term": "阴谋论思维倾向",
+          "analysis": "在分析某些政治事件时，倾向于假设存在隐藏的恶意动机或内部勾结，例如暗示政策制定者为外部势力服务。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体归因偏误和负面信息偏好。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于寻找和接受能够证实其既有政治立场和对当局负面看法的信息，对相反证据可能持怀疑或忽视态度。"
+        },
+        {
+          "term": "群体归因偏误",
+          "analysis": "容易将政治对手或特定政府机构的行为归因于其整体的负面特质，如指责整个体系腐败或丧失原则，而非具体情境因素。"
+        },
+        {
+          "term": "负面信息偏好",
+          "analysis": "关注和传播的内容多集中于政府失败、政策危机、主权受损等负面议题，对积极进展或复杂性的讨论较少。"
+        },
+        {
+          "term": "二元对立框架",
+          "analysis": "常使用非此即彼的叙事框架，如民主与独裁、原则与利益、国家利益与个人私利等，简化了复杂政治现实的灰度。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开对抗、情绪化表达和依赖特定叙事框架。",
+      "sub_items": [
+        {
+          "term": "公开对抗行为",
+          "analysis": "在公开平台直接批评当权者和政策，使其容易成为政治打压或网络攻击的目标，个人风险较高。"
+        },
+        {
+          "term": "情绪化表达",
+          "analysis": "部分言论使用反问、讽刺、感叹等强烈情绪色彩的语言，可能削弱其论证的逻辑性，并易被对手贴上情绪化或非理性的标签。"
+        },
+        {
+          "term": "依赖特定叙事",
+          "analysis": "其批判多围绕“民主受侵蚀”、“主权让步”、“政府失效”等核心叙事，若这些叙事被成功解构或现实发生显著变化，其影响力基础可能动摇。"
+        },
+        {
+          "term": "身份标签绑定",
+          "analysis": "其前军人身份和原则捍卫者形象是其公信力的重要来源，但也使其容易受到针对个人历史或道德瑕疵的攻击。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "鲜明的反建制立场使其易被孤立，且立场连贯性面临现实挑战。",
+      "sub_items": [
+        {
+          "term": "政治立场极化",
+          "analysis": "对现政府持强烈批判态度，几乎未见到对执政方的肯定，这种极化立场可能限制其与执政阵营沟通或合作的空间，易被边缘化。"
+        },
+        {
+          "term": "外交立场刚性",
+          "analysis": "在涉及主权和外交的议题上立场强硬且公开，缺乏回旋余地，使其在相关谈判或政策调整中难以扮演灵活角色。"
+        },
+        {
+          "term": "依赖特定政治联盟",
+          "analysis": "言论中对特定反对派人物表现出支持，其政治影响力与反对派阵营的兴衰存在一定绑定关系，独立性可能受限。"
+        },
+        {
+          "term": "理想与现实的落差",
+          "analysis": "其倡导的民主监督、政策透明等原则在复杂政治现实中往往难以完全实现，这种落差可能导致其支持者失望或使其言论显得不切实际。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "批判能力突出，但建设性政策提议和复杂局势操作能力未见明显体现。",
+      "sub_items": [
+        {
+          "term": "政策细节缺失",
+          "analysis": "言论多集中于指出问题和表达原则立场，但较少提供具体、可行、系统性的替代政策方案或实施路径。"
+        },
+        {
+          "term": "行政经验局限",
+          "analysis": "尽管有军事背景，但样本未展示其在复杂民事行政管理、跨部门协调或经济政策制定方面的具体经验或深度见解。"
+        },
+        {
+          "term": "联盟构建能力存疑",
+          "analysis": "其对抗性言论可能不利于争取中间派或温和派的支持，在构建广泛政治联盟以实现其主张方面可能面临挑战。"
+        },
+        {
+          "term": "风险应对策略单一",
+          "analysis": "面对政治打压或资产冻结等威胁，其回应主要停留在公开谴责和道德指控层面，未见提及法律、组织或国际层面的具体应对策略。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在使命感带来的压力、对现状的焦虑感以及潜在的孤立感。",
+      "sub_items": [
+        {
+          "term": "救世主情结压力",
+          "analysis": "将发声和抗争视为公民责任和对抗滥权的必要之举，这种强烈的使命感可能带来持续的心理压力和道德负担。"
+        },
+        {
+          "term": "现状焦虑感",
+          "analysis": "对国家在粮食安全、主权、反腐等方面的前景表现出深切忧虑，这种持续的负面预期可能影响其判断的客观性和决策的冷静度。"
+        },
+        {
+          "term": "潜在孤立感",
+          "analysis": "其批判立场可能使其在主流政治或官僚体系中感到孤立，样本中提及机构内部不合作，暗示了这种处境可能带来的挫折感。"
+        },
+        {
+          "term": "身份认同冲突",
+          "analysis": "作为前军人，其国家忠诚与对现政府政策的强烈批判之间可能存在内在张力，这种冲突在涉及国家安全和外交的议题上尤为明显。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图塑造反对派道德标杆，动员公众监督，并可能为政治生涯积累资本。",
+      "sub_items": [
+        {
+          "term": "塑造道德与原则形象",
+          "analysis": "通过强调民主价值、问责制和军人操守，意图将自身塑造为腐败或无能政府的对立面，即道德和原则的捍卫者。"
+        },
+        {
+          "term": "动员公众政治参与",
+          "analysis": "批评公众沉默和呼吁站出来，隐含意图是激发更广泛的社会监督和反对声音，对政府形成舆论压力。"
+        },
+        {
+          "term": "积累政治资本",
+          "analysis": "持续的、高调的批判可能旨在巩固其在反对派阵营中的地位和公众影响力，为未来可能的更直接政治角色铺路。"
+        },
+        {
+          "term": "影响政策议程",
+          "analysis": "通过聚焦粮食安全、反腐、主权等议题并关联政府失职，意图将这些议题推入公共辩论中心，迫使政府回应或调整。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注国内政治治理、外交主权、社会经济正义及个人价值观。",
+      "sub_items": [
+        {
+          "term": "国内政治与民主治理",
+          "analysis": "频繁批评政府问责缺失、权力滥用、打压反对派，强调民主原则和公民监督权利，这是其言论最核心的领域。"
+        },
+        {
+          "term": "外交与国家安全主权",
+          "analysis": "强烈关注南海等主权议题，批评政府在外交上让步，将主权问题与民族尊严直接挂钩，立场鲜明且情绪强烈。"
+        },
+        {
+          "term": "社会经济与民生正义",
+          "analysis": "涉及粮食安全、经济政策、财富分配不公、反腐等议题，批评政策损害平民利益或纵容精英获利。"
+        },
+        {
+          "term": "个人价值观与身份认同",
+          "analysis": "通过分享军旅记忆、家庭节日祝福、对原则的坚持，塑造其尽责、有信仰、重视传统的个人形象，作为其政治立场的背书。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 45
+    },
+    {
+      "name": "同伴",
+      "value": 40
+    },
+    {
+      "name": "亲情",
+      "value": 15
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 06 09:51:19 +0000 2019",
+      "text": "Di pa nga nagsisimula may conclusion ka na. Tsk tsk. Manood ka muna at makikita mo. https://t.co/EAF3ItftTU",
+      "translation": "还没开始你就已经有结论了。啧啧。你先看看再说吧。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 78,
+        "retweet": 76,
+        "like": 520
+      }
+    },
+    {
+      "created_at": "Wed Nov 06 05:29:29 +0000 2019",
+      "text": "This is a symbolic capitulation of our sovereignty. We should instead have protested the inclusion of WPS in the 9-dash line map printed on Chinese passports. \n\nhttps://t.co/81wJ7t4a6o",
+      "translation": "这是我们主权象征性的投降。我们本应抗议中国护照上印制的九段线地图将西菲律宾海（南海）纳入其中。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 71,
+        "like": 177
+      }
+    },
+    {
+      "created_at": "Wed Dec 25 05:13:49 +0000 2019",
+      "text": "MALIGAYANG PASKO MULA SA AMING PAMILYA!\n\nDalangin namin ang isang mapayapa at masayang selebrasyon ng bawat pamilyang Pilipino.\n\n#JesusIsTheReason\n#ForTheSeason https://t.co/bqCfmgjBhM",
+      "translation": "来自我们家庭的圣诞快乐！我们祈祷每个菲律宾家庭都有一个和平、快乐的庆祝活动。#耶稣是原因 #为了这个季节",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 40,
+        "like": 958
+      }
+    },
+    {
+      "created_at": "Tue Nov 19 14:34:54 +0000 2019",
+      "text": "Who are the enemies of the state? Was there any official declaration of such in the past? Panelo might be referring to \"THEIR\" enemies and not of the state. \n\nhttps://t.co/H7mw7IdCL4",
+      "translation": "谁是国家的敌人？过去有任何官方声明吗？帕内洛可能指的是“他们的”敌人，而不是国家的敌人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 89,
+        "like": 382
+      }
+    },
+    {
+      "created_at": "Tue Nov 05 00:02:47 +0000 2019",
+      "text": "Money over dignity and principles, very much reflective of Philippine politics.\n\nhttps://t.co/V7TgPYHQuq",
+      "translation": "金钱高于尊严和原则，这非常反映了菲律宾政治。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 54,
+        "like": 131
+      }
+    },
+    {
+      "created_at": "Tue Jan 07 13:19:35 +0000 2020",
+      "text": "Mas masakit ba pag si VP Leni ang magsabi? https://t.co/Gu93vD2oJG",
+      "translation": "如果是副总统莱尼说出来会更伤人吗？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 43,
+        "retweet": 188,
+        "like": 1055
+      }
+    },
+    {
+      "created_at": "Tue Jan 07 13:17:49 +0000 2020",
+      "text": "So ano kaya tawag sa 1%?",
+      "translation": "那么，1%的人该怎么称呼呢？",
+      "stance": "无关",
+      "metrics": {
+        "reply": 37,
+        "retweet": 31,
+        "like": 270
+      }
+    },
+    {
+      "created_at": "Tue Jan 07 13:14:04 +0000 2020",
+      "text": "VP Leni based her report on the data she gathered. What Duterte should have done is to refute it instead of an opinion out of thin air...Anyway, he has been doing that before but sadly many allowed him to take them on a ride.",
+      "translation": "副总统莱尼的报告基于她收集的数据。杜特尔特本应做的是反驳它，而不是凭空发表意见……无论如何，他以前一直这样做，但可悲的是，许多人允许他牵着鼻子走。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 17,
+        "retweet": 96,
+        "like": 558
+      }
+    },
+    {
+      "created_at": "Thu Dec 12 10:21:10 +0000 2019",
+      "text": "Alam na kung sino ang matatamaan nito. Ang masakit yung freezing of assets. Sayang ang nakulimbat at tinago sa ibang bansa...\n\nhttps://t.co/xKnmJYecgS",
+      "translation": "已经知道谁会因此受到影响。痛苦的是资产被冻结。可惜那些贪污并藏匿在国外的钱……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23,
+        "retweet": 125,
+        "like": 561
+      }
+    },
+    {
+      "created_at": "Thu Apr 02 00:17:08 +0000 2020",
+      "text": "Easy to order to kill and they are efficient with it but when it comes to saving lives, nahhh...",
+      "translation": "下令杀人很容易，他们在这方面很高效，但说到拯救生命，嗯……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 61,
+        "retweet": 240,
+        "like": 1170
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 08:09:11 +0000 2019",
+      "text": "High value targets are state secret. They are well guarded. No one touches them.",
+      "translation": "高价值目标是国家机密。他们受到严密保护。没人能碰他们。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 15,
+        "retweet": 97,
+        "like": 354
+      }
+    },
+    {
+      "created_at": "Sun Jun 30 02:01:28 +0000 2019",
+      "text": "FINAL REPORT CARD\n\nTo Him be all the glory!\n https://t.co/kClaQOFVXu https://t.co/K8jSV0qbMC",
+      "translation": "最终成绩单 愿所有的荣耀都归于他！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 60,
+        "retweet": 83,
+        "like": 482
+      }
+    },
+    {
+      "created_at": "Sun Dec 29 03:49:00 +0000 2019",
+      "text": "\"FOOT LOCKER\"\n\nAng box na ito ay kasa-kasama ko ng dalawampu't apat (24) na taon na, mula nang ako ay tenyente pa lamang sa Marine Corps hanggang ngayon.\n\nhttps://t.co/nYLpGX9MF9    \n#PhilippineMarineCorps\n#chooseonlythemeaningful https://t.co/h4a1UzrsnT",
+      "translation": "“FOOT LOCKER” 这个盒子陪伴我二十四年了，从我还在海军陆战队当少尉到现在。#菲律宾海军陆战队 #只选择有意义的事",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 10,
+        "like": 122
+      }
+    },
+    {
+      "created_at": "Mon Nov 18 09:52:32 +0000 2019",
+      "text": "Mahirap manghuli ng di mo alam sino ang huhulihin. Payuhan ka pa ng supposedly subordinates sa org structure. Kaya nga hinamon si VP para patunayan niya that what she wants will work. Di oobra yan pag ICAD members mismo ang ayaw magcooperate\nhttps://t.co/fPmBTtjX8t",
+      "translation": "很难抓捕你不知道要抓谁的人。甚至被组织结构中本应是下属的人建议。这就是为什么向副总统挑战，让她证明她想要的会奏效。如果ICAD成员自己不愿意合作，那就不行。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 46,
+        "retweet": 91,
+        "like": 439
+      }
+    },
+    {
+      "created_at": "Mon Nov 04 23:42:36 +0000 2019",
+      "text": "You need a Chinese puppet to make Chinese-friendly policies.  https://t.co/OI7G4y56EN",
+      "translation": "你需要一个中国的傀儡来制定对中国友好的政策。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 16,
+        "retweet": 83,
+        "like": 352
+      }
+    },
+    {
+      "created_at": "Mon Feb 24 11:00:42 +0000 2020",
+      "text": "Sa mga pangyayari ngayon hindi pwedeng manahimik na lamang at hahayaang umabuso ang mga nakaupo sa gobyerno. Its our duty to speak and stand up. Demokrasya pa rin tayo at hindi diktatorya..MABUHAY!\n\n#DemokrasyaPaRin",
+      "translation": "在当今的事件中，我们不能只是保持沉默，任由政府中的当权者滥用权力。我们有责任发声并站出来。我们仍然是民主国家，而不是独裁国家……万岁！#仍然是民主",
+      "stance": "无关",
+      "metrics": {
+        "reply": 52,
+        "retweet": 196,
+        "like": 1162
+      }
+    },
+    {
+      "created_at": "Mon Dec 02 14:36:56 +0000 2019",
+      "text": "Then that would be too late already...\n https://t.co/i6GaPl7xp2",
+      "translation": "那到时候就太晚了……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 49,
+        "retweet": 64,
+        "like": 370
+      }
+    },
+    {
+      "created_at": "Mon Apr 13 22:52:10 +0000 2020",
+      "text": "https://t.co/UpRbRFplcb",
+      "translation": "",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Nov 22 05:45:23 +0000 2019",
+      "text": "This is humility... https://t.co/8jFLunfay2",
+      "translation": "这是谦逊……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 125,
+        "retweet": 61,
+        "like": 532
+      }
+    },
+    {
+      "created_at": "Fri Apr 03 03:27:08 +0000 2020",
+      "text": "Looming crisis. Sinong hindi kumakain ng rice? 🙋🏼‍♂️ What have we done to prepare? #RiceSelfSufficiency #RiceTarrification #FoodSecurity #MAISBill https://t.co/JbpgmPKIKk",
+      "translation": "危机迫在眉睫。谁不吃米饭？🙋🏼‍♂️ 我们做了什么准备？#大米自给自足 #大米关税化 #粮食安全 #MAIS法案",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 47,
+        "like": 162
+      }
+    }
+  ]
+}

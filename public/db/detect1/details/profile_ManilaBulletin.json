@@ -1,0 +1,474 @@
+{
+  "id": "profile_ManilaBulletin.json",
+  "_fingerprint": "da69a6feabe1729495366792df483f04",
+  "name": "ManilaBulletin",
+  "username": "manilabulletin",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "内容发布遵循严格的时间规律和格式标准，涵盖政府公告、经济数据、社会新闻等结构化信息，体现对信息准确性和时效性的重视，符合媒体机构的专业规范。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "报道范围广泛，从政治、经济到体育、娱乐均有涉猎，但内容多基于事实陈述或官方消息，较少展现深度评论或个人独特视角，创新性表达有限。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "在报道争议性政治话题（如弹劾投诉）时保持中立措辞，避免直接攻击性语言；但在社会议题（如税收问题）的评论中会表达对公众情绪的共鸣，整体偏向平衡而非极端对立。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "积极转发其他媒体（如balitaphl、mbsportsonline）的内容并标注来源，显示合作与网络互动倾向；但原创内容以信息传递为主，较少主动引发公众讨论或情感动员。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "面对负面事件（如火灾、垃圾问题）时报道语气平稳，未出现过度情绪化或焦虑性表述；但在涉及国家形象（如旅游宣传）时表现出积极维护的倾向，情绪波动可控。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在保守倾向、被动依赖和表面化处理缺陷。",
+      "sub_items": [
+        {
+          "term": "保守倾向",
+          "analysis": "在政治报道中倾向于引用官方声明或程序性描述（如弹劾投诉“交由委员会处理”），避免深入质疑或批判性分析，可能反映出对权威结构的过度遵从。"
+        },
+        {
+          "term": "被动依赖",
+          "analysis": "大量内容依赖转发其他媒体或机构消息，原创深度报道较少，显示出对外部信源的较强依赖性，可能影响独立判断能力的展现。"
+        },
+        {
+          "term": "表面化处理",
+          "analysis": "对复杂议题（如税收改革、环境数据）的报道多停留在事实陈述层面，缺乏背景分析或解决方案探讨，可能削弱议题的长期影响力。"
+        },
+        {
+          "term": "回避冲突",
+          "analysis": "在涉及国际敏感话题（如海岸警卫队互动）时，直接引用官员“专业性”表述而未加评析，显示出对潜在争议的回避态度。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威偏见、证实性偏见和可得性启发。",
+      "sub_items": [
+        {
+          "term": "权威偏见",
+          "analysis": "频繁引用政府机构（如总统府、环境部、海岸警卫队）、地方官员或官方数据作为信息核心，赋予其较高可信度，可能忽略非官方视角。"
+        },
+        {
+          "term": "证实性偏见",
+          "analysis": "在宣传国家旅游吸引力时，选择性引用国际媒体（如Condé Nast）的正面评价，强化“菲律宾美丽”的既有印象，未平衡提及潜在问题。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "报道内容高度依赖即时事件（如火灾、汇率、体育赛事），对长期性、系统性议题（如税收制度根本改革）的持续关注不足，易受新闻热点驱动。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "将弹劾投诉描述为“过程进行中”而非政治危机，使用程序性语言淡化事件冲击力，显示通过特定叙事框架软化争议的倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "存在信息源单一、反应模式固定和深度缺失脆弱点。",
+      "sub_items": [
+        {
+          "term": "信息源单一",
+          "analysis": "政治、经济类信息过度依赖政府及官方机构，社会新闻多来自合作媒体，缺乏多元信源（如民间组织、专家评论）的交叉验证，易受单一叙事影响。"
+        },
+        {
+          "term": "反应模式固定",
+          "analysis": "对各类事件均采用“事实陈述+链接”的标准发布格式，缺乏差异化应对策略（如深度调查、互动问答），模式化操作可能降低内容吸引力。"
+        },
+        {
+          "term": "深度缺失",
+          "analysis": "多数报道为简短消息或转发，仅少数标注“观点”的文章提供有限评论，整体缺乏背景挖掘、趋势分析或长期跟踪，影响信息附加值。"
+        },
+        {
+          "term": "被动议程设置",
+          "analysis": "议程多由外部事件（如官方公告、突发新闻）驱动，而非主动设定调查性议题或公共辩论焦点，削弱媒体引领作用。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治中立性、国际报道平衡性和社会议题深度上存在脆弱点。",
+      "sub_items": [
+        {
+          "term": "政治中立性模糊",
+          "analysis": "报道总统弹劾投诉时引用官方“交由过程”回应，未独立评估事件实质；同时转发娱乐化政治八卦（如名人新闻），可能稀释严肃议题的关注度。"
+        },
+        {
+          "term": "国际报道平衡性不足",
+          "analysis": "报道中国外交互动时仅陈述事实（如市长与大使会面），未提供背景或多元视角；在海岸警卫队事件中直接引用“专业性”表述，缺乏独立分析。"
+        },
+        {
+          "term": "社会议题深度有限",
+          "analysis": "报道税收、垃圾等问题时停留于现象描述或数据公布，未深入探讨结构性成因、政策缺陷或公众应对方案，立场表达流于表面。"
+        },
+        {
+          "term": "文化宣传倾向明显",
+          "analysis": "积极宣传国家旅游形象、体育成就，使用“天堂岛屿”“梦想成真”等情感化语言，显示出强化民族自豪感的明确倾向，可能忽略相关批评声音。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在调查能力、分析能力和创新传播能力上存在不足。",
+      "sub_items": [
+        {
+          "term": "调查能力薄弱",
+          "analysis": "内容多为信息汇总或转发，未见独立调查报道（如税收腐败内幕、环境数据核实），揭示深层问题的能力有限。"
+        },
+        {
+          "term": "分析能力不足",
+          "analysis": "对经济数据（如汇率）、社会统计（如垃圾量）仅做公布，缺乏趋势解读、影响分析或国际比较，信息处理停留在初级层面。"
+        },
+        {
+          "term": "创新传播能力欠缺",
+          "analysis": "传播形式单一（文本+链接），未有效利用多媒体、互动元素或叙事技巧提升吸引力；观点类内容占比低，影响力依赖传统新闻模式。"
+        },
+        {
+          "term": "议程设置能力有限",
+          "analysis": "未能主导公共讨论方向，更多是反应性报道；议题选择偏向安全范畴（体育、灾害），回避可能引发广泛争议的深度社会改革话题。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "表现出风险规避、情感抑制和认同依赖倾向。",
+      "sub_items": [
+        {
+          "term": "风险规避倾向",
+          "analysis": "在报道政治敏感话题时优先采用程序性、中性语言，避免立场鲜明或预测性判断，反映出对潜在争议或报复的规避心态。"
+        },
+        {
+          "term": "情感抑制",
+          "analysis": "面对负面事件（如行人死亡、火灾）时保持冷静客观语调，极少流露同情或愤怒等个人情绪，可能削弱与受众的情感连接。"
+        },
+        {
+          "term": "认同依赖",
+          "analysis": "通过宣传国家成就（体育、旅游）强化集体认同感，依赖这种正向反馈维持影响力，可能对批评性或反思性内容产生潜意识排斥。"
+        },
+        {
+          "term": "确定性追求",
+          "analysis": "偏好报道已发生事实或官方定论（如数据、公告），对不确定性高、观点分歧的议题（如政策辩论）涉足较少，显示对模糊情境的耐受度低。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图包括维持机构权威、平衡政治关系、提升国家形象和保障商业稳定。",
+      "sub_items": [
+        {
+          "term": "维持机构权威",
+          "analysis": "通过频繁发布官方信息、遵循传统新闻格式，强化其作为可靠主流媒体的地位，旨在巩固在信息生态中的权威角色而非颠覆性力量。"
+        },
+        {
+          "term": "平衡政治关系",
+          "analysis": "在报道国内政治争议时采用中性措辞，既不完全倒向政府也不煽动对立，意图维持与各政治势力的可操作关系，确保长期存续空间。"
+        },
+        {
+          "term": "提升国家形象",
+          "analysis": "积极宣传旅游资源、体育成就、地方发展倡议，隐藏意图是塑造积极国家叙事，间接服务国家软实力建设或旅游业经济利益。"
+        },
+        {
+          "term": "保障商业稳定",
+          "analysis": "避免深度触及可能影响商业环境的话题（如税收制度根本批判），侧重事实报道而非倡导激进改革，反映维护现有经济秩序稳定的意图。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心领域包括国内政治、社会经济、体育文化、国际事务和公共安全。",
+      "sub_items": [
+        {
+          "term": "国内政治",
+          "analysis": "重点关注政府动态、政策公告、政治程序（如弹劾投诉处理），强调流程性与官方视角，避免深度政治分析或立场表态。"
+        },
+        {
+          "term": "社会经济",
+          "analysis": "涵盖税收、汇率、环境数据、地方经济倡议（如直航提案）等，以数据发布和事实描述为主，缺乏经济政策批判或社会不平等探讨。"
+        },
+        {
+          "term": "体育文化",
+          "analysis": "大量报道体育赛事（网球、篮球、电竞）、娱乐新闻及旅游宣传，突出国家成就与正面形象，承担部分文化推广功能。"
+        },
+        {
+          "term": "国际事务",
+          "analysis": "涉及中国外交互动、海岸警卫队事件等，报道简短且基于事实陈述，未展现深入的地缘政治分析或明确国际立场。"
+        },
+        {
+          "term": "公共安全",
+          "analysis": "报道灾害（火灾、洪水）、事故（交通事故）及防灾项目，侧重事件通报与官方应对，未深入追究责任或系统安全漏洞。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      6
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 27 08:30:00 +0000 2026",
+      "text": "For decades, the mention of the Bureau of Internal Revenue (BIR) has often evoked a mix of fear, frustration, and a sigh of resignation among Filipino businesses and individual taxpayers. #MBOpinions\n\nREAD: https://t.co/1iB5RvNL92 https://t.co/n5vwifAF17",
+      "translation": "几十年来，菲律宾国内税务局（BIR）的提及常常在菲律宾企业和个人纳税人中引发恐惧、沮丧和无奈叹息的混合情绪。#MBOpinions 阅读：https://t.co/1iB5RvNL92 https://t.co/n5vwifAF17",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:29:18 +0000 2026",
+      "text": "RT @balitaphl: Impeachment complaint vs PBBM, wala nang puwedeng humabol!—Garafil @manilabulletin  https://t.co/isAkwodg8V",
+      "translation": "RT @balitaphl：针对PBBM的弹劾投诉，现已无人能追诉！—Garafil @manilabulletin https://t.co/isAkwodg8V",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:28:05 +0000 2026",
+      "text": "Alex Eala’s dream debut on home soil is off to a winning start—and she’s not ready to stop just yet.\nWith another big crowd expected to rally behind her, the Filipina ace eyes a quarterfinal berth at the WTA 125 Philippine Women’s Open at the Rizal Memorial Tennis Center on https://t.co/JJBjqTiA1a",
+      "translation": "亚历克斯·埃拉在祖国梦寐以求的首秀以胜利开局——她还不打算就此止步。随着另一大群观众预计将为她加油，这位菲律宾王牌选手瞄准了在黎刹纪念网球中心举行的WTA 125菲律宾女子公开赛的四分之一决赛席位。https://t.co/JJBjqTiA1a",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:23:47 +0000 2026",
+      "text": "A motor yacht caught fire off Tingloy, Batangas on Tuesday morning, Jan. 27, the Philippine Coast Guard said (PCG).\n\nhttps://t.co/pCzEgREFoC",
+      "translation": "菲律宾海岸警卫队（PCG）表示，一艘机动游艇于1月27日星期二上午在八打雁省廷洛伊附近起火。https://t.co/pCzEgREFoC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:21:53 +0000 2026",
+      "text": "Philippine Peso - US Dollar exchange rate as of January 27, 2026. https://t.co/4voqv8G9dW",
+      "translation": "截至2026年1月27日的菲律宾比索兑美元汇率。https://t.co/4voqv8G9dW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:20:36 +0000 2026",
+      "text": "RT @mbsportsonline: San Miguel might have taken the lead in PBA Season 50 Philippine Cup Finals series but it remains on its toes as it exp…",
+      "translation": "RT @mbsportsonline：圣米格尔可能在PBA第50赛季菲律宾杯决赛系列赛中领先，但它仍然保持警惕，因为它预计...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 08:00:00 +0000 2026",
+      "text": "Gov. Arthur “Toto” Defensor Jr. is pushing the proposal for direct flights between Iloilo and South Korea.\n\nhttps://t.co/h8PWk3tXH9",
+      "translation": "省长亚瑟·“托托”·德芬索尔正在推动伊洛伊洛与韩国之间直飞航班的提议。https://t.co/h8PWk3tXH9",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:59:54 +0000 2026",
+      "text": "RT @balitaphl: Tarriela sa ‘di paggamit ng PCG ng water canon vs. CCG: ‘Ito ay pagpapakita ng propesyonalismo!’  @manilabulletin  https://t…",
+      "translation": "RT @balitaphl：塔里埃拉就PCG未对中国海警使用水炮一事表示：‘这是专业精神的体现！’ @manilabulletin https://t.co/...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:45:00 +0000 2026",
+      "text": "Officials of the Manila city government on Tuesday, Jan. 27, broke ground for the soon-to-be-built Manila City Disaster Risk Reduction and Management Office (MCDRRMO) Flood Monitoring Command Center aimed at strengthening flood preparedness through real-time data and coordinated",
+      "translation": "马尼拉市政府官员于1月27日星期二为即将建成的马尼拉市灾害风险减少与管理办公室（MCDRRMO）洪水监测指挥中心举行了奠基仪式，旨在通过实时数据和协调加强防洪准备。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:36:53 +0000 2026",
+      "text": "RT @balitaphl: Mayor Baste, nakadaupang-palad si Chinese Embassy Ambassador Jing Quan @manilabulletin  https://t.co/G3JF3rZViJ",
+      "translation": "RT @balitaphl：巴斯特市长与中国大使馆景权大使会面 @manilabulletin https://t.co/G3JF3rZViJ",
+      "stance": "中立",
+      "metrics": {
+        "reply": 3,
+        "retweet": 1,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:30:00 +0000 2026",
+      "text": "With around 7,000 of the “most heavenly islands in the world,” according to Condé Nast Traveler magazine, there is no doubt that the Philippines is beautiful and worth visiting. #MBOpinions\n\nREAD: https://t.co/7DCocctw7C https://t.co/vh9K6agKSF",
+      "translation": "根据《康泰纳仕旅行者》杂志的说法，菲律宾拥有大约7000个‘世界上最天堂般的岛屿’，毫无疑问，菲律宾是美丽的，值得一游。#MBOpinions 阅读：https://t.co/7DCocctw7C https://t.co/vh9K6agKSF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:24:16 +0000 2026",
+      "text": "RT @balitaphl: Maria Ozawa, binenta suot na panty kay Boss Toyo; pinasinghot pa sa 'ilong ranger'  @manilabulletin  https://t.co/VvJ77VJR0L",
+      "translation": "RT @balitaphl：玛丽亚·小泽，出售穿过的内裤给Boss Toyo；还让‘鼻子游侠’闻了闻 @manilabulletin https://t.co/VvJ77VJR0L",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:24:14 +0000 2026",
+      "text": "RT @mbsportsonline: With another big crowd expected to rally behind her, the Filipina ace eyes a quarterfinal berth at the WTA 125 Philippi…",
+      "translation": "RT @mbsportsonline：随着另一大群观众预计将为她加油，这位菲律宾王牌选手瞄准了WTA 125菲律宾女子公开赛的四分之一决赛席位...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:15:00 +0000 2026",
+      "text": "More than four million metric tons of garbage were generated in the National Capital Region (NCR) in 2025, the Department of Environment and Natural Resources (DENR) said Tuesday, Jan. 27.\n\nhttps://t.co/31YuY38BWX",
+      "translation": "环境与自然资源部（DENR）于1月27日星期二表示，2025年国家首都区（NCR）产生了超过400万公吨的垃圾。https://t.co/31YuY38BWX",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 07:00:31 +0000 2026",
+      "text": "Almighty ever-living God, direct our actions according to your good pleasure, that in the name of your beloved Son we may abound in good works.\n\nAmen. https://t.co/vo6deYDae2",
+      "translation": "全能永生的上帝，请根据您的喜悦指引我们的行动，以便以您爱子的名义，我们能在善行中丰盛。阿门。https://t.co/vo6deYDae2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 06:51:29 +0000 2026",
+      "text": "RT @balitaphl: 2 impeachment complaint vs PBBM, pag-atake rin sa administrasyon—Palasyo @manilabulletin  https://t.co/eksaZTTzSe",
+      "translation": "RT @balitaphl：针对PBBM的两项弹劾投诉，也是对政府的攻击—马拉坎南宫 @manilabulletin https://t.co/eksaZTTzSe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 06:39:00 +0000 2026",
+      "text": "RT @mbsportsonline: All the struggles and sacrifices have finally paid off for Aurora Gaming roamer Dylan “Light” Catipon as not only he le…",
+      "translation": "RT @mbsportsonline：所有的挣扎和牺牲终于为Aurora Gaming的漫游者迪伦·‘光’·卡蒂蓬带来了回报，不仅他带领...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 06:30:44 +0000 2026",
+      "text": "Malacañang is letting the process take its course after the two impeachment complaints filed against President Marcos have already been referred to the House Committee on Justice.\n\nREAD: https://t.co/XpowWlzCmA https://t.co/qw3HkhNOoo",
+      "translation": "在针对马科斯总统的两项弹劾投诉已提交给众议院司法委员会后，马拉坎南宫正让程序自行推进。阅读：https://t.co/XpowWlzCmA https://t.co/qw3HkhNOoo",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 06:12:44 +0000 2026",
+      "text": "At a time when public discourse is weighed down by cynicism and despair—much of it fueled by recurring scandals of corruption and abuse of power—the annual recognition of The Outstanding Filipino (TOFIL) awardees stands as a quiet but resolute counterpoint. #MBOpinions\n\nREAD: https://t.co/EFEvFjRGz0",
+      "translation": "在公共讨论因愤世嫉俗和绝望而沉重——其中许多是由反复出现的腐败和权力滥用丑闻所助长——之际，年度杰出菲律宾人（TOFIL）获奖者的认可，作为一个安静但坚定的对立面而存在。#MBOpinions 阅读：https://t.co/EFEvFjRGz0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Jan 27 06:12:07 +0000 2026",
+      "text": "A woman died after being hit by a car while crossing a pedestrian lane on her way home in Cainta, Rizal on Sunday evening, Jan. 25.\n\nhttps://t.co/ZlANopdX6w",
+      "translation": "一名女子于1月25日星期日晚在黎刹省卡因塔回家途中，在行人穿越道上被一辆汽车撞倒后死亡。https://t.co/ZlANopdX6w",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    }
+  ]
+}

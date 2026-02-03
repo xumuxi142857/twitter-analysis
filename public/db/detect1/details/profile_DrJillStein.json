@@ -1,0 +1,474 @@
+{
+  "id": "profile_DrJillStein.json",
+  "_fingerprint": "b11061a967cf631325ff7355a2ebd089",
+  "name": "DrJillStein",
+  "username": "DrJillStein",
+  "category": "media",
+  "daily_count": 0.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、低宜人性、中等尽责性、高神经质、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛关注并转发涉及全球地缘政治、社会运动、媒体批判等多元且非主流视角的话题，表现出对复杂社会议题的强烈好奇心和接纳度。"
+        },
+        {
+          "term": "宜人性极低",
+          "analysis": "言论充满对抗性和尖锐批判，频繁使用“heartless, soulless, brain-dead”、“disgrace”、“terrorized”等强烈贬义词汇攻击政治对手、建制派和特定国家机构，缺乏妥协或共情表达。"
+        },
+        {
+          "term": "尽责性中等偏冲突导向",
+          "analysis": "展现出对特定政治理念（如反建制、反帝国主义）的执着和行动呼吁（如“Resistance starts now”），但这种尽责性主要体现在对抗现有体系上，而非建设性秩序维护。"
+        },
+        {
+          "term": "神经质较高",
+          "analysis": "情绪表达强烈且多为负面，如愤怒、蔑视和危机感，常描绘“boots are already on our neck”等压迫性图景，显示情绪易受政治社会事件激发且稳定性不足。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "通过大量转发和评论参与公共话语，表现出社交参与度，但互动形式以传播特定立场内容为主，而非广泛社交连接。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出明显的偏执、敌对、救世主情结与二元对立思维。",
+      "sub_items": [
+        {
+          "term": "偏执与敌对",
+          "analysis": "倾向于将事件解读为系统性、有意的压迫与阴谋，如指控媒体算法压制信息、两党共同制造“灾难”，对政治实体抱有根深蒂固的不信任和敌意。"
+        },
+        {
+          "term": "救世主/反抗者情结",
+          "analysis": "以“人民起义”领袖或觉醒者自居，使用“我们”、“人民”等集体代词，并发出“United we're unstoppable”等动员口号，暗示自身在引领对抗“邪恶”势力的斗争中扮演关键角色。"
+        },
+        {
+          "term": "极端理想主义与脱离实际",
+          "analysis": "倡导彻底推翻现有两党制（“twin parties of war and Wall Street”），追求一种未被明确定义的“people-powered politics”乌托邦，缺乏具体可行的过渡方案。"
+        },
+        {
+          "term": "缺乏自我反思与妥协精神",
+          "analysis": "言论中从未出现对自身立场可能局限性的探讨，或对对立观点合理性的承认，表现为绝对正确的心态和零和博弈思维。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在强烈的确认偏误、群体内偏爱、阴谋论倾向和负面信息偏好。",
+      "sub_items": [
+        {
+          "term": "确认偏误与选择性关注",
+          "analysis": "只转发和强调符合其反美帝国主义、反建制、亲特定国际运动（如巴勒斯坦）叙事的信息，自动过滤或忽视相反证据。"
+        },
+        {
+          "term": "群体内/外偏见",
+          "analysis": "明确划分“我们”（人民、抵抗者）与“他们”（建制政客、帝国、媒体、华尔街），并对“外群体”进行整体性污名化。"
+        },
+        {
+          "term": "阴谋论思维倾向",
+          "analysis": "倾向于相信事件背后存在隐秘的权力操纵，如暗示媒体与算法合谋掩盖事实，将国际关系简单归结为“傀儡”与“帝国”的对抗叙事。"
+        },
+        {
+          "term": "负面信息偏好",
+          "analysis": "言论样本几乎全部聚焦于冲突、压迫、不公和暴力事件（如警察暴力、帝国恐怖、战争废墟），极少或从不提及积极进展或合作成果。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖情绪化动员、易陷入信息茧房、言行激进易招致封禁、组织力存疑。",
+      "sub_items": [
+        {
+          "term": "情绪化动员依赖",
+          "analysis": "影响力高度依赖激发愤怒、恐惧和反抗情绪，一旦受众情绪疲劳或事件热度下降，动员效果可能迅速衰减。"
+        },
+        {
+          "term": "信息源单一与回声室效应",
+          "analysis": "主要转发立场高度一致的特定博主或媒体内容，长期处于信息茧房，可能导致对局势的误判和脱离主流社会共识。"
+        },
+        {
+          "term": "平台规则高风险",
+          "analysis": "发布内容包含煽动性语言（“Resistance starts now”）和对执法机构的尖锐指控，容易违反社交媒体平台关于暴力煽动或骚扰的政策，导致账号受限。"
+        },
+        {
+          "term": "行动协调能力薄弱",
+          "analysis": "言论止于线上转发和口号式呼吁，缺乏线下具体行动组织、资源调配或可持续战略的展示，实际转化能力成疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场极端化导致受众狭窄，国际立场双重标准，国内主张空洞化，易被对手标签化。",
+      "sub_items": [
+        {
+          "term": "政治光谱边缘化",
+          "analysis": "同时激烈反对美国两党建制派和主流媒体，将自身置于国内政治光谱的极边缘位置，难以吸引中间派或温和派支持，政治影响力天花板低。"
+        },
+        {
+          "term": "国际议题的双重标准嫌疑",
+          "analysis": "强烈谴责美国及其盟友的干预行为，但对其他地区性冲突或威权政府的类似行为未置可否或选择性忽视，这种不一致易被指责为虚伪或受特定议程驱动。"
+        },
+        {
+          "term": "破坏性大于建设性",
+          "analysis": "核心主张是“推翻”与“抵抗”，但对“推翻之后如何建设”缺乏清晰、务实、有共识的蓝图，使其立场容易被批评为纯粹破坏性的虚无主义。"
+        },
+        {
+          "term": "易被对手简单定性",
+          "analysis": "激进的反体制和亲某些被美政府敌视的国家/运动（如古巴、巴勒斯坦抵抗运动）的立场，使其极易被政治对手贴上“反美”、“极端主义”或“外国代理人”等标签进行攻击。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "政策制定能力缺失，经济治理思路空白，联盟构建能力不足，危机管理经验缺乏。",
+      "sub_items": [
+        {
+          "term": "具体政策制定能力缺失",
+          "analysis": "言论集中于批判，从未展示出在财政、医疗、教育、能源等具体国内治理领域提出详尽、可操作政策方案的能力。"
+        },
+        {
+          "term": "经济与民生议题薄弱",
+          "analysis": "除了笼统反对“Wall Street”，对如何管理经济、创造就业、应对通胀等选民核心关切缺乏任何实质性论述，显示出在经济治理方面的严重能力短板。"
+        },
+        {
+          "term": "跨阵营联盟构建能力不足",
+          "analysis": "其二元对立和尖锐批判的言论风格，不仅疏远对手，也可能吓退潜在盟友（如对现状不满但寻求渐进改革的温和派），暴露出团结广泛力量的能力缺陷。"
+        },
+        {
+          "term": "行政与危机管理经验空白",
+          "analysis": "所有言论均未体现任何行政执行、官僚体系管理或突发公共危机（如疫情、自然灾害）应对的思考或经验，令人质疑其领导实际政务的能力。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在理想化幻想，现实感知扭曲，承受挫折能力弱，可能存在情感耗竭。",
+      "sub_items": [
+        {
+          "term": "理想化与幻灭循环风险",
+          "analysis": "对“人民政治”抱有近乎完美的幻想，但现实政治充满妥协和瑕疵，这种理想与现实的巨大落差极易导致其本人及追随者产生深度幻灭感和消极怠惰。"
+        },
+        {
+          "term": "现实感知与比例感失调",
+          "analysis": "将美国政治社会描绘为全面压迫和即将来临的冲突（“Coming soon to a neighborhood near you”），这种过度悲观的认知可能扭曲对现实风险与机遇的客观判断。"
+        },
+        {
+          "term": "挫折容忍度低",
+          "analysis": "长期处于对抗和批判状态，且目标宏大遥远，任何短期挫折（如选举失利、政策未通过）都可能被其框架为“体制之恶”的证明，加剧其愤怒和激进，而非促使其调整策略。"
+        },
+        {
+          "term": "情感与道德耗竭倾向",
+          "analysis": "持续沉浸在全球范围内的不公、暴力与冲突信息中，并承担“唤醒大众”的道德负担，长期可能导致情感麻木、愤世嫉俗或决策疲劳。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图瓦解现有两党信任，塑造反建制领袖形象，为边缘政治力量引流，可能寻求国际特定阵营的认可。",
+      "sub_items": [
+        {
+          "term": "瓦解主流政治合法性",
+          "analysis": "通过系统性批判两党、媒体和关键国家机构，根本目的在于削弱公众对现有美国政治体制的信任和认同，为激进政治变革创造社会心理条件。"
+        },
+        {
+          "term": "塑造革命先知与替代核心",
+          "analysis": "在批判的同时，通过使用“我们”、发出动员令，意图将自身塑造为当前政治荒漠中唯一的“清醒者”和未来“人民政治”的当然领袖或思想源头。"
+        },
+        {
+          "term": "为特定意识形态阵营凝聚与引流",
+          "analysis": "其言论精准服务于国内激进左翼、反帝国主义者及特定国际团结运动社群，意图巩固这些边缘群体的认同，并将其政治能量引导至自身关联的运动或议程中。"
+        },
+        {
+          "term": "寻求国际反美霸权阵营的象征性认可",
+          "analysis": "高调声援被美国制裁或敌对的国家（古巴、委内瑞拉）及运动（巴勒斯坦），可能意在塑造“国际主义斗士”形象，换取这些国家或运动支持者群体的道德支持与声援，提升其在国内特定圈子内的象征性资本。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于反美帝国主义批判、国内政治体制否定、巴以冲突立场、社会运动动员及媒体去合法性。",
+      "sub_items": [
+        {
+          "term": "反美帝国主义与外交政策批判",
+          "analysis": "核心叙事之一，持续抨击美国对古巴、中东、拉美等地的外交军事干预，将其定性为“帝国”的“恐怖”行为，并赞扬反抗美国压力的国家（如墨西哥）。"
+        },
+        {
+          "term": "国内政治体制全盘否定",
+          "analysis": "将美国两党制共同斥为“战争和华尔街的政党”，认为其必然带来“灾难”，主张必须通过“人民起义”建立全新的“人民掌权政治”。"
+        },
+        {
+          "term": "巴以冲突中的鲜明亲巴立场",
+          "analysis": "强烈同情并支持巴勒斯坦事业，转发内容强调巴勒斯坦人自主重建的权利，谴责西方将相关活动定为恐怖主义，并列表式排除一系列受美国干预的国家。"
+        },
+        {
+          "term": "社会不公与反抗运动煽动",
+          "analysis": "关注并转发国内警察暴力、移民政策争议、大规模抗议游行等事件，并用“抵抗”、“团结”、“准备”等词汇进行线上动员，试图连接各类社会不满情绪。"
+        },
+        {
+          "term": "主流媒体与信息操控指控",
+          "analysis": "频繁指控美国主流媒体（戏称为“IDF of US media”）与社交平台算法合谋，压制不利于建制派的信息传播，旨在解构主流媒体的公信力。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 25
+    },
+    {
+      "name": "同伴",
+      "value": 70
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 06 20:44:28 +0000 2024",
+      "text": "Once again the two-party system has delivered a disastrous result for the American people. Now we must continue the uprising for people-powered politics and demand the world we deserve - which will never be delivered by the twin parties of war and Wall Street.\n\nThe Democrats have",
+      "translation": "两党制再次给美国人民带来了灾难性的结果。现在我们必须继续为民众主导的政治而起义，要求我们应得的世界——这永远不会由战争和华尔街的双胞胎政党来提供。民主党已经",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1712,
+        "retweet": 3837,
+        "like": 16143
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 04:28:41 +0000 2026",
+      "text": "RT @ninaturner: Reminder: https://t.co/HPinjHxjb1",
+      "translation": "转发 @ninaturner：提醒：https://t.co/HPinjHxjb1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 225,
+        "retweet": 7129,
+        "like": 18705
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 04:28:09 +0000 2026",
+      "text": "RT @BenjaminNorton: The US empire has terrorized the Cuban people ever since they overthrew a right-wing US puppet dictator in 1959.\n\nTrump…",
+      "translation": "转发 @BenjaminNorton：自1959年古巴人民推翻右翼美国傀儡独裁者以来，美帝国一直在恐吓古巴人民。特朗普...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 959,
+        "like": 1691
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 04:27:48 +0000 2026",
+      "text": "RT @BTnewsroom: TODAY: Hundreds of thousands in Minnesota braved -10°F weather to march through downtown Minneapolis as part of the statewi…",
+      "translation": "转发 @BTnewsroom：今日：明尼苏达州数十万人在零下10华氏度的天气中勇敢地穿过明尼阿波利斯市中心，作为全州...的一部分游行。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2274,
+        "retweet": 32054,
+        "like": 111491
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 04:27:28 +0000 2026",
+      "text": "RT @stephensemler: Most of this year's ICE budget comes from last year's reconciliation bill. House Democratic leaders discouraged its memb…",
+      "translation": "转发 @stephensemler：今年ICE的大部分预算来自去年的和解法案。众议院民主党领导人劝阻其成员...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32,
+        "retweet": 778,
+        "like": 2327
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 04:26:51 +0000 2026",
+      "text": "RT @ChrisLynnHedges: The murders of unarmed civilians on the streets of Minneapolis, including the killing today of the intensive-care nurs…",
+      "translation": "转发 @ChrisLynnHedges：明尼阿波利斯街头手无寸铁的平民被谋杀，包括今天一名重症监护护士的死亡...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 245,
+        "retweet": 4871,
+        "like": 11271
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:29:39 +0000 2026",
+      "text": "The \"Board of Peace\" is the ultimate litmus test of heartless, soulless, brain-dead, sold out politicians -from whatever country they come groveling.",
+      "translation": "“和平委员会”是对那些无情、无灵魂、脑死亡、出卖自己的政客的终极试金石——无论他们来自哪个国家，都在卑躬屈膝。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 140,
+        "retweet": 396,
+        "like": 1038
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:27:37 +0000 2026",
+      "text": "The IDF of US media.",
+      "translation": "美国媒体的以色列国防军。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30,
+        "retweet": 392,
+        "like": 1012
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:25:44 +0000 2026",
+      "text": "RT @SuppressedNws1: ⚡️🇪🇸🇺🇸JUST IN: Spain’s PM Pedro Sanchez: \n\nAfter much reflection, Spain has decided not to participate in the so-called…",
+      "translation": "转发 @SuppressedNws1：⚡️🇪🇸🇺🇸最新消息：西班牙首相佩德罗·桑切斯：经过深思熟虑，西班牙决定不参与所谓的...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1175,
+        "retweet": 11344,
+        "like": 54735
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:25:14 +0000 2026",
+      "text": "Courageous ICE agents daring to chemically assault a protestor 3 on 1, on the ground with his hands behind his back. What a disgrace to America.",
+      "translation": "勇敢的ICE特工敢于以3对1的方式化学袭击一名抗议者，当时他倒在地上，双手被反绑在背后。这对美国来说是一种耻辱。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 65,
+        "retweet": 543,
+        "like": 1384
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:22:22 +0000 2026",
+      "text": "The line is drawn in the sand. Resistance starts now.",
+      "translation": "界限已经划定在沙地上。抵抗从现在开始。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 19,
+        "retweet": 128,
+        "like": 417
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:19:53 +0000 2026",
+      "text": "Coming soon to a neighborhood near you. Get ready. United we're unstoppable. Divided, their boots are already on our neck.",
+      "translation": "即将来到你附近的社区。做好准备。团结起来，我们势不可挡。分裂的话，他们的靴子已经踩在我们的脖子上了。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 73,
+        "retweet": 222,
+        "like": 936
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:17:51 +0000 2026",
+      "text": "RT @AlanRMacLeod: Two nobodies, desperately hoping the US will bomb their countries into accepting them as dictators.",
+      "translation": "转发 @AlanRMacLeod：两个无名小卒，绝望地希望美国轰炸他们的国家，以接受他们作为独裁者。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 454,
+        "retweet": 5097,
+        "like": 16133
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:17:40 +0000 2026",
+      "text": "RT @moayedHarazeen: This is the Gaza we want to return to — and rebuild with our own hands.\n\nWe do not want a polished Gaza built by those…",
+      "translation": "转发 @moayedHarazeen：这是我们想要回归并亲手重建的加沙。我们不想要一个由那些人建造的光鲜亮丽的加沙。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1596,
+        "retweet": 3798,
+        "like": 10027
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:16:53 +0000 2026",
+      "text": "RT @sahouraxo: Except Palestine \nExcept Lebanon \nExcept Syria \nExcept Iraq \nExcept Yemen\nExcept Libya\nExcept Venezuela\nExcept Afghanistan…",
+      "translation": "转发 @sahouraxo：除了巴勒斯坦 除了黎巴嫩 除了叙利亚 除了伊拉克 除了也门 除了利比亚 除了委内瑞拉 除了阿富汗...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 321,
+        "retweet": 11328,
+        "like": 34273
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:16:27 +0000 2026",
+      "text": "RT @BootsRiley: News media and social media algorithms working hard to keep the fact that this is happening from spreading.\n\nI have 175k fo…",
+      "translation": "转发 @BootsRiley：新闻媒体和社交媒体算法正在努力阻止这一事实传播。我有175k粉丝...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 67,
+        "retweet": 1964,
+        "like": 6871
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:16:07 +0000 2026",
+      "text": "RT @RTSG_News: 🚨🇲🇽🇨🇺🇺🇸 BREAKING: Mexico will continue sending oil to Cuba despite threats from U.S. and Trump.\n\n Mexico’s President Claudia…",
+      "translation": "转发 @RTSG_News：🚨🇲🇽🇨🇺🇺🇸突发新闻：尽管美国和特朗普发出威胁，墨西哥将继续向古巴输送石油。墨西哥总统克劳迪娅...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 244,
+        "retweet": 2703,
+        "like": 14484
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:15:42 +0000 2026",
+      "text": "RT @ButchWare: Supercharged Secret Police - enabled by the bipartisan demonization of immigrants.\n\nAn amazing thing about White Supremacy i…",
+      "translation": "转发 @ButchWare：超级秘密警察——由两党对移民的妖魔化所促成。白人至上主义的一个惊人之处在于...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 64,
+        "like": 140
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:15:11 +0000 2026",
+      "text": "RT @caitoz: As soon as the UK listed Palestine Action as a terrorist group it was made clear to the entire western world that there is no l…",
+      "translation": "转发 @caitoz：一旦英国将巴勒斯坦行动列为恐怖组织，整个西方世界就清楚地表明，没有法律...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 120,
+        "retweet": 2540,
+        "like": 6418
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 20:14:01 +0000 2026",
+      "text": "RT @andrewfeinstein: Imagine the son-in-law of the US President presenting a ‘vision and plan’ for a shiny city with resorts on the ruins o…",
+      "translation": "转发 @andrewfeinstein：想象一下，美国总统的女婿提出一个“愿景和计划”，要在废墟上建造一个拥有度假村的闪亮城市...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1113,
+        "retweet": 11643,
+        "like": 27000
+      }
+    }
+  ]
+}

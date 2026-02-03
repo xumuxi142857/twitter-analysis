@@ -1,0 +1,470 @@
+{
+  "id": "profile_Taiwan_CDC.json",
+  "_fingerprint": "5d2f492570483c6a9df94d1434a915cb",
+  "name": "Taiwan_CDC",
+  "username": "Taiwan_CDC",
+  "category": "media",
+  "daily_count": 0.4,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等宜人性、中等神经质、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "持续发布详细的疫情数据、政策调整和具体执行方案，表现出强烈的责任感和组织性，注重规则和程序。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "积极采纳并推广新的医疗技术和防疫策略，如单株抗体应用、快筛实名制调整，显示出对新方法和信息的接纳度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "言论以信息发布和澄清为主，较少直接表达情感或进行人际互动，但在政策调整中考虑了特定人群（如幼儿、长者）的需求。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "面对疫情变化能稳定发布信息，但内容中隐含对病毒变异、病例波动的持续关注，显示出一定的警觉性而非过度焦虑。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "主要通过官方渠道单向发布信息，互动性有限，但在转发内容中涉及国际合作议题，表现出一定的外向连接倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在机构性僵化、对外依赖倾向和潜在的自我中心叙事。",
+      "sub_items": [
+        {
+          "term": "机构性僵化",
+          "analysis": "政策调整多基于既有框架（如指挥中心、实名制），可能缺乏灵活应对突发危机的创新能力，依赖层级决策。"
+        },
+        {
+          "term": "对外依赖倾向",
+          "analysis": "在转发的非疫情内容中，强调与国际伙伴（如德国、乌克兰）的合作，暗示对外部认可和联盟的重视，可能削弱自主性。"
+        },
+        {
+          "term": "潜在的自我中心叙事",
+          "analysis": "在推广“TaiwanCanHelp”等概念时，将本地行动塑造为全球贡献者，可能过度强调自身角色，忽略更广泛的协作背景。"
+        },
+        {
+          "term": "风险规避偏好",
+          "analysis": "政策调整（如解除隔离条件、筛检调整）多基于渐进评估，显示出保守倾向，可能错失激进但有效的防疫机会。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出技术官僚思维、确认偏误和可得性启发。",
+      "sub_items": [
+        {
+          "term": "技术官僚思维",
+          "analysis": "过度依赖数据（如病例数、变异株统计）和标准化流程（如快筛实名制）来决策，可能忽视社会、心理等非量化因素。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "在疫情通报中持续强调本土与境外病例区分，可能强化内外有别的叙事，忽略疫情全球性的共通挑战。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "频繁发布每日病例数据，使短期波动成为关注焦点，可能放大公众对疫情风险的感知，影响长期策略平衡。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "将防疫措施包装为“帮助全球”或“捍卫民主”的一部分，通过积极框架提升接受度，但可能模糊核心公共卫生目标。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "沟通单向性、政策执行依赖特定系统、对外内容混杂。",
+      "sub_items": [
+        {
+          "term": "沟通单向性",
+          "analysis": "信息发布以公告为主，缺乏双向互动或公众反馈整合，可能降低信息可信度和公众配合度。"
+        },
+        {
+          "term": "政策执行依赖特定系统",
+          "analysis": "措施如健保卡购买快筛、血液基金会监测，高度依赖现有医疗和行政系统，一旦系统故障或资源不足，响应将受阻。"
+        },
+        {
+          "term": "对外内容混杂",
+          "analysis": "在疫情信息中穿插政治性转发（如民主峰会、国际合作），可能分散公众对核心卫生信息的注意力，引发议题混淆。"
+        },
+        {
+          "term": "澄清反应模式",
+          "analysis": "出现澄清疫苗强制施打的言论，显示易受谣言影响，需被动回应，消耗公信力资源。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治议题上倾向特定叙事，可能引发外部争议和内部认同压力。",
+      "sub_items": [
+        {
+          "term": "政治化卫生议题",
+          "analysis": "通过转发将公共卫生行动与民主、国际联盟等政治概念绑定，可能使防疫工作卷入地缘政治争议，削弱专业性。"
+        },
+        {
+          "term": "依赖外部认可",
+          "analysis": "强调国际伙伴关系和全球贡献，显示对西方或民主阵营认可的追求，这可能使其立场易受国际政治变动冲击。"
+        },
+        {
+          "term": "内外叙事矛盾",
+          "analysis": "对内强调本土防疫成果，对外宣扬全球角色，可能产生叙事不一致，影响公众和外部对其可信度的判断。"
+        },
+        {
+          "term": "敏感议题关联",
+          "analysis": "在疫情沟通中隐含特定政治符号或术语，可能触及相关地区的敏感性，增加不必要的政治风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "数据依赖局限、创新不足、资源分配僵化。",
+      "sub_items": [
+        {
+          "term": "数据依赖局限",
+          "analysis": "决策高度依赖病例统计和变异株监测，若数据收集或分析出现延迟或错误，可能导致政策失误或公众信任下降。"
+        },
+        {
+          "term": "创新不足",
+          "analysis": "政策调整多为渐进式（如轮次快筛实名制），缺乏突破性防疫技术或策略的创新，可能无法应对突变疫情。"
+        },
+        {
+          "term": "资源分配僵化",
+          "analysis": "措施如免费快筛截止日期固定，显示资源分配基于预设计划，可能无法灵活应对突发需求变化。"
+        },
+        {
+          "term": "跨领域整合弱",
+          "analysis": "专注于医疗技术发布，但转发内容显示试图链接政治、外交领域，这种跨界可能超出其核心能力，导致信息失焦。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在群体思维倾向、压力应对模式单一和身份认同焦虑。",
+      "sub_items": [
+        {
+          "term": "群体思维倾向",
+          "analysis": "在机构框架内运作，决策可能受内部共识驱动，缺乏批判性异议，导致盲点或过度一致的行动。"
+        },
+        {
+          "term": "压力应对模式单一",
+          "analysis": "面对疫情主要依靠数据发布和政策微调，缺乏多样化危机管理策略，在极端压力下可能失效。"
+        },
+        {
+          "term": "身份认同焦虑",
+          "analysis": "通过“TaiwanCanHelp”等叙事寻求国际身份定位，显示潜在的不安全感或对主流认可的需求，可能影响决策独立性。"
+        },
+        {
+          "term": "认知负荷过载",
+          "analysis": "同时处理疫情数据和外部政治信息，可能导致注意力分散，降低核心卫生议题的处理效率。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "可能旨在提升国际能见度、强化内部认同，并平衡专业与政治议程。",
+      "sub_items": [
+        {
+          "term": "提升国际能见度",
+          "analysis": "通过疫情管理展示能力，并关联全球议题，意图塑造负责任的国际参与者形象，争取外交或软实力收益。"
+        },
+        {
+          "term": "强化内部认同",
+          "analysis": "强调本土防疫成果和特定术语，可能旨在巩固内部公众支持，将卫生成功转化为政治资本。"
+        },
+        {
+          "term": "平衡专业与政治议程",
+          "analysis": "在卫生信息中嵌入政治转发，暗示试图利用专业平台推进更广泛的政治或意识形态目标，而不公开声明。"
+        },
+        {
+          "term": "转移批评焦点",
+          "analysis": "通过积极叙事（如帮助全球）可能意在淡化本地防疫不足或争议，引导公众关注外部贡献而非内部问题。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心为公共卫生，但延伸至政治外交和科技应用。",
+      "sub_items": [
+        {
+          "term": "公共卫生政策",
+          "analysis": "主导话题包括疫情数据通报、防疫措施调整（如隔离条件、筛检政策）、疫苗和快筛分配，反映对日常防疫管理的专注。"
+        },
+        {
+          "term": "医疗技术应用",
+          "analysis": "涉及单株抗体、变异株监测、血清抗体系统等，显示对前沿医疗技术和数据驱动方法的重视。"
+        },
+        {
+          "term": "政治外交叙事",
+          "analysis": "通过转发内容关联民主、国际合作、全球援助等议题，将卫生行动置于政治和外交框架下讨论。"
+        },
+        {
+          "term": "资源管理",
+          "analysis": "话题包括快筛实名制轮次、免费措施截止，突出对医疗资源分配和可持续性的关注。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Feb 22 06:08:07 +0000 2023",
+      "text": "2023/02/22\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增16,484例COVID-19確定病例，分別為16,145例本土個案及339例境外移入",
+      "translation": "2023年2月22日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增16,484例COVID-19确诊病例，分别为16,145例本土个案及339例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Feb 21 06:08:57 +0000 2023",
+      "text": "2023/02/21\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增17,253例COVID-19確定病例，分別為16,911例本土個案及342例境外移入",
+      "translation": "2023年2月21日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增17,253例COVID-19确诊病例，分别为16,911例本土个案及342例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Thu Mar 30 06:59:00 +0000 2023",
+      "text": "2023/03/30\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n4月1日起，實施第十二輪家用抗原快篩試劑實名制，民眾可持健保卡購買\n🌏新聞稿連結：https://t.co/U9kdHXYTdd https://t.co/Th8D5BrIol",
+      "translation": "2023年3月30日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 4月1日起，实施第十二轮家用抗原快筛试剂实名制，民众可持健保卡购买 🌏新闻稿链接：https://t.co/U9kdHXYTdd https://t.co/Th8D5BrIol",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Thu Mar 23 07:51:58 +0000 2023",
+      "text": "RT @TAIWANmoda: Great meeting of the minds at 𝗺𝗼𝗱𝗮 HQ. @audreyt &amp; @starkwatzinger focused on forging farsighted #Taiwan🇹🇼-#Germany🇩🇪 tie-up…",
+      "translation": "转发 @TAIWANmoda: 在𝗺𝗼𝗱𝗮总部进行了一次重要的思想交流。@audreyt 和 @starkwatzinger 专注于建立有远见的 #台湾🇹🇼-#德国🇩🇪合作关系…",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 44,
+        "like": 317
+      }
+    },
+    {
+      "created_at": "Thu Mar 09 06:36:18 +0000 2023",
+      "text": "2023/03/09\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n因應防疫鬆綁新制，自3月20日起調整COVID-19遺體處置感染管制建議\n🌏新聞稿連結：https://t.co/20CPSX83Nd",
+      "translation": "2023年3月9日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 因应防疫松绑新制，自3月20日起调整COVID-19遗体处置感染管制建议 🌏新闻稿链接：https://t.co/20CPSX83Nd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Thu Mar 02 06:18:09 +0000 2023",
+      "text": "2023/03/02\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增78例Omicron亞型變異株確定病例，分別為45例本土個案及33例境外移入",
+      "translation": "2023年3月2日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增78例Omicron亚型变异株确诊病例，分别为45例本土个案及33例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Thu Mar 02 06:16:50 +0000 2023",
+      "text": "2023/03/02\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n第三波Omicron疫情持續下降，上週平均每日新增12,032例COVID-19確定病例，其中為11,842例本土個案及190例境外移入",
+      "translation": "2023年3月2日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 第三波Omicron疫情持续下降，上周平均每日新增12,032例COVID-19确诊病例，其中为11,842例本土个案及190例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Thu Feb 23 05:14:42 +0000 2023",
+      "text": "RT @TAIWANmoda: Watch @audreyt talk about the 𝗺𝗼𝗱𝗮'𝘀 1st #TaiwanCanHelp🇹🇼 #FreeTheFuture🖖 partnership in #Ukraine🇺🇦. The farsighted initiat…",
+      "translation": "转发 @TAIWANmoda: 观看 @audreyt 谈论𝗺𝗼𝗱𝗮'𝘀首个 #台湾能帮助🇹🇼 #解放未来🖖 在 #乌克兰🇺🇦的合作伙伴关系。这一有远见的倡议…",
+      "stance": "负面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 80,
+        "like": 342
+      }
+    },
+    {
+      "created_at": "Thu Apr 06 03:16:47 +0000 2023",
+      "text": "RT @TAIWANmoda: Watch @audreyt's stirring #SummitForDemocracy address. Learn how #TaiwanCanHelp galvanize global action on addressing commo…",
+      "translation": "转发 @TAIWANmoda: 观看 @audreyt 激动人心的 #民主峰会演讲。了解 #台湾能帮助 如何激励全球行动，共同应对…",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 63,
+        "like": 277
+      }
+    },
+    {
+      "created_at": "Sun Feb 19 06:04:17 +0000 2023",
+      "text": "2023/02/19\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增15,877例COVID-19確定病例，分別為15,747例本土個案及130例境外移入",
+      "translation": "2023年2月19日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增15,877例COVID-19确诊病例，分别为15,747例本土个案及130例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 45
+      }
+    },
+    {
+      "created_at": "Sat Feb 18 06:13:12 +0000 2023",
+      "text": "2023/02/18\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增15,094例COVID-19確定病例，分別為14,795例本土個案及299例境外移入",
+      "translation": "2023年2月18日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增15,094例COVID-19确诊病例，分别为14,795例本土个案及299例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Mon Feb 20 06:29:22 +0000 2023",
+      "text": "2023/02/20\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n自3月1日起停止提供入境人員及確診者密切接觸者家用抗原快篩試劑",
+      "translation": "2023年2月20日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 自3月1日起停止提供入境人员及确诊者密切接触者家用抗原快筛试剂",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 33
+      }
+    },
+    {
+      "created_at": "Mon Feb 20 06:28:15 +0000 2023",
+      "text": "2023/02/20\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n為常規監測新冠病毒血清抗體陽性率，指定「醫療財團法人台灣血液基金會」配合辦理「新冠病毒血清抗體監視系統」",
+      "translation": "2023年2月20日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 为常规监测新冠病毒血清抗体阳性率，指定“医疗财团法人台湾血液基金会”配合办理“新冠病毒血清抗体监视系统”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 33
+      }
+    },
+    {
+      "created_at": "Mon Feb 20 06:23:38 +0000 2023",
+      "text": "2023/02/20\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n新增12,060例COVID-19確定病例，分別為11,808例本土個案及252例境外移入",
+      "translation": "2023年2月20日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 新增12,060例COVID-19确诊病例，分别为11,808例本土个案及252例境外移入",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Fri Mar 17 06:58:30 +0000 2023",
+      "text": "RT @TAIWANmoda: Digital resilience is key to defending democracy &amp; safeguarding our free &amp; open societies. Many thanks to @jonasPplesner of…",
+      "translation": "转发 @TAIWANmoda: 数字韧性是捍卫民主、保护我们自由开放社会的关键。非常感谢 @jonasPplesner 的…",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 40,
+        "like": 133
+      }
+    },
+    {
+      "created_at": "Fri Feb 24 11:08:22 +0000 2023",
+      "text": "2023/02/24\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n3月1日起，實施第十一輪家用抗原快篩試劑實名制，民眾可持健保卡購買；0-6歲學齡前幼兒及65歲以上長者免費家用抗原快篩試劑，將如期至今年2月28日停止免費領取，請符合領用資格尚未領取的民眾，儘快持健保卡領取",
+      "translation": "2023年2月24日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 3月1日起，实施第十一轮家用抗原快筛试剂实名制，民众可持健保卡购买；0-6岁学龄前幼儿及65岁以上长者免费家用抗原快筛试剂，将如期至今年2月28日停止免费领取，请符合领用资格尚未领取的民众，尽快持健保卡领取",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Fri Feb 17 11:07:48 +0000 2023",
+      "text": "2023/02/17\n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n指揮中心澄清：絕無強制要求民眾施打疫苗",
+      "translation": "2023年2月17日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 指挥中心澄清：绝无强制要求民众施打疫苗",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 13,
+        "like": 56
+      }
+    },
+    {
+      "created_at": "Fri Apr 07 07:52:09 +0000 2023",
+      "text": "2023/04/07 \n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n指揮中心將擴大新型冠狀病毒（SARS-CoV-2）預防性單株抗體適用對象，並視病毒變異株流行情形與使用效益，評估調整相關建議",
+      "translation": "2023年4月7日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 指挥中心将扩大新型冠状病毒（SARS-CoV-2）预防性单株抗体适用对象，并视病毒变异株流行情形与使用效益，评估调整相关建议",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Fri Apr 07 07:50:26 +0000 2023",
+      "text": "2023/04/07 \n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n指揮中心修訂「嚴重特殊傳染性肺炎」確定病例(併發症)解除隔離治療條件",
+      "translation": "2023年4月7日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 指挥中心修订“严重特殊传染性肺炎”确诊病例(并发症)解除隔离治疗条件",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Apr 07 07:48:30 +0000 2023",
+      "text": "2023/04/07 \n#嚴重特殊傳染性肺炎 #COVID19 #TaiwanCDC\n指揮中心宣布自4月10日起調整住院病人及陪病者篩檢，其餘陪(探)病管制維持不變",
+      "translation": "2023年4月7日 #严重特殊传染性肺炎 #COVID19 #TaiwanCDC 指挥中心宣布自4月10日起调整住院病人及陪病者筛检，其余陪(探)病管制维持不变",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "profile_CNN.json",
+  "_fingerprint": "483b309b4a9c9b0270c42a9a68d2b1bd",
+  "name": "CNN",
+  "username": "CNN",
+  "category": "media",
+  "daily_count": 5.5,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等神经质、低宜人性、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "高开放性",
+          "analysis": "广泛报道全球多元话题，涵盖政治、军事、社会、科技、娱乐等领域，展现对复杂世界的好奇心和信息接纳度。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "报道结构严谨，注重时效（如“BREAKING”、“JUST IN”）、官方信源（如“sources tell CNN”、“police say”）和事实跟进（如案件进展更新），体现对信息准确性和流程规范的追求。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "内容聚焦于冲突、危机、死亡、法律纠纷、政治斗争等负面事件，对不确定性和社会威胁保持高度警觉和报道倾向。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "报道常呈现对立与冲突框架（如国内两党斗争、国际地缘对抗、司法行政冲突），不回避揭露丑闻、批评当局或展示社会分裂，缺乏和谐导向。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "积极追踪和报道高曝光度人物（如特朗普、泽连斯基）的行动与言论，但自身立场通常隐藏在事实陈述之后，不直接进行情感呼吁或人格化表达。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在冲突驱动、精英中心主义、危机偏好与道德审判倾向。",
+      "sub_items": [
+        {
+          "term": "冲突驱动叙事",
+          "analysis": "报道选择明显偏向于展示国内外政治对抗、军事冲突、司法案件、社会悲剧等矛盾事件，通过突出对立面来构建新闻张力。"
+        },
+        {
+          "term": "精英与权力中心主义",
+          "analysis": "大量内容围绕国家元首、政府高官、最高法院、司法部门、知名企业家等权力精英的决策与活动，普通民众常作为事件受害者或背景出现。"
+        },
+        {
+          "term": "危机与负面偏好",
+          "analysis": "对灾难、袭击、死亡、调查、诉讼、经济政策波动等负面事件的报道密度和即时性远高于对和平进展、社会成就或普通积极生活的关注。"
+        },
+        {
+          "term": "隐含的道德与法律审判框架",
+          "analysis": "在报道犯罪、丑闻、政治争议时，通过引用官方指控、司法程序、反对派声音或国际反应，构建出一种需要问责与解决的叙事语境。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、负面偏误、权威偏误与框架效应。",
+      "sub_items": [
+        {
+          "term": "确认偏误（对既定叙事）",
+          "analysis": "倾向于报道符合“政治斗争持续”、“国际关系紧张”、“司法体系活跃”、“社会存在安全隐患”等宏观叙事的事件，强化这些预设的世界观。"
+        },
+        {
+          "term": "负面偏误",
+          "analysis": "认知资源明显向负面信息倾斜，认为冲突、失败和风险比稳定、成功和安全更具新闻价值和认知重要性。"
+        },
+        {
+          "term": "权威偏误",
+          "analysis": "高度依赖和优先传递官方机构（政府、法院、警方、情报部门）、权威媒体自身信源或精英人物的声明与信息，作为事实的主要锚点。"
+        },
+        {
+          "term": "框架效应（冲突与胜负框架）",
+          "analysis": "习惯于将复杂事件简化为二元或多元对抗框架（如特朗普vs司法系统、乌克兰vs俄罗斯、民主党vs共和党），并关注其中的“胜负”、“阻挠”、“批准”、“指控”等节点。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖官方信源、追求即时性导致误差、议题碎片化、易受政治周期影响。",
+      "sub_items": [
+        {
+          "term": "信源依赖脆弱性",
+          "analysis": "对政府、执法和情报部门等官方信源的深度依赖，使其报道可能受到信息管控、选择性披露或初始错误信息的影响。"
+        },
+        {
+          "term": "即时性压力下的准确度风险",
+          "analysis": "对“突发新闻”和“独家新闻”的持续追求，可能在事实核查不充分的情况下发布信息，面临后续更正或舆论反噬的风险。"
+        },
+        {
+          "term": "议题碎片化与深度缺失",
+          "analysis": "广泛覆盖大量快速变化的议题，可能导致对单一复杂事件（如埃普斯坦案、乌克兰和平进程）的长期、系统性、背景化深度分析不足。"
+        },
+        {
+          "term": "政治与新闻周期捆绑",
+          "analysis": "报道议程紧密跟随美国国内政治斗争周期（如选举、司法案件、国会行动）和总统行政动态，易被政治节奏牵引，削弱议程自主性。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "隐含制度维护与自由主义价值观倾向，对美政府批评存在选择性，国际报道体现美国中心视角。",
+      "sub_items": [
+        {
+          "term": "体制内监督者定位的矛盾",
+          "analysis": "一方面频繁报道政府（特别是特朗普政府）遭遇的司法挫折、政策争议和内部矛盾，扮演监督角色；另一方面其报道整体仍在美国宪政与法律框架内运作，维护基本制度权威。"
+        },
+        {
+          "term": "价值观驱动的叙事选择",
+          "analysis": "对涉及民主进程、司法独立、人权指控（如孟加拉国前总理判刑）、LGBTQ+权利（同性婚姻）、移民政策的报道，隐含自由主义价值观的评判框架。"
+        },
+        {
+          "term": "对行政当局批评的选择性",
+          "analysis": "对特朗普政府的司法挑战、外交决策、移民政策等报道密集，但批评多聚焦于程序争议、个人关联丑闻或具体政策冲突，而非根本性否定美国外交或安全战略方向。"
+        },
+        {
+          "term": "国际报道的美国中心视角",
+          "analysis": "报道国际事件（如乌克兰、以色列、泰国-柬埔寨）时，核心关切常与美国的利益、盟友关系、总统行动或国内政治牵连度紧密相关，视角并非完全中立。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "事实核查在复杂事件中面临挑战，预测性报道存在风险，信源网络可能存有盲区。",
+      "sub_items": [
+        {
+          "term": "复杂信息环境的核实能力极限",
+          "analysis": "面对涉及大量机密文件（如埃普斯坦案）、跨国情报（如英国停止共享情报）、快速变化的军事行动（如美国海上打击）等议题，完全独立核实所有细节存在客观困难。"
+        },
+        {
+          "term": "预测与“投影”报道的误差风险",
+          "analysis": "进行选举结果预测、政策效果预估或高层会晤结果推测时，基于不完全信息的判断可能产生偏差，影响公信力。"
+        },
+        {
+          "term": "信源网络的同质化与盲区",
+          "analysis": "主要信源集中于美国官方、西方盟友机构及精英圈层，可能缺乏对特定地区（如报道中涉及的柬埔寨、索马里移民社区）、草根运动或反建制观点的深入直接信源。"
+        },
+        {
+          "term": "对科技与经济议题的解释深度",
+          "analysis": "报道科技（如FDA批准新药、特斯拉薪酬）和经济（如GDP数据）新闻时，多停留在事件宣布和数据公布层面，对其长期行业影响、技术原理或复杂经济机制的解读可能流于表面。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑传播、认知负荷过载、意义感依赖外部事件与共情疲劳倾向。",
+      "sub_items": [
+        {
+          "term": "集体焦虑的建构与强化",
+          "analysis": "持续聚焦恐怖袭击、枪击案、火灾、空难、政治极端主义、流行病风险（疫苗黑框警告）等，可能潜移默化地建构并强化受众对危险世界的焦虑认知。"
+        },
+        {
+          "term": "信息过载与认知简化",
+          "analysis": "每日处理并输出大量高强度、高冲突性信息，可能导致心智模式倾向于用“冲突-胜负”、“指控-辩护”、“危机-应对”等简化模型来快速理解复杂事态。"
+        },
+        {
+          "term": "意义感依赖于外部戏剧性事件",
+          "analysis": "作为新闻机构，其影响力和存在感高度依赖于外部世界不断产生的戏剧性冲突、丑闻和危机。平静期可能使其面临“无重大新闻可报”的潜在焦虑。"
+        },
+        {
+          "term": "对持续悲剧的共情疲劳与程式化报道",
+          "analysis": "面对频繁出现的凶杀、灾难、战争伤亡报道，可能形成一种程式化的报道模板（如“X人死亡，Y人失踪，官员说…”），削弱对个体悲剧独特性的深层共情与呈现。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "维护媒体权威与议程设置权，在政治斗争中塑造平衡者形象，服务特定受众预期，进行商业品牌竞争。",
+      "sub_items": [
+        {
+          "term": "巩固媒体作为“第四权力”的权威",
+          "analysis": "通过持续曝光政府内部争议、司法进程、精英丑闻和高层动态，意图强化自身作为权力监督者和关键信息枢纽的不可替代地位。"
+        },
+        {
+          "term": "在政治极化中塑造“关键记录者”与“事实仲裁者”形象",
+          "analysis": "通过同时报道两党行动、司法对行政的制衡、以及争议各方的声音，意图在极化环境中树立一个相对中立、基于事实的记录者形象，以吸引更广泛的受众信任。"
+        },
+        {
+          "term": "满足核心受众对“政治内幕”与“国家安全叙事”的期待",
+          "analysis": "大量报道华盛顿政治博弈、特朗普政府动态、司法调查、情报活动及国际地缘冲突，旨在深度服务对政治和国际事务有高度兴趣的核心受众群体。"
+        },
+        {
+          "term": "在激烈媒体竞争中突出“速度”与“独家”品牌标签",
+          "analysis": "强调“独家”、“率先报道”和实时更新，意图在信息爆炸时代抢占用户注意力，与社交媒体和其他新闻机构竞争，维系商业影响力和品牌价值。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦美国国内政治与司法、特朗普相关动态、国际地缘冲突、突发社会犯罪与灾难。",
+      "sub_items": [
+        {
+          "term": "美国国内政治与权力斗争",
+          "analysis": "核心领域。涵盖总统行政令、最高法院裁决、国会行动、两党选举（地方与全国）、司法部调查、联邦与州法律冲突等，是报道的绝对重心。"
+        },
+        {
+          "term": "特朗普及其关联网络动态",
+          "analysis": "关键人物焦点。持续追踪特朗普本人的言论、政策、法律挑战、家族及盟友活动（如赦免、会晤），以及与其相关的丑闻调查（如埃普斯坦案关联）。"
+        },
+        {
+          "term": "国际地缘政治与军事冲突",
+          "analysis": "重要外延领域。重点关注乌克兰-俄罗斯冲突及相关外交（泽连斯基活动）、中东局势（以色列-巴勒斯坦）、美国海外军事行动，以及盟友关系动态（如英美情报合作）。"
+        },
+        {
+          "term": "国内社会犯罪、灾难与公共安全",
+          "analysis": "基础报道领域。包括枪击案、凶杀案、火灾、爆炸、重大交通事故、恶劣天气影响等突发社会新闻，通常作为日常报道流的重要组成部分。"
+        },
+        {
+          "term": "司法、科技、经济重大节点事件",
+          "analysis": "间歇性重点领域。对具有全国影响的最高法院判决、重大司法案件进展、头部科技公司动态、关键经济数据发布、重要医药监管决定等进行报道。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Nov 26 22:24:57 +0000 2025",
+      "text": "UPDATE: FBI says two National Guardsmen shot in DC are in critical condition after what appears to be a targeted attack. Suspect in custody is not cooperating. https://t.co/JUo4BbSSZo https://t.co/sTNflmoFaH",
+      "translation": "更新：FBI表示，在华盛顿特区遭枪击的两名国民警卫队士兵伤势危重，这似乎是一起有针对性的袭击。被拘留的嫌疑人不配合调查。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 298,
+        "retweet": 193,
+        "like": 306
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 20:47:40 +0000 2025",
+      "text": "Police say one suspect is in custody after two National Guardsmen were shot blocks from the White House in Washington, DC. Follow live updates. https://t.co/oCqUlhtiAv https://t.co/CEAwoON6Yu",
+      "translation": "警方称，在华盛顿特区白宫附近几个街区发生两名国民警卫队士兵遭枪击事件后，已有一名嫌疑人被拘留。请关注实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 177,
+        "retweet": 139,
+        "like": 249
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 20:24:12 +0000 2025",
+      "text": "Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing. https://t.co/afcV0jrsYE https://t.co/JMEyyJ26U4",
+      "translation": "警方称，已有三名男子因涉嫌香港高层建筑致命火灾被捕。仍有数百人失踪。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 178,
+        "retweet": 1572,
+        "like": 4514
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 19:59:32 +0000 2025",
+      "text": "Several people were shot near the White House in Washington, DC, including at least one National Guardsman https://t.co/Rf833JWGBJ",
+      "translation": "华盛顿特区白宫附近发生枪击事件，数人中枪，其中包括至少一名国民警卫队士兵。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 254,
+        "retweet": 215,
+        "like": 430
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 17:52:00 +0000 2025",
+      "text": "At least 36 people have died and 279 people are unaccounted for, officials say. Residents remain trapped on higher floors of the buildings. https://t.co/iclSJYO8p1 https://t.co/FtoFH3FyZ5",
+      "translation": "官员称，至少36人死亡，279人下落不明。居民仍被困在建筑物的较高楼层。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 535,
+        "retweet": 1272,
+        "like": 4090
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 15:49:19 +0000 2025",
+      "text": "Georgia prosecutor drops charges in case against Trump and allies over their efforts to overturn the 2020 presidential election.\nhttps://t.co/SofUzIlaq5",
+      "translation": "乔治亚州检察官撤销了对特朗普及其盟友试图推翻2020年总统选举结果的指控。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 278,
+        "retweet": 180,
+        "like": 354
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 12:52:02 +0000 2025",
+      "text": "At least 13 killed and others trapped as huge fire tears through Hong Kong high-rise apartment complex, authorities say. https://t.co/Dhftw8YYX2",
+      "translation": "当局称，香港高层公寓楼发生大火，造成至少13人死亡，另有多人被困。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 116,
+        "retweet": 264,
+        "like": 580
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 10:06:35 +0000 2025",
+      "text": "Four people have been killed in a fire at a Hong Kong high-rise tower that left others trapped inside.\nhttps://t.co/AhwPJS84du",
+      "translation": "香港高层塔楼发生火灾，造成4人死亡，另有多人被困楼内。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 90,
+        "retweet": 154,
+        "like": 406
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 20:31:14 +0000 2025",
+      "text": "Judge to resume criminal contempt inquiry into Trump officials he says flouted his orders to stop deportation flights\nhttps://t.co/T7TZT7SD6X",
+      "translation": "法官将恢复对特朗普官员的刑事藐视法庭调查，称其无视他停止驱逐航班的命令。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 161,
+        "retweet": 197,
+        "like": 540
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 16:43:16 +0000 2025",
+      "text": "Lindsey Halligan, Trump's handpicked US attorney, admits full grand jury never saw final indictment handed up against former FBI Director James Comey. Follow live updates. https://t.co/k66UKlXNdh",
+      "translation": "特朗普亲自挑选的美国检察官林赛·哈利根承认，整个大陪审团从未看到针对前FBI局长詹姆斯·科米的最终起诉书。请关注实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 171,
+        "retweet": 201,
+        "like": 648
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 00:46:37 +0000 2025",
+      "text": "A rare Klimt painting has sold for $236.4 million, becoming the most expensive work of modern art ever sold at an auction https://t.co/ULhRUkbqwT",
+      "translation": "一幅罕见的克里姆特画作以2.364亿美元售出，成为拍卖史上最昂贵的现代艺术品。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 151,
+        "retweet": 162,
+        "like": 374
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 23:33:43 +0000 2025",
+      "text": "The House has cleared a key hurdle to set up a final vote on the Senate-passed funding package to reopen the federal government. https://t.co/LvcV5o0rJJ",
+      "translation": "众议院已清除关键障碍，为就参议院通过的重新开放联邦政府的资金方案进行最终投票铺平道路。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 73,
+        "retweet": 129,
+        "like": 343
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 21:16:15 +0000 2025",
+      "text": "BREAKING: Democrat Adelita Grijalva sworn in as House's newest member after weekslong delay, paving the way for a vote to release Jeffrey Epstein case files.\nhttps://t.co/a6gIdYalyi",
+      "translation": "突发：民主党人阿德利塔·格里哈尔瓦在拖延数周后宣誓就任众议院最新成员，为投票公布杰弗里·爱泼斯坦案文件铺平道路。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 225,
+        "retweet": 424,
+        "like": 1911
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 19:52:29 +0000 2025",
+      "text": "JUST IN: Federal judge orders release of hundreds of people arrested in Trump's immigration crackdown in Illinois, according to CNN affiliate WLS.\nhttps://t.co/ke4dneFR1A",
+      "translation": "最新消息：据CNN附属机构WLS报道，联邦法官下令释放数百名在特朗普移民打击行动中在伊利诺伊州被捕的人员。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 254,
+        "retweet": 344,
+        "like": 997
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 17:45:16 +0000 2025",
+      "text": "Exclusive: Top Trump administration officials plan to meet today to discuss House efforts to force the release of the Epstein files. https://t.co/k1WAflAv8T",
+      "translation": "独家：特朗普政府高级官员计划今日会面，讨论众议院推动公布爱泼斯坦文件的努力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 415,
+        "retweet": 721,
+        "like": 2224
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 21:41:03 +0000 2025",
+      "text": "The Department of Transportation says it will cut traffic by 10% at 40 airports starting Friday if the government shutdown continues. \nhttps://t.co/RbHPHliV8q",
+      "translation": "交通部表示，如果政府停摆持续，将从周五起在40个机场减少10%的交通流量。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 156,
+        "retweet": 176,
+        "like": 319
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 20:57:11 +0000 2025",
+      "text": "Jury deliberations begin in the lawsuit filed by a Virginia teacher shot by a 6-year-old student. https://t.co/RkRAAJ9qZ2",
+      "translation": "陪审团开始审议弗吉尼亚州一名教师被6岁学生枪击后提起的诉讼。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 72,
+        "retweet": 125,
+        "like": 213
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 13:46:12 +0000 2025",
+      "text": "At least 9 people confirmed dead after the fiery crash in Louisville, mayor says. Follow live updates. https://t.co/XDhkpakaXM",
+      "translation": "市长称，路易斯维尔市发生火灾撞车事故，已确认至少9人死亡。请关注实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 105,
+        "retweet": 140,
+        "like": 301
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 04:02:24 +0000 2025",
+      "text": "California voters approve a measure to allow Democrats to redraw the state's congressional maps and potentially flip as many as five GOP-held House seats, CNN projects. Follow live updates. https://t.co/iLZF4TmAWj https://t.co/fPKxyfwBxf",
+      "translation": "CNN预测，加州选民通过一项措施，允许民主党重新绘制该州的国会选区地图，可能翻转多达五个共和党控制的众议院席位。请关注实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 236,
+        "retweet": 407,
+        "like": 1843
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 03:12:17 +0000 2025",
+      "text": "Democrats defend the liberal majority on the Pennsylvania Supreme Court in a race with 2028 implications, CNN projects. Follow live updates. https://t.co/AvmjxcTenV https://t.co/eWgmoUmqDN",
+      "translation": "CNN预测，民主党在宾夕法尼亚州最高法院的选举中捍卫自由派多数席位，该选举对2028年有影响。请关注实时更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 62,
+        "retweet": 186,
+        "like": 818
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "profile_VP.json",
+  "_fingerprint": "277fc7d5cb9efaff4f57497d35608580",
+  "name": "VP",
+  "username": "VP",
+  "category": "politician",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、低宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "表现出强烈的责任感和纪律性，强调政策执行和承诺兑现，关注具体成果如边境管控和经济增长数据，体现对职责的严肃态度。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与公开演讲、政治集会和媒体活动，享受公众关注和互动，在大型活动中表现活跃，善于调动现场气氛。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "在传统价值观和宗教框架内表达观点，对某些文化话题如宗教自由表现出兴趣，但整体思想体系较为固定，较少展现对多元意识形态的探索。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "言论中常包含对抗性和指责性内容，使用尖锐标签形容政治对手，缺乏妥协姿态，强调立场对立而非合作。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在压力情境下能保持公开镇定，但言论中透露出对国家安全、经济威胁的持续担忧，情绪反应集中在特定政治议题上。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出救世主情结、道德优越感、对抗性倾向和绝对化思维。",
+      "sub_items": [
+        {
+          "term": "救世主情结",
+          "analysis": "将自身政治使命描绘为拯救国家于危机之中，使用“恢复理智”、“履行国家承诺”等宏大叙事，暗示个人或所属团体是国家的关键拯救者。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "频繁引用宗教和传统价值观作为道德标杆，暗示政治对手在道德和精神层面存在缺陷，将政策分歧提升为善恶对立。"
+        },
+        {
+          "term": "对抗性倾向",
+          "analysis": "习惯于将政治讨论定义为“我们对抗他们”的叙事，使用“激进左派渣滓”、“烧毁国家”等激烈言辞，强化群体对立而非寻求共识。"
+        },
+        {
+          "term": "绝对化思维",
+          "analysis": "倾向于将复杂政策问题简化为非黑即白的判断，如将边境政策完全归因于前政府错误，忽视政策连续性和多维影响因素。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出内群体偏袒、确认偏误、基本归因错误和情感启发式。",
+      "sub_items": [
+        {
+          "term": "内群体偏袒",
+          "analysis": "明确区分“我们”与“他们”，将支持者群体描述为爱国、理智的代表，而将反对者群体标签化为破坏性力量，强化群体边界。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性引用符合自身政治立场的数据和案例，如强调驱逐非法移民的数量增长作为政策成功证据，忽略可能存在的相反数据或复杂背景。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将政治对手的行为归因于恶意意图或性格缺陷，如指责对方“故意破坏国家”，而将己方政策挑战归因于外部环境或历史遗留问题。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "在政策论述中频繁诉诸情感符号，如宗教圣地、爱国热情、家庭价值，用情感共鸣替代细致的技术或经济分析。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "存在言论极化、过度依赖特定平台、形象管理僵化和反应模式可预测。",
+      "sub_items": [
+        {
+          "term": "言论极化",
+          "analysis": "公开言论常处于政治光谱极端位置，使用高度对抗性语言，这可能限制中间派选民的支持，并容易引发强烈反弹。"
+        },
+        {
+          "term": "过度依赖特定平台",
+          "analysis": "大量信息通过社交媒体和特定政治集会传播，受众相对同质化，可能缺乏对更广泛民意渠道的覆盖和互动。"
+        },
+        {
+          "term": "形象管理僵化",
+          "analysis": "公众形象高度统一于强硬保守派政治人物角色，缺乏展现个人多维性或政策灵活性的空间，在危机时调整余地较小。"
+        },
+        {
+          "term": "反应模式可预测",
+          "analysis": "对特定议题如移民、经济、文化战争的回应遵循固定模式，容易被对手预判和针对性设计政治陷阱。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在移民政策、文化战争、经济叙事和外交姿态上存在易受攻击的立场。",
+      "sub_items": [
+        {
+          "term": "移民政策绝对化",
+          "analysis": "将边境管控和驱逐非法移民作为核心政绩，若相关数据被质疑或政策执行出现人道主义危机，立场将面临严重挑战。"
+        },
+        {
+          "term": "文化战争激进化",
+          "analysis": "深入参与种族、宗教、历史等敏感文化议题辩论，立场鲜明且具挑衅性，容易引发持续的社会分裂和舆论反弹。"
+        },
+        {
+          "term": "经济归因简化",
+          "analysis": "将复杂经济指标如工资增长、通胀变化直接归因于单一政策，若经济出现波动，该因果链条将难以自圆其说。"
+        },
+        {
+          "term": "外交姿态孤立化",
+          "analysis": "国际互动明显侧重特定盟友，对多边机构和传统伙伴关系态度冷淡，在需要广泛国际合作的事务上可能陷入孤立。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在政策细节、跨党派沟通、危机管理和国际事务经验上存在能力短板。",
+      "sub_items": [
+        {
+          "term": "政策细节模糊",
+          "analysis": "演讲和声明多集中于宏观口号和情感动员，缺乏对政策实施路径、资源配置、潜在副作用的详细阐述，易被质疑执行力。"
+        },
+        {
+          "term": "跨党派沟通缺失",
+          "analysis": "公开言论中未见与政治对手建设性对话的迹象，姿态完全对立，在需要立法妥协或联合执政的情境下可能陷入僵局。"
+        },
+        {
+          "term": "危机管理经验不足",
+          "analysis": "目前公开活动多处于顺境宣传，缺乏应对突发国家安全事件、经济危机或重大丑闻的公开记录，应变能力未经验证。"
+        },
+        {
+          "term": "国际事务深度有限",
+          "analysis": "外交互动主要体现为象征性访问和盟友站台，未见处理复杂地缘政治冲突、多边谈判或长期战略规划的深度参与。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "表现出意识形态刚性、情感依赖、身份焦虑和救赎叙事依赖。",
+      "sub_items": [
+        {
+          "term": "意识形态刚性",
+          "analysis": "世界观建立在固定的保守主义与民族主义框架内，对偏离该框架的信息表现出排斥或重新解读，适应新证据的能力可能受限。"
+        },
+        {
+          "term": "情感依赖",
+          "analysis": "政治动员高度依赖激发支持者的情感共鸣，如愤怒、骄傲、恐惧，若情感动员失效或反弹，可能缺乏理性的政策说服工具。"
+        },
+        {
+          "term": "身份焦虑投射",
+          "analysis": "将自身对传统价值观衰落的焦虑投射为国家危机，言论中反复强调“恢复”、“回归”，透露出对文化变迁的深层不安。"
+        },
+        {
+          "term": "救赎叙事依赖",
+          "analysis": "个人和政治叙事紧密围绕“拯救国家”主题，将政治成功等同于道德和历史使命的实现，这种叙事在遭遇挫折时可能引发存在性危机。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "可能隐藏着塑造个人政治遗产、巩固核心选民、试探更高职位和重构公共话语的意图。",
+      "sub_items": [
+        {
+          "term": "塑造个人政治遗产",
+          "analysis": "通过强调特定政策成就和价值观领导，试图在副总统任期内建立独立于总统的政治品牌，为未来政治生涯铺垫。"
+        },
+        {
+          "term": "巩固核心选民",
+          "analysis": "言论高度聚焦于移民、文化战争等议题，旨在强化与保守派基本盘的情感联结，确保在该群体中的绝对忠诚和支持率。"
+        },
+        {
+          "term": "试探更高职位",
+          "analysis": "高调参与全国性政治集会、频繁发表纲领性演讲，表现出超越副总统常规职责的能见度，可能是在为未来竞选更高职位测试舆论水温。"
+        },
+        {
+          "term": "重构公共话语",
+          "analysis": "试图将宗教话语、民族认同、经济民粹主义重新植入政治讨论中心，挑战现有政治正确边界，长期目标是改变国家政治对话的基础框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于移民与边境安全、文化认同战争、经济民粹主义、宗教价值观和党派斗争。",
+      "sub_items": [
+        {
+          "term": "移民与边境安全",
+          "analysis": "将非法移民问题视为国家核心安全与经济威胁，强调驱逐数据作为政策成功标志，并关联到工资、通胀等经济指标。"
+        },
+        {
+          "term": "文化认同战争",
+          "analysis": "深入参与关于种族、历史、爱国主义的辩论，公开反对多元平等倡议，强调传统美国身份和白人身份不应被贬低。"
+        },
+        {
+          "term": "经济民粹主义",
+          "analysis": "将经济问题如房价、工资归因于前政府移民政策，采用“人民对抗精英”的叙事，将经济政策包装为对普通美国人的拯救。"
+        },
+        {
+          "term": "宗教价值观",
+          "analysis": "频繁公开表达基督教信仰，访问宗教圣地，主张宗教在公共生活中应拥有更大空间，并将此视为回归建国传统。"
+        },
+        {
+          "term": "党派斗争",
+          "analysis": "将民主党描绘为激进、破坏性、非爱国的力量，使用激烈言辞强化对立，将政府停摆等事件完全归咎于政治对手。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      0,
+      2,
+      8
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Oct 29 23:34:32 +0000 2025",
+      "text": "Vice President JD Vance Delivers Remarks at a Turning Point USA Tour Event https://t.co/iABTiWnP4k",
+      "translation": "副总统JD·万斯在Turning Point USA巡回活动上发表讲话 https://t.co/iABTiWnP4k",
+      "stance": "无关",
+      "metrics": {
+        "reply": 421,
+        "retweet": 1435,
+        "like": 7359
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 18:15:23 +0000 2025",
+      "text": "RT @VPPressSec: WATCH: @VP discusses how the Trump Administration is tackling illegal immigration\n\n“We’re trying to do everything we possib…",
+      "translation": "转发 @VPPressSec：观看：@VP讨论特朗普政府如何应对非法移民问题 “我们正尽一切可能...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 57,
+        "retweet": 140,
+        "like": 702
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 16:38:35 +0000 2025",
+      "text": "Vice President Vance on President Trump's commitment to America First peace negotiations: \n\n“The President asks himself the question, ‘what is in America's best interests?’...That's why you see the president constantly, exercising American leverage.” https://t.co/vpUzdciuJA",
+      "translation": "副总统万斯谈特朗普总统对美国优先和平谈判的承诺：“总统自问：‘什么最符合美国利益？’...这就是为什么你们看到总统不断运用美国的影响力。” https://t.co/vpUzdciuJA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 687,
+        "retweet": 1405,
+        "like": 7734
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 13:47:53 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP: \"I've never woken up and thought to myself, 'How do I make myself President of the United States?' What I wake u…",
+      "translation": "转发 @RapidResponse47：.@VP：“我从未醒来时想过‘如何让自己成为美国总统？’我醒来时想的是...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 325,
+        "retweet": 1296,
+        "like": 12848
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 14:30:42 +0000 2025",
+      "text": "Vice President Vance held a press conference at the Civil-Military Coordination Center in Israel yesterday, joined by Special Envoy Steve Witkoff and Jared Kushner\n📸 https://t.co/fJNZrrtKwG",
+      "translation": "副总统万斯昨天在以色列军民协调中心举行新闻发布会，特别使节史蒂夫·维特科夫和贾里德·库什纳陪同 📸 https://t.co/fJNZrrtKwG",
+      "stance": "无关",
+      "metrics": {
+        "reply": 639,
+        "retweet": 1070,
+        "like": 5445
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 13:56:00 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP: \"This Gaza deal is a critical piece of unlocking the Abraham Accords... An alliance structure in the Middle East…",
+      "translation": "转发 @RapidResponse47：.@VP：“这项加沙协议是解锁《亚伯拉罕协议》的关键一环...中东的联盟结构...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 245,
+        "retweet": 439,
+        "like": 2022
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 13:34:16 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP in Israel: \"These are days of destiny... We have a very, very tough task ahead of us — which is to disarm Hamas,…",
+      "translation": "转发 @RapidResponse47：.@VP在以色列：“这是命运攸关的日子...我们面前有一项非常、非常艰巨的任务——解除哈马斯的武装...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 442,
+        "retweet": 780,
+        "like": 4588
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 12:13:15 +0000 2025",
+      "text": "RT @VPCommsDir: Vice President Vance tours the newly launched Civil-Military Coordination Center alongside Special Envoy Steve Witkoff and…",
+      "translation": "转发 @VPCommsDir：副总统万斯与特别使节史蒂夫·维特科夫和贾里德·库什纳一同参观新启动的军民协调中心...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 67,
+        "retweet": 186,
+        "like": 898
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 11:15:56 +0000 2025",
+      "text": "RT @VPCommsDir: 🚨Fox News: US military opens coordination center in Israel for Gaza stabilization and aid efforts amid ceasefire\n\n\"Civil-Mi…",
+      "translation": "转发 @VPCommsDir：🚨福克斯新闻：美军在以色列开设协调中心，用于加沙稳定和援助工作，同时停火 “军民...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 35,
+        "retweet": 106,
+        "like": 498
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 10:27:33 +0000 2025",
+      "text": "RT @VPPressSec: “What we’ve seen the past week gives me great optimism the ceasefire is going to hold, and if we get from where we were a w…",
+      "translation": "转发 @VPPressSec：“过去一周的情况让我对停火将持续感到非常乐观，如果我们能从一周前的位置...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 47,
+        "retweet": 84,
+        "like": 571
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 10:14:33 +0000 2025",
+      "text": "RT @VPCommsDir: Vice President @JDVance following bilateral meeting with Prime Minister Netanyahu of Israel: \n\n“I think we’re going to do g…",
+      "translation": "转发 @VPCommsDir：副总统@JDVance与以色列总理内塔尼亚胡举行双边会议后：“我认为我们会做得很好...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 241,
+        "retweet": 426,
+        "like": 2441
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 17:47:59 +0000 2025",
+      "text": "VP Vance on bringing unity to America after Charlie Kirk's murder:\n\n“Unity requires everybody being on the same page...If we are going to have real unity in this country, we're all going to have to acknowledge that killing people for what they believe is wrong.” https://t.co/kRo65HvrnP",
+      "translation": "副总统万斯谈查理·柯克遇刺后如何为美国带来团结：“团结需要每个人意见一致...如果我们想在这个国家实现真正的团结，我们都必须承认因信仰而杀人是错误的。” https://t.co/kRo65HvrnP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2338,
+        "retweet": 4312,
+        "like": 25242
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 17:47:30 +0000 2025",
+      "text": "RT @WhiteHouse: Freedom is not a theory, it's a testimony. \n\nEvery single day the Trump Administration will continue to carry out the missi…",
+      "translation": "转发 @WhiteHouse：自由不是理论，而是见证。特朗普政府每一天都将持续执行使命...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1829,
+        "retweet": 5879,
+        "like": 36553
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 17:47:22 +0000 2025",
+      "text": "RT @WhiteHouse: Democrats now want to block the President from funding our troops and protecting vulnerable Americans with tariff revenue,…",
+      "translation": "转发 @WhiteHouse：民主党人现在想阻止总统用关税收入为我们的军队提供资金并保护弱势美国人...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2207,
+        "retweet": 5723,
+        "like": 13580
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 17:04:42 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP: \"I've had people who've come up to me who've said, 'I went back to church because Charlie got shot' ... For all…",
+      "translation": "转发 @RapidResponse47：.@VP：“有人来找我说，‘因为查理被枪击，我重新去了教堂’...对所有...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 165,
+        "retweet": 726,
+        "like": 5511
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 16:59:46 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP: \"It's not most people who think that Charlie deserved to die... but it is a large enough and powerful enough min…",
+      "translation": "转发 @RapidResponse47：.@VP：“不是大多数人认为查理该死...但这是一个足够大且足够强大的少数群体...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 201,
+        "retweet": 1336,
+        "like": 9963
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 16:53:58 +0000 2025",
+      "text": "RT @RapidResponse47: BREAKING: @VP to join Mrs. Erika Kirk at Ole Miss on October 29th as part of the TPUSA tour.\n\n\"I'm excited about it...…",
+      "translation": "转发 @RapidResponse47：突发：@VP将于10月29日加入埃里卡·柯克夫人在密西西比大学的活动，作为TPUSA巡回的一部分。“我很期待...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 177,
+        "retweet": 1129,
+        "like": 6960
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 16:53:54 +0000 2025",
+      "text": "RT @RapidResponse47: .@VP: \"If we're going to have real unity in this country, we're ALL going to have to acknowledge that killing people f…",
+      "translation": "转发 @RapidResponse47：.@VP：“如果我们想在这个国家实现真正的团结，我们所有人都必须承认因信仰而杀人是错误的。”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 194,
+        "retweet": 709,
+        "like": 4205
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 14:55:40 +0000 2025",
+      "text": "RT @RapidResponse47: .@POTUS: \"JD had a very nasty person interviewing him, and we can't let that happen. It just is inappropriate to cut o…",
+      "translation": "转发 @RapidResponse47：.@POTUS：“JD遇到一个非常讨厌的人采访他，我们不能让这种事发生。打断别人说话就是不合适...”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 779,
+        "retweet": 5637,
+        "like": 37182
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 14:55:35 +0000 2025",
+      "text": "RT @WhiteHouse: 📸 DIPLOMACY ON DISPLAY: President Trump representing American strength on the world stage. 🇺🇸 https://t.co/1K7SU3w6BR",
+      "translation": "转发 @WhiteHouse：📸 外交风采：特朗普总统在世界舞台上展现美国力量。🇺🇸 https://t.co/1K7SU3w6BR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 644,
+        "retweet": 1189,
+        "like": 5147
+      }
+    }
+  ]
+}

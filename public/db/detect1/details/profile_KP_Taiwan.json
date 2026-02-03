@@ -1,0 +1,470 @@
+{
+  "id": "profile_KP_Taiwan.json",
+  "_fingerprint": "11ff2678b812f5a7110e1ca1b1625e51",
+  "name": "KP_Taiwan",
+  "username": "KP_Taiwan",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高开放性、中等尽责性、中等宜人性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与公开活动、国际交流、媒体发布会和群众集会，展现出强烈的社交倾向和公众表达欲望，乐于在聚光灯下分享观点和建立联系。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "积极接触国际社会、外国政要、学者及外交使团，对不同文化和政治体系表现出浓厚兴趣和接纳态度，言论中常涉及跨文化对话与合作。"
+        },
+        {
+          "term": "中等尽责性",
+          "analysis": "关注立法进程、社会事件（如工厂火灾）和政策议题，表现出一定的责任感和跟进意识，但部分言论较为宏观，缺乏具体执行细节的阐述。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在社交场合展现礼貌与合作姿态，如向日本代表致意、感谢他人礼物，但在政治议题上立场鲜明，不回避对抗性话语，如“不畏强权”。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "整体情绪表现稳定，能在公开场合保持镇定，但偶尔流露出对事件（如立法受阻、灾难）的遗憾或震惊，情绪波动处于可控范围。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在理想主义、表演倾向和依赖外部认可",
+      "sub_items": [
+        {
+          "term": "理想主义倾向",
+          "analysis": "强调“民主、自由、人权”等抽象价值观，在复杂的地缘政治环境中可能低估现实阻力，导致政策主张脱离实际或难以落地。"
+        },
+        {
+          "term": "公众表演性",
+          "analysis": "言论和活动高度公开化、仪式化，如参加酒会、集会、国际会议，可能更注重形象塑造和舆论反响，而非实质性成果。"
+        },
+        {
+          "term": "外部依赖心理",
+          "analysis": "频繁寻求与国际社会（如美国、日本、欧洲）的互动和认可，将外部支持视为重要资本，可能反映出对自身内部基础信心不足。"
+        },
+        {
+          "term": "对抗性姿态",
+          "analysis": "使用“不畏强权”等对抗性语言，虽能凝聚部分支持者，但也容易激化矛盾，限制对话空间，不利于柔性策略的实施。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出乐观偏见、群体思维和确认偏误",
+      "sub_items": [
+        {
+          "term": "乐观偏见",
+          "analysis": "对国际合作、立法通过、政策前景常持乐观预期，可能忽视潜在障碍或风险，例如对法案通过的期望高于实际政治博弈结果。"
+        },
+        {
+          "term": "群体内偏好",
+          "analysis": "言论高度围绕自身政党（台湾民众党）及支持者（如“小草们”），强化内部认同，可能对外部批评或不同观点存在过滤或排斥。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于引用和转发符合自身立场的内容（如政党账号的转发），强化既有观念，缺乏对对立观点的深入讨论或平衡呈现。"
+        },
+        {
+          "term": "代表性启发",
+          "analysis": "通过个别成功互动（如与美国学者座谈）推断整体关系良好，可能过度简化复杂的国际或两岸关系，忽略结构性矛盾。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开活动密集、言论依赖社交平台、易受事件驱动",
+      "sub_items": [
+        {
+          "term": "过度曝光风险",
+          "analysis": "高频次的公开行程、媒体露面和国际访问，可能消耗过多精力，削弱幕后深耕或政策细化能力，也增加言行被放大检视的概率。"
+        },
+        {
+          "term": "社交媒体依赖",
+          "analysis": "主要通过推特等平台发布言论，内容碎片化、即时性强，易受算法影响或引发误读，缺乏系统性的政策阐述平台。"
+        },
+        {
+          "term": "事件驱动反应",
+          "analysis": "对突发事件（如工厂火灾、立法进度）迅速发声，虽展现关切，但可能流于表面评论，缺乏长期、预防性的解决方案跟进。"
+        },
+        {
+          "term": "仪式化行为模式",
+          "analysis": "参与酒会、献礼、集会等仪式性活动较多，可能形成固定行为模板，削弱应变创新能力，在危机中显得僵化。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在国际定位、两岸关系、价值表述上存在矛盾与压力",
+      "sub_items": [
+        {
+          "term": "国际定位模糊",
+          "analysis": "一方面寻求与美、日等国的实质性合作，另一方面又强调“台湾”的自主性，在“国际空间”与“一个中国”原则间存在根本性矛盾，易引发外部质疑或反制。"
+        },
+        {
+          "term": "两岸论述空泛",
+          "analysis": "提及“两岸关系”但缺乏具体、可操作的方案，多停留在“和平、稳定”等泛化表述，无法有效回应大陆的核心关切，易被视作回避实质问题。"
+        },
+        {
+          "term": "价值口号化",
+          "analysis": "频繁使用“民主、自由、人权”等普世价值词汇，但未与本地实际深度结合，可能被视为迎合西方话语，缺乏本土创新的价值观论述。"
+        },
+        {
+          "term": "依赖美日支持",
+          "analysis": "将台美、台日关系置于显要位置，过度依赖外部力量背书，一旦国际局势变动或盟友策略调整，其立场基础可能迅速动摇。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在政策落地、危机管理、资源整合上显不足",
+      "sub_items": [
+        {
+          "term": "政策执行力存疑",
+          "analysis": "言论多聚焦宏观愿景和国际互动，少有具体政策细节、实施步骤或成效评估，反映出从理念到落地的能力链条可能薄弱。"
+        },
+        {
+          "term": "危机处理表面化",
+          "analysis": "对社会灾难（如工厂火灾）仅表达震惊和伤亡数字更新，未见深入的原因调查、责任追究或系统性改进建议，危机管理深度不足。"
+        },
+        {
+          "term": "资源整合局限",
+          "analysis": "虽接触国际学者、外交官，但互动多停留在座谈、接待层面，未展现出将外部资源转化为实质性合作项目或政策创新的能力。"
+        },
+        {
+          "term": "本土深耕欠缺",
+          "analysis": "活动重心偏向国际交流和都会区集会，对地方基层、产业实际、民生琐事的深入参与较少，可能影响本土支持基础的巩固。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑、认同困惑和抗压能力不确定性",
+      "sub_items": [
+        {
+          "term": "隐性焦虑",
+          "analysis": "在关键节点（如总统就职前）对舆论焦点分散表示“深感遗憾”，透露出对事态失控或关注度流失的潜在焦虑。"
+        },
+        {
+          "term": "认同困惑",
+          "analysis": "在“台湾”定位与国际承认间徘徊，既强调本土意识又渴求外部认可，这种矛盾可能引发内在的身份认同压力或决策犹豫。"
+        },
+        {
+          "term": "抗压能力未知",
+          "analysis": "目前多在顺境或中性环境下发言，尚未经历重大政治挫败或高强度舆论攻击，其心理韧性、逆境应对策略仍有待观察。"
+        },
+        {
+          "term": "情感依赖倾向",
+          "analysis": "通过节日祝福、感谢礼物等方式营造亲和形象，情感表达较丰富，可能在高压下过度依赖情感共鸣而非理性决策。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在提升国际能见度、塑造民主代言人形象、拓展政治空间",
+      "sub_items": [
+        {
+          "term": "国际形象构建",
+          "analysis": "通过频繁外交活动、学术交流和国际媒体曝光，旨在将个人及政党塑造为“台湾”在国际社会的合格代表，争取外部政治承认与支持。"
+        },
+        {
+          "term": "民主价值代言",
+          "analysis": "高举民主、自由旗帜，意图占据道德制高点，将自身定位为“捍卫者”，以区隔其他政治力量，吸引本土及国际自由派支持。"
+        },
+        {
+          "term": "政治空间拓展",
+          "analysis": "在两岸僵局中，以“开放对话”、“维持稳定”为名，实则寻求在不触及红线的前提下，逐步拓展“台湾”的国际活动空间与自主性。"
+        },
+        {
+          "term": "新生代动员",
+          "analysis": "利用社交平台、集会活动（如“小草们”）和青年议题，意图吸引年轻选民，构建新的支持基础，挑战传统政治格局。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "聚焦国际关系、两岸议题、民主价值、社会事件",
+      "sub_items": [
+        {
+          "term": "国际关系与外交",
+          "analysis": "核心话题之一，涵盖与美国、日本、欧洲等的互动，强调伙伴关系、共同价值及区域和平，旨在提升国际地位和获取支持。"
+        },
+        {
+          "term": "两岸关系与安全",
+          "analysis": "频繁提及但论述谨慎，常与“国防”、“稳定”并提，主张对话但缺乏具体方案，反映该议题的敏感性与策略性模糊。"
+        },
+        {
+          "term": "民主人权价值",
+          "analysis": "基础性话语框架，用于塑造正面形象、批判对立面，并作为与国际社会接轨的意识形态纽带，增强言论的道德正当性。"
+        },
+        {
+          "term": "本土社会与政治",
+          "analysis": "涉及立法进程、选举活动、灾难事件等本土议题，展现对内部事务的关切，但深度有限，多作为形象维护或即时反应的素材。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      0,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 50
+    },
+    {
+      "name": "同伴",
+      "value": 40
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Mar 26 10:38:35 +0000 2024",
+      "text": "不畏強權，捍衛人權。\nUndaunted in the face of power, unwavered in support of human rights.\n\nThank you @bueti Reinhard Bütikofer for the gift. https://t.co/sDBBDgvAW9",
+      "translation": "不畏强权，捍卫人权。面对权力毫不畏惧，支持人权坚定不移。感谢@bueti Reinhard Bütikofer的礼物。https://t.co/sDBBDgvAW9",
+      "stance": "负面",
+      "metrics": {
+        "reply": 122,
+        "retweet": 22,
+        "like": 392
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 21:49:10 +0000 2023",
+      "text": "During my trip to the United States, I had the opportunity to visit @Stanford, an amazing university steeped in a rich history spanning over 130 years. It was such an honor to connect with scholars and students at @HooverInst who are deeply immersed in the study of East Asian",
+      "translation": "在我访问美国期间，我有机会参观了@Stanford，这是一所拥有超过130年悠久历史的杰出大学。能够与@HooverInst那些深入研究东亚的学者和学生们交流，我感到非常荣幸。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23,
+        "retweet": 5,
+        "like": 151
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 21:49:09 +0000 2023",
+      "text": "此次訪美，我特別來到創校超過130年的 #史丹佛大學，拜訪 #胡佛研究所，與許多從事東亞區域研究的學者、同學們進行座談。\n\n祁凱立研究員對台灣非常熟悉，同學們關注的問題也十分廣泛，從台美關係、兩岸關係，到國防、教育、tsmc 的發展等等，問題一個接一個，求知慾旺盛。 https://t.co/6OFL5k9UGq",
+      "translation": "此次访美，我特别来到创校超过130年的#史丹佛大学，拜访#胡佛研究所，与许多从事东亚区域研究的学者、同学们进行座谈。祁凯立研究员对台湾非常熟悉，同学们关注的问题也十分广泛，从台美关系、两岸关系，到国防、教育、台积电的发展等等，问题一个接一个，求知欲旺盛。https://t.co/6OFL5k9UGq",
+      "stance": "负面",
+      "metrics": {
+        "reply": 40,
+        "retweet": 18,
+        "like": 430
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:11:35 +0000 2023",
+      "text": "RT @TPP_Taiwan: We must work with experts in the field to identify optimal solutions for Taiwan's security while simultaneously \nnurturing…",
+      "translation": "RT @TPP_Taiwan: 我们必须与该领域的专家合作，为台湾的安全找到最佳解决方案，同时培养...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 10,
+        "retweet": 1,
+        "like": 61
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:11:33 +0000 2023",
+      "text": "RT @TPP_Taiwan: Given the complex web of international challenges we currently face, it is imperative that we foster collaborative efforts…",
+      "translation": "RT @TPP_Taiwan: 鉴于我们当前面临的复杂国际挑战网络，我们必须促进合作努力...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:11:31 +0000 2023",
+      "text": "RT @TPP_Taiwan: This year, the Taiwan People's Party made its debut appearance, providing us with the honor of reconnecting with old friend…",
+      "translation": "RT @TPP_Taiwan: 今年，台湾民众党首次亮相，使我们有幸与老朋友重新联系...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 2,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:11:28 +0000 2023",
+      "text": "RT @TPP_Taiwan: This event marked the 22nd successful installment of the Defense Industry Forum organized by the US-Taiwan Business Council.",
+      "translation": "RT @TPP_Taiwan: 此次活动标志着美台商业理事会组织的国防工业论坛第22次成功举办。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 4,
+        "retweet": 1,
+        "like": 33
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:11:00 +0000 2023",
+      "text": "RT @TPP_Taiwan: https://t.co/78k3FnfWWH",
+      "translation": "RT @TPP_Taiwan: https://t.co/78k3FnfWWH",
+      "stance": "负面",
+      "metrics": {
+        "reply": 20,
+        "retweet": 2,
+        "like": 80
+      }
+    },
+    {
+      "created_at": "Thu Oct 05 10:10:55 +0000 2023",
+      "text": "RT @TPP_Taiwan: Secretary-General @ambtomchou representing Chairman @KP_Taiwan, recently participated in the 2023 @ustaiwan US-Taiwan Busin…",
+      "translation": "RT @TPP_Taiwan: 秘书长@ambtomchou代表主席@KP_Taiwan，最近参加了2023年@ustaiwan美台商业理事会...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 3,
+        "like": 49
+      }
+    },
+    {
+      "created_at": "Thu Mar 14 06:29:26 +0000 2024",
+      "text": "Open conversation solidifies connections. https://t.co/yUEgl5n6Yj",
+      "translation": "开放的对话巩固了联系。https://t.co/yUEgl5n6Yj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 52,
+        "retweet": 10,
+        "like": 287
+      }
+    },
+    {
+      "created_at": "Thu Jan 04 12:08:44 +0000 2024",
+      "text": "RT @cywuofficial: Hello everyone - this is Cynthia Wu. I'll be using this page to update you on my campaign, events, thoughts, and other in…",
+      "translation": "RT @cywuofficial: 大家好，我是吴欣盈。我将用这个页面更新我的竞选活动、事件、想法和其他信息...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 92,
+        "retweet": 15,
+        "like": 212
+      }
+    },
+    {
+      "created_at": "Sun May 12 02:14:54 +0000 2024",
+      "text": "母親節快樂。\nHappy Mother’s Day. https://t.co/vgCmcuRdVN",
+      "translation": "母亲节快乐。Happy Mother’s Day。https://t.co/vgCmcuRdVN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 24,
+        "like": 421
+      }
+    },
+    {
+      "created_at": "Sat Sep 23 13:09:21 +0000 2023",
+      "text": "The fire happened yesterday at the golf equipment factory in Pingtung Science Park has shocked the nation with over a hundred injured, a death toll climbing to six, and several others are still missing.\n\nThe Pingtung County Fire Department reports that a massive explosion",
+      "translation": "昨天发生在屏东科学园区高尔夫设备工厂的火灾震惊了全国，超过一百人受伤，死亡人数已攀升至六人，还有几人仍然失踪。屏东县消防局报告称，发生了一次大规模爆炸。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 37,
+        "retweet": 11,
+        "like": 126
+      }
+    },
+    {
+      "created_at": "Sat Sep 23 13:09:06 +0000 2023",
+      "text": "屏東科技園區的高爾夫球具工廠大火，傷者破百，死亡人數已經攀升到六人，還有多位仍然失聯。",
+      "translation": "屏东科技园区的高尔夫球具工厂大火，伤者破百，死亡人数已经攀升到六人，还有多位仍然失联。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 60,
+        "retweet": 18,
+        "like": 399
+      }
+    },
+    {
+      "created_at": "Mon Feb 26 12:40:24 +0000 2024",
+      "text": "今天受邀來參加日本天皇華誕慶祝酒會，我向日本駐台代表片山和之致意，並獻上誠摯祝福，希望台日友情長存。 https://t.co/ohIAyRATHI",
+      "translation": "今天受邀来参加日本天皇华诞庆祝酒会，我向日本驻台代表片山和之致意，并献上诚挚祝福，希望台日友情长存。https://t.co/ohIAyRATHI",
+      "stance": "负面",
+      "metrics": {
+        "reply": 65,
+        "retweet": 31,
+        "like": 635
+      }
+    },
+    {
+      "created_at": "Fri Oct 20 03:38:55 +0000 2023",
+      "text": "This week, I had the pleasure to share Taiwan's seafood delicacies with @BoardChairAIT and AIT friends. Our dialogue underscored the Taiwan-U.S. partnership in maintaining peace, stability, and prosperity in the region, deeply rooted in shared values of democracy and freedom.\n\nAs https://t.co/v7SMqv17Xg",
+      "translation": "本周，我很高兴与@BoardChairAIT和AIT的朋友们分享台湾的海鲜美食。我们的对话强调了台美伙伴关系在维护该地区和平、稳定与繁荣方面的作用，这深深植根于民主和自由的共同价值观。https://t.co/v7SMqv17Xg",
+      "stance": "负面",
+      "metrics": {
+        "reply": 79,
+        "retweet": 21,
+        "like": 369
+      }
+    },
+    {
+      "created_at": "Fri May 17 09:02:49 +0000 2024",
+      "text": "Taiwan People's Party (TPP) hoped that the Legislative Reform Bill would pass its third reading in the Legislative Yuan today. However, it is deeply regrettable that, just three days before the Presidential Inauguration on May 20, the public discourse has not focused on the https://t.co/rx3mXPsWyQ",
+      "translation": "台湾民众党（TPP）希望立法改革法案今天能在立法院通过三读。然而，令人深感遗憾的是，在5月20日总统就职典礼仅三天前，公众讨论并未聚焦于...https://t.co/rx3mXPsWyQ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 89,
+        "retweet": 76,
+        "like": 179
+      }
+    },
+    {
+      "created_at": "Fri Jan 12 13:56:36 +0000 2024",
+      "text": "投票前這一夜，我們終於來到總統府前的凱道上，小草們圍繞著景福門，一路佈滿信義路、仁愛路。",
+      "translation": "投票前这一夜，我们终于来到总统府前的凯道上，小草们围绕着景福门，一路布满信义路、仁爱路。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 342,
+        "retweet": 128,
+        "like": 1981
+      }
+    },
+    {
+      "created_at": "Fri Jan 12 09:54:18 +0000 2024",
+      "text": "RT @TPP_Taiwan: 📸 2024 Taiwan People's Party Presidential Pre-Election International Press Conference \n\n@KP_Taiwan and @cywuofficial are pr…",
+      "translation": "RT @TPP_Taiwan: 📸 2024台湾民众党总统选举前国际记者会 @KP_Taiwan和@cywuofficial正在准备...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 83,
+        "retweet": 33,
+        "like": 326
+      }
+    },
+    {
+      "created_at": "Fri Dec 08 10:53:51 +0000 2023",
+      "text": "It was our honor to welcome over 40 ambassadors, representatives, and diplomats participating in the TPP 2023 diplomatic reception on Dec 5th.\n\nI am grateful for the opportunity to share my prospects and policies on foreign relations, national defense, and cross-strait relations https://t.co/wYl0KNGi1P",
+      "translation": "我们很荣幸于12月5日欢迎超过40位大使、代表和外交官参加TPP 2023外交招待会。我感谢有机会分享我在外交关系、国防和两岸关系方面的前景和政策。https://t.co/wYNGi1P",
+      "stance": "负面",
+      "metrics": {
+        "reply": 119,
+        "retweet": 32,
+        "like": 610
+      }
+    }
+  ]
+}

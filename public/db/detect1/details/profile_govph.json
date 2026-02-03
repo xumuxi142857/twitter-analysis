@@ -1,0 +1,438 @@
+{
+  "id": "profile_govph.json",
+  "_fingerprint": "ee073da7dfd18d2c4d95a6759f51e073",
+  "name": "govph",
+  "username": "govph",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "通过发布官方公告、备忘录和程序性文件，表现出对规则、职责和行政流程的严格遵守与执行。内容涉及假日安排、行政命令和人事程序，体现了对制度性工作的重视。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "内容主要聚焦于官方行政事务和公共信息，风格较为正式和程序化。偶尔涉及文化内容（如民歌介绍），显示出对本土文化的一定关注，但整体探索性和创新性表达有限。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "言论以官方声明和公共信息发布为主，旨在履行政府告知义务和服务职能。在灾害应对内容中表现出对公共福祉的关注，但整体互动性和情感共鸣的表达较为克制。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "主要通过官方渠道进行单向信息发布，内容权威且正式。积极参与国际外交活动（如总统出访）的报道，但在社交媒体上直接、活跃的公众互动表现不明显。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在一定的官僚主义倾向和情感疏离风险。",
+      "sub_items": [
+        {
+          "term": "程序至上倾向",
+          "analysis": "大量内容为公告、备忘录、命令等程序性文件的发布或转述，可能过于依赖既定流程和官方文书，在应对突发或复杂情境时灵活性可能不足。"
+        },
+        {
+          "term": "情感表达匮乏",
+          "analysis": "沟通风格高度官方化和事务性，即使在涉及民生（如灾害）或文化的话题时，也主要采用事实陈述和程序说明的方式，缺乏与公众的情感连接和共情表达。"
+        },
+        {
+          "term": "创新动力不足",
+          "analysis": "信息发布模式固定，内容集中于常规行政、外交通报和灾害响应更新，缺乏对治理新理念、政策深度解读或未来愿景的主动阐述与倡导。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威依赖和现状维护的认知模式。",
+      "sub_items": [
+        {
+          "term": "权威信息偏好",
+          "analysis": "几乎全部言论都基于官方声明、总统活动、政府文件或授权机构的通报，强烈依赖和传播体制内权威信源，对非官方或多元视角的信息关注度低。"
+        },
+        {
+          "term": "现状维护偏差",
+          "analysis": "强调历届政府政策的连续性（如应对安全威胁的方式、与老挝的外交关系史），倾向于从历史延续性和制度稳定性的框架来呈现当前行动，规避对现状的批判性审视。"
+        },
+        {
+          "term": "事务性聚焦",
+          "analysis": "认知明显集中于具体行政事务、外交行程、程序公告和灾害应对操作细节，对宏观战略、深层矛盾或长远影响的抽象思考与讨论在公开言论中未见体现。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "沟通模式僵化，应对危机时反应可能迟缓。",
+      "sub_items": [
+        {
+          "term": "单向传播依赖",
+          "analysis": "沟通行为高度依赖官方新闻稿、公告的发布和转发，缺乏双向互动、民意收集或政策辩论的渠道建设，易导致与公众脱节，在舆论危机中陷入被动。"
+        },
+        {
+          "term": "危机响应模式化",
+          "analysis": "灾害应对信息流于程序更新和部门协作通报（如物资准备、疏散安排），缺乏对受灾民众个体困境的关切、对响应不足的反思或对系统性脆弱点的深入探讨。"
+        },
+        {
+          "term": "内容同质化风险",
+          "analysis": "发布内容类型固定（公告、外交、灾害响应），风格统一，长期可能使受众产生信息疲劳，削弱关键信息的传播效力，尤其是在需要公众高度关注和配合的紧急情况下。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度依附于现行行政体系，缺乏独立政治表达。",
+      "sub_items": [
+        {
+          "term": "行政立场绑定",
+          "analysis": "所有立场表达均与现任总统的言行、政府政策和官方口径完全一致，缺乏作为独立机构的批判性距离或补充性视角，其公信力与当前政府的声誉深度绑定。"
+        },
+        {
+          "term": "外交立场从属",
+          "analysis": "在国际关系议题上，完全复述和宣传总统的外交活动与声明，自身未展现出独立的外交分析、立场阐述或对复杂国际局势的多元平衡考量。"
+        },
+        {
+          "term": "国内议题回避",
+          "analysis": "回避国内可能存在的政治分歧、社会矛盾或政策争议，立场仅限于发布中性行政信息和灾害应对更新，在需要表明价值判断或解决社会分歧的议题上存在立场真空。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "能力体现于信息传递与程序执行，战略规划与创新不足。",
+      "sub_items": [
+        {
+          "term": "战略叙事能力弱",
+          "analysis": "能力局限于事务性信息通报，缺乏将分散的行政活动、外交出访整合成具有说服力的国家战略叙事或长期愿景的能力，难以有效塑造和引导公众认知。"
+        },
+        {
+          "term": "政策解读能力缺失",
+          "analysis": "仅发布政策文本或简短公告，未展示出对政策背景、意图、潜在影响及公众关切点进行深入解读、阐释或教育公众的能力，影响政策执行的社会理解与支持度。"
+        },
+        {
+          "term": "舆情引导能力单一",
+          "analysis": "舆情管理能力表现为在灾害期间发布标准化准备和响应信息，依赖“时刻准备”等口号，缺乏在非危机时期塑造积极议程、应对复杂谣言或修复信任破裂的多维手段。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "思维局限于行政执行框架，缺乏批判性与弹性。",
+      "sub_items": [
+        {
+          "term": "系统内思维定势",
+          "analysis": "心智模式完全内嵌于政府行政系统，思考出发点是如何传达和执行既定决策，而非质疑决策前提、评估替代方案或考虑系统外部的利益与观点。"
+        },
+        {
+          "term": "危机认知机械化",
+          "analysis": "将自然灾害等危机主要认知为需要启动预定响应程序的管理问题，心智聚焦于流程、部门协作和状态更新，可能忽视危机的社会心理维度、长期恢复需求或结构性成因。"
+        },
+        {
+          "term": "学习与适应迟缓",
+          "analysis": "言论模式长期固定，未见根据反馈、新情况或错误进行内容、风格或策略调整的迹象，显示出心智在适应变化、从经验中学习并创新沟通方式方面可能存在惰性。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "核心意图在于维护政府形象、确保政令畅通与控制信息议程。",
+      "sub_items": [
+        {
+          "term": "塑造合规与效能形象",
+          "analysis": "通过大量发布程序性公告和行政命令，意图向公众和国际社会展示政府运作的规范性、效率和对法治的遵从，从而巩固其合法性与权威感。"
+        },
+        {
+          "term": "转移与简化公众焦点",
+          "analysis": "在灾害期间高频发布准备和响应细节，意图将复杂的危机管理和社会脆弱性问题，转化为可跟踪、可管理的操作流程更新，从而安抚公众情绪并转移对深层治理问题的质疑。"
+        },
+        {
+          "term": "垄断官方叙事渠道",
+          "analysis": "作为官方信息出口，意图集中并控制关于总统活动、政府决策和国内重大事件（如灾害）的第一手叙事，塑造统一、权威的公众认知，边缘化非官方或批评性声音。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于行政公告、总统外交、灾害响应及文化点滴。",
+      "sub_items": [
+        {
+          "term": "国内行政与治理",
+          "analysis": "核心话题之一，包括发布国家及地方假日公告、行政命令、人事任免备忘录等，体现日常治理与规则执行。"
+        },
+        {
+          "term": "总统外交与双边关系",
+          "analysis": "重要话题，聚焦总统出访活动、对外声明及菲律宾与特定国家（如老挝、美国）的历史和当前关系，服务于外交形象塑造。"
+        },
+        {
+          "term": "灾害应急与公共安全",
+          "analysis": "突出话题，尤其在特定时期，高频转发灾害预警、应急准备、救援协调和灾民援助信息，强调政府响应能力与公共关怀。"
+        },
+        {
+          "term": "菲律宾本土文化",
+          "analysis": "零星话题，如介绍地方传统民歌，旨在展示对民族文化遗产的认可与宣传，丰富官方账号的人文色彩。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      2
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Sep 06 06:19:49 +0000 2016",
+      "text": "Pres. Duterte issues Proclamation No. 56, declaring 12 Sept. 2016 a regular holiday in observance of Eid'l Adha. https://t.co/aSd3c4Tikj",
+      "translation": "杜特尔特总统发布第56号公告，宣布2016年9月12日为常规假日，以庆祝宰牲节。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 128,
+        "like": 130
+      }
+    },
+    {
+      "created_at": "Tue Sep 06 05:27:55 +0000 2016",
+      "text": "Statement of #PresidentDuterte on the PH-US meeting, as delivered by Spokesperson @ernieabella: \n\nhttps://t.co/tgklEy45db",
+      "translation": "#杜特尔特总统关于菲美会议的声明，由发言人@ernieabella发布：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 17,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Tue Sep 06 01:15:54 +0000 2016",
+      "text": "READ: The departure speech of President Rodrigo Roa Duterte before he flies to Laos and Indonesia: https://t.co/pVX8trPbyi",
+      "translation": "阅读：罗德里戈·罗亚·杜特尔特总统在飞往老挝和印度尼西亚前的出发演讲：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 8,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Thu Sep 01 12:23:11 +0000 2016",
+      "text": "Proclamation No. 54, s. 2016: Declaring 2 September 2016 as a Special (Non-Working) Day in the Province of Albay:  https://t.co/x02E6DMO9z",
+      "translation": "2016年第54号公告：宣布2016年9月2日为阿尔拜省的特殊（非工作日）日：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 4,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Thu Sep 01 12:16:37 +0000 2016",
+      "text": "Memorandum Order No. 2, s. 2016\n\nRead here: https://t.co/wnnbTZ3Gls",
+      "translation": "2016年第2号备忘录令 在此阅读：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 14:47:00 +0000 2016",
+      "text": "RT @LagingHandaPH: Remember these hashtags para mas maging #LagingHanda. https://t.co/LSimnqLRJB",
+      "translation": "转发 @LagingHandaPH：记住这些标签，以便更加#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 49,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 11:32:00 +0000 2016",
+      "text": "RT @LagingHandaPH: #LaMesaDam update as of 6:00PM. https://t.co/oINKywPc2Y",
+      "translation": "转发 @LagingHandaPH：截至下午6:00的#拉梅萨大坝更新。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 48,
+        "like": 28
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 11:31:52 +0000 2016",
+      "text": "RT @LagingHandaPH: #WalangPasok sa mga lugar na ito bukas dahil sa #Habagat. Manatiling #LagingHanda. https://t.co/hKFgpy8TbJ",
+      "translation": "转发 @LagingHandaPH：由于#西南季风，明天这些地区#停课。保持#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 83,
+        "like": 68
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 09:34:07 +0000 2016",
+      "text": "RT @LagingHandaPH: .@TeamAFP rescue vehicles are on stand by &amp; ready to assist the residents who needed to be evacuated. #LagingHanda https…",
+      "translation": "转发 @LagingHandaPH：@TeamAFP的救援车辆已待命，准备协助需要撤离的居民。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 13,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 09:33:59 +0000 2016",
+      "text": "RT @LagingHandaPH: .@dswdserves &amp; Marikina City LGU prepare food to be distributed by @TeamAFP &amp; @MarikinaRescue to difft evac. ctrs. https…",
+      "translation": "转发 @LagingHandaPH：@dswdserves和马利金纳市地方政府部门准备食物，将由@TeamAFP和@MarikinaRescue分发到不同的疏散中心。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 17,
+        "like": 41
+      }
+    },
+    {
+      "created_at": "Sun Aug 14 04:43:14 +0000 2016",
+      "text": "RT @LagingHandaPH: #Habagat #Evacuation update on La Mesa Dam and Marikina City River.\n\nManatiling #LagingHanda. https://t.co/p4Qe5OdKoq",
+      "translation": "转发 @LagingHandaPH：关于拉梅萨大坝和马利金纳市河的#西南季风#疏散更新。保持#时刻准备着。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 38,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Sat Sep 03 12:11:13 +0000 2016",
+      "text": "RT @LagingHandaPH: Mga bagay na dapat tandaan upang maging #LagingHanda. https://t.co/k3plkyIZvr",
+      "translation": "转发 @LagingHandaPH：为了保持#时刻准备着，应该记住的事情。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 86,
+        "like": 91
+      }
+    },
+    {
+      "created_at": "Sat Aug 13 09:52:00 +0000 2016",
+      "text": "RT @LagingHandaPH: Preparations are underway for enforced evacuations. #LagingHanda https://t.co/lrZ896R5xp",
+      "translation": "转发 @LagingHandaPH：强制疏散的准备工作正在进行中。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 33,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Sat Aug 13 08:32:00 +0000 2016",
+      "text": "RT @LagingHandaPH: MARIKINA RIVER | Preparations are underway for mandatory evacuation. #LagingHanda https://t.co/va20Ev0VFM",
+      "translation": "转发 @LagingHandaPH：马利金纳河 | 强制疏散的准备工作正在进行中。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 28,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 13:37:37 +0000 2016",
+      "text": "#PresidentDuterte becomes the fourth Philippine president to visit the Lao PDR. https://t.co/8lc9MTzqgV",
+      "translation": "#杜特尔特总统成为第四位访问老挝人民民主共和国的菲律宾总统。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 19,
+        "like": 68
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 13:36:55 +0000 2016",
+      "text": "PH relations w/ Lao was established in 1955. Since then, several agreements strengthen our ties as ASEAN neighbors. https://t.co/AD0VmaSPtY",
+      "translation": "菲律宾与老挝的关系于1955年建立。自那时起，多项协议加强了我们作为东盟邻国的联系。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 28,
+        "like": 50
+      }
+    },
+    {
+      "created_at": "Mon Sep 05 09:29:39 +0000 2016",
+      "text": "Several administrations have responded to threats to the security of the State without curtailing civil rights.\n\nhttps://t.co/ODrtN4SRcY",
+      "translation": "历届政府都应对了国家安全的威胁，同时没有限制公民权利。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Mon Aug 22 13:58:38 +0000 2016",
+      "text": "Memorandum Circular on Courtesy Resignations of Presidential Appointees\n\nRead here: https://t.co/zJRtKOsWXE",
+      "translation": "关于总统任命官员礼貌性辞职的备忘录通告 在此阅读：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 16,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Mon Aug 15 10:22:20 +0000 2016",
+      "text": "Ang \"Dandansoy\" ay isang awiting Ilonggo na tungkol sa pamamaalam ng isang babae kay Dandansoy. https://t.co/JuBDIWv3q1",
+      "translation": "《丹丹索伊》是一首伊隆戈语歌曲，讲述了一位女子向丹丹索伊告别。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 79,
+        "like": 239
+      }
+    },
+    {
+      "created_at": "Mon Aug 15 03:30:03 +0000 2016",
+      "text": "RT @LagingHandaPH: Marikina City Nutrition personnel attends to nutrition needs of residents in evac. ctrs. since Sat. #LagingHanda https:/…",
+      "translation": "转发 @LagingHandaPH：自周六以来，马利金纳市营养人员一直在疏散中心照顾居民的营养需求。#时刻准备着",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 20
+      }
+    }
+  ]
+}

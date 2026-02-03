@@ -1,0 +1,474 @@
+{
+  "id": "profile_DFAPHL.json",
+  "_fingerprint": "1fd47d7416831106a880d6a0d942e721",
+  "name": "DFAPHL",
+  "username": "DFAPHL",
+  "category": "media",
+  "daily_count": 0.9,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论高度结构化、程序化，严格遵循官方发布流程，强调截止日期、资格要求、正式声明等规范性内容，表现出强烈的组织纪律性和责任感。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行对外宣传、公告发布和活动推广，积极展示机构成就、服务项目和外交互动，表现出显著的公众沟通和对外交往倾向。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "内容主要围绕既定外交政策、行政事务和常规活动，创新性表达有限，但在特定议题如社会倡导（反暴力）上展现出一定的议题广度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "言论基调总体为中立、专业的官方口吻，在提供领事协助、宣布便民政策时体现服务性，但在涉及主权、反恐等议题时立场坚定，不刻意讨好。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在应对突发事件（如公民受伤、国际局势）时能发布稳定、程序化的回应，情绪波动在公开言论中控制良好，表现出制度化的危机处理模式。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在官僚主义、形式主义倾向，可能缺乏灵活性与情感共鸣。",
+      "sub_items": [
+        {
+          "term": "程序至上主义",
+          "analysis": "过度依赖标准化公告、声明模板和固定发布渠道（如特定链接），沟通方式略显机械，可能削弱信息的个性化和即时互动感。"
+        },
+        {
+          "term": "形象管理偏好",
+          "analysis": "持续使用统一宣传标签（如#DFAForgingAhead），侧重于展示成就和正面行动，对内部问题、失败或批评的公开讨论极少，存在选择性呈现的倾向。"
+        },
+        {
+          "term": "情感疏离",
+          "analysis": "即使在涉及公民受伤或社会关怀议题时，语言也保持高度官方和事实陈述风格，缺乏强烈的情感渲染或个性化叙事，可能影响公众的情感连接。"
+        },
+        {
+          "term": "创新惰性",
+          "analysis": "内容类型和发布模式重复性高（如多次重复的招聘公告），在沟通策略和公众参与形式上未见显著突破或实验性尝试。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出显著的权威信息源偏好、现状维护倾向及机构中心视角。",
+      "sub_items": [
+        {
+          "term": "官方信源依赖",
+          "analysis": "几乎全部信息都源自机构自身或高级官员，极少引用或整合外部独立分析、公众意见或反对观点，信息环境高度内循环。"
+        },
+        {
+          "term": "现状维护偏见",
+          "analysis": "言论致力于阐述和捍卫现有政策、双边关系和国际合作框架，对变革性、批判性或颠覆现有外交路径的议题探讨基本缺席。"
+        },
+        {
+          "term": "机构中心视角",
+          "analysis": "所有叙事均以机构行动、政策和立场为绝对核心，公民或其他国家常被描绘为服务对象、合作伙伴或事件背景，而非平等的行为主体。"
+        },
+        {
+          "term": "过度概括倾向",
+          "analysis": "使用“ steadfast ”、“ strong cooperation ”、“ empowering ”等概括性、正面词汇描述复杂行动和关系，可能简化了实际执行中的挑战和细节。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "沟通模式可预测且单向，对突发和非结构化情境适应力存疑。",
+      "sub_items": [
+        {
+          "term": "沟通模式固化",
+          "analysis": "高度依赖预设的声明、公告、警报格式，在需要即兴回应、深度互动或处理模糊性高的公众质询时，反应速度和适应性可能不足。"
+        },
+        {
+          "term": "信息发布冗余",
+          "analysis": "同一信息（如招聘公告）多次重复发布，可能降低关键信息的突出性，并给受众带来信息疲劳，影响沟通效率。"
+        },
+        {
+          "term": "单向传播依赖",
+          "analysis": "言论以发布信息为主，缺乏有来有回的对话、民意征集或对公众反馈的公开讨论，这种单向模式在危机中可能加剧信息不对称和公众不信任。"
+        },
+        {
+          "term": "技术故障暴露",
+          "analysis": "公开承认内部系统（如电话线路）出现临时故障，显示其运营对特定技术渠道存在依赖，此类中断可能影响服务连续性和公众感知的可靠性。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场受制于国家政策与双边关系动态，在多重利益间需保持平衡。",
+      "sub_items": [
+        {
+          "term": "政策连贯性压力",
+          "analysis": "需在不同议题（如对华签证便利、对澳反恐合作、对东盟事务）上保持与国家整体外交政策的高度一致，任何局部调整都可能被解读为整体立场变化，灵活性受限。"
+        },
+        {
+          "term": "双边关系平衡挑战",
+          "analysis": "在同时处理与多个大国（如中国、日本、澳大利亚）及地区组织（东盟）的关系时，言论需谨慎权衡，避免被视为过度倾向任何一方，维持平衡的表述难度高。"
+        },
+        {
+          "term": "国内舆论衔接风险",
+          "analysis": "作为对外窗口，其国际表态可能需要与国内政治氛围和公众情绪相协调，若两者出现温差，可能陷入内外解释困境。"
+        },
+        {
+          "term": "价值观推广张力",
+          "analysis": "在推广“结束暴力 against women”等普世价值观时，需考虑不同文化背景接收国的接受度，过于强势或过于温和都可能招致批评。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在资源分配、多任务协调及复杂信息处理方面面临潜在压力。",
+      "sub_items": [
+        {
+          "term": "资源分散风险",
+          "analysis": "同时推进领事服务、人才招聘、外交活动、公众宣传、危机应对等多线任务，可能面临人力资源、预算或注意力分配过载的风险。"
+        },
+        {
+          "term": "信息过载与简化",
+          "analysis": "需要处理大量国际国内信息并提炼为官方声明，过程中可能存在信息筛选偏差或过度简化复杂地缘政治议题的风险。"
+        },
+        {
+          "term": "执行与宣传落差",
+          "analysis": "宣传中强调的“ impactful ”体验、“ steadfast ”协助和“ strong ”合作，其实际执行效果和深度可能因官僚程序、资源限制而打折扣，存在承诺与兑现的潜在差距。"
+        },
+        {
+          "term": "技术平台依赖性",
+          "analysis": "严重依赖特定社交媒体平台（如推文格式）和短链接进行核心信息发布，若平台算法变化、服务中断或遭遇网络攻击，信息传播能力将直接受损。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能存在群体思维、风险规避及对机构身份过度认同的倾向。",
+      "sub_items": [
+        {
+          "term": "群体思维倾向",
+          "analysis": "在高度层级化和政策驱动的环境中，决策和言论可能更倾向于寻求内部共识和符合既定方针，抑制批判性思考和异议表达。"
+        },
+        {
+          "term": "风险规避心态",
+          "analysis": "言论高度谨慎，集中于程序性、成果性和反应性内容，对前瞻性战略辩论、政策失败反思或争议性预测涉足极少，反映出强烈的风险控制意识。"
+        },
+        {
+          "term": "机构身份内化",
+          "analysis": "言论完全与机构身份绑定，个人或部门的独立声音缺失，这种深度绑定可能导致在机构声誉受损时，缺乏缓冲或替代叙事视角。"
+        },
+        {
+          "term": "认知闭合需求",
+          "analysis": "倾向于提供明确、结论性的声明（如“重申合作”、“发表声明”），对国际事务中的不确定性、模糊性和长期演变性探讨不足，满足于提供即时、确定的官方解读。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "核心意图在于塑造专业、有效、前瞻的国家外交形象，并巩固内部凝聚力。",
+      "sub_items": [
+        {
+          "term": "国家形象管理",
+          "analysis": "通过展示外交活跃度、领事关怀、国际合作和内部招聘，系统性塑造菲律宾作为一个负责任、有活力、治理良好的现代国家的国际形象。"
+        },
+        {
+          "term": "国内合法性巩固",
+          "analysis": "通过宣传外交成就、服务公民和创造就业（实习、招聘），旨在向国内民众证明该部门的价值和效能，强化其存在的公共合法性。"
+        },
+        {
+          "term": "人才与资源吸引",
+          "analysis": "持续推广实习和职位空缺，意在吸引年轻人才和专业力量加入，确保机构人力资本的持续更新和储备，服务于长期外交能力建设。"
+        },
+        {
+          "term": "议程设置与框架塑造",
+          "analysis": "通过主动发布对特定国际事件（委内瑞拉、东盟会议、邦迪海滩事件）的声明，试图影响国际和国内舆论对这些议题的讨论框架和理解方式。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于领事服务、外交互动、机构运营、人力资源及国际事务表态。",
+      "sub_items": [
+        {
+          "term": "领事保护与服务",
+          "analysis": "频繁提及对海外公民的协助、签证政策更新、领事 outreach 任务以及设施运营（如使馆重建），这是其最基础且高频的核心职能展示。"
+        },
+        {
+          "term": "双边与多边外交",
+          "analysis": "持续报道高级别官员互访（如日本外相）、 reaffirm 与特定国家（澳大利亚）的合作，以及对东盟、柬埔寨-泰国等区域事务的参与和表态。"
+        },
+        {
+          "term": "机构运营与招聘",
+          "analysis": "大量、重复地发布实习项目和职位招聘信息，并通报内部考试、设施启用、系统维护等情况，显示对机构自身人力资源建设和日常运营的高度关注。"
+        },
+        {
+          "term": "国际事务立场声明",
+          "analysis": "就一系列国际事件和地区动态（反恐、委内瑞拉、邦迪海滩、东盟会议）发布正式声明，表明其在全球议题上的关注点和官方立场。"
+        },
+        {
+          "term": "价值观与社会倡导",
+          "analysis": "在特定议题上组织或参与社会倡导活动，如举办关于结束针对妇女暴力的研讨会，展示其超越传统外交的社会责任维度。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      2,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      2,
+      2,
+      6
+    ],
+    [
+      2,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 13 07:28:19 +0000 2026",
+      "text": "The Philippine Embassy in Singapore formally opened its newly reconstructed Chancery at 20 Nassim Road and relaunched Sentro Rizal Singapore through Pasinaya, a ceremonial and cultural event held on 09 January 2026.\n\n#DFAForgingAhead https://t.co/V8gOiqeI6L",
+      "translation": "菲律宾驻新加坡大使馆于2026年1月9日通过名为Pasinaya的仪式和文化活动，正式启用了位于纳西姆路20号新重建的使馆办公楼，并重新启动了新加坡Sentro Rizal。 #DFAForgingAhead https://t.co/V8gOiqeI6L",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 06:51:31 +0000 2026",
+      "text": "The BFSE wishes to announce that the CSC will conduct the 2026 Foreign Service Officer Examination (FSOE) Qualifying Test on Sunday, 25 January 2026 in Metro Manila and other provinces in the Philippines.\n\nRead full announcement 👉🏻 https://t.co/7oIXw8K2h6\n#DFAForgingAhead https://t.co/pFPlgPcaWp",
+      "translation": "BFSE（注：可能指菲律宾外交部相关机构）宣布，CSC（注：可能指公务员委员会）将于2026年1月25日（星期日）在马尼拉大都会及菲律宾其他省份举行2026年外交官资格考试（FSOE）资格测试。阅读完整公告 👉🏻 https://t.co/7oIXw8K2h6 #DFAForgingAhead https://t.co/pFPlgPcaWp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 02:53:04 +0000 2026",
+      "text": "READ #DFAAdvisory: Temporary Unavailability of Telephone Lines of the DFA Office of Consular Affairs - Civil Registration Division\nRead full advisory 👉🏻 https://t.co/zlCEUNuadN \n\n#DFAForgingAhead https://t.co/D7T1teYQ7W",
+      "translation": "阅读 #DFAAdvisory：外交部领事事务办公室 - 民事登记处电话线路暂时无法使用。阅读完整公告 👉🏻 https://t.co/zlCEUNuadN #DFAForgingAhead https://t.co/D7T1teYQ7W",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 02:20:25 +0000 2026",
+      "text": "READ #DFAStatement: Philippines, Australia Reaffirm Strong Counter-Terrorism Cooperation Following Australian Investigation Update  \n\nAlso found in this link 👉🏻 https://t.co/DOi5VLFgNO\n#DFAForgingAhead\n@SecLazaro https://t.co/MOc46h1jSE",
+      "translation": "阅读 #DFAStatement：在澳大利亚调查更新后，菲律宾与澳大利亚重申强有力的反恐合作。链接中亦可查看 👉🏻 https://t.co/DOi5VLFgNO #DFAForgingAhead @SecLazaro https://t.co/MOc46h1jSE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Tue Jan 06 01:12:29 +0000 2026",
+      "text": "JOB VACANCY ALERT\nVisit https://t.co/VUDN8kRbqy for more details.\n#DFAForgingAhead https://t.co/x8Oo2qIk6k",
+      "translation": "职位空缺提醒。访问 https://t.co/VUDN8kRbqy 获取更多详情。 #DFAForgingAhead https://t.co/x8Oo2qIk6k",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Dec 30 03:15:33 +0000 2025",
+      "text": "READ #DFAStatement on the Outcome of the 3rd Cambodia-Thailand GBC\nAlso found in this link 👉🏻 https://t.co/pRP4qh0a2P\n#DFAForgingAhead https://t.co/Zg7vuxN2s1",
+      "translation": "阅读 #DFAStatement 关于第三次柬埔寨-泰国联合边界委员会（GBC）成果的声明。链接中亦可查看 👉🏻 https://t.co/pRP4qh0a2P #DFAForgingAhead https://t.co/Zg7vuxN2s1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 6,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 06:39:16 +0000 2025",
+      "text": "READ #DFAStatement on Bondi Beach Incident\n\nAlso found in this link 👉🏻 https://t.co/x0ko6LVoKd\n#DFAForgingAhead\n@SecLazaro https://t.co/r9Hp7G96lc",
+      "translation": "阅读 #DFAStatement 关于邦迪海滩事件的声明。链接中亦可查看 👉🏻 https://t.co/x0ko6LVoKd #DFAForgingAhead @SecLazaro https://t.co/r9Hp7G96lc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 10,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 07:54:05 +0000 2026",
+      "text": "(1/2) The DFA Student Internship Program is accepting applicants on a first-come, first-served basis! \n - Gain real-world experience\n - Enhance your skills\n - Be part of something impactful\n\nDuration: At least 200 hours\nStarts: 1st week of February 2026 https://t.co/4WfLyQarLp",
+      "translation": "(1/2) 外交部学生实习项目正在接受申请，先到先得！ - 获得真实世界经验 - 提升您的技能 - 参与有影响力的事务。时长：至少200小时。开始时间：2026年2月第一周。https://t.co/4WfLyQarLp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 07:03:44 +0000 2026",
+      "text": "READ #DFAStatement: Philippines to Allow Visa-Free Entry for 14 Days for Chinese Nationals\n\nAlso found in this link 👉🏻 https://t.co/zLXmLzEXPf\n#DFAForgingAhead https://t.co/nvxIKEJvPW",
+      "translation": "阅读 #DFAStatement：菲律宾将允许中国公民免签入境14天。链接中亦可查看 👉🏻 https://t.co/zLXmLzEXPf #DFAForgingAhead https://t.co/nvxIKEJvPW",
+      "stance": "正面",
+      "metrics": {
+        "reply": 6,
+        "retweet": 11,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 05:27:46 +0000 2026",
+      "text": "JOB VACANCY ALERT\nVisit https://t.co/VUDN8kRJg6 for more details.\n#DFAForgingAhead https://t.co/Ays6NHCBBV",
+      "translation": "职位空缺提醒。访问 https://t.co/VUDN8kRJg6 获取更多详情。 #DFAForgingAhead https://t.co/Ays6NHCBBV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Thu Jan 08 01:47:31 +0000 2026",
+      "text": "JOB VACANCY ALERT\nVisit https://t.co/VUDN8kRJg6 for more details.\n#DFAForgingAhead https://t.co/DRq7CAPv2Y",
+      "translation": "职位空缺提醒。访问 https://t.co/VUDN8kRJg6 获取更多详情。 #DFAForgingAhead https://t.co/DRq7CAPv2Y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 3,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Jan 05 00:31:37 +0000 2026",
+      "text": "READ #DFAStatement: DFA Statement on Situation in Venezuela\n\nAlso found in this link 👉🏻 https://t.co/GSdRG87HNf\n#DFAForgingAhead https://t.co/xOu6CkIBYV",
+      "translation": "阅读 #DFAStatement：外交部关于委内瑞拉局势的声明。链接中亦可查看 👉🏻 https://t.co/GSdRG87HNf #DFAForgingAhead https://t.co/xOu6CkIBYV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 19,
+        "like": 47
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 10:14:06 +0000 2025",
+      "text": "READ #DFAStatement: DFA Statement on the Special ASEAN Foreign Ministers Meeting\n\nAlso found in this link 👉🏻 https://t.co/0MJfwAqheM\n#DFAForgingAhead\n@SecLazaro https://t.co/KyD89paOVy",
+      "translation": "阅读 #DFAStatement：外交部关于东盟外长特别会议的声明。链接中亦可查看 👉🏻 https://t.co/0MJfwAqheM #DFAForgingAhead @SecLazaro https://t.co/KyD89paOVy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 14,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 10:12:19 +0000 2026",
+      "text": "Our Embassies and Consulates abroad remain steadfast in providing assistance to Filipino communities around the globe. Here’s a look back to the consular outreach missions mounted for the months of October to December 2025!\n\n#DFAForgingAhead https://t.co/ACevXzIkSm",
+      "translation": "我们的驻外使领馆坚定不移地为全球菲律宾社区提供协助。以下是2025年10月至12月期间开展的领事外展任务回顾！ #DFAForgingAhead https://t.co/ACevXzIkSm",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 09:05:07 +0000 2026",
+      "text": "JOB VACANCY ALERT‼️‼️\n\nVisit https://t.co/VUDN8kRJg6 for more details.\n\n#DFAForgingAhead https://t.co/J8VxLOMgtO",
+      "translation": "职位空缺提醒‼️‼️ 访问 https://t.co/VUDN8kRJg6 获取更多详情。 #DFAForgingAhead https://t.co/J8VxLOMgtO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 03:03:22 +0000 2026",
+      "text": "DFA Extends Continued Assistance to Filipino Minor Injured in Crans-Montana Fire\n\nRead full story 👉🏻 https://t.co/CSqDpw72va\n#DFAForgingAhead https://t.co/8fUcZdzP7O",
+      "translation": "外交部继续为在克朗-蒙塔纳火灾中受伤的菲律宾未成年人提供援助。阅读完整报道 👉🏻 https://t.co/CSqDpw72va #DFAForgingAhead https://t.co/8fUcZdzP7O",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Fri Jan 09 01:10:43 +0000 2026",
+      "text": "Secretary of Foreign Affairs Ma. Theresa P. Lazaro is scheduled to host Japanese Foreign Minister Toshimitsu Motegi for an official visit to the Philippines on 15 January 2026. \n\nRead full story 👉🏻 https://t.co/RKJJsh51pz\n#DFAForgingAhead\n@SecLazaro https://t.co/aokUWFPiGk",
+      "translation": "外交部长玛·特蕾莎·P·拉扎罗定于2026年1月15日接待日本外相茂木敏充对菲律宾进行正式访问。阅读完整报道 👉🏻 https://t.co/RKJJsh51pz #DFAForgingAhead @SecLazaro https://t.co/aokUWFPiGk",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 09:41:29 +0000 2025",
+      "text": "The Department of Foreign Affairs hosted a hybrid seminar entitled “Safe Spaces For All: Empowering Protection Through the Law” in observance of the 18-day advocacy campaign to end Violence Against Women (VAW).\n\nRead full story 👉🏻 https://t.co/crW1LnT1bZ\n#DFAForgingAhead https://t.co/wkSxmpJKbJ",
+      "translation": "外交部举办了一场题为“所有人的安全空间：通过法律赋权保护”的混合研讨会，作为结束暴力侵害妇女（VAW）18天倡导活动的一部分。阅读完整报道 👉🏻 https://t.co/crW1LnT1bZ #DFAForgingAhead https://t.co/wkSxmpJKbJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 4,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 09:13:26 +0000 2025",
+      "text": "Check out this video to know what the DFA's been up to this past month!\nFor full articles of the featured stories, click here 👉 https://t.co/ENXTwk9ANG​​\n#DFAForgingAhead https://t.co/x7GUFAx7sK",
+      "translation": "观看此视频，了解外交部过去一个月的工作动态！点击此处查看专题报道的完整文章 👉 https://t.co/ENXTwk9ANG #DFAForgingAhead https://t.co/x7GUFAx7sK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 02:05:36 +0000 2025",
+      "text": "JOB VACANCY ALERT\n\nVisit https://t.co/VUDN8kRJg6 for more details.\n\n#DFAForgingAhead https://t.co/ig9Eejx27D",
+      "translation": "职位空缺提醒。访问 https://t.co/VUDN8kRJg6 获取更多详情。 #DFAForgingAhead https://t.co/ig9Eejx27D",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 6
+      }
+    }
+  ]
+}

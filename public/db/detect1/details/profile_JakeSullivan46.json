@@ -1,0 +1,470 @@
+{
+  "id": "profile_JakeSullivan46.json",
+  "_fingerprint": "c403dcb8a0beda8755bd5d7cde972a74",
+  "name": "JakeSullivan46",
+  "username": "JakeSullivan46",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高宜人性、中等开放性、中等外倾性、低神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论表现出强烈的责任感和组织性，严格遵循外交政策框架，对国际事务的回应系统且规范，体现了对职责的高度承诺。"
+        },
+        {
+          "term": "高宜人性",
+          "analysis": "频繁表达对他国人民的同情、支持与哀悼，强调合作与伙伴关系，展现出外交官式的亲和与共情能力。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "言论聚焦于既定外交议程和战略伙伴关系，如支持乌克兰、推进印太战略，对新信息或不同视角的探索性表达有限，符合其官方角色定位。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "通过社交媒体和公开会议进行大量外交互动，但表达风格正式、克制，以政策宣示和立场重申为主，而非个人情感或观点的强烈流露。"
+        },
+        {
+          "term": "低神经质",
+          "analysis": "面对国际危机和负面事件时，回应冷静、措辞稳重，强调美国的应对措施和坚定立场，未表现出明显的情绪波动或焦虑。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在潜在的道德优越感、立场僵化及对复杂性的简化倾向。",
+      "sub_items": [
+        {
+          "term": "道德优越感",
+          "analysis": "言论中频繁将美国立场与“正义”、“民主”、“自由”等普世价值直接绑定，隐含美国及其盟友代表道德正确方的预设，可能忽视其他视角的合理性。"
+        },
+        {
+          "term": "立场僵化",
+          "analysis": "对特定政权和国家的批评立场高度一致且不容妥协，如对俄罗斯、白俄罗斯卢卡申科政权、伊朗政权的谴责，显示出非黑即白的二元对立思维。"
+        },
+        {
+          "term": "外交官僚化",
+          "analysis": "表达高度依赖标准化的外交辞令和官方表态模板，可能导致言论缺乏个人特色和深度洞察，流于形式化。"
+        },
+        {
+          "term": "复杂性简化",
+          "analysis": "在处理多边国际议题时，倾向于将复杂的地缘政治矛盾简化为“民主与专制”、“侵略与自卫”的叙事框架，可能低估了问题的多维性和历史根源。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏袒及框架效应。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "言论选择性强化美国现行外交政策的正确性，如强调对乌克兰支持的“关键”作用、对印太战略“进展”的肯定，回避可能存在的政策争议或失效案例。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "明确区分“盟友/伙伴”与“对手/政权”，对前者如乌克兰、以色列、新加坡、肯尼亚等给予无条件支持或赞扬，对后者则持严厉批评态度。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "善于使用“自由开放”、“公正和平”、“战略伙伴”等积极框架包装美国行动，同时用“威权”、“侵略”、“错误法案”等负面框架定义对手行为，引导受众认知。"
+        },
+        {
+          "term": "结果导向乐观",
+          "analysis": "对未来外交成果如人质协议达成、乌克兰胜利、印太愿景实现表现出确定性预期，可能低估了实现过程中的障碍和变数。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开表态受制于政策连贯性、易受突发事件牵引、回应模式可预测。",
+      "sub_items": [
+        {
+          "term": "政策连贯性束缚",
+          "analysis": "作为高级官员，言论必须与政府整体外交政策保持高度一致，限制了根据实时情势灵活调整表态的空间，可能显得反应迟缓或机械。"
+        },
+        {
+          "term": "突发事件牵引",
+          "analysis": "大量言论是对国际突发事件如空难、自然灾害、袭击事件的反应，显示其议程易被外部危机事件打断，可能分散对长期战略的专注力。"
+        },
+        {
+          "term": "回应模式可预测",
+          "analysis": "对各类事件的回应遵循固定模式：哀悼/关切-重申美国支持-呼吁行动/合作。这种模式化回应可能降低其言论的独特影响力和说服力。"
+        },
+        {
+          "term": "公开平台依赖",
+          "analysis": "主要通过社交媒体发布外交表态，虽然传播迅速，但也使其立场暴露在实时公众审视和对手针对性解读之下，增加了被断章取义或舆论反噬的风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在多边议题上存在双重标准风险、联盟依赖过强、价值观输出易引发反弹。",
+      "sub_items": [
+        {
+          "term": "双重标准风险",
+          "analysis": "强烈谴责某些国家的人权或司法问题，但对盟友的类似争议处理相对温和或避而不谈，这种选择性关注可能损害其道德立场的公信力。"
+        },
+        {
+          "term": "联盟依赖过强",
+          "analysis": "外交成功高度依赖于与特定盟友和伙伴的协调，如依赖肯尼亚解决海地问题、依赖四边机制推进印太战略。一旦关键伙伴立场动摇，相关议程可能受阻。"
+        },
+        {
+          "term": "价值观输出反弹",
+          "analysis": "公开支持他国内部的反对派或批评其立法，如支持白俄罗斯民主运动、批评乌干达反同性恋法案，可能被相关国家视为干涉内政，激化对立。"
+        },
+        {
+          "term": "议题关联捆绑",
+          "analysis": "倾向于将不同议题进行价值观捆绑，如将支持乌克兰与“民主”绑定，将批评某些国家与“人权”绑定。这种捆绑一旦在某个议题上受挫，可能连带损害其他议题的立场可信度。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在危机斡旋、文化敏感度、资源分配平衡方面可能存在局限。",
+      "sub_items": [
+        {
+          "term": "危机斡旋能力存疑",
+          "analysis": "虽然频繁介入国际危机表态，但言论多停留在原则支持和外交施压层面，对于如何具体化解巴以冲突、俄乌战争等深层次矛盾，未见提出创新性或突破性方案。"
+        },
+        {
+          "term": "文化敏感度不足",
+          "analysis": "以西方民主价值观为普世标准评判他国政治与社会，如对格鲁吉亚、伊朗局势的评论，可能未能充分理解和尊重当地复杂的历史文化背景与社会发展阶段。"
+        },
+        {
+          "term": "资源分配挑战",
+          "analysis": "同时承诺支持全球多个地区的安全、民主和人道主义事务，从乌克兰到印太，从海地到非洲之角。在资源有限的情况下，如何平衡和兑现这些承诺是一大能力考验。"
+        },
+        {
+          "term": "长期战略执行力",
+          "analysis": "言论强调长期愿景，如“自由开放的印太”、“乌克兰的最终胜利”。将宏大愿景转化为可持续、可执行的具体步骤并克服中期挫折的能力，仍有待观察。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能存在使命负担、认知闭合及情感耗竭风险。",
+      "sub_items": [
+        {
+          "term": "使命负担感",
+          "analysis": "言论中透露出美国肩负全球领导与维护“正义秩序”的沉重责任感，这种“天命”意识可能导致压力过大，难以接受政策失败或影响力衰减。"
+        },
+        {
+          "term": "认知闭合倾向",
+          "analysis": "对国际事务的分析框架相对固定，倾向于用既有意识形态透镜看待新问题，可能阻碍其吸收异见信息、进行认知更新和策略调整。"
+        },
+        {
+          "term": "情感耗竭风险",
+          "analysis": "长期处理战争、灾难、人质危机等负面国际事件，并需要持续表达哀悼、关切与坚定支持，可能积累情感疲劳，影响决策敏锐度。"
+        },
+        {
+          "term": "身份认同捆绑",
+          "analysis": "个人职业身份与美国国家利益和价值观高度捆绑，其言论的成败直接关联个人价值实现。这种深度捆绑可能使其在政策受挫时承受巨大的个人认同危机。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在巩固联盟体系、塑造国际叙事、维护美国霸权及测试对手反应。",
+      "sub_items": [
+        {
+          "term": "巩固联盟与伙伴网络",
+          "analysis": "通过公开赞扬盟友、支持其立场、协调行动，旨在强化以美国为中心的战略伙伴关系网络，确保在关键地缘竞争中的集体优势。"
+        },
+        {
+          "term": "塑造国际舆论叙事",
+          "analysis": "通过高频次、高规格的官方表态，定义国际事件的“性质”，如将俄乌战争定性为“侵略”，将某些国内法案定性为“侵犯人权”，旨在主导全球舆论场的话语权。"
+        },
+        {
+          "term": "维持美国全球领导地位",
+          "analysis": "在所有重大国际事务中强调美国的“存在”、“承诺”和“领导作用”，意在向国内外受众展示美国仍是不可或缺的全球领导者，抵消关于美国衰落的论调。"
+        },
+        {
+          "term": "战略威慑与信号释放",
+          "analysis": "部分强硬表态，如对以色列安全的“铁一般承诺”、要求伊朗释放政治犯，意在向对手传递威慑信号，测试其反应底线，并为可能的后续行动营造氛围。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦于地缘战略、联盟外交、人权价值观及危机管理。",
+      "sub_items": [
+        {
+          "term": "大国竞争与地缘战略",
+          "analysis": "核心议题，突出表现为对乌克兰的全力支持以对抗俄罗斯，以及通过四边机制等推进“自由开放印太”战略以平衡其他大国影响力。"
+        },
+        {
+          "term": "联盟与伙伴关系维护",
+          "analysis": "频繁话题，涉及与欧洲、亚洲、中东、拉美等多地区盟友及伙伴的双边互动、高层互访及共同声明，强调共享利益和价值观。"
+        },
+        {
+          "term": "人权与民主推广",
+          "analysis": "重要议题，包括声援白俄罗斯、伊朗等国的民主运动或政治犯，批评乌干达等国立法，将人权和民主作为外交政策的核心要素之一。"
+        },
+        {
+          "term": "国际危机与突发事件应对",
+          "analysis": "常规话题，涵盖对自然灾害、空难、袭击事件、人质危机的即时反应，展现美国的人道主义关怀和全球事务参与度。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      3,
+      7
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed May 15 19:02:51 +0000 2024",
+      "text": "Congratulations to @LawrenceWongst on becoming Singapore’s fourth prime minister.  Our strategic partnership with Singapore is as strong as ever.  We look forward to continued innovation and cooperation to promote a free and open Indo-Pacific.",
+      "translation": "祝贺@LawrenceWongst成为新加坡第四任总理。我们与新加坡的战略伙伴关系一如既往地牢固。我们期待继续创新与合作，以促进自由开放的印太地区。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 113,
+        "retweet": 41,
+        "like": 137
+      }
+    },
+    {
+      "created_at": "Wed May 01 02:28:37 +0000 2024",
+      "text": "We extend our deepest condolences to the families, loved ones, and communities of those who have been impacted by the catastrophic flooding in Kenya over the past month. We offer our continued and resolute support to @WilliamsRuto and all Kenyans during the difficult days ahead.",
+      "translation": "我们对过去一个月肯尼亚灾难性洪水中受影响者的家人、亲人和社区表示最深切的哀悼。在未来的困难日子里，我们将继续坚定地支持@WilliamsRuto和所有肯尼亚人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 150,
+        "retweet": 34,
+        "like": 122
+      }
+    },
+    {
+      "created_at": "Wed Mar 20 20:51:34 +0000 2024",
+      "text": "I traveled to Kyiv today to meet with @ZelenskyyUa &amp; @AndriyYermak to reaffirm the United States’ unwavering commitment to supporting Ukraine. We have stood by Ukraine’s side since this war began and will do so every step of the way until Ukraine has prevailed.",
+      "translation": "我今天前往基辅会见@ZelenskyyUa和@AndriyYermak，重申美国支持乌克兰的坚定承诺。自战争开始以来，我们一直站在乌克兰一边，并将一路支持直到乌克兰取得胜利。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2739,
+        "retweet": 373,
+        "like": 1960
+      }
+    },
+    {
+      "created_at": "Wed Jun 12 18:19:43 +0000 2024",
+      "text": "I met with @Tsihanouskaya of Belarus to convey our steadfast support for the people of Belarus in their pursuit of a democratic future. We will continue to hold the Lukashenka regime to account and demand the release of political prisoners.",
+      "translation": "我会见了白俄罗斯的@Tsihanouskaya，表达我们对白俄罗斯人民追求民主未来的坚定支持。我们将继续追究卢卡申科政权的责任，并要求释放政治犯。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 196,
+        "retweet": 45,
+        "like": 288
+      }
+    },
+    {
+      "created_at": "Tue Jun 11 19:57:50 +0000 2024",
+      "text": "Today we raised the Hostage and Wrongful Detainee Flag at the White House in memory of Majd Kamalmaz. We extend our deepest condolences to his family and we thank them for their continued advocacy in support of securing the release of all Americans held around the world.",
+      "translation": "今天我们在白宫升起人质和不当拘留者旗帜，以纪念Majd Kamalmaz。我们向其家人表示最深切的哀悼，并感谢他们持续倡导支持释放世界各地被关押的所有美国人。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 109,
+        "retweet": 42,
+        "like": 169
+      }
+    },
+    {
+      "created_at": "Tue Jun 11 14:25:02 +0000 2024",
+      "text": "We are deeply concerned by the stabbing of U.S. citizens in Jilin City, China. Our team has been in touch with these Americans and our PRC counterparts to ensure that the victims’ needs are met, &amp; appropriate law enforcement steps are being taken. We wish them a speedy recovery.",
+      "translation": "我们对中国吉林市美国公民被刺事件深表关切。我们的团队已与这些美国人及中方对应部门联系，以确保满足受害者的需求，并采取适当的执法措施。我们祝愿他们早日康复。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 153,
+        "retweet": 71,
+        "like": 331
+      }
+    },
+    {
+      "created_at": "Tue Jun 11 12:56:00 +0000 2024",
+      "text": "Saddened to learn an aircraft carrying Malawian VP Chilima and nine others has crashed. The United States offers our deepest condolences, stands by Malawi during this difficult time, and will continue to offer our resolute support in search and recovery operations.",
+      "translation": "得知载有马拉维副总统奇利马及其他九人的飞机坠毁，我们深感悲痛。美国表示最深切的哀悼，在此困难时刻与马拉维站在一起，并将继续坚定支持搜救行动。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 41,
+        "retweet": 35,
+        "like": 164
+      }
+    },
+    {
+      "created_at": "Tue Jun 04 20:23:49 +0000 2024",
+      "text": "Today I met with the families of Americans being held hostage by Hamas. I wanted to update them directly on the proposal that’s on the table right now that will bring their loved ones home and lead to a more secure Israel. As the President said last week, this deal must get done. https://t.co/fAIxOq1fFJ",
+      "translation": "今天我见了被哈马斯扣押的美国人质家属。我想直接向他们通报当前摆在桌面上的提案，该提案将让他们的亲人回家，并带来一个更安全的以色列。正如总统上周所说，必须达成这项协议。https://t.co/fAIxOq1fFJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 672,
+        "retweet": 150,
+        "like": 566
+      }
+    },
+    {
+      "created_at": "Thu May 16 15:55:39 +0000 2024",
+      "text": "Pleased to meet Paraguayan President @SantiPenap to advance shared economic, security, and democratic priorities. On behalf of @POTUS, I welcomed Paraguay’s support for democracy in Venezuela and condemnation of Russia’s war against Ukraine.\nhttps://t.co/vckpnoRjmr https://t.co/lZOZset87U",
+      "translation": "很高兴会见巴拉圭总统@SantiPenap，以推进共同的经济、安全和民主优先事项。我代表@POTUS，欢迎巴拉圭支持委内瑞拉民主并谴责俄罗斯对乌克兰的战争。https://t.co/vckpnoRjmr https://t.co/lZOZset87U",
+      "stance": "无关",
+      "metrics": {
+        "reply": 254,
+        "retweet": 75,
+        "like": 244
+      }
+    },
+    {
+      "created_at": "Thu Mar 21 01:24:31 +0000 2024",
+      "text": "Congratulations to President-elect @Prabowo on his victory in Indonesia’s presidential election.  As the world’s second- and third-largest democracies, we look forward to continued cooperation in support of ASEAN and a free and open Indo-Pacific.",
+      "translation": "祝贺总统当选人@Prabowo在印度尼西亚总统选举中获胜。作为世界第二和第三大民主国家，我们期待继续合作，支持东盟及自由开放的印太地区。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 362,
+        "retweet": 22,
+        "like": 123
+      }
+    },
+    {
+      "created_at": "Thu Apr 04 20:30:18 +0000 2024",
+      "text": "The Uganda Court’s decision to uphold most aspects of the Anti-Homosexuality Act is deeply disappointing, imperils human rights, &amp; jeopardizes economic prosperity for all Ugandans.",
+      "translation": "乌干达法院决定维持《反同性恋法》的大部分内容，这令人深感失望，危及人权，并损害所有乌干达人的经济繁荣。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 281,
+        "retweet": 51,
+        "like": 245
+      }
+    },
+    {
+      "created_at": "Sun May 12 00:35:05 +0000 2024",
+      "text": "The Georgian people are making their views known. Undeterred by intimidation tactics, tens of thousands of peaceful protestors turned out in rainy Tbilisi today to demand Georgian Dream withdraw the legislation.",
+      "translation": "格鲁吉亚人民正在表达他们的观点。尽管受到恐吓策略的阻挠，今天仍有数万和平抗议者在雨中的第比利斯集会，要求格鲁吉亚梦想党撤回立法。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 457,
+        "retweet": 240,
+        "like": 1175
+      }
+    },
+    {
+      "created_at": "Sat Apr 27 16:17:46 +0000 2024",
+      "text": "We strongly condemn the death sentence for Iranian rapper Toomaj Salehi.  His voice amplifies the aspirations of the Iranian people and all those silenced by the regime.  We call for his immediate release.  #SaveToomaj.",
+      "translation": "我们强烈谴责伊朗说唱歌手Toomaj Salehi被判处死刑。他的声音放大了伊朗人民及所有被政权压制者的愿望。我们呼吁立即释放他。#SaveToomaj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 440,
+        "retweet": 723,
+        "like": 2029
+      }
+    },
+    {
+      "created_at": "Sat Apr 13 18:12:34 +0000 2024",
+      "text": "This morning, I spoke with my Israeli counterpart, National Security Advisor Hanegbi, to discuss events in the Middle East. During the call, I reiterated the United States’ ironclad commitment to the security of Israel.",
+      "translation": "今天早上，我与以色列同行国家安全顾问哈内格比通话，讨论了中东局势。通话中，我重申了美国对以色列安全的铁定承诺。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1437,
+        "retweet": 499,
+        "like": 2641
+      }
+    },
+    {
+      "created_at": "Mon May 20 15:52:51 +0000 2024",
+      "text": "One year ago, Quad Leaders met in Hiroshima and announced tangible benefits for our partners in the Indo-Pacific. Much progress has been made in the year since. We look forward to the next Summit later this year to continue advancing our shared vision for a free and open region. https://t.co/V0dGvcJzpO",
+      "translation": "一年前，四方安全对话领导人在广岛会晤，并宣布为我们在印太地区的伙伴带来切实利益。过去一年取得了很大进展。我们期待今年晚些时候的下一次峰会，继续推进我们对自由开放地区的共同愿景。https://t.co/V0dGvcJzpO",
+      "stance": "无关",
+      "metrics": {
+        "reply": 997,
+        "retweet": 71,
+        "like": 359
+      }
+    },
+    {
+      "created_at": "Mon Jun 17 18:43:54 +0000 2024",
+      "text": "This weekend’s summit was a critical milestone on a path toward a just peace in Ukraine. The U.S. will proudly walk with Ukraine along that path until Ukraine prevails and peace prevails. https://t.co/wiAZjyGIKE",
+      "translation": "本周末的峰会是通往乌克兰公正和平道路上的一个关键里程碑。美国将自豪地与乌克兰同行，直到乌克兰获胜、和平降临。https://t.co/wiAZjyGIKE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 706,
+        "retweet": 244,
+        "like": 916
+      }
+    },
+    {
+      "created_at": "Fri May 10 19:53:05 +0000 2024",
+      "text": "We extend our deepest condolences to the families, loved ones, and communities of those who have been impacted by flooding and landslides in southern Brazil. We will continue supporting @LulaOficial's robust response to assist all Brazilians in these difficult times.",
+      "translation": "我们对巴西南部洪水和山体滑坡中受影响者的家人、亲人和社区表示最深切的哀悼。我们将继续支持@LulaOficial的强力应对措施，以帮助所有巴西人度过这些困难时期。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 58,
+        "retweet": 31,
+        "like": 145
+      }
+    },
+    {
+      "created_at": "Fri Mar 22 22:19:09 +0000 2024",
+      "text": "Honored to have Iraqi Deputy Prime Minister Dr. Fuad Hussein back at the White House today to discuss further strengthening our partnership and to lay the groundwork for the important visit of Iraqi Prime Minister Mohammed Shia’a Al-Sudani next month.",
+      "translation": "今天荣幸地在白宫再次接待伊拉克副总理福阿德·侯赛因博士，讨论进一步加强我们的伙伴关系，并为下个月伊拉克总理穆罕默德·希亚·苏达尼的重要访问奠定基础。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 229,
+        "retweet": 19,
+        "like": 107
+      }
+    },
+    {
+      "created_at": "Fri Mar 15 17:58:48 +0000 2024",
+      "text": "Was great talking with @AmbMonicaJuma today. We greatly appreciate Kenya’s commitment to bring relief to the people of Haiti and efforts to address current challenges in the Horn of Africa.",
+      "translation": "今天与@AmbMonicaJuma的交谈非常愉快。我们非常赞赏肯尼亚承诺为海地人民提供救济，并努力应对非洲之角当前的挑战。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 181,
+        "retweet": 12,
+        "like": 84
+      }
+    },
+    {
+      "created_at": "Fri Apr 19 02:50:25 +0000 2024",
+      "text": "I extend our deepest condolences to Pres. @WilliamsRuto, @kdfinfo, and all Kenyans on the loss of Chief of Defense Forces General Ogolla and other victims in a helicopter crash today. Gen. Ogolla was a key partner in our strategic relationship and we will miss working with him.",
+      "translation": "我向总统@WilliamsRuto、@kdfinfo及所有肯尼亚人就今天直升机坠毁中失去国防军总参谋长奥戈拉将军及其他遇难者表示最深切的哀悼。奥戈拉将军是我们战略关系中的关键伙伴，我们将怀念与他共事的日子。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 80,
+        "retweet": 198,
+        "like": 792
+      }
+    }
+  ]
+}

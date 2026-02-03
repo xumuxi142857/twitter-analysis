@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ================= 配置区域 =================
 # 📅 指定日期
-TARGET_DATE = "2026-01-21"
+TARGET_DATE = "2026-01-29"
 
 API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
@@ -15,7 +15,7 @@ MODEL_NAME = "Pro/zai-org/GLM-4.7"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')
-OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'account1')
+OUTPUT_DIR = os.path.join(BASE_DIR, 'public', 'db', 'account')
 
 FILENAME_MAPPING = {
     "Taiwan": "Taiwan",

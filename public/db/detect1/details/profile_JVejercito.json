@@ -1,0 +1,442 @@
+{
+  "id": "profile_JVejercito.json",
+  "_fingerprint": "820b55f91b3bfcdd61c355ed3186685a",
+  "name": "JVejercito",
+  "username": "jvejercito",
+  "category": "media",
+  "daily_count": 0.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等宜人性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "在公共事务上表现出强烈的责任感和使命感，专注于推动军队现代化、医疗体系改革等国家议题，工作态度严谨。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "关注领域广泛，涉及政治、军事、体育、娱乐和社会事件，但言论深度和批判性思维在样本中未充分展现，更多是信息转发和立场表达。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "在专业议题上展现合作与支持态度，如支持同僚工作；但在社会观察中（如批评特权车队）表现出对不公现象的不满和直言不讳。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "通过社交媒体积极发声，参与公共讨论并回应支持者，但个人情感和深度互动的直接流露相对有限。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "面对国家主权、公共资金管理等压力议题时表现出担忧和紧迫感，但在个人层面（如支持体育明星、评论名人去世）能保持相对平稳的情绪表达。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在道德优越感、对体制效率的过度焦虑及潜在的精英主义倾向。",
+      "sub_items": [
+        {
+          "term": "道德优越感",
+          "analysis": "强调个人诚信、品格和绩效应作为选拔标准，暗示其价值观高于党派政治，可能疏远更务实或机会主义的政治盟友。"
+        },
+        {
+          "term": "体制性焦虑",
+          "analysis": "对政府机构（如PhilHealth、AFP）的效率低下和资金管理问题表现出反复的挫败感和不信任，这种焦虑可能影响其决策的冷静与客观性。"
+        },
+        {
+          "term": "潜在精英疏离",
+          "analysis": "批评有警卫护送的车队造成交通拥堵，虽站在民众立场，但也可能无意中流露出对特权阶层行为的不屑，若处理不当易被解读为脱离实际或故作姿态。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、现状偏误及有限视角。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于转发和强调支持其立场的信息（如军队现代化延迟、医疗体系问题），可能选择性忽略相反证据或更复杂的系统性成因。"
+        },
+        {
+          "term": "现状偏误",
+          "analysis": "在推动改革（如AFP现代化、UHC法律修订）时，默认现有框架（如增加拨款、法律修正）是主要解决方案，可能低估结构性变革或替代方案的潜力。"
+        },
+        {
+          "term": "有限视角",
+          "analysis": "关注点集中在国内政治、军事和医疗等几个核心领域，对于更广泛的国际动态、社会经济深层矛盾或技术变革影响的讨论较为缺乏。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开批评易树敌，社交媒体依赖存在风险，议题聚焦可能限制影响力广度。",
+      "sub_items": [
+        {
+          "term": "公开批评树敌",
+          "analysis": "直接批评政府机构效率低下和资金管理问题，可能得罪相关官僚体系及利益集团，增加政策推行阻力。"
+        },
+        {
+          "term": "社交媒体依赖风险",
+          "analysis": "大量通过社交媒体平台表达立场和转发新闻，信息可能被断章取义或用于制造争议，且过度曝光易使其言论被对手密切监控并寻找漏洞。"
+        },
+        {
+          "term": "议题聚焦过窄",
+          "analysis": "言论高度集中在国防、医疗等少数领域，虽然建立了专业形象，但也可能让公众或盟友将其标签化，削弱在其他重要议题（如经济、教育）上的话语权和影响力。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在主权议题上立场强硬但资源依赖矛盾，医疗改革主张面临利益集团阻力，政治独立性可能遭遇党派压力。",
+      "sub_items": [
+        {
+          "term": "主权立场与资源矛盾",
+          "analysis": "强烈主张在南海紧张局势下增加军费以捍卫主权，但菲律宾军事现代化长期受预算限制，此立场若无法兑现可能被批评为不切实际或加剧财政负担。"
+        },
+        {
+          "term": "医疗改革利益冲突",
+          "analysis": "推动PhilHealth改革和UHC法律修订，触及医疗资金管理和保险覆盖等复杂利益格局，容易遭到医疗机构、保险行业或既得利益者的暗中抵制。"
+        },
+        {
+          "term": "政治独立性的压力",
+          "analysis": "强调以诚信和绩效而非党派归属作为支持标准，这种超越党派的姿态可能使其在需要紧密联盟或党派忠诚的政治博弈中陷入孤立，或被迫在关键时刻选边站队。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "政策落地执行力存疑，跨领域协调能力未经验证，公共沟通策略较为单一。",
+      "sub_items": [
+        {
+          "term": "政策执行力未知",
+          "analysis": "虽然能指出军队现代化延迟、医疗资金管理等问题，但样本中缺乏其主导推动具体解决方案并成功落地的详细证据，执行力和实操经验有待检验。"
+        },
+        {
+          "term": "跨部门协调挑战",
+          "analysis": "其关注的国防和医疗改革均需跨部门（如国防部、财政部、卫生部）及立法与行政机构的高效协调，这种复杂协调能力在样本中未充分体现，可能成为瓶颈。"
+        },
+        {
+          "term": "沟通策略单一",
+          "analysis": "主要依赖社交媒体转发新闻和发表简短评论，缺乏深度政策阐述、多元平台互动或与反对意见的直接辩论，影响其说服力和公众教育效果。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在理想主义导致的挫败感，对国家机构效能有深层不信任，情感需求使其易受舆论影响。",
+      "sub_items": [
+        {
+          "term": "理想主义挫败感",
+          "analysis": "对政府效率和改革抱有较高期望，当面对机构拖延、资金滥用等现实时，可能产生强烈的无力感或愤懑，影响其长期斗志和策略灵活性。"
+        },
+        {
+          "term": "体制不信任心态",
+          "analysis": "反复提及PhilHealth资金转移不当、AFP现代化延误等问题，反映出对相关国家机构管理和效能根深蒂固的怀疑，这种心态可能使其在合作中预设障碍或过度批判。"
+        },
+        {
+          "term": "认可的情感依赖",
+          "analysis": "公开感谢那些超越党派支持他的人，并称此‘暖人心房’，显示其对公众认可和道德支持有较强的情感需求，这可能使其在决策时过度在意舆论反响或害怕失去支持。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在塑造超越党派的改革者形象，巩固在国防与医疗领域的政策权威，并为潜在更高政治职位积累资本。",
+      "sub_items": [
+        {
+          "term": "塑造非党派改革者人设",
+          "analysis": "通过强调绩效而非党派忠诚，意图将自己定位为超越传统政治纷争、专注于国家利益的务实改革者，以吸引更广泛的民众和中间派支持。"
+        },
+        {
+          "term": "巩固特定政策领域权威",
+          "analysis": "持续聚焦于国防现代化和医疗体系改革，旨在成为这两个关键领域的公认专家和倡导者，从而在相关立法和政策讨论中占据主导话语权。"
+        },
+        {
+          "term": "积累更高职位政治资本",
+          "analysis": "通过展现对国家安全和民生健康的核心关切，并建立负责任、有原则的公职人员形象，可能为未来寻求更重要的委员会领导职位甚至更高层级的政治角色铺垫基础。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注国防安全与军事现代化、医疗保健体系改革、政府治理与廉政，次要关注体育娱乐及社会观察。",
+      "sub_items": [
+        {
+          "term": "国防安全与军事现代化",
+          "analysis": "频繁强调在南海紧张局势下为菲律宾武装部队现代化争取资金，视其为维护国家主权和未来安全的关键。"
+        },
+        {
+          "term": "医疗保健体系改革",
+          "analysis": "深度参与PhilHealth资金监管、Universal Health Care法律修订及医疗覆盖范围等议题，致力于改善公共卫生服务效率和公平性。"
+        },
+        {
+          "term": "政府治理与廉政",
+          "analysis": "关注政府机构（如PhilHealth, PSALM）的资金管理、效率及领导任命，倡导绩效导向和廉政，批评特权行为和管理不善。"
+        },
+        {
+          "term": "体育娱乐与社会事件",
+          "analysis": "偶尔评论篮球比赛、拳击赛事、名人去世等体育娱乐话题，以及观察社会现象（如交通拥堵），显示其与大众文化的连接和个人兴趣侧面。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      9
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      3
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Oct 30 16:28:26 +0000 2024",
+      "text": "RT @Politiko_Ph: Ikinatuwa ng mga health advocates sa senado kagaya nina Senate Committee on Health Chairperson na si Sen. Christopher 'Bon…",
+      "translation": "参议院健康倡导者，如参议院健康委员会主席克里斯托弗·“邦”...参议员，对此感到高兴。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Oct 30 09:31:50 +0000 2024",
+      "text": "https://t.co/shn4dUipFj",
+      "translation": "https://t.co/shn4dUipFj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Oct 30 04:17:28 +0000 2024",
+      "text": "RT @dzbb: Paglilipat ng sobrang pondo ng Philippine Health Insurance Corporation (PhilHealth) sa National Treasury, hindi na dapat maulit,…",
+      "translation": "菲律宾健康保险公司（PhilHealth）将多余资金转移至国家财政部，不应再发生，...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Wed Oct 09 21:57:06 +0000 2024",
+      "text": "RT @dzrhnews: Dagdag pondo para sa AFP modernization program, suportado ng mga senador - Sen. @jvejercito | RH 28 @RaymundDadpaas, DZRH New…",
+      "translation": "增加对菲律宾武装部队现代化计划的资金，获得参议员支持 - 参议员@jvejercito | RH 28 @RaymundDadpaas, DZRH 新闻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Oct 15 02:15:10 +0000 2024",
+      "text": "Upholding/reiterating Philippine position at the Inter Parliamentary Union Assembly.\n\nhttps://t.co/8l636QrOeg",
+      "translation": "在各国议会联盟大会上坚持/重申菲律宾立场。https://t.co/8l636QrOeg",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Tue Nov 19 13:26:48 +0000 2024",
+      "text": "RT @senatePH: @SenRobinhood @senkokopimentel @jinggoyestrada_ @IdolRaffyTulfo @migzzubiri @WinGatchalian74 Deputy Majority Leader Joseph Vi…",
+      "translation": "@SenRobinhood @senkokopimentel @jinggoyestrada_ @IdolRaffyTulfo @migzzubiri @WinGatchalian74 副多数党领袖约瑟夫·维克多·埃赫西托...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Thu Oct 24 16:06:05 +0000 2024",
+      "text": "RT @WilliamYang120: China’s coastguard has entered a stand-off with its Indonesian counterpart in the southernmost reaches of the South Chi…",
+      "translation": "中国海警与印度尼西亚海警在南中国海最南端陷入对峙...",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 81,
+        "like": 134
+      }
+    },
+    {
+      "created_at": "Thu Oct 17 22:01:47 +0000 2024",
+      "text": "RT @dzrhnews: Kamara de Rep. hinimok ni Sen @jvejercito na bilisan ang pag-apruba sa Amendments sa Universal Health Care Law | RH 28 @Raymu…",
+      "translation": "参议员@jvejercito 敦促众议院加快批准《全民医疗保健法》修正案 | RH 28 @RaymundDadpaas, DZRH 新闻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Thu Oct 17 14:12:32 +0000 2024",
+      "text": "https://t.co/04R267oXEW",
+      "translation": "https://t.co/04R267oXEW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Thu Oct 10 02:58:30 +0000 2024",
+      "text": "RT @dzrhnews: Mababang coverage ng @teamphilhealth sa mga hospital bill ng mga pasyente, kinastigo ni Sen. @jvejercito | RH 28 @RaymundDadp…",
+      "translation": "菲律宾健康保险公司（@teamphilhealth）对患者医院账单的覆盖率低，受到参议员@jvejercito 的批评 | RH 28 @RaymundDadpaas, DZRH 新闻...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Thu Nov 21 10:19:26 +0000 2024",
+      "text": "May convoy complete with HPG escorts nagmamadali mukhang mahuhuli sa pag nood ng Gilas Game sa MOA Arena! 😄",
+      "translation": "有车队配有公路巡逻队护送，匆忙赶路，看来要错过在MOA体育馆观看吉尔拉斯队的比赛了！😄",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 2,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Thu Nov 14 16:06:01 +0000 2024",
+      "text": "RT @senatePH: Sen. Joseph Victor Ejercito lamented the delays in the modernization of the Armed Forces of the Philippines, which he said wa…",
+      "translation": "参议员约瑟夫·维克多·埃赫西托对菲律宾武装部队现代化进程的延迟表示遗憾，他说这...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Sun Nov 17 06:00:53 +0000 2024",
+      "text": "Let’s go Jon “Bones” Jones!",
+      "translation": "加油，乔恩·“骨头”·琼斯！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Nov 16 05:37:55 +0000 2024",
+      "text": "Gesture of Jake Paul of bowing and showing respect to Mike Tyson at the closing seconds of their fight was a touching moment.",
+      "translation": "杰克·保罗在比赛最后几秒鞠躬并向迈克·泰森表示尊重的姿态是一个感人的时刻。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 1,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Sat Nov 09 05:16:37 +0000 2024",
+      "text": "Another possible replacement for Ledesma at Philhealth is Atty. Irene Garcia, who coincidentally replaced Ledesma at PSALM and was able to turn around the financial mess that PSALM was before she took over.",
+      "translation": "菲律宾健康保险公司（PhilHealth）莱德斯马的另一位可能替代者是艾琳·加西亚律师，她巧合地接替了莱德斯马在电力资产与负债管理公司（PSALM）的职位，并成功扭转了PSALM在她接手前的财务混乱局面。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Sat Feb 05 21:16:28 +0000 2022",
+      "text": "Nagpapasalamat po ako sa mga nagsasabing kahit hindi ako kasama sa slate ng kanilang mga kandidato ay ako ay susuportahan pa rin nila! 🙏🏽\n\nIntegrity, character and performance should be basis of selection of candidates, not party.\n\nMuli nakakataba ng puso, maraming salamat po! 🙏🏽",
+      "translation": "我感谢那些说即使我不在他们候选人名单上，他们仍然会支持我的人！🙏🏽 诚信、品格和表现应该是选择候选人的基础，而不是党派。再次感到温暖，非常感谢！🙏🏽",
+      "stance": "无关",
+      "metrics": {
+        "reply": 245,
+        "retweet": 78,
+        "like": 1306
+      }
+    },
+    {
+      "created_at": "Mon Nov 18 02:54:05 +0000 2024",
+      "text": "Sad news for music industry and the golfing world this morning.\n\nMercy Sunot of Aegis Band and former top Por Golfer Cassius Casas both passed away.\n\nRest in Peace Mercy &amp; Cassius.",
+      "translation": "今早音乐界和高尔夫球界的悲伤消息。Aegis乐队的梅西·苏诺特和前顶级职业高尔夫球手卡西乌斯·卡萨斯双双去世。安息吧，梅西和卡西乌斯。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 2,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Fri Oct 04 14:25:03 +0000 2024",
+      "text": "Traffic na nga at masikip na sa Whiteplains Avenue biglang may convoy ng mga SUV na may HPG escorts pa, nag counterflow, eh di lalong barado at nagkabuhol ang trapik!\n\nHay… kanya-kanyang trip talaga! \n\nWalang basagan ng trip!",
+      "translation": "白原大道本来就交通拥堵且狭窄，突然有一队SUV车队还有公路巡逻队护送，竟然逆向行驶，导致交通更加堵塞和混乱！唉...真是各走各路！别扫兴！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 0,
+        "like": 21
+      }
+    },
+    {
+      "created_at": "Fri Nov 15 10:33:54 +0000 2024",
+      "text": "Our future, our sovereignty: Ejercito fights for AFP funding amid West PH Sea tension https://t.co/7D6LE8o4az",
+      "translation": "我们的未来，我们的主权：埃赫西托在西菲律宾海紧张局势中为菲律宾武装部队资金而战 https://t.co/7D6LE8o4az",
+      "stance": "负面",
+      "metrics": {
+        "reply": 22,
+        "retweet": 11,
+        "like": 53
+      }
+    },
+    {
+      "created_at": "Fri Nov 08 10:33:15 +0000 2024",
+      "text": "Atty. Darlene Berberabe, who was responsible for Pag-Ibig’s turn around when she was at the helm might be worth considering to head Philhealth. \n\nShe might be able to provide proper direction to the agency thus be more effective in the implementation of the Universal Healthcare",
+      "translation": "达琳·贝尔贝拉律师，她在执掌Pag-Ibig基金期间负责了该基金的扭转，可能值得考虑让她领导菲律宾健康保险公司（PhilHealth）。她或许能为该机构提供正确的方向，从而更有效地实施全民医疗保健。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 7,
+        "like": 44
+      }
+    }
+  ]
+}

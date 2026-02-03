@@ -1,0 +1,470 @@
+{
+  "id": "profile_USAToday.json",
+  "_fingerprint": "c522c494420cdc5e404d2190a49bda4c",
+  "name": "USAToday",
+  "username": "USATODAY",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、中等外向性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "内容覆盖范围极广，从体育娱乐、时尚文化、天气交通到国际政治、社会事件均有涉猎，表现出对多元话题的强烈兴趣和接纳度。"
+        },
+        {
+          "term": "尽责性高",
+          "analysis": "信息发布及时、格式规范，专注于提供事实性报道、服务性指南和事件更新，体现了作为新闻机构的专业性和可靠性。"
+        },
+        {
+          "term": "外向性中等",
+          "analysis": "积极发布和分享信息以吸引公众关注，但内容以客观陈述为主，较少直接表达强烈个人情感或进行深度互动。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "报道内容兼顾轻松娱乐与严肃新闻，但在涉及争议性政治话题或社会冲突时，会直接呈现对立观点或事件，不刻意回避矛盾。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "对突发灾难、事故、恶劣天气等负面事件反应迅速，报道语气保持专业克制，未表现出过度情绪化或恐慌倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在内容浅表化、追逐热点、立场模糊及潜在偏见风险。",
+      "sub_items": [
+        {
+          "term": "信息碎片化",
+          "analysis": "内容切换频繁，从娱乐花絮到政治新闻跨度极大，可能导致深度分析不足，使受众注意力分散，难以形成连贯认知。"
+        },
+        {
+          "term": "热点依赖症",
+          "analysis": "大量内容围绕超级碗、冬季风暴、名人动态等即时热点事件，显示出对流量和公众即时兴趣的强烈追随倾向。"
+        },
+        {
+          "term": "立场模糊性",
+          "analysis": "在政治性内容中，如报道涉及美国前总统的国际事务时，采用直接引述或事实描述，自身明确立场隐藏较深，可能引发不同解读。"
+        },
+        {
+          "term": "精英视角倾向",
+          "analysis": "内容涵盖高端时尚、名人文化、特定品牌汽车等，虽也有大众话题，但整体透露出关注主流及中上层社会生活的视角。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出可得性启发、框架效应、从众倾向及负面偏好。",
+      "sub_items": [
+        {
+          "term": "可得性启发突出",
+          "analysis": "优先报道易于获取、视觉冲击强或正在发生的事件，如空难、风暴灾害、娱乐头条，可能放大这些事件的公众感知重要性。"
+        },
+        {
+          "term": "框架效应明显",
+          "analysis": "通过标题和链接摘要设定议题框架，例如将政治谈判与历史殖民背景并列，引导读者在特定语境下理解新闻。"
+        },
+        {
+          "term": "从众倾向",
+          "analysis": "话题选择高度契合当下美国社会主流关注点，如体育盛事、冬季出行、流行文化，反映出跟随公众集体兴趣的认知模式。"
+        },
+        {
+          "term": "负面偏好",
+          "analysis": "对事故、灾难、冲突、争议性言论的报道占据相当比例，符合新闻业对冲突性和反常事件的天然关注倾向。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "易受流量驱动、反应模式固化、内容同质化及外部事件裹挟。",
+      "sub_items": [
+        {
+          "term": "流量驱动决策",
+          "analysis": "内容发布明显倾向于能带来高点击和互动的话题，如娱乐独家、生活指南、突发新闻，可能牺牲某些重要但流量较低议题的报道深度。"
+        },
+        {
+          "term": "反应模式固化",
+          "analysis": "对各类事件的报道遵循标准化的“事实陈述+链接扩展”模式，缺乏灵活多变的叙事或深度互动策略，易被预测。"
+        },
+        {
+          "term": "内容广度稀释深度",
+          "analysis": "试图覆盖过多领域，从汽车评测到国际政治，可能导致在每个垂直领域都缺乏足够的权威性和独家深度，成为信息聚合者而非洞察者。"
+        },
+        {
+          "term": "受突发新闻裹挟",
+          "analysis": "日程和议题容易因突发灾难、事故、名人变故等事件而被打断和重塑，显示出被动响应而非主动设置议程的脆弱性。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在政治议题上存在隐含倾向、文化输出单一、经济报道表面化及国际视角美国中心化。",
+      "sub_items": [
+        {
+          "term": "政治议题的隐含倾向",
+          "analysis": "在报道涉及国内政治人物或国际谈判时，虽以客观口吻呈现，但选材和措辞可能隐含建制派或主流媒体的常见叙事框架，易被对立阵营指责存在偏见。"
+        },
+        {
+          "term": "文化输出的单一性",
+          "analysis": "推广的文化产品以美国本土的体育、娱乐、时尚为主，虽偶有国际元素，但整体是美式文化和生活方式的输出，在全球多元化背景下可能显得单一。"
+        },
+        {
+          "term": "经济报道的表面化",
+          "analysis": "经济相关内容多集中于具体产品、消费指南或企业动态，缺乏对宏观经济趋势、政策影响或结构性问题的深入分析，立场停留在消费促进层面。"
+        },
+        {
+          "term": "国际视角的美国中心化",
+          "analysis": "报道国际事务时，如涉及丹麦与美国领土的历史关系，其出发点和焦点明显服务于美国读者的认知兴趣和当前政治议程，缺乏真正的全球平衡视角。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "深度分析能力不足、事实核查压力、技术依赖性强及创新叙事乏力。",
+      "sub_items": [
+        {
+          "term": "深度分析与整合能力不足",
+          "analysis": "内容多为信息速报或浅层介绍，缺乏将不同事件联系起来进行趋势分析、背景挖掘或提出独到见解的深度报道能力。"
+        },
+        {
+          "term": "事实核查与信源压力",
+          "analysis": "作为广泛覆盖的媒体，需快速处理海量信息，面临巨大的事实核查压力，任何关键事实错误都可能严重损害其公信力。"
+        },
+        {
+          "term": "对平台算法的依赖",
+          "analysis": "发布格式和频率明显适配社交媒体平台特性，其影响力和内容传播深度受制于平台算法规则的变化，自主分发能力存在短板。"
+        },
+        {
+          "term": "叙事创新与吸引力下降",
+          "analysis": "在信息过载时代，其标准新闻叙事模式可能对年轻受众或寻求深度内容的读者吸引力不足，面临如何创新报道形式的挑战。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "面临公信力焦虑、身份定位模糊、环境适应压力及价值认同挑战。",
+      "sub_items": [
+        {
+          "term": "公信力维护焦虑",
+          "analysis": "在政治极化和社会信任度下降的媒体环境中，需要不断在快速报道和绝对准确、客观中立和鲜明立场之间艰难平衡，心智负担重。"
+        },
+        {
+          "term": "身份定位模糊",
+          "analysis": "介于严肃新闻媒体和大众生活资讯平台之间，可能导致核心受众画像模糊，内部在报道优先级和风格上可能存在心智冲突。"
+        },
+        {
+          "term": "应对信息环境剧变的压力",
+          "analysis": "面对社交媒体、自媒体、AI生成内容的冲击，传统新闻生产模式和权威地位受到挑战，需要持续进行心智调整和战略转型。"
+        },
+        {
+          "term": "核心价值认同挑战",
+          "analysis": "在商业压力、政治压力、公众期待之间，其坚持新闻专业主义、公共服务等核心价值的心智可能受到持续冲击和考验。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在塑造主流议程、维持商业成功、巩固机构权威并平衡多元受众。",
+      "sub_items": [
+        {
+          "term": "塑造主流议程与共识",
+          "analysis": "通过选择性地突出某些话题，如大型体育赛事、全国性天气事件、特定政治动态，意图引导公众关注点，塑造社会讨论的主流议程。"
+        },
+        {
+          "term": "维持商业影响力与盈利",
+          "analysis": "大量生活化、娱乐化、服务性内容旨在维持广泛的用户基数和页面流量，为广告、电商导流等商业活动奠定基础，确保机构生存与发展。"
+        },
+        {
+          "term": "巩固媒体机构权威地位",
+          "analysis": "通过快速发布突发新闻、提供实用指南、报道官方动态，意图持续强化其作为可靠、全面信息源的社会权威形象和机构地位。"
+        },
+        {
+          "term": "平衡与吸引多元受众",
+          "analysis": "内容策略上混合软硬新闻，意图同时吸引对政治时事感兴趣的读者和寻求娱乐休闲的用户，扩大受众覆盖面，避免过度偏向导致用户流失。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题涵盖美国社会生活、娱乐文化、天气灾害、国内政治及国际事务。",
+      "sub_items": [
+        {
+          "term": "美国本土社会生活与娱乐",
+          "analysis": "核心领域，包括体育赛事、娱乐新闻、名人动态、时尚潮流、汽车生活、旅游出行等，构成内容的主体，服务于大众日常生活和休闲兴趣。"
+        },
+        {
+          "term": "天气、灾害与公共安全",
+          "analysis": "重要领域，对全国性冬季风暴、极端天气、事故灾难进行持续跟踪报道，提供预警、灾情更新和安全指南，履行公共服务职能。"
+        },
+        {
+          "term": "国内政治与社会议题",
+          "analysis": "关键领域，涉及政治人物活动、政策动向、社会事件评论、司法案件等，但报道深度和频率低于生活娱乐类话题，常以事实简述形式出现。"
+        },
+        {
+          "term": "国际事务与地缘政治",
+          "analysis": "选择性领域，仅当事件与美国有直接关联时进行报道，如涉及美国领土、前总统外交行动、中东局势等，视角以美国利益和读者关切为中心。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 21:01:35 +0000 2026",
+      "text": "Ahead of Super Bowl LX, shop the new Bad Bunny x NFL gear collection https://t.co/bfzVIfDrkn",
+      "translation": "在超级碗LX之前，购买新的Bad Bunny x NFL装备系列 https://t.co/bfzVIfDrkn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 5,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:45:12 +0000 2026",
+      "text": "15 vehicles on scenic winter road trips https://t.co/NAlzL3uEu5",
+      "translation": "15辆适合冬季风景公路旅行的车辆 https://t.co/NAlzL3uEu5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 6,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:30:30 +0000 2026",
+      "text": "See snow totals across the US, including NYC, Boston https://t.co/KmoEN4vLCs",
+      "translation": "查看美国各地的降雪总量，包括纽约市和波士顿 https://t.co/KmoEN4vLCs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 9,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:15:12 +0000 2026",
+      "text": "See Rachel McAdams battle a killer boar in exclusive 'Send Help' scene https://t.co/vHRBLR5ZSP",
+      "translation": "观看瑞秋·麦克亚当斯在独家《Send Help》场景中与杀人野猪搏斗 https://t.co/vHRBLR5ZSP",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 5,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 20:00:58 +0000 2026",
+      "text": "Paris Haute Couture Fashion Week 2026 – Teyana Taylor, Rihanna, more https://t.co/JLOyIArFJn",
+      "translation": "2026年巴黎高级定制时装周——泰雅娜·泰勒、蕾哈娜等 https://t.co/JLOyIArFJn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 4,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:59:03 +0000 2026",
+      "text": "Traces of Denmark’s 250-year imperial reign are still visible on St. Thomas, St. Croix, St. John and the smattering of tiny islets that today make up the U.S. Virgin Islands.  \n\nAs President Donald Trump negotiates a \"framework of a future deal\" with Denmark for access to https://t.co/odqZHCodMD",
+      "translation": "丹麦250年帝国统治的痕迹在圣托马斯、圣克罗伊、圣约翰以及今天构成美属维尔京群岛的零星小岛上仍然可见。随着唐纳德·特朗普总统与丹麦谈判“未来交易的框架”以获取 https://t.co/odqZHCodMD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 11,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:50:14 +0000 2026",
+      "text": "'The Blind Side' star Quinton Aaron reportedly on life support after fall https://t.co/gKaYPb8NEH",
+      "translation": "据报道，《弱点》明星昆顿·亚伦在摔倒后靠生命维持系统支撑 https://t.co/gKaYPb8NEH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:40:16 +0000 2026",
+      "text": "Is it legal for motorcycles to weave in and out of traffic? https://t.co/NORK7D5jKM",
+      "translation": "摩托车在车流中穿梭是否合法？ https://t.co/NORK7D5jKM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 5,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:20:22 +0000 2026",
+      "text": "How to play Super Bowl squares and download your own template https://t.co/27eRk0BWME",
+      "translation": "如何玩超级碗方块游戏并下载自己的模板 https://t.co/27eRk0BWME",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 7,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:10:21 +0000 2026",
+      "text": "Inside Ram’s rebound: Hemi returns, TRX roars and new models multiply https://t.co/24y56LNgbc",
+      "translation": "Ram的复苏内幕：Hemi回归、TRX咆哮和新车型激增 https://t.co/24y56LNgbc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 5,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 19:01:24 +0000 2026",
+      "text": "Deadly winter storm to be followed by widespread extreme cold: Updates https://t.co/uPqPj5QvKW",
+      "translation": "致命冬季风暴后将迎来大范围极端寒冷：最新消息 https://t.co/uPqPj5QvKW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 10,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:40:25 +0000 2026",
+      "text": "The best drivetrain for snow isn’t the one most drivers think https://t.co/ITFQqPM96y",
+      "translation": "最适合雪地的驱动系统并非大多数司机所想的那种 https://t.co/ITFQqPM96y",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 4,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:20:16 +0000 2026",
+      "text": "Opinion: Alex Jones vs. Candace Owens feud foretells MAGA's demise | Opinion https://t.co/97Nu5KmbWj",
+      "translation": "观点：亚历克斯·琼斯与坎迪斯·欧文斯的争执预示了MAGA的衰落 | 观点 https://t.co/97Nu5KmbWj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 18:01:25 +0000 2026",
+      "text": "Thousands in Tennessee are without power after winter storm. See map. https://t.co/VbXE1Gtl2p",
+      "translation": "冬季风暴后田纳西州数千人断电。查看地图。 https://t.co/VbXE1Gtl2p",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 5,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:40:17 +0000 2026",
+      "text": "See Flash's new job in 'Zootopia 2' exclusive deleted scene https://t.co/epnvohKcLE",
+      "translation": "观看《疯狂动物城2》独家删除场景中闪电的新工作 https://t.co/epnvohKcLE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:20:16 +0000 2026",
+      "text": "'Melania' documentary movie poster shot by this fashion photographer https://t.co/HVAzknp65Z",
+      "translation": "《梅拉尼娅》纪录片电影海报由这位时尚摄影师拍摄 https://t.co/HVAzknp65Z",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 6,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:04:10 +0000 2026",
+      "text": "BREAKING: Seven people are dead and one person was seriously injured after a private jet crashed while taking off from an airport in northern Maine. https://t.co/mi34TzItPQ",
+      "translation": "突发新闻：一架私人飞机从缅因州北部机场起飞时坠毁，造成七人死亡，一人重伤。 https://t.co/mi34TzItPQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 11,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 17:01:11 +0000 2026",
+      "text": "Savannah Guthrie returns to 'Today' after vocal cord surgery hiatus https://t.co/6NsAuuRdq0",
+      "translation": "萨凡纳·格思里在声带手术后休假后重返《今日秀》 https://t.co/6NsAuuRdq0",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 7,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 16:40:19 +0000 2026",
+      "text": "Israel retrieves last hostage body from Gaza in boost for Trump plan https://t.co/oVdiRVkjgz",
+      "translation": "以色列从加沙取回最后一名人质遗体，为特朗普计划提供助力 https://t.co/oVdiRVkjgz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 6,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 16:20:11 +0000 2026",
+      "text": "See the winter storm's aftermath from the sky https://t.co/A82N3kfZLw",
+      "translation": "从空中观看冬季风暴的后果 https://t.co/A82N3kfZLw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 7,
+        "like": 8
+      }
+    }
+  ]
+}

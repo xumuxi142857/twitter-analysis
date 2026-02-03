@@ -1,0 +1,474 @@
+{
+  "id": "profile_Chinaembmanila.json",
+  "_fingerprint": "878d8bc5c1cb595f0c7b9bbc19e659e4",
+  "name": "Chinaembmanila",
+  "username": "Chinaembmanila",
+  "category": "media",
+  "daily_count": 0.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、低宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论表现出强烈的责任感和使命感，严格遵循官方立场和外交辞令，对职责范围内的信息发布和立场宣示一丝不苟，体现了机构代言人的高度纪律性。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "在社交媒体上表现活跃，频繁发布信息、回应争议、进行外交交锋，主动设置议程并参与公共讨论，展现出外向的沟通和影响力投射倾向。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "主要围绕既定政策和官方叙事进行信息传播和辩护，对新异观点或对立叙事持强烈批判和排斥态度，但在技术成就、经济发展等非争议领域的信息分享上表现出一定的开放性。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "在涉及主权、外交争议和批评时，言辞直接、强硬，常使用讽刺、反问和警告性语言，表现出对抗性而非合作性的沟通风格，旨在维护立场而非寻求共识。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "整体情绪基调稳定、自信，但在面对特定批评或“不实信息”时，反应迅速且带有明显的防御性和反击性，显示出对声誉和叙事主导权受损的高度敏感。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在明显的对抗性、防御性过强及叙事僵化倾向。",
+      "sub_items": [
+        {
+          "term": "对抗性沟通",
+          "analysis": "习惯于使用挑衅、讽刺和警告性语言回应批评，如指责对方“撒谎”、“知识有限”、“肆意诽谤”，这种风格虽具威慑力，但易激化矛盾，削弱对话空间。"
+        },
+        {
+          "term": "防御性过强",
+          "analysis": "对任何涉及中国、特别是南海问题和领导人的批评都做出迅速、激烈的驳斥，表现出一种“零容忍”姿态，这可能被视为缺乏弹性或对批评过度敏感。"
+        },
+        {
+          "term": "叙事僵化",
+          "analysis": "言论严格嵌套于官方叙事框架内，对复杂议题提供标准化、非此即彼的解读（如将争议简化为“事实”与“误导”的对立），缺乏对灰色地带的承认或探讨。"
+        },
+        {
+          "term": "救世主情结投射",
+          "analysis": "在宣传救援行动时，反复强调中方行动的主动性和无私性，并期待或要求对方感恩，这种叙事可能被解读为试图塑造道德优越感和施加情感债务。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出强烈的我方立场中心主义、确认偏误及非黑即白思维。",
+      "sub_items": [
+        {
+          "term": "我方立场中心主义",
+          "analysis": "所有分析和言论的出发点均为中国官方立场，将之视为绝对正确和道德的基准，并用此基准去衡量和评判所有外部信息与行为，缺乏换位思考。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性传播和强调支持中国立场的信息（如救援成功、经济发展），同时极力驳斥和淡化任何对立或批评信息（如仲裁案相关讨论），以强化既有认知框架。"
+        },
+        {
+          "term": "非黑即白思维",
+          "analysis": "倾向于将复杂的地缘政治和外交互动简化为“友好合作/正面宣传”与“恶意抹黑/错误信息”的二元对立，忽略了中间状态和多元动机的可能性。"
+        },
+        {
+          "term": "动机归因偏差",
+          "analysis": "常将批评者的动机预设为恶意（如“抹黑中国”、“背后有主谋”），而非基于不同信息、视角或利益的合理分歧，这关闭了理解对方逻辑的大门。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "回应模式可预测、情感化言论风险及过度依赖官方叙事。",
+      "sub_items": [
+        {
+          "term": "回应模式可预测",
+          "analysis": "对特定类型刺激（如批评中国、提及南海仲裁）的反应高度模式化：先是强烈否认/驳斥，然后宣传中方正面行动或成就，最后可能伴随警告。这种模式易被对手预判和利用进行议题设置。"
+        },
+        {
+          "term": "情感化言论风险",
+          "analysis": "在激烈交锋中使用讽刺、威胁性隐喻（如“虫鸣缠身”）等情感化语言，虽在短期内可能吸引关注或震慑部分对象，但长期可能损害其作为官方机构的严肃、理性形象，并授人以柄。"
+        },
+        {
+          "term": "过度依赖官方叙事",
+          "analysis": "几乎所有言论都是对上级政策和口径的复述与阐释，缺乏个性化的、基于本地情境的灵活解读或建设性新提议。这使得其言论容易被视为缺乏独立性和创造性，只是传声筒。"
+        },
+        {
+          "term": "救援叙事过度工具化",
+          "analysis": "反复、高调宣传救援行动，并将其与外交立场捆绑（如要求对方“感谢真实”），可能使原本人道主义的行为被外界解读为服务于政治宣传和道德施压，削弱其真诚性。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场绝对化导致灵活性不足，在争议议题上陷入被动防御。",
+      "sub_items": [
+        {
+          "term": "南海议题立场僵化",
+          "analysis": "在南海问题上坚持绝对主权主张，完全否定2016年仲裁案合法性，并视任何相关讨论为“错误误导信息”。这种不容置疑的立场使其在国际舆论场中常处于守势，难以参与基于国际法的规范性辩论。"
+        },
+        {
+          "term": "对批评的零和应对",
+          "analysis": "将任何对中国政策、领导人或行动的批评均定义为“攻击”、“诽谤”和“抹黑”，并予以全面反击。这种零和思维使其无法区分建设性批评与恶意攻击，也难以利用批评中的合理成分进行政策微调。"
+        },
+        {
+          "term": "依赖“事实”与“情感”双重叙事",
+          "analysis": "一方面强调基于“事实”的驳斥（如发布Q&A），另一方面诉诸情感和道德（如宣传救援、指责对方不感恩）。当“事实”版本存在争议时，情感叙事也可能因显得刻意而效力减弱，导致双重失效风险。"
+        },
+        {
+          "term": "桥梁与堡垒的角色冲突",
+          "analysis": "自我定位既是“友谊合作的桥梁”，又是“捍卫利益的堡垒”。在双边关系紧张时，“堡垒”功能往往压倒“桥梁”功能，表现为对抗性言论激增，这可能损害其长期作为沟通渠道的信誉和效力。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "说服策略单一，跨文化沟通效能存疑，议题设置能力偏科。",
+      "sub_items": [
+        {
+          "term": "说服策略单一依赖权威",
+          "analysis": "主要依靠中国官方机构的权威性和提供“事实”清单来进行说服，缺乏运用故事、共情、第三方证据或多角度分析等更细腻的说服技巧，对非专业或持怀疑态度的受众效果有限。"
+        },
+        {
+          "term": "跨文化沟通效能存疑",
+          "analysis": "言论风格直接、强硬，且大量使用中文政治话语体系的逻辑和隐喻，可能难以被菲律宾本土受众或其他国际受众有效理解和接受，甚至可能因文化差异产生反效果。"
+        },
+        {
+          "term": "议题设置能力偏科",
+          "analysis": "善于设置和主导关于中国发展成就（经济、科技、救援）的正面议题，但在应对负面或争议性议题时，主要采取反应式驳斥和防御，缺乏将此类议题转化为主动、建设性讨论的能力。"
+        },
+        {
+          "term": "对复杂信息环境适应不足",
+          "analysis": "在信息碎片化、情绪化的社交媒体环境中，仍主要采用长篇声明、正式驳斥和新闻链接等传统外交沟通形式，可能难以有效捕捉和影响更广泛的、习惯于快餐式信息的网络公众。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在一定程度的受害者心态与道德优越感交织，影响理性判断。",
+      "sub_items": [
+        {
+          "term": "受害者心态与迫害妄想",
+          "analysis": "叙事中常暗示中国是国际舆论中“被抹黑”、“被攻击”的受害者，并认为存在有组织的“反华势力”操纵信息。这种心态可能使其过度解读中性或轻微批评，并采取过激反应。"
+        },
+        {
+          "term": "道德与实力优越感交织",
+          "analysis": "一方面通过救援行动等展示道德优越感和责任感，另一方面通过宣传经济科技实力展示硬实力自信。这种交织可能使其在互动中表现出一种“恩威并施”的俯视姿态，易引发对方反感。"
+        },
+        {
+          "term": "对控制叙事的焦虑",
+          "analysis": "表现出对南海问题、中美博弈等议题叙事主导权的强烈焦虑，对任何偏离中方叙事的言论都急于“纠偏”和“正名”。这种焦虑可能驱使其频繁介入争议，反而放大对立声音。"
+        },
+        {
+          "term": "情感消耗与职业倦怠风险",
+          "analysis": "长期处于外交交锋一线，需要高频次地处理争议、驳斥批评、进行对抗性沟通，可能面临较大的情感消耗和压力，潜在影响其长期工作的稳定性和判断的冷静度。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "超越信息传递，旨在塑造叙事、威慑批评者及进行公众外交。",
+      "sub_items": [
+        {
+          "term": "塑造有利国际叙事",
+          "analysis": "核心意图是在国际舆论场，特别是涉华议题上，塑造并巩固对中国有利的叙事框架：中国是负责任、乐于助人、快速发展且坚持原则的大国，任何批评都是不公或别有用心。"
+        },
+        {
+          "term": "威慑与划设红线",
+          "analysis": "通过强硬、有时带威胁性的言辞，旨在威慑潜在的批评者（尤其是菲律宾国内及国际上的对华强硬派），明确划出言论“红线”（如不得攻击中国领导人），试图限制批评的边界和强度。"
+        },
+        {
+          "term": "分化与争取受众",
+          "analysis": "在菲律宾国内舆论场，意图通过宣传合作救援等“正能量”故事，争取菲律宾民众对华好感；同时通过揭露批评者的“外国背景”或动机，试图分化其国内支持基础，将批评塑造为外部势力干预。"
+        },
+        {
+          "term": "测试与塑造反应模式",
+          "analysis": "通过一系列模式化的发布与回应，测试菲律宾政府、媒体及公众对不同类型信息（如救援宣传、强硬警告、发展成就）的反应，并试图逐步塑造对方“遇争议保持克制、遇合作给予肯定”的互动习惯。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦南海事务与双边关系，辅以中国内政成就宣传。",
+      "sub_items": [
+        {
+          "term": "南海主权与海事活动",
+          "analysis": "绝对核心话题。包括宣示中国在南海（特别是黄岩岛附近）的主权和管辖权，驳斥南海仲裁案，宣传中国海警、海军在该区域的常态化存在及救援等“负责任”行动。"
+        },
+        {
+          "term": "中菲双边关系互动",
+          "analysis": "重点话题。涵盖对菲律宾政府、媒体或个人言论的回应与交锋，宣传两国海岸警卫队联合救援等合作事例，同时严厉驳斥被视为损害双边关系或中国利益的菲方言行。"
+        },
+        {
+          "term": "中国内政与发展成就",
+          "analysis": "重要辅助话题。用于展示中国正面形象，包括经济发展韧性、科技创新（如种子业、风电）、清洁能源进展等，旨在构建一个强大、先进、可持续发展的中国背景板。"
+        },
+        {
+          "term": "国际话语权与信息博弈",
+          "analysis": "隐含贯穿性话题。涉及指控“某些组织”散布错误信息，强调中方信息的“真实性”，并与所谓的“透明度倡议”等西方主导叙事进行对抗，本质是争夺涉华议题的国际话语权。"
+        },
+        {
+          "term": "外交原则与底线宣示",
+          "analysis": "原则性话题。反复强调中国外交原则，如反对攻击他国元首、捍卫国家尊严与利益、对“抹黑”行为坚决反击等，旨在明确底线并塑造一个坚定捍卫自身权益的国家形象。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      2,
+      0,
+      9
+    ],
+    [
+      2,
+      1,
+      8
+    ],
+    [
+      2,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sun Jan 25 00:53:19 +0000 2026",
+      "text": "China, Philippine Coast Guards conduct joint maritime rescue\nhttps://t.co/7ypapdxTFI https://t.co/TJviloas5N",
+      "translation": "中国与菲律宾海岸警卫队开展联合海上救援行动 https://t.co/7ypapdxTFI https://t.co/TJviloas5N",
+      "stance": "正面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 16:10:02 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei: Telling the truth? How many times have you lied? Saying that you didn’t mention the name of Chinese leader certainly is not the first time nor will it be the last time.\n\nRelevant disputes between China and the Philippines can https://t.co/gNkZtprLEx",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：说实话？你们撒谎多少次了？说你们没提中国领导人的名字肯定不是第一次，也不会是最后一次。中菲之间的相关争议可以 https://t.co/gNkZtprLEx",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 16:02:31 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei:\nThe rather limited scope of your knowledge does not require the attention of the embassy spokesperson; the deputy spokesperson is more than sufficient.\n\nWith a surprising lack of understanding of international law and even the",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：你那相当有限的知识范围不需要使馆发言人关注；副发言人已经绰绰有余了。对国际法乃至...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 1,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 15:54:22 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei: Finally, some words we can all understand — you actually acknowledged China Coast Guard’s rescue and even said thanks. Whenever anyone is in trouble at sea, they will lend a hand. Let’s hope your thanks are as real as your words",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：终于，有些我们都能理解的话了——你实际上承认了中国海警的救援甚至说了谢谢。每当有人在海上遇险，他们都会伸出援手。希望你的感谢和你的话一样真实",
+      "stance": "正面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 15:47:55 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei:\nNo one is silencing you. Otherwise how come you are still moving heaven and earth to smear China.\n\nDon’t knock on doors wantonly. In case your imagined trolls come to life the buzz of insects will haunt you.\n\nTake the side of",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：没有人让你闭嘴。否则你怎么还在费尽心机抹黑中国。不要随意敲门。万一你想象中的网络水手活过来，虫子的嗡嗡声会缠着你。站在...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 13:03:46 +0000 2026",
+      "text": "RT @CCTVAsiaPacific: As of now, Chinese rescue teams have retrieved 17 Filipino crew members from a shipwreck in the South China Sea. Fifte…",
+      "translation": "RT @CCTVAsiaPacific: 截至目前，中国救援队已从南海一艘沉船中救出17名菲律宾船员。十五...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 06:00:00 +0000 2026",
+      "text": "China’s economy is a vast ocean, not a small pond. It can withstand winds, waves, and even storms.\n\nOn Jan. 20, Chinese Vice Premier He Lifeng said China’s development will bring important opportunities to the world while delivering a speech at the World Economic Forum Annual https://t.co/coY9dtQ9t9",
+      "translation": "中国经济是一片汪洋大海，不是一个小池塘。它能经受住风浪，甚至风暴。1月20日，中国副总理何立峰在世界经济论坛年会上发表演讲时表示，中国的发展将为世界带来重要机遇 https://t.co/coY9dtQ9t9",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 05:00:00 +0000 2026",
+      "text": "China steadily advanced the initiative to invigorate the seed industry in 2025. Domestically bred crop varieties now cover 95% of the country’s total planting area, while the market shares of domestically developed seed and breeding resources in livestock, aquaculture and https://t.co/Wdn5sdSZsl",
+      "translation": "中国稳步推进2025年种业振兴行动。国内培育的作物品种现已覆盖全国总种植面积的95%，而国内开发的畜禽、水产种质资源市场份额... https://t.co/Wdn5sdSZsl",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 03:00:04 +0000 2026",
+      "text": "Check out this 20-megawatt offshore wind turbine unit off the coast of Fujian in southeast China. The project underscores China’s accelerating push to scale up clean energy at sea. https://t.co/qWg8Tyd1CG",
+      "translation": "看看中国东南部福建沿海的这台20兆瓦海上风力发电机组。该项目凸显了中国加速推进海上清洁能源规模化发展的努力。 https://t.co/qWg8Tyd1CG",
+      "stance": "正面",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 02:36:57 +0000 2026",
+      "text": "Some organizations are spreading wrongful and misleading information about the so-call 2016 “SCS Arbitration”. \nTo set the record straight here are Q&amp;As for fact checking. https://t.co/Swjvk2e1a4",
+      "translation": "一些组织正在传播关于所谓2016年“南海仲裁案”的错误和误导性信息。为澄清事实，以下是事实核查的问答。 https://t.co/Swjvk2e1a4",
+      "stance": "正面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 00:45:25 +0000 2026",
+      "text": "Latest updates from CCG:\n\nChina, Philippine Coast Guards conduct joint maritime rescue\nOn January 23, China Coast Guard continued search and rescue operations for crew members who fell into the water after a foreign cargo vessel capsized near China's Huangyan Dao. Four crew https://t.co/ggUKspqTTh",
+      "translation": "中国海警最新消息：中菲海岸警卫队开展联合海上救援 1月23日，中国海警继续对在中国黄岩岛附近海域一艘外国货船倾覆后落水的船员进行搜救。四名船员 https://t.co/ggUKspqTTh",
+      "stance": "正面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Mon Sep 25 13:05:53 +0000 2023",
+      "text": "🇨🇳🇵🇭A Chinese People's Liberation Army (PLA) naval vessel recently rescued two Philippine fishermen.\nhttps://t.co/3MMvPEhCc1 https://t.co/In6Y6iKRAb",
+      "translation": "🇨🇳🇵🇭 中国人民解放军海军一艘舰艇最近救起了两名菲律宾渔民。 https://t.co/3MMvPEhCc1 https://t.co/In6Y6iKRAb",
+      "stance": "正面",
+      "metrics": {
+        "reply": 146,
+        "retweet": 10,
+        "like": 58
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 14:52:29 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei: 1. It is widely known that Ray Powell is a mastermind behind the so-called “transparency initiative.” As a retired U.S. Air Force colonel and Director of the so-called Sealight Project of the Gordian Knot Center for National https://t.co/W7jhvxGbYH",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：1. 众所周知，雷·鲍威尔是所谓‘透明度倡议’的幕后策划者。作为一名退役美国空军上校，以及所谓戈迪安结国家中心‘海光项目’的主任... https://t.co/W7jhvxGbYH",
+      "stance": "正面",
+      "metrics": {
+        "reply": 21,
+        "retweet": 6,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 14:23:16 +0000 2026",
+      "text": "https://t.co/TqDQnYzqIF Deputy Spokesperson of the Chinese Embassy Guo Wei: They are the ones who rescued 17 Filipino seamen today and continue to search for the missing four. They are the ones who on last Christmas day saved a Filipino fisherman who had been stranded for 3 days.",
+      "translation": "https://t.co/TqDQnYzqIF 中国驻菲律宾大使馆副发言人郭伟：他们就是今天救出17名菲律宾船员并继续搜寻失踪4人的那些人。他们就是在去年圣诞节那天救起一名被困3天的菲律宾渔民的那些人。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:24:40 +0000 2026",
+      "text": "Some organizations are spreading wrongful and misleading information about the so-call 2016 “SCS Arbitration”. \nTo set the record straight here are Q&amp;As for fact checking. https://t.co/tPz7Vmfk8B",
+      "translation": "一些组织正在传播关于所谓2016年“南海仲裁案”的错误和误导性信息。为澄清事实，以下是事实核查的问答。 https://t.co/tPz7Vmfk8B",
+      "stance": "正面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:14:40 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei: No one wants to silence you, and no one should be silenced. But freedom of speech is NOT a license to recklessly defame or attack others, let alone the head of state of another country—this is completely unacceptable. China’s https://t.co/Xp9cwdwnRV",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：没有人想让你闭嘴，也不应该有人被噤声。但言论自由不是肆意诽谤或攻击他人的许可证，更不用说攻击另一个国家的元首——这是完全不可接受的。中国的... https://t.co/Xp9cwdwnRV",
+      "stance": "正面",
+      "metrics": {
+        "reply": 17,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 07:17:45 +0000 2026",
+      "text": "Update: The Chinese PLA's Southern Theater Command launched a joint rescue operation for a capsized foreign cargo ship in waters near China's Huangyan Dao on Jan. 23. The vessel had been sailing from the Philippines to Guangdong, China, carrying 21 Filipino crew members on board. https://t.co/HDFVK0OqJi",
+      "translation": "更新：中国人民解放军南部战区于1月23日在中国黄岩岛附近海域对一艘倾覆的外国货船展开联合救援行动。该船当时正从菲律宾驶往中国广东，船上载有21名菲律宾船员。 https://t.co/HDFVK0OqJi",
+      "stance": "正面",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 06:02:45 +0000 2026",
+      "text": "Deputy Spokesperson of the Chinese Embassy Guo Wei: No one wants to silence you, and no one should be silenced. But freedom of speech does not give anyone the right to recklessly defame or attack others, let alone the head of state of another country—this is completely https://t.co/aFXNDReHJW",
+      "translation": "中国驻菲律宾大使馆副发言人郭伟：没有人想让你闭嘴，也不应该有人被噤声。但言论自由并没有赋予任何人肆意诽谤或攻击他人的权利，更不用说攻击另一个国家的元首——这是完全... https://t.co/aFXNDReHJW",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 03:43:44 +0000 2026",
+      "text": "China Coast Guard Rescues 13 Philippine Crew Members After Cargo Ship Capsizes\n\nAt 1:34 a.m. on January 23, China Coast Guard received a report from the Maritime Search and Rescue Center of Sansha City, Hainan Province, that a foreign cargo vessel had capsized 55 nautical miles https://t.co/kniPtQtFtE",
+      "translation": "中国海警在货船倾覆后救起13名菲律宾船员 1月23日凌晨1时34分，中国海警接到海南省三沙市海上搜救中心报告，一艘外国货船在距...55海里处倾覆 https://t.co/kniPtQtFtE",
+      "stance": "正面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 2,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:22:37 +0000 2026",
+      "text": "The Chinese Embassy serves as a bridge for promoting friendship and cooperation between the two countries, and also as a fortress in safeguarding China’s national interests and dignity. We strongly oppose groundless attacks and smears. If fake news are spread, if China is defamed https://t.co/NswX0uv4na",
+      "translation": "中国驻菲律宾大使馆是促进两国友好合作的桥梁，也是维护中国国家利益和尊严的堡垒。我们坚决反对无端攻击和抹黑。如果传播假新闻，如果中国被诽谤... https://t.co/NswX0uv4na",
+      "stance": "正面",
+      "metrics": {
+        "reply": 159,
+        "retweet": 2,
+        "like": 29
+      }
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+[
+  {
+    "filename": "profile_baba_ishin.json",
+    "name": "baba_ishin",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Hashimoto_Lo.json",
+    "name": "Hashimoto_Lo",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_hatoyamayukio.json",
+    "name": "hatoyamayukio",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Hosono_54.json",
+    "name": "Hosono_54",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_IchiroOzawa.json",
+    "name": "IchiroOzawa",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_ichita_y.json",
+    "name": "ichita_y",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_jcp_cc.json",
+    "name": "jcp_cc",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_kantei.json",
+    "name": "kantei",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_katsuyatakasu.json",
+    "name": "katsuyatakasu",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_kihara_minoru.json",
+    "name": "kihara_minoru",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Komei_Koho.json",
+    "name": "Komei_Koho",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Matsu_Bouzu.json",
+    "name": "Matsu_Bouzu",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_miosugita.json",
+    "name": "miosugita",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MizuhoFukushima.json",
+    "name": "MizuhoFukushima",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_ModJapan_jp.json",
+    "name": "ModJapan_jp",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MofaJapan_jp.json",
+    "name": "MofaJapan_jp",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_moteging.json",
+    "name": "moteging",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_nagashima21.json",
+    "name": "nagashima21",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_onoda_kimi.json",
+    "name": "onoda_kimi",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_RyukyuShimpo.json",
+    "name": "RyukyuShimpo",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Sankei_news.json",
+    "name": "Sankei_news",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_SatoMasahisa.json",
+    "name": "SatoMasahisa",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_shinjirokoiz.json",
+    "name": "shinjirokoiz",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_takaichi_sanae.json",
+    "name": "takaichi_sanae",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_TamakiDenny.json",
+    "name": "TamakiDenny",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_tamakiyuichiro.json",
+    "name": "tamakiyuichiro",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_wadamasamune.json",
+    "name": "wadamasamune",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_YamamotoTaro0.json",
+    "name": "YamamotoTaro0",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_YoichiTakahashi.json",
+    "name": "YoichiTakahashi",
+    "region": "Japan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_bongbongmarcos.json",
+    "name": "bongbongmarcos",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_coastguardph.json",
+    "name": "coastguardph",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_DFAPHL.json",
+    "name": "DFAPHL",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_dndphl.json",
+    "name": "dndphl",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_gmanews.json",
+    "name": "gmanews",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_indaysara.json",
+    "name": "indaysara",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_inquirerdotnet.json",
+    "name": "inquirerdotnet",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_jaytaryela.json",
+    "name": "jaytaryela",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_JVejercito.json",
+    "name": "JVejercito",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_ManilaBulletin.json",
+    "name": "ManilaBulletin",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_migzzubiri.json",
+    "name": "migzzubiri",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Philippine_Navy.json",
+    "name": "Philippine_Navy",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_PhilStarNews.json",
+    "name": "PhilStarNews",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_rapplerdotcom.json",
+    "name": "rapplerdotcom",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_risahontiveros.json",
+    "name": "risahontiveros",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_SenGracePoe.json",
+    "name": "SenGracePoe",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_srsasot.json",
+    "name": "srsasot",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_TeamAFP.json",
+    "name": "TeamAFP",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_teddyboylocsin.json",
+    "name": "teddyboylocsin",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_TrillanesSonny.json",
+    "name": "TrillanesSonny",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_WinGatchalian74.json",
+    "name": "WinGatchalian74",
+    "region": "Philippines",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_AmbJohnBolton.json",
+    "name": "AmbJohnBolton",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_codepink.json",
+    "name": "codepink",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_DanielDumbrill.json",
+    "name": "DanielDumbrill",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_DoubleDownNews.json",
+    "name": "DoubleDownNews",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_DrJillStein.json",
+    "name": "DrJillStein",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_EliseStefanik.json",
+    "name": "EliseStefanik",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_elonmusk.json",
+    "name": "elonmusk",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_GarlandNixon.json",
+    "name": "GarlandNixon",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_JDVance.json",
+    "name": "JDVance",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_Jerry_Kowalski.json",
+    "name": "Jerry_Kowalski",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_KristiNoem.json",
+    "name": "KristiNoem",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_LindseyGrahamSC.json",
+    "name": "LindseyGrahamSC",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_marcorubio.json",
+    "name": "marcorubio",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MarshaBlackburn.json",
+    "name": "MarshaBlackburn",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MaxBlumenthal.json",
+    "name": "MaxBlumenthal",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_michaelgwaltz.json",
+    "name": "michaelgwaltz",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_mikepompeo.json",
+    "name": "mikepompeo",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_NikkiHaley.json",
+    "name": "NikkiHaley",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_PeteHegseth.json",
+    "name": "PeteHegseth",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_PeteRicketts.json",
+    "name": "PeteRicketts",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_RayDalio.json",
+    "name": "RayDalio",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_realDonaldTrump.json",
+    "name": "realDonaldTrump",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_RepMcCaul.json",
+    "name": "RepMcCaul",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_RnaudBertrand.json",
+    "name": "RnaudBertrand",
+    "region": "US",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_bikhim.json",
+    "name": "bikhim",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_chimaichen.json",
+    "name": "chimaichen",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_ChingteLai.json",
+    "name": "ChingteLai",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_hkStephenSYY.json",
+    "name": "hkStephenSYY",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_HouYuIh.json",
+    "name": "HouYuIh",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_hungsunhan.json",
+    "name": "hungsunhan",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_iingwen.json",
+    "name": "iingwen",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_JMichaelCole1.json",
+    "name": "JMichaelCole1",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_KP_Taiwan.json",
+    "name": "KP_Taiwan",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_leeyenhuiocac.json",
+    "name": "leeyenhuiocac",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MAC_Taiwan.json",
+    "name": "MAC_Taiwan",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MOFA_Taiwan.json",
+    "name": "MOFA_Taiwan",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MoNDefense.json",
+    "name": "MoNDefense",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_MPWangTingyu.json",
+    "name": "MPWangTingyu",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_olekshyn.json",
+    "name": "olekshyn",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_PanMenAn.json",
+    "name": "PanMenAn",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_pumashen.json",
+    "name": "pumashen",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_souichi_lai.json",
+    "name": "souichi_lai",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_StanPatato.json",
+    "name": "StanPatato",
+    "region": "Taiwan",
+    "category": "politician"
+  },
+  {
+    "filename": "profile_wuerkaixi.json",
+    "name": "wuerkaixi",
+    "region": "Taiwan",
+    "category": "politician"
+  }
+]

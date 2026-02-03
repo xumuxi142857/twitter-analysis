@@ -1,0 +1,474 @@
+{
+  "id": "profile_codepink.json",
+  "_fingerprint": "f42de9d0b39dfde9016e7434bd6bf3ea",
+  "name": "codepink",
+  "username": "codepink",
+  "category": "media",
+  "daily_count": 5.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高外倾性、低宜人性、尽责性中等、神经质中等偏高。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "广泛关注国际政治、社会运动、人权议题，积极参与跨国活动，对多元文化和意识形态持探索态度，组织社区旅行到中国等活动体现对异质文化的兴趣。"
+        },
+        {
+          "term": "外倾性高",
+          "analysis": "频繁组织并参与街头抗议、集会、网络活动，通过社交媒体动员群众，在公共场合表达主张，表现出强烈的社交活跃度和影响力寻求。"
+        },
+        {
+          "term": "宜人性低",
+          "analysis": "言论充满对抗性，强烈谴责美国、以色列等实体，使用“死亡机器”“恐怖”“侵略”等激烈词汇，不避讳直接攻击特定机构和个人，缺乏妥协倾向。"
+        },
+        {
+          "term": "尽责性中等",
+          "analysis": "能持续组织活动、发布信息、参与会议，显示一定计划性和执行力，但言论常带有情绪化色彩，可能影响策略的稳定性。"
+        },
+        {
+          "term": "神经质中等偏高",
+          "analysis": "言论中频繁表达愤怒、焦虑和紧迫感，对战争、移民政策、媒体控制等议题反应强烈，情绪驱动明显，易受负面事件激发。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出救世主情结、偏执倾向、道德优越感和对抗性人格。",
+      "sub_items": [
+        {
+          "term": "救世主情结",
+          "analysis": "以全球正义捍卫者自居，试图领导运动对抗所谓“美帝国主义”，组织活动范围从美国本土到拉丁美洲、中东，表现出拯救受压迫群体的使命感。"
+        },
+        {
+          "term": "偏执倾向",
+          "analysis": "将美国政策、ICE、媒体等描绘为系统性压迫工具，认为存在蓄意的“战争机器”和“真相压制”，对主流叙事持高度不信任态度。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "常以道德高地批判对手，如引用马丁·路德·金的话语来佐证自身立场，将反对者描绘为不道德或与死亡机器共谋，缺乏对复杂性的承认。"
+        },
+        {
+          "term": "对抗性人格",
+          "analysis": "言论和行动以对抗为核心，呼吁“废除ICE”“抵抗接管”，偏好冲突性叙事，可能削弱建设性对话和合作的可能性。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、二元思维、情感启发和阴谋论倾向。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注并放大符合其反美、反帝国主义世界观的事件，如ICE暴力、美军行动、以色列行为，忽略或淡化相反证据，强化既有信念。"
+        },
+        {
+          "term": "二元思维",
+          "analysis": "将世界简化为压迫者与被压迫者的对立，如“美国帝国” vs “人民”，缺乏对政策复杂性、历史背景和多利益方互动的深入分析。"
+        },
+        {
+          "term": "情感启发",
+          "analysis": "决策和言论高度依赖情感反应，如对死亡事件的愤怒驱动抗议号召，用强烈情绪词汇（如“谋杀”“海盗行为”）替代理性论证。"
+        },
+        {
+          "term": "阴谋论倾向",
+          "analysis": "暗示媒体被特定势力（如Ellison家族）控制以压制真相，将事件归因于隐秘的精英操纵，而非公开的政治或经济过程。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖公开抗议、情绪化动员、网络活动和组织松散可能影响效能。",
+      "sub_items": [
+        {
+          "term": "公开抗议依赖",
+          "analysis": "频繁组织街头游行、集会，易受天气、警方管制、公众疲劳等因素影响，持续性可能不足，且暴露组织结构和成员信息。"
+        },
+        {
+          "term": "情绪化动员",
+          "analysis": "依靠愤怒、恐惧等情绪驱动参与，可能导致支持者基础不稳定，情绪消退后参与度下降，或引发极端行为而招致法律风险。"
+        },
+        {
+          "term": "网络活动过度",
+          "analysis": "高度依赖社交媒体发布信息和动员，易受平台算法调整、封禁或舆论反制影响，数字足迹可能被追踪用于反制。"
+        },
+        {
+          "term": "组织松散性",
+          "analysis": "活动似乎依赖临时集会、网络号召和合作伙伴，缺乏严密组织结构，可能影响长期战略执行和资源协调。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "极端反美立场、选择性批判、意识形态僵化和盟友关系复杂。",
+      "sub_items": [
+        {
+          "term": "极端反美立场",
+          "analysis": "全面否定美国内外政策，谴责为“死亡机器”“恐怖”，可能疏远潜在同情者，被对手简单化为不爱国或极端主义，限制政治影响力。"
+        },
+        {
+          "term": "选择性批判",
+          "analysis": "强烈批评美国、以色列，但对其他地区的人权或政治问题关注相对较少，可能被指责为双重标准或受特定意识形态驱动。"
+        },
+        {
+          "term": "意识形态僵化",
+          "analysis": "坚持反帝国主义、反战框架，难以适应政策细节或局部改进，可能错过务实合作机会，陷入教条主义。"
+        },
+        {
+          "term": "盟友关系复杂",
+          "analysis": "与多样化的国际团体合作，如拉美活动家、巴基斯坦分析组织，但盟友间利益可能冲突，协调难度大，易受外部势力影响。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "战略规划不足、资源有限、媒体应对单一和专业知识依赖外部。",
+      "sub_items": [
+        {
+          "term": "战略规划不足",
+          "analysis": "活动多为反应式，针对具体事件（如ICE暴力、媒体任命）发起抗议，缺乏长期、分阶段的政治变革路线图，影响运动可持续性。"
+        },
+        {
+          "term": "资源有限",
+          "analysis": "依赖志愿者、小额捐款和网络动员，财力、人力可能不足以支撑大规模持续行动，易因资源枯竭而衰减。"
+        },
+        {
+          "term": "媒体应对单一",
+          "analysis": "主要利用社交媒体和街头抗议传递信息，缺乏与传统媒体、政策制定者的有效沟通策略，影响力可能局限于特定圈子。"
+        },
+        {
+          "term": "专业知识依赖外部",
+          "analysis": "通过 webinar、峰会依赖外部专家进行分析，自身可能缺乏深入的政策研究能力，影响论据的权威性和说服力。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "情绪易波动、理想化期待、认知闭合和身份认同危机。",
+      "sub_items": [
+        {
+          "term": "情绪易波动",
+          "analysis": "言论显示对暴力、战争事件的高度情绪化反应，易陷入愤怒或绝望，可能影响判断力和决策稳定性，导致冲动行为。"
+        },
+        {
+          "term": "理想化期待",
+          "analysis": "期待彻底废除ICE、结束美国帝国主义等宏大目标，与现实政治进程脱节，可能因成果有限而产生挫败感或激进转向。"
+        },
+        {
+          "term": "认知闭合",
+          "analysis": "对复杂议题提供简单化解释，如将全球冲突归因于美国侵略，拒绝考虑多因素互动，限制学习和策略调整能力。"
+        },
+        {
+          "term": "身份认同危机",
+          "analysis": "作为美国本土组织却强烈反对本国政策，可能面临内部身份冲突，在争取支持时需平衡批判与建设性参与，易产生分裂。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "推动全球反美联盟、重塑媒体叙事、培育激进基层和探索替代模式。",
+      "sub_items": [
+        {
+          "term": "推动全球反美联盟",
+          "analysis": "通过参与国际会议、支持拉美等地抗议，试图构建跨国的反帝国主义运动网络，削弱美国全球影响力，而非仅关注国内改革。"
+        },
+        {
+          "term": "重塑媒体叙事",
+          "analysis": "攻击主流媒体如CNN、CBS，呼吁改变对华报道，组织替代性活动，意图打破现有信息垄断，推广左翼或反建制视角。"
+        },
+        {
+          "term": "培育激进基层",
+          "analysis": "通过街头行动、网络动员培养积极参与的激进支持者，旨在建立可持续的社会运动力量，可能为更广泛的政治变革铺垫。"
+        },
+        {
+          "term": "探索替代模式",
+          "analysis": "组织中国旅行、关注不同政治体系，暗示对非西方发展模式的兴趣，可能隐含对现有资本主义民主制度的深层不满和替代寻求。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题包括反战反帝、移民权利、媒体批判、国际团结和文化交流。",
+      "sub_items": [
+        {
+          "term": "反战反帝",
+          "analysis": "频繁谴责美国军事行动、战争预算、对外干预，将国内移民政策与海外侵略相联系，呼吁结束帝国主义和军事主义。"
+        },
+        {
+          "term": "移民权利",
+          "analysis": "强烈反对ICE，支持废除该机构，将移民执法描绘为国内恐怖，组织罢工和抗议声援受影响社区。"
+        },
+        {
+          "term": "媒体批判",
+          "analysis": "指责美国媒体扭曲报道，特别是对华负面描绘，批评特定编辑如Bari Weiss，主张媒体应独立并反映人民声音。"
+        },
+        {
+          "term": "国际团结",
+          "analysis": "关注拉丁美洲、中东、巴基斯坦等地局势，与当地活动家合作，强调全球抵抗美国侵略，构建跨国支持网络。"
+        },
+        {
+          "term": "文化交流",
+          "analysis": "组织中国旅行，呼吁美国媒体体验真实中国，显示对促进跨文化理解、打破西方中心叙事的兴趣。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      2,
+      0,
+      7
+    ],
+    [
+      0,
+      1,
+      9
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      2,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 25
+    },
+    {
+      "name": "同伴",
+      "value": 60
+    },
+    {
+      "name": "亲情",
+      "value": 15
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 23:18:20 +0000 2026",
+      "text": "Yesterday in Washington, D.C. https://t.co/iJ6r3ZRK8W",
+      "translation": "昨天在华盛顿特区。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 24,
+        "like": 84
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 01:10:08 +0000 2026",
+      "text": "Thousands in the streets from DC to Minnesota.\nFreezing cold or blazing heat, we show up.\nWe march, we walk out, and we will not stop\nuntil we abolish ICE. https://t.co/xbajc2J29r",
+      "translation": "从华盛顿特区到明尼苏达州，成千上万的人走上街头。无论是严寒还是酷暑，我们都会出现。我们游行，我们罢工，直到废除ICE（美国移民和海关执法局）我们才会停止。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 57,
+        "like": 129
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 00:18:28 +0000 2026",
+      "text": "This is piracy. \n\nThe U.S. military is stealing oil in broad daylight.",
+      "translation": "这是海盗行为。美国军队在光天化日之下偷窃石油。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 64,
+        "like": 108
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 00:16:35 +0000 2026",
+      "text": "Machado said it was a “historic day for us Venezuelans” as she handed Trump her Nobel Peace Prize.\n\nThe only history the pro-Israel, far-right opposition figure made is sucking up to the US empire, writes Nuvpreet Kalra.\n\n🔗 https://t.co/5XOy7D5x1u https://t.co/nan38j1BSz",
+      "translation": "马查多称，当她将诺贝尔和平奖交给特朗普时，这是“我们委内瑞拉人的历史性一天”。Nuvpreet Kalra写道，这位亲以色列的极右翼反对派人物创造的唯一历史就是巴结美帝国。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 13,
+        "like": 45
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 18:30:09 +0000 2026",
+      "text": "https://t.co/OgvcIFA6ck",
+      "translation": "",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12,
+        "retweet": 59,
+        "like": 93
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 18:06:51 +0000 2026",
+      "text": "How do we challenge the drive to war?\n\nJoin CODEPINK at @declassifiedUK's summit for an urgent discussion about how we can build the movement against militarism and imperialism.\n\n🗓️ Jan 31\n📍 EartH Hackney, London\n\nRSVP:\nhttps://t.co/YO7cJ61xd5 https://t.co/EIpPdMBgur",
+      "translation": "我们如何挑战战争的驱动？加入CODEPINK参加@declassifiedUK的峰会，紧急讨论我们如何建立反对军国主义和帝国主义的运动。🗓️ 1月31日 📍 伦敦哈克尼EartH 回复：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 15,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 17:30:00 +0000 2026",
+      "text": "One year ago today, Trump was inaugurated for his second term.\n\nWhile Trump is an overt face of imperialism - his policies are a continuation of previous administrations.\n\nWhen we oppose the Trump regime, it must be more than one man - we  reject the US empire in its entirety. https://t.co/jlXA5WpIiT",
+      "translation": "一年前的今天，特朗普宣誓就职开始他的第二任期。虽然特朗普是帝国主义的公开面孔——但他的政策是先前政府的延续。当我们反对特朗普政权时，必须不止于一个人——我们完全拒绝美帝国。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 48,
+        "like": 85
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 01:27:38 +0000 2026",
+      "text": "U.S. media shows China through a lens of fear.\n\nAmericans rarely get to see the real China — the people, culture, and joy.\n\nJoin us in calling on CNN hosts Andy Cohen and Anderson Cooper to spend Chinese New Year in China.\n\nhttps://t.co/Ijlpbe2s8W https://t.co/GUH109fEJe",
+      "translation": "美国媒体通过恐惧的镜头展示中国。美国人很少能看到真实的中国——人民、文化和欢乐。加入我们，呼吁CNN主持人安迪·科恩和安德森·库珀来中国过春节。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 23,
+        "like": 48
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 23:14:02 +0000 2026",
+      "text": "https://t.co/YxPbyAO4VM",
+      "translation": "",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 52,
+        "like": 70
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 17:21:07 +0000 2026",
+      "text": "Rep. Brian Mast openly bragged about bombing Caracas, killing 100 people, and “snatching” Venezuela’s president. Every life lost in Caracas was someone’s family member, neighbor, or friend. This moment should force us to ask not only what powers the U.S claims, but why we keep https://t.co/Wp4amVwmrk",
+      "translation": "众议员布莱恩·马斯特公开吹嘘轰炸加拉加斯，杀害100人，并“绑架”委内瑞拉总统。在加拉加斯逝去的每一个生命都是某人的家人、邻居或朋友。这一刻应该迫使我们不仅要问美国声称拥有什么权力，还要问为什么我们继续",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16,
+        "retweet": 118,
+        "like": 214
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 18:31:47 +0000 2026",
+      "text": "ICE has killed another person in Minnesota.\n\nAfter murdering Renee Good two weeks ago, Hegseth told ICE agents they have “federal immunity”.\n\nUS warfare, at home and abroad, is a death machine.",
+      "translation": "ICE（美国移民和海关执法局）在明尼苏达州又杀害了一人。在两周前谋杀蕾妮·古德之后，赫格塞斯告诉ICE特工他们拥有“联邦豁免权”。美国的战争，无论在国内还是国外，都是一台死亡机器。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 8,
+        "retweet": 80,
+        "like": 225
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 17:59:59 +0000 2026",
+      "text": "NOW: We’re in Bogotá, Colombia for the emergency convening by @progintl against the US aggression on the Americas. https://t.co/lR2tmfEfVm",
+      "translation": "现在：我们在哥伦比亚波哥大参加@progintl针对美国对美洲侵略的紧急召集会议。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 16,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 17:30:21 +0000 2026",
+      "text": "🇧🇷 🇻🇪 🇨🇺 From the streets of Salvador, Brazil to Caracas to Havana, people are rising up against US aggression in Latin America. https://t.co/kH1GhXY5mD",
+      "translation": "🇧🇷 🇻🇪 🇨🇺 从巴西萨尔瓦多的街头到加拉加斯再到哈瓦那，人们正在奋起反抗美国在拉丁美洲的侵略。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 89,
+        "like": 160
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 20:50:38 +0000 2026",
+      "text": "Dr. King warned that a nation choosing war over people is choosing spiritual death. Look at our $1T war budget. Look at ICE. If King were here today, he’d be in the streets with us.\n\nLet’s honor his legacy with action. https://t.co/xO9luaGXYQ",
+      "translation": "金博士警告说，一个选择战争而非人民的国家正在选择精神死亡。看看我们1万亿美元的战争预算。看看ICE（美国移民和海关执法局）。如果金博士今天还在这里，他会和我们一起走上街头。让我们用行动来纪念他的遗产。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 50,
+        "like": 124
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 18:55:02 +0000 2026",
+      "text": "Join CODEPINK &amp; @Alliance4PJ for a special two-part webinar series to deepen awareness and analysis of the current situation in Pakistan.\n\n🗓️ Mon Jan 26\n⏰ 8PM ET\n\nRSVP: https://t.co/RN2XenazwR https://t.co/YDO4UAe0JY",
+      "translation": "加入CODEPINK和@Alliance4PJ参加一个特别的两部分网络研讨会系列，以加深对巴基斯坦当前局势的认识和分析。🗓️ 1月26日星期一 ⏰ 美国东部时间晚上8点 回复：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 12,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 23:14:54 +0000 2026",
+      "text": "Today, thousands of New Yorkers are marching in solidarity with the Minnesota General Strike against ICE.\n\nPeople across the country demand an end to U.S. terror on our streets and around the world. https://t.co/UEN88tJBdw",
+      "translation": "今天，成千上万的纽约人游行声援明尼苏达州反对ICE（美国移民和海关执法局）的总罢工。全国各地的人们要求结束美国在我们街头和世界各地的恐怖行为。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 97,
+        "like": 178
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 19:51:24 +0000 2026",
+      "text": "Israel murdered 3 Palestinian journalists this week in Gaza.\n\nMeanwhile, zionist CBS Editor Bari Weiss is set to give a talk about the \"future of journalism\".\n\nHer \"journalism\" justified their deaths.\n\n✍️ Tell the UCLA Burkle Center to cancel the event: https://t.co/4VVrwaqCYx",
+      "translation": "以色列本周在加沙谋杀了3名巴勒斯坦记者。与此同时，犹太复国主义者CBS编辑巴里·韦斯准备就“新闻业的未来”发表演讲。她的“新闻业”为他们的死亡辩护。✍️ 告诉UCLA伯克尔中心取消该活动：",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 93,
+        "like": 140
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 16:45:48 +0000 2026",
+      "text": "Want to join our next community trip to China? Come to our interest meeting on Wed, Jan 28 at 7pm ET. \n\nRSVP: https://t.co/oKfhOglAQo https://t.co/pvSsCYJ9EK",
+      "translation": "想加入我们下一次的中国社区之旅吗？来参加我们的兴趣会议，时间是1月28日星期三美国东部时间晚上7点。回复：",
+      "stance": "正面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 33,
+        "like": 96
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 16:24:25 +0000 2026",
+      "text": "Yesterday, we took to TikTok HQ to sound the alarm on the Ellison-led takeover of the platform.\n\nWe've seen how the Ellisons' control of CBS News has changed coverage after they installed Bari Weiss as editor in chief. \n\nWe must resist this blatant effort to suppress the truth. https://t.co/6AijjKe4vF",
+      "translation": "昨天，我们前往TikTok总部，就埃里森主导的平台接管发出警报。我们已经看到埃里森家族控制CBS新闻后，在他们任命巴里·韦斯为总编辑后，报道是如何改变的。我们必须抵制这种公然压制真相的努力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 41,
+        "like": 91
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 15:04:13 +0000 2026",
+      "text": "ICE OUT OF OUR CITIES\nTROOPS OUT OF EVERYWHERE\n\n📍 Washington D.C. https://t.co/XvzLh1K1b3",
+      "translation": "ICE（美国移民和海关执法局）滚出我们的城市 军队滚出所有地方 📍 华盛顿特区",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 31,
+        "like": 79
+      }
+    }
+  ]
+}

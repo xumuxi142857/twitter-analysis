@@ -1,0 +1,474 @@
+{
+  "id": "profile_teddyboylocsin.json",
+  "_fingerprint": "683e2315122e21bbbdc4cf4f1b4bb31f",
+  "name": "teddyboylocsin",
+  "username": "teddyboylocsin",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高神经质、低宜人性、中等开放性、低尽责性、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "高神经质",
+          "analysis": "言论中频繁出现焦虑、恐惧和负面情绪，如对特定群体的警惕、对日常行为的过度担忧，表现出情绪不稳定和易受压力影响。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "缺乏同理心和合作倾向，常以讽刺、冷漠或攻击性语言描述他人，如贬低儿童、特定种族或群体，显示出敌对和疏离的人际态度。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "偶尔引用历史或文化典故，但思维模式较为固定，缺乏深度探索或创新表达，倾向于重复刻板印象而非新观点。"
+        },
+        {
+          "term": "低尽责性",
+          "analysis": "言论散乱、缺乏逻辑连贯性，常以简短、模糊的语句回应，显示出组织性和目标导向的薄弱，可能难以持续完成复杂任务。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "有表达欲望，但互动方式以单向陈述为主，缺乏社交温暖或团队协作迹象，倾向于孤立或防御性沟通。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出偏执、冷漠和攻击性倾向，缺乏社会适应性。",
+      "sub_items": [
+        {
+          "term": "偏执多疑",
+          "analysis": "对他人动机持不信任态度，如暗示普遍性恶行或隐藏威胁，常将世界描绘为危险和不公，导致过度防御行为。"
+        },
+        {
+          "term": "情感冷漠",
+          "analysis": "对敏感话题如暴力、儿童或种族问题反应平淡或戏谑，缺乏道德共鸣，可能忽视他人痛苦或正当权益。"
+        },
+        {
+          "term": "攻击性倾向",
+          "analysis": "言论中隐含或直接鼓励暴力，如建议以伤害方式解决冲突，显示出冲动控制和愤怒管理的问题。"
+        },
+        {
+          "term": "自我中心",
+          "analysis": "频繁以个人经历或观点为中心，忽略 broader context，表现出缺乏换位思考或集体利益考量。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在过度概括、负面偏见和僵化思维模式。",
+      "sub_items": [
+        {
+          "term": "过度概括",
+          "analysis": "基于有限或模糊信息做出广泛结论，如将个别行为归因于整个群体，导致刻板印象和错误判断。"
+        },
+        {
+          "term": "负面偏见",
+          "analysis": "优先关注和放大负面事件或特质，如聚焦暴力、不洁或缺陷，忽视积极或中性方面，扭曲现实认知。"
+        },
+        {
+          "term": "僵化思维",
+          "analysis": "依赖固定回应模式，如重复使用讽刺或简短答案，缺乏灵活性和深度分析，可能阻碍问题解决。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性接受符合既有观点的信息，如强化对特定群体的负面看法，忽略 contradictory evidence。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "易冲动、社交孤立和沟通低效，增加冲突风险。",
+      "sub_items": [
+        {
+          "term": "冲动反应",
+          "analysis": "倾向于快速、未经深思的回应，如建议暴力解决方式，可能导致鲁莽决策或 escalations in tense situations。"
+        },
+        {
+          "term": "社交孤立",
+          "analysis": "沟通风格疏离且防御性强，难以建立信任或合作关系，易被边缘化或引发敌对反应。"
+        },
+        {
+          "term": "沟通低效",
+          "analysis": "言论模糊、跳跃或缺乏上下文，阻碍信息传递和理解，易造成误解或无效互动。"
+        },
+        {
+          "term": "风险忽视",
+          "analysis": "轻描淡写 serious issues 或鼓励危险行为，如 trivializing violence，可能引发实际危害或法律后果。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场模糊、易受操纵且缺乏一致性，削弱可信度。",
+      "sub_items": [
+        {
+          "term": "立场模糊",
+          "analysis": "言论常为简短、非 committal 或 ironic，难以 discern clear stances on key issues，易被误解或利用。"
+        },
+        {
+          "term": "易受操纵",
+          "analysis": "由于负面偏见和情感冷漠，可能容易被极端或煽动性内容影响，导致立场摇摆或强化偏见。"
+        },
+        {
+          "term": "缺乏一致性",
+          "analysis": "回应 vary widely in tone and content without explanation，显示出 incoherent worldview，降低说服力和可靠性。"
+        },
+        {
+          "term": "道德真空",
+          "analysis": "未能建立明确的 ethical framework，如 equivocating on violence or discrimination，易受批评或失去支持。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "分析能力薄弱、决策质量低和执行力差，限制 effectiveness。",
+      "sub_items": [
+        {
+          "term": "分析能力薄弱",
+          "analysis": "缺乏深度推理或 evidence-based arguments，依赖 superficial or emotional responses，难以处理复杂信息。"
+        },
+        {
+          "term": "决策质量低",
+          "analysis": "倾向 impulsive or biased choices，如基于 stereotypes 而非 facts，增加错误或 harmful outcomes 的风险。"
+        },
+        {
+          "term": "执行力差",
+          "analysis": "言论暗示 passivity or disorganization，如 vague commitments，可能 struggle to follow through on plans or initiatives。"
+        },
+        {
+          "term": "适应性不足",
+          "analysis": "僵化思维和社交孤立限制学习或调整能力，难以应对变化或新挑战。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "情绪不稳定、认知扭曲和低自我意识，影响 mental resilience。",
+      "sub_items": [
+        {
+          "term": "情绪不稳定",
+          "analysis": "高神经质导致 frequent anxiety, fear, or irritability，可能引发过度反应或 burnout in stressful situations。"
+        },
+        {
+          "term": "认知扭曲",
+          "analysis": "负面偏见和过度概括 distort reality perception，如 seeing threats where none exist，加剧心理压力。"
+        },
+        {
+          "term": "低自我意识",
+          "analysis": "缺乏对自身 biases or flaws 的反思，如 unaware of impact of冷漠言论，阻碍 personal growth 或 correction。"
+        },
+        {
+          "term": "疏离感",
+          "analysis": "情感冷漠和社交孤立 contribute to feelings of alienation or nihilism，可能降低 motivation 或 engagement。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "可能寻求关注、宣泄负面情绪或测试社会边界，而非 constructive goals。",
+      "sub_items": [
+        {
+          "term": "寻求关注",
+          "analysis": "使用 provocative or shocking statements 可能 aim to elicit reactions or assert presence，而非 convey meaningful content。"
+        },
+        {
+          "term": "情绪宣泄",
+          "analysis": "言论 serve as outlet for underlying frustration, anger, or cynicism，reflecting personal distress rather than strategic intent。"
+        },
+        {
+          "term": "边界测试",
+          "analysis": "试探 social or moral limits through controversial topics，可能探索 acceptability or provoke confrontation for its own sake。"
+        },
+        {
+          "term": "逃避责任",
+          "analysis": "模糊立场和简短回应可能 avoid commitment or accountability，maintaining ambiguity to shield from criticism。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "聚焦暴力、种族、儿童、卫生和历史，常以负面或讽刺方式呈现。",
+      "sub_items": [
+        {
+          "term": "暴力与冲突",
+          "analysis": "频繁提及或 trivialize violence，如 references to cadavers, shooting，显示出 preoccupation with aggression or harm。"
+        },
+        {
+          "term": "种族与身份",
+          "analysis": "涉及 racial stereotypes 或 tensions，如 comments on white men and Asians，reflect biases or divisive views。"
+        },
+        {
+          "term": "儿童与发育",
+          "analysis": "贬低儿童 capabilities or hygiene，如 calling them not neat，可能 indicate discomfort or negative attitudes toward youth。"
+        },
+        {
+          "term": "卫生与行为",
+          "analysis": "关注 mundane or personal hygiene topics，如 handwashing，可能 mask deeper anxieties or control issues。"
+        },
+        {
+          "term": "历史与文化",
+          "analysis": "零星引用 historical events 如 Agincourt，但缺乏 depth，可能用于 posturing rather than informed discussion。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 20
+    },
+    {
+      "name": "同伴",
+      "value": 30
+    },
+    {
+      "name": "亲情",
+      "value": 50
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sat Jan 24 09:04:41 +0000 2026",
+      "text": "4 people, 30 cadavers.",
+      "translation": "4个人，30具尸体。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 09:01:06 +0000 2026",
+      "text": "Yes. Also pedophilia; a rabid partiality of white men. Asians are puzzled. Kids have no conversation and aren't the neatest creatures around.",
+      "translation": "是的。还有恋童癖；白人的狂热偏袒。亚洲人感到困惑。孩子们没有对话，也不是最整洁的生物。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:59:31 +0000 2026",
+      "text": "Eventually unless you are locked up in a tower.",
+      "translation": "最终，除非你被锁在塔里。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:58:54 +0000 2026",
+      "text": "The partner.",
+      "translation": "伴侣。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:58:37 +0000 2026",
+      "text": "Henry V's at Agincourt pronounced Azhancoor.",
+      "translation": "亨利五世在阿金库尔战役中，发音为阿让库尔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:57:51 +0000 2026",
+      "text": "Wash your hands after peeing if you're a boy.",
+      "translation": "如果你是男孩，小便后要洗手。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:56:49 +0000 2026",
+      "text": "Holy cow.",
+      "translation": "天啊。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:55:13 +0000 2026",
+      "text": "Yes. Everybody does. It is crease left by a grasping hand from birth.",
+      "translation": "是的。每个人都这样。这是出生时抓握的手留下的折痕。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:53:56 +0000 2026",
+      "text": "Myself. My parents moved house three times taking me along to each.",
+      "translation": "我自己。我的父母搬了三次家，每次都带着我。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:53:00 +0000 2026",
+      "text": "Chalk for the chalkboard.",
+      "translation": "黑板用的粉笔。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:51:50 +0000 2026",
+      "text": "I'll buy one. I trust you.",
+      "translation": "我会买一个。我相信你。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:50:10 +0000 2026",
+      "text": "Uh huh.",
+      "translation": "嗯哼。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:49:46 +0000 2026",
+      "text": "Glove compartment.",
+      "translation": "手套箱。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:49:16 +0000 2026",
+      "text": "A good son.",
+      "translation": "一个好儿子。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:48:56 +0000 2026",
+      "text": "Take it.",
+      "translation": "拿着它。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:48:17 +0000 2026",
+      "text": "Unless she was born them, then she is beautiful in her fashion.",
+      "translation": "除非她天生如此，那么她以自己的方式美丽。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:46:48 +0000 2026",
+      "text": "Bee sting. Never kiss one.",
+      "translation": "蜜蜂蜇伤。永远不要亲吻一只。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:45:24 +0000 2026",
+      "text": "Clothes pin.",
+      "translation": "晾衣夹。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:45:03 +0000 2026",
+      "text": "Even frogs find themselves unattractive.",
+      "translation": "即使是青蛙也觉得自己没有吸引力。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 08:44:22 +0000 2026",
+      "text": "No but if he is taller than you shoot his foot.",
+      "translation": "不，但如果他比你高，就射他的脚。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 0
+      }
+    }
+  ]
+}

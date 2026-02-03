@@ -1,0 +1,320 @@
+{
+  "id": "profile_FreddyLim.json",
+  "_fingerprint": "d8cc7aff5aec96303124b8f9e68f1b93",
+  "name": "FreddyLim",
+  "username": "FreddyLim",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、高外倾性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "积极分享跨文化交流、艺术设计、个人成长故事，对多元文化和思想持开放接纳态度，乐于探索不同领域的连接。"
+        },
+        {
+          "term": "尽责性高",
+          "analysis": "作为外交官和议员，表现出强烈的责任感和使命感，致力于推动具体合作项目，言行体现出对职责的认真履行。"
+        },
+        {
+          "term": "外倾性高",
+          "analysis": "频繁参与公开活动、接受媒体采访、在社交平台积极发声，享受与他人互动和分享经历，具有明显的公众表达倾向。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "在合作与宣传中展现亲和力，但在涉及政治立场时表现出坚定态度，可能在某些议题上缺乏妥协意愿。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "情绪表达较为稳定，但在回顾个人历程时流露出些许感伤，整体上能保持积极正向的公众形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在理想主义倾向、自我中心叙事、政治立场固化。",
+      "sub_items": [
+        {
+          "term": "理想主义倾向",
+          "analysis": "对跨文化合作和民间交流抱有过高期望，可能低估现实政治经济障碍，导致目标设定脱离实际条件。"
+        },
+        {
+          "term": "自我中心叙事",
+          "analysis": "频繁以个人经历和感受作为宣传核心，可能过度依赖主观视角，忽视更宏观或多元的叙事框架。"
+        },
+        {
+          "term": "政治立场固化",
+          "analysis": "在涉及主权和地位议题上表现出明确且不易动摇的立场，缺乏灵活性和对话空间，可能阻碍更广泛的沟通。"
+        },
+        {
+          "term": "情感驱动决策",
+          "analysis": "将个人情感与历史记忆融入外交宣传，可能导致决策和言论受主观情绪影响，而非完全基于理性分析。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在确认偏误、叙事偏误、乐观偏误、群体内偏袒。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于寻找和传播符合自身立场的信息，如强调特定国际媒体报道，可能忽略或淡化相反观点。"
+        },
+        {
+          "term": "叙事偏误",
+          "analysis": "习惯用个人故事和情感化叙事解释复杂政治文化议题，可能简化因果关系，过度依赖感性说服。"
+        },
+        {
+          "term": "乐观偏误",
+          "analysis": "对合作前景和影响力传播持过度乐观态度，可能高估自身行动的效果，低估外部阻力和挑战。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "明显倾向于自身所属群体视角，在文化宣传中突出特定身份认同，可能缺乏跨群体同理心。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开活动依赖、媒体曝光过度、社交平台活跃、情感化表达。",
+      "sub_items": [
+        {
+          "term": "公开活动依赖",
+          "analysis": "外交工作高度依赖签约仪式、媒体采访等公开场合，若这些平台受限或舆论环境变化，影响力将大幅减弱。"
+        },
+        {
+          "term": "媒体曝光过度",
+          "analysis": "频繁接受各类媒体采访，言行完全暴露在公众视野中，缺乏隐私和操作空间，易被对手分析利用。"
+        },
+        {
+          "term": "社交平台活跃",
+          "analysis": "在推特等平台积极发声，所有言论均有公开记录，易被截取、曲解或用于构建负面叙事。"
+        },
+        {
+          "term": "情感化表达",
+          "analysis": "宣传中融入个人情感和经历，这种感性方式虽具感染力，但也易被批评为不够专业或客观。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "政治立场明确且敏感、文化叙事单一、经济合作理想化、依赖西方媒体。",
+      "sub_items": [
+        {
+          "term": "政治立场明确且敏感",
+          "analysis": "公开支持特定政治实体并转发其官方言论，这一定位在国际社会中存在争议，易引发对立和抵制。"
+        },
+        {
+          "term": "文化叙事单一",
+          "analysis": "主要宣传个人经历和艺术设计，文化呈现较为片面，缺乏对更广泛社会面貌的展示，易被质疑代表性不足。"
+        },
+        {
+          "term": "经济合作理想化",
+          "analysis": "强调加速贸易和创造成功故事，但未提及具体障碍或风险，这种乐观论述在现实挫折面前可能显得脆弱。"
+        },
+        {
+          "term": "依赖西方媒体",
+          "analysis": "影响力构建高度依赖芬兰、瑞典等西方媒体，若这些媒体改变报道倾向或失去兴趣，传播效果将大打折扣。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "跨领域整合不足、资源依赖性强、应对复杂议题能力存疑、创新手段有限。",
+      "sub_items": [
+        {
+          "term": "跨领域整合不足",
+          "analysis": "虽涉及政治、经济、文化多领域，但呈现较为割裂，缺乏系统性的战略整合，影响整体效能。"
+        },
+        {
+          "term": "资源依赖性强",
+          "analysis": "活动开展依赖外部机构合作和媒体平台，自身独立行动和资源调动能力未见突出，易受制于合作伙伴。"
+        },
+        {
+          "term": "应对复杂议题能力存疑",
+          "analysis": "面对主权争议等高度复杂议题时，主要采用转发和简单表态，未见深入分析或创新解决方案，能力深度不足。"
+        },
+        {
+          "term": "创新手段有限",
+          "analysis": "宣传方式集中于传统媒体采访和社交平台发文，缺乏数字化、互动化等新型传播手段，模式较为陈旧。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "身份认同焦虑、历史情感负担、成就需求强烈、外部认可依赖。",
+      "sub_items": [
+        {
+          "term": "身份认同焦虑",
+          "analysis": "频繁强调个人从音乐家到议员再到外交官的转变，并关联特定地区历史，反映出对身份定位的持续寻求和不安。"
+        },
+        {
+          "term": "历史情感负担",
+          "analysis": "提及人生旅程时带有苦涩感，并将个人经历与历史叙事绑定，这种情感负载可能影响理性判断和情绪稳定性。"
+        },
+        {
+          "term": "成就需求强烈",
+          "analysis": "多次表达荣幸和喜悦被媒体报道，显示出对公众认可和成就可见度的高度需求，可能成为被恭维或操纵的切入点。"
+        },
+        {
+          "term": "外部认可依赖",
+          "analysis": "自我价值感似乎紧密联系于国际媒体曝光和机构合作，这种对外部认可的依赖可能导致信心波动和决策迎合。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升国际能见度、构建特定叙事、争取西方支持、塑造个人品牌。",
+      "sub_items": [
+        {
+          "term": "提升国际能见度",
+          "analysis": "通过频繁接受西方媒体采访，核心意图是提高特定地区在国际舆论中的存在感和关注度，塑造积极形象。"
+        },
+        {
+          "term": "构建特定叙事",
+          "analysis": "旨在建立一套将特定地区与芬兰等西方国家在历史、文化、价值观上紧密连接的叙事框架，以强化特定立场。"
+        },
+        {
+          "term": "争取西方支持",
+          "analysis": "活动聚焦芬兰等欧洲国家，深层意图是争取这些国家在政治、经济上的同情与支持，以平衡区域压力。"
+        },
+        {
+          "term": "塑造个人品牌",
+          "analysis": "将个人经历与外交使命结合，意图打造一个跨文化、跨领域的使者形象，增强个人影响力和话语权。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "跨文化宣传、经济合作、政治立场、个人叙事、媒体关系。",
+      "sub_items": [
+        {
+          "term": "跨文化宣传",
+          "analysis": "核心话题是向芬兰等国民众宣传特定地区的文化、历史和现代面貌，强调其与西方的共通性和独特性。"
+        },
+        {
+          "term": "经济合作",
+          "analysis": "推动与芬兰的工业合作和中小企业伙伴关系，话题聚焦贸易加速和成功案例创造，寻求实质性经济纽带。"
+        },
+        {
+          "term": "政治立场",
+          "analysis": "涉及国际组织和主权议题，明确表达特定政治立场并驳斥相反观点，话题具有高度敏感性和争议性。"
+        },
+        {
+          "term": "个人叙事",
+          "analysis": "频繁以个人从音乐家到外交官的转变历程作为话题，通过感性故事吸引受众，增强宣传的亲和力和可信度。"
+        },
+        {
+          "term": "媒体关系",
+          "analysis": "与芬兰、瑞典等多国媒体保持密切互动，话题常围绕采访、报道和媒体曝光，依赖媒体进行信息扩散。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      2,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 10 06:36:31 +0000 2025",
+      "text": "An honour to be featured in @ksmlfi , the oldest newspaper in Finnish, where I shared my journey from musician to parliamentarian to diplomat. This was also a great opportunity to reflect on Taiwan’s history and the parallels between Taiwan and Finland.\nhttps://t.co/NRWWYPsTdQ",
+      "translation": "很荣幸能在芬兰历史最悠久的报纸@ksmlfi上被报道，我在那里分享了自己从音乐家到国会议员再到外交官的历程。这也是一个绝佳的机会，让我反思台湾的历史以及台湾与芬兰之间的相似之处。https://t.co/NRWWYPsTdQ",
+      "stance": "负面",
+      "metrics": {
+        "reply": 7,
+        "retweet": 34,
+        "like": 224
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 11:18:38 +0000 2025",
+      "text": "A talented Taiwanese designer, Yi-Chiao Tien,  featured in Finland’s Helsingin Uutiset!\nhttps://t.co/ylLwrrujge",
+      "translation": "一位才华横溢的台湾设计师田怡乔，登上了芬兰的《赫尔辛基新闻》！https://t.co/ylLwrrujge",
+      "stance": "负面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 62
+      }
+    },
+    {
+      "created_at": "Tue Oct 14 11:28:49 +0000 2025",
+      "text": "Thank you to #SvenskaYle for featuring me in an in-depth interview. Reflecting on my life journey feels a little bittersweet, but I’m always delighted to share it to help more Finns discover Taiwan’s history, culture, and its connection with Finland: https://t.co/Kjk9qCq3k3 https://t.co/Imq9WiC5NK",
+      "translation": "感谢#SvenskaYle对我进行深度采访。回顾我的人生旅程感觉有些苦乐参半，但我总是很高兴能分享它，以帮助更多芬兰人了解台湾的历史、文化及其与芬兰的联系：https://t.co/Kjk9qCq3k3 https://t.co/Imq9WiC5NK",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 48,
+        "like": 414
+      }
+    },
+    {
+      "created_at": "Thu Oct 02 04:13:30 +0000 2025",
+      "text": "RT @MOFA_Taiwan: The #PRC’s distortion of #UNGA Res. 2758 must be called out. The resolution neither mentions #Taiwan🇹🇼 nor authorizes the…",
+      "translation": "RT @MOFA_Taiwan: 必须指出#PRC对#UNGA第2758号决议的曲解。该决议既未提及#台湾🇹🇼，也未授权……",
+      "stance": "负面",
+      "metrics": {
+        "reply": 215,
+        "retweet": 366,
+        "like": 1526
+      }
+    },
+    {
+      "created_at": "Mon Oct 27 07:43:41 +0000 2025",
+      "text": "It is an honour to participate in the MOU signing ceremony between the FCC and the IEAT. I look forward to this collaboration helping accelerate more Taiwan–Finland trade, both in industrial cooperation and in small business partnerships. Let’s create success stories together. https://t.co/uskU5KhuYy",
+      "translation": "很荣幸能参加FCC与IEAT之间的谅解备忘录签署仪式。我期待这次合作能帮助加速更多台湾与芬兰之间的贸易，无论是在工业合作还是小型企业伙伴关系方面。让我们一起创造成功的故事。https://t.co/uskU5KhuYy",
+      "stance": "负面",
+      "metrics": {
+        "reply": 12,
+        "retweet": 10,
+        "like": 97
+      }
+    },
+    {
+      "created_at": "Mon Oct 06 18:39:05 +0000 2025",
+      "text": "It’s a great honor to be featured on #EfterNio . I’m truly delighted to share the story of Taiwan through my personal journey, inviting more Finns discover that beyond semiconductors, Taiwan is  full of fascinating stories on many levels\nhttps://t.co/RomcdySrG3",
+      "translation": "非常荣幸能在#EfterNio上被报道。我真的很高兴能通过我的个人历程分享台湾的故事，邀请更多芬兰人发现，除了半导体，台湾在许多层面上都充满了引人入胜的故事。https://t.co/RomcdySrG3",
+      "stance": "负面",
+      "metrics": {
+        "reply": 13,
+        "retweet": 2,
+        "like": 22
+      }
+    }
+  ]
+}

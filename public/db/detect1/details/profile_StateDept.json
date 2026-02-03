@@ -1,0 +1,470 @@
+{
+  "id": "profile_StateDept.json",
+  "_fingerprint": "8dcc3d7556f4962874177ff4b1afbafc",
+  "name": "StateDept",
+  "username": "StateDept",
+  "category": "media",
+  "daily_count": 20.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、中等开放性、低宜人性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁参与公开活动并发表演讲，积极展示领导形象，热衷于在社交媒体上传播成就，表现出强烈的社交倾向和表现欲。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "强调行动导向和成果交付，反复提及具体成就如结束战争、维持停火、提供援助，展现出对任务完成和秩序建立的关注。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "接受并推广新的外交框架如“和平委员会”，但言论集中于既定议程和传统强权叙事，缺乏对多元视角或批判性反思的明显兴趣。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "言论中常凸显自身主导作用，贬低过往状况，对伊朗等对手使用强硬措辞，表现出竞争性和对抗倾向而非合作共情。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在宣扬成就时情绪激昂，但整体言论稳定自信，未显露明显焦虑或情绪波动，专注于正面宣传。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "自我中心、夸大倾向、缺乏反思、对抗性姿态",
+      "sub_items": [
+        {
+          "term": "救世主情结",
+          "analysis": "将中东和平等复杂议题归功于个人“远见”和“行动力”，塑造自身为历史性变革的唯一推动者，忽视集体或多边贡献。"
+        },
+        {
+          "term": "自恋式夸大",
+          "analysis": "声称在短时间内结束多场战争、实现“历史性”突破，使用“不可思议”“光荣”等极致词汇描述成就，可能脱离实际评估。"
+        },
+        {
+          "term": "缺乏谦逊反思",
+          "analysis": "言论中未承认任何挫折、局限或学习过程，一切呈现为线性成功，回避复杂性或潜在批评，显得过度防御。"
+        },
+        {
+          "term": "对抗性归因",
+          "analysis": "将伊朗等国家描绘为必须被“粉碎”的威胁，强化二元对立叙事，可能加剧冲突而非促进对话。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "过度自信、结果导向、简单归因、确认偏误",
+      "sub_items": [
+        {
+          "term": "过度自信效应",
+          "analysis": "高估个人能力对全球事务的影响，如认为单方面行动能“终结数十年苦难”，低估系统性阻力与偶然因素。"
+        },
+        {
+          "term": "结果主义偏差",
+          "analysis": "仅以宣称的成果（如停火、援助交付）判断政策成功，忽视过程公正性、长期可持续性或潜在副作用。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将积极发展归因于个人特质，将问题归咎于外部对手或过往领导，缺乏情境性分析。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性强调支持自身叙事的信息，如转发称赞视频，回避矛盾证据或批评声音，构建封闭信息环境。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "依赖宣传、忽视细节、对抗行为、过度承诺",
+      "sub_items": [
+        {
+          "term": "宣传依赖症",
+          "analysis": "高度依赖社交媒体和仪式性活动传播信息，可能削弱实质外交接触，易受舆论波动影响。"
+        },
+        {
+          "term": "细节忽视",
+          "analysis": "宏大宣称如“结束八场战争”缺乏具体执行机制、时间线或验证证据，留下操作性质疑空间。"
+        },
+        {
+          "term": "挑衅性行动",
+          "analysis": "公开炫耀对伊朗的军事打击，可能激化敌对反应，破坏长期战略稳定，引发不可控升级。"
+        },
+        {
+          "term": "过度承诺陷阱",
+          "analysis": "设定极高期望如“永久光荣和平”，若成果不及预期，易导致信誉崩塌和国内国际失望。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "单边主义、意识形态僵化、盟友工具化、议题捆绑",
+      "sub_items": [
+        {
+          "term": "单边主义倾向",
+          "analysis": "强调美国主导，弱化多边机构作用，可能疏远传统盟友，降低政策合法性与执行广度。"
+        },
+        {
+          "term": "意识形态刚性",
+          "analysis": "将和平框架与特定政治品牌绑定，使其易受国内党派斗争影响，缺乏跨党派可持续性。"
+        },
+        {
+          "term": "工具化盟友",
+          "analysis": "任命官员强调“行动”以服务总统议程，可能被视为利用职位进行政治宣传，损害专业外交信誉。"
+        },
+        {
+          "term": "议题不当捆绑",
+          "analysis": "将世博会申办与和平议程关联，可能被批评为利用外交成就谋取国内政治或经济利益。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "执行存疑、知识局限、协调不足、评估缺失",
+      "sub_items": [
+        {
+          "term": "执行能力质疑",
+          "analysis": "宣称的复杂成就如同时解决多国冲突，缺乏透明进展报告，引发对实际行政能力和资源匹配的怀疑。"
+        },
+        {
+          "term": "区域知识表面化",
+          "analysis": "对中东等地区描述简化，如“终结仇恨”，未展现对历史、文化、派系复杂性的深度理解，政策可能脱离实地。"
+        },
+        {
+          "term": "跨部门协调风险",
+          "analysis": "高度中心化决策，依赖特定团队，可能忽视官僚体系与专业机构的输入，导致实施脱节。"
+        },
+        {
+          "term": "成效评估缺失",
+          "analysis": "缺乏独立、量化的成效评估机制，依赖自我报告，难以应对外部审计或问责要求。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "现实扭曲、情感驱动、压力易感、批判绝缘",
+      "sub_items": [
+        {
+          "term": "现实扭曲风险",
+          "analysis": "持续沉浸在“历史性成就”叙事中，可能逐渐脱离客观现实，无法有效应对挫折或政策反馈。"
+        },
+        {
+          "term": "情感驱动决策",
+          "analysis": "言论充满“荣耀”“不可思议”等情感词汇，决策可能受个人荣誉感或即时情绪驱动，而非冷静战略计算。"
+        },
+        {
+          "term": "高压力脆弱性",
+          "analysis": "设定极高目标并公开承诺，面对进展缓慢或危机时，可能承受巨大心理压力，导致冲动反应。"
+        },
+        {
+          "term": "批判绝缘倾向",
+          "analysis": "营造信息回音壁，仅接触赞扬性内容，长期可能削弱认知弹性，无法适应批评或复杂挑战。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固权力、塑造遗产、转移焦点、国内动员",
+      "sub_items": [
+        {
+          "term": "权力巩固",
+          "analysis": "通过高调外交成就强化个人权威，塑造不可或缺的领导者形象，服务于国内政治地位与连任目标。"
+        },
+        {
+          "term": "历史遗产塑造",
+          "analysis": "急切构建“和平缔造者”遗产，将短期行动包装为世代转折，旨在影响历史评价而非仅政策实效。"
+        },
+        {
+          "term": "焦点转移",
+          "analysis": "高调宣传外交突破，可能意在转移公众对国内棘手问题如经济、社会分裂的注意力。"
+        },
+        {
+          "term": "国内政治动员",
+          "analysis": "将国际议程与特定政治基础绑定，如引用保守派媒体内容，旨在激发核心支持者，巩固选民联盟。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "中东和平、美伊对抗、领导力营销、多边场合",
+      "sub_items": [
+        {
+          "term": "中东和平进程",
+          "analysis": "核心议题，围绕“和平委员会”框架，强调停火、援助、人质归还，但缺乏巴以核心矛盾的具体解决方案。"
+        },
+        {
+          "term": "美国-伊朗对抗",
+          "analysis": "关键安全议题，聚焦核能力打击与遏制，延续强硬路线，排除外交缓和选项，维持区域紧张。"
+        },
+        {
+          "term": "领导力与行动力营销",
+          "analysis": "贯穿性话题，将一切进展归因于总统个人特质，服务于国内形象塑造与政治叙事建设。"
+        },
+        {
+          "term": "多边场合利用",
+          "analysis": "关注达沃斯、世博会等国际平台，将其作为宣布倡议、获取象征性认可的舞台，提升国际能见度。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 21 20:59:51 +0000 2026",
+      "text": "RT @RapidResponse47: .@POTUS on his Board of Peace: \"These are people that have tremendous influence... I think the Board of Peace will be…",
+      "translation": "RT @RapidResponse47: .@POTUS 关于他的和平委员会表示：“这些人具有巨大的影响力……我认为和平委员会将……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 160,
+        "retweet": 660,
+        "like": 3271
+      }
+    },
+    {
+      "created_at": "Wed Jan 21 20:59:17 +0000 2026",
+      "text": "RT @RapidResponse47: .@POTUS: \"[Iran] would have had a nuclear weapon long ago... and we hit them hard... They've got to stop with the nucl…",
+      "translation": "RT @RapidResponse47: .@POTUS 表示：“[伊朗] 早就该拥有核武器了……我们狠狠地打击了他们……他们必须停止核……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 74,
+        "retweet": 251,
+        "like": 1446
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 22:37:07 +0000 2026",
+      "text": "RT @SecRubio: Honored by @POTUS’ appointment to serve as Chair for the World Expo 2035 bid. The event is an incredible stage to showcase ou…",
+      "translation": "RT @SecRubio: 很荣幸被 @POTUS 任命为2035年世博会申办委员会主席。该活动是一个展示我们……的绝佳舞台。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2218,
+        "retweet": 5520,
+        "like": 28911
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 21:30:14 +0000 2026",
+      "text": "https://t.co/48SdJw0zEs",
+      "translation": "https://t.co/48SdJw0zEs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 37,
+        "retweet": 62,
+        "like": 275
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 20:35:37 +0000 2026",
+      "text": "RT @WhiteHouse: \"Today, I am announcing the United States’ intention to bid for the World Expo 2035. The Great State of Florida has express…",
+      "translation": "RT @WhiteHouse: “今天，我宣布美国有意申办2035年世博会。伟大的佛罗里达州已表示……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 875,
+        "retweet": 2570,
+        "like": 10638
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 19:25:46 +0000 2026",
+      "text": "RT @WhiteHouse: BOARD OF PEACE 🕊️\n\n“The first steps toward a brighter day for the Middle East, and a much safer future for the world are un…",
+      "translation": "RT @WhiteHouse: 和平委员会 🕊️ “这是迈向中东更光明未来、世界更安全未来的第一步……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2605,
+        "retweet": 6188,
+        "like": 25433
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 15:50:00 +0000 2026",
+      "text": ".@SecRubio: \"This is a group of leaders that are about action and the President of the United States is a president of action, of getting things done, and today is the beginning of that, of a new era and a new stage we think is so important as a model to the rest of the world of https://t.co/ej5Qsnp6iw",
+      "translation": ".@SecRubio: “这是一个注重行动的领导人团体，美国总统是一位行动派总统，致力于完成事情，今天就是那个新时代和新阶段的开始，我们认为这作为世界其他地区的榜样非常重要……” https://t.co/ej5Qsnp6iw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 353,
+        "retweet": 1014,
+        "like": 4310
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 15:35:00 +0000 2026",
+      "text": ".@POTUS on the HISTORIC Board of Peace: \"Together we are in a position to have an incredible chance ... to end decades of suffering, stop generations of hatred and bloodshed, and forge a beautiful, everlasting, and glorious peace for that region and for the whole region of the https://t.co/TnIAoFjHCI",
+      "translation": ".@POTUS 关于历史性的和平委员会表示：“我们共同处于一个拥有绝佳机会的位置……以结束数十年的苦难，阻止世代的仇恨和流血，并为该地区乃至整个地区缔造一个美丽、永恒且辉煌的和平……” https://t.co/TnIAoFjHCI",
+      "stance": "无关",
+      "metrics": {
+        "reply": 179,
+        "retweet": 360,
+        "like": 1219
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 15:20:00 +0000 2026",
+      "text": ".@POTUS: \"Under Phase One of this plan, we have painstakingly … maintained the Gaza ceasefire, delivered record levels of humanitarian aid. You used to hear people were starving and it was terrible. Now you don't hear that anymore. We delivered record levels of humanitarian https://t.co/doBBU6JalA",
+      "translation": ".@POTUS: “根据该计划的第一阶段，我们艰苦地……维持了加沙停火，提供了创纪录水平的人道主义援助。你过去常听到人们挨饿，情况很糟糕。现在你不再听到那种说法了。我们提供了创纪录水平的人道主义……” https://t.co/doBBU6JalA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 98,
+        "retweet": 229,
+        "like": 971
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 15:05:00 +0000 2026",
+      "text": ".@POTUS: \"This Board has the chance to be one of the most consequential bodies ever created and it’s my enormous honor to serve as its chairman.\" https://t.co/2EriDFA0y6",
+      "translation": ".@POTUS: “这个委员会有机会成为有史以来最重要的机构之一，我非常荣幸能担任其主席。” https://t.co/2EriDFA0y6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1338,
+        "retweet": 883,
+        "like": 2458
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 14:50:00 +0000 2026",
+      "text": ".@POTUS: \"In another great victory for the ultimate goal of peace, in June, we obliterated Iran's nuclear enrichment capacity with an operation, we call it Operation Midnight Hammer.\" https://t.co/tNhoVjRiSZ",
+      "translation": ".@POTUS: “在实现最终和平目标的又一次伟大胜利中，六月，我们通过一次行动摧毁了伊朗的核浓缩能力，我们称之为‘午夜铁锤行动’。” https://t.co/tNhoVjRiSZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 313,
+        "retweet": 321,
+        "like": 1619
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 14:34:39 +0000 2026",
+      "text": ".@POTUS: \"As president I ended eight wars in nine months, including Cambodia and Thailand, Kosovo and Serbia, Democratic Republic of the Congo and Rwanda, Pakistan and India, Israel and Iran, Egypt and Ethiopia, working on that right now.”\n\nThank you, President Trump! https://t.co/cQMieygJLh",
+      "translation": ".@POTUS: “作为总统，我在九个月内结束了八场战争，包括柬埔寨和泰国、科索沃和塞尔维亚、刚果民主共和国和卢旺达、巴基斯坦和印度、以色列和伊朗、埃及和埃塞俄比亚，目前正在处理后者。” 谢谢你，特朗普总统！ https://t.co/cQMieygJLh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 815,
+        "retweet": 641,
+        "like": 2929
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 13:02:06 +0000 2026",
+      "text": "RT @PressSec: Every liberal who has ever chanted “Free Palestine” should watch this video from the head of the National\nCommittee for the A…",
+      "translation": "RT @PressSec: 每个曾高呼‘解放巴勒斯坦’的自由主义者都应该看看这段来自阿拉伯国家联盟国家委员会负责人的视频……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2298,
+        "retweet": 5941,
+        "like": 27399
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:40:50 +0000 2026",
+      "text": "RT @RapidResponse47: .@SEPeaceMissions Steve Witkoff: \"We have achieved a peace deal in Gaza. We have brought the hostages home... and mayb…",
+      "translation": "RT @RapidResponse47: .@SEPeaceMissions 史蒂夫·维特科夫表示：“我们已在加沙达成和平协议。我们已将人质带回家……也许……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 75,
+        "retweet": 358,
+        "like": 1861
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:02:01 +0000 2026",
+      "text": "RT @RapidResponse47: .@SecRubio: \"We are here today because of President Trump’s vision. If we go back just a few months ago, people though…",
+      "translation": "RT @RapidResponse47: .@SecRubio: “我们今天能在这里，是因为特朗普总统的远见。如果回到几个月前，人们以为……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 92,
+        "retweet": 942,
+        "like": 5085
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:01:10 +0000 2026",
+      "text": "RT @RapidResponse47: .@SecRubio: \"This is not just a Board of Peace, this is a board of action, just like @POTUS is a president of action..…",
+      "translation": "RT @RapidResponse47: .@SecRubio: “这不仅仅是一个和平委员会，这是一个行动委员会，就像 @POTUS 是一位行动派总统一样……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 235,
+        "retweet": 1279,
+        "like": 6155
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 12:00:34 +0000 2026",
+      "text": "RT @RapidResponse47: 🚨 The Board of Peace Charter is officially ratified in Davos. \n\n“Congratulations, President Trump. The Charter is now…",
+      "translation": "RT @RapidResponse47: 🚨 和平委员会宪章在达沃斯正式批准。 “恭喜你，特朗普总统。宪章现已……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 139,
+        "retweet": 835,
+        "like": 4166
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 10:28:45 +0000 2026",
+      "text": "RT @RapidResponse47: .@POTUS: \"Yesterday, we had an incredibly successful visit with many of the world’s top business leaders...and foreign…",
+      "translation": "RT @RapidResponse47: .@POTUS: “昨天，我们与许多世界顶级商业领袖……和外交官进行了非常成功的访问……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 83,
+        "retweet": 330,
+        "like": 1552
+      }
+    },
+    {
+      "created_at": "Thu Jan 22 10:14:35 +0000 2026",
+      "text": "RT @WhiteHouse: President Trump Participates in the Board of Peace Charter Announcement https://t.co/CJz0CmePJq",
+      "translation": "RT @WhiteHouse: 特朗普总统参加和平委员会宪章宣布仪式 https://t.co/CJz0CmePJq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 837,
+        "retweet": 1474,
+        "like": 5216
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 00:30:11 +0000 2026",
+      "text": "This morning, President Trump unveiled his historic Board of Peace.\n\nThe leaders of the world are now in a position to enact incredible change for the Middle East. All of this was possible only because of the vision and the drive of the President of the United States. https://t.co/KCUm8BE8CZ",
+      "translation": "今天上午，特朗普总统公布了他历史性的和平委员会。世界领导人现在处于一个能为中东带来惊人变革的位置。这一切之所以可能，完全归功于美国总统的远见和驱动力。 https://t.co/KCUm8BE8CZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1509,
+        "retweet": 1147,
+        "like": 4635
+      }
+    }
+  ]
+}

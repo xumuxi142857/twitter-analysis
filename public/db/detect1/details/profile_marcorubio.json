@@ -1,0 +1,438 @@
+{
+  "id": "profile_marcorubio.json",
+  "_fingerprint": "47cd2526a4bdeb8d803f2f52d129d2c4",
+  "name": "marcorubio",
+  "username": "marcorubio",
+  "category": "media",
+  "daily_count": 1.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、低宜人性、中等外向性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "言论中频繁强调政策执行、制度建设和具体成果，表现出对职责和规则的重视，关注行政效率和目标达成。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "关注外交、军事、工业等传统政治领域话题，对既定政策框架内的创新和调整持开放态度，但未见对颠覆性思想或边缘议题的明显兴趣。"
+        },
+        {
+          "term": "宜人性低",
+          "analysis": "言论具有对抗性和立场鲜明的特点，支持强硬外交行动和制裁措施，不避讳批评国际机构或媒体，展现出竞争而非合作的倾向。"
+        },
+        {
+          "term": "外向性中等",
+          "analysis": "通过社交媒体积极发布信息、转述高层言论并参与公共议题讨论，表现出一定的社交活跃度和影响力寻求，但内容以官方和政策导向为主。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出权威依赖、黑白思维和忠诚考验倾向。",
+      "sub_items": [
+        {
+          "term": "权威依赖",
+          "analysis": "言论高度对齐并积极转述特定政治领导人和行政机构的声明与立场，将个人判断与上级决策紧密绑定，缺乏独立的批判性距离。"
+        },
+        {
+          "term": "黑白思维",
+          "analysis": "在描述国际事务和国内政治时，倾向于使用“忠诚与不忠”、“成果与失败”、“美国优先与全球主义”等二元对立框架，简化复杂情境。"
+        },
+        {
+          "term": "忠诚彰显",
+          "analysis": "公开强调对特定政治人物及其团队的“忠诚”与“承诺”，并将此作为重要价值进行宣扬，可能将人际关系忠诚度置于制度或原则性批评之上。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "analysis": "表现出确认偏误、内群体偏袒和行动者-观察者偏误。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "主要分享和传播符合其所属政治阵营世界观的信息，例如强调军事行动的成功、外交政策的成果，并对质疑性报道持否定态度，强化既有信念。"
+        },
+        {
+          "term": "内群体偏袒",
+          "analysis": "在言论中明确区分“我们”（美国行政团队、盟友）与“他们”（被制裁对象、批评性媒体、某些国际机构），并倾向于为内群体的行动进行辩护和合理化。"
+        },
+        {
+          "term": "行动者-观察者偏误",
+          "analysis": "将己方的军事和外交行动描述为必要、果断和基于原则的，而可能将对手或批评者的行为归因于恶意或不良动机。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "存在言论一致性压力、过度关联风险及反应模式固化。",
+      "sub_items": [
+        {
+          "term": "言论一致性压力",
+          "analysis": "作为行政团队一员，其公开言论需与官方路线保持高度一致。一旦政策出现重大调整或内部出现分歧，其过往的坚定表态可能成为负担，导致灵活性不足。"
+        },
+        {
+          "term": "过度关联风险",
+          "analysis": "其公众形象和信誉与特定领导人的政治命运深度绑定。若该领导人的声望或政策遭遇重大挫折，其个人影响力将直接受到连带冲击。"
+        },
+        {
+          "term": "反应模式固化",
+          "analysis": "在面对批评或国际事件时，倾向于采用预先设定的叙事框架（如强调美国领导力、指责对手）进行回应，可能难以应对需要新颖或微妙处理方式的复杂危机。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度依附于特定政治议程，在国际多边场合及国内政治平衡上存在脆弱性。",
+      "sub_items": [
+        {
+          "term": "议程依附性",
+          "analysis": "其政策立场和公开表态紧密围绕“美国优先”等特定政治议程展开。若该议程的核心前提在国内或国际上受到广泛质疑，其立场的根基将被动摇。"
+        },
+        {
+          "term": "多边主义疏离",
+          "analysis": "对国际刑事法院等多边机构持批评和对抗态度，并支持单边制裁。这种立场可能在国际社会寻求合作应对全球性挑战时，使其陷入孤立或被视为不合作的伙伴。"
+        },
+        {
+          "term": "国内政治平衡",
+          "analysis": "其言论强烈拥护行政分支，可能弱化了与立法分支或其他国内政治力量保持建设性关系的空间，在权力制衡发生变化时易处于被动。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在复杂外交斡旋、跨党派沟通及应对非传统安全威胁方面可能存在能力短板。",
+      "sub_items": [
+        {
+          "term": "复杂调解能力存疑",
+          "analysis": "言论侧重于展示决心和施加压力，在也门等复杂冲突中主要呼吁“克制”和“外交”，但缺乏展示具体、中立、创造性调解方案的能力证据，可能难以处理高度胶着的争端。"
+        },
+        {
+          "term": "跨阵营沟通局限",
+          "analysis": "言论具有鲜明的党派和意识形态色彩，主要面向和巩固现有支持者。在需要与政治对手或持不同价值观的国际伙伴进行深度沟通和妥协时，其沟通效能可能受限。"
+        },
+        {
+          "term": "非传统安全应对",
+          "analysis": "关注焦点集中于传统的地缘政治、军事安全和产业政策。对于气候变化、网络安全、全球公共卫生等非传统安全议题的论述和关注度相对较低，应对经验可能不足。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能存在认知闭合需求、外部评价依赖及压力下的决策简化倾向。",
+      "sub_items": [
+        {
+          "term": "高认知闭合需求",
+          "analysis": "倾向于提供明确、果断的结论和行动方案，对模糊、不确定或存在多种解释的国际局势容忍度较低，可能为了快速获得确定性而采纳简化叙事。"
+        },
+        {
+          "term": "外部评价依赖",
+          "analysis": "其言论频繁引用和依赖权威信源（总统、官方声明、特定媒体）来佐证观点，显示出对内部高层认可和外部特定群体支持的重视，自我价值感可能与这些外部评价紧密相关。"
+        },
+        {
+          "term": "危机压力反应",
+          "analysis": "在涉及军事行动、恐怖主义等高压议题时，言论迅速转向支持强硬、即时的反应。在真实的时间紧迫、信息不全的危机中，这种倾向可能导致对长期后果和替代方案的考虑不足。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图巩固个人在现行权力结构中的地位，塑造特定政治遗产，并试探政策边界。",
+      "sub_items": [
+        {
+          "term": "权力结构锚定",
+          "analysis": "通过坚定不移地支持核心领导人和核心议程，旨在成为当前行政团队中不可或缺的忠诚执行者，从而巩固个人在权力核心圈内的地位和影响力。"
+        },
+        {
+          "term": "政治遗产塑造",
+          "analysis": "积极宣扬“美国工业回归”、“结束战争”、“改革援助”等议题，意图将自己与这些可能被定义为政府核心成就的政策领域深度绑定，塑造个人的政治遗产。"
+        },
+        {
+          "term": "政策边界试探",
+          "analysis": "在制裁国际法院法官、评论外国事务等议题上采取强硬立场，可能意在试探国内法律、国际舆论以及盟友反应的边界，为更广泛的政策行动铺路或积累案例。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注领域为外交与安全政策、国内工业与价值观、行政团队忠诚维护。",
+      "sub_items": [
+        {
+          "term": "外交与安全政策",
+          "analysis": "高度关注美国军事行动、盟友关系、反恐、制裁政策及特定区域冲突，强调美国领导力、果断行动和以实力求安全。"
+        },
+        {
+          "term": "国内工业与经济民族主义",
+          "analysis": "强调重振美国制造业、提升工业能力的重要性，将经济议题与国家安全和国家自豪感紧密联系，推崇保护主义和经济自主政策。"
+        },
+        {
+          "term": "意识形态与价值观输出",
+          "analysis": "在言论中抨击“反犹主义”，批评国际机构的“政治化”操作，并捍卫所谓的“言论自由”，试图在价值观层面界定敌友并推广特定意识形态立场。"
+        },
+        {
+          "term": "行政团队内部凝聚力",
+          "analysis": "主动驳斥对行政团队的负面报道，公开赞扬团队成员忠诚，致力于维护团队外部形象和内部团结，抵御外界批评。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 31 18:47:22 +0000 2025",
+      "text": "RT @StateDept: 2025: The year America First foreign policy DELIVERED. 🇺🇸 https://t.co/YXndFHm75l",
+      "translation": "转推 @StateDept：2025年：美国优先外交政策兑现之年。🇺🇸 https://t.co/YXndFHm75l",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1208,
+        "retweet": 2183,
+        "like": 10436
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 23:03:03 +0000 2025",
+      "text": "RT @WhiteHouse: President of Peace. Results for America. 🇺🇸\n\n🕊️ Ended 8 wars\n💰 NATO 5% spending\n❌ USAID reformed\n🤝 Historic agreements to s…",
+      "translation": "转推 @WhiteHouse：和平总统。为美国带来成果。🇺🇸 🕊️ 结束了8场战争 💰 北约支出达5% ❌ 改革了美国国际开发署 🤝 达成了历史性协议以...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4830,
+        "retweet": 7798,
+        "like": 37104
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 01:10:15 +0000 2025",
+      "text": "It is obvious to most people that Vanity Fair deliberately manipulated pictures and reported statements without context to try and make the WH team look bad \n\nAnd there is nobody more loyal or committed to President Trump’s mission than Susie Wiles. She is one of the main reasons",
+      "translation": "对大多数人来说显而易见的是，《名利场》故意操纵图片并脱离上下文报道声明，试图让白宫团队显得糟糕。没有人比苏西·怀尔斯更忠诚或更致力于特朗普总统的使命。她是主要原因之一。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4832,
+        "retweet": 2879,
+        "like": 24470
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 00:34:10 +0000 2025",
+      "text": "RT @StateDept: .@SecRubio: “This is American industrial power returning … the ability to make things again in our country has been critical…",
+      "translation": "转推 @StateDept：.@SecRubio：“这是美国工业力量的回归……在我们国家重新制造东西的能力至关重要……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 373,
+        "retweet": 1234,
+        "like": 6133
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:54:31 +0000 2025",
+      "text": "RT @FrozenFrequency: Merry Christmas! https://t.co/A7wxAo4qao",
+      "translation": "转推 @FrozenFrequency：圣诞快乐！https://t.co/A7wxAo4qao",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20,
+        "retweet": 66,
+        "like": 563
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 23:36:48 +0000 2025",
+      "text": "RT @PeteHegseth: https://t.co/24ZsEQ6mqt",
+      "translation": "转推 @PeteHegseth：https://t.co/24ZsEQ6mqt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6383,
+        "retweet": 21925,
+        "like": 139224
+      }
+    },
+    {
+      "created_at": "Thu Dec 25 01:54:57 +0000 2025",
+      "text": "RT @GBNEWS: ‘To censor Americans in America is a deal breaker.’\n\nUS Under Secretary of State for Public Diplomacy, Sarah Rogers, blasts the…",
+      "translation": "转推 @GBNEWS：‘在美国审查美国人是不可接受的。’美国负责公共外交的副国务卿莎拉·罗杰斯猛烈抨击……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 253,
+        "retweet": 870,
+        "like": 4571
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 17:17:57 +0000 2025",
+      "text": "RT @SecRubio: Today, the Trump Administration is sanctioning two International Criminal Court judges directly engaged in politicized and il…",
+      "translation": "转推 @SecRubio：今天，特朗普政府正在制裁两名直接参与针对美国军人的政治化和非法调查的国际刑事法院法官。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6881,
+        "retweet": 5031,
+        "like": 27006
+      }
+    },
+    {
+      "created_at": "Thu Dec 18 03:22:47 +0000 2025",
+      "text": "#NewProfilePic https://t.co/EEhMfxNUB6",
+      "translation": "#新头像 https://t.co/EEhMfxNUB6",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7183,
+        "retweet": 3794,
+        "like": 76570
+      }
+    },
+    {
+      "created_at": "Sun Jan 04 18:42:48 +0000 2026",
+      "text": "RT @RapidResponse47: .@SecRubio: \"It is not easy to land a helicopter in the middle of the largest military base... kick down his door, gra…",
+      "translation": "转推 @RapidResponse47：.@SecRubio：“在最大的军事基地中间降落直升机并不容易……踢开他的门，抓住……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1637,
+        "retweet": 7090,
+        "like": 36613
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 20:40:07 +0000 2026",
+      "text": "RT @SecRubio: I hope people now understand. The President of the United States is not a game player. When he tells you he's going to do som…",
+      "translation": "转推 @SecRubio：我希望人们现在能理解。美国总统不是游戏玩家。当他告诉你他要做某事时，他……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 30123,
+        "retweet": 40111,
+        "like": 245498
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 10:53:24 +0000 2026",
+      "text": "https://t.co/4e153jBOA3",
+      "translation": "https://t.co/4e153jBOA3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 23922,
+        "retweet": 63945,
+        "like": 286383
+      }
+    },
+    {
+      "created_at": "Sat Jan 03 09:42:08 +0000 2026",
+      "text": "RT @PressSec: STATEMENT FROM PRESIDENT DONALD J. TRUMP https://t.co/nHDqtsqRFh",
+      "translation": "转推 @PressSec：唐纳德·J·特朗普总统声明 https://t.co/nHDqtsqRFh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 12378,
+        "retweet": 28908,
+        "like": 143971
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 20:54:34 +0000 2025",
+      "text": "RT @SecRubio: Met with @IsraeliPM Netanyahu to discuss regional security, energy cooperation, and our shared commitment to combatting antis…",
+      "translation": "转推 @SecRubio：与@IsraeliPM 内塔尼亚胡会面，讨论区域安全、能源合作以及我们共同打击反犹太主义的承诺……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3385,
+        "retweet": 1575,
+        "like": 12558
+      }
+    },
+    {
+      "created_at": "Mon Dec 29 20:54:20 +0000 2025",
+      "text": "RT @SecRubio: The United States remains the most generous nation in the world for lifesaving humanitarian assistance—but under @POTUS’s lea…",
+      "translation": "转推 @SecRubio：美国仍然是世界上提供拯救生命人道主义援助最慷慨的国家——但在@POTUS的领导下……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4166,
+        "retweet": 4543,
+        "like": 24438
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:08:37 +0000 2025",
+      "text": "RT @SEPeaceMissions: Over the last two days in Florida, the Russian Special Envoy Kirill Dmitriev held productive and constructive meetings…",
+      "translation": "转推 @SEPeaceMissions：过去两天在佛罗里达州，俄罗斯特使基里尔·德米特里耶夫与美国代表举行了富有成效和建设性的会议……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2907,
+        "retweet": 1294,
+        "like": 6406
+      }
+    },
+    {
+      "created_at": "Mon Dec 22 00:05:57 +0000 2025",
+      "text": "RT @SEPeaceMissions: Over the last three days in Florida, the Ukrainian delegation held a series of productive and constructive meetings wi…",
+      "translation": "转推 @SEPeaceMissions：过去三天在佛罗里达州，乌克兰代表团与美国代表举行了一系列富有成效和建设性的会议……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 689,
+        "retweet": 704,
+        "like": 3894
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 22:04:37 +0000 2025",
+      "text": "RT @SecRubio: The United States is concerned by recent events in southeastern Yemen. We urge restraint and continued diplomacy, with a view…",
+      "translation": "转推 @SecRubio：美国对也门东南部最近发生的事件表示关切。我们敦促克制并继续外交，以期……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1166,
+        "retweet": 1743,
+        "like": 10939
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 00:43:17 +0000 2025",
+      "text": "RT @FoxNews: BREAKING: President Trump says the U.S. launched airstrikes in Nigeria on Christmas night targeting ISIS militants he accused…",
+      "translation": "转推 @FoxNews：突发：特朗普总统表示，美国在圣诞节夜间对尼日利亚发动了空袭，目标是伊斯兰国武装分子，他指责……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1086,
+        "retweet": 4985,
+        "like": 21305
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 00:42:33 +0000 2025",
+      "text": "RT @WhiteHouse: \"Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terro…",
+      "translation": "转推 @WhiteHouse：“今晚，根据我作为总司令的指示，美国对伊斯兰国恐怖分子发动了强大而致命的打击……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6278,
+        "retweet": 16811,
+        "like": 76056
+      }
+    }
+  ]
+}

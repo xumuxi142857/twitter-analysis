@@ -1,0 +1,474 @@
+{
+  "id": "profile_dndphl.json",
+  "_fingerprint": "dcdc0995a4c37c035264d039220a94af",
+  "name": "dndphl",
+  "username": "dndphl",
+  "category": "politician",
+  "daily_count": 0.8,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论强调纪律、责任和制度性，频繁提及国防现代化、协议执行和部门运作，表现出对规则和职责的严格遵守。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "积极进行外交互动，频繁与多国代表会晤，参与区域会议，公开表达立场，展现出较强的社交和公开沟通倾向。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "接受外部观点如欧盟支持、学者专栏，但核心叙事围绕主权、法律和传统价值观，创新多限于防御合作框架内。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "对内展现团结、感恩（如对军队、节日祝福），对外在主权问题上态度强硬，缺乏妥协表述，合作限于盟友。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "言论总体稳重，但在应对威胁（如虚假信息、海上事件）时表现出较高警惕和情绪化回应，稳定性受外部压力影响。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在对抗性、官僚主义倾向、民族主义偏执和救世主情结。",
+      "sub_items": [
+        {
+          "term": "对抗性",
+          "analysis": "在主权和领土问题上措辞强硬，直接指责特定国家行为，缺乏外交模糊性，易引发紧张关系。"
+        },
+        {
+          "term": "官僚主义倾向",
+          "analysis": "过度强调协议、会议、仪式和层级结构（如部长、大使互动），可能忽视灵活、非正式的解决途径。"
+        },
+        {
+          "term": "民族主义偏执",
+          "analysis": "频繁使用“主权”“不屈”等词汇，将外部批评或行动视为对国家尊严的威胁，可能放大敌意。"
+        },
+        {
+          "term": "救世主情结",
+          "analysis": "以国家保护者和区域稳定者自居，强调自身在东盟的领导角色，可能高估自身影响力或责任。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体内偏爱、权威偏见和乐观偏见。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性分享支持其主权立场和国际法主张的信息（如学者文章、盟友声明），忽略对立观点。"
+        },
+        {
+          "term": "群体内偏爱",
+          "analysis": "强烈区分“我们”（菲律宾、盟友）与“他们”（对手），在节日、灾难响应中强调内部团结，对外戒备。"
+        },
+        {
+          "term": "权威偏见",
+          "analysis": "依赖官方声明、部长言论、国际协议作为真理来源，轻视非官方或草根视角。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "高估防御合作和现代化带来的安全收益，对潜在风险（如冲突升级、经济成本）提及较少。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开对抗、仪式化行为、信息过载依赖和外交过度扩展。",
+      "sub_items": [
+        {
+          "term": "公开对抗",
+          "analysis": "通过社交媒体直接发布针对他国的强硬声明，缺乏私下沟通渠道，易导致舆论僵化和行动不可逆。"
+        },
+        {
+          "term": "仪式化行为",
+          "analysis": "注重荣誉仪式、周年纪念和礼节性访问，可能消耗资源，替代实质性政策进展。"
+        },
+        {
+          "term": "信息过载依赖",
+          "analysis": "频繁发布大量声明、会议报道和链接，可能分散公众注意力，降低关键信息的清晰度。"
+        },
+        {
+          "term": "外交过度扩展",
+          "analysis": "同时推进与多国（美、日、澳、欧等）的防御协议，可能超出执行能力，引发盟友间协调问题。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "主权立场僵化、联盟依赖、法律主义局限和民族主义情绪化。",
+      "sub_items": [
+        {
+          "term": "主权立场僵化",
+          "analysis": "在领土问题上拒绝任何妥协，视所有异议为虚假信息，缺乏谈判弹性，易陷入零和博弈。"
+        },
+        {
+          "term": "联盟依赖",
+          "analysis": "安全战略高度依赖外部盟友（如美日），自主防御能力建设不足，易受盟友政策变化影响。"
+        },
+        {
+          "term": "法律主义局限",
+          "analysis": "过度依赖国际法叙事，忽视地缘政治现实和力量对比，可能在实际冲突中处于被动。"
+        },
+        {
+          "term": "民族主义情绪化",
+          "analysis": "立场常与民族情感绑定（如“不屈”口号），理性决策易受公众情绪裹挟，政策调整空间小。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "资源分散、技术依赖、协调不足和公共沟通单一。",
+      "sub_items": [
+        {
+          "term": "资源分散",
+          "analysis": "同时推进基地建设、军队现代化、灾害响应和多边外交，可能因资源有限导致重点领域成效不足。"
+        },
+        {
+          "term": "技术依赖",
+          "analysis": "防御现代化依赖外国装备和技术转让，自主研发能力弱，长期易受供应国制约。"
+        },
+        {
+          "term": "协调不足",
+          "analysis": "国防部与外交部、地方政府在灾害、渔业等议题上协作机制不透明，效率可能低下。"
+        },
+        {
+          "term": "公共沟通单一",
+          "analysis": "信息发布以官方、精英视角为主，缺乏与民间社会、基层士兵的深度互动，信任基础可能薄弱。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "危机感过强、身份焦虑、控制欲和道德优越感。",
+      "sub_items": [
+        {
+          "term": "危机感过强",
+          "analysis": "频繁强调外部威胁（海上事件、虚假信息），可能放大风险，导致决策偏于防御和反应过度。"
+        },
+        {
+          "term": "身份焦虑",
+          "analysis": "通过强调“区域领导”“稳定力量”寻求国际认可，反映对自身地位的不安全感，易被赞誉操纵。"
+        },
+        {
+          "term": "控制欲",
+          "analysis": "试图通过协议、基地、法律全面控制安全环境，对不确定性容忍度低，可能忽视适应性策略。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "将自身立场等同于“正义”“法律”，贬低对手为“侵略”“虚假”，阻碍客观评估和对话。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "提升国际地位、平衡大国影响、巩固国内权威和转移内部矛盾。",
+      "sub_items": [
+        {
+          "term": "提升国际地位",
+          "analysis": "通过东盟领导角色和多边协议，旨在将菲律宾塑造为区域关键玩家，超越其实际国力。"
+        },
+        {
+          "term": "平衡大国影响",
+          "analysis": "借助美、日、澳等盟友制衡其他区域大国，寻求安全杠杆，而非单纯防御。"
+        },
+        {
+          "term": "巩固国内权威",
+          "analysis": "以强硬主权立场和国防成就强化政府合法性，团结民族主义情绪，巩固内部支持。"
+        },
+        {
+          "term": "转移内部矛盾",
+          "analysis": "聚焦外部威胁可能分散公众对国内问题（如灾害管理、经济）的注意力，维持稳定表象。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "主权与领土、防御现代化、多边合作、国内团结和灾害管理。",
+      "sub_items": [
+        {
+          "term": "主权与领土",
+          "analysis": "核心议题，涉及海上争端、国际法主张和反对外部干预，情绪强烈且频率高。"
+        },
+        {
+          "term": "防御现代化",
+          "analysis": "包括基地建设、军队升级、技术引进，强调自主防御能力，但依赖外部合作。"
+        },
+        {
+          "term": "多边合作",
+          "analysis": "频繁提及与东盟、美、日、欧等协议和会议，旨在构建安全网络和提升影响力。"
+        },
+        {
+          "term": "国内团结",
+          "analysis": "通过节日祝福、军队表彰、反虚假信息强调国家凝聚力，服务于稳定和动员。"
+        },
+        {
+          "term": "灾害管理",
+          "analysis": "作为国防部长兼灾害委员会主席，参与台风、地震响应，展现政府关怀和效率。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      3
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 12:00:03 +0000 2025",
+      "text": "🇵🇭🇻🇳 | #DNDPHL Sec. Gilberto Teodoro, Jr. met with Vice Admiral Tran Thanh Nghiem, Commander-in-Chief of Viet Nam People's Navy (VPN), on September 23, 2025, and discussed opportunities for closer naval defense cooperation. \n\n#StrategicPartnership #BagongPilipinas https://t.co/cgfeXbGOBy",
+      "translation": "🇵🇭🇻🇳 | 菲律宾国防部长小吉尔伯托·特奥多罗于2025年9月23日会见了越南人民海军总司令陈青严中将，并讨论了加强海军防务合作的机遇。#战略伙伴关系 #新菲律宾 https://t.co/cgfeXbGOBy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Wed Oct 08 09:00:01 +0000 2025",
+      "text": "𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 𝗼𝗻 𝘁𝗵𝗲 𝗜𝗻𝗮𝘂𝗴𝘂𝗿𝗮𝗹 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝗣𝗵𝗶𝗹𝗶𝗽𝗽𝗶𝗻𝗲𝘀-𝗝𝗮𝗽𝗮𝗻 𝗥𝗲𝗰𝗶𝗽𝗿𝗼𝗰𝗮𝗹 𝗔𝗰𝗰𝗲𝘀𝘀 𝗔𝗴𝗿𝗲𝗲𝗺𝗲𝗻𝘁👇 https://t.co/WtZaBLmrmH",
+      "translation": "关于菲律宾-日本互惠准入协定下首次活动的声明👇 https://t.co/WtZaBLmrmH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Wed Oct 08 01:30:00 +0000 2025",
+      "text": "The #DNDPHL joined the nation in celebrating the Linggo ng Katandaang Filipino or #ElderlyFilipinoWeek from October 1 to 7, 2025, in honor of senior citizens.👵👴 \n\nA series of activities was successfully conducted for elderly personnel of the DND and its attached bureaus.👇 https://t.co/oKbBeiQiWW",
+      "translation": "#DNDPHL 与全国一同庆祝2025年10月1日至7日的菲律宾老年人周（#ElderlyFilipinoWeek），以向老年公民致敬。👵👴 为国防部及其附属机构的老年人员工成功举办了一系列活动。👇 https://t.co/oKbBeiQiWW",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 08:30:00 +0000 2025",
+      "text": "EARLIER | NDRRMC Chair &amp; SND Gilberto C. Teodoro Jr. visited the OCD Region VII – Central Visayas Command and Control Center in Lapu-Lapu City, Cebu to assess ongoing operations following the 6.9 magnitude earthquake that struck offshore Cebu on the evening of September 30, 2025. https://t.co/q8Op30UnBu",
+      "translation": "早前 | 国家减少灾害风险与管理委员会主席兼国防部长小吉尔伯托·C·特奥多罗访问了位于宿务省拉普拉普市的民防第七区-中米沙鄢指挥控制中心，以评估2025年9月30日晚宿务近海发生6.9级地震后的持续行动。https://t.co/q8Op30UnBu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 8,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 06:21:56 +0000 2025",
+      "text": "#DNDPHL Sec. Gilberto C. Teodoro, Jr. met @AmbJPNinPH Kazuya Endo on Tuesday. They discussed matters of mutual interest and underscored the importance of continued bilateral 🇵🇭-🇯🇵cooperation in strengthening defense and security partnership. https://t.co/oXaiQULQEg",
+      "translation": "#DNDPHL 部长小吉尔伯托·C·特奥多罗于周二会见了日本驻菲律宾大使远藤和也。他们讨论了共同关心的问题，并强调了持续的双边🇵🇭-🇯🇵合作对于加强防务和安全伙伴关系的重要性。https://t.co/oXaiQULQEg",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 0,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 07:47:25 +0000 2025",
+      "text": "The #DNDPHL rendered Arrival Honors for the late former Defense Minister/Secretary Juan Ponce Enrile. Led by Sec. Gilberto C. Teodoro,Jr., defense senior officials, employees, &amp; the family of Sec. Enrile gathered to honor his legacy and decades of dedicated service to the nation. https://t.co/1m2CSMD1kF",
+      "translation": "#DNDPHL 为已故前国防部长胡安·庞塞·恩里莱举行了抵达欢迎仪式。在部长小吉尔伯托·C·特奥多罗的带领下，国防部高级官员、员工以及恩里莱部长的家人齐聚一堂，向他留下的遗产和数十年来为国家所做的奉献服务致敬。https://t.co/1m2CSMD1kF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 25,
+        "retweet": 0,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 11:00:00 +0000 2025",
+      "text": "Ayon kay NDRRMC Chair at #DNDPHL Sec. Gilberto C. Teodoro, Jr., tuloy-tuloy ang assessment at response operations ng pamahalaan sa mga apektadong lugar ng Bagyong Tino, habang naghahanda rin para sa paparating na Bagyong Uwan. @civildefensePH @NDRRMC_OpCen \n\n#NDRRMC #BidaAngHanda https://t.co/UB0emhQM9m",
+      "translation": "据国家减少灾害风险与管理委员会主席兼#DNDPHL部长小吉尔伯托·C·特奥多罗称，政府对受台风“蒂诺”影响地区的评估和响应行动正在持续进行，同时也在为即将到来的台风“乌万”做准备。@civildefensePH @NDRRMC_OpCen #NDRRMC #BidaAngHanda https://t.co/UB0emhQM9m",
+      "stance": "无关",
+      "metrics": {
+        "reply": 24,
+        "retweet": 1,
+        "like": 12
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 09:47:37 +0000 2025",
+      "text": "The #DNDPHL including its civilian employees have decided to forgo with the formalities of its 86th anniversary on Nov. 7, 2025. \n\nWe stand united with the victims of the recent typhoon and we sympathize with those who have made the ultimate sacrifice so that others may live. https://t.co/4KEtddTlY3",
+      "translation": "#DNDPHL 包括其文职员工已决定取消原定于2025年11月7日举行的86周年正式庆祝活动。我们与近期台风的受害者站在一起，并对那些为让他人得以生存而做出最终牺牲的人们表示同情。https://t.co/4KEtddTlY3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 6,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 09:45:34 +0000 2025",
+      "text": "Author &amp; journalist Bill Hayton delivered a lecture on “The Invention of China,\" offering insights into the historical narratives and geopolitical factors shaping China’s identity and behavior—key to understanding today’s strategic and security dynamics in the Indo-Pacific. https://t.co/fAe1xht2mN",
+      "translation": "作家兼记者比尔·海顿发表了题为“中国的发明”的讲座，深入探讨了塑造中国身份和行为的历史叙事与地缘政治因素——这是理解当今印太地区战略和安全动态的关键。https://t.co/fAe1xht2mN",
+      "stance": "负面",
+      "metrics": {
+        "reply": 18,
+        "retweet": 4,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 04:47:21 +0000 2025",
+      "text": "The Department of National Defense extends its heartfelt condolences to the bereaved families of the six Philippine Air Force pilots and crew of the Super Huey that crashed in Agusan Del Sur on November 4, 2025. \n\nFull statement👇\n\n#DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil https://t.co/1mEKr3Lnaj",
+      "translation": "国防部向2025年11月4日在阿古桑德尔苏尔省坠毁的超级休伊直升机上的六名菲律宾空军飞行员和机组人员的遇难者家属表示衷心的哀悼。完整声明👇 #DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil https://t.co/1mEKr3Lnaj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 23:00:01 +0000 2025",
+      "text": "Maligayang Pasko mula sa #DNDPHL!🎄\n\nNawa’y ang diwa ng kapanganakan ni Hesukristo ay maghatid ng kapayapaan, pag-asa, at pagkakaisa sa bawat pamilyang Pilipino—dito man sa ating bayan o saan mang panig ng mundo.\n\n#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/z6EVFd0UZn",
+      "translation": "来自#DNDPHL的圣诞快乐！🎄 愿耶稣基督诞生的精神为每个菲律宾家庭带来和平、希望与团结——无论在我们国家还是世界的任何角落。#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/z6EVFd0UZn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 1,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 12:00:01 +0000 2025",
+      "text": "Saludo at pagbati sa ating mga sundalo at kawani na naglilingkod sa bayan nang malayo sa kanilang pamilya ngayong Kapaskuhan. ⭐🎄🫡\n\nTaos pusong pasasalamat sa inyong sipag, dedikasyon, at sakripisyo para sa kaligtasan ng ating pamayanan at seguridad ng ating bansa! 🇵🇭\n\n#DNDPHL https://t.co/WAEAlAuL1X",
+      "translation": "向那些在圣诞节期间远离家人为国家服务的士兵和工作人员致敬并致以问候。⭐🎄🫡 衷心感谢你们的辛勤工作、奉献和牺牲，为了我们社区的安全和我们国家的安全！🇵🇭 #DNDPHL https://t.co/WAEAlAuL1X",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 03:15:00 +0000 2025",
+      "text": "PANOORIN | Mensahe ng Kalihim ng Kagawaran ng Tanggulang Pambansa, Secretary Gilberto C. Teodoro, Jr., sa pagdiriwang ng Kapaskuhan at pagsalubong sa Bagong Taon 🎄✨\n\nMula sa inyong #DNDPHL, hiling namin ang ligtas, payapa, at masayang pagdiriwang para sa lahat. https://t.co/44FuNQy71n",
+      "translation": "观看 | 国防部长小吉尔伯托·C·特奥多罗在庆祝圣诞节和迎接新年之际的致辞🎄✨ 来自你们的#DNDPHL，我们祝愿所有人度过一个安全、和平、快乐的庆祝活动。https://t.co/44FuNQy71n",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 02:10:59 +0000 2025",
+      "text": "READ | Message of #DNDPHL Senior Undersecretary Irineo C. Espino, Chairperson of the DND Gender and Development Focal Point System on the commemoration of the 2025 18-Day Campaign to End Violence Against Women (VAW) \n\n#VAWfreePH #BagongPilipinas https://t.co/h9Mos7UkZ7",
+      "translation": "阅读 | #DNDPHL 高级副部长伊里内奥·C·埃斯皮诺（国防部性别与发展联络点系统主席）关于纪念2025年“结束暴力侵害妇女行为18天运动”的致辞 #VAWfreePH #BagongPilipinas https://t.co/h9Mos7UkZ7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Oct 14 08:51:45 +0000 2025",
+      "text": "Secretary of National Defense Gilberto C. Teodoro, Jr. met with Her Excellency Marie Fontanel, Ambassador of France to the Philippines, during a courtesy call at the Department of National Defense on Tuesday, October 14, 2025. 🇵🇭🇫🇷 #DNDPHL #BagongPilipinas https://t.co/e1KtLCkUoc",
+      "translation": "国防部长小吉尔伯托·C·特奥多罗于2025年10月14日星期二在国防部礼节性拜会期间会见了法国驻菲律宾大使玛丽·丰塔内尔阁下。🇵🇭🇫🇷 #DNDPHL #BagongPilipinas https://t.co/e1KtLCkUoc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 2,
+        "like": 24
+      }
+    },
+    {
+      "created_at": "Tue Oct 07 07:42:37 +0000 2025",
+      "text": "EARLIER TODAY | Sec. Gilberto C. Teodoro, Jr. presented the proposed FY 2026 budget of the Department of National Defense, including its attached civilian bureaus and the Armed Forces of the Philippines, during the review held by the Senate Finance Sub-Committee E on Monday. https://t.co/mq6z7LYsKj",
+      "translation": "今日早些时候 | 小吉尔伯托·C·特奥多罗部长于周一在参议院财政E小组委员会举行的审查会议上，提交了国防部（包括其附属文职机构和菲律宾武装部队）2026财年的拟议预算。https://t.co/mq6z7LYsKj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 4,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Tue Oct 07 03:00:33 +0000 2025",
+      "text": "At a recent meeting with the Senate Committee on National Defense and Security, Peace, Unification and Reconciliation, #DNDPHL Sec. Gilberto C. Teodoro, Jr. presented the defense legislative agenda for the 20th Congress. \n\n#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/l7hmzbmSOT",
+      "translation": "在最近与参议院国防与安全、和平、统一与和解委员会的会议上，#DNDPHL部长小吉尔伯托·C·特奥多罗提交了第20届国会的国防立法议程。#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/l7hmzbmSOT",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 6
+      }
+    },
+    {
+      "created_at": "Tue Oct 07 02:44:43 +0000 2025",
+      "text": "Secretary of National Defense Gilberto C. Teodoro, Jr. welcomed H.E. Sin Saream, Ambassador of Cambodia to the Philippines, for an introductory call at the Department of National on October 6, 2025. 🇵🇭🇰🇭\n\n#DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil https://t.co/cKO6KvWhJY",
+      "translation": "国防部长小吉尔伯托·C·特奥多罗于2025年10月6日在国防部欢迎柬埔寨驻菲律宾大使辛萨雷姆阁下进行介绍性拜会。🇵🇭🇰🇭 #DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil https://t.co/cKO6KvWhJY",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Tue Oct 07 01:04:01 +0000 2025",
+      "text": "🇵🇭🤝🇮🇪 | #DNDPHL Sec. Gilberto C. Teodoro, Jr. met Ireland Ambassador to the Philippines Emma Hickey, on Monday in Quezon City.\n\nThe Philippines and Ireland share long-standing diplomatic ties built on mutual respect, shared values, and a commitment to global peace and stability. https://t.co/qZwZwCowhS",
+      "translation": "🇵🇭🤝🇮🇪 | #DNDPHL 部长小吉尔伯托·C·特奥多罗于周一在奎松市会见了爱尔兰驻菲律宾大使艾玛·希基。菲律宾和爱尔兰建立在相互尊重、共同价值观以及对全球和平与稳定的承诺基础上的长期外交关系。https://t.co/qZwZwCowhS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Tue Nov 25 11:00:00 +0000 2025",
+      "text": "LCDR Jose Sixto G Dantes III PN (RES) shared his message of support as the #DNDPHL &amp; its bureaus kicked off the 18-Day Campaign to End Violence Against Women (#VAW) through the Men Opposed to Violence Against Women (#MOVE) Walk to End VAW held earlier today at Camp Aguinaldo. https://t.co/UHZKf4ZyEK",
+      "translation": "菲律宾海军预备役中校何塞·西斯托·G·丹特斯三世分享了支持信息，因为#DNDPHL及其机构今天早些时候在阿吉纳尔多营地通过“男性反对暴力侵害妇女行为”（#MOVE）步行活动，启动了“结束暴力侵害妇女行为18天运动”（#VAW）。https://t.co/UHZKf4ZyEK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 2
+      }
+    }
+  ]
+}

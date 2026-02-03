@@ -1,0 +1,442 @@
+{
+  "id": "profile_indaysara.json",
+  "_fingerprint": "13a9c6a1a11d77e7dede7fe1cb6d8098",
+  "name": "indaysara",
+  "username": "indaysara",
+  "category": "politician",
+  "daily_count": 1.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、高宜人性，中等开放性，情绪稳定性未知。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "活动安排高度结构化且公开，涵盖学校访问、救灾、外交礼节、宗教活动及项目跟进，显示出强烈的责任感和组织性。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开访问、参与社区活动、与不同群体（如灾民、学生、小贩、外交官）互动，表现出明显的社交倾向和公众形象维护。"
+        },
+        {
+          "term": "高宜人性",
+          "analysis": "言论聚焦于社区服务、救灾援助、支持小企业、教育及宗教活动，展现出合作、同情和亲社会的倾向。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "活动范围广泛，涉及教育、救灾、外交、宗教等多个领域，但内容主要围绕既定职责和传统公共活动，未见明显挑战常规或高度抽象、艺术性的表达。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "可能存在形象维护压力、对批评敏感、以及潜在的救世主情结。",
+      "sub_items": [
+        {
+          "term": "形象维护压力",
+          "analysis": "频繁发布涵盖广泛正面活动的详细记录，可能反映出对公众形象的高度关注和维持正面形象的压力。"
+        },
+        {
+          "term": "对批评敏感",
+          "analysis": "发布官方声明驳斥虚假指控并就预算听证会相关新闻进行澄清，显示出对负面舆论或批评较为敏感并采取公开回应的倾向。"
+        },
+        {
+          "term": "潜在的救世主情结",
+          "analysis": "活动常以“帮助”、“救济”、“改变”为主题，如“Pagbabago”（改变）运动，可能隐含一种通过个人或机构行动带来积极改变的强烈使命感，若过度可能被视为居高临下。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出行动导向、服务成果展示、以及可能的确认偏误。",
+      "sub_items": [
+        {
+          "term": "行动导向偏误",
+          "analysis": "沟通高度侧重于具体行动和实地访问，如视察、援助分发、项目移交，可能倾向于用可见活动衡量成效，而非深层政策分析。"
+        },
+        {
+          "term": "服务成果展示偏误",
+          "analysis": "持续强调救灾、教育支持、小企业帮扶等成果，可能倾向于选择性地展示成功和积极干预的案例，以强化服务者和问题解决者的形象。"
+        },
+        {
+          "term": "潜在的确认偏误",
+          "analysis": "活动与声明多围绕支持特定社区、回应批评、推进既定项目，可能倾向于寻找和呈现支持其角色和立场的信息，回避或淡化复杂矛盾。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开日程密集、对负面舆论反应模式固定、活动地域与主题分散。",
+      "sub_items": [
+        {
+          "term": "过度公开的日程",
+          "analysis": "高度详细的公开活动记录可能使其行程、优先事项和资源分配模式容易被预测和分析，增加被针对性干扰或批评的风险。"
+        },
+        {
+          "term": "程式化的舆论回应",
+          "analysis": "对指控和负面新闻主要通过发布正式声明进行驳斥或澄清，这种固定模式可能被对手预判，并通过制造争议消耗其注意力与公信力。"
+        },
+        {
+          "term": "活动广度与深度平衡",
+          "analysis": "活动覆盖全国多地且主题多样，从救灾到外交，从教育到宗教。这种广度可能分散精力，导致对个别议题或地区的深入跟进和长期影响受到质疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "与特定政治人物关联、在预算议题上易受攻击、救灾响应存在表现压力。",
+      "sub_items": [
+        {
+          "term": "与前政府关联",
+          "analysis": "发表关于前总统拘留的声明，显示出与特定政治人物或家族的立场关联，这可能使其在当前政治环境中承受来自对立面的压力。"
+        },
+        {
+          "term": "预算问责压力",
+          "analysis": "需要就办公室预算听证会相关新闻发表声明，表明其资金使用和项目效益容易成为政治对手和公众监督的焦点，存在持续的问责压力。"
+        },
+        {
+          "term": "灾难响应表现压力",
+          "analysis": "频繁视察地震、滑坡灾区并组织救济，建立了快速响应的公众期望。任何感知到的延迟、不足或不公都可能迅速损害其声誉。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "项目管理广度挑战、外交平衡能力、基层项目可持续性。",
+      "sub_items": [
+        {
+          "term": "多项目协调能力",
+          "analysis": "同时推进“百万学习者和树木”全国性运动、各地救灾、小企业支持、学校访问等多线任务，对团队的项目管理、资源协调和效果评估能力构成重大考验。"
+        },
+        {
+          "term": "多元外交平衡",
+          "analysis": "与英国、澳大利亚、中国等多国大使进行礼节性会晤，需要在复杂国际关系中谨慎平衡各方关系和本国利益，任何失言或偏颇都可能引发外交风波。"
+        },
+        {
+          "term": "项目长期影响",
+          "analysis": "许多活动如“Pagbabago Bags”分发、小企业帮扶等属于短期援助或启动支持，其长期可持续性和对社区发展的深层影响可能难以量化，易受效果质疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "可能承受高压期望、面临道德困境、以及身份认同挑战。",
+      "sub_items": [
+        {
+          "term": "公众期望压力",
+          "analysis": "作为高级公职人员，其服务型、亲民的形象塑造了较高的公众期望。持续满足这些期望，尤其在资源有限或危机频发时，可能带来巨大的心理负担和倦怠风险。"
+        },
+        {
+          "term": "资源分配道德压力",
+          "analysis": "在救灾、社区援助中需要决定资源优先分配地区，这可能引发关于公平性、政治偏袒的内心冲突和外部批评，处理不当会导致道德信誉受损。"
+        },
+        {
+          "term": "角色认同冲突",
+          "analysis": "角色集行政官员、公共服务者、政治人物、宗教活动参与者于一身。平衡这些有时冲突的角色期望，可能引发身份认同模糊和决策困境。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "巩固政治基础、塑造国家服务者形象、为未来政治角色铺垫。",
+      "sub_items": [
+        {
+          "term": "基层政治网络建设",
+          "analysis": "在全国多地，尤其是省份和基层社区进行频繁访问和项目落地，意在建立和巩固广泛的地方支持网络与政治资本。"
+        },
+        {
+          "term": "超越党派的公共服务者形象塑造",
+          "analysis": "通过聚焦救灾、教育、民生等普遍关切的议题，并展示与不同外国使节的专业互动，试图塑造一个超越党派政治、专注于国家服务的形象。"
+        },
+        {
+          "term": "未来政治生涯铺垫",
+          "analysis": "全面的公共活动记录、应对危机的表现、以及国内外关系的建立，均可被视为积累经验、声望和联盟，为未来寻求更高或更核心的政治职位做准备。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题围绕国内公共服务、政治形象维护及有限外交互动。",
+      "sub_items": [
+        {
+          "term": "国内民生与救灾",
+          "analysis": "最频繁的话题，包括视察灾区、分发救济物资、访问受灾群众，凸显其作为危机响应者和公共服务提供者的角色。"
+        },
+        {
+          "term": "教育与社会赋能",
+          "analysis": "涵盖学校访问、体育馆移交、教育运动推广、小企业支持计划，强调对教育、青年发展和经济赋能的承诺。"
+        },
+        {
+          "term": "政治沟通与形象管理",
+          "analysis": "包括发布节日致辞、回应指控、澄清预算新闻、报告年度成就，核心在于直接的政治信息传递和公众形象维护。"
+        },
+        {
+          "term": "宗教与文化参与",
+          "analysis": "参与宗教节日、教堂访问、弥撒等活动，显示对菲律宾主流文化和宗教传统的尊重与融入，以连接广大信众社区。"
+        },
+        {
+          "term": "礼节性外交",
+          "analysis": "与多国大使进行礼节性会晤，话题限于外交礼节和双边关系的一般性讨论，未深入具体政策或敏感议题。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      3
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      2
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 01:34:04 +0000 2025",
+      "text": "STATEMENT\nSeptember 24, 2025\n\nPlease see more here:\nhttps://t.co/DSB3MBpniS",
+      "translation": "声明 2025年9月24日 请在此处查看更多信息：https://t.co/DSB3MBpniS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Wed Sep 17 02:50:03 +0000 2025",
+      "text": "https://t.co/bam5fZygq8",
+      "translation": "https://t.co/bam5fZygq8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 29
+      }
+    },
+    {
+      "created_at": "Wed Sep 10 10:02:13 +0000 2025",
+      "text": "COURTESY CALL OF HIS EXCELLENCY DR. ANDREAS MICHAEL PFAFFERNOSCHKE\nAmbassador of Federal Republic of Germany to the Philippines\nOffice of the Vice President, Mandaluyong City\n\nPlease see more here:\nhttps://t.co/oysKaRob97",
+      "translation": "德意志联邦共和国驻菲律宾大使安德烈亚斯·迈克尔·普法费尔诺施克博士阁下礼节性拜访 副总统办公室，曼达卢永市 请在此处查看更多信息：https://t.co/oysKaRob97",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 44
+      }
+    },
+    {
+      "created_at": "Wed Sep 03 03:44:59 +0000 2025",
+      "text": "OVP PAGBABAGO SA POZORRUBIO, BAYAN NG PANGASINAN\n\nPlease see more here:\nhttps://t.co/xZZfAB80JI",
+      "translation": "副总统办公室在邦阿西楠省波佐鲁比奥市的变革活动 请在此处查看更多信息：https://t.co/xZZfAB80JI",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 2,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Wed Oct 29 02:40:53 +0000 2025",
+      "text": "FOOD BAGS PARA SA MGA RESIDENTE NG MARAIGING, JABONGA\n\nPlease see more here:\nhttps://t.co/3CmJ8Yy9Qp",
+      "translation": "为哈邦加市马拉伊金居民提供的食品袋 请在此处查看更多信息：https://t.co/3CmJ8Y9Y9p",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 4,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Wed Oct 22 02:22:24 +0000 2025",
+      "text": "25TH CITYHOOD ANNIVERSARY OF THE CITY OF TACURONG AND TALAKUDONG FESTIVAL\nCity Hall Compound, Alunan Highway, Tacurong City\nSultan Kudarat\n\nPlease see more here:\nhttps://t.co/3VH6iptnlr",
+      "translation": "塔库龙市建市25周年纪念暨塔拉库东节 市政厅大院，阿卢南高速公路，塔库龙市，苏丹库达拉省 请在此处查看更多信息：https://t.co/3VH6iptnlr",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 36
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 05:00:10 +0000 2025",
+      "text": "COURTESY CALL OF H.E. MARC INNES-BROWN PSM\nAmbassador of the Commonwealth of Australia to the Philippines\nOffice of the Vice President\nMandaluyong City\n\nPlease see more here:\nhttps://t.co/8HxJyrUCFe",
+      "translation": "澳大利亚联邦驻菲律宾大使马克·英尼斯-布朗阁下礼节性拜访 副总统办公室，曼达卢永市 请在此处查看更多信息：https://t.co/8HxJyrUCFe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 9,
+        "like": 55
+      }
+    },
+    {
+      "created_at": "Wed Oct 08 03:13:01 +0000 2025",
+      "text": "FAREWELL CALL OF H.E. HUANG XILIAN\nAmbassador of People’s Republic of China to the Philippines\nOffice of the Vice President\nMandaluyong City\n\nPlease see more here:\nhttps://t.co/gabVGvGxyf",
+      "translation": "中华人民共和国驻菲律宾大使黄溪连阁下辞行拜会 副总统办公室，曼达卢永市 请在此处查看更多信息：https://t.co/gabVGvGxyf",
+      "stance": "中立",
+      "metrics": {
+        "reply": 4,
+        "retweet": 4,
+        "like": 30
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 15:09:46 +0000 2025",
+      "text": "PAG-AMPO UG PAHASUBO SA VISAYAS\nOCTOBER 1, 2025\n\nPlease see more here:\nhttps://t.co/mfPXRqdfFE",
+      "translation": "维萨亚斯地区祈祷与哀悼 2025年10月1日 请在此处查看更多信息：https://t.co/mfPXRqdfFE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 11:35:56 +0000 2025",
+      "text": "https://t.co/PXUYPgmjgc",
+      "translation": "https://t.co/PXUYPgmjgc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Nov 26 02:06:57 +0000 2025",
+      "text": "LA CARLOTA CITY VISIT\nNegros Occidental\n\nPlease see more here:\nhttps://t.co/o0eMAHcDI4",
+      "translation": "拉卡洛塔市访问 西内格罗斯省 请在此处查看更多信息：https://t.co/o0eMAHcDI4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Wed Nov 19 01:33:48 +0000 2025",
+      "text": "GLOBAL WARMING AND CLIMATE CONSCIOUSNESS WEEK\nNovember 19, 2025\n\nPlease see more here:\nhttps://t.co/NaSAzZN4vc",
+      "translation": "全球变暖与气候意识周 2025年11月19日 请在此处查看更多信息：https://t.co/NaSAzZN4vc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 08:00:35 +0000 2025",
+      "text": "PAGBISITA AT PAGKAMUSTA SA MGA PAMILYA SA BACOLOD CITY NA APEKTADO NG BAGYONG TINO\nBacolod City\n\nPlease see more here:\nhttps://t.co/TC8MSmoGTU",
+      "translation": "探访并慰问受台风蒂诺影响的巴科洛德市家庭 巴科洛德市 请在此处查看更多信息：https://t.co/TC8MSmoGTU",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Wed Nov 12 02:11:28 +0000 2025",
+      "text": "PAGBISITA SA MGA APEKTADO NG BAGYONG TINO SA NEGROS OCCIDENTAL\n\nPlease see more here:\nhttps://t.co/562vigFgvh",
+      "translation": "探访西内格罗斯省受台风蒂诺影响的灾民 请在此处查看更多信息：https://t.co/562vigFgvh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Wed Nov 05 04:45:36 +0000 2025",
+      "text": "PAGBABAGO BAGS PARA SA AGLIPAY, QUIRINO\n\nPlease see more here:\nhttps://t.co/UFiLMNY4ME",
+      "translation": "为基里诺省阿格利帕伊提供的变革袋 请在此处查看更多信息：https://t.co/UFiLMNY4ME",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 2,
+        "like": 19
+      }
+    },
+    {
+      "created_at": "Wed Jan 07 01:58:07 +0000 2026",
+      "text": "PAGBISITA SA MAGNEGOSYO TA ‘DAY BENEFICIARY\nDaraga, Albay\n\nPlease see more here:\nhttps://t.co/NToooLLUnS",
+      "translation": "探访'马格内戈西奥·塔·戴'项目受益者 阿尔拜省达拉加市 请在此处查看更多信息：https://t.co/NToooLLUnS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Wed Dec 31 04:03:00 +0000 2025",
+      "text": "NEW YEAR’S DAY\nDecember 31, 2025\n\nPlease see more here:\nhttps://t.co/0NE7ycd2Lw",
+      "translation": "新年 2025年12月31日 请在此处查看更多信息：https://t.co/0NE7ycd2Lw",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 04:09:44 +0000 2025",
+      "text": "MALIGAYANG PASKO\nDecember 24, 2025 \n\nPlease see more here:\nhttps://t.co/bhdzTUdvnx",
+      "translation": "圣诞快乐 2025年12月24日 请在此处查看更多信息：https://t.co/bhdzTUdvnx",
+      "stance": "无关",
+      "metrics": {
+        "reply": 4,
+        "retweet": 3,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Wed Dec 17 02:04:50 +0000 2025",
+      "text": "BRGY. OPAO GYMNASIUM EVACUATION CENTER VISIT\nCebu City\n\nPlease see more here:\nhttps://t.co/maBqxD6PPH",
+      "translation": "访问欧保村体育馆疏散中心 宿务市 请在此处查看更多信息：https://t.co/maBqxD6PPH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Wed Dec 10 00:02:05 +0000 2025",
+      "text": "PAGBISITA SA LILOAN EVACUEES\nLiloan, Cebu\n\nPlease see more here:\nhttps://t.co/F31EvTpQow",
+      "translation": "探访利洛安疏散人员 宿务省利洛安市 请在此处查看更多信息：https://t.co/F31EvTpQow",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 22
+      }
+    }
+  ]
+}

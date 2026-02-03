@@ -1,0 +1,462 @@
+{
+  "id": "profile_risahontiveros.json",
+  "_fingerprint": "cf2cc18a74613fa98fdef413ffad995a",
+  "name": "risahontiveros",
+  "username": "risahontiveros",
+  "category": "media",
+  "daily_count": 0.1,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高尽责性、高开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开互动，积极回应支持者，使用大量表情符号和热情语言，表现出强烈的社交倾向和情感表达需求。"
+        },
+        {
+          "term": "高尽责性",
+          "analysis": "专注于立法、监督和公共事务，强调程序正义、调查真相和追究责任，表现出强烈的职业道德和责任感。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "支持多元社会议题，如LGBTQ+权利、心理健康、性别平等，并呼吁监管新兴技术如AI生成内容，展现出对新思想和复杂社会问题的接纳度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "对盟友和支持者表现出高度合作与温暖，但在面对政治对手、虚假信息或被视为不公的行为时，态度坚决且具对抗性。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在涉及不公正、欺骗或受害者议题时情绪反应强烈，但整体言论表现出较强的情绪调节能力和目标导向的韧性。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在理想主义偏执、道德优越感及对抗性倾向。",
+      "sub_items": [
+        {
+          "term": "道德优越感",
+          "analysis": "常以正义代言人自居，将自身立场与‘为受害者抗争’、‘为国家利益’紧密绑定，可能忽视政策复杂性和不同观点的合理成分。"
+        },
+        {
+          "term": "对抗性倾向",
+          "analysis": "在涉及政治对手或争议事件时，言辞直接且带有挑衅意味，倾向于将分歧定性为是非对立，可能加剧政治极化。"
+        },
+        {
+          "term": "理想主义偏执",
+          "analysis": "对实现社会公正、平等有极高期待，可能低估实施过程中的现实阻力，导致挫折感或对渐进式改革缺乏耐心。"
+        },
+        {
+          "term": "公众形象依赖",
+          "analysis": "高度依赖社交媒体塑造并维持‘斗士’和‘关怀者’的公共形象，可能使其决策或言论受到公众情绪或形象维护需求的影响。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出内群体偏爱、负面偏见及确认偏误。",
+      "sub_items": [
+        {
+          "term": "内群体偏爱",
+          "analysis": "明确区分政治盟友与对手，对盟友如特定参议员团队不吝赞美与联合，对对手则持高度怀疑和批评态度。"
+        },
+        {
+          "term": "负面偏见",
+          "analysis": "在分析事件时，倾向于首先关注和强调其中的不公、欺骗或威胁成分，例如在POGO和市长身份争议中聚焦于国家安全风险与欺诈。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于引用和支持符合其既有政治立场（如反对前政府政策、追求社会正义）的信息与人物，强化自身观点。"
+        },
+        {
+          "term": "二元思维",
+          "analysis": "常使用‘真/假’、‘正义/不公’、‘支持/反对’等二元框架简化复杂议题，如将国际税收合作提案直接关联为国家利益。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开对抗性强、社交媒体依赖度高、议题关联策略存在风险。",
+      "sub_items": [
+        {
+          "term": "公开对抗性强",
+          "analysis": "习惯于在公开平台直接点名批评个人或机构，此举虽能动员支持，但也易引发法律纠纷、网络攻击或政治报复。"
+        },
+        {
+          "term": "社交媒体依赖",
+          "analysis": "主要舆论阵地和动员工具高度集中于Twitter等社交平台，使其易受平台算法、虚假信息攻击和舆论突然反转的影响。"
+        },
+        {
+          "term": "议题关联风险",
+          "analysis": "擅长将不同议题（如体育胜利、母亲节）关联到其核心政治议程上，若关联牵强或时机不当，可能被批评为政治操弄或消费议题。"
+        },
+        {
+          "term": "情绪化表达",
+          "analysis": "在涉及受害者、盟友离世等话题时使用高度情绪化语言，虽能引发共鸣，但也可能影响其作为立法者所需的理性决策者形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场高度意识形态化，在民族主义与跨国合作间存在张力。",
+      "sub_items": [
+        {
+          "term": "意识形态绑定",
+          "analysis": "政治立场与特定的自由主义、进步主义议程深度绑定，在政治环境变化时调整空间小，易被对手贴上固定标签进行攻击。"
+        },
+        {
+          "term": "民族主义与全球主义张力",
+          "analysis": "一方面强调菲律宾国家利益与主权（如反POGO），另一方面积极推动参与联合国框架的国际合作，两者在具体政策上可能产生矛盾。"
+        },
+        {
+          "term": "对华议题敏感性",
+          "analysis": "在涉及中国公民身份争议、POGO（常与中资关联）等议题上态度鲜明且批判性强，使其在该领域成为焦点，也易引发国际关系层面的复杂反应。"
+        },
+        {
+          "term": "联盟依赖",
+          "analysis": "政治行动高度依赖与特定政治盟友（如几位参议员和律师）的联合，若联盟内部出现分歧或其中成员失势，其政治效力将受损。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "专业领域集中，在技术治理与复杂经济议题上深度可能不足。",
+      "sub_items": [
+        {
+          "term": "领域专注局限",
+          "analysis": "核心能力显现在社会正义、人权监督和立法领域，对于高度专业的技术治理（如AI内容审核具体方案）、复杂国际经济协议细节的阐述相对表面。"
+        },
+        {
+          "term": "执行与监督落差",
+          "analysis": "擅长发起调查、提出议案和舆论监督，但作为立法者，将议题转化为可执行、有持续资金支持的法律并确保其落实的能力未在样本中充分体现。"
+        },
+        {
+          "term": "信息核实依赖",
+          "analysis": "对虚假信息的反击依赖于呼吁平台管理和司法调查，自身缺乏快速技术手段进行独立信息核验，在信息战中可能反应滞后。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在情感耗竭风险，对公正的追求可能接近执念。",
+      "sub_items": [
+        {
+          "term": "情感耗竭风险",
+          "analysis": "长期投身于涉及受害者、不公的高压政治议题，并深度共情，面临职业倦怠和心理健康风险，如其对逝去盟友的悼念所暗示。"
+        },
+        {
+          "term": "公正执念",
+          "analysis": "对‘寻求正义’有近乎使命感的追求，当结果不如预期或进程缓慢时，可能产生强烈的挫败感、无力感或对体制的过度批判。"
+        },
+        {
+          "term": "被认可需求",
+          "analysis": "频繁感谢支持者、受害者，并强调与民众同在，显示出对公众认可和道德正当性确认的深层需求，这可能成为被操纵的情感弱点。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在构建进步领袖形象，积累政治资本，推动特定政治议程。",
+      "sub_items": [
+        {
+          "term": "政治品牌塑造",
+          "analysis": "通过聚焦社会正义、反贪腐、保护弱势群体等议题，系统性地塑造自己作为新一代进步政治领袖和‘人民斗士’的公共形象与个人品牌。"
+        },
+        {
+          "term": "权力基础扩张",
+          "analysis": "通过为特定受害者群体发声、联合关键政治盟友、利用社交媒体直接动员公众，旨在扩大和巩固自身的政治影响力和选民基础。"
+        },
+        {
+          "term": "议程设置主导",
+          "analysis": "意图将打击POGO、追究前政府官员责任、通过特定社会法案等议题持续置于国家政治议程的中心，引导舆论和政策走向。"
+        },
+        {
+          "term": "国际形象经营",
+          "analysis": "通过参与国际议题讨论（如联合国税收合作）和批评涉及外国势力的国内问题，塑造负责任的、捍卫主权的国际活动家形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题围绕社会正义、政治问责、国家主权及联盟政治。",
+      "sub_items": [
+        {
+          "term": "社会正义与人权",
+          "analysis": "持续关注毒品战争受害者、妇女权益、儿童权利、LGBTQ+平等、心理健康等议题，强调法律保护与平等。"
+        },
+        {
+          "term": "政治问责与反腐",
+          "analysis": "深入参与对前政府官员、涉嫌欺诈的地方官员（如Alice Guo）、宗教领袖（Quiboloy）的调查与追责，强调透明度与司法公正。"
+        },
+        {
+          "term": "国家主权与安全",
+          "analysis": "强烈反对POGO，并将其与国家安全威胁、外国渗透（特别是与中国相关的怀疑）相关联，主张维护菲律宾主权利益。"
+        },
+        {
+          "term": "联盟与党派政治",
+          "analysis": "明确展示与特定政治人物和团队的紧密联盟，共同推进立法与监督工作，体现了清晰的党内或派系合作策略。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jun 26 13:55:40 +0000 2024",
+      "text": "Ito ang tatlo ko! @kikopangilinan @bamaquino ⁦@ChelDiokno⁩ 😊✊🏼💙 https://t.co/BpQos5k13R",
+      "translation": "这是我的三位伙伴！@kikopangilinan @bamaquino @ChelDiokno 😊✊🏼💙 https://t.co/BpQos5k13R",
+      "stance": "无关",
+      "metrics": {
+        "reply": 295,
+        "retweet": 9528,
+        "like": 43789
+      }
+    },
+    {
+      "created_at": "Wed Aug 14 01:49:00 +0000 2024",
+      "text": "Kasama sina Sen @kikopangilinan, Sen @bamaquino, at Atty @ChelDiokno, we’ll be there 4 u. 😊💞✊🏼 https://t.co/moVPs6tJWA",
+      "translation": "与参议员@kikopangilinan、参议员@bamaquino和律师@ChelDiokno一起，我们将为您服务。😊💞✊🏼 https://t.co/moVPs6tJWA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 160,
+        "retweet": 1814,
+        "like": 8614
+      }
+    },
+    {
+      "created_at": "Tue Sep 10 05:55:10 +0000 2024",
+      "text": "Thanks so much, Noel! Mabuhay ka at ang buong Team Alas Pilipinas! 🙏🏼✊🏼🇵🇭🏐\n\nhttps://t.co/Eom6iu7kME",
+      "translation": "非常感谢，Noel！愿你和整个Alas Pilipinas团队长存！🙏🏼✊🏼🇵🇭🏐 https://t.co/Eom6iu7kME",
+      "stance": "无关",
+      "metrics": {
+        "reply": 120,
+        "retweet": 693,
+        "like": 10746
+      }
+    },
+    {
+      "created_at": "Tue Sep 10 04:34:27 +0000 2024",
+      "text": "Baka naman libre ka next week, @KorekKaJohn! 🙃\n\nhttps://t.co/bS9Y4cqbsi",
+      "translation": "也许你下周有空，@KorekKaJohn！🙃 https://t.co/bS9Y4cqbsi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 298,
+        "retweet": 1935,
+        "like": 15625
+      }
+    },
+    {
+      "created_at": "Tue Oct 29 02:16:47 +0000 2024",
+      "text": "Maraming salamat po sa mga messages of support! They mean a lot. \n\nLet’s extend this support to the victim-survivors of Duterte’s drug war— sa mga lolo, lola, magulang, asawa o partner, anak, kapatid, at kaibigan na naiwan at patuloy na naghahanap pa ng hustisya. \n\nLaban! ✊🏼",
+      "translation": "非常感谢大家的支持信息！它们意义重大。让我们将这份支持延伸到杜特尔特禁毒战争的受害者幸存者——那些被留下的祖父母、父母、配偶或伴侣、子女、兄弟姐妹和朋友，他们仍在寻求正义。战斗！✊🏼",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1238,
+        "retweet": 7774,
+        "like": 39377
+      }
+    },
+    {
+      "created_at": "Tue Mar 19 07:56:15 +0000 2024",
+      "text": "Yes, the arrest order vs Quiboloy is out! Ang pambabastos niya sa Senado ay hindi dapat palampasin. \n\nPara sa mga testigo na naglakas loob na makilahok sa dambuhalang labang ito: THANK YOU! \n\nKayo ang puso ng imbestigasyon na ito, at kasama niyo kami sa Senado hanggang dulo. https://t.co/aKq1mMbmLj",
+      "translation": "是的，针对Quiboloy的逮捕令已经发出！他对参议院的侮辱不应被忽视。对于那些勇敢参与这场巨大斗争的证人：谢谢你们！你们是这次调查的核心，我们在参议院将与你们并肩作战到底。https://t.co/aKq1mMbmLj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 365,
+        "retweet": 7858,
+        "like": 28673
+      }
+    },
+    {
+      "created_at": "Tue Aug 20 10:41:49 +0000 2024",
+      "text": "Budget hearing po ito. It’s not about you. https://t.co/6Qb33Teb5C",
+      "translation": "这是预算听证会。与你无关。https://t.co/6Qb33Teb5C",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1737,
+        "retweet": 16594,
+        "like": 60646
+      }
+    },
+    {
+      "created_at": "Thu May 02 01:54:34 +0000 2024",
+      "text": "Yes, @vicegandako, may hearing po ako today para sa Magna Carta of Children bill. 🙃\n\nhttps://t.co/90vObGKZnZ",
+      "translation": "是的，@vicegandako，我今天有关于《儿童大宪章》法案的听证会。🙃 https://t.co/90vObGKZnZ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 163,
+        "retweet": 1503,
+        "like": 25807
+      }
+    },
+    {
+      "created_at": "Thu Mar 21 10:44:56 +0000 2024",
+      "text": "Stunned to hear about Doc @giasison’s death. \n\nShe was one of our staunchest #MentalHealthAct &amp; #SOGIEEqualityBill allies. She always made time for us, was always so warm, always so generous with her light. \n\nMaraming salamat, Doc Gia. You will be dearly missed. 😢 https://t.co/oYIeUOBQsy",
+      "translation": "听到Doc @giasison去世的消息感到震惊。她是我们《心理健康法案》和《SOGI平等法案》最坚定的盟友之一。她总是为我们腾出时间，总是那么热情，总是慷慨地分享她的光芒。非常感谢，Gia医生。我们会非常想念你。😢 https://t.co/oYIeUOBQsy",
+      "stance": "无关",
+      "metrics": {
+        "reply": 49,
+        "retweet": 926,
+        "like": 8533
+      }
+    },
+    {
+      "created_at": "Thu Jun 27 09:20:23 +0000 2024",
+      "text": "Mayor Alice, walang sikretong hindi nabubunyag.\n \nIndeed, the NBI has confirmed that the fingerprints of Mayor Alice Guo &amp; Guo Hua Ping match. Ibig sabihin, they are the fingerprints of one &amp; the same person. https://t.co/4CvHu5p8LP",
+      "translation": "Alice市长，没有秘密不会被揭露。确实，NBI已确认Alice Guo市长和Guo Hua Ping的指纹匹配。这意味着，它们是同一个人的指纹。https://t.co/4CvHu5p8LP",
+      "stance": "负面",
+      "metrics": {
+        "reply": 628,
+        "retweet": 17518,
+        "like": 61533
+      }
+    },
+    {
+      "created_at": "Sun May 12 01:44:10 +0000 2024",
+      "text": "Haha! Saya ng chikahan, K &amp; Pokwang! Sa uulitin. 🙏🏼  at happy Mother’s Day sa ating mga solo moms!\n\nHappy Mother’s Day din to all the momshies out there! Sana alam niyo kung may birth certificate ang anak niyo. 🙃\n\nhttps://t.co/HZy4nFpIs5",
+      "translation": "哈哈！聊天真开心，K和Pokwang！下次再聊。🙏🏼 祝我们所有的单身妈妈母亲节快乐！也祝所有妈妈们母亲节快乐！希望你们知道孩子的出生证明在哪里。🙃 https://t.co/HZy4nFpIs5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 103,
+        "retweet": 617,
+        "like": 7244
+      }
+    },
+    {
+      "created_at": "Sun Jun 23 01:57:22 +0000 2024",
+      "text": "FAIRY GODMOMSHIE IS BACK! 🧚 Am always here para samahan kayo sa laban tungo sa tunay na pagkakapantay-pantay! Happy #PrideMonth2024, mga mahal! 😊🏳️‍🌈💜 https://t.co/mIchx5ISsv",
+      "translation": "仙女教母回来了！🧚 我永远在这里陪伴你们，为真正的平等而战！祝大家#PrideMonth2024快乐，亲爱的们！😊🏳️‍🌈💜 https://t.co/mIchx5ISsv",
+      "stance": "无关",
+      "metrics": {
+        "reply": 115,
+        "retweet": 4070,
+        "like": 23788
+      }
+    },
+    {
+      "created_at": "Sun Jul 21 06:10:06 +0000 2024",
+      "text": "Thank you for having me, Col. Powell! Looking forward to listening to the episode. 🙏🏼😊\n\nhttps://t.co/roDCfnCqv8",
+      "translation": "谢谢邀请我，Powell上校！期待收听这一集。🙏🏼😊 https://t.co/roDCfnCqv8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 47,
+        "retweet": 162,
+        "like": 1134
+      }
+    },
+    {
+      "created_at": "Sat Aug 17 06:25:09 +0000 2024",
+      "text": "The best people for the job: Sen @kikopangilinan, Sen @bamaquino, at Atty @ChelDiokno! https://t.co/PNM7MnElwM",
+      "translation": "最适合这份工作的人：参议员@kikopangilinan、参议员@bamaquino和律师@ChelDiokno！https://t.co/PNM7MnElwM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 189,
+        "retweet": 1120,
+        "like": 4684
+      }
+    },
+    {
+      "created_at": "Mon Mar 04 09:40:25 +0000 2024",
+      "text": "Salamat kay Sec. Remulla for acting on this matter! Pero mas higit na pasasalamat sa mga naglakas-loob na tumestigo sa Senado.✊🏼\n\nThis is a gift to every woman this Women’s Month. Isang matapang at palabang Buwan ng Kababaihan sa ating lahat! 💜\n\nhttps://t.co/wr6TfVJPdD",
+      "translation": "感谢Remulla部长对此事的处理！但更要感谢那些勇敢在参议院作证的人。✊🏼 这是送给每位女性这个妇女月的礼物。祝大家一个勇敢、战斗的妇女月！💜 https://t.co/wr6TfVJPdD",
+      "stance": "无关",
+      "metrics": {
+        "reply": 106,
+        "retweet": 343,
+        "like": 2213
+      }
+    },
+    {
+      "created_at": "Mon Jul 22 10:56:12 +0000 2024",
+      "text": "‘Bye, POGO! 👋🏼 Tagumpay para sa buong bansa! ✊🏼🇵🇭\n\nhttps://t.co/L4UxKiWf3n",
+      "translation": "再见，POGO！👋🏼 这是整个国家的胜利！✊🏼🇵🇭 https://t.co/L4UxKiWf3n",
+      "stance": "负面",
+      "metrics": {
+        "reply": 1222,
+        "retweet": 18666,
+        "like": 69364
+      }
+    },
+    {
+      "created_at": "Fri May 10 10:23:01 +0000 2024",
+      "text": "Totoo kaya na Chinese talaga si Mayor Alice Guo? 🤨\n\nImportanteng itanong dahil si Mayor, na walang maayos na record dito sa bansa, ang siyang instrumento para makapasok ang isang POGO, na ayon sa intel ay sangkot sa hacking at surveillance activities!\n\nhttps://t.co/2pLFXT3V1Z",
+      "translation": "Alice Guo市长真的是中国人吗？🤨 这个问题很重要，因为这位在本国没有完整记录的市长，是让一个POGO得以进入的工具，而根据情报，该POGO涉及黑客和监视活动！https://t.co/2pLFXT3V1Z",
+      "stance": "负面",
+      "metrics": {
+        "reply": 378,
+        "retweet": 1548,
+        "like": 8088
+      }
+    },
+    {
+      "created_at": "Fri May 03 02:35:26 +0000 2024",
+      "text": "RT @vicegandako: Yazzzzzzzz our hardworking senator!!!! God bless Sen. Risa!",
+      "translation": "RT @vicegandako: 耶耶耶耶耶我们勤劳的参议员！！！！上帝保佑Risa参议员！",
+      "stance": "无关",
+      "metrics": {
+        "reply": 73,
+        "retweet": 1025,
+        "like": 18933
+      }
+    },
+    {
+      "created_at": "Fri Aug 23 03:50:49 +0000 2024",
+      "text": "Wala akong kaibigan na pekeng Pil. 🤨\n\nMag-ingat po sa mga edited photos online na magkasama kami diumano at magkaibigan daw kami. THIS IS FAKE. \n\nAlso calling on Facebk, Twitter, YouTube, &amp; Tiktok to moderate AI content! \n\nWe will get to the bottom of who is circulating this. https://t.co/j9QMIWHCIR",
+      "translation": "我没有假菲律宾朋友。🤨 请小心网上那些编辑过的照片，显示我们在一起据说是朋友。这是假的。同时呼吁Facebook、Twitter、YouTube和TikTok监管AI内容！我们会查清是谁在传播这些。https://t.co/j9QMIWHCIR",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1278,
+        "retweet": 4380,
+        "like": 22181
+      }
+    },
+    {
+      "created_at": "Fri Aug 16 14:38:47 +0000 2024",
+      "text": "I urge the Phil Govt, through the DOF &amp; the DFA,to vote “YES” at the UN HQ in NY to the \n“Chair’s Proposal for Draft Terms of Reference for a United Nations Framework Convention on International Tax Cooperation” since it provides that the Convention must be aligned with States’…",
+      "translation": "我敦促菲律宾政府，通过财政部和外交部，在纽约联合国总部对“主席关于《联合国国际税务合作框架公约》草案职权范围的提案”投“赞成”票，因为它规定该公约必须与各国...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42,
+        "retweet": 57,
+        "like": 387
+      }
+    }
+  ]
+}

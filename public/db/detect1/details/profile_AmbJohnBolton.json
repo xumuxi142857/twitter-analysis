@@ -1,0 +1,466 @@
+{
+  "id": "profile_AmbJohnBolton.json",
+  "_fingerprint": "0fb463ac4c6d937981b90182dc064d2b",
+  "name": "AmbJohnBolton",
+  "username": "AmbJohnBolton",
+  "category": "media",
+  "daily_count": 3.3,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、低宜人性、中等开放性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "表现出强烈的原则性和目标导向性，言论围绕明确的政策目标（如政权更迭、北极安全），强调战略规划和系统性执行，而非临时反应。"
+        },
+        {
+          "term": "宜人性极低",
+          "analysis": "言论充满对抗性和尖锐批评，频繁使用“灾难性错误”、“鲁莽”、“浪费氧气”等贬义词汇评价对手及盟友政策，缺乏妥协或共情表达。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "专注于地缘政治和国家安全等传统强权政治领域，思维框架相对固定（如现实主义、政权更迭必要性），对新范式或和解路径表现出有限兴趣。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "通过媒体专栏和社交媒体积极表达观点，试图影响公共辩论和政策走向，但言论风格更偏向说教和断言，而非寻求广泛社交联结。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出明显的意识形态僵化、救世主情结与零和思维。",
+      "sub_items": [
+        {
+          "term": "意识形态僵化",
+          "analysis": "对“政权更迭”作为解决伊朗、委内瑞拉问题的唯一有效途径持有近乎教条式的信念，排斥谈判等其他路径，视其为徒劳或拖延战术。"
+        },
+        {
+          "term": "救世主情结",
+          "analysis": "强烈主张美国应动用一切力量（包括情报、通讯、强制力）主动塑造他国政治结局，隐含美国负有决定他国政权合法性的使命。"
+        },
+        {
+          "term": "零和思维",
+          "analysis": "将国际关系视为纯粹竞争，例如将美国获取格林兰岛利益与对盟友征收关税直接挂钩，认为合作需以明确服从或利益交换为前提。"
+        },
+        {
+          "term": "缺乏战略耐心",
+          "analysis": "批评“半途而废”的措施，主张迅速、彻底的干预，对政策执行的复杂性和长期性表现出不耐烦，推崇决定性打击。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "显著存在确认偏误、黑天鹅思维与行动偏见。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性关注支持其“政权脆弱”论点的信息（如伊朗政权“非常害怕”），忽视或低估对手的韧性与谈判意愿等反面证据。"
+        },
+        {
+          "term": "黑天鹅思维（过度关注小概率高风险事件）",
+          "analysis": "极度担忧错过“历史性机会”，夸大“无所作为”导致的灾难性后果（如伊朗获得核武、委内瑞拉分裂），以此论证激进行动的紧迫性。"
+        },
+        {
+          "term": "行动偏见",
+          "analysis": "在复杂局势中（如伊朗、委内瑞拉），倾向于将“采取强硬行动”本身视为优于“观望”或“外交”的选项，认为不行动等同于失败或投降。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将国际争端（如格林兰岛问题引发的盟国摩擦）主要归因于特定领导人（特朗普）的个人特质与“古怪言行”，而非结构性或制度性因素。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "言论易引发盟友关系紧张、政策可预测性降低及国内政治孤立。",
+      "sub_items": [
+        {
+          "term": "破坏联盟团结",
+          "analysis": "公开严厉批评总统对关键盟友（如英国、欧盟国家）的关税威胁，削弱了美国外交政策的一致性，可能侵蚀盟友信任，使其言论被视为制造分裂。"
+        },
+        {
+          "term": "政策可预测性风险",
+          "analysis": "持续鼓吹“政权更迭”等极端目标，可能限制美国政府的政策灵活性，使外交谈判空间收窄，并可能刺激对手采取先发制人的对抗行动。"
+        },
+        {
+          "term": "国内政治孤立",
+          "analysis": "其激进主张（如明确主张推翻伊朗政权）可能与政府内部或国会中主张外交途径的派系产生直接冲突，导致其影响力被边缘化。"
+        },
+        {
+          "term": "言论与行动脱节",
+          "analysis": "频繁设定“红线”或提出极高要求（如彻底清除马杜罗政权残余），若政府未跟进，其言论会显得空洞，损害其作为政策倡导者的信誉。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "其强硬意识形态立场在多变的政治现实与盟友关系中存在多处矛盾与风险。",
+      "sub_items": [
+        {
+          "term": "理想与现实脱节",
+          "analysis": "“政权更迭”目标虽清晰，但严重低估其执行难度、长期成本（如国家重建、区域不稳定）及可能引发的反噬（如难民潮、恐怖主义升级）。"
+        },
+        {
+          "term": "双重标准嫌疑",
+          "analysis": "一方面强调与丹麦基于条约在格林兰岛进行安全合作，另一方面又批评政府为此对盟友施压，在“原则性合作”与“交易性胁迫”间立场存在模糊性。"
+        },
+        {
+          "term": "忽视软实力损耗",
+          "analysis": "专注于军事、经济等硬实力手段，其言论中缺乏对价值观吸引力、外交斡旋、国际法理等软实力要素的重视，长期可能损害美国道德权威。"
+        },
+        {
+          "term": "对领导人人身攻击依赖",
+          "analysis": "将复杂政策分歧（如北极战略、伊朗政策）大量归结为特朗普个人的“鲁莽”、“古怪”和“自我设限”，使其批评容易因领导人更替而失效或显得偏颇。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在战略执行力、复杂局势管理及联盟构建方面存在能力短板。",
+      "sub_items": [
+        {
+          "term": "战略执行细节缺失",
+          "analysis": "能提出宏大的终极目标（如“推翻毛拉政权”），但缺乏对过渡阶段治理、避免权力真空、应对区域连锁反应等具体可行路径的详细阐述。"
+        },
+        {
+          "term": "多线对抗管理能力不足",
+          "analysis": "主张同时在伊朗、委内瑞拉采取高压甚至颠覆政策，并关注北极新战线，未充分评估美国资源与注意力过度分散可能带来的全局风险。"
+        },
+        {
+          "term": "联盟构建与维护能力弱",
+          "analysis": "其言论风格（尖锐批评盟友）和主张（单边主义色彩浓厚的政权更迭）不利于凝聚国际共识，反而可能促使盟友疏远或采取独立行动。"
+        },
+        {
+          "term": "危机升级控制力欠缺",
+          "analysis": "推崇“施加威慑”、“令其恐惧”的策略，但未充分论述如何控制由此引发的危机螺旋式升级，存在将局部冲突推向不可控边缘的风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "表现出信念绝对化、情感驱动决策及存在感焦虑。",
+      "sub_items": [
+        {
+          "term": "信念绝对化",
+          "analysis": "将“政权更迭”视为解决特定国际问题的唯一且绝对正确的答案，表现出非黑即白的思维模式，难以接受灰度区域或渐进式解决方案。"
+        },
+        {
+          "term": "情感驱动决策倾向",
+          "analysis": "言论中充满“必须”、“无疑”、“灾难性”等带有强烈情感色彩的词汇，显示其政策主张可能受挫败感、紧迫感等情绪驱动，而非纯粹冷静分析。"
+        },
+        {
+          "term": "存在感与影响力焦虑",
+          "analysis": "频繁通过媒体发声批评现行政策，强调“错失良机”和“无所作为的后果”，透露出对自身理念被边缘化或政策影响力下降的深层焦虑。"
+        },
+        {
+          "term": "历史类比简单化",
+          "analysis": "将1961年猪湾事件简单类比于2026年的委内瑞拉，忽视数十年间国际环境、军事技术、政治形态的巨大差异，可能导致错误的战略预判。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在重塑美国外交的意识形态方向、维护个人政治遗产并影响特定政策圈子。",
+      "sub_items": [
+        {
+          "term": "推动外交政策意识形态转向",
+          "analysis": "根本意图是推动美国外交政策彻底转向以“政权更迭”和“主动塑造”为核心的激进新保守主义或干涉主义路线，扭转其认为的“绥靖”或“犹豫”倾向。"
+        },
+        {
+          "term": "维护与定义个人政治遗产",
+          "analysis": "作为前高官，通过持续尖锐批评，试图将自己塑造为“原则性现实主义”或“强硬派”的标杆，与现任政府的某些政策划清界限，定义自身历史地位。"
+        },
+        {
+          "term": "影响内部政策辩论与人事",
+          "analysis": "公开言论旨在向政府内部施压，争取或动员那些同样主张强硬路线的官僚、议员及智库人士，试图从外部影响内部决策平衡和人事安排。"
+        },
+        {
+          "term": "为未来政治行动铺垫",
+          "analysis": "持续设定政策议程（如伊朗、委内瑞拉、北极），并批评政府“缺乏计划”，可能是在为未来自己或其政治盟友重返决策层或寻求更高职位时，提供现成的政策蓝图。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注美国对外干预、大国竞争与联盟政治三大领域。",
+      "sub_items": [
+        {
+          "term": "政权更迭与对外干预",
+          "analysis": "核心话题。聚焦于伊朗与委内瑞拉，详尽论述政权更迭的必要性、紧迫性及美国可采取的手段（从情报支持到强制行动），是其意识形态的集中体现。"
+        },
+        {
+          "term": "北极地缘战略与大国竞争",
+          "analysis": "重要话题。关注格林兰岛的战略价值与美国-丹麦合作，批评现任政府处理方式损害联盟关系，反映出对北极作为新的大国竞争前沿的重视。"
+        },
+        {
+          "term": "联盟管理与对欧关系",
+          "analysis": "关联话题。通过对特朗普关税政策的批评，介入美国与欧洲盟友的关系讨论，强调传统联盟的价值及维护方式，反对“交易性”外交。"
+        },
+        {
+          "term": "美国总统领导力与决策",
+          "analysis": "贯穿性话题。频繁以特朗普的具体决策（关税、对委行动）为批评标靶，实质是讨论美国总统应如何运用权力、制定连贯战略及维护信誉。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      10
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 15
+    },
+    {
+      "name": "亲情",
+      "value": 0
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Jan 14 22:12:35 +0000 2026",
+      "text": "The U.S. should undoubtedly, vigorously help the Iranian opposition. We will never have peace and security in the Middle East with the ayatollahs in power. https://t.co/iuYwkW2xzL",
+      "translation": "美国无疑应该大力支持伊朗反对派。只要阿亚图拉们掌权，我们在中东就永远不会有和平与安全。https://t.co/iuYwkW2xzL",
+      "stance": "无关",
+      "metrics": {
+        "reply": 833,
+        "retweet": 1149,
+        "like": 4574
+      }
+    },
+    {
+      "created_at": "Wed Jan 14 00:06:00 +0000 2026",
+      "text": "Trump has put himself in a box. He is preemptively surrendering to Maduro’s cronies by allowing them to remain in power.\n\nhttps://t.co/nB0hVVR4L8",
+      "translation": "特朗普把自己逼入了绝境。他允许马杜罗的亲信继续掌权，这是在预先向马杜罗的党羽投降。https://t.co/nB0hVVR4L8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 109,
+        "retweet": 123,
+        "like": 524
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 23:12:00 +0000 2026",
+      "text": "Negotiations with the Iranian regime are a waste of oxygen. Let's give them reason to be intimidated, working with the opposition to pick apart the regime. https://t.co/BTtKCdlwhc",
+      "translation": "与伊朗政权谈判是浪费氧气。让我们给他们一个感到恐惧的理由，与反对派合作来瓦解该政权。https://t.co/BTtKCdlwhc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 526,
+        "retweet": 767,
+        "like": 3056
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 16:58:00 +0000 2026",
+      "text": "Allowing the remnants of Maduro’s deep state regime to retain authority is a catastrophic mistake. Halfway measures didn't work in 1961 in the Bay of Pigs, and they won't work in 2026 Venezuela either.\n\nhttps://t.co/nB0hVVQwVA",
+      "translation": "允许马杜罗深层政权残余保留权力是一个灾难性的错误。1961年猪湾事件中的半吊子措施没有奏效，2026年在委内瑞拉也不会奏效。https://t.co/nB0hVVQwVA",
+      "stance": "无关",
+      "metrics": {
+        "reply": 77,
+        "retweet": 178,
+        "like": 619
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 14:51:00 +0000 2026",
+      "text": "The Administration has significant resources and options in Iran. Instead of asking, \"What should we do tomorrow?\" they should be asking, \"What's our plan? What's the objective?\" And then building out a policy around the goal. https://t.co/IDQK3wc4Bc",
+      "translation": "政府在伊朗拥有重要的资源和选择。他们不应该问'我们明天该做什么？'，而应该问'我们的计划是什么？目标是什么？'然后围绕目标制定政策。https://t.co/IDQK3wc4Bc",
+      "stance": "无关",
+      "metrics": {
+        "reply": 86,
+        "retweet": 145,
+        "like": 575
+      }
+    },
+    {
+      "created_at": "Tue Jan 13 14:05:00 +0000 2026",
+      "text": "The only foundation for longterm peace and security in the Middle East — and beyond — is by overthrowing the ayatollahs. https://t.co/TyZY0caVQi",
+      "translation": "中东乃至更广泛地区长期和平与安全的唯一基础，就是推翻阿亚图拉们。https://t.co/TyZY0caVQi",
+      "stance": "无关",
+      "metrics": {
+        "reply": 449,
+        "retweet": 892,
+        "like": 3245
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 20:31:00 +0000 2026",
+      "text": "Regime change should be the goal in Iran. If this moment is not seized, the regime will continue its nuclear weapons program, its support for international terrorism, and repressing the people of Iran. https://t.co/j5pAdtg3Ik",
+      "translation": "政权更迭应该是伊朗的目标。如果不抓住这个时机，该政权将继续其核武器计划、支持国际恐怖主义并压迫伊朗人民。https://t.co/j5pAdtg3Ik",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1671,
+        "retweet": 2225,
+        "like": 6345
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 15:17:32 +0000 2026",
+      "text": "It will be a blow to Trump's credibility if the United States does nothing in Iran. He drew red lines and the regime crossed them. https://t.co/op7065Vmra",
+      "translation": "如果美国在伊朗无所作为，那将是对特朗普信誉的打击。他划了红线，而该政权越过了红线。https://t.co/op7065Vmra",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2539,
+        "retweet": 3591,
+        "like": 12018
+      }
+    },
+    {
+      "created_at": "Thu Jan 15 13:19:00 +0000 2026",
+      "text": "Negotiating with the Iranian regime is a waste. Tehran saying it wants a meeting with Trump is simply a play for time to avoid kinetic American action.\n\nhttps://t.co/5RHs0fWjz4",
+      "translation": "与伊朗政权谈判是浪费时间。德黑兰说想与特朗普会面，只是为了争取时间以避免美国的军事行动。https://t.co/5RHs0fWjz4",
+      "stance": "无关",
+      "metrics": {
+        "reply": 384,
+        "retweet": 593,
+        "like": 2105
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 15:32:01 +0000 2026",
+      "text": "RT @Telegraph: ✍️ 'If Trump is not stopped from implementing his latest bizarre outburst, there is little doubt relations between Washingto…",
+      "translation": "RT @Telegraph: ✍️ '如果不阻止特朗普实施他最新的怪异言论，华盛顿与哥本哈根之间的关系无疑将受到严重损害…'",
+      "stance": "无关",
+      "metrics": {
+        "reply": 36,
+        "retweet": 72,
+        "like": 199
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 15:29:19 +0000 2026",
+      "text": "Here's the full text of my op ed on Trump's destructive decision to impose tariffs on key European allies over Greenland. @Telegraph",
+      "translation": "以下是我关于特朗普因格陵兰问题对关键欧洲盟友加征关税这一破坏性决定的专栏全文。@Telegraph",
+      "stance": "无关",
+      "metrics": {
+        "reply": 151,
+        "retweet": 221,
+        "like": 848
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 00:32:00 +0000 2026",
+      "text": "Under the 1951 US-Danish “Defense of Greenland Treaty,” the U.S. can build military facilities on Greenland. Danish officials have made it clear they will approve new facilities. The kind of cooperation we saw in WW2 and the Cold War is possible again.\n\nhttps://t.co/SoYsSWff03",
+      "translation": "根据1951年美丹《格陵兰防御条约》，美国可以在格陵兰建设军事设施。丹麦官员已明确表示将批准新设施。我们在二战和冷战时期看到的那种合作可能再次实现。https://t.co/SoYsSWff03",
+      "stance": "无关",
+      "metrics": {
+        "reply": 58,
+        "retweet": 170,
+        "like": 751
+      }
+    },
+    {
+      "created_at": "Sun Jan 18 00:05:00 +0000 2026",
+      "text": "I have long said that a secure Greenland is undoubtedly critical for the West. But Trump’s latest bizarre outburst threatening tariffs on our allies in return for Greenland makes security and stability in the Arctic much harder to accomplish.",
+      "translation": "我早就说过，一个安全的格陵兰无疑对西方至关重要。但特朗普最新的怪异言论，威胁要对我们的盟友加征关税以换取格陵兰，使得北极地区的安全与稳定更加难以实现。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 382,
+        "retweet": 512,
+        "like": 4792
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 23:44:03 +0000 2026",
+      "text": "Donald Trump’s tariffs against the U.K. and other allies for their position regarding Greenland is without a doubt his most reckless assertion as President to date.\n\nhttps://t.co/SoYsSWff03",
+      "translation": "唐纳德·特朗普因英国及其他盟友在格陵兰问题上的立场而对它们加征关税，无疑是他迄今为止作为总统最鲁莽的断言。https://t.co/SoYsSWff03",
+      "stance": "无关",
+      "metrics": {
+        "reply": 238,
+        "retweet": 669,
+        "like": 3029
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 13:55:30 +0000 2026",
+      "text": "The Iranian regime is desperately afraid that the United States is about to strike... They saw us grab Maduro. They should be worried. The regime is very weak, but the U.S. needs to have a policy that says our objective is regime change. https://t.co/MfDrMw2apS",
+      "translation": "伊朗政权非常害怕美国即将发动打击……他们看到我们抓住了马杜罗。他们应该感到担忧。该政权非常虚弱，但美国需要制定一项政策，明确我们的目标是政权更迭。https://t.co/MfDrMw2apS",
+      "stance": "无关",
+      "metrics": {
+        "reply": 284,
+        "retweet": 390,
+        "like": 1662
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 00:37:00 +0000 2026",
+      "text": "The U.S. has the coercive power to help Venezuela dump the entire Maduro regime, but we won't for much longer. If the White House had acted against the entire regime while grabbing Maduro, things would be in a much different position now. https://t.co/L3k1iInNmB",
+      "translation": "美国拥有强制力来帮助委内瑞拉推翻整个马杜罗政权，但我们不会等太久。如果白宫在抓住马杜罗的同时对整个政权采取行动，现在的情况就会大不相同。https://t.co/L3k1iInNmB",
+      "stance": "无关",
+      "metrics": {
+        "reply": 73,
+        "retweet": 76,
+        "like": 388
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 15:31:07 +0000 2026",
+      "text": "The United States does not need Greenland psychologically. The way the White House has gone about these Greenland talks proves that this is not about American national security. This is about Donald Trump.\n\nhttps://t.co/6tnBhdBxTe",
+      "translation": "美国在心理上并不需要格陵兰。白宫处理这些格陵兰谈判的方式证明，这无关美国国家安全。这关乎唐纳德·特朗普。https://t.co/6tnBhdBxTe",
+      "stance": "无关",
+      "metrics": {
+        "reply": 273,
+        "retweet": 579,
+        "like": 2343
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 15:29:26 +0000 2026",
+      "text": "RT @PTI_News: VIDEO | On US-imposed tariffs on countries, former US NSA John Bolton says, “I think, from the US point of view, the whole ta…",
+      "translation": "RT @PTI_News: 视频 | 关于美国对各国加征关税，前美国国家安全顾问约翰·博尔顿表示：'我认为，从美国的角度来看，整个关税问题……'",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10,
+        "retweet": 32,
+        "like": 171
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 21:53:08 +0000 2026",
+      "text": "There is a huge risk of two alternative governments being set up in Venezuela, as we saw in 2018 and 2019, and losing the opportunity to oust not only Maduro, but the whole regime. https://t.co/W1N0C3bPpH",
+      "translation": "委内瑞拉存在建立两个对立政府的巨大风险，正如我们在2018年和2019年所见，并且可能失去不仅推翻马杜罗，而且推翻整个政权的机会。https://t.co/W1N0C3bPpH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 34,
+        "retweet": 47,
+        "like": 228
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 15:03:17 +0000 2026",
+      "text": "The U.S. does not need to put boots on the ground in order to help the opposition in Iran. There are intelligence and communications resources we can offer at this time.\n\nhttps://t.co/k4QK6UMbNN",
+      "translation": "美国不需要派遣地面部队来帮助伊朗的反对派。我们现在可以提供情报和通信资源。https://t.co/k4QK6UMbNN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 355,
+        "retweet": 392,
+        "like": 1577
+      }
+    }
+  ]
+}

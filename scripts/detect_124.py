@@ -8,7 +8,7 @@ import traceback
 
 # ================= 配置区域 =================
 # 🎯 目标名称
-TARGET_NAME = "CNN" 
+TARGET_NAME = "SecBlinken" 
 
 API_KEY = "sk-7ba052d40efe48ae990141e577d952d1"
 API_URL = "https://api.deepseek.com/chat/completions"
@@ -123,9 +123,9 @@ def batch_analyze_tweets(tweets):
 
 def generate_deep_report(name, raw_tweets):
     """
-    生成 9 维报告 + 矩阵 + 饼图
+    生成 9 维报告 (使用 sub_items 结构) + 互斥矩阵 + 饼图
     """
-    # ... (保持原有的采样逻辑不变，为了节省篇幅，这里复用之前的采样代码)
+    # --- 保持原有的采样逻辑不变 (省略以节省篇幅) ---
     def safe_parse_time(t):
         try: return parser.parse(t.get('created_at', ''))
         except: return datetime.min
@@ -151,36 +151,76 @@ def generate_deep_report(name, raw_tweets):
         if len(clean_text) > 5:
             input_text += f"[{idx+1}] {clean_text}\n"
 
+    # ================= 核心修改区域：Prompt =================
     prompt = f"""
     你是一名高级情报分析专家。目标对象是："{name}"。
-    言论样本：{input_text}
+    言论样本：
+    {input_text}
     
-    任务：请生成《人物深度侧写与脆弱点研判报告》及配套图表数据。
+    请基于样本生成《人物深度侧写与脆弱点研判报告》。
 
-    【任务一：9维报告】
-    1. 大五人格 2. 人格缺陷 3. 认知倾向 4. 行为层面认知脆弱点 5. 立场层面认知脆弱点 
-    6. 能力层面认知脆弱点 7. 心智层面认知脆弱点 8. 隐藏意图 9. 领域话题
-    *要求：禁止引用编号，外语附中文翻译。*
+    【任务一：9维深度报告】
+    分析维度：
+    1. 大五人格 
+    2. 人格缺陷 
+    3. 认知倾向
+    4. 行为层面脆弱点 
+    5. 立场层面脆弱点
+    6. 能力层面脆弱点
+    7. 心智层面脆弱点 
+    8. 隐藏意图 
+    9. 领域话题 
 
-    【任务二：对华立场矩阵】
-    X轴: 0=负面, 1=中立, 2=正面; Y轴: 0=政治, 1=军事, 2=经济, 3=文化; Value: 0-10
-    
-    【任务三：影响力类型】
-    权威, 同伴, 亲情 (总和100)
+    **格式要求**：
+    每个维度必须包含 `summary` (一句话概述) 和 `sub_items` (子项列表)。
+    在 `sub_items` 中，将该维度拆解为 3-5 个具体的关键点。
+    - `term`: 关键点名称（例如：“开放性极高”、“救世主情结”、“技术乐观主义”）。
+    - `analysis`: 针对该点的详细分析和证据。**不要出现（样本X）**这样的字眼，直接给出分析内容。
 
-    输出 JSON：
+    【任务二：对华立场矩阵 (Stance Matrix)】
+    **强制约束：必须且只能生成 4 个坐标点，分别对应 Y 轴的 4 个领域。**
+    坐标格式：[X, Y, Value]
+    - Y轴 (领域): 0=政治, 1=军事, 2=经济, 3=文化. **(每个 Y 值必须出现一次且仅一次)**
+    - X轴 (立场): 0=反华/负面, 1=中立/无感, 2=亲华/正面. (根据该人物在该领域的实际表现判断)
+    - Value (强度): 1-10 (该领域言论的密度和情绪强烈程度)
+
+    【任务三：影响力类型 (Influence Type)】
+    分析其影响力构成，总和必须为 100。
+    类型：权威 (Authority), 同伴 (Peer), 亲情/感性 (Affection).
+
+    【输出 JSON 结构示例】
     {{
-        "report": [ {{ "dimension": "1. 大五人格", "summary": "...", "detail": "..." }}, ... ],
-        "stance_matrix": [[0,0,8]...],
-        "influence_type": [{{ "name": "权威", "value": 70 }}...]
+        "report": [
+            {{
+                "dimension": "1. 大五人格",
+                "summary": "高开放性、高尽责性...",
+                "sub_items": [
+                    {{ "term": "开放性极高", "analysis": "频繁分享前沿科技与哲学思考..." }},
+                    {{ "term": "宜人性低", "analysis": "常转发争议性内容，不避讳冲突..." }}
+                ]
+            }},
+            ...
+        ],
+        "stance_matrix": [
+            [0, 0, 8], // 政治领域：负面，强度8
+            [1, 1, 5], // 军事领域：中立，强度5
+            [2, 2, 9], // 经济领域：正面，强度9
+            [0, 3, 6]  // 文化领域：负面，强度6
+        ],
+        "influence_type": [
+            {{ "name": "权威", "value": 60 }},
+            {{ "name": "同伴", "value": 30 }},
+            {{ "name": "亲情", "value": 10 }}
+        ]
     }}
     """
+    # =======================================================
 
     try:
         response = requests.post(API_URL, json={
             "model": MODEL_NAME,
             "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.3,
+            "temperature": 0.2, # 降低温度以保证格式遵循
             "response_format": {"type": "json_object"}
         }, headers={"Authorization": f"Bearer {API_KEY}"}, timeout=120)
         
@@ -188,8 +228,12 @@ def generate_deep_report(name, raw_tweets):
             content = response.json()['choices'][0]['message']['content']
             content = content.replace('```json', '').replace('```', '').strip()
             try: return json.loads(content)
-            except: return None
-    except: pass
+            except: 
+                print("JSON 解析失败，原始内容:", content[:100])
+                return None
+    except Exception as e: 
+        print(f"API Error: {e}")
+        pass
     return None
 
 def update_list_json(region, summary_obj):

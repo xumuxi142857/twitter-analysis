@@ -1,0 +1,442 @@
+{
+  "id": "profile_gmanews.json",
+  "_fingerprint": "88b88cde6c4e7d1630b19c7ef61823b9",
+  "name": "gmanews",
+  "username": "gmanews",
+  "category": "politician",
+  "daily_count": 78.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、中等开放性、中等宜人性、中等神经质、中等外倾性。",
+      "sub_items": [
+        {
+          "term": "尽责性高",
+          "analysis": "内容发布遵循严格的时间线和格式规范，注重事实核查与官方信源引用，表现出对新闻专业准则的坚守。"
+        },
+        {
+          "term": "开放性中等",
+          "analysis": "报道范围覆盖政治、经济、社会、体育、娱乐等多个领域，但对国际议题（如中国相关）的报道深度和广度有限，主要聚焦国内事务。"
+        },
+        {
+          "term": "宜人性中等",
+          "analysis": "报道内容以中立陈述事实为主，但在涉及政府官员负面新闻（如腐败、渎职）时，会直接引用指控方言论，展现出一定的监督立场而非完全调和。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "报道情绪总体平稳，但在涉及犯罪、悲剧（如儿童死亡、警察抢劫）或政治冲突（如ICC案件、弹劾程序）时，会使用更具情感色彩的词汇，显示对特定事件的敏感性。"
+        },
+        {
+          "term": "外倾性中等",
+          "analysis": "主要通过转发和整合其他记者（如@tinapperez, @_iancruz）、官方机构及旗下子账号（如@gmasportsph）的内容来构建报道网络，自身原创深度分析较少。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在潜在的权威依赖与风险规避倾向。",
+      "sub_items": [
+        {
+          "term": "机构依赖症",
+          "analysis": "报道高度依赖官方声明、政府机构行动（如DPWH、NAPOLCOM、PITF）和法律程序（如ICC、最高法院），缺乏对底层信源或非官方视角的独立挖掘。"
+        },
+        {
+          "term": "冲突回避（选择性）",
+          "analysis": "在报道国内政治争议（如弹劾、腐败调查）时，主要通过转述各方声明呈现，避免直接发表社论式评论，但在涉及明确违法事件（如警察抢劫）时立场鲜明。"
+        },
+        {
+          "term": "叙事碎片化",
+          "analysis": "内容以短平快的新闻快讯和转发为主，缺乏对复杂议题（如基础设施项目腐败的系统性原因、ICC案件的国际法背景）的连贯深度报道，可能导致公众理解片面。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出权威偏见与可得性启发。",
+      "sub_items": [
+        {
+          "term": "权威偏见",
+          "analysis": "优先采用政府官员、执法机构、委员会调查结果等权威信源的信息，赋予其更高可信度，可能忽视民间或反对派视角。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "报道焦点容易被近期高频事件（如警察丑闻、DPWH反腐、ICC进展）主导，可能放大这些议题的公众感知，而忽略其他长期但低曝光度的问题。"
+        },
+        {
+          "term": "框架效应",
+          "analysis": "通过选择特定关键词（如“sinibak sa puwesto”、“nanghulidap”、“anomalyang project”）为事件定性，引导读者朝向问责、执法或腐败的认知框架。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "信源过度集中与互动模式单一。",
+      "sub_items": [
+        {
+          "term": "信源网络狭窄",
+          "analysis": "核心信源严重依赖GMA内部记者群、少数政府官员及官方机构，缺乏多元化、特别是国际或批判性信源的引入，易受信息茧房影响。"
+        },
+        {
+          "term": "内容生产被动",
+          "analysis": "大量内容为转发或整合现有报道，原创深度调查、独家访谈或数据分析类内容稀缺，在突发新闻竞争中可能缺乏差异化优势。"
+        },
+        {
+          "term": "公众互动有限",
+          "analysis": "样本中未见与普通读者的直接问答、民意征集或深度互动，主要扮演信息广播角色，可能削弱受众粘性与信任构建。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "在国内治理议题上存在监督者与体制维护者的角色张力。",
+      "sub_items": [
+        {
+          "term": "反腐立场与体制忠诚的平衡",
+          "analysis": "积极报道政府内部反腐行动（如DPWH开除官员），既彰显监督功能，也体现对现行体制自我纠错能力的信任，但若反腐行动被质疑为选择性，此立场可能遭受批评。"
+        },
+        {
+          "term": "对国际司法机构的矛盾态度",
+          "analysis": "报道ICC对杜特尔特的指控时，同时呈现控辩双方立场，未明确表态支持或反对ICC管辖权，反映出在主权与国际问责之间的谨慎中立，可能两面不讨好。"
+        },
+        {
+          "term": "对行政效率的推崇",
+          "analysis": "正面报道总统下令加快项目进度、军队晋升仪式等，展现对行政与军事系统效率的关注，但若相关项目后续出现问题，此前的正面报道可能成为反噬点。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "国际议题分析能力与数据驱动报道能力显不足。",
+      "sub_items": [
+        {
+          "term": "国际议题深度欠缺",
+          "analysis": "对ICC等涉及国际法、外交的复杂议题，报道停留在程序性更新，缺乏背景分析、专家解读或地缘政治影响评估，分析能力受限。"
+        },
+        {
+          "term": "数据新闻能力薄弱",
+          "analysis": "报道多基于事件描述和声明引用，缺乏利用数据可视化、统计分析来揭示经济趋势（如银行信贷）、犯罪模式或项目审计结果的能力。"
+        },
+        {
+          "term": "跨领域整合不足",
+          "analysis": "政治、经济、体育、娱乐等内容并列发布，但很少进行跨领域关联分析（如体育外交、娱乐产业经济影响），报道呈现割裂状态。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在任务过载与情感耗竭的风险。",
+      "sub_items": [
+        {
+          "term": "信息过载与筛选压力",
+          "analysis": "需持续跟踪国内政治、犯罪、经济、体育等多线快讯，在高频发布压力下，信息筛选和核实可能简化，增加误报或片面报道风险。"
+        },
+        {
+          "term": "情感卷入风险",
+          "analysis": "长期报道犯罪悲剧（如儿童死亡、警察抢劫受害者）、家庭惨剧等负面社会新闻，可能产生替代性创伤或情感麻木，影响报道的客观平衡。"
+        },
+        {
+          "term": "认知固化",
+          "analysis": "长期依赖固定信源和报道模式（官方声明+事件简述），可能形成路径依赖，降低对新兴社会议题、非传统信源或颠覆性叙事的好奇心与探索欲。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在巩固其作为主流权威媒体在国内事务中的议程设置与信任锚点地位。",
+      "sub_items": [
+        {
+          "term": "塑造国内事务权威解释者形象",
+          "analysis": "通过快速、密集发布覆盖政府行动、法律程序、社会事件的新闻，试图成为公众获取国内要闻的首选信源，建立信息权威。"
+        },
+        {
+          "term": "平衡监督与体制维护的双重角色",
+          "analysis": "在报道腐败、渎职时展现监督性，同时积极报道政府反腐、行政效率提升，意图塑造一个既批判又建设性的媒体形象，以维持与权力机构的可持续关系。"
+        },
+        {
+          "term": "通过非政治内容维持广泛受众基础",
+          "analysis": "大量转发体育赛事、娱乐八卦、生活资讯，意在吸引并留住对硬新闻兴趣较低的受众，扩大用户基数，提升整体影响力与商业价值。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦于菲律宾国内政治司法、社会治安、行政经济及体育娱乐。",
+      "sub_items": [
+        {
+          "term": "国内政治与司法进程",
+          "analysis": "高频报道涉及前总统杜特尔特的ICC案件、针对政府官员的弹劾程序、最高法院裁决、反腐败调查（如DPWH、PITF），这是其核心硬新闻领域。"
+        },
+        {
+          "term": "社会治安与执法丑闻",
+          "analysis": "密切关注警察涉抢劫案、谋杀案、官员渎职等犯罪事件，强调NAPOLCOM等监管机构的介入，反映对法治和社会秩序的重视。"
+        },
+        {
+          "term": "行政效率与经济发展",
+          "analysis": "报道总统项目督办、基础设施建设、银行信贷政策、公私合作（如MYEG与PEZA）、旅游业成本等，关注政府经济治理与商业动态。"
+        },
+        {
+          "term": "体育赛事与娱乐新闻",
+          "analysis": "通过转发大量大学体育联赛（NCAA排球）、职业网球赛（菲律宾女子公开赛）、娱乐明星访谈等内容，吸引大众受众，平衡新闻频道的严肃性。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      3
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      1
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Fri Jan 30 11:31:20 +0000 2026",
+      "text": "Inaapela ng kampo ni dating Pangulong Rodrigo Duterte ang naunang pagtanggi ng ICC ng hiling niyang interim release o ‘yung pansamantalang paglaya.\n\nSamantala, tiwala naman ang kampo ng mga biktima na tuloy na tuloy na ang confirmation of charges kay Duterte sa Pebrero. https://t.co/SGxLA84tkj",
+      "translation": "前总统罗德里戈·杜特尔特的阵营对国际刑事法院（ICC）先前拒绝其临时释放请求表示不满。与此同时，受害者阵营对杜特尔特在二月的指控确认程序将继续进行充满信心。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:30:00 +0000 2026",
+      "text": "MYEG, PEZA renew partnership for locators' digital payment options\n\nhttps://t.co/DXNAO21Ho5",
+      "translation": "MYEG与PEZA续签合作伙伴关系，为入驻企业提供数字支付选项。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:28:46 +0000 2026",
+      "text": "RT @Isa_Umali: Batangas Rep. Leandro Leviste: \"I asked for the travel authority upon the request of representatives of the administration w…",
+      "translation": "转发 @Isa_Umali：八打雁省众议员莱安德罗·莱维斯特：“应政府代表的要求，我申请了旅行许可……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 3,
+        "like": 4
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:28:34 +0000 2026",
+      "text": "RT @gmasportsph: #NCAASeason101 Men's Volleyball — Match Results 🏐\n\nDLS-CSB def. SSC-R\nCSJL def. LPU https://t.co/R3ccmnUfMP",
+      "translation": "转发 @gmasportsph：#NCAASeason101 男子排球——比赛结果 🏐 DLS-CSB 战胜 SSC-R，CSJL 战胜 LPU。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:18:41 +0000 2026",
+      "text": "RT @gmasportsph: Alexandra “Alex” Eala earned 27 WTA ranking points and around P200,000 from her run in the inaugural Philippine Women's Op…",
+      "translation": "转发 @gmasportsph：亚历山德拉·“亚历克斯”·埃拉在首届菲律宾女子公开赛中获得27个WTA排名积分和约20万比索奖金。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 4,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:15:06 +0000 2026",
+      "text": "Sinibak sa puwesto ni DPWH Sec. Vince Dizon ang tatlong opisyal ng Pampanga 2nd District Engineering Office dahil sa panghihingi umano ng porsyento sa mga kontrata ng ahensiya. | via Luisito Santos, DZBB/GMA Integrated News\n\nAyon kay Dizon, epektibo ngayong araw, Jan. 30, “they https://t.co/tzT6hRYKQn",
+      "translation": "公共工程与公路部（DPWH）部长文斯·迪松解雇了邦板牙省第二区工程办公室的三名官员，据称他们向该机构的合同索取回扣。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:15:00 +0000 2026",
+      "text": "Most PH banks to keep credit standards steady in Q1 2026, BSP survey shows\n\nhttps://t.co/ctNhK6B1xK",
+      "translation": "菲律宾央行（BSP）调查显示，大多数菲律宾银行将在2026年第一季度保持信贷标准稳定。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:10:35 +0000 2026",
+      "text": "Ingatan Mo po kami sa lahat ng oras, Ama. 🙏 https://t.co/ivZz7mTw0x",
+      "translation": "天父，请时刻保佑我们。🙏",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 5,
+        "like": 117
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:09:24 +0000 2026",
+      "text": "RT @tinapperez: @gmanews @gmanewsbreaking Leviste on the \"representatives of the administration:\" Several high-level representatives of the…",
+      "translation": "转发 @tinapperez：@gmanews @gmanewsbreaking 莱维斯特关于“政府代表”：几位政府高层代表……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:06:40 +0000 2026",
+      "text": "RT @tinapperez: @gmanews @gmanewsbreaking Leviste: I will be present at any opportunity that Congress gives me to speak on any issue, as lo…",
+      "translation": "转发 @tinapperez：@gmanews @gmanewsbreaking 莱维斯特：只要国会给我机会就任何议题发言，我都会出席……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:06:38 +0000 2026",
+      "text": "RT @tinapperez: Leviste: ...and stop releasing evidence linking government officials to anomalous DPWH projects—but this does not mean that…",
+      "translation": "转发 @tinapperez：莱维斯特：……并停止公布将政府官员与异常的DPWH项目联系起来的证据——但这并不意味着……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:06:37 +0000 2026",
+      "text": "RT @tinapperez: Batangas Rep Leandro Leviste on reports he requested for authority to travel abroad: I asked for the travel authority upon…",
+      "translation": "转发 @tinapperez：八打雁省众议员莱安德罗·莱维斯特就有关他申请出国旅行许可的报道表示：应政府代表的要求，我申请了旅行许可……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 2,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:05:00 +0000 2026",
+      "text": "Marcos orders progress reports every 2 weeks to fast-track priority projects\n\nhttps://t.co/aKcgRyw1wP",
+      "translation": "马科斯下令每两周提交进度报告，以加快优先项目的推进。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:02:40 +0000 2026",
+      "text": "Armed Forces of the Philippines (AFP) chief General Romeo Brawner Jr. on Friday led the ceremonial donning of ranks on six newly promoted generals and senior officers.\n\nhttps://t.co/bl2icjg5Tc",
+      "translation": "菲律宾武装部队（AFP）总参谋长罗密欧·布劳纳将军周五主持了六名新晋升的将军和高级军官的授衔仪式。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:00:18 +0000 2026",
+      "text": "Sinampahan na ng reklamong three counts of robbery ang anim na pulis-Maynila na umano’y nangholdap at nanakit ng ilang taga-Makati.\n\nNadagdagan pa ang mga nagsabing nabiktima rin sila ng mga pulis. https://t.co/8eeShHTiZB",
+      "translation": "六名据称在马卡蒂抢劫并伤害数人的马尼拉警察已被指控三项抢劫罪。更多受害者表示他们也遭到了这些警察的侵害。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 1
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 11:00:01 +0000 2026",
+      "text": "Labis ang pagdadalamhati at hindi matanggap ng amang pulis ang sinapit ng 8-anyos niyang anak na nakitang patay sa Victoria, Tarlac, na si John Ysmael. Bago nito, unang nakita ang bangkay ng ina ng bata na si Police Senior Master Sergeant Diane Marie Mollenido, sa Bulacan.",
+      "translation": "一名警察父亲极度悲痛，无法接受他8岁儿子约翰·伊斯梅尔在塔拉克省维多利亚市被发现死亡的事实。此前，孩子的母亲、高级警长黛安·玛丽·莫莱尼多在布拉干省被发现身亡。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 10:57:29 +0000 2026",
+      "text": "TINGNAN: Isinagawa ng Independent Commission on Infrastructure-Project Investigation Task Force (PITF) ang kanilang pagpupulong ngayong Biyernes, Jan. 30, 2026.\n\nAng PITF ay isang inter-agency task force na nagsasagawa ng imbestigasyon ng mga maanomalyang flood control project, https://t.co/UCiGGpJj4P",
+      "translation": "请看：独立基础设施项目调查特别工作组（PITF）于2026年1月30日星期五举行了会议。PITF是一个跨机构工作组，负责调查有问题的防洪项目。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 2
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 10:50:56 +0000 2026",
+      "text": "RT @tinapperez: @gmanews @gmanewsbreaking Zamora: I believe that the resolution has no effect on the impeachment of the president… Iba po y…",
+      "translation": "转发 @tinapperez：@gmanews @gmanewsbreaking 萨莫拉：我认为该决议对总统的弹劾没有影响……那是另一回事……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 1,
+        "like": 0
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 10:45:00 +0000 2026",
+      "text": "Krystel Go on real life relationship with 'I'mPerfect' co-star Earl Amaba: 'Clingy siya sa akin'\n\nhttps://t.co/VP0wk3gXmm",
+      "translation": "克丽丝特尔·戈谈与《I'mPerfect》搭档厄尔·阿马巴的真实关系：“他对我很黏人”。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 0,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Fri Jan 30 10:43:45 +0000 2026",
+      "text": "RT @tinapperez: @gmanews @gmanewsbreaking Zamora: We followed the rules that were existing at that time… We will try to harmonize the resol…",
+      "translation": "转发 @tinapperez：@gmanews @gmanewsbreaking 萨莫拉：我们遵循了当时存在的规则……我们将努力协调该决议……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 2,
+        "like": 0
+      }
+    }
+  ]
+}

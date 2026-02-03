@@ -307,7 +307,7 @@ const fetchList = async () => {
   listLoading.value = true;
   selectedTarget.value = null;
   try {
-    const res = await axios.get('/db/detect/list.json?t=' + Date.now());
+    const res = await axios.get('/db/detect2/list.json?t=' + Date.now());
     if (res.data) dbList.value = res.data;
   } catch (e) { console.error(e); } 
   finally { listLoading.value = false; }
@@ -324,7 +324,7 @@ const handleSelect = async (summary: TargetSummary) => {
 
   detailLoading.value = true;
   try {
-    const res = await axios.get(`/db/detect/details/${summary.id}?t=` + Date.now());
+    const res = await axios.get(`/db/detect2/details/${summary.id}?t=` + Date.now());
     if (res.data) selectedTarget.value = { ...summary, ...res.data };
   } catch (e) { console.error(e); }
   finally { detailLoading.value = false; }

@@ -1,0 +1,470 @@
+{
+  "id": "profile_FoxNews.json",
+  "_fingerprint": "b05db89df691d3180e010f50175cd79b",
+  "name": "FoxNews",
+  "username": "FoxNews",
+  "category": "media",
+  "daily_count": 33.3,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、低宜人性、中等开放性、中等外倾性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "内容强调秩序、规则、法律执行和机构权威，如报道执法行动、边境管控、司法判决等，体现对结构性和责任感的重视。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "言论常具对抗性，突出冲突、犯罪、政治斗争和意识形态对立，如批评政治对手、强调威胁、报道争议事件，缺乏温和或妥协基调。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "覆盖话题广泛，从政治、安全到社会奇闻，但视角通常固定于保守框架内，对新异或进步观点持谨慎或批判态度，如对某些社会议题的保守立场。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "积极报道公众人物、事件和互动，如政治活动、救援行动、公众反应，但情感表达偏向正式或强化特定叙事，而非纯粹社交活跃。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "内容常聚焦危机、威胁和负面事件，如犯罪、火灾、冲突，但通过强调解决方案、英雄主义或权威行动来平衡焦虑感，体现一定情绪稳定性。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出偏执倾向、道德优越感、煽动性和选择性共情。",
+      "sub_items": [
+        {
+          "term": "偏执倾向",
+          "analysis": "频繁强调外部威胁，如犯罪、恐怖主义、移民问题，并常将事件与更大阴谋或意识形态对立关联，营造不安全感。"
+        },
+        {
+          "term": "道德优越感",
+          "analysis": "通过报道英雄行为、执法成功或批判对手，暗示自身或所支持方代表正义、传统价值，而对立面则腐败、软弱或危险。"
+        },
+        {
+          "term": "煽动性",
+          "analysis": "使用情绪化语言、夸张标题和争议话题来激发受众反应，如“WATERFRONT INFERNO”、“UNLUCKY”，旨在强化特定政治或社会观点。"
+        },
+        {
+          "term": "选择性共情",
+          "analysis": "对某些群体如执法人员、特定政治支持者或受害者展现同情，但对其他群体如移民、政治对手则强调其负面行为，共情分布不均。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在确认偏误、群体内偏袒、负面偏见和基本归因错误。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性报道事件以强化既有保守立场，如突出移民犯罪、执法英雄主义、政治对手失误，忽略或淡化反例，巩固受众预存信念。"
+        },
+        {
+          "term": "群体内偏袒",
+          "analysis": "明显偏向特定政治群体，如积极报道特朗普及其盟友、共和党人物、保守派言论，同时批评民主党、自由派政策或人物。"
+        },
+        {
+          "term": "负面偏见",
+          "analysis": "过度关注负面事件，如犯罪、事故、冲突、政治丑闻，即使报道正面事件也常置于危机或对抗背景下，强化世界危险叙事。"
+        },
+        {
+          "term": "基本归因错误",
+          "analysis": "将负面事件归因于个人或特定群体特质，如移民问题归咎于个人非法行为，而较少分析系统因素；对正面事件则归功于权威或个人美德。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "易受情绪驱动、依赖权威信源、内容同质化、反应模式可预测。",
+      "sub_items": [
+        {
+          "term": "情绪驱动",
+          "analysis": "报道常基于恐惧、愤怒或自豪等情绪，如强调威胁、英雄拯救、政治胜利，可能削弱理性分析，导致过度反应或简化复杂议题。"
+        },
+        {
+          "term": "权威依赖",
+          "analysis": "高度依赖官方信源，如政府机构、执法部门、政治人物言论，缺乏独立调查或多元视角，易受官方叙事操控或信息滞后影响。"
+        },
+        {
+          "term": "内容同质化",
+          "analysis": "话题重复集中于犯罪、移民、政治斗争、保守价值观，缺乏创新或深度多元报道，可能使受众疲劳或忽视其他重要议题。"
+        },
+        {
+          "term": "可预测反应",
+          "analysis": "对特定事件反应模式固定，如移民问题强调执法、政治事件偏向保守立场，易被对手预判并针对性反击，降低策略灵活性。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "意识形态僵化、政治极化、文化保守排外、双重标准。",
+      "sub_items": [
+        {
+          "term": "意识形态僵化",
+          "analysis": "坚守保守主义框架，对进步政策如移民宽松、社会平等持批判态度，难以适应社会变迁，可能失去中间派或年轻受众。"
+        },
+        {
+          "term": "政治极化",
+          "analysis": "深度卷入美国两党斗争，明确支持共和党、特朗普阵营，攻击民主党，这种极化立场易引发对立反弹，削弱跨党派影响力。"
+        },
+        {
+          "term": "文化保守排外",
+          "analysis": "强调传统美国价值观、基督教文化，对多元文化、移民文化持警惕或负面态度，可能被视为排外，引发文化群体反感。"
+        },
+        {
+          "term": "双重标准",
+          "analysis": "对盟友和对手应用不同道德或法律标准，如宽容己方政治人物争议，严苛批评对手同类行为，损害公信力，易被指控虚伪。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "事实核查不足、深度分析缺乏、信源单一、创新乏力。",
+      "sub_items": [
+        {
+          "term": "事实核查不足",
+          "analysis": "报道常基于初步信息或单方说法，如执法通报、政治声明，缺乏后续核实或平衡报道，易传播不实或片面信息，损害可信度。"
+        },
+        {
+          "term": "深度分析缺乏",
+          "analysis": "内容多为事件描述或表面评论，如犯罪报道、政治动态，缺少社会经济、历史背景等深度分析，难以提供实质性见解。"
+        },
+        {
+          "term": "信源单一",
+          "analysis": "过度依赖官方或保守派信源，如政府机构、共和党人物，忽视学术界、民间组织或国际视角，导致报道狭隘，易受信源偏见影响。"
+        },
+        {
+          "term": "创新乏力",
+          "analysis": "报道形式和话题重复传统模式，如突发新闻、政治评论，缺乏新媒体创新或跨领域探索，可能落后于媒体发展趋势。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "危机感过强、黑白思维、自尊依赖外部认可、适应性不足。",
+      "sub_items": [
+        {
+          "term": "危机感过强",
+          "analysis": "世界观倾向于强调危机和衰落，如犯罪上升、边境失控、文化威胁，这种悲观心态可能扭曲风险评估，导致过度防御或决策失误。"
+        },
+        {
+          "term": "黑白思维",
+          "analysis": "常将复杂议题简化为善恶对立，如执法vs犯罪、保守vs进步、美国vs威胁，忽视灰色地带，易产生误判或激化冲突。"
+        },
+        {
+          "term": "自尊依赖外部认可",
+          "analysis": "通过报道英雄主义、政治胜利、受众支持来强化自身价值，如强调特朗普受欢迎、执法成功，这种依赖使其易受负面反馈或声望波动影响。"
+        },
+        {
+          "term": "适应性不足",
+          "analysis": "面对社会变化如多元化、技术进步，反应常为抗拒或批判，而非适应整合，可能逐渐脱离主流趋势，影响力下降。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "政治议程推动、受众情绪操控、商业利益最大化、意识形态传播。",
+      "sub_items": [
+        {
+          "term": "政治议程推动",
+          "analysis": "通过选择性报道和框架，暗中支持特定政治力量，如提升特朗普形象、攻击其对手、倡导保守政策，旨在影响选举和政策走向。"
+        },
+        {
+          "term": "受众情绪操控",
+          "analysis": "利用恐惧、愤怒、自豪等情绪来吸引和保留受众，如强调威胁、英雄故事，以增强用户粘性、驱动互动和收视率。"
+        },
+        {
+          "term": "商业利益最大化",
+          "analysis": "内容设计偏向高点击率话题，如犯罪、丑闻、冲突，旨在扩大市场份额和广告收入，而非纯粹新闻责任，可能牺牲新闻质量。"
+        },
+        {
+          "term": "意识形态传播",
+          "analysis": "旨在推广保守主义价值观，如法律秩序、传统家庭、民族主义，通过日常报道潜移默化塑造受众世界观，巩固意识形态阵营。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题包括犯罪与执法、移民与边境、国内政治斗争、国家安全与文化战争。",
+      "sub_items": [
+        {
+          "term": "犯罪与执法",
+          "analysis": "频繁报道各类犯罪事件、执法行动和司法结果，强调警察英雄主义、法律严惩，塑造秩序与混乱对立叙事，巩固法律权威形象。"
+        },
+        {
+          "term": "移民与边境",
+          "analysis": "重点关注非法移民、边境安全、ICE行动和驱逐数据，常将移民与犯罪、资源压力关联，倡导严格管控，反映保守派移民政策立场。"
+        },
+        {
+          "term": "国内政治斗争",
+          "analysis": "深度覆盖美国两党竞争，突出特朗普及其盟友活动，批评民主党人物和政策，卷入文化战争议题如性别、教育，强化政治极化。"
+        },
+        {
+          "term": "国家安全与文化战争",
+          "analysis": "报道恐怖主义、军事行动、外交动态，同时涉及传统文化价值观冲突，如宗教、家庭、言论自由，塑造内外威胁并存的世界观。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 10
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 23:06:14 +0000 2025",
+      "text": "PURSUING JUSTICE: The Afghan national accused of shooting two National Guard members in Washington, D.C., was hit with new federal charges and a venue change that could open the door for the death penalty.\n\n“The transfer of this case from Superior Court to District Court ensures https://t.co/LlLn5eLBox",
+      "translation": "追求正义：被指控在华盛顿特区枪击两名国民警卫队成员的阿富汗国民面临新的联邦指控和审判地点变更，这可能为死刑判决打开大门。\"此案从高等法院转移到地区法院确保...\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 229,
+        "retweet": 1080,
+        "like": 4301
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 22:39:57 +0000 2025",
+      "text": "“We need more high IQ people in the country”\n\nAfter a child says he wants a Kindle for Christmas, President Trump responds by telling him, “You must be a high IQ person.” https://t.co/LcL5yawdOE",
+      "translation": "\"我们需要更多高智商的人进入这个国家\" 在一个孩子说他想要Kindle作为圣诞礼物后，特朗普总统回应说：\"你一定是高智商的人。\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 431,
+        "retweet": 224,
+        "like": 1616
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 22:34:23 +0000 2025",
+      "text": "PRESIDENT TRUMP: “As your Commander-in-Chief, I also want to thank you for your incredible backup.”\n\n“You've backed up everything I've wanted to do, and you've made our country stronger and more prosperous than ever before.”\n\n“But I have your back also because, by now, I hope https://t.co/t9J9NT5mKQ",
+      "translation": "特朗普总统：\"作为你们的最高统帅，我也要感谢你们不可思议的支持。\" \"你们支持了我想要做的一切，让我们的国家比以往任何时候都更强大、更繁荣。\" \"但我也支持你们，因为到现在，我希望...\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 901,
+        "retweet": 1081,
+        "like": 8210
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 22:13:47 +0000 2025",
+      "text": "WATCH LIVE: President Trump calls service members on Christmas Eve https://t.co/hPadDxi53Y",
+      "translation": "观看直播：特朗普总统在平安夜致电服役人员",
+      "stance": "无关",
+      "metrics": {
+        "reply": 91,
+        "retweet": 100,
+        "like": 463
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 21:56:41 +0000 2025",
+      "text": "President Trump answers questions from children and parents during NORAD’s Santa Tracker calls.\n\nQUESTION: “How come Santa has a tracker on him?”\n\nTRUMP: “Well we track Santa all over the world. We want to make sure Santa is being good. Santa is a very good person. We want to https://t.co/EegmQWEq0V",
+      "translation": "特朗普总统在北美防空司令部追踪圣诞老人电话活动中回答孩子和家长的问题。问题：\"为什么圣诞老人身上有追踪器？\" 特朗普：\"我们在全世界追踪圣诞老人。我们想确保圣诞老人表现良好。圣诞老人是个非常好的人。我们想...\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 464,
+        "retweet": 738,
+        "like": 9507
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 21:42:27 +0000 2025",
+      "text": "WATCH LIVE: @POTUS Donald Trump, @FLOTUS Melania Trump participate in NORAD Santa calls\n https://t.co/Cr54nDsNnw",
+      "translation": "观看直播：美国总统唐纳德·特朗普、第一夫人梅拉尼娅·特朗普参与北美防空司令部圣诞老人电话活动",
+      "stance": "无关",
+      "metrics": {
+        "reply": 69,
+        "retweet": 87,
+        "like": 423
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 21:14:11 +0000 2025",
+      "text": "WATCH: Democrat Rep. LaMonica McIver returns to the ICE facility where she clashed with agents in May, calling for the New Jersey building to be \"shut down.\"\n\n\"This facility should not be open.\" https://t.co/cbw4jEl0kO",
+      "translation": "观看：民主党众议员拉莫尼卡·麦克艾弗回到5月与特工发生冲突的ICE设施，呼吁关闭新泽西州的这栋建筑。\"这个设施不应该开放。\"",
+      "stance": "无关",
+      "metrics": {
+        "reply": 439,
+        "retweet": 76,
+        "like": 207
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 20:45:18 +0000 2025",
+      "text": "HOLIDAY HEIST FOILED: Police in Illinois received a tip from a good Samaritan and caught the Grinch, who was allegedly stealing presents from under a Christmas tree, after a brief chase through the mall—ensuring Christmas was saved. https://t.co/6nZn4de3wS",
+      "translation": "节日盗窃被挫败：伊利诺伊州警方收到一位好心人的举报，在商场短暂追逐后抓住了涉嫌从圣诞树下偷礼物的格林奇，确保圣诞节得救。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 114,
+        "retweet": 152,
+        "like": 1735
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 20:35:26 +0000 2025",
+      "text": "WATCH: Masked thieves ram a stolen SUV into a Texas 7-Eleven, shattering the store windows and tearing out an ATM.\n\nPolice say the vehicle was stolen in Dallas and could be tied to other ATM heists. https://t.co/PTzdxZMkoi",
+      "translation": "观看：蒙面窃贼驾驶被盗SUV撞入德克萨斯州一家7-11便利店，砸碎商店窗户并拖走ATM机。警方称该车辆在达拉斯被盗，可能与其他ATM抢劫案有关。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 235,
+        "retweet": 414,
+        "like": 1195
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 20:08:04 +0000 2025",
+      "text": "“You know who I am, right?”\n\nWATCH: A prominent Rhode Island Democrat invoked her status on police bodycam before being arrested during a traffic stop.\n\nMaria Bucci, 51, chairwoman of the Democratic Party committee in Cranston, the state’s second-largest city, now faces a https://t.co/fVuymaziN3",
+      "translation": "\"你知道我是谁，对吧？\" 观看：罗德岛州一位知名民主党人在交通拦截被捕前，在警察随身摄像头前援引自己的身份。51岁的玛丽亚·布奇是该州第二大城市克兰斯顿民主党委员会主席，现在面临...",
+      "stance": "无关",
+      "metrics": {
+        "reply": 302,
+        "retweet": 527,
+        "like": 2191
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 19:52:44 +0000 2025",
+      "text": "MOUNTAIN MURDER CASE: A California farming tycoon was arrested Tuesday on suspicion of murder in the shooting death of his wife in an Arizona mountain community.\nhttps://t.co/lwQJUn4o9H",
+      "translation": "山区谋杀案：一名加州农业大亨周二因涉嫌在亚利桑那州山区社区枪杀妻子而被捕。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 44,
+        "like": 91
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 19:38:48 +0000 2025",
+      "text": "WATCH LIVE: NORAD tracks Santa as he delivers gifts around the world https://t.co/wGcYe58Qmm",
+      "translation": "观看直播：北美防空司令部追踪圣诞老人在全球递送礼物的过程",
+      "stance": "无关",
+      "metrics": {
+        "reply": 182,
+        "retweet": 379,
+        "like": 1378
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 19:17:47 +0000 2025",
+      "text": "FIREWORK FIASCO: A rogue firework shot onto the field at Baltimore's M&amp;T Bank Stadium moments before Sunday’s Ravens-Patriots game kicked off, stunning fans.\n\nA Ravens spokesperson said no injuries were reported and an investigation is underway. https://t.co/LqDBUfMPg5",
+      "translation": "烟花事故：周日乌鸦队对阵爱国者队比赛开始前，一枚失控的烟花射入巴尔的摩M&T银行体育场，震惊了球迷。乌鸦队发言人表示没有人员受伤报告，调查正在进行中。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 62,
+        "retweet": 56,
+        "like": 253
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 18:23:11 +0000 2025",
+      "text": "OFFENSIVE LISTING: TikTok Shop sold swastika pendant necklaces marketed as \"bold\" and \"stylish\" before the listing was removed. https://t.co/XtqMDEAXeF",
+      "translation": "冒犯性商品：TikTok商店在商品下架前销售被宣传为\"大胆\"和\"时尚\"的纳粹标志吊坠项链。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 48,
+        "retweet": 31,
+        "like": 69
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 18:11:12 +0000 2025",
+      "text": "UN-BEAR-LIEAVABLE! Tourists visiting Canada’s Banff National Park found themselves face-to-face with a grizzly bear while hiking along a remote trail. https://t.co/rVmAD2gHJV",
+      "translation": "难以置信！游客在加拿大班夫国家公园偏远小径徒步时，与一只灰熊面对面相遇。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 163,
+        "retweet": 140,
+        "like": 1119
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 17:44:44 +0000 2025",
+      "text": "HOLIDAY HELPER: A Texas HEB manager displays heartwarming act of kindness, allowing customers stuck waiting in line after the store's computers glitched to go home with all of their groceries at no charge.\n\nThe customers responded with a huge round of applause over the holiday https://t.co/RgrYYzOokQ",
+      "translation": "节日帮手：德克萨斯州HEB经理展现暖心善举，在商店电脑故障后，让排队等待的顾客免费带回家所有杂货。顾客们以热烈的掌声回应这一节日善举。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 193,
+        "retweet": 576,
+        "like": 4356
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 16:41:03 +0000 2025",
+      "text": "HOLIDAY GREETINGS: Christmas wishes from the White House🎄\n\nPresident Trump is wishing Americans across the country a very merry Christmas. https://t.co/2uffu96vaF",
+      "translation": "节日问候：来自白宫的圣诞祝福🎄 特朗普总统祝愿全美人民圣诞快乐。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 346,
+        "retweet": 353,
+        "like": 1865
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 16:13:57 +0000 2025",
+      "text": "HOPE RETURNS: Bethlehem, where Christians believe to be Jesus was born, celebrates Christmas for the first time since 2022 as the U.S.-brokered ceasefire holds. https://t.co/SoL8ERe8KU",
+      "translation": "希望回归：基督徒认为耶稣诞生的伯利恒，在美国斡旋的停火协议维持下，自2022年以来首次庆祝圣诞节。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 85,
+        "retweet": 386,
+        "like": 2028
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 15:43:08 +0000 2025",
+      "text": "LIVE:  More than 5,000 flights were delayed Tuesday and over 150 canceled, with weather creating ripple effects nationwide.\n\n@Max_Gorden is at LAX as packed terminals, long lines, and last-minute rebookings test travelers’ patience. https://t.co/OxTWCSJaL0",
+      "translation": "直播：周二超过5000个航班延误，150多个航班取消，天气在全国范围内产生连锁反应。@Max_Gorden在洛杉矶国际机场，拥挤的航站楼、长队和最后一刻的改签考验着旅客的耐心。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 56,
+        "retweet": 55,
+        "like": 125
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 14:30:41 +0000 2025",
+      "text": "HOLIDAY HIJINKS: ’Twas the night before Christmas, and all through the town, the Grinch stole the stoplights and shut traffic DOWN.\n\nNo sleighs could move forward, no cars could advance, just horns, red lights, and drivers stuck in a festive slow dance. https://t.co/BKRkDMFyog",
+      "translation": "节日恶作剧：圣诞前夜，整个小镇，格林奇偷走了红绿灯，让交通瘫痪。雪橇无法前进，汽车无法行驶，只有喇叭声、红灯和司机们被困在节日的缓慢舞蹈中。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 86,
+        "retweet": 122,
+        "like": 499
+      }
+    }
+  ]
+}

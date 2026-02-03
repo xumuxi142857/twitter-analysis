@@ -1,0 +1,450 @@
+{
+  "id": "profile_MofaJapan_en.json",
+  "_fingerprint": "d23dd3c6d43fd0a7eb91216d2a0480fb",
+  "name": "MofaJapan_en",
+  "username": "MofaJapan_en",
+  "category": "media",
+  "daily_count": 6.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等开放性、中等宜人性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "行为高度结构化，严格遵循外交礼仪和官方程序，所有活动均按计划执行，注重细节和成果记录，表现出强烈的责任感和组织性。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行国际访问、举行会议和发表公开言论，积极建立和维护广泛的国际联系，在公共场合表现活跃，乐于展示外交成果。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "在既定外交框架和政策内运作，对新合作领域（如能源安全、基础设施）持务实开放态度，但在核心立场上保持稳定，创新多体现在方法而非原则上。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在多数双边互动中展现合作与礼貌姿态，致力于强化伙伴关系，但在涉及领土或核心利益争议时，会明确表达反对立场，显示其友好是有条件的。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "整体情绪表现稳定，能处理多线外交事务并应对突发事件（如致哀），但在面对特定地缘政治挑战时，会使用强烈措辞表达关切，显示一定的情境性情绪反应。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在一定的官僚主义倾向、表演性外交及潜在的优越感。",
+      "sub_items": [
+        {
+          "term": "仪式化倾向",
+          "analysis": "过度注重外交访问的形式和象征意义，如详细描述行程、天气、礼仪性活动（献花），可能分散对实质议题深度的关注，流于表面展示。"
+        },
+        {
+          "term": "选择性叙事",
+          "analysis": "倾向于突出日本在合作中的贡献和积极角色（如援建地铁），而对合作中的分歧、代价或他国主导部分轻描淡写，构建有利于自身形象的叙事。"
+        },
+        {
+          "term": "制度依赖",
+          "analysis": "行动和言论高度依赖官方身份和机构平台（如战略对话、议会联盟），个人独立判断或突破性倡议较少见，可能缺乏在非正式或危机渠道的灵活性。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "analysis": "存在确认偏误、群体内偏爱及现状偏误。",
+      "sub_items": [
+        {
+          "term": "联盟中心视角",
+          "analysis": "习惯于从强化与现有盟友（如美国、印度、欧盟）及伙伴关系网络的角度评估国际事务，可能低估或简化非盟友国家的动机与行为的复杂性。"
+        },
+        {
+          "term": "技术官僚思维",
+          "analysis": "倾向于将复杂的地缘政治问题（如能源安全、基础设施发展）转化为可通过技术合作、专家研讨和制度对话管理的议题，可能忽视其背后的政治情感因素。"
+        },
+        {
+          "term": "双边关系优先",
+          "analysis": "认知框架以巩固和深化一系列关键双边关系（日美、日印、日欧等）为核心，对多边体系或更广泛的全球性议题的独立思考和倡议相对较弱。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "行为模式可预测、过度公开及资源分散。",
+      "sub_items": [
+        {
+          "term": "行程公开透明",
+          "analysis": "外交活动行程、会议对象及部分谈话主题高度公开，几乎实时通过社交媒体发布，降低了行动的突然性和保密性，易被对手预判和应对。"
+        },
+        {
+          "term": "模式化互动",
+          "analysis": "与不同国家、不同层级的互动遵循高度相似的模式（礼节性拜会、战略对话、发表联合共识），缺乏针对不同对象量身定制的、突破常规的交往策略。"
+        },
+        {
+          "term": "广度优先于深度",
+          "analysis": "外交活动覆盖全球众多国家和地区（从中东、南亚、欧洲到太平洋岛国），可能导致对每个关系的投入深度不足，难以在关键议题上形成决定性影响力。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场受联盟捆绑、存在双重标准及对华表述僵化。",
+      "sub_items": [
+        {
+          "term": "联盟义务捆绑",
+          "analysis": "对美欧等核心盟友的外交和安全政策协调承诺，可能限制其在某些国际议题上采取独立或灵活立场的空间，需优先考虑联盟一致性。"
+        },
+        {
+          "term": "价值观外交矛盾",
+          "analysis": "一方面倡导“包容性治理”、“和平稳定”等普世价值观，另一方面与一些国内治理方式受争议的政权保持密切合作，存在实践与宣传之间的潜在张力。"
+        },
+        {
+          "term": "对华议题设定单一",
+          "analysis": "在涉及中国的公开表述中，焦点高度集中于东海争议等少数安全议题，缺乏对中日关系其他多维领域（如经济相互依存、民间交流）的平衡建设和公开倡导，易使关系被单一议题定义。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "多任务管理压力、议题深度不足及危机应对模式化。",
+      "sub_items": [
+        {
+          "term": "议程超载风险",
+          "analysis": "同时推进与众多国家在政治、安全、经济、能源、核能等多领域的对话合作，外交资源和人力的分散可能影响在核心优先事项上达成突破性成果的执行力。"
+        },
+        {
+          "term": "议题深度依赖第三方",
+          "analysis": "在诸如能源安全、核能和平利用等专业领域，主要依靠组织研讨会、听取国际组织专家意见，自身提出独创性、引领性解决方案的能力展示不足。"
+        },
+        {
+          "term": "危机反应程式化",
+          "analysis": "对突发事件（如他国自然灾害）的反应限于标准化的慰问和哀悼，对于更复杂的地缘政治危机或突发冲突，缺乏展示快速、创新性斡旋或调停能力的记录。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在维护面子需求、成就焦虑及认知闭合倾向。",
+      "sub_items": [
+        {
+          "term": "形象维护压力",
+          "analysis": "高度重视通过外交互动展示日本作为“负责任贡献者”和“可靠伙伴”的国际形象，这种对正面形象的持续追求可能使其在谈判中不愿表现出必要的强硬或妥协，以避免损害形象。"
+        },
+        {
+          "term": "成果展示焦虑",
+          "analysis": "频繁、详细地报道每一次会晤、对话并强调“达成共识”、“同意深化合作”，反映出对产出有形外交成果的迫切需求，可能因此急于宣布成果而忽视落实的长期性和困难。"
+        },
+        {
+          "term": "对不确定性的低容忍",
+          "analysis": "倾向于在既有合作框架（如日印战略对话的“三个关键领域”）内深化关系，对于探索全新的、未经验证的合作范式或应对高度模糊的战略情境显得谨慎，偏好结构化的确定性。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在平衡中国影响、重塑经济伙伴网络及提升全球规则制定角色。",
+      "sub_items": [
+        {
+          "term": "构建对冲联盟网络",
+          "analysis": "通过深化与印度、菲律宾、越南、欧盟及太平洋岛国等区域内外关键国家的关系，旨在建立一个多元化的伙伴网络，以在战略和经济上平衡特定大国在印太地区日益增长的影响力。"
+        },
+        {
+          "term": "推进基础设施与规则输出",
+          "analysis": "通过援建项目（如德里地铁）推广日本的技术标准、安全理念和社会规范（如女性车厢、排队文化），意图在发展中国家塑造符合日本利益和价值观的基础设施建设与运营模式。"
+        },
+        {
+          "term": "强化能源与资源安全",
+          "analysis": "积极介入中东（卡塔尔）、亚洲能源安全对话，并关注稀土等关键资源供应链，旨在减少在能源和战略性原材料领域对特定地理区域的过度依赖，保障经济安全。"
+        },
+        {
+          "term": "提升在多边机构中的能见度",
+          "analysis": "通过接待IAEA官员、举办国际研讨会、与欧盟高层协调，旨在增强日本在国际原子能、气候变化、海洋秩序等全球治理议题上的话语权和规则制定参与度。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题为双边联盟强化、印太战略推进、经济安全及价值观外交。",
+      "sub_items": [
+        {
+          "term": "关键双边关系强化",
+          "analysis": "核心议程是深化与美国、印度、澳大利亚、欧盟及东盟成员国的战略、经济与安全合作，频繁举行高层对话，将其作为外交基石。"
+        },
+        {
+          "term": "印太地区秩序塑造",
+          "analysis": "通过访问印太区域国家（印度、菲律宾、越南、太平洋岛国）、讨论海洋安全、基础设施互联互通，积极参与并试图塑造所谓“自由开放的印太”地区秩序。"
+        },
+        {
+          "term": "经济安全与供应链",
+          "analysis": "重点关注能源安全（研讨会）、关键矿产（如稀土议题）、高质量基础设施出口，旨在构建有韧性、多元化的经济供应链，降低战略脆弱性。"
+        },
+        {
+          "term": "核能和平利用与不扩散",
+          "analysis": "作为唯一遭受核打击的国家，积极宣传其在IAEA框架下对核能和平利用、核安全的贡献，并以此作为其国际责任和道德权威的重要来源。"
+        },
+        {
+          "term": "价值观与规范性议题",
+          "analysis": "在交往中不时提及“法治”、“包容性治理”、“和平稳定”等规范性语言，试图将外交互动与推广这些价值观相联系，提升道义影响力。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      1,
+      3,
+      4
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Tue Jan 20 09:56:03 +0000 2026",
+      "text": "［FM MOTEGI's Visit to #Israel, #Palestine, #Qatar, the #Philippines and #India]\n-Message from India -\n\nI am at the last destination of this business trip, New Delhi, India. I made a courtesy call on H.E. Mr. Narendra Modi, Prime Minister of India and held a Strategic Dialogue https://t.co/lgdQJvqQ7N",
+      "translation": "［外务大臣茂木敏充访问 #以色列、#巴勒斯坦、#卡塔尔、#菲律宾 和 #印度］ - 来自印度的消息 - 我在此次商务旅行的最后一站，印度新德里。我礼节性拜访了印度总理纳伦德拉·莫迪阁下，并举行了战略对话 https://t.co/lgdQJvqQ7N",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21,
+        "retweet": 19,
+        "like": 89
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 08:58:02 +0000 2026",
+      "text": "FM MOTEGI held a press conference. He took questions on Japan’s future diplomacy toward the U.S., Japan-China relations (related to rare earths), Japan’s diplomacy toward Israel.\nHe also addressed questions on U.S. remarks on acquiring Greenland, the outcomes of Foreign Minister",
+      "translation": "外务大臣茂木敏充举行了新闻发布会。他回答了关于日本未来对美外交、日中关系（涉及稀土）、日本对以色列外交的问题。他还回应了关于美国收购格陵兰岛的言论、外务大臣的成果等问题。",
+      "stance": "中立",
+      "metrics": {
+        "reply": 2,
+        "retweet": 7,
+        "like": 19
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 08:03:20 +0000 2026",
+      "text": "State Minister for Foreign Affairs KUNIMITSU received a courtesy call from Governors (the Philippines, Chile, Ghana and Thailand) of the International Atomic Energy Agency (#IAEA), who are visiting Japan. She stated that Japan contributes to peaceful uses of nuclear energy and https://t.co/WSOpw8FDce",
+      "translation": "外务副大臣国光文乃礼节性会见了正在日本访问的国际原子能机构（#IAEA）的理事国代表（菲律宾、智利、加纳和泰国）。她表示日本致力于和平利用核能，并 https://t.co/WSOpw8FDce",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 15,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 07:19:36 +0000 2026",
+      "text": "Senior Deputy Minister for Foreign Affairs NAMAZU held a meeting with Mr. Richard ARBEITER, Assistant Deputy Minister for International Security and Political Affairs at Global Affairs of Canada. They concurred to advance the strengthening of the bilateral relationship between https://t.co/Mg8kuPXqn5",
+      "translation": "外务副大臣鲇川尚会见了加拿大全球事务部国际安全与政治事务助理副部长理查德·阿贝特先生。双方一致同意推进双边关系的加强 https://t.co/Mg8kuPXqn5",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 12,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 05:26:25 +0000 2026",
+      "text": "PM TAKAICHI sent a congratulatory letter to Mr. Mamadi DOUMBOUYA, President of Guinea. In her letter, PM TAKAICHI expressed her hope for #Guinea to realize inclusive governance, further advance domestic economic and social development, and contribute to peace and stability in",
+      "translation": "高市早苗首相向几内亚总统马马迪·杜姆布亚先生发送了贺信。在信中，高市首相表达了她希望 #几内亚 实现包容性治理，进一步推进国内经济和社会发展，并为地区的和平与稳定做出贡献。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Tue Jan 20 02:13:41 +0000 2026",
+      "text": "Parliamentary Vice-Minister for Foreign Affairs SHIMADA visited the Republic of Vanuatu. He held Meetings with Senior Officials of the Republic of #Vanuatu, including Hon. Johnny KOANAPO Rasou, Deputy Prime Minister and Minister Finance and Economic Management, Hon. Mac ATI, https://t.co/0yACmltvOz",
+      "translation": "外务副大臣岛田政明访问了瓦努阿图共和国。他会见了瓦努阿图共和国的高级官员，包括副总理兼财政和经济管理部长约翰尼·科阿纳波·拉苏阁下、马卡蒂阁下等 https://t.co/0yACmltvOz",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 10,
+        "like": 25
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 14:42:27 +0000 2026",
+      "text": "FM MOTEGI visited the Delhi Metro during his visit to Delhi, #India. Japan provided loans and assisted in the construction of the Delhi Metro, applying methods used in public infrastructure in Japan such as women-only cars, the custom of lining up for the train and braille https://t.co/1H4QcUPxWm",
+      "translation": "外务大臣茂木敏充在访问德里期间参观了德里地铁，#印度。日本提供了贷款并协助建设德里地铁，应用了日本公共基础设施中的方法，如女性专用车厢、排队候车的习惯和盲文 https://t.co/1H4QcUPxWm",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9,
+        "retweet": 52,
+        "like": 327
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 12:52:52 +0000 2026",
+      "text": "FM MOTEGI offered flowers at Raj Ghat, the site where Mahatma Gandhi, the father of Indian independence, was cremated, during his visit to Delhi, #India.\nhttps://t.co/JzkgZu90AJ https://t.co/oLxS2pUE3q",
+      "translation": "外务大臣茂木敏充在访问德里期间，在印度独立之父圣雄甘地的火化地拉杰加特献花，#印度。 https://t.co/JzkgZu90AJ https://t.co/oLxS2pUE3q",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 22,
+        "like": 75
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 05:24:21 +0000 2026",
+      "text": "Vice Minister of Foreign Affairs FUNAKOSHI held an exchange of views with the Honorable Christopher Landau, Deputy Secretary of State of the United States of America among others.\n#US \n(Photo: United States Department of State)\nhttps://t.co/Xr7avdyzht https://t.co/UoxvfNmSad",
+      "translation": "外务副大臣船越健裕与美国副国务卿克里斯托弗·兰道阁下等人交换了意见。#美国 （照片：美国国务院） https://t.co/Xr7avdyzht https://t.co/UoxvfNmSad",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 7,
+        "like": 35
+      }
+    },
+    {
+      "created_at": "Sat Jan 17 04:45:32 +0000 2026",
+      "text": "Mr. ISHIBA Shigeru, Special Envoy of the Prime Minister and Chairman of the Japan–United Arab Emirates (#UAE) Parliamentary Friendship League, visited the UAE.\nSpecial Envoy ISHIBA paid a courtesy call on His Highness Sheikh Mohamed bin Zayed AL-NAHYAN, President of the United https://t.co/JuhFhcSdQH",
+      "translation": "首相特使、日本-阿拉伯联合酋长国（#阿联酋）议会友好联盟主席石破茂先生访问了阿联酋。特使石破茂礼节性拜访了阿联酋总统谢赫·穆罕默德·本·扎耶德·阿勒纳哈扬殿下 https://t.co/JuhFhcSdQH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11,
+        "retweet": 28,
+        "like": 100
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 11:21:11 +0000 2026",
+      "text": "State Minister for Foreign Affairs HORII visited the United States of America (the State of Hawaii, Washington D.C.). In the State of Hawaii, he had a meeting with Mr. Josh GREEN, Governor of the State of Hawaii, Hawaii State Representatives, and Admiral Samuel Paparo, Commander https://t.co/vAixBI8do2",
+      "translation": "外务副大臣堀井学访问了美国（夏威夷州、华盛顿特区）。在夏威夷州，他会见了夏威夷州州长约什·格林先生、夏威夷州众议员以及美国印太司令部司令塞缪尔·帕帕罗上将 https://t.co/vAixBI8do2",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 10,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 10:33:04 +0000 2026",
+      "text": "FM MOTEGI held a telephone meeting with H.E. Ms. Kaja KALLAS, High Representative of the #EU for Foreign Affairs and Security Policy, Vice-President of the European Commission @kajakallas and exchanged views on the current international situation.\n\nhttps://t.co/sMkZw41LUq",
+      "translation": "外务大臣茂木敏充与欧盟外交与安全政策高级代表、欧洲委员会副主席卡娅·卡拉斯阁下 @kajakallas 举行了电话会议，并就当前国际形势交换了意见。 https://t.co/sMkZw41LUq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 17
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 10:05:43 +0000 2026",
+      "text": "FM MOTEGI issued the following message of condolences to H.E. Mr. José Manuel ALBARES, Minister of Foreign Affairs, European Union and Cooperation of the Kingdom of Spain, regarding the train derailment accident that occurred in Province of Córdoba, Autonomous Community of",
+      "translation": "外务大臣茂木敏充就科尔多瓦省、安达卢西亚自治区发生的火车脱轨事故，向西班牙王国外交、欧盟与合作大臣何塞·曼努埃尔·阿尔巴雷斯阁下发送了以下慰问信息。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 19,
+        "like": 69
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 08:37:34 +0000 2026",
+      "text": "【the Asia Energy Security Seminar being held on 25th February!】\nThis year's seminar will focus on The Role of Diplomacy in #EnergySecurity, featuring experts from think tanks and international organizations. (Hybrid event; simultaneous Japanese-English interpretation available, https://t.co/cyDAQlZ1Li",
+      "translation": "【2月25日举行的亚洲能源安全研讨会！】今年的研讨会将聚焦于外交在 #能源安全 中的作用，邀请了智库和国际组织的专家。（线上线下混合活动；提供日英同声传译， https://t.co/cyDAQlZ1Li",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 12,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Mon Jan 19 02:44:29 +0000 2026",
+      "text": "［FM MOTEGI's Visit to #Qatar and the #Philippines]\n-Message from Qatar –\n\nI am currently in Doha, the capital of Qatar.\nYou may think that it would be very hot in the Middle East, but as it is winter now, the daytime temperature is in the low-20s, and it is quite comfortable.\nI https://t.co/QtbXnHHTrK",
+      "translation": "［外务大臣茂木敏充访问 #卡塔尔 和 #菲律宾］ - 来自卡塔尔的消息 – 我目前在卡塔尔首都多哈。您可能认为中东会非常炎热，但由于现在是冬季，白天气温在20度出头，相当舒适。我 https://t.co/QtbXnHHTrK",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 13,
+        "like": 51
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:43:29 +0000 2026",
+      "text": "FM MOTEGI made a courtesy call on H.E. Mr. Narendra MODI, Prime Minister of India, during his visit to Delhi, #India. Bearing in mind the “Japan-India Joint Vision for the Next Decade” launched during PM Modi's visit to Japan last August, they had a candid exchange of views over https://t.co/q26BMqboFO",
+      "translation": "外务大臣茂木敏充在访问德里期间礼节性拜访了印度总理纳伦德拉·莫迪阁下，#印度。考虑到去年8月莫迪总理访日期间启动的“日印未来十年共同愿景”，双方就 https://t.co/q26BMqboFO 进行了坦诚的意见交换。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 136,
+        "like": 970
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 18:27:50 +0000 2026",
+      "text": "FM MOTEGI held the 18th Japan–India Foreign Ministers’ Strategic Dialogue with H.E. Dr. Subrahmanyam JAISHANKAR, Minister of External Affairs of India, during his visit to Delhi, #India. Both Ministers concurred to continue to deepen cooperation under the three key areas of https://t.co/nUF8Urbb08",
+      "translation": "外务大臣茂木敏充在访问德里期间与印度外交部长苏杰生博士阁下举行了第18次日印外长战略对话，#印度。两位部长一致同意继续在三个关键领域深化合作 https://t.co/nUF8Urbb08",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 56,
+        "like": 237
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:56:37 +0000 2026",
+      "text": "We have recently confirmed that #China has initiated an installation of a new structure on the west side of the geographical equidistance line between Japan and China in the East China Sea.\nIt is extremely regrettable that China is advancing unilateral development in the East",
+      "translation": "我们最近确认，#中国 已在东海日中地理中间线以西开始安装新结构。中国在东海推进单方面开发是极其令人遗憾的。",
+      "stance": "负面",
+      "metrics": {
+        "reply": 17,
+        "retweet": 264,
+        "like": 573
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:27:35 +0000 2026",
+      "text": "FM MOTEGI's contribution to the Times of India on the occasion of his visit to #India.\nhttps://t.co/4hPZio4hwm",
+      "translation": "外务大臣茂木敏充在访问 #印度 之际为《印度时报》撰写的文章。 https://t.co/4hPZio4hwm",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 11,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Fri Jan 16 11:05:22 +0000 2026",
+      "text": "PM TAKAICHI held a summit meeting with H.E. Ms. Giorgia MELONI, President of the Council of Ministers of the Italian Republic, who was on an Official Working Visit to Japan. Following the meeting, the two leaders attended a working lunch and gave a joint press announcement. On https://t.co/tdRsjtmvom",
+      "translation": "高市早苗首相与对日本进行正式工作访问的意大利共和国部长会议主席焦尔吉娅·梅洛尼阁下举行了首脑会议。会后，两位领导人出席了工作午餐并举行了联合新闻发布会。 https://t.co/tdRsjtmvom",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14,
+        "retweet": 306,
+        "like": 1765
+      }
+    }
+  ]
+}

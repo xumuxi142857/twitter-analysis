@@ -198,7 +198,7 @@ interface UserProfile {
 interface AccountAnalysisData { region: string; top_users: UserProfile[]; }
 
 const activeTab = ref('US');
-const selectedDate = ref<string>('2026-01-26');
+const selectedDate = ref<string>('2026-01-29');
 const loading = ref(false);
 const hasData = ref(true);
 const selectedUser = ref<UserProfile | null>(null);

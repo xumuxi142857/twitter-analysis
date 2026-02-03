@@ -136,7 +136,7 @@ import { ArrowRight, ChatLineSquare, ChatDotRound, Share, Star } from '@element-
 import WordCloud from './components/WordCloud.vue';
 
 const activeTab = ref('US');
-const selectedDate = ref<string>('2026-01-26');
+const selectedDate = ref<string>('2026-01-29');
 const loading = ref(false);
 const hasData = ref(false);
 const regionDataStore = ref<Record<string, any>>({});

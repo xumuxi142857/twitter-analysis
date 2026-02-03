@@ -1,0 +1,442 @@
+{
+  "id": "profile_tim_cook.json",
+  "_fingerprint": "7142c066614495464a55f5e47c87c9ff",
+  "name": "tim_cook",
+  "username": "tim_cook",
+  "category": "media",
+  "daily_count": 0.6,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高宜人性、中等开放性、中等外倾性、低神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论高度聚焦于公司产品发布、商业活动、社会责任项目，表现出强烈的组织性、目标导向和对职责的恪守，内容严谨且与CEO身份高度绑定。"
+        },
+        {
+          "term": "高宜人性",
+          "analysis": "频繁表达对全球节日、教育工作者、合作伙伴、团队成员及已故人物的感激、祝福与赞美，展现出合作、信任和利他倾向，致力于维护积极的社会关系。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "对新科技产品（如AI性能、新设备）和特定文化活动（如日本之旅、摄影艺术）表现出兴趣和接纳，但探索范围主要局限于商业、科技及公司关联的文化领域，未见广泛或颠覆性的思想表达。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "积极参与公开的产品发布、门店开业、社区活动并分享体验，显示出一定的社交热情和活力，但互动深度多停留在官方宣传和礼节性感谢层面。"
+        },
+        {
+          "term": "低神经质",
+          "analysis": "言论情绪稳定、积极乐观，以庆祝、感恩、自豪为主，即使提及已故人物也侧重于致敬和积极传承，未表现出焦虑、波动或负面情绪。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在公司中心主义、表演性亲和与历史依赖倾向。",
+      "sub_items": [
+        {
+          "term": "公司中心主义",
+          "analysis": "绝大多数言论的核心最终都回归到苹果公司、其产品、服务或商业活动上，即使是文化、节日或社会议题，也常作为展示公司影响力、技术或价值观的载体，可能削弱纯粹的人文关怀感知。"
+        },
+        {
+          "term": "表演性亲和",
+          "analysis": "对团队、合作伙伴、客户及公众的感谢与赞美具有高度程式化特征，与公司公关和品牌形象维护策略高度一致，其真诚度可能被外界质疑为经过精心策划的形象管理。"
+        },
+        {
+          "term": "历史依赖与象征性怀旧",
+          "analysis": "频繁引用公司创始人遗产、历史门店意义等元素来为当前行动赋予正当性和情感分量，显示出对历史符号的策略性运用，可能用以规避对当下决策的独立批判性审视。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出技术决定论、内群体偏爱和乐观偏见。",
+      "sub_items": [
+        {
+          "term": "技术决定论与解决方案主义",
+          "analysis": "坚信技术进步（如AI、新芯片、制造技术）是推动社会进步、商业成功和解决各类问题（如创造机会、赋能创意）的核心乃至唯一路径，可能忽视社会、伦理或结构性的复杂因素。"
+        },
+        {
+          "term": "内群体偏爱",
+          "analysis": "对苹果团队、开发者、使用苹果产品的创作者及合作伙伴不吝赞美，构建了一个以苹果生态系统为中心的“我们”群体，可能无形中强化排他性或优越感认知。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "持续描绘未来、新产品和新举措的光明前景，强调“飞跃”、“激动人心”、“特殊”等积极面，系统性淡化或回避可能存在的挑战、争议或失败风险。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "行为高度可预测、依赖仪式化表达、存在地域选择性关注。",
+      "sub_items": [
+        {
+          "term": "高度可预测的行为模式",
+          "analysis": "言论发布紧密围绕产品周期、营销节点、全球节日及公司重大事件，模式固定，容易被对手预判其沟通重点和行动时机。"
+        },
+        {
+          "term": "对仪式化公关行为的依赖",
+          "analysis": "严重依赖门店开业、产品发布、领导视察、节日祝福等标准化公关活动作为主要发声场景，缺乏突发、非结构化或深度辩论式的互动，在应对非常规危机时可能显得僵化。"
+        },
+        {
+          "term": "地域关注的选择性",
+          "analysis": "对日本市场表现出超常的文化沉浸和互动热情，而对其他同等重要的全球市场则缺乏同等深度和个性化的内容展示，这种不平衡可能引发其他地区利益相关者的相对被忽视感。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场受商业利益主导、价值观输出存在选择性、对复杂议题回避。",
+      "sub_items": [
+        {
+          "term": "商业利益主导的价值观表达",
+          "analysis": "所倡导的“创新”、“教育”、“社区投资”、“环保”等价值观，其展示和论述始终与苹果的产品销售、市场拓展或品牌形象提升直接或间接挂钩，使其道德立场容易被质疑为功利性工具。"
+        },
+        {
+          "term": "普世价值观的选择性输出",
+          "analysis": "积极庆祝全球性节日、赞扬普世的教育和科学精神，但这些输出均严格规避任何可能引发地缘政治或重大社会争议的议题，显示出在安全范围内进行价值观营销的谨慎算计。"
+        },
+        {
+          "term": "对供应链与社会责任深层矛盾的回避",
+          "analysis": "高调宣传在特定地区（如底特律）的社区投资和制造培训，却完全回避讨论全球供应链中可能存在的劳工、环境等更复杂、更具争议性的社会责任议题，立场显得片面且防御性强。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "创新能力依赖组织、战略延续性强而突破性弱、个人技术深度展示不足。",
+      "sub_items": [
+        {
+          "term": "对组织创新体系的依赖",
+          "analysis": "所有关于“飞跃”、“强大”、“惊艳”的科技描述均归功于团队和公司平台，个人作为CEO在具体技术突破、产品设计或战略构想上的独特贡献与洞察力未被清晰展示，领导力形象更偏向管理者而非visionary。"
+        },
+        {
+          "term": "战略的延续性与渐进性",
+          "analysis": "强调的产品迭代、零售扩张、开发者生态维系均是既定战略的延续，言论中缺乏对行业范式变革、苹果未来十年颠覆性方向或应对潜在生态威胁的深刻独立见解，能力更多体现在执行而非重塑。"
+        },
+        {
+          "term": "跨文化商业运作的能力展示局限",
+          "analysis": "在日本市场的互动集中于文化体验、团队感谢和门店运营，未深入阐述苹果在全球不同市场（尤其是监管、竞争环境迥异的市场）的差异化战略、挑战克服或本土化创新等更高阶的商业能力。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在遗产压力、需维持完美公众形象、可能产生创新路径依赖。",
+      "sub_items": [
+        {
+          "term": "创始人遗产与比较压力",
+          "analysis": "公开致敬公司创始人，并将其视为灯塔，这固然是传承，但也可能内化为一种持续的比较压力和证明负担，心智上需要不断确认自己领导的苹果仍在“追随光明之路”，可能抑制偏离传统的勇气。"
+        },
+        {
+          "term": "完美主义公众形象维护的心理负荷",
+          "analysis": "所有公开言论均呈现积极、感恩、成功、和谐的特质，这种长期维持的“无瑕”形象需要高度的自我审查和情绪管理，可能积累心理压力，并在面对不可避免的批评或失败时缺乏应对弹性。"
+        },
+        {
+          "term": "对“苹果式成功路径”的潜在依赖",
+          "analysis": "心智模型可能深度内化了通过硬件创新、生态闭环、高端营销和可控的价值观输出取得成功的模式，在面对需要完全不同的思维模式（如开源、低利润大规模服务、激进并购）的挑战时，可能产生认知僵化。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "意图在于巩固品牌宗教化、实现市场精准渗透、完成领导力形象传承。",
+      "sub_items": [
+        {
+          "term": "将品牌忠诚度提升至文化归属感",
+          "analysis": "通过将产品发布与节日庆祝、社区贡献、全球文化体验深度绑定，意图超越商业交易，将苹果品牌塑造为一种现代、积极、有担当的生活方式和文化符号，培养消费者情感依赖。"
+        },
+        {
+          "term": "以社会责任叙事软化商业扩张",
+          "analysis": "强调对中小企业、教育、社区复兴的投资，意图为其全球市场扩张和盈利行为披上利他主义的外衣，降低商业主义带来的舆论阻力，塑造“负责任巨头”的形象。"
+        },
+        {
+          "term": "完成从“创新颠覆者”到“稳健传承者”的领导形象过渡",
+          "analysis": "言论平衡了对激进创新的宣传与对历史、团队、稳定增长的强调，隐藏意图可能是将个人领导力定位为在继承伟大遗产的基础上，实现可靠、包容、可持续的增长，以区别于前任的“革命者”形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心话题集中于产品营销、企业形象、有限文化参与及团队赞誉。",
+      "sub_items": [
+        {
+          "term": "产品发布与技术营销",
+          "analysis": "核心话题，涉及iPhone、Mac、iPad、Apple Watch等全系产品的迭代，重点强调AI性能、电池续航、设计美学及创作赋能，是言论的绝对重心。"
+        },
+        {
+          "term": "企业公民与社区影响",
+          "analysis": "重要话题，包括对教育（教师日、制造学院）、社区投资（底特律复兴）、供应链责任（制造技术培训）的阐述，用于构建积极的社会形象。"
+        },
+        {
+          "term": "全球化运营与文化互动",
+          "analysis": "显著话题，尤其以日本市场为例，涵盖零售门店活动、本地团队合作、文化体验（神社、漫画、棒球）及开发者生态，展示全球本土化策略。"
+        },
+        {
+          "term": "团队价值与合作伙伴关系",
+          "analysis": "基础话题，频繁感谢内部团队、开发者、创作者及商业伙伴，强调协作、创新和集体成就，用于巩固生态系统和内外部凝聚力。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      1,
+      0,
+      2
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      8
+    ],
+    [
+      2,
+      3,
+      6
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 24 11:27:44 +0000 2025",
+      "text": "Met Pikachu, connected with developers using our software features in amazing ways, and played Dragon Ball Gekishin Squadra at Bandai Namco… Japan is a gamer's paradise! https://t.co/WIilg7NWrM",
+      "translation": "见到了皮卡丘，与使用我们软件功能以惊人方式连接的开发者们交流，并在万代南梦宫玩了《龙珠激神小队》……日本真是游戏玩家的天堂！https://t.co/WIilg7NWrM",
+      "stance": "无关",
+      "metrics": {
+        "reply": 621,
+        "retweet": 2587,
+        "like": 23380
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 14:15:00 +0000 2025",
+      "text": "Amazing performance. Extraordinary battery life. Introducing the all-new 14-inch MacBook Pro with M5, delivering the next big leap in AI performance on the Mac. https://t.co/qqjyO2Sj3W",
+      "translation": "惊艳的性能。非凡的电池续航。全新14英寸MacBook Pro搭载M5芯片，带来Mac上AI性能的又一次巨大飞跃。https://t.co/qqjyO2Sj3W",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1274,
+        "retweet": 1924,
+        "like": 20429
+      }
+    },
+    {
+      "created_at": "Wed Oct 15 13:19:47 +0000 2025",
+      "text": "Meet the new iPad Pro. Furiously fast with M5, making it even more powerful for all of your creative ideas. https://t.co/EowZJ7hAt3",
+      "translation": "认识一下新款iPad Pro。搭载M5芯片，速度惊人，为你所有的创意构想提供更强大的动力。https://t.co/EowZJ7hAt3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 680,
+        "retweet": 1585,
+        "like": 14858
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 20:03:34 +0000 2025",
+      "text": "Jane Goodall was a groundbreaking scientist and leader who taught us all so much about the beauty and wonder of our world. She never stopped advocating for nature, people, and the planet we share. May she rest in peace. https://t.co/CLxq9i3xWX",
+      "translation": "简·古道尔是一位开创性的科学家和领导者，她教会了我们许多关于这个世界之美与奇迹的知识。她从未停止为自然、人类和我们共享的地球发声。愿她安息。https://t.co/CLxq9i3xWX",
+      "stance": "无关",
+      "metrics": {
+        "reply": 383,
+        "retweet": 788,
+        "like": 9219
+      }
+    },
+    {
+      "created_at": "Tue Sep 23 10:46:21 +0000 2025",
+      "text": "There's nothing like the energy in Tokyo! So thrilled to be back and be joined by @number_i_offic for a sneak peek of the all-new Apple Ginza, opening this Friday, September 26. https://t.co/SSEcXbLP3m",
+      "translation": "没有什么能比得上东京的能量！非常激动能回来，并与@number_i_offic一起抢先一睹将于本周五9月26日开业的全新Apple Ginza。https://t.co/SSEcXbLP3m",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1094,
+        "retweet": 12288,
+        "like": 52599
+      }
+    },
+    {
+      "created_at": "Thu Sep 25 11:30:00 +0000 2025",
+      "text": "One of the most special things about Japan is our team. Thank you for the innovation, collaboration, and energy you bring to everything that you do!\n\nApple Japanの仲間たち、ありがとう！ https://t.co/gFh36FZZ1t",
+      "translation": "日本最特别的事情之一就是我们的团队。感谢你们为所做的一切带来的创新、协作和能量！Apple Japan的伙伴们，谢谢！https://t.co/gFh36FZZ1t",
+      "stance": "无关",
+      "metrics": {
+        "reply": 256,
+        "retweet": 785,
+        "like": 9174
+      }
+    },
+    {
+      "created_at": "Thu Sep 25 06:11:26 +0000 2025",
+      "text": "Thanks to @akiyaspin for showing me the Hie Shrine in Tokyo. It was an honor to visit and learn about its enduring legacy. https://t.co/4koNFtdbD7",
+      "translation": "感谢@akiyaspin带我参观了东京的日枝神社。很荣幸能到访并了解其悠久的历史。https://t.co/4koNFtdbD7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 343,
+        "retweet": 604,
+        "like": 9320
+      }
+    },
+    {
+      "created_at": "Thu Sep 18 18:09:08 +0000 2025",
+      "text": "Can’t wait for tomorrow! https://t.co/VT0Js4DVmU",
+      "translation": "等不及明天了！https://t.co/VT0Js4DVmU",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1231,
+        "retweet": 2119,
+        "like": 38343
+      }
+    },
+    {
+      "created_at": "Thu Oct 09 13:58:00 +0000 2025",
+      "text": "We're proud to help small and medium businesses at Detroit’s Apple Manufacturing Academy as they embrace new manufacturing techniques to create new opportunities for their teams, their communities, and our country. https://t.co/3DGOBFGcyq",
+      "translation": "我们很自豪能在底特律的Apple制造学院帮助中小企业，因为他们采用新的制造技术，为他们的团队、社区和我们的国家创造新的机会。https://t.co/3DGOBFGcyq",
+      "stance": "无关",
+      "metrics": {
+        "reply": 419,
+        "retweet": 510,
+        "like": 5376
+      }
+    },
+    {
+      "created_at": "Sun Oct 05 18:06:00 +0000 2025",
+      "text": "Happy World Teachers' Day! Today we celebrate the dedication of educators all around the world. https://t.co/uNJKJ9rJmC",
+      "translation": "世界教师节快乐！今天我们庆祝全世界教育工作者的奉献精神。https://t.co/uNJKJ9rJmC",
+      "stance": "无关",
+      "metrics": {
+        "reply": 338,
+        "retweet": 539,
+        "like": 4451
+      }
+    },
+    {
+      "created_at": "Sun Oct 05 13:02:00 +0000 2025",
+      "text": "Steve saw the future as a bright and boundless place, lit the path forward, and inspired us to follow. We miss you, my friend. https://t.co/0ZF2FLc7Ub",
+      "translation": "史蒂夫将未来视为一个光明无垠的地方，照亮了前进的道路，并激励我们追随。我们想念你，我的朋友。https://t.co/0ZF2FLc7Ub",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2869,
+        "retweet": 5732,
+        "like": 58513
+      }
+    },
+    {
+      "created_at": "Sat Sep 20 04:30:01 +0000 2025",
+      "text": "We’re investing in communities across the US, including the revitalization of Downtown Detroit. Absolutely electric opening in the Motor City this evening as we celebrate our newest store and incredible product launch! https://t.co/hdVTsSOFTp",
+      "translation": "我们正在投资美国各地的社区，包括底特律市中心的振兴。今晚在汽车城举行的盛大开业活动绝对令人兴奋，我们庆祝新店开业和令人难以置信的产品发布！https://t.co/hdVTsSOFTp",
+      "stance": "无关",
+      "metrics": {
+        "reply": 427,
+        "retweet": 503,
+        "like": 6075
+      }
+    },
+    {
+      "created_at": "Mon Sep 22 23:00:02 +0000 2025",
+      "text": "To everyone celebrating Rosh Hashanah around the world, wishing you a year full of hope and happiness.",
+      "translation": "向全世界庆祝犹太新年的所有人，祝愿你们新的一年充满希望和幸福。",
+      "stance": "无关",
+      "metrics": {
+        "reply": 284,
+        "retweet": 286,
+        "like": 4323
+      }
+    },
+    {
+      "created_at": "Mon Sep 15 19:40:39 +0000 2025",
+      "text": "RT @gregjoz: Our new design with Liquid Glass is here!\n\nIt’s beautiful, expressive, and instantly familiar.\n\nWhat features are you excited…",
+      "translation": "RT @gregjoz: 我们采用液态玻璃的新设计来了！它美丽、富有表现力，并且让人瞬间感到熟悉。你对哪些功能感到兴奋……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 326,
+        "retweet": 335,
+        "like": 3279
+      }
+    },
+    {
+      "created_at": "Mon Sep 15 07:57:47 +0000 2025",
+      "text": "Congratulations to The Studio, Severance, Slow Horses, and all of the @AppleTV Emmy nominees and winners! Tonight was a testament to their extraordinary storytelling and creativity. https://t.co/4bRXSp7kR3",
+      "translation": "祝贺《The Studio》、《Severance》、《Slow Horses》以及所有@AppleTV的艾美奖提名者和获奖者！今晚是对他们非凡叙事和创造力的证明。https://t.co/4bRXSp7kR3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 391,
+        "retweet": 768,
+        "like": 13188
+      }
+    },
+    {
+      "created_at": "Mon Oct 20 03:30:00 +0000 2025",
+      "text": "Wishing a joyful and healthy Diwali to all celebrating around the world! Thanks to Apeksha Maker for sharing this stunning photo taken on iPhone 17 Pro Max. https://t.co/s4BarZip3m",
+      "translation": "祝愿全世界所有庆祝排灯节的人们节日快乐、健康！感谢Apeksha Maker分享这张用iPhone 17 Pro Max拍摄的惊艳照片。https://t.co/s4BarZip3m",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1651,
+        "retweet": 4826,
+        "like": 75913
+      }
+    },
+    {
+      "created_at": "Fri Sep 26 22:04:20 +0000 2025",
+      "text": "Created manga with students on iPad in Kyoto, visited the team at Apple Umeda, and tried takoyaki before taking in a Hanshin Tigers baseball game in Osaka!\n\nArigato gozaimasu for the hospitality, Japan! https://t.co/YL7XfB7BBV",
+      "translation": "在京都用iPad与学生一起创作漫画，拜访了Apple Umeda的团队，在去大阪看阪神老虎队棒球赛前还尝试了章鱼烧！感谢日本的热情款待！https://t.co/YL7XfB7BBV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 722,
+        "retweet": 4095,
+        "like": 31173
+      }
+    },
+    {
+      "created_at": "Fri Sep 26 05:39:40 +0000 2025",
+      "text": "A new chapter begins at Apple Ginza! \n\nThis location will always be special: It was our first store outside the US and a defining moment in how we connect with our customers around the world.\n\nWe are thrilled to reopen our doors today and welcome customers in Japan! https://t.co/oiaqM3fJGs",
+      "translation": "Apple Ginza的新篇章开始了！这个地点将永远特别：它是我们在美国以外的第一家门店，也是我们如何与全球客户建立联系的决定性时刻。我们很高兴今天重新开门营业，欢迎日本的顾客！https://t.co/oiaqM3fJGs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 508,
+        "retweet": 1681,
+        "like": 15933
+      }
+    },
+    {
+      "created_at": "Fri Sep 19 16:59:52 +0000 2025",
+      "text": "iPhone 17, iPhone Air, iPhone 17 Pro, iPhone 17 Pro Max, our new Apple Watch lineup, and AirPods Pro 3… what a day!\n\nSo thankful to be with our incredible teams and customers celebrating at Apple Fifth Avenue! https://t.co/oECgNPFD5p",
+      "translation": "iPhone 17、iPhone Air、iPhone 17 Pro、iPhone 17 Pro Max、我们新的Apple Watch系列，以及AirPods Pro 3……多么棒的一天！非常感谢能与我们不可思议的团队和顾客一起在Apple第五大道庆祝！https://t.co/oECgNPFD5p",
+      "stance": "无关",
+      "metrics": {
+        "reply": 547,
+        "retweet": 816,
+        "like": 8029
+      }
+    },
+    {
+      "created_at": "Fri Sep 19 01:17:49 +0000 2025",
+      "text": "Many thanks to Inez &amp; Vinoodh, Mickalene Thomas, and Trunk Xu for capturing some of the first photographs with iPhone 17 Pro Max. Tonight was such a beautiful display of #ShotOniPhone photography. https://t.co/X3GX9kaooQ",
+      "translation": "非常感谢Inez & Vinoodh、Mickalene Thomas和Trunk Xu用iPhone 17 Pro Max拍摄了一些首批照片。今晚是#ShotOniPhone摄影的美丽展示。https://t.co/X3GX9kaooQ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 214,
+        "retweet": 322,
+        "like": 3679
+      }
+    }
+  ]
+}

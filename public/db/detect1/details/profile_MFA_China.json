@@ -1,0 +1,446 @@
+{
+  "id": "profile_MFA_China.json",
+  "_fingerprint": "511c4bc5ed7c07a9158dd5ee5d470cad",
+  "name": "MFA_China",
+  "username": "MFA_China",
+  "category": "media",
+  "daily_count": 10.0,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高开放性、中等宜人性、中等外倾性、中等神经质",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论高度结构化，严格遵循官方叙事框架，内容组织严谨，职责履行意识强烈，表现出对国家使命的忠诚和系统性执行特征。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "广泛关注科技、文化、体育、外交、环保等多领域发展，积极展示创新成果和国际合作案例，对新事物和多元文化持接纳态度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在展示合作与友好时表现出亲和力，但在涉及原则立场时态度坚定，不回避展示成就与优势，平衡了合作性与立场维护。"
+        },
+        {
+          "term": "中等外倾性",
+          "analysis": "积极对外传播信息，参与国际活动报道，但互动模式以单向宣传为主，缺乏深度双向交流，社交表现受官方身份约束。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "情绪表达稳定可控，以正面积极为主，在危机提醒时保持冷静专业，整体情绪管理符合外交场合要求，无明显焦虑或波动。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在模式化宣传倾向、选择性呈现、自我美化偏好",
+      "sub_items": [
+        {
+          "term": "宣传模式固化",
+          "analysis": "内容呈现高度依赖成功叙事模板，强调成就、合作、技术进步，缺乏对挑战、失败或内部争议的坦诚讨论，形成单向美化循环。"
+        },
+        {
+          "term": "选择性事实呈现",
+          "analysis": "只展示符合国家形象建设的内容，回避敏感或复杂议题，信息筛选机制严格，导致公众认知可能偏离全面现实。"
+        },
+        {
+          "term": "成就炫耀倾向",
+          "analysis": "频繁强调各项第一、突破、国际认可，容易引发受众疲劳或质疑，可能削弱可信度，被视为自我宣传而非信息分享。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "显著存在乐观偏见、内群体偏爱、确认偏误",
+      "sub_items": [
+        {
+          "term": "乐观偏见",
+          "analysis": "持续强调发展成果、技术解决方案和社会进步，对未来持积极预期，可能低估潜在风险或结构性挑战，形成过度乐观叙事。"
+        },
+        {
+          "term": "内群体偏爱",
+          "analysis": "明显倾向展示国内成就、文化独特性和国际影响力，将中国置于叙事中心，对外部批评或替代视角关注不足。"
+        },
+        {
+          "term": "确认偏误",
+          "analysis": "选择性引用支持国家政策和形象的数据、案例，回避矛盾信息，强化既有立场，缺乏对反证或多元观点的整合。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "内容同质化、互动性弱、危机应对模式化",
+      "sub_items": [
+        {
+          "term": "内容同质化风险",
+          "analysis": "长期使用相似的成功叙事、科技突破、文化展示模板，可能导致受众兴趣衰减，传播效果递减，缺乏新鲜感和深度。"
+        },
+        {
+          "term": "单向传播局限",
+          "analysis": "以转发和声明为主，缺乏与受众的真实对话、争议回应或个性化互动，削弱信任建立，易被视作机械宣传。"
+        },
+        {
+          "term": "危机应对模板化",
+          "analysis": "在旅行警告、国际事件回应中使用标准外交辞令，灵活性不足，可能无法有效应对突发复杂舆情，显得反应迟缓或僵化。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场绝对化、灵活性受限、国际叙事单一",
+      "sub_items": [
+        {
+          "term": "立场绝对化",
+          "analysis": "在国际事务中明确支持特定国家或立场，缺乏中间地带表达，可能限制外交斡旋空间，易被卷入国际对立。"
+        },
+        {
+          "term": "政策灵活性不足",
+          "analysis": "言论严格对齐现行政策，难以展现调整或反思，在政策变化时可能出现叙事断裂，削弱长期可信度。"
+        },
+        {
+          "term": "国际叙事单一",
+          "analysis": "主要强调合作、发展、和平，对竞争、分歧或安全关切涉及较少，叙事可能被认为脱离地缘政治现实，缺乏深度。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "叙事创新不足、数据深度有限、情感连接薄弱",
+      "sub_items": [
+        {
+          "term": "叙事创新乏力",
+          "analysis": "依赖传统宣传框架，如成就展示、技术应用、文化输出，缺乏故事化、个人化或争议性叙事，传播手法较为陈旧。"
+        },
+        {
+          "term": "数据与深度缺失",
+          "analysis": "内容多为现象描述或成果宣布，缺乏详细数据、背景分析、挑战讨论或长期影响评估，信息价值停留在表面。"
+        },
+        {
+          "term": "情感连接不足",
+          "analysis": "以机构身份发声，缺乏个人故事、情感共鸣或幽默元素，难以建立深层受众认同，影响力停留在信息层面。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "防御性思维、认知闭合、压力应对僵化",
+      "sub_items": [
+        {
+          "term": "防御性思维定势",
+          "analysis": "言论预设正面形象维护目标，对批评或质疑可能反应过度，缺乏开放探讨心态，易陷入辩护而非对话模式。"
+        },
+        {
+          "term": "认知闭合倾向",
+          "analysis": "对复杂议题提供简化、确定性答案，回避模糊性或多元解释，可能阻碍深度理解，满足于表面共识。"
+        },
+        {
+          "term": "压力应对模式化",
+          "analysis": "在舆情压力下依赖标准回应模板，如重申立场、展示成就、呼吁合作，缺乏适应性策略，可能加剧对立。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "塑造积极国家形象、争取国际认同、对冲负面叙事",
+      "sub_items": [
+        {
+          "term": "国家形象工程",
+          "analysis": "通过展示科技、文化、外交成就，系统构建现代化、负责任、创新驱动的国家形象，提升国际软实力和吸引力。"
+        },
+        {
+          "term": "国际认同寻求",
+          "analysis": "强调国际合作、援外项目、多边参与，旨在淡化地缘竞争色彩，塑造全球伙伴形象，争取更广泛政治和经济支持。"
+        },
+        {
+          "term": "叙事对冲策略",
+          "analysis": "用正面发展故事、民生进步、文化魅力覆盖或抵消外界在人权、治理、安全等方面的批评，争夺国际话语权。"
+        },
+        {
+          "term": "内部凝聚力强化",
+          "analysis": "对外传播成就同时服务于国内受众，增强民族自豪感、政策认同和社会稳定，巩固国内执政基础。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "聚焦科技文化展示、国际合作、国内发展、外交立场",
+      "sub_items": [
+        {
+          "term": "科技与文化输出",
+          "analysis": "高频展示无人机、高铁、可再生能源等技术创新，以及冰雪景观、文化遗产、电影市场等文化软实力，突出现代与传统结合。"
+        },
+        {
+          "term": "国际合作与援助",
+          "analysis": "强调在坦赞铁路、药品供应、野生动物保护等领域的对外合作，塑造负责任大国形象，拓展经济和政治影响力。"
+        },
+        {
+          "term": "国内发展与治理",
+          "analysis": "报道基础设施、农业保护、城市创新等民生议题，展示政府效能和社会进步，强化内部发展叙事。"
+        },
+        {
+          "term": "外交立场与危机管理",
+          "analysis": "表达对国际事务的立场，如伊朗稳定呼吁，发布旅行警告，体现外交主动性和领事保护能力。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      2,
+      0,
+      9
+    ],
+    [
+      2,
+      1,
+      6
+    ],
+    [
+      2,
+      2,
+      8
+    ],
+    [
+      2,
+      3,
+      10
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 85
+    },
+    {
+      "name": "同伴",
+      "value": 10
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Sun Jan 25 09:12:28 +0000 2026",
+      "text": "RT @ChinaEmbOman: Chinese table tennis storms in Muscat🔥🔥🔥\n\nH.E. Ambassador Lyu Jian met with the Chinese National Table Tennis Team at the…",
+      "translation": "中国乒乓球在马斯喀特掀起热潮🔥🔥🔥 吕健大使会见了中国国家乒乓球队...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 11,
+        "retweet": 6,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 09:12:25 +0000 2026",
+      "text": "RT @ChinaEmbOman: 🏃‍♂️ Great Day at the Muscat Marathon!\nH.E. Ambassador Lyu Jian (for the second time!) and diplomats from the Chinese Emb…",
+      "translation": "🏃‍♂️ 马斯喀特马拉松精彩一天！吕健大使（第二次参加！）和中国外交官们...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 2,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 01:40:10 +0000 2026",
+      "text": "RT @SpoxCHN_MaoNing: In NW China’s Gansu Province, wind turbines turn the Gobi desert’s strong winds into clean energy. https://t.co/S5RjIv…",
+      "translation": "在中国西北的甘肃省，风力发电机将戈壁沙漠的强风转化为清洁能源。",
+      "stance": "正面",
+      "metrics": {
+        "reply": 84,
+        "retweet": 132,
+        "like": 665
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 01:07:29 +0000 2026",
+      "text": "RT @work_worth: #Zootopia2 has now racked up $610 million in China—biggest ever for an imported film here, even outperforming its US box of…",
+      "translation": "#疯狂动物城2# 在中国已收获6.1亿美元票房——创下进口影片最高纪录，甚至超过其美国票房...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 6,
+        "like": 22
+      }
+    },
+    {
+      "created_at": "Sun Jan 25 00:57:03 +0000 2026",
+      "text": "RT @SpoxCHN_LinJian: In the bitter cold of Jilin, NE China, a green train waits patiently—for just three passengers 🚞\n\nFrom world-class hig…",
+      "translation": "在中国东北吉林省的严寒中，一列绿色列车静静等待——只为三位乘客🚞 从世界级高铁到...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 61,
+        "retweet": 129,
+        "like": 495
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 04:41:30 +0000 2026",
+      "text": "RT @SpoxCHN_LinJian: In central China’s Hubei, #drones are taking on a new winter task—clearing snow to protect orchards from frost.\n\nEffic…",
+      "translation": "在中国中部的湖北省，#无人机# 承担起新的冬季任务——清除积雪保护果园免受霜冻。高效...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 36,
+        "retweet": 55,
+        "like": 243
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:41:24 +0000 2026",
+      "text": "RT @UpGuizhou: The breathtaking ice waterfalls in Guizhou – thousands of cliffs frozen solid, countless waterfalls glazed with frost, a fro…",
+      "translation": "贵州令人惊叹的冰瀑布——数千悬崖冻结成冰，无数瀑布披上霜衣，形成冰冻仙境...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 12,
+        "retweet": 9,
+        "like": 31
+      }
+    },
+    {
+      "created_at": "Sat Jan 24 01:05:22 +0000 2026",
+      "text": "RT @work_worth: China’s UNESCO-listed Grand Canal is still a working waterway at 1,000+ years old. Stretching 2,000 km from Beijing to Hang…",
+      "translation": "中国联合国教科文组织名录的大运河已有1000多年历史，至今仍是通航水道。从北京到杭州绵延2000公里...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 25,
+        "like": 161
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 13:35:22 +0000 2026",
+      "text": "RT @SpoxCHN_LinJian: China hopes that Iran will maintain national stability, and that all parties will cherish peace, exercise restraint, a…",
+      "translation": "中国希望伊朗保持国家稳定，各方珍惜和平，保持克制，避免局势升级。",
+      "stance": "中立",
+      "metrics": {
+        "reply": 117,
+        "retweet": 125,
+        "like": 614
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 12:53:47 +0000 2026",
+      "text": "RT @SpoxCHN_MaoNing: Drones are deployed in China to clear snow from greenhouses, protecting farmers’ harvests from winter’s chill. #TechFo…",
+      "translation": "中国部署无人机清除温室积雪，保护农民收成免受冬季严寒。#科技助农#",
+      "stance": "正面",
+      "metrics": {
+        "reply": 119,
+        "retweet": 252,
+        "like": 1351
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:46:35 +0000 2026",
+      "text": "RT @BeyondCloud12: When Northeast China freezes, creativity crystallizes into beauty.\nFeast your eyes on #Shenyang’s glittering “Fruit Wall…",
+      "translation": "当中国东北冻结时，创意结晶成美。欣赏#沈阳# 闪闪发光的“水果墙”...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 15
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:46:20 +0000 2026",
+      "text": "RT @BeyondCloud12: They took dragon boats off the water and onto solid ice.🛶❄️\nBattling -20°C winds, youths from #HIT, #Cambridge, #Oxford&amp;…",
+      "translation": "他们将龙舟从水上移到坚冰上。🛶❄️ 在-20°C寒风中，#哈工大#、#剑桥#、#牛津#等高校青年展开冰上龙舟赛...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 3,
+        "retweet": 3,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:45:56 +0000 2026",
+      "text": "RT @OnandBeyond0011: “I thought it was a real officer!”\nThat’s the reaction to China’s latest robot traffic police. In half a year, they’ve…",
+      "translation": "“我还以为是真警察！”这是对中国最新机器人交警的反应。半年内，它们已处理...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 6,
+        "like": 16
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 10:24:51 +0000 2026",
+      "text": "RT @Consular_CHN: Chinese Foreign Ministry and Chinese Embassy in Afghanistan just issued an advice to Chinese citizens: avoid travelling t…",
+      "translation": "中国外交部和中国驻阿富汗使馆刚刚发布提醒：中国公民避免前往阿富汗旅行...",
+      "stance": "中立",
+      "metrics": {
+        "reply": 15,
+        "retweet": 9,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 09:58:45 +0000 2026",
+      "text": "RT @Consular_CHN: The 28th Harbin international snow sculpture competition kicked off on Jan 6, attracting 25 teams of snow sculptors from…",
+      "translation": "第28届哈尔滨国际雪雕大赛于1月6日开幕，吸引了来自世界各地的25支雪雕团队...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 4,
+        "like": 20
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 05:55:16 +0000 2026",
+      "text": "RT @SpoxCHN_MaoNing: President Xi Jinping spoke with Brazilian President Luiz Inácio Lula da Silva @LulaOficial on the phone.\n\nChina is rea…",
+      "translation": "习近平主席与巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦 @LulaOficial 通电话。中国准备...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 375,
+        "retweet": 879,
+        "like": 6380
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:40:10 +0000 2026",
+      "text": "RT @ChineseEmbTZ: In 2025, Amina, along with 66 Tanzanian railway professionals, was selected for a 3-month special capacity-building progr…",
+      "translation": "2025年，阿米娜与66名坦桑尼亚铁路专业人员被选中参加为期3个月的专项能力建设项目...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 9,
+        "retweet": 19,
+        "like": 87
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:39:53 +0000 2026",
+      "text": "RT @ChinaEmbinGH: Two months ago, under the personal guidances and effort of the heads of state of China, Tanzania, and Zambia, the Tanzani…",
+      "translation": "两个月前，在中坦赞三国元首亲自指导和努力下，坦赞铁路现代化改造项目...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 18
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:39:33 +0000 2026",
+      "text": "RT @ChinaCG_Muc: The China Wildlife Conservation Association signed a cooperation agreement on 21 January 2026 with Munich's Hellabrunn Zoo…",
+      "translation": "中国野生动物保护协会于2026年1月21日与慕尼黑海拉布伦动物园签署合作协议...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 2,
+        "retweet": 3,
+        "like": 23
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 02:39:19 +0000 2026",
+      "text": "RT @EmbHuaXin: Llegó a #Cuba el primer envío de Aspirina de 81 miligramos producido en #China. La cooperación entre China y Cuba continúa m…",
+      "translation": "首批中国生产的81毫克阿司匹林抵达#古巴#。中古合作持续深化...",
+      "stance": "正面",
+      "metrics": {
+        "reply": 26,
+        "retweet": 206,
+        "like": 521
+      }
+    }
+  ]
+}

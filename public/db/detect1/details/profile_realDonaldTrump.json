@@ -1,0 +1,442 @@
+{
+  "id": "profile_realDonaldTrump.json",
+  "_fingerprint": "ca6b1295d0b709aaee391f93ccefa1a9",
+  "name": "realDonaldTrump",
+  "username": "realDonaldTrump",
+  "category": "media",
+  "daily_count": 0.2,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高外向性、高开放性、低宜人性、尽责性表现矛盾、情绪稳定性中等偏波动。",
+      "sub_items": [
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公开表达和互动，积极分享个人及家庭动态，表现出强烈的社交需求和自我展示欲望，乐于成为关注焦点。"
+        },
+        {
+          "term": "高开放性",
+          "analysis": "广泛涉猎并分享不同领域的信息链接，从家庭事务到公共事件均有涉及，表现出对多元话题的关注和分享意愿。"
+        },
+        {
+          "term": "低宜人性",
+          "analysis": "言论风格直接，以自我和亲近者为中心，祝贺与宣传内容突出个人关联方，缺乏对广泛他者或对立面的共情表达。"
+        },
+        {
+          "term": "尽责性矛盾",
+          "analysis": "在家庭事务（如祝贺儿子）上表现出关注和推动，但在分享公共信息（如灾害预警）时仅提供链接，缺乏深度跟进或责任延伸的体现。"
+        },
+        {
+          "term": "情绪稳定性波动",
+          "analysis": "言论在祝贺、庆祝等积极事件与转发灾害预警等严肃事件间快速切换，情绪基调随话题变化明显，易受外部事件牵引。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出明显的自我中心倾向、家族优先主义及对复杂议题的简化处理习惯。",
+      "sub_items": [
+        {
+          "term": "自我中心倾向",
+          "analysis": "言论多围绕个人观察、家庭成就及自我关联的祝贺展开，世界认知以个人视角为出发点，公共信息分享也常附带个人化标签或评论。"
+        },
+        {
+          "term": "家族优先主义",
+          "analysis": "对直系亲属（如儿子）的成就给予高度公开赞扬和推广，将家庭成功置于显著位置，显示出强烈的家族荣誉绑定和推广倾向。"
+        },
+        {
+          "term": "议题简化习惯",
+          "analysis": "对复杂或严肃的公共事件（如自然灾害）仅提供信息链接或简短描述，缺乏深度分析、背景说明或个人立场阐述，倾向于表面化处理。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在确认偏误、可得性启发及情感启发式决策的倾向。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于分享和强调符合个人价值观或带来积极反馈的信息（如家庭成功、节日祝福），对信息的选择性呈现明显。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "言论内容高度依赖即时接触到的信息（如突发新闻、家庭动态、网络链接），反应迅速但缺乏长期、系统的议题跟踪痕迹。"
+        },
+        {
+          "term": "情感启发式",
+          "analysis": "决策与表达明显受当下情绪影响，积极事件（庆祝、祝贺）引发热情洋溢的回应，而严肃事件则转向简短、工具性的信息传递。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "存在信息依赖、反应模式固化及公私边界模糊等行为模式弱点。",
+      "sub_items": [
+        {
+          "term": "外部信息依赖",
+          "analysis": "大量言论以转发链接或基于外部信息源（如新闻、他人成就）为触发点，自身原创、深度阐述的内容比例较低，易受信息源质量或意图影响。"
+        },
+        {
+          "term": "反应模式固化",
+          "analysis": "对不同类型事件的回应模式趋于固定：对积极事件使用祝贺/庆祝模板，对公共事件采用链接分享模板，缺乏灵活多变的应对策略。"
+        },
+        {
+          "term": "公私边界模糊",
+          "analysis": "将家庭事务（如亲属出书）以高调、公开化的方式进行宣传，与公共事务信息（如灾害预警）混杂发布，容易引发对其角色定位和优先级的质疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "立场表达存在家庭利益绑定、公共议题回避及情绪化定调等不稳定因素。",
+      "sub_items": [
+        {
+          "term": "家庭利益绑定",
+          "analysis": "个人立场与家族利益高度捆绑，公开为亲属的商业或文化产品站台，使得其公共立场容易与私人利益产生关联性质疑。"
+        },
+        {
+          "term": "公共议题回避",
+          "analysis": "面对复杂的公共议题或潜在争议时，倾向于使用中性信息链接或简短描述，避免清晰、深入的个人立场陈述，留下解释空间和不确定性。"
+        },
+        {
+          "term": "情绪化定调",
+          "analysis": "对事件或人物的立场判断常以简短、情绪化的词汇（如“伟大”、“祝贺”）快速定调，缺乏理性论证支撑，立场显得轻浮且易变。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "在信息甄别、深度分析及议题持续跟进方面表现出能力短板。",
+      "sub_items": [
+        {
+          "term": "信息甄别能力不足",
+          "analysis": "分享的信息源多为第三方链接，未体现出对信息真实性、权威性或背景进行独立核查与说明的痕迹，存在误传或放大不实信息的风险。"
+        },
+        {
+          "term": "深度分析能力欠缺",
+          "analysis": "言论停留在信息通报、情感表达或简单祝贺层面，未见对经济、政治、社会等复杂议题进行因果分析、趋势研判或解决方案探讨的内容。"
+        },
+        {
+          "term": "议题持续跟进缺失",
+          "analysis": "对提及的事件（如灾害）缺乏后续的进展更新、影响评估或个人反思，表现出“一次性”关注的特点，持久性和责任感体现不足。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在需要外部认可、认知负荷管理困难及风险感知钝化等心智特点。",
+      "sub_items": [
+        {
+          "term": "外部认可需求",
+          "analysis": "频繁公开分享家庭成就并期待公众祝贺，对亲属成功的自豪感需要外显化并获得反馈，显示出对外部认可和声望的较强心理依赖。"
+        },
+        {
+          "term": "认知负荷管理困难",
+          "analysis": "言论主题在家庭喜庆、公共灾害、节日祝福间跳跃，缺乏明显的逻辑主线或优先级管理，反映出处理多元信息时可能存在的注意力分散和焦点模糊。"
+        },
+        {
+          "term": "风险感知钝化",
+          "analysis": "在分享灾害预警等高风险信息时，语气平静且仅提供链接，未表现出强烈的紧迫感、同情呼吁或个人行动倡议，对风险的共情和动员能力有限。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "潜在意图包括维持公众关注度、强化家族品牌及塑造亲民且负责任的形象。",
+      "sub_items": [
+        {
+          "term": "维持公众关注度",
+          "analysis": "通过高频、多主题的言论发布，保持其在公共话语空间中的存在感和话题性，防止被边缘化，确保持续的社会影响力。"
+        },
+        {
+          "term": "强化家族品牌",
+          "analysis": "借公开平台积极推广直系亲属的成就和产品，旨在提升整个家族的社会知名度、商业价值和政治资本，实现家族利益的代际传递与扩张。"
+        },
+        {
+          "term": "塑造复合形象",
+          "analysis": "混合发布家庭温情、节日祝福与公共信息，意图塑造一个既重视家庭、富有情感，又关心公众事务、具备一定责任感的复合型公众人物形象。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注领域集中于家庭事务、公共事件通报及国家象征性时刻。",
+      "sub_items": [
+        {
+          "term": "家庭与亲属事务",
+          "analysis": "将子女成就、家庭庆祝等私人领域事件进行公开化、高调宣传，是该人物最投入情感和表达资源的首要话题领域。"
+        },
+        {
+          "term": "公共事件与信息通报",
+          "analysis": "对自然灾害、社会动态等公共事件保持关注并分享信息链接，扮演了信息传递者角色，但介入深度有限，更多是告知而非参与。"
+        },
+        {
+          "term": "国家象征与节日",
+          "analysis": "在国家重要纪念日或象征性时刻发表庆祝言论，表达爱国情感，强化自身与国家认同的绑定，属于仪式性、情感化的表达领域。"
+        },
+        {
+          "term": "人际祝贺与赞扬",
+          "analysis": "频繁对他人（尤其是关联方）的成功、婚礼等事件表示祝贺，属于维持社会关系、展示亲和力的社交性话题领域。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      7
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      0,
+      2,
+      8
+    ],
+    [
+      1,
+      3,
+      5
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 65
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 15
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Sep 17 02:08:27 +0000 2025",
+      "text": "https://t.co/gZgTprtUvt",
+      "translation": "https://t.co/gZgTprtUvt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 31757,
+        "retweet": 45467,
+        "like": 319618
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 03:01:51 +0000 2025",
+      "text": "Yes, I’m watching. Congratulations! https://t.co/3iN3YnTUnn",
+      "translation": "是的，我正在观看。恭喜！https://t.co/3iN3YnTUnn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 14718,
+        "retweet": 31722,
+        "like": 497329
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 03:00:58 +0000 2025",
+      "text": "https://t.co/NNNumraCkN",
+      "translation": "https://t.co/NNNumraCkN",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13312,
+        "retweet": 37919,
+        "like": 450485
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 02:49:30 +0000 2025",
+      "text": "https://t.co/AdZzv7LJLt",
+      "translation": "https://t.co/AdZzv7LJLt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11356,
+        "retweet": 29147,
+        "like": 268416
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 02:48:50 +0000 2025",
+      "text": "https://t.co/2yyuRkm9r8",
+      "translation": "https://t.co/2yyuRkm9r8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21393,
+        "retweet": 47293,
+        "like": 273669
+      }
+    },
+    {
+      "created_at": "Wed Oct 01 02:48:04 +0000 2025",
+      "text": "What a great couple—Congratulations! President DJT",
+      "translation": "多么般配的一对——恭喜！特朗普总统",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7483,
+        "retweet": 21350,
+        "like": 281680
+      }
+    },
+    {
+      "created_at": "Wed Jul 30 02:16:19 +0000 2025",
+      "text": "Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United States. Japan is also in the way. Please visit https://t.co/wdFzeu1I0h for the",
+      "translation": "由于太平洋发生大规模地震，夏威夷居民已发布海啸警报。阿拉斯加和美国太平洋海岸已发布海啸观察。日本也处于路径上。请访问 https://t.co/wdFzeu1I0h 获取",
+      "stance": "无关",
+      "metrics": {
+        "reply": 62714,
+        "retweet": 63774,
+        "like": 455658
+      }
+    },
+    {
+      "created_at": "Tue Sep 30 00:35:34 +0000 2025",
+      "text": "https://t.co/JzQYLShOCt",
+      "translation": "https://t.co/JzQYLShOCt",
+      "stance": "无关",
+      "metrics": {
+        "reply": 37391,
+        "retweet": 81291,
+        "like": 461807
+      }
+    },
+    {
+      "created_at": "Thu Sep 11 13:03:39 +0000 2025",
+      "text": "https://t.co/HGH3yQKdO7",
+      "translation": "https://t.co/HGH3yQKdO7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13549,
+        "retweet": 21956,
+        "like": 164320
+      }
+    },
+    {
+      "created_at": "Thu Sep 11 01:15:39 +0000 2025",
+      "text": "TO MY GREAT FELLOW AMERICANS… https://t.co/oRsrE5TTHr",
+      "translation": "致我伟大的美国同胞们… https://t.co/oRsrE5TTHr",
+      "stance": "无关",
+      "metrics": {
+        "reply": 64973,
+        "retweet": 191500,
+        "like": 1311040
+      }
+    },
+    {
+      "created_at": "Thu Sep 04 14:24:03 +0000 2025",
+      "text": "https://t.co/jauBk37XWF",
+      "translation": "https://t.co/jauBk37XWF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 18294,
+        "retweet": 48625,
+        "like": 412180
+      }
+    },
+    {
+      "created_at": "Thu Sep 04 12:54:15 +0000 2025",
+      "text": "https://t.co/tIFFgTibCa",
+      "translation": "https://t.co/tIFFgTibCa",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11899,
+        "retweet": 24302,
+        "like": 180587
+      }
+    },
+    {
+      "created_at": "Thu Sep 04 12:52:21 +0000 2025",
+      "text": "https://t.co/IVIHaB3DYr",
+      "translation": "https://t.co/IVIHaB3DYr",
+      "stance": "无关",
+      "metrics": {
+        "reply": 21896,
+        "retweet": 35608,
+        "like": 274011
+      }
+    },
+    {
+      "created_at": "Thu Jul 17 14:20:41 +0000 2025",
+      "text": "https://t.co/iDGcFKBR9r",
+      "translation": "https://t.co/iDGcFKBR9r",
+      "stance": "无关",
+      "metrics": {
+        "reply": 27370,
+        "retweet": 13597,
+        "like": 81653
+      }
+    },
+    {
+      "created_at": "Sat Jul 05 03:41:44 +0000 2025",
+      "text": "HAPPY 4TH OF JULY!\n🎇🎆🇺🇸🦅https://t.co/54aoHX14mj",
+      "translation": "独立日快乐！🎇🎆🇺🇸🦅https://t.co/54aoHX14mj",
+      "stance": "无关",
+      "metrics": {
+        "reply": 42158,
+        "retweet": 54706,
+        "like": 489948
+      }
+    },
+    {
+      "created_at": "Mon Sep 15 18:20:42 +0000 2025",
+      "text": "MY son Eric’s just out book, “UNDER SIEGE,” immediately went to NUMBER ONE on Amazon. Great going Eric, you deserve it!!! https://t.co/na0jBJ1VmX https://t.co/LBnGcsLMWH",
+      "translation": "我儿子埃里克的新书《围困之下》刚出版就登上了亚马逊畅销榜第一名。干得好埃里克，你当之无愧！！！https://t.co/na0jBJ1VmX https://t.co/LBnGcsLMWH",
+      "stance": "无关",
+      "metrics": {
+        "reply": 32589,
+        "retweet": 49767,
+        "like": 342106
+      }
+    },
+    {
+      "created_at": "Mon Jul 21 18:36:51 +0000 2025",
+      "text": "https://t.co/W4F1joXP8E",
+      "translation": "https://t.co/W4F1joXP8E",
+      "stance": "无关",
+      "metrics": {
+        "reply": 59395,
+        "retweet": 45813,
+        "like": 257413
+      }
+    },
+    {
+      "created_at": "Fri Sep 05 02:23:23 +0000 2025",
+      "text": "https://t.co/uCKSkNF0D3",
+      "translation": "https://t.co/uCKSkNF0D3",
+      "stance": "无关",
+      "metrics": {
+        "reply": 47344,
+        "retweet": 48021,
+        "like": 442174
+      }
+    },
+    {
+      "created_at": "Fri Sep 05 02:18:44 +0000 2025",
+      "text": "https://t.co/KBZz0iosQX",
+      "translation": "https://t.co/KBZz0iosQX",
+      "stance": "无关",
+      "metrics": {
+        "reply": 20801,
+        "retweet": 28164,
+        "like": 229391
+      }
+    },
+    {
+      "created_at": "Fri Jul 04 21:17:03 +0000 2025",
+      "text": "https://t.co/PTPGtD7bjV",
+      "translation": "https://t.co/PTPGtD7bjV",
+      "stance": "无关",
+      "metrics": {
+        "reply": 16119,
+        "retweet": 23562,
+        "like": 141266
+      }
+    }
+  ]
+}

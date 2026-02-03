@@ -1,0 +1,470 @@
+{
+  "id": "profile_dndphl.json",
+  "_fingerprint": "15e8f94f6beb9997eafc94edf35de8ad",
+  "name": "dndphl",
+  "username": "dndphl",
+  "category": "media",
+  "daily_count": 0.8,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高尽责性、高外向性、中等宜人性、中等开放性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "高尽责性",
+          "analysis": "言论强调职责履行、制度规范、国家安全与纪律，如定期发布官方声明、纪念活动、强调法律与秩序，体现对组织使命的高度责任感。"
+        },
+        {
+          "term": "高外向性",
+          "analysis": "频繁进行公共沟通、外交互动与节日祝福，主动塑造公众形象，通过社交媒体广泛传播信息，展现外向的沟通风格与社交活跃度。"
+        },
+        {
+          "term": "中等宜人性",
+          "analysis": "在内部表彰与节日问候中展现亲和力，但在涉及主权争议时态度强硬，措辞直接，平衡了合作意愿与坚定立场。"
+        },
+        {
+          "term": "中等开放性",
+          "analysis": "关注国际视角与专家分析，引入外部观点如欧盟支持、防御合作，但核心叙事围绕传统国家安全框架，创新性有限。"
+        },
+        {
+          "term": "中等神经质",
+          "analysis": "在常规事务中表现稳定，但在应对安全威胁如海上事件时情绪强度升高，强调警惕与应对，显示情境性情绪波动。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "存在权威依赖、群体中心主义与风险规避倾向。",
+      "sub_items": [
+        {
+          "term": "权威依赖",
+          "analysis": "言论高度依赖官方职位与制度权威，如频繁引用部长声明、外交使节互动，缺乏个人化或批判性视角，可能削弱独立判断。"
+        },
+        {
+          "term": "群体中心主义",
+          "analysis": "强调国家、军队与民族集体身份，使用“我们”“我们的”叙事，可能忽视个体差异或多元声音，强化内群体偏见。"
+        },
+        {
+          "term": "仪式化表达",
+          "analysis": "在节日、纪念日发布程式化祝福与表彰，内容重复性高，可能流于表面形式，削弱信息深度与情感真实性。"
+        },
+        {
+          "term": "防御性姿态",
+          "analysis": "在安全议题上迅速采取强硬声明，如指责外部行为体，可能反映出过度防御心态，限制对话与妥协空间。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "表现出确认偏误、群体归因与乐观偏见。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "选择性分享支持菲律宾主权立场的内容，如专家文章强调国际法依据，忽略或淡化对立观点，强化既有认知框架。"
+        },
+        {
+          "term": "群体归因",
+          "analysis": "将外部行为体如中国海事力量描述为统一威胁，简化复杂动机，同时将内部群体如军队理想化为无私奉献者，忽视个体差异。"
+        },
+        {
+          "term": "乐观偏见",
+          "analysis": "强调国际合作与现代化倡议的积极成果，如与欧盟、英国、法国的互动，可能高估外部支持的实际效力与可持续性。"
+        },
+        {
+          "term": "可得性启发",
+          "analysis": "频繁报道近期事件如海上骚扰、外交会议，使这些议题在认知中凸显，可能放大短期威胁感或机遇感知。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "公开声明易引发外交摩擦，内部动员可能疲劳，信息过载降低注意力。",
+      "sub_items": [
+        {
+          "term": "声明驱动冲突",
+          "analysis": "就敏感议题如南海事件发布直接指责性声明，可能激化双边紧张，限制外交回旋余地，增加误判风险。"
+        },
+        {
+          "term": "仪式疲劳",
+          "analysis": "高频次的节日祝福、纪念活动与内部表彰，可能使受众产生信息麻木，削弱关键安全信息的突出性与影响力。"
+        },
+        {
+          "term": "信息过载",
+          "analysis": "同时覆盖外交、军事、社会等多领域话题，内容分散，可能稀释核心信息焦点，导致公众注意力分散。"
+        },
+        {
+          "term": "反应性模式",
+          "analysis": "对外部事件如海上事件迅速发表声明，显示被动反应倾向，可能缺乏长期战略沟通规划，易被突发事件主导议程。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "主权立场强硬但依赖外部支持，内部叙事存在张力。",
+      "sub_items": [
+        {
+          "term": "外部依赖矛盾",
+          "analysis": "一方面强调主权独立与自强，另一方面积极寻求欧盟、英国、法国等外部支持，这种依赖可能削弱自主形象，引发内外质疑。"
+        },
+        {
+          "term": "叙事一致性压力",
+          "analysis": "需同时维护强硬主权立场与区域稳定者形象，在事件如雷达照射日本时表态支持盟友，可能加剧地区对立，平衡难度高。"
+        },
+        {
+          "term": "内部动员局限",
+          "analysis": "依赖民族主义与牺牲叙事激励军队与公众，长期可能面临疲劳或期望落差，尤其在资源有限、现代化进程缓慢背景下。"
+        },
+        {
+          "term": "多边合作不确定性",
+          "analysis": "高调宣传与多国合作如东盟领导、SOVFA谈判，实际成果与持久性受国际政治变动影响，承诺可能难以完全兑现。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "资源与执行力受限，信息战能力不足，现代化进程缓慢。",
+      "sub_items": [
+        {
+          "term": "资源约束",
+          "analysis": "言论提及军事资产成本高、不可替代，暗示预算与资源有限，可能制约防御能力提升与现代化倡议的实际进展。"
+        },
+        {
+          "term": "信息战短板",
+          "analysis": "虽呼吁警惕假新闻，但内容以传统声明与祝福为主，缺乏深度分析或创新传播策略，在复杂信息环境中竞争力不足。"
+        },
+        {
+          "term": "执行落差风险",
+          "analysis": "强调数据改进、渔民赋能等政策目标，但未展示具体成果或时间表，存在承诺与执行之间的潜在差距。"
+        },
+        {
+          "term": "技术依赖",
+          "analysis": "现代化倡议依赖外部技术与合作，如法国SOVFA谈判，可能受制于技术转让条件与国际供应链稳定性。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在焦虑驱动、身份固化与认知闭合倾向。",
+      "sub_items": [
+        {
+          "term": "安全焦虑",
+          "analysis": "频繁提及威胁如海上骚扰、假新闻，显示对安全环境的高度担忧，可能驱动过度反应或决策紧缩，影响理性评估。"
+        },
+        {
+          "term": "身份固化",
+          "analysis": "强化“捍卫者”“稳定者”身份叙事，可能限制角色弹性，难以适应策略调整或妥协场景，导致认知僵化。"
+        },
+        {
+          "term": "认知闭合",
+          "analysis": "在主权议题上使用绝对化语言如“不公正”“骚扰”，迅速归因，反映出对复杂地缘政治寻求简单解释的倾向。"
+        },
+        {
+          "term": "情感绑定",
+          "analysis": "将安全议题与民族情感、家庭牺牲深度绑定，如节日期间表彰军人，可能使理性决策受情感因素干扰。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在强化国内凝聚力，提升国际地位，并塑造长期战略自主形象。",
+      "sub_items": [
+        {
+          "term": "国内合法化",
+          "analysis": "通过频繁的公共沟通与民族主义叙事，巩固国防部门在国内的政治合法性，争取公众支持以应对预算与政策挑战。"
+        },
+        {
+          "term": "国际杠杆构建",
+          "analysis": "高调展示与多国外交互动，旨在将菲律宾定位为关键区域伙伴，吸引外部支持以平衡更大邻国的影响力。"
+        },
+        {
+          "term": "长期自主塑造",
+          "analysis": "强调现代化、数据赋能等倡议，暗示意图减少对外部依赖，逐步构建自主防御能力，但过程可能缓慢且资源密集。"
+        },
+        {
+          "term": "叙事主导",
+          "analysis": "主动设置议程如假新闻教育、主权声明，旨在控制公共话语权，塑造有利的国家安全叙事，抵消外部宣传或批评。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心聚焦主权与国防，延伸至外交、社会动员与内部管理。",
+      "sub_items": [
+        {
+          "term": "主权与海洋安全",
+          "analysis": "频繁涉及南海议题、国际法主张及渔民保护，强调捍卫领土权利与应对海上威胁，为核心优先领域。"
+        },
+        {
+          "term": "国防外交",
+          "analysis": "积极报道与欧盟、英国、法国、斯洛文尼亚等外交互动，突出国际合作以增强安全网络与区域影响力。"
+        },
+        {
+          "term": "内部动员与士气",
+          "analysis": "通过节日祝福、军人表彰、纪念活动强化内部凝聚力，塑造牺牲与奉献的集体价值观，支持长期国防努力。"
+        },
+        {
+          "term": "现代化与能力建设",
+          "analysis": "关注军事资产保护、政府兵工厂视察、数据改进等议题，反映推动国防体系现代化与效率提升的意图。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      0,
+      1,
+      10
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      3
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 75
+    },
+    {
+      "name": "同伴",
+      "value": 20
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Wed Dec 24 23:00:01 +0000 2025",
+      "text": "Maligayang Pasko mula sa #DNDPHL!🎄\n\nNawa’y ang diwa ng kapanganakan ni Hesukristo ay maghatid ng kapayapaan, pag-asa, at pagkakaisa sa bawat pamilyang Pilipino—dito man sa ating bayan o saan mang panig ng mundo.\n\n#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/z6EVFd0UZn",
+      "translation": "来自#DNDPHL的圣诞快乐！🎄 愿耶稣基督诞生的精神为每个菲律宾家庭带来和平、希望与团结——无论是在我们国家还是在世界任何角落。#BagongPilipinas #PilipinasDiKaPasisiil https://t.co/z6EVFd0UZn",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3,
+        "retweet": 1,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 12:00:01 +0000 2025",
+      "text": "Saludo at pagbati sa ating mga sundalo at kawani na naglilingkod sa bayan nang malayo sa kanilang pamilya ngayong Kapaskuhan. ⭐🎄🫡\n\nTaos pusong pasasalamat sa inyong sipag, dedikasyon, at sakripisyo para sa kaligtasan ng ating pamayanan at seguridad ng ating bansa! 🇵🇭\n\n#DNDPHL https://t.co/WAEAlAuL1X",
+      "translation": "向那些在圣诞节期间远离家人为国家服务的士兵和工作人员致敬与问候。⭐🎄🫡 衷心感谢你们的勤奋、奉献和牺牲，为我们社区的安全和我们国家的安全！🇵🇭 #DNDPHL https://t.co/WAEAlAuL1X",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 3,
+        "like": 10
+      }
+    },
+    {
+      "created_at": "Wed Dec 24 03:15:00 +0000 2025",
+      "text": "PANOORIN | Mensahe ng Kalihim ng Kagawaran ng Tanggulang Pambansa, Secretary Gilberto C. Teodoro, Jr., sa pagdiriwang ng Kapaskuhan at pagsalubong sa Bagong Taon 🎄✨\n\nMula sa inyong #DNDPHL, hiling namin ang ligtas, payapa, at masayang pagdiriwang para sa lahat. https://t.co/44FuNQy71n",
+      "translation": "观看 | 国防部长吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）在庆祝圣诞节和迎接新年之际的致辞 🎄✨ 来自你们的#DNDPHL，我们祝愿所有人度过一个安全、和平、快乐的庆祝活动。https://t.co/44FuNQy71n",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 4,
+        "like": 32
+      }
+    },
+    {
+      "created_at": "Wed Dec 03 02:10:59 +0000 2025",
+      "text": "READ | Message of #DNDPHL Senior Undersecretary Irineo C. Espino, Chairperson of the DND Gender and Development Focal Point System on the commemoration of the 2025 18-Day Campaign to End Violence Against Women (VAW) \n\n#VAWfreePH #BagongPilipinas https://t.co/h9Mos7UkZ7",
+      "translation": "阅读 | #DNDPHL高级副部长伊里内奥·C·埃斯皮诺（Irineo C. Espino），国防部性别与发展焦点系统主席，关于纪念2025年结束暴力侵害妇女行为（VAW）18天运动的致辞 #VAWfreePH #BagongPilipinas https://t.co/h9Mos7UkZ7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 0,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Tue Dec 23 06:00:01 +0000 2025",
+      "text": "KONTRA FAKE NEWS | Alamin ang pagkakaiba ng 𝗺𝗶𝘀𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻, 𝗱𝗶𝘀𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻, at 𝗺𝗮𝗹𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 — at kung paano nito naaapektuhan ang bawat Pilipino.\n\nMaging mapanuri laban sa fake news.\nMaging responsable. Maging handa.\n\n#DNDPHL https://t.co/giUGkBayjJ",
+      "translation": "反假新闻 | 了解𝗺𝗶𝘀𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻（错误信息）、𝗱𝗶𝘀𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻（虚假信息）和𝗺𝗮𝗹𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻（恶意信息）的区别——以及它们如何影响每个菲律宾人。对假新闻保持警惕。保持负责任。做好准备。#DNDPHL https://t.co/giUGkBayjJ",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 6,
+        "like": 11
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 05:21:00 +0000 2025",
+      "text": "🇵🇭🇬🇧 Secretary of National Defense Gilberto C. Teodoro, Jr. welcomed H.E. Sarah Hulton OBE, Ambassador of the United Kingdom (UK) to the Philippines, during an introductory call at the Department of National Defense in Camp Aguinaldo, Quezon City on December 16, 2025.\n\n#DNDPHL https://t.co/23weK9Te3G",
+      "translation": "🇵🇭🇬🇧 国防部长吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）于2025年12月16日在奎松市阿吉纳尔多营的国防部欢迎英国驻菲律宾大使莎拉·赫尔顿（Sarah Hulton OBE）的礼节性拜访。#DNDPHL https://t.co/23weK9Te3G",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 8,
+        "like": 46
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 03:00:32 +0000 2025",
+      "text": "READ | Statement of #DNDPHL Sec. Gilberto C. Teodoro, Jr. on the recent harassment by Chinese maritime forces against Filipino fishers in the vicinity of Escoda Shoal 👇 https://t.co/gwxoZvt2xP",
+      "translation": "阅读 | #DNDPHL部长吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）就中国海上力量最近在埃斯科达浅滩附近骚扰菲律宾渔民事件的声明 👇 https://t.co/gwxoZvt2xP",
+      "stance": "负面",
+      "metrics": {
+        "reply": 8,
+        "retweet": 50,
+        "like": 189
+      }
+    },
+    {
+      "created_at": "Tue Dec 16 01:00:01 +0000 2025",
+      "text": "ICYMI  🇵🇭🤝🇸🇮  | #DNDPHL Sec. Gilberto C. Teodoro, Jr. met with H.E. Smiljana Knez, Ambassador of the Republic of Slovenia to the Philippines, during her introductory call at the Department of National Defense. \n\nFull more: https://t.co/YJ1w2roeQP https://t.co/n10k1t0XL8",
+      "translation": "ICYMI 🇵🇭🤝🇸🇮 | #DNDPHL部长吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）在斯洛文尼亚共和国驻菲律宾大使斯米利亚娜·克内兹（Smiljana Knez）礼节性拜访国防部时与其会面。全文：https://t.co/YJ1w2roeQP https://t.co/n10k1t0XL8",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 5,
+        "like": 34
+      }
+    },
+    {
+      "created_at": "Thu Dec 11 01:00:00 +0000 2025",
+      "text": "DEFENSE PERSPECTIVES | In his column on Manila Standard, Jose Antonio Goitia posits that, with its firm assertion of rights anchored on international law, the Philippines has become a \"stabilizing presence\" in the region.\n\nRead the full column: https://t.co/5rPVpnOTAJ https://t.co/HCFkfflon7",
+      "translation": "国防视角 | 在《马尼拉标准报》的专栏中，何塞·安东尼奥·戈伊蒂亚（Jose Antonio Goitia）认为，凭借其基于国际法的坚定权利主张，菲律宾已成为该地区的“稳定力量”。阅读全文：https://t.co/5rPVpnOTAJ https://t.co/HCFkfflon7",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 1,
+        "like": 3
+      }
+    },
+    {
+      "created_at": "Thu Dec 04 08:13:29 +0000 2025",
+      "text": "PH to Advance Practical Defense, Security Cooperation for its ASEAN Leadership in 2026\n\nFull story 👉 https://t.co/XYSsbtyUv9 https://t.co/Zu9p7FWJVu",
+      "translation": "菲律宾将在2026年担任东盟轮值主席国期间推进务实的国防与安全合作。完整报道 👉 https://t.co/XYSsbtyUv9 https://t.co/Zu9p7FWJVu",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 1,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Sun Nov 30 10:00:01 +0000 2025",
+      "text": "Sec. Gilberto C. Teodoro,Jr. underscored the pitfalls of the bases conversion model, noting that many military assets are irreplaceable and extremely costly to replicate. He stressed that any further attempts would be an injustice to both the Armed Forces and the Filipino people. https://t.co/t2xLrXFEQr",
+      "translation": "吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）部长强调了基地转换模式的弊端，指出许多军事资产是不可替代且复制成本极高的。他强调，任何进一步的尝试都将对武装部队和菲律宾人民不公。https://t.co/t2xLrXFEQr",
+      "stance": "无关",
+      "metrics": {
+        "reply": 13,
+        "retweet": 1,
+        "like": 7
+      }
+    },
+    {
+      "created_at": "Sun Dec 21 01:00:00 +0000 2025",
+      "text": "The #DNDPHL honors the courage, dedication, and professionalism of the men and women of the Armed Forces of the Philippines on its 90th Founding Anniversary. Our warmest salute, @TeamAFP! 🫡 https://t.co/e79AkjWHJs",
+      "translation": "#DNDPHL在菲律宾武装部队成立90周年之际，向菲律宾武装部队男女官兵的勇气、奉献和专业精神致敬。我们最热烈的敬礼，@TeamAFP！🫡 https://t.co/e79AkjWHJs",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 8,
+        "like": 26
+      }
+    },
+    {
+      "created_at": "Sun Dec 07 23:00:02 +0000 2025",
+      "text": "The Department of National Defense stands in solidarity with our Catholic brothers and sisters in honoring the Feast of the Immaculate Conception.\n📿🙏\n#DNDPHL https://t.co/Dc7Pu9Pn4C",
+      "translation": "国防部与我们的天主教兄弟姐妹团结一致，共同庆祝圣母无染原罪节。📿🙏 #DNDPHL https://t.co/Dc7Pu9Pn4C",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1,
+        "retweet": 0,
+        "like": 8
+      }
+    },
+    {
+      "created_at": "Sat Nov 29 23:00:00 +0000 2025",
+      "text": "The Department of National Defense joins the nation in commemorating the 162nd Birth Anniversary of Gat Andres Bonifacio. 🫡#DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil #BonifacioDay2025 https://t.co/VaxsZt3Jid",
+      "translation": "国防部与全国一同纪念加特·安德烈斯·博尼法西奥（Gat Andres Bonifacio）诞辰162周年。🫡#DNDPHL #BagongPilipinas #PilipinasDiKaPasisiil #BonifacioDay2025 https://t.co/VaxsZt3Jid",
+      "stance": "无关",
+      "metrics": {
+        "reply": 7,
+        "retweet": 1,
+        "like": 19
+      }
+    },
+    {
+      "created_at": "Mon Dec 15 05:51:07 +0000 2025",
+      "text": "READ👇\n\n#DNDPHL https://t.co/2AH5gVQjPh",
+      "translation": "阅读👇 #DNDPHL https://t.co/2AH5gVQjPh",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 8,
+        "like": 27
+      }
+    },
+    {
+      "created_at": "Fri Dec 26 05:00:01 +0000 2025",
+      "text": "In his column, Prof. Dindo Manhit emphasized that empowering fisherfolk, strengthening marine resource protection through improved data, &amp; fostering cooperation—alongside naval deterrence &amp; surveillance—are vital to safeguarding the PH maritime domain and securing our future. https://t.co/l4myjiRIaF",
+      "translation": "在其专栏中，丁多·曼希特（Dindo Manhit）教授强调，赋予渔民权力、通过改进数据加强海洋资源保护、以及促进合作——连同海军威慑和监视——对于保护菲律宾海洋领域和保障我们的未来至关重要。https://t.co/l4myjiRIaF",
+      "stance": "无关",
+      "metrics": {
+        "reply": 6,
+        "retweet": 5,
+        "like": 14
+      }
+    },
+    {
+      "created_at": "Fri Dec 19 07:10:17 +0000 2025",
+      "text": "𝗗𝗘𝗙𝗘𝗡𝗦𝗘 𝗣𝗘𝗥𝗦𝗣𝗘𝗖𝗧𝗜𝗩𝗘𝗦 | In his opinion article, H.E Massimo Santoro emphasized the European Union (EU)’s commitment to supporting the Philippines’ ASEAN leadership in 2026 and strengthening cooperation.\n\nRead more: https://t.co/PFVGtTxC4j https://t.co/HG5bNSM40q",
+      "translation": "𝗗𝗘𝗙𝗘𝗡𝗦𝗘 𝗣𝗘𝗥𝗦𝗣𝗘𝗖𝗧𝗜𝗩𝗘𝗦 | 在其评论文章中，马西莫·桑托罗（Massimo Santoro）阁下强调了欧盟（EU）支持菲律宾在2026年担任东盟轮值主席国并加强合作的承诺。阅读更多：https://t.co/PFVGkTxC4j https://t.co/HG5bNSM40q",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2,
+        "retweet": 2,
+        "like": 5
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 12:24:06 +0000 2025",
+      "text": "READ 👇 | Statement on China’s Incidents of Radar Illumination Against Japan  \n\n#DNDPHL https://t.co/aASTCQBpMu",
+      "translation": "阅读👇 | 关于中国对日本雷达照射事件的声明 #DNDPHL https://t.co/aASTCQBpMu",
+      "stance": "负面",
+      "metrics": {
+        "reply": 5,
+        "retweet": 77,
+        "like": 190
+      }
+    },
+    {
+      "created_at": "Fri Dec 12 05:22:34 +0000 2025",
+      "text": "ICYMI | The Philippines and France successfully concluded the two-day second round of negotiations on the proposed Philippines–France Status of Visiting Forces Agreement (SOVFA) earlier this week. 🇵🇭🤝🇫🇷\n\nRead more: https://t.co/aUXqCNQjB0 https://t.co/I7gvYg5Fln",
+      "translation": "ICYMI | 菲律宾和法国本周早些时候成功结束了为期两天的第二轮关于拟议的菲律宾-法国访问部队地位协定（SOVFA）的谈判。🇵🇭🤝🇫🇷 阅读更多：https://t.co/aUXqCNQjB0 https://t.co/I7gvYg5Fln",
+      "stance": "无关",
+      "metrics": {
+        "reply": 0,
+        "retweet": 3,
+        "like": 9
+      }
+    },
+    {
+      "created_at": "Fri Dec 05 07:26:02 +0000 2025",
+      "text": "LOOK | #DNDPHL Sec. Gilberto C. Teodoro, Jr. visited the Government Arsenal (GA) in Limay, Bataan on Wednesday, December 3, to engage with management and employees on the Bureau’s operations, modernization initiatives, and workforce development. https://t.co/nMvyJNJkF1",
+      "translation": "看 | #DNDPHL部长吉尔伯托·C·特奥多罗（Gilberto C. Teodoro, Jr.）于12月3日星期三访问了位于巴丹省利迈的政府兵工厂（GA），与管理层和员工就该局的运营、现代化举措和劳动力发展进行了交流。https://t.co/nMvyJNJkF1",
+      "stance": "无关",
+      "metrics": {
+        "reply": 5,
+        "retweet": 1,
+        "like": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "profile_ElonMusk.json",
+  "_fingerprint": "0f5ac22446352f132d08febd823df166",
+  "name": "ElonMusk",
+  "username": "elonmusk",
+  "category": "politician",
+  "daily_count": 6.7,
+  "analysis_report": [
+    {
+      "dimension": "1. 大五人格",
+      "summary": "高开放性、高尽责性、低宜人性、中等外向性、中等神经质。",
+      "sub_items": [
+        {
+          "term": "开放性极高",
+          "analysis": "持续关注并推广前沿人工智能技术如Grok，对太空探索、技术创新等未来领域表现出强烈兴趣，乐于探索未知边界。"
+        },
+        {
+          "term": "尽责性高",
+          "analysis": "通过转发内容展现对特定社会议题（如儿童保护、政治透明度）的持续关注和责任感，强调对真相和原则的坚持。"
+        },
+        {
+          "term": "宜人性低",
+          "analysis": "频繁转发涉及政治冲突、社会撕裂、指控政府或精英的内容，不回避争议，甚至可能主动参与或放大对立言论。"
+        },
+        {
+          "term": "外向性中等",
+          "analysis": "通过社交媒体积极发声和互动，但内容多聚焦于理念传播和议题讨论，而非纯粹社交或个人情感表达。"
+        },
+        {
+          "term": "神经质中等",
+          "analysis": "言论涉及对政府、媒体、社会现状的批判，显示出一定的警觉和不满，但未表现出极端的情绪不稳定或焦虑。"
+        }
+      ]
+    },
+    {
+      "dimension": "2. 人格缺陷",
+      "summary": "表现出救世主情结、对抗性倾向、选择性共情和可能的知识傲慢。",
+      "sub_items": [
+        {
+          "term": "救世主情结",
+          "analysis": "转发内容暗示其认为自己在揭露真相、对抗腐败或推动技术进步以“造福人类”，带有强烈的使命感和自我重要感。"
+        },
+        {
+          "term": "对抗性倾向",
+          "analysis": "乐于分享和放大与主流叙事或官方立场相悖的争议性信息，特别是针对政府、政治精英和所谓“审查工业复合体”的指控。"
+        },
+        {
+          "term": "选择性共情",
+          "analysis": "对某些特定受害者群体（如儿童性剥削受害者、受非法移民犯罪影响的公民）表现出强烈关注，但对其他群体或复杂背景的议题可能缺乏同等关切。"
+        },
+        {
+          "term": "知识/技术傲慢",
+          "analysis": "对自身技术解决方案（如Grok AI）的能力表现出高度自信，可能低估社会问题的复杂性，倾向于用技术视角简化或解决深层矛盾。"
+        }
+      ]
+    },
+    {
+      "dimension": "3. 认知倾向",
+      "summary": "存在确认偏误、技术解决方案主义、阴谋论倾向和二元对立思维。",
+      "sub_items": [
+        {
+          "term": "确认偏误",
+          "analysis": "倾向于转发支持其既有世界观的信息，如政府失职、精英腐败、传统媒体不可信等，强化而非挑战其预设立场。"
+        },
+        {
+          "term": "技术解决方案主义",
+          "analysis": "相信人工智能、太空技术等科技进步是解决社会问题（如寻求真相、金融交易）乃至推动人类进步的核心或唯一路径。"
+        },
+        {
+          "term": "阴谋论倾向",
+          "analysis": "对“信号门”捐赠名单、外国势力影响、审查工业复合体等议题表现出兴趣，容易接受或传播涉及隐秘权力运作的叙事。"
+        },
+        {
+          "term": "二元对立思维",
+          "analysis": "言论常将议题简化为“真理 vs 谎言”、“人民 vs 腐败精英”、“自由 vs 审查”的对立框架，缺乏对中间地带或复杂性的探讨。"
+        }
+      ]
+    },
+    {
+      "dimension": "4. 行为层面脆弱点",
+      "summary": "社交媒体依赖、争议卷入、信息过载和行动与言论的潜在脱节。",
+      "sub_items": [
+        {
+          "term": "社交媒体依赖",
+          "analysis": "主要通过转发和简短评论参与公共讨论，缺乏深度、系统的论述，易受平台算法和即时情绪影响，决策或立场可能显得碎片化。"
+        },
+        {
+          "term": "争议卷入",
+          "analysis": "主动转发高度政治化、煽动性内容（如政治暴力、边境冲突、对议员的指控），极易引发法律纠纷、公众抵制或政治报复。"
+        },
+        {
+          "term": "信息过载与筛选失效",
+          "analysis": "转发话题跨度极大（从AI、金融到社会犯罪、国际政治），可能缺乏对所有议题的深度核实，导致传播不实或片面信息。"
+        },
+        {
+          "term": "行动与言论脱节风险",
+          "analysis": "作为企业家，其商业利益（如在中国市场的运营）可能与其部分煽动性政治言论产生冲突，导致信誉受损或实际利益损失。"
+        }
+      ]
+    },
+    {
+      "dimension": "5. 立场层面脆弱点",
+      "summary": "反建制立场、自由主义倾向、技术至上论和民粹主义共鸣。",
+      "sub_items": [
+        {
+          "term": "激进反建制立场",
+          "analysis": "对现有政府机构、政治精英、主流媒体和大型非政府组织持深度不信任和批判态度，此立场可能使其与多数官方渠道和国际组织关系紧张。"
+        },
+        {
+          "term": "极端自由主义倾向",
+          "analysis": "强烈反对任何形式的言论审查和信息控制，支持绝对的信息透明和个体自由，这可能与注重社会稳定和主权的国家政策根本冲突。"
+        },
+        {
+          "term": "技术无国界幻想",
+          "analysis": "推崇技术（尤其是AI和太空技术）的全球普世价值，可能低估或忽视技术发展背后的地缘政治竞争和国家安全考量。"
+        },
+        {
+          "term": "民粹主义叙事共鸣",
+          "analysis": "言论常迎合“人民对抗腐败精英”的民粹叙事，这种立场虽能吸引特定群体，但也易被更极端的政治势力利用或绑架。"
+        }
+      ]
+    },
+    {
+      "dimension": "6. 能力层面脆弱点",
+      "summary": "政治判断力存疑、跨文化理解不足、风险管理失衡和公共沟通策略单一。",
+      "sub_items": [
+        {
+          "term": "政治判断力与敏感性不足",
+          "analysis": "转发涉及他国内政、敏感历史事件或指控外国领导人的内容时，显得草率，缺乏对复杂国际政治后果的充分评估。"
+        },
+        {
+          "term": "跨文化与社会理解局限",
+          "analysis": "倾向于用自身价值观和技术视角解读他国社会问题（如移民、治理模式），可能产生严重误判并引发文化冲突。"
+        },
+        {
+          "term": "商业与政治风险平衡能力",
+          "analysis": "其政治化言论持续为其商业帝国（如特斯拉、SpaceX的全球业务，尤其在中国）带来不可预测的政策和舆论风险。"
+        },
+        {
+          "term": "深度分析与沟通能力",
+          "analysis": "依赖转发和简短评论，缺乏对复杂议题的原创性、系统性长篇论述，其观点深度和说服力易受质疑。"
+        }
+      ]
+    },
+    {
+      "dimension": "7. 心智层面脆弱点",
+      "summary": "存在偏执倾向、道德优越感、现实扭曲风险和情感驱动决策。",
+      "sub_items": [
+        {
+          "term": "偏执与被害感",
+          "analysis": "对“审查工业复合体”、政府监控、精英勾结的持续关注，反映出一种认为自身或真理受到系统性压制的认知倾向。"
+        },
+        {
+          "term": "道德与智力优越感",
+          "analysis": "通过转发“揭露真相”、“对抗腐败”的内容，以及推广“更优越”的AI工具，隐隐构建出一种在道德和认知上高于常人或传统机构的自我形象。"
+        },
+        {
+          "term": "现实扭曲力场",
+          "analysis": "对自身技术愿景（如Grok、星舰）的极度乐观宣传，可能使其过度自信，忽视技术瓶颈、市场规律或社会接受度的现实约束。"
+        },
+        {
+          "term": "情绪与信念驱动",
+          "analysis": "对某些社会不公（如儿童性剥削）表现出强烈义愤，这种情绪可能压倒理性分析，导致其支持或传播未经充分验证的激进解决方案。"
+        }
+      ]
+    },
+    {
+      "dimension": "8. 隐藏意图",
+      "summary": "旨在构建替代权威、推广技术产品、重塑公共议程并积累政治资本。",
+      "sub_items": [
+        {
+          "term": "构建去中心化权威",
+          "analysis": "通过挑战传统信息源（政府、主流媒体）并推广自身平台（如Grok），意图建立以自身理念和技术为核心的新一代信息和信任中心。"
+        },
+        {
+          "term": "为旗下产品造势与引流",
+          "analysis": "频繁提及Grok AI在搜索、创意、金融等各领域的应用，核心意图之一是市场营销，为其商业产品吸引用户、投资和关注度。"
+        },
+        {
+          "term": "设定与主导公共议程",
+          "analysis": "通过选择性转发，将公众注意力引向其关心的议题（如审查、政治腐败、AI风险/机遇），试图削弱传统议程设置者的影响力。"
+        },
+        {
+          "term": "积累非传统政治资本",
+          "analysis": "通过扮演“体制外真相揭露者”和“技术创新救世主”的双重角色，积累巨大的民间声望和软实力，为未来可能更直接的政治或政策影响力铺路。"
+        }
+      ]
+    },
+    {
+      "dimension": "9. 领域话题",
+      "summary": "核心关注人工智能与科技、政治批判与自由、社会议题与安全、以及未来探索与商业。",
+      "sub_items": [
+        {
+          "term": "人工智能与前沿科技",
+          "analysis": "核心话题，极度关注AI（特别是Grok）的发展、应用（金融、创意、信息检索）及其对社会的影响，视其为改变游戏规则的力量。"
+        },
+        {
+          "term": "政治批判与言论自由",
+          "analysis": "持续抨击政府过度干预、政治腐败、精英勾结以及所谓的“审查工业复合体”，将言论自由和信息透明置于最高价值。"
+        },
+        {
+          "term": "社会安全与移民犯罪",
+          "analysis": "关注儿童性剥削、非法移民相关的犯罪问题，并以此作为批判现有政治体系和移民政策失效的例证，带有强烈的治安维护色彩。"
+        },
+        {
+          "term": "太空探索与未来愿景",
+          "analysis": "对SpaceX星舰进展、多行星生存等宏大未来议题保持兴趣和宣传，这是其技术乐观主义和“人类救赎”叙事的重要组成部分。"
+        },
+        {
+          "term": "金融科技与市场动态",
+          "analysis": "关注AI在金融交易中的应用潜力，显示出将技术优势转化为商业和金融市场影响力的明确意图。"
+        }
+      ]
+    }
+  ],
+  "stance_matrix": [
+    [
+      0,
+      0,
+      9
+    ],
+    [
+      1,
+      1,
+      4
+    ],
+    [
+      2,
+      2,
+      7
+    ],
+    [
+      0,
+      3,
+      8
+    ]
+  ],
+  "influence_type": [
+    {
+      "name": "权威",
+      "value": 70
+    },
+    {
+      "name": "同伴",
+      "value": 25
+    },
+    {
+      "name": "亲情",
+      "value": 5
+    }
+  ],
+  "all_tweets": [
+    {
+      "created_at": "Mon Jan 26 14:33:31 +0000 2026",
+      "text": "Try Grok",
+      "translation": "试试Grok",
+      "stance": "无关",
+      "metrics": {
+        "reply": 3690,
+        "retweet": 3107,
+        "like": 32710
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:33:03 +0000 2026",
+      "text": "RT @forwarddeploy: The grokipedia team is growing here - if you’re excited about truth, come join us",
+      "translation": "RT @forwarddeploy: Grokipedia团队正在这里壮大——如果你对真相感到兴奋，欢迎加入我们",
+      "stance": "无关",
+      "metrics": {
+        "reply": 97,
+        "retweet": 422,
+        "like": 1951
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:29:57 +0000 2026",
+      "text": "RT @StarbaseTX: An inside look at what's happening at Starbase",
+      "translation": "RT @StarbaseTX: 深入了解星舰基地正在发生的事情",
+      "stance": "无关",
+      "metrics": {
+        "reply": 122,
+        "retweet": 483,
+        "like": 3156
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:29:47 +0000 2026",
+      "text": "RT @claire_adams694: People often ask me why I speak publicly about grooming gangs and child sexual exploitation, and why I hold MPs to acc…",
+      "translation": "RT @claire_adams694: 人们经常问我为什么公开谈论诱拐团伙和儿童性剥削，以及为什么我要求议员们承担责任……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1165,
+        "retweet": 10362,
+        "like": 43498
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:27:57 +0000 2026",
+      "text": "RT @DataRepublican: 🚨💵 BREAKING: SIGNALGATE DONORS LIST AVAILABLE FOR DOWNLOAD; POLITICIANS + FOREIGN LEADERSHIP CONFIRMED?\n\nIn one of the…",
+      "translation": "RT @DataRepublican: 🚨💵 突发：SIGNALGATE捐赠者名单可供下载；政客+外国领导层确认？在其中一份……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 1971,
+        "retweet": 24794,
+        "like": 60355
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:24:42 +0000 2026",
+      "text": "RT @MrAndyNgo: People are rioting and trying to kill and maim federal officers and agents to keep foreign nationals like this man in the U.…",
+      "translation": "RT @MrAndyNgo: 人们正在骚乱并试图杀害和伤害联邦官员及特工，以让像这名男子这样的外国国民留在美国……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 387,
+        "retweet": 4387,
+        "like": 16224
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:24:23 +0000 2026",
+      "text": "RT @dvorahfr: I've been creating A  fashion show videos for a long time now. \nIt's a great way to see how this technology is evolving. Grok…",
+      "translation": "RT @dvorahfr: 我制作AI时装秀视频已经很久了。这是观察这项技术如何发展的好方法。Grok……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 202,
+        "retweet": 397,
+        "like": 1777
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:21:24 +0000 2026",
+      "text": "RT @EvaFox: Elon Musk's answer to the question of why he continues to work for the benefit of humanity, being such a rich man:   \n\n“Certain…",
+      "translation": "RT @EvaFox: 埃隆·马斯克对为什么他继续为人类利益工作，尽管如此富有这个问题的回答：“某些……”",
+      "stance": "无关",
+      "metrics": {
+        "reply": 529,
+        "retweet": 970,
+        "like": 4450
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:20:13 +0000 2026",
+      "text": "RT @TheRabbitHole: Political Violence is deemed necessary most often by people with graduate degrees. https://t.co/0U95qCVYYE",
+      "translation": "RT @TheRabbitHole: 政治暴力最常被拥有研究生学位的人认为是必要的。https://t.co/0U95qCVYYE",
+      "stance": "无关",
+      "metrics": {
+        "reply": 315,
+        "retweet": 632,
+        "like": 2638
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:19:58 +0000 2026",
+      "text": "RT @UnderSecPD: A central preoccupation of the “censorship-industrial complex” (NGOs + their govt principals) was the creation of a de fact…",
+      "translation": "RT @UnderSecPD: “审查工业复合体”（非政府组织+其政府委托人）的一个核心关注点是创建一个事实上的……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 95,
+        "retweet": 735,
+        "like": 2374
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 14:17:06 +0000 2026",
+      "text": "Interesting",
+      "translation": "有趣",
+      "stance": "无关",
+      "metrics": {
+        "reply": 2798,
+        "retweet": 12511,
+        "like": 68574
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 07:30:39 +0000 2026",
+      "text": "RT @HeavyMetalShip: Wait… Grok actually watches your videos now? 🤯\n\nRan an analysis on my post about MrBeast &amp; Starship heat shield tiles,…",
+      "translation": "RT @HeavyMetalShip: 等等……Grok现在真的会看你的视频了？🤯 对我关于MrBeast和星舰隔热瓦的帖子进行了分析……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 459,
+        "retweet": 733,
+        "like": 2867
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 06:59:48 +0000 2026",
+      "text": "True",
+      "translation": "真实",
+      "stance": "无关",
+      "metrics": {
+        "reply": 10113,
+        "retweet": 44606,
+        "like": 238103
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 06:42:45 +0000 2026",
+      "text": "RT @cb_doge: Back when Elon Musk still needed business cards. https://t.co/owRVwWWdwb",
+      "translation": "RT @cb_doge: 回到埃隆·马斯克还需要名片的时候。https://t.co/owRVdWWdwb",
+      "stance": "无关",
+      "metrics": {
+        "reply": 735,
+        "retweet": 1138,
+        "like": 9713
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 05:54:40 +0000 2026",
+      "text": "RT @teslaownersSV: **BREAKING AI TRADING UPDATE**  \n\nGrok 4 is crushing it in the real-world stock market simulation  \n\n📊 Since late Novemb…",
+      "translation": "RT @teslaownersSV: **突发AI交易更新** Grok 4在真实世界股市模拟中表现出色 📊 自11月下旬以来……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 373,
+        "retweet": 686,
+        "like": 2859
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 05:53:51 +0000 2026",
+      "text": "https://t.co/OQ94EbaYan",
+      "translation": "https://t.co/OQ94EbaYan",
+      "stance": "无关",
+      "metrics": {
+        "reply": 11112,
+        "retweet": 22700,
+        "like": 309323
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 05:51:44 +0000 2026",
+      "text": "RT @Z_XSophie: All forces converge.  \nThe city fades.  \nShe becomes the cosmos itself.  \n\nExperimenting with Grok Imagine ✨ https://t.co/2M…",
+      "translation": "RT @Z_XSophie: 所有力量汇聚。城市逐渐消失。她成为宇宙本身。正在用Grok Imagine进行实验 ✨ https://t.co/2M……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 241,
+        "retweet": 460,
+        "like": 1842
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 05:45:22 +0000 2026",
+      "text": "RT @Old_But_Gold50s: A beautiful peace of music 🎶 it evokes memories 🌸\n\n💝 𝐀 𝐜𝐨𝐦𝐦𝐞 𝐚𝐦𝐨𝐮𝐫 💝 https://t.co/tvRsm6Mwjd",
+      "translation": "RT @Old_But_Gold50s: 一首美妙的音乐🎶 它唤起了回忆🌸 💝 𝐀 𝐜𝐨𝐦𝐦𝐞 𝐚𝐦𝐨𝐮𝐫 💝 https://t.co/tvRsm6Mwjd",
+      "stance": "无关",
+      "metrics": {
+        "reply": 433,
+        "retweet": 1667,
+        "like": 7316
+      }
+    },
+    {
+      "created_at": "Mon Jan 26 05:43:31 +0000 2026",
+      "text": "RT @AveryDaye: If we had to witness even a fraction of the hundreds of thousands of tragedies committed against U.S. citizens by illegal mi…",
+      "translation": "RT @AveryDaye: 如果我们不得不目睹非法移民对美国公民犯下的数十万悲剧中的哪怕一小部分……",
+      "stance": "无关",
+      "metrics": {
+        "reply": 817,
+        "retweet": 2607,
+        "like": 11624
+      }
+    },
+    {
+      "created_at": "Fri Jan 23 07:18:09 +0000 2026",
+      "text": "Davos discussion",
+      "translation": "达沃斯讨论",
+      "stance": "无关",
+      "metrics": {
+        "reply": 9520,
+        "retweet": 12530,
+        "like": 51375
+      }
+    }
+  ]
+}
