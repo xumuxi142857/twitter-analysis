@@ -3,15 +3,23 @@ import os
 import re
 import requests
 import hashlib
+import sys  # <--- 必须导入这个
 from datetime import datetime
 
 # ================= 配置区域 =================
-# 📅 指定日期
-TARGET_DATE = "2026-01-29"
+# 📅 动态获取日期
+# 逻辑：如果有命令行参数 (python account.py 2026-02-03)，就用参数；否则用默认值。
+if len(sys.argv) > 1:
+    TARGET_DATE = sys.argv[1]
+else:
+    TARGET_DATE = "2025-12-28" # 默认备份日期
 
+# API 配置 (保持不变)
 API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
 MODEL_NAME = "Pro/zai-org/GLM-4.7" 
+
+# ... 下面的代码保持完全一致 ...
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE_DIR, 'database', 'raw')

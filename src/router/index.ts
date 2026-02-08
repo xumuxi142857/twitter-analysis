@@ -4,6 +4,8 @@ import TopicAnalysis from '@/views/TopicAnalysis/index.vue'
 import AccountRec from '@/views/AccountRec/index.vue'
 import TweetGuide from '@/views/TweetGuide/index.vue'
 import TargetDetect from '@/views/TargetDetect/index.vue'
+import DataManage from '@/views/DataManage/index.vue'
+import DataUpload from '@/views/DataUpload/index.vue'
 // 引入登录页
 import Login from '@/views/Login/index.vue'
 
@@ -25,7 +27,9 @@ const router = createRouter({
         { path: 'topic', component: TopicAnalysis },
         { path: 'account', component: AccountRec },
         { path: 'guide', component: TweetGuide },
-        { path: 'detect', component: TargetDetect }
+        { path: 'detect', component: TargetDetect },
+        { path: 'data', component: DataManage },
+        { path: 'upload', component: DataUpload }
       ]
     }
   ]

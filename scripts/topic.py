@@ -12,12 +12,12 @@ from datetime import datetime
 if len(sys.argv) > 1:
     TARGET_DATE = sys.argv[1]
 else:
-    TARGET_DATE = "2026-01-31"
+    TARGET_DATE = "2025-12-23"
 
 # ⚠️ 1. 批处理大小：保持 15-20
 BATCH_SIZE = 20
 # ⚠️ 2. 最大限制：想要更多数据，请把这里设大 (例如 800) 或者设为 0 (不限制，跑完为止)
-MAX_PROCESS_LIMIT = 500
+MAX_PROCESS_LIMIT = 20
 
 # API 配置 (你现在的 SiliconFlow 配置)
 API_KEY = "sk-mwphmyljrynungesqkaqnbimwghczzpniulmdgepgswhjrco" 
