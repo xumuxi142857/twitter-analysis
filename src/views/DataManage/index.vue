@@ -53,13 +53,25 @@
         <div class="lh-left">
           <span>>_ 终端输出: {{ getCurrentScriptName() }}</span>
           <span v-if="currentStatus === 'running'" class="status-badge running">RUNNING</span>
+          <span v-else-if="currentStatus === 'terminated'" class="status-badge error">TERMINATED</span>
           <span v-else-if="currentStatus === 'success'" class="status-badge success">SUCCESS</span>
           <span v-else-if="currentStatus === 'error'" class="status-badge error">ERROR</span>
         </div>
-        <div>
-           <el-button link type="danger" @click="stopPolling">关闭监控</el-button>
+        <div class="lh-right">
+           <el-button 
+             v-if="currentStatus === 'running'" 
+             type="danger" 
+             size="small" 
+             plain 
+             @click="terminateTask"
+           >
+             🛑 强制终止
+           </el-button>
+
+           <el-button link type="info" @click="stopPolling(true)">关闭监控</el-button>
         </div>
       </div>
+      
       <div class="log-content-wrapper" ref="logContainer">
         <pre class="log-content">{{ currentLogs }}</pre>
         <div v-if="currentStatus === 'running'" class="typing-cursor">_</div>
@@ -145,7 +157,16 @@ const startTask = async (type: string) => {
     clearInterval(timerInterval);
   }
 };
-
+// 新增：强制终止任务
+const terminateTask = async () => {
+  try {
+    await axios.post('/api/stop_task', { task_id: currentTaskId.value });
+    ElMessage.warning('正在尝试终止后台进程...');
+    // 不用手动设为 false，等下一次轮询时，后端状态变成 terminated，前端会自动更新 UI
+  } catch (error) {
+    ElMessage.error('终止失败');
+  }
+};
 // 2. 轮询状态（获取终端日志）
 const startPolling = (taskItem: any) => {
   if (pollingInterval) clearInterval(pollingInterval);
@@ -156,28 +177,23 @@ const startPolling = (taskItem: any) => {
       const data = res.data;
 
       currentStatus.value = data.status;
-      // 后端只要用 print() 输出的内容，都会显示在这里
-      currentLogs.value = data.logs; 
+      currentLogs.value = data.logs;
 
-      // 自动滚动到底部
       nextTick(() => {
-        if (logContainer.value) {
-          logContainer.value.scrollTop = logContainer.value.scrollHeight;
-        }
+        if (logContainer.value) logContainer.value.scrollTop = logContainer.value.scrollHeight;
       });
 
-      // 判断结束
-      if (data.status === 'success' || data.status === 'error') {
-        stopPolling(false); // 停止轮询，但不清空日志，方便查看结果
+      // 判断结束 (增加了 'terminated')
+      if (['success', 'error', 'terminated'].includes(data.status)) {
+        stopPolling(false); 
         taskItem.running = false;
         
         if (data.status === 'success') ElMessage.success('执行完成！');
-        else ElMessage.error('执行出错，请检查下方日志');
+        else if (data.status === 'terminated') ElMessage.warning('任务已手动终止');
+        else ElMessage.error('执行出错');
       }
 
-    } catch (e) {
-      console.error('日志获取失败', e);
-    }
+    } catch (e) { console.error(e); }
   }, 2000);
 };
 

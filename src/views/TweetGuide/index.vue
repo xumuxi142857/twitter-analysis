@@ -188,7 +188,17 @@ import { MagicStick, EditPen, Stamp, ChatDotRound, Coffee, Share, Star, Postcard
 
 // --- 数据定义 ---
 const activeTab = ref('US');
-const selectedDate = ref<string>('2026-01-29');
+const getYesterdayDate = () => {
+  const yesterday = new Date();
+  yesterday.setDate(yesterday.getDate() - 1);
+  
+  const year = yesterday.getFullYear();
+  const month = String(yesterday.getMonth() + 1).padStart(2, '0');
+  const day = String(yesterday.getDate()).padStart(2, '0');
+  
+  return `${year}-${month}-${day}`;
+};
+const selectedDate = ref<string>(getYesterdayDate());
 const loading = ref(false);
 const hasData = ref(true);
 
