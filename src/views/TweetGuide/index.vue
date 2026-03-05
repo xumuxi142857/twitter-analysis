@@ -12,6 +12,7 @@
           placeholder="选择日期"
           value-format="YYYY-MM-DD"
           :clearable="false"
+          :disabled-date="disabledDate"
           @change="fetchData"
           size="default"
         />
@@ -197,6 +198,12 @@ const getYesterdayDate = () => {
   const day = String(yesterday.getDate()).padStart(2, '0');
   
   return `${year}-${month}-${day}`;
+};
+
+const disabledDate = (time: Date) => {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0); // 把今天的时间重置到零点
+  return time.getTime() >= today.getTime();
 };
 const selectedDate = ref<string>(getYesterdayDate());
 const loading = ref(false);

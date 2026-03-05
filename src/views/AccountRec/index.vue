@@ -218,7 +218,15 @@ const currentData = computed(() => {
   return regionDataStore.value[activeTab.value] || { region: 'Unknown', top_users: [] };
 });
 
-const disabledDate = (time: Date) => time.getTime() > Date.now();
+// 修改后：禁用“今天”以及“今天之后”的所有日期
+const disabledDate = (time: Date) => {
+  // 获取今天的 00:00:00
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  
+  // 如果日历上的时间大于或等于今天的 00:00:00，就禁用
+  return time.getTime() >= today.getTime();
+};
 
 const getStanceColor = (s: string) => {
   if (s === 'positive') return 'success';

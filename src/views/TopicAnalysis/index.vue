@@ -15,7 +15,7 @@
       </div>
       <div class="right-controls">
          <span class="label">日期:</span>
-         <el-date-picker v-model="selectedDate" type="date" value-format="YYYY-MM-DD" :clearable="false" @change="fetchData" />
+         <el-date-picker v-model="selectedDate" type="date" value-format="YYYY-MM-DD" :clearable="false"  :disabled-date="disabledDate" @change="fetchData" />
       </div>
     </div>
 
@@ -147,6 +147,13 @@ const getYesterdayDate = () => {
   
   return `${year}-${month}-${day}`;
 };
+// 👇 新增这一段禁用今天及以后日期的逻辑 👇
+const disabledDate = (time: Date) => {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0); // 把今天的时间重置到零点
+  return time.getTime() >= today.getTime();
+};
+
 const selectedDate = ref<string>(getYesterdayDate());
 const loading = ref(false);
 const hasData = ref(false);
