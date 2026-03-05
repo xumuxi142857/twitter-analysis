@@ -158,6 +158,51 @@ def get_task_status(task_id):
         return jsonify({"error": "Task not found"}), 404
     return jsonify(task)
 
+# ================= 功能 D: 智能体动态推文生成 (单话题聚焦) =================
+@app.route('/api/generate_agent_tweet', methods=['POST'])
+def generate_agent_tweet():
+    data = request.json
+    domain_name = data.get('domains', '')
+    topic_title = data.get('topic_title', '')
+    topic_summary = data.get('topic_summary', '')
+
+    prompt = f"""
+    你是一名具有极高国际视野、代表中国立场的资深时政评论员。
+    
+    当前你关注的跨界领域是：【{domain_name}】
+    你现在的任务是针对以下这个【具体的单一舆情焦点】进行精准打击或深度评论：
+    
+    📌 焦点标题：{topic_title}
+    📝 深度分析：{topic_summary}
+    
+    【写作要求】
+    1. 针对上述单一话题，撰写一条在 Twitter 上发布的犀利推文。
+    2. 绝不要空泛的总结！要一针见血、带有高级的讽刺意味，或者引发西方民众深刻反思的平视视角。
+    3. 语言地道，符合 Twitter 用户的阅读习惯（可带少量流行标签）。
+    
+    请输出纯 JSON 格式：
+    {{
+        "en": "English tweet text here...",
+        "zh": "中文深度解析（解释这条推文的战术打法、切入点和你想达到的引导意图）..."
+    }}
+    """
+
+    try:
+        response = requests.post(API_URL, json={
+            "model": MODEL_NAME,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.8, # 温度稍微调高，让推文更有创造力和锋芒
+            "response_format": {"type": "json_object"}
+        }, headers={"Authorization": f"Bearer {API_KEY}"}, timeout=60)
+
+        if response.status_code == 200:
+            content = response.json()['choices'][0]['message']['content']
+            content = content.replace('```json', '').replace('```', '').strip()
+            return jsonify(json.loads(content))
+        else:
+            return jsonify({"error": "LLM API Error"}), 500
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     # 监听所有IP的 5000 端口

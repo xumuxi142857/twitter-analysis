@@ -101,7 +101,8 @@ let pollingInterval: any = null;
 const taskList = reactive([
   { type: 'topic', name: '🔥 话题分析', script: 'topic.py', desc: '聚类分析、热词提取、立场统计', running: false },
   { type: 'target', name: '🎯 目标监测', script: 'detect.py', desc: '监测特定敏感目标的最新动态', running: false },
-  { type: 'account', name: '👥 账号推荐', script: 'account.py', desc: '生成重点人物画像报告', running: false }
+  { type: 'account', name: '👥 账号推荐', script: 'account.py', desc: '生成重点人物画像报告', running: false },
+  { type: 'agent', name: '🤖 智能体', script: 'agent_task.py', desc: '基于 Agent 的自动化任务执行', running: false }
 ]);
 
 // 获取当前运行的脚本名称（用于显示在终端标题）
