@@ -109,7 +109,12 @@ const updateChart = () => {
         show: true,
         color: 'inherit', // 自动适配颜色
         fontSize: 14,
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        // 👇 核心修改点：加入 formatter 格式化显示逻辑
+        formatter: function (params: any) {
+          // params.data[2] 就是该格子的强度值，如果是 0 就返回空字符串（隐藏），否则正常返回数字
+          return params.data[2] === 0 ? '' : params.data[2];
+        }
       },
       itemStyle: {
         borderRadius: 6, // 圆角稍微调小一点，显得更稳重

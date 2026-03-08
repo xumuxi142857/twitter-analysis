@@ -33,6 +33,11 @@
             <el-icon><Aim /></el-icon>
             <span>目标监测</span>
           </el-menu-item>
+
+          <el-menu-item index="/agent">
+            <el-icon><DataAnalysis /></el-icon>
+            <span>智能体</span>
+          </el-menu-item>
         </el-menu>
       </el-aside>
 
@@ -98,7 +103,8 @@ const currentRouteName = computed(() => {
     '/topic': '话题分析',
     '/account': '账号推荐',
     '/guide': '推文引导',
-    '/detect': '目标监测'
+    '/detect': '目标监测',
+    '/agent': '智能体'
   };
   // 简单匹配，如果路径包含key则返回
   for (const key in map) {

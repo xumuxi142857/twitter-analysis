@@ -208,7 +208,15 @@ const getYesterdayDate = () => {
   
   return `${year}-${month}-${day}`;
 };
-const selectedDate = ref<string>(getYesterdayDate());
+const getTodayDate = () => {
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const day = String(today.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
+const selectedDate = ref<string>(getTodayDate());
 const loading = ref(false);
 const hasData = ref(true);
 const selectedUser = ref<UserProfile | null>(null);
@@ -225,7 +233,7 @@ const disabledDate = (time: Date) => {
   today.setHours(0, 0, 0, 0);
   
   // 如果日历上的时间大于或等于今天的 00:00:00，就禁用
-  return time.getTime() >= today.getTime();
+  return time.getTime() > today.getTime();
 };
 
 const getStanceColor = (s: string) => {

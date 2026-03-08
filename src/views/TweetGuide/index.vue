@@ -200,12 +200,20 @@ const getYesterdayDate = () => {
   return `${year}-${month}-${day}`;
 };
 
+const getTodayDate = () => {
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const day = String(today.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
 const disabledDate = (time: Date) => {
   const today = new Date();
   today.setHours(0, 0, 0, 0); // 把今天的时间重置到零点
-  return time.getTime() >= today.getTime();
+  return time.getTime() > today.getTime();
 };
-const selectedDate = ref<string>(getYesterdayDate());
+const selectedDate = ref<string>(getTodayDate());
 const loading = ref(false);
 const hasData = ref(true);
 
